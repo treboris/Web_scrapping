@@ -11,9 +11,6 @@ ycom_web_page = conn.text
 
 
 
-
-
-
 soup = BeautifulSoup(ycom_web_page,"html.parser")
 pretty = soup.prettify()
 
