@@ -7,4 +7,5 @@ read asd
 
 git add .
 git commit -m "$asd"
-git status
+git push -u origin master
+treboris
