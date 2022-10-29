@@ -24,7 +24,7 @@ class Scrapping:
         self.url = url
 
         #Alapbol meghivom inicializalaskor
-        self.conn()
+        #self.conn()
 
 
 
@@ -47,6 +47,8 @@ class Scrapping:
         #WEBPAGE TO TXT
         soup  = BeautifulSoup(browser.page_source, "html.parser")
         pretty = soup.prettify()
+
+
 
 
         #export to html
