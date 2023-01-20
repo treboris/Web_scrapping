@@ -1,0 +1,11 @@
+
+
+
+
+              How to Handle Large Datasets in Python
+
+https://towardsdatascience.com/how-to-handle-large-datasets-in-python-1f077a7e7ecf
+
+
+-A CSV fájlformátum hosszú időt vesz igénybe a nagy adathalmazok írásához és olvasásához, és nem emlékszik az adattípusokra, hacsak nem mondják meg kifejezetten.
+-Nekem viszont viszont nincs is szuksegem a tipusra csak stringel dolgozom (egyenlore).
