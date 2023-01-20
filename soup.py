@@ -1,7 +1,14 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.common.keys import Keys
+
+
 from bs4 import BeautifulSoup
 import requests
 
 
+url = (f"https://www.profession.hu/allasok/budapest/1,10_25,23,0,69_70_72_73_75_76_77_78_79_80_200_201_202_338_363_365_393")
 
 
 
@@ -31,16 +38,42 @@ search_results_numbers = search_results.text.split()
 print(f"Talalatok: {search_results_numbers[0]}")
 
 #TITLES
+browser = webdriver.Firefox()
+url = "https://www.profession.hu/"
+browser.get(url)
+title_1 = browser.find_element(By.XPATH,"//*[@id='jobs_headline2_title_highlight-2022138']/a")
+print(title_1.getText)
 
-titles = conn(1).find_all("a")
-for tit in titles:
-    print(tit.text.strip())
+
+browser.close()
+
+
+
+
+
+
+
+
+titles = conn(1).find_all("a",class_="job-card__title ga-enchanced-event-click")
+if titles:
+    for tit in titles:
+        print(tit.text.strip())
+else:
+    print("Not found titles.")
 #print(f"Title: {titles.text.strip()}")
+
+
+
+
 
 #ORGANIZATION
 org = conn(1).find("a" , class_="link-icon")
 print(f"Org: {org.text.strip()}")
 #TAGS
+
+
+
+
 
 #UPLOAD-DATE
 upload_date = conn(1).find("div",class_="job-card__date date")
