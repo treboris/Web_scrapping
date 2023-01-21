@@ -23,14 +23,14 @@ driver = webdriver.Firefox(options = options)
 ####################################PROFESSION#####################################
 #CSAK A HIRDETES CIMET AZ ALCIMKEKET ES A CEG NEVET HELYSZINT SCRAPPELI
 
+
+#feltoltes kerdeses
+upload_date = []
+
 corp = []
 main = []
-labels = []
 location = []
 salary = []
-
-
-
 
 
 
@@ -71,17 +71,17 @@ while i < 10 :
             splitted.remove('Reagujte')
             splitted.remove('bez')
             splitted.remove('životopisu')
-        if(splitted[-1] == '3'):
-            splitted.pop(-1)
-
-        print(splitted)
-
-
-
+        if('Ponuka' in splitted):
+            splitted.remove('Ponuka')
+            splitted.remove('onedlho')
+            splitted.remove('končí!')
+        if(splitted[-1] == 'з'):
+            splitted.remove('з')
+        salary.append(" ".join(splitted))
 
     i += 1
 driver.quit()
-
+print(salary )
 
 
 
