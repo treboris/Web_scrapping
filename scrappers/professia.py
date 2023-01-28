@@ -4,6 +4,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 from datetime import date
+from csv import writer
 import pandas as pd
 import time
 import requests
@@ -46,15 +47,15 @@ while i < 10 :
 
     main_tag = soup.find_all('span' ,class_='title')
     for m in main_tag:
-        main.append(main_tag)
+        main.append(m.text)
 
     employer_tag = soup.find_all('span' , class_='employer')
     for emp in employer_tag:
-            corp.append(emp)
+            corp.append(emp.text)
 
     location_tag= soup.find_all('span', class_='job-location')
     for loc in location_tag:
-        location.append(loc)
+        location.append(loc.text)
 
     salary_tag = soup.find_all('span' , class_='label-group')
     for sal in salary_tag:
@@ -80,8 +81,20 @@ while i < 10 :
         salary.append(" ".join(splitted))
 
     i += 1
+
 driver.quit()
-print(salary )
+
+
+
+
+
+data_dict = {"Corporation" : corp ,"Main" : main , "Location" : location , "Salary" : salary }
+data_frame = pd.DataFrame(data_dict)
+data_frame.to_csv('jobline_data.csv', sep=',', encoding='utf-8',index = False)
+
+
+
+
 
 
 

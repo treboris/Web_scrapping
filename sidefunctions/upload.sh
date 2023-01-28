@@ -6,6 +6,8 @@ clear
 printf "Commit messege: "
 read message
 
+$pass
+
 
 git add .
 git commit -m "$message"

@@ -56,3 +56,27 @@ Cv online
 Scrapping was Successful.
 Date: 2023-01-20
 Execution time: 74.07578778266907
+Cv online
+Scrapping was Successful.
+Date: 2023-01-28
+Execution time: 67.74496984481812
+Cv online
+Scrapping was Successful.
+Date: 2023-01-28
+Execution time: 68.30566358566284
+Cv online
+Scrapping was Successful.
+Date: 2023-01-28
+Execution time: 54.05595326423645
+Cv online
+Scrapping was Successful.
+Date: 2023-01-28
+Execution time: 94.2895998954773
+Cv online
+Scrapping was Successful.
+Date: 2023-01-28
+Execution time: 65.48969960212708
+Cv online
+Scrapping was Successful.
+Date: 2023-01-28
+Execution time: 74.99143123626709

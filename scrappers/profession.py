@@ -44,16 +44,17 @@ print(f"Jobs: {string_split[0]}")
 print(f"Pages to scrap: {max_page_number}")
 
 i = 0
-while i < max_page_number:
-    url = (f"https://www.profession.hu/allasok/it-programozas-fejlesztes/{i},10,0,0,200_201_393_448_75_76_202_363_450_80_449")
+while i < 3:
+    url = (f"https://www.profession.hu/allasok/it-programozas-fejlesztes/i,10,0,0,200_201_393_448_75_76_202_363_450_80_449")
     driver.get(url)
     html = driver.page_source
 
     soup = BeautifulSoup(html,"html.parser")
 
-    main_tag = soup.find_all('a' class_"title")
+    main_tag = soup.find_all('div' ,class_="card-body-header-company")
     for main in main_tag:
-        print(main.text)
+        splitted = (main.text).split()
+        print(splitted)
 
 
 
