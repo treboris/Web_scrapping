@@ -3,20 +3,11 @@ import time
 
 
 
-start_time = time.time()
+corp = ["asdasd", "asdasssd", "peter"]
+main = ["544654","12331321"]
 
+data_dict = {"Corporation" : corp ,"Main" : main}
+data_frame = pd.DataFrame(data_dict)
 
-
-class save_data:
-
-    def __init__(self,name):
-        self.name = name
-
-
-
-
-
-
-
-    def get_exc_time():
-        print("--- %s seconds ---" % (time.time() - start_time))
+print(type(data_frame))
+#data_frame.to_csv('jobline_data.csv', sep=',', encoding='utf-8',index = False)

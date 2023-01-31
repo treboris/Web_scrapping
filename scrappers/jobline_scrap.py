@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 import requests
+from Data import Save
 
 print("Script STARTED")
 start_time = time.time()
@@ -70,9 +71,11 @@ driver.quit()
 
 #DATA-SAVE
 
-data_dict = {"Corporation" : corp ,"Main" : main , "Labels" : labels }
-data_frame = pd.DataFrame(data_dict)
-data_frame.to_csv('jobline_data.csv', sep=',', encoding='utf-8',index = False)
+newclass = Save(f'Jobline' , ("Corporation" , corp) , ("Main" , main) , ("Labels" , labels))
+print(newclass.filename)
+
+
+
 
 ################################################################################
 

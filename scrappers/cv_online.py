@@ -95,13 +95,8 @@ driver.quit()
 #LOG
 
 #DATA-SAVE
-print(labels)
-print(upload_date[1])
-print(corp[1])
-print(main[1])
-print(location[1])
 
-
+def data_save():
 
 
 
