@@ -9,7 +9,9 @@ import pandas as pd
 import time
 import requests
 
-print("Script STARTED")
+from Data import Save
+
+print("PROFESSIA-scrapper STARTED")
 start_time = time.time()
 
 
@@ -84,16 +86,11 @@ while i < 10 :
 
 driver.quit()
 
+print(len(corp))
+print(len(salary))
 
-print(corp[-1])
-print(main[-1])
-print(location[-1])
-print(salary[-1])
-data_dict = {"Corporation" : corp ,"Main" : main , "Location" : location , "Salary" : salary }
-data_frame = pd.DataFrame(data_dict)
 
-data_frame.to_csv('/data/professia_data.csv', sep=',', encoding='utf-8',index = False)
-
+save_data = Save(f'Professia' , ("Corporation" , corp) , ("Main" , main) , ("Location" , location))
 
 
 

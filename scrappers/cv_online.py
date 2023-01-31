@@ -4,11 +4,12 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 from datetime import date
+from Data import Save
 import pandas as pd
 import time
 import requests
 
-print("Script STARTED")
+print("CVONLINE-scrapper STARTED")
 start_time = time.time()
 
 
@@ -91,20 +92,11 @@ while i < max_page_number:
 
     i += 1
 driver.quit()
-################################################################################
-#LOG
-
-#DATA-SAVE
-
-def data_save():
 
 
+save_data = Save(f'Cvonline' , ("Corporation" , corp) , ("Main" , main) ,("Labels" , labels), ("Location" , location) , ("Upload" , upload_date))
 
-log_file = open("scrapLOG.txt", "a" )
-log_file.write(f"Cv online")
-log_file.write(f"\nScrapping was Successful.\nDate: {date.today()}")
-log_file.write(f"\nExecution time: {time.time() - start_time}\n")
-log_file.close()
+
 
 
 

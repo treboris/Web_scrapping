@@ -8,7 +8,7 @@ import time
 import requests
 from Data import Save
 
-print("Script STARTED")
+print("JOBLINE-scrapper STARTED")
 start_time = time.time()
 
 #BF-EL CSAK A DOM VEGET JELENITI MEG szoval marad a SELENIUM
@@ -71,8 +71,7 @@ driver.quit()
 
 #DATA-SAVE
 
-newclass = Save(f'Jobline' , ("Corporation" , corp) , ("Main" , main) , ("Labels" , labels))
-print(newclass.filename)
+save_data = Save(f'Jobline' , ("Corporation" , corp) , ("Main" , main) , ("Labels" , labels))
 
 
 
