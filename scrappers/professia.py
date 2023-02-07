@@ -8,7 +8,6 @@ from csv import writer
 import pandas as pd
 import time
 import requests
-
 from Data import Save
 
 print("PROFESSIA-scrapper STARTED")
@@ -33,9 +32,9 @@ upload_date = []
 corp = []
 main = []
 location = []
+
+#csak 195-ot talalt mert van ahol nincs kiirva
 salary = []
-
-
 
 
 
@@ -86,16 +85,10 @@ while i < 10 :
 
 driver.quit()
 
-print(len(corp))
-print(len(salary))
+
 
 
 save_data = Save(f'Professia' , ("Corporation" , corp) , ("Main" , main) , ("Location" , location))
-
-
-
-
-
 
 
 

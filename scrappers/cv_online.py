@@ -29,7 +29,8 @@ driver = webdriver.Firefox(options = options)
 upload_date = []
 corp = []
 main = []
-labels = []
+labels_list = []
+#nemjo mert kevesebb tallat van valamiert
 location = []
 
 
@@ -80,11 +81,14 @@ while i < max_page_number:
         corp.append(corp_text)
 
     for labels in labels_tag:
+        tmp = []
         lab = (labels.text).split()
         for la in lab:
-            if(la == '/') or (la == '|'):
-                lab.remove(la)
-        #labels.append(lab)
+            if(la != '/'):
+                tmp.append(la)
+            if(la != '|'):
+                tmp.append(la)
+        labels_list.append(tmp)
 
     for l in location_tag:
         l_ = l.text.replace("\n","")
@@ -92,9 +96,16 @@ while i < max_page_number:
 
     i += 1
 driver.quit()
+print(labels_list)
+print(len(upload_date))
+print(len(corp))
+print(len(main))
+print(len(labels_list))
+print(len(location))
+print(location)
 
 
-save_data = Save(f'Cvonline' , ("Corporation" , corp) , ("Main" , main) ,("Labels" , labels), ("Location" , location) , ("Upload" , upload_date))
+save_data = Save(f'Cvonline' , ("Corporation" , corp) , ("Main" , main) ,("Labels" , labels))
 
 
 
