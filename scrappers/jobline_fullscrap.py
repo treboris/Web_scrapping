@@ -12,7 +12,7 @@ import os
 
 
 print("JOBLINE-scrapper STARTED")
-
+text = ""
 date = datetime.today().strftime('%Y-%m-%d')
 url = (f"https://jobline.hu/allas/szoftver_fejleszto/LA-4148#adtype=dirOA")
 number = 1
@@ -28,14 +28,22 @@ html = driver.page_source
 
 page = requests.get(url)
 soup = BeautifulSoup(html,"html.parser")
-
+driver.quit()
 full_page = soup.body
 
-try:
-    exists = os.path.exists(f"jobline_job_{number}_{date}.txt")
-    print(exists)
-    with open(f"txt/jobline_job_{number}_{date}.txt", "w") as file:
-        file.write(full_page.text.strip('\t\r\n'))
+exists = os.path.exists(f"txt/jobline_job_{number}_{date}.txt")
 
-except Exception as e:
-    raise FileExistsError("File already exists.")
+if exists:
+    print("File has already exists.")
+else:
+    with open(f"txt/temp.txt" , "w") as f: #read&write
+        f.write(full_page.text)
+        f.close()
+    with open(f"txt/temp.txt" , "r") as f:
+        for line in f:
+            if(line.strip()):
+                text += line
+    with open(f"txt/jobline_job_{number}_{date}.txt" , "w") as fil:
+        fil.write(text)
+
+os.remove("txt/temp.txt")

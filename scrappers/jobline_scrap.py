@@ -35,7 +35,7 @@ print(f"Pages to scrap: {max_page_number}")
 
 
 nov = 1
-while nov < max_page_number:
+while nov < 2:
     url = (f"https://jobline.hu/allasok/it_telekommunikacio-teljes_munkaido?p={nov}")
     driver.get(url)
 
@@ -48,6 +48,15 @@ while nov < max_page_number:
 
     #AZERT KELL KIVENNI A SORTORESEKET MERT A KOMPLETT DIV-ET KEREM LE, MERT NEM MINDEN KULON TAG-NAK VAN CLASS ATTRIBUTUMA
     #ES NEHOL MIKOR VISSZAKEREM A .TEXT AKKOR A BF4 AZ EGESSZET ADJA VISSZA A TOBBI TAGGEL EGYUTT,
+
+
+
+
+    for div in soup.find_all('div' , class_='list-main'):
+        for link in div.find_all('article', class_='m-job_item no-flex'):
+            for a in link.find_all('a' , class_='l-cta_button open job-material-click'):
+                print(a.get('href'))
+
 
     for x in soup.find_all('div',class_="job-labels"):
         splitted = x.text.split('\n')
@@ -67,13 +76,12 @@ while nov < max_page_number:
         main.append(m_)
 
     nov += 1
-driver.quit()
 
 #DATA-SAVE
 
 save_data = Save(f'Jobline' , ("Corporation" , corp) , ("Main" , main) , ("Labels" , labels))
 
-
+driver.close()
 
 
 ################################################################################
