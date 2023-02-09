@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
+from datetime import datetime
 import pandas as pd
 import time
 import requests
@@ -16,12 +17,11 @@ options = Options()
 options.headless = True
 
 driver = webdriver.Firefox(options=options)
+date = datetime.today().strftime('%Y-%m-%d')
 
-####################################JOBLINE#####################################
-#CSAK A HIRDETES CIMET AZ ALCIMKEKET ES A CEG NEVET HELYSZINT SCRAPPELI
-corp = []
-main = []
-labels = []
+
+
+
 
 #PAGE COUNTER
 url = (f"https://jobline.hu/allasok/it_telekommunikacio-teljes_munkaido?p=1")
@@ -33,57 +33,50 @@ max_page_number = round(int(string_split[0])/20)
 print(f"Jobs: {string_split[0]}")
 print(f"Pages to scrap: {max_page_number}")
 
+main = []
+href = []
+corp = []
+location = []
+
 
 nov = 1
-while nov < 2:
+while nov < 5:
     url = (f"https://jobline.hu/allasok/it_telekommunikacio-teljes_munkaido?p={nov}")
     driver.get(url)
 
     html = driver.page_source
-
     soup = BeautifulSoup(html,"html.parser")
+
     main_tag = soup.find_all('div',class_='job-main')
     corp_tag = soup.find_all('div',class_='job-info')
-    #labels_tag = soup.find_all('div',class_='job-labels')
 
-    #AZERT KELL KIVENNI A SORTORESEKET MERT A KOMPLETT DIV-ET KEREM LE, MERT NEM MINDEN KULON TAG-NAK VAN CLASS ATTRIBUTUMA
-    #ES NEHOL MIKOR VISSZAKEREM A .TEXT AKKOR A BF4 AZ EGESSZET ADJA VISSZA A TOBBI TAGGEL EGYUTT,
+    for m in main_tag:
+        m_ = m.text.replace("\n","")
+        m_list = m_.split()
+        loc = m.text.split()
+        del m_list[-1]
+        m_text = " ".join(m_list)
+        location.append((loc[-1].replace("(","")).replace(")",""))
+        main.append(m_text)
 
-
-
-
-    for div in soup.find_all('div' , class_='list-main'):
-        for link in div.find_all('article', class_='m-job_item no-flex'):
-            for a in link.find_all('a' , class_='l-cta_button open job-material-click'):
-                print(a.get('href'))
-
-
-    for x in soup.find_all('div',class_="job-labels"):
-        splitted = x.text.split('\n')
-        for s in splitted:
-            if (s == ''):
-                splitted.remove(s)
-                joined = ';'.join(splitted)
-        labels.append(joined)
-        #splitted.clear()
 
     for c in corp_tag:
         c_ = c.text.replace("\n","")
         corp.append(c_)
 
-    for m in main_tag:
-        m_ = m.text.replace("\n","")
-        main.append(m_)
+    for div in soup.find_all('div' , class_='center'):
+        if(nov < 2):
+            for link in div.find_all('article', class_='m-job_item no-flex top5'):
+                for a in link.find_all('a' , class_='l-cta_button open job-material-click'):
+                    href.append(a.get('href'))
+        for link in div.find_all('article', class_='m-job_item no-flex'):
+            for a in link.find_all('a' , class_='l-cta_button open job-material-click'):
+                href.append(a.get('href'))
 
-    nov += 1
-
-#DATA-SAVE
-
-save_data = Save(f'Jobline' , ("Corporation" , corp) , ("Main" , main) , ("Labels" , labels))
-
+    nov +=1
 driver.close()
+save_data = Save(f'jobline' , ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href))
 
 
-################################################################################
 
 print("--- %s seconds ---" % (time.time() - start_time))

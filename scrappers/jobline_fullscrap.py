@@ -14,7 +14,7 @@ import os
 print("JOBLINE-scrapper STARTED")
 text = ""
 date = datetime.today().strftime('%Y-%m-%d')
-url = (f"https://jobline.hu/allas/szoftver_fejleszto/LA-4148#adtype=dirOA")
+url = (f"https://jobline.hu/allas/szoftver_tamogato/SV-8474#adtype=indOA")
 number = 1
 
 
