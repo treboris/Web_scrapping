@@ -12080,3 +12080,225 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Pha
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1675976427132	geckodriver	INFO	Listening on 127.0.0.1:39961
+1675976427138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "42649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileczSOhi"
+*** You are running in headless mode.
+1675976427509	Marionette	INFO	Marionette enabled
+1675976427513	Marionette	INFO	Listening on port 33251
+Read port: 33251
+WebDriver BiDi listening on ws://127.0.0.1:42649
+1675976427631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileczSOhi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42649/devtools/browser/95d2f098-1c8b-4c52-a4bd-20ded9d18406
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1675976583526	Marionette	INFO	Stopped listening on port 33251
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1675976660548	geckodriver	INFO	Listening on 127.0.0.1:48601
+1675976660552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "42313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVn8Osl"
+*** You are running in headless mode.
+1675976660923	Marionette	INFO	Marionette enabled
+1675976660927	Marionette	INFO	Listening on port 43017
+Read port: 43017
+WebDriver BiDi listening on ws://127.0.0.1:42313
+1675976661043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVn8Osl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42313/devtools/browser/c87742ba-4cf5-4756-8c60-1da28d53acc1
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1675976824292	Marionette	INFO	Stopped listening on port 43017
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1675976910384	geckodriver	INFO	Listening on 127.0.0.1:52095
+1675976910389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "60549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVFDSUa"
+*** You are running in headless mode.
+1675976910761	Marionette	INFO	Marionette enabled
+1675976910765	Marionette	INFO	Listening on port 46039
+Read port: 46039
+WebDriver BiDi listening on ws://127.0.0.1:60549
+1675976910873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVFDSUa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60549/devtools/browser/b170021e-ed1a-4071-8b16-8b6764babd23
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1675977069260	Marionette	INFO	Stopped listening on port 46039
+1675977087823	geckodriver	INFO	Listening on 127.0.0.1:34673
+1675977087828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileadIsnr"
+*** You are running in headless mode.
+1675977088199	Marionette	INFO	Marionette enabled
+1675977088203	Marionette	INFO	Listening on port 43177
+Read port: 43177
+WebDriver BiDi listening on ws://127.0.0.1:55767
+1675977088316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileadIsnr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55767/devtools/browser/97bd43d2-c67d-45aa-b57b-318bddf52b15
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1675977235802	Marionette	INFO	Stopped listening on port 43177
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1675977454452	Marionette	INFO	Stopped listening on port 35301
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676049229189	geckodriver	INFO	Listening on 127.0.0.1:50307
+1676049229698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "43483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecTHGEt"
+*** You are running in headless mode.
+1676049230411	Marionette	INFO	Marionette enabled
+1676049230416	Marionette	INFO	Listening on port 41703
+Read port: 41703
+WebDriver BiDi listening on ws://127.0.0.1:43483
+1676049230596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecTHGEt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43483/devtools/browser/8c04e0e1-ad67-460f-96eb-a1f512171ee8
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1676049377780	Marionette	INFO	Stopped listening on port 41703
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1676049501951	geckodriver	INFO	Listening on 127.0.0.1:52481
+1676049501955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "49211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRCkkRd"
+*** You are running in headless mode.
+1676049502309	Marionette	INFO	Marionette enabled
+1676049502313	Marionette	INFO	Listening on port 34301
+Read port: 34301
+WebDriver BiDi listening on ws://127.0.0.1:49211
+1676049502418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRCkkRd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49211/devtools/browser/6f991ef9-2b6e-4649-b54a-27bb57b3dc40
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676049527464	geckodriver	INFO	Listening on 127.0.0.1:43355
+1676049527468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "53709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecp7Fgc"
+*** You are running in headless mode.
+1676049527820	Marionette	INFO	Marionette enabled
+1676049527824	Marionette	INFO	Listening on port 35529
+Read port: 35529
+WebDriver BiDi listening on ws://127.0.0.1:53709
+1676049527931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecp7Fgc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53709/devtools/browser/b0d854fb-fc81-47e6-98b5-228d82475b7c
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1676049639544	Marionette	INFO	Stopped listening on port 35529
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1676049891908	geckodriver	INFO	Listening on 127.0.0.1:39999
+1676049891912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "52085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3J5U6Z"
+*** You are running in headless mode.
+1676049892264	Marionette	INFO	Marionette enabled
+1676049892268	Marionette	INFO	Listening on port 41493
+Read port: 41493
+WebDriver BiDi listening on ws://127.0.0.1:52085
+1676049892375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3J5U6Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52085/devtools/browser/a005c0ce-1197-4050-a91e-3f8e06682b8e
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1676050004036	Marionette	INFO	Stopped listening on port 41493
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1676051023841	geckodriver	INFO	Listening on 127.0.0.1:39221
+1676051023845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "39675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehtGKgt"
+*** You are running in headless mode.
+1676051024198	Marionette	INFO	Marionette enabled
+1676051024203	Marionette	INFO	Listening on port 42551
+Read port: 42551
+WebDriver BiDi listening on ws://127.0.0.1:39675
+1676051024319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehtGKgt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39675/devtools/browser/6998be4b-a21f-4da8-8536-7127928d0ae8
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676051032404	geckodriver	INFO	Listening on 127.0.0.1:46943
+1676051032916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "38583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGdSD86"
+*** You are running in headless mode.
+1676051033273	Marionette	INFO	Marionette enabled
+1676051033277	Marionette	INFO	Listening on port 45933
+Read port: 45933
+WebDriver BiDi listening on ws://127.0.0.1:38583
+1676051033379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGdSD86/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38583/devtools/browser/9ae547b3-6cea-4f53-b00f-c38ffacec63d
