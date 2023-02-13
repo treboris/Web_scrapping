@@ -1,7 +1,3 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 from datetime import datetime
 from Data import Save
@@ -15,22 +11,22 @@ print("JOBLINE-scrapper STARTED")
 
 text = ""
 date = datetime.today().strftime('%Y-%m-%d')
-url = (f"https://jobline.hu/allas/it_kontroller/XQ-4102#adtype=dirCU")
+data = pd.read_csv('data/Jobline_2023-02-10.csv')
+
+
+id = data['ID']
+href = data['Href']
+for i in id:
+    print(i)
+
+for url_piece in href:
+    url = (f"https://jobline.hu{url_piece}")
+    page = requests.get(url)
+    soup = BeautifulSoup(page.text,"html.parser")
+    full_page = soup.body
 
 
 
-url = (f"https://jobline.hu{url_piece}")
-page = requests.get(url)
-soup = BeautifulSoup(page.text,"html.parser")
-print(soup.body)
-
-
-
-
-page = requests.get(url)
-soup = BeautifulSoup(page.text,"html.parser")
-
-full_page = soup.body
 
 exists = os.path.exists(f"txt/jobline_job_{date}.txt")
 

@@ -26,6 +26,8 @@ driver = webdriver.Firefox(options = options)
 
 #CSAK A HIRDETES CIMET AZ ALCIMKEKET ES A CEG NEVET HELYSZINT SCRAPPELI
 
+
+href = []
 upload_date = []
 corp = []
 main = []
@@ -94,15 +96,26 @@ while i < max_page_number:
         l_ = l.text.replace("\n","")
         location.append(l_)
 
+
+#HREF EXTRACT
+    for div in soup.find_all('div' , class_='view-content'):
+        for link in div.find_all('article', class_='node node--job-per-template node-teaser no-logo node-job node--teaser node--job-per-template--teaser node--teaser node--job-per-template--teaser'):
+            for a in link.find_all('a', class_='recruiter-job-link recruiter-jobs-new-tab-processed'):
+                href.append((a.get('href')))
     i += 1
+
+
+
+
+
+
+
+
 driver.quit()
-print(labels_list)
-print(len(upload_date))
 print(len(corp))
 print(len(main))
-print(len(labels_list))
 print(len(location))
-print(location)
+print(len(href))
 
 
 save_data = Save(f'Cvonline' , ("Corporation" , corp) , ("Main" , main) ,("Labels" , labels))
