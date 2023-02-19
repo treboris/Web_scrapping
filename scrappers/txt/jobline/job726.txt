@@ -1,0 +1,92 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Cloud Software Engineer (with .NET) (Budapest)
+Cloud Software Engineer (with .NET) (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Senior SQL Developer (with .NET)
+Develop in Microsoft SQL database including database design and business logic (MDS and Analysis Services). (in 65%)
+Develop applications using Microsoft .NET and C# and develop distributed n-tier applications. (in 35%)
+Work directly with stakeholders and provide technical solutions for business applications and integrations.
+Participate in the full project life cycle for client engagements, from proof of concept through design and development, integration, testing, support, and maintenance of the business system applications.
+Componentize existing business logic and make it available as a service which can be reusable across multiple business system applications.
+Review code, integrate application modules for system testing, and ensure that standards are followed.
+Work with automated test cases, design and perform unit testing, document technical design using UML methodology, and mentor other team members with hands-on development work.
+Develop in Microsoft Azure Technologies (logic apps, functions, database engines).
+Recommend solutions which take into consideration costs, business needs, and system impacts.
+Work within an agile environment.
+Participate in initiatives and projects as assigned.
+Part of on call rotation.
+Aegon Global Technology Service (GTS) provides technology infrastructure support as well as business consulting services to the Aegon USA, European enterprise and business partners.
+The information technology services encompasses regional services, enterprise-wide application services, architecture, product assessment, customer service, internet and messaging, server management, telecommunications, security, data service and more.
+Bachelors degree in a computer related field or equivalent knowledge and at least 6 years of experience in systems analysis, system development, and database design. 
+Strong database SQL Server skills with the ability to write and understand complex SQL statements.
+Cloud Azure experience and understanding cloud concepts.
+Strong skill set working with ETL tools and workflow tools.
+Development experience to include C#, .Net, ASP.Net, and MVC.
+Experience with DevOps (CI/CD)
+Knowledge of ServiceNow, Jira and Confluence preferred. 
+Ability to use problem-solving and analytical skills to plan, design, implement, upgrade and support complex application systems.
+Ability to work under tight deadlines and navigate complex situations.
+Excellent English communication skills with the ability to work across multi-functional international teams. 
+Confident and effective dealing with stakeholders and end users.
+Understanding of Agile principles and concepts.
+Benefits besides compensation/salary:
+Home office 
+Flexible working hours 
+Health Insurance 
+Yoga classes 
+Life Fitness discount 
+Training & Development opportunities 
+Highly people-centric environment
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+EasyHiring Services Kft. -
+Data Analytics Expert
+Hays Hungary Kft. -
+Data Scientist
+Hays Hungary Kft. -
+Reporting Expert - Azure environment
+EasyHiring Services Kft. -
+Junior Reporting Specialist
+Hays Hungary Kft. -
+Oracle Integration Cloud Specialist
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

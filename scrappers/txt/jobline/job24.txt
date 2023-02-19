@@ -1,0 +1,74 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+DevOps Engineer ARD (TECHNIK HU/ VNI) (REF217J) (Budapest)
+DevOps Engineer ARD (TECHNIK HU/ VNI) (REF217J) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 4500 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team. 
+DevOps Engineer ARD (TECHNIK HU/ VNI) (REF217J)
+Tasks:
+Develop and use software solutions and specify IP access and IP service functions for integration in a heterogeneous system environment
+Accompany and control the technical implementation of these functions in national and international projects and balance the factors of innovation, time-to-market and sustainability with a sure instinct
+Work in DevOps teams in organizational, procedural and personal agility closely with the product owner and other partners
+Design and implement standards for system tests and test automation in E2E responsibility and with the aim of ensuring a high degree of automation
+Skills:
+Ability to use common development tools (e.g. shell, Git, GitLab)
+Knowledge and skills in writing source code and computer programs in Python
+Knowledge of data modeling (YANG, XSLT, Swagger) and interface design (JSON, XML, REST, OpenAPI) is desirable
+Knowledge of CI / CD ( Unit Testing, Jenkins, Gherkin and behave, GitLab Pipelines)
+Knowledge of cloud platforms (Kubernetes, ERXi)
+English B2
+Experienced
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+DevOps Engineer
+Deutsche Telekom IT Solutions -
+Software Engineer on network field (REF223C)
+Thyssenkrupp -
+Hardver és szoftver integrációs tesztmérnök
+Deutsche Telekom IT Solutions -
+DevOps Engineer for Cloud of Things (REF542I)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

@@ -1,0 +1,81 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Quality Assurance Automation Framework Developer (OTC) - REF1234F (Budapest)
+Quality Assurance Automation Framework Developer (OTC) - REF1234F (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+Minőségbiztosítás
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team. 
+Quality Assurance Automation Framework Developer (OTC) - REF1234F
+Tasks:
+You will work together with specialists from our team and other Deutsche Telekom teams on the technology topics of Public Cloud, Open Source and Security
+You will design and develop tests that ensure the stability and functionality of the Open Telekom Cloud
+You deal with the regular and automated implementation of product tests, integration tests, field tests and acceptance tests
+You do not do a manual task twice, but you consistently automate using common automation frameworks
+You write, read and correct requirements documents in cooperation with the manufacturer
+You design several test levels with many individual measures (examples: interface test, functionality of the computing power, load test, recommissioning, etc.)
+You uncover errors by assigning concrete detail requirements (usability, functionality, security, etc.) and considering contractually regulated or legal requirements
+Requirements:
+Degree in computer science, mathematics, a technical, engineering or natural science subject or comparable vocational training with many years of professional experience
+3-5 years of professional experience in the ICT sector, ideally with a focus on modern Cloud technologies (Public Clouds, preferably OpenStack-based, Docker, Kubernetes)
+Past experience with OpenSource projects is a plus. Experience in the field of test automation and the use of related tools (such as Robot Framework/ Tosca/ Selenium)
+In-depth knowledge of system technologies (Linux, Xen/KVM, Linux Network and Storage, system tools) as well as OpenStack and Docker/LXC/LXD container technologies
+Daily routine in handling the Linux-/Unix command line You are familiar with object-oriented programming languages (ideally: Python, Go)
+Good knowledge of agile development processes and experience in the close integration of development and application operation in the cloud (DevOps, CI/CD, CT)
+Agile mindset
+In-depth knowledge and experience in creating a proof-of-concept with the help of necessary scripting languages and other tools for testing the concepts in practice
+Fluent English, written and spoken
+Senior
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Szeged, Pécs, Debrecen
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

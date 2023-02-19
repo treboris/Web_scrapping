@@ -1,0 +1,85 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+AWS Architect - REF341L (Budapest)
+AWS Architect - REF341L (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team. 
+AWS Architect - REF341L
+Tasks
+Create Architectural designs for workloads migrating to AWS
+Perform AWS Well-Architected Reviews
+Create Infrastructure as Code for AWS services as per the Architecture designs
+Create CI/CD Pipelines for automated deployments.
+Develop Serverless architecture designs in AWS
+Day-to-day AWS support to the customers
+Produce Containerisation solutions on AWS
+Produce documentation for technical implementations in AWS
+Requirements
+Demonstrate a strong understanding of the AWS Well-Architected Framework to validate solution/architecture
+Deep expertise in AWS services across Security, Identity, Compliance, Management, Governance, and Networking
+Cloud Security Architecture experience
+Experience in implementing security and governance on AWS
+Proven experience of Network architecture and design
+Excellent ability to collaborate and manage the expectations of stakeholders
+Strong experience in defining standards, setting technical roadmaps, designs, strategies and mentoring
+Strong experience in architecting and migrating large scale applications to AWS, as well as Disaster Recovery solutions
+Reliable and consistent decision maker
+Working closely with DevOps teams to ensure security is a large focus and help to build a true DevSecOps culture
+Working in an Agile environment with multi discipline teams to find threats and solutions swiftly and effectively
+Development tools: GitHub, Python, Perl, Shell, JSON/YAML, Jenkins
+Network: IPv4 CIDR, IPv6, BGP, DNS, VPN (IPsec)
+Infrastructure as Code: CloudFormation, Terraform, Ansible, Chef, Puppet, OpenStack
+Familiar with AWS Services: EC2, S3, IAM, RDS, ECS, ECR, EKS, KMS, Certificate Manager, VPC, Route53, CloudTrail and CloudWatch
+Any AWS Certification is a plus
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

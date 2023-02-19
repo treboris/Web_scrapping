@@ -1,0 +1,80 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+AWS Engineer (DevOps, SRE) (Budapest)
+AWS Engineer (DevOps, SRE) (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+távmunka, home office
+AWS Engineer (DevOps, SRE)
+Megbízó partnerünk nemzetközi sikereket elért magyar alapítású 150 fős szoftverfejlesztő cég, amely élettudomány területén fejleszt többek között cloud és webhosting alapú szoftveres megoldásokat, amelyek kémikusok, biológusok és kutatók munkáját segítik világszerte, kiemelten gyógyszer-, szépség, és élelmiszeriparban.Jelenleg 4 fős Site Reliability Engineering (SRE) csapatuk keres Cloud Engineer kollégát SaaS platform fejlesztésre, üzemeltetésre.
+A pozícióról
+SaaS platform buildelése, fejlesztése és üzemeltetése
+AWS menedzsment
+A fejlesztőkkel kollaborálva a deployment folyamat és annak platformjának tervezése, telepítése
+A deployment és az üzemeltetés automatizálása
+A cégen belül a cloud ready/native alkalmazások létrehozásának lehetővé tétele, támogatása és oktatása
+Ügyelet vállalása az 5 fős csapattal felosztva
+Elvárások
+Cloud computing (AWS) ismeretek Infrastructure as Code (pl. Terraform) jártasság
+Szoftverfejlesztési életciklus ismerete CI/CD tapasztalat (jenkins)
+Valamilyen script nyelv ismerete
+Dolgoztál már Linux környezetben (legalább otthon)
+Nyitott vagy új technológiákra
+Amit Megbízónk kínál
+Járvány után is remote vagy hibrid munkavégzés
+Éves 1500 EUR/fő tréning keret szabadon választható témákkal
+Céges nyelvtanfolyamok
+Céges sportolási lehetőség (jóga, body art, kosár)
+Játszószoba (ping-pong, csocsó, biliárd)
+Céges eventek AYCM kártya
+Természetközeli, zöld környezet, világos, ergonomikus iroda a 13. kerületben
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

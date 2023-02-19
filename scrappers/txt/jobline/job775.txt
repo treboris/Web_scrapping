@@ -1,0 +1,79 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Senior Data Engineer (Budapest)
+Senior Data Engineer (Budapest)
+Jelentkezem az állásra ›
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Senior Data Engineer
+Your new company
+Hungarian SW Developer/IT Consulting/Staff Augmentation company, which works on exciting international projects on the field of AI, digital advertising and data-driven solutions
+Your new role
+• Work closely with data scientists in the development of algorithms and machine learning and deep learning models.
+• Implement data pipelines for the preparation, provisioning, and versioning of training data for the machine learning models.
+• Design and implement microservices in Python to provide the models via REST API, including functions for monitoring these models in production.
+• Deploy microservices in the productive cloud environment, considering scalability and high availability requirements.
+What you'll need to succeed
+• REST APIs, Python
+• GCP (or any cloud)
+• Airflow
+• Kubernetes, Docker
+• JIRA, Confluence, Gitlab
+What you'll get in return
+Development - We are supporting your growth with trainings and certifications
+Diversity – You can switch between projects and Delivery Units
+Meetups - We have Meetups every month with interesting topics, knowledge sharing is guaranteed
+Flexibility- If you enjoy home office, then you can still enjoy your couch after Covid
+Support - We are a caring organisation, if you face difficulties you can always count on us
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Technical Process Specialist (REF705I)
+Deutsche Telekom IT Solutions -
+Incident responder (cert) ref68o
+Deutsche Telekom IT Solutions -
+Senior Network Architect (Open Telekom Cloud) - REF482J
+Thyssenkrupp -
+Senior PLM / ALM Application Engineer
+Deutsche Telekom IT Solutions -
+Application Administrator - Azure Operations Manager
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

@@ -1,0 +1,80 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Cloud Devops Engineer (REF104L) (Budapest)
+Cloud Devops Engineer (REF104L) (Budapest)
+A hirdetés már lejárt!
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Cloud Devops Engineer (REF104L)
+Our group VNI is responsible for the integration, validation and production of test results ("System Under Test") in accordance with the requirements of the Deutsche Telekom AG Platform. Daily tasks carried out in several virtual squads with German and International colleagues.
+As an engineer you are part of a team which is responsible for implementing future oriented Network solutions manage and run  the DT Labor Enviroment.
+Tasks:
+Create automation in Agile way, solutions that improve Testlab operations and efficiency.
+Design, configure, implement and support an automated workflow for server, cloud and virtualization
+Review and evaluate cloud (and virtual) server performance, capacity, networking and software
+Comply with all audit, compliance and regulatory requirements and ensure policy, controls and procedures are maintained throughout virtualization and cloud environments
+Perform server, cloud computing and virtualization environment build-outs, software installation, maintenance and support, documentation of operating procedures and processes
+Requirements
+In depth system administration experience and knowledge, including operating systems, hardware, storage and networking
+Corporate hands-on experience with scripting and coding, such as Python, PowerShell, Terraform, shell script
+Hands-on experience with OpenStack Cloud and Containers like Kubernetes and Docker
+Knowledge and experience with canonical deployement tools, such as MaaS & Juju (JaaS)
+In depth knowledge and extensive corporate hands-on experience in Vmware vSphere administration , maintenance, design, and architecture
+In depth knowledge and experience with administration and configuration of services like DNS,NTP,Proxy,WSUS and KMS
+Knowledge and expereince with automation, configuration management tools such as Puppet, Chef, Ansible, Gitlab, CI/CD pipelines
+Profound knowledge about UNIX/ Linux distribution like Red Hat and Ubuntu, Win10, Win11 and Server 2019 is highly desired
+Experience in Agile methodology
+Fluent English language knowledge
+German language knowledge is an advantage
+Experience in Cisco, Juniper network are advantageous
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+DevOps Engineer
+Deutsche Telekom IT Solutions -
+Software Engineer on network field (REF223C)
+Thyssenkrupp -
+Hardver és szoftver integrációs tesztmérnök
+Deutsche Telekom IT Solutions -
+DevOps Engineer for Cloud of Things (REF542I)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

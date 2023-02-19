@@ -1,0 +1,86 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Java Software Developer (Budapest)
+Java Software Developer (Budapest)
+A hirdetés már lejárt!
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Java Software Developer
+We’re seeking an engineer with a proven track record of successfully developing and delivering products and micro-services using Java in a Linux environment.
+For our new CBC Micro-services product we are looking for a junior-medior Software Engineer with a degree in Computer Sciences or technical equivalent and a track record of developing and delivering products using C/C++ and/or Java in a Linux environment.
+This position will expose the candidate to several open source tools and libraries so candidates must therefore demonstrate an attitude and enthusiasm for working with a wide range of tools and techniques. Candidates must be able to demonstrate methodical and logical development skills, combined with the ability to communicate solutions succinctly to other departments. 
+What you'll do
+The Software Engineer’s responsibilities cover the following key areas:
+Developing new functionality for the CBC Micro-services.
+Enhancing existing functionality.
+Sustaining & Maintenance activities.
+Testing and documenting activities
+The key activities which the Software Engineer must perform effectively and with success:
+Develop different micro-services containing core CBC functionality and related services.
+Develop tools and scripts.
+Write technical product documentation and initiating product improvements.
+Work closely together with the (Technical) Product Owner to break down epics/stories.
+Collaborate across different engineering teams.
+Learn new technologies and methodologies.
+Participate in routine maintenance on existing products to include software deficiency resolution.
+Fine-tuning of the different components involved in our products and solutions.
+Reporting with respect to the key activities to the Engineering Manager, Product Owner and/or other colleagues.
+What you'll bring:
+Master Degree in Computer Sciences, Electronic Engineering or equivalent.
+At least 5+ years of working experience.
+Experience with software engineering using C/C++ or Java in a Linux environment.
+Experience with Linux command line tools and scripting (Shell / Python / Go).
+Experience with containerized environments (Docker, Docker-Compose, Kubernetes).
+Preferably experience with databases (e.g. MongoDB or PostgreSQL).
+Preferably experience with networking and communication protocols.
+Nice to have
+Highly organized with good written and verbal communication skills.
+Ability to properly structure and explain technical information to stakeholders.
+Highly self-motivated and must be able to work both independently and collaboratively within a team.
+Fluent in English (verbal and in writing) and preferably more languages.
+Ability to work well under pressure, experienced in supporting business critical systems.
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Java Developer for Cloud of Things (REF521E)
+Deutsche Telekom IT Solutions -
+Fullstack developer (AFC)
+Deutsche Telekom IT Solutions -
+Java Architect - Software Architect - PLM area (REF399Q)
+Deutsche Telekom IT Solutions -
+Lead Java Developer (REF883E)
+Deutsche Telekom IT Solutions -
+Lead Java Developer (REF883E)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

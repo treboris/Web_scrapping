@@ -1,0 +1,88 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Software Architect (Budapest)
+Software Architect (Budapest)
+Jelentkezem az állásra ›
+Randstad Hungary Kft
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Ügyfelünk Európa legnagyobb videotermékeket fejlesztő és gyártó cége. (USA, Dubai, Kanada , Szingapúr, India, Latin-Amerika, Málta ,stb..) Termékeik és berendezéseik a legnagyobb világsztárok koncertjein és szinte minden modern német autógyár 3D szimulációs termében is megtalálhatóak. Népszerűek olajfúró tornyok vezérlőiben és közismert épületek irányító központjaiban, repülőgépeken, hatalmas jachtokon, de még tengeralattjárón is. Rendezvények, ahol a termékeik megjelentek: Európai Bajnokságok, Olimpiai Bajnokságok, Eurovíziós Dalfesztivál, Disneyland. A Google, Facebook, Microsoft , Apple, EA Sport, Cisco és LinkedIN is használják a termékeiket.A cég precíziós videójel-kezelési termékeket tervez és gyárt csúcskategóriás alkalmazásokhoz, több iparágban.
+Software Architect
+Feladatok
+szívesen határozod meg az üzleti oldalról érkező igények technológiai megvalósításának lehetőségeit, valamint választod ki az optimális megoldást, műszaki koncepciót;
+fontos számodra, hogy jövőállóságot szem előtt tartva készítsd el a megoldás magas szintű szoftverterveit;
+szereted szükség esetén “proof-of-concept” szinten, példaprogramokkal validálni a technológiai megvalósítás működőképességét;
+szívesen tervezed meg a beágyazott rendszerek belső felépítését, és egymással együttműködő, hordozható szoftverkomponensekre bontod a funkcionalitást;
+örömmel veszel részt a hardver-szoftver rendszer közös tervezésében, a termékek funkcionális és nem funkcionális követelményeinek meghatározásában;
+folyamatosan nyomon követed a technológiai újdonságokat, iparági standardokat, új programozási paradigmákat és szívesen koordinálod ezek beépítését a fejlesztési módszertanokba.
+Követelmények
+villamosmérnök vagy mérnök-informatikus MSc végzettség
+3+ év szoftverfejlesztői tapasztalat - C++, Linux, beágyazott rendszerek;
+rendszerszemléletű gondolkodásmód;
+rution abban, hogy különböző (műszaki) területek szakértőivel egy csapatban hogyan lehet jól együtt tudsz dolgozni; 
+nagyfokú önállóság a feladataid végzése során.
+MINDENKÉPP TE LEHETSZ A NYERŐ VÁLASZTÁS A SZÁMUNKRA, HA:
+rendelkezel hálózati és IT biztonsági ismeretekkel;
+van rendszerszintű Linux ismereted;
+van tapasztalatod a következő technológiákkal-feladatokkal: Buildroot, Docker, Continuous Integration, Linux Device Tree, Linux Kernel driver fejlesztés;
+ismersz script nyelveket (sh, Python, JavaScript).
+Amit kínálunk
+jó hangulatú, fiatalos és összetartó csapat
+széleskörű szakmai fejlődési lehetőség
+betanulás után heti 2 nap home office lehetőség
+rugalmas munkaidő törzsidővel
+részese lehetsz egy magyar cég sikerének a világpiacon
+dinamikusan fejlődő és stabil háttér
+emberközpontú szemlélet
+meghallgatjuk az ötleteidet
+belvárosi, jól megközelíthető iroda
+magas színvonalú csapatépítő tréningek és egyéb közösségépítő programok
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

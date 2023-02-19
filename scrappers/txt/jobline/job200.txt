@@ -1,0 +1,86 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Java Solution Architect/ Designer (IoT) (REF110Z) (Budapest)
+Java Solution Architect/ Designer (IoT) (REF110Z) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+német - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 4500 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Java Solution Architect/ Designer (IoT) (REF110Z)
+IoT will be the market leader segment of the IT within years. In this segment the Deutsche Telekom Group plays an important role. Using the latest technologies (5G, NB-IoT, Cloud, Data Science), tools and methods we are developing different enterprise products for the market. We are looking for the bests and bravest who want to be part of the future, keen on the latest technologies and would like to join our team and our adventure.
+As Solution Architect by the Hungarian IoT unit of Deutsche Telekom IoT Gmbh. (https://iot.telekom.com/en) , you will be responsible for designing and developing customer specific solutions based on our technology stack. Working strictly connected with the international sales and development teams. Sort of key account management and customer communication is also part of this role.
+Tasks
+keeping contact with our (mainly German) customers
+creating proof of concepts
+software designing using microservice architecture patterns
+using public cloud solutions
+working in international teams with agile methodologies (SAFE)
+Requirements
+Experience in cloud solutions (Azure, AWS, Kubernetes or similar)
+Experience in working with distributed internal and external teams to develop and design solutions
+English language knowledge
+German is required to be able to communicate with the customers
+Knowledge in the following subject areas:
+    IoT Devices
+    Java / C (++) / OOP programming
+    Automation scripts and tools (Terraform / Ansible / Chef)
+    Hardware categories (gateways, routers, sensors)
+    Connectivity technologies (2G / 3G / 4G / LTE, NB-IoT) 
+    IoT-relevant protocols MQTT (-SN), CoAP
+    HTTP / HTTPS
+    REST APIs
+    Protocol frameworks such as OPC-UA and LwM2M
+    IntelliJ Programming Environment
+    Platform architecture principles, frameworks and tools
+    Security aspects of distributed systems
+    Solution architecture
+Location
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Java Developer for Cloud of Things (REF521E)
+Deutsche Telekom IT Solutions -
+Fullstack developer (AFC)
+Deutsche Telekom IT Solutions -
+Java Architect - Software Architect - PLM area (REF399Q)
+Deutsche Telekom IT Solutions -
+Lead Java Developer (REF883E)
+Deutsche Telekom IT Solutions -
+Lead Java Developer (REF883E)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

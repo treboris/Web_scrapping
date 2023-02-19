@@ -1,0 +1,68 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+DevOps Engineer (Budapest)
+DevOps Engineer (Budapest)
+Jelentkezem az állásra ›
+Randstad Hungary Kft
+Alapvető elvárások
+IT, telekommunikáció
+Gyártás, műszaki terület
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Our Client has more than 40 years of research and development in the field of lottery systems made their company a worldwide leading supplier of lottery products. With more than 170 employees in Budapest, currently serves more than 400 customers on six continents today.
+DevOps Engineer
+Feladatok
+The following Challenges await You: Develop and maintain automated provisioning for development, testing, and production environments (ansible);Develop, test and maintain CI/CD pipelines to help deliver software of higher quality at greater speed;Build the necessary monitors, alerts, and self-healing capabilities for our solutions;Play a key role in advising on Architecture and available services along with the trade-offs between them;Participate in process improvement and setting engineering best practices with the team;Solve problems in ways that drive towards simplicity of architecture and operations;Produce and maintain documentation on installations, procedures and requirements for systems
+Követelmények
+You have completex knowledge with linux system administration;You want to further develope your knowledge with Ansible, Puppet, or similar tools for configuration management;You have solid experience with Bash or Python;You are familiar with Docker, virtualization, swarm and K8S;You have the following strengths: IT attitude, willingness to learn new systems, open to continuously extend your professional skills, team player;You work well under pressure;You have 2-3 years‘ relevant experience in IT application operation;You would like to use your excellent English on a daily basis
+Amit kínálunk
+Competitive payment package (13. and 14. months salaries, Home Office package)Cafeteria and Health insuranceMentoring Program, TrainingsFlexible work schedule, full timeDowntown office, in the heart of Budapest, at the foot of Buda castle (easily accessible by public transport)Indoor bike and motorcycle storageRecreation room: table soccer, darts and saunaTeam buildingsExcellent working atmosphere Open company cultureEconomically stable and growing enterprise Non-conventional domain: lottery and sports games
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

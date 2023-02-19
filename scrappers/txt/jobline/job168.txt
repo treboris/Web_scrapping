@@ -1,0 +1,84 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Software Developer (Core Media) (REF273X) (Budapest)
+Software Developer (Core Media) (REF273X) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Software Developer (Core Media) (REF273X)
+Tasks:
+Work as a developer with test engineers, project managers, technical leads, business owners, and analysts through the whole software development lifecycle, understanding, and refining requirements, designing and writing code, clearly documenting the development process
+Further development of the solutions, in close coordination with the stakeholders
+Guidance for the technical design and structure of the build, test and deployment processes 
+Implementation and extension of functions, such as intelligent search, navigation and personalization of content with integration of backend systems and digital services
+Close cooperation with the solution architects
+Develop multi-threaded server-based solutions for a wide range applications
+Build reusable components
+Implement release engineering related requirements (CI / CD, builds, development, and test environments), and enhance the team’s development infrastructure towards modern cloud environments and an increased level of automation
+Stay abreast of the new web development technologies; integrate them with the platform to further enhance the usability and efficiency 
+You have successfully completed your studies in a technical / scientific field and gained deep knowledge in the following areas: 
+In-depth knowledge of process models and methods of software development with Java (JEE) and the necessary development tools (Eclipse, IntelliJ, Maven)
+Several years of experience in studio development (2-3 years and more)
+Database know-how (Oracle, PostgreSQL, MySQL, SQL, Hibernate, noSQL)
+You are familiar with terms like JSON, Elastic, Solr, GraphQL, Docker
+Fluent English language knowledge
+The willingness to immerse yourself in new topics and to learn constantly
+Strong user and solution orientation
+Learn the programming language of the web business portal
+Work in a team as developer, responsible for Front-end and/or Back-end development
+Participate in deployments
+Front-end development: Fields, design
+Back end: Server logic, Data Bank logic
+Experienced
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

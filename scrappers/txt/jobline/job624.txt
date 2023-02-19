@@ -1,0 +1,84 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Python Developer (Budapest)
+Python Developer (Budapest)
+A hirdetés már lejárt!
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Python Developer
+Your new company 
+Our partner is an entertainment technology company that partners with clients to enable creative flow across the production life cycle with a suite of secure communication and content management solutions. Their award-winning products for the media and entertainment industries include production solutions as well as high-performance recording and workflow tools in support of the leading camera vendors for feature, television, and commercial production.
+Your new role 
+• Design, implement, and maintain PIX System platform and services.
+• Build distributed services that auto-scale, self-heal, and automatically deploy to the cloud.
+• Integrate internal and 3rd party components to build out functionality.
+• Implement APIs for internal and external services and applications.
+• Migrate legacy systems to newer service architectures.
+• Write design, usage, and troubleshooting documents for other engineers and QA.
+• Produce automated tests to ensure quality, performance, and scalability of your code.
+• Participate in reviews and audits to ensure the security of our system.
+• Coordinate with team-members and others in the organization to ensure timely delivery of software that meets all requirements.
+What you'll need to succeed 
+• Excellent coding and design skills.
+• Experience with modern programming languages and design patterns. Knowledge of Python, Node.js, PHP and other languages a plus.
+• Experience building in a SOA or micro-services environment.
+• Familiarity with both relational and no-SQL databases.
+• Experience building server-side APIs and client-server interactions.
+• Comfortable with a mix of team and individual work.
+• Must be able to work in a fast-paced, agile environment.
+• BS in Computer Science or equivalent work experience.
+• Minimum 2 years back-end development experience.
+What you'll get in return 
+• Competitive salary
+• Commuter Benefits
+• Recreational card
+• Learning and development support
+• Welcoming and friendly culture
+• Flexible working supported
+• Office/remote working supported
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now. If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

@@ -1,0 +1,88 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+SAP Master Data Application Consultant (Budapest)
+SAP Master Data Application Consultant (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+SAP Master Data Application Consultant
+Our client is running a central PLM and a central SAP system, which are connected via an online interface
+All master data processes in SAP are handled via a global team in the business and from IT side supported via SAP Master Data Application consultants
+Main processes are related to material master, BOM’s, routings and engineering changes.
+Here our client is using an add-on from company ILC.
+Data changes are distributed via ALE technology
+Currently our client is running a S/4-HANA project. Go live for master data will be middle of June
+ Sustainability issues raise up more and more in the recent past with additional requirements to master data and interfaces to organizations or customers (IMDS, SCIP, CO2 footprint, etc.)
+Tasks in the new position
+Close cooperation with our solution architects
+Customizing in SAP to fulfill business requirements
+Creation of programming requests
+Testing
+Support of processes in the area of engineering changes, runout management, samples
+User support, incident handling and standard service fulfillment
+Participation in the S/4 rollout
+Our Business Service Center is a German family-owned automotive company, and they would like to represent themselves also in the Hungarian market. They are planning to hire 350 new employees, and it will have a brand new office in Budapest. New colleagues will have a chance to join a new company and to make decisions in professional topics. These employees who add their own ideas would be prioritized by the management of the company. Fluent English is necessary to use for everyday work.
+Expectations
+deep SAP knowledge (S/4 preferred) in the area of material master data, BOMs, routings
+three or more years of experience
+good understanding of ALE technology
+Knowledge in iPoint- or comparable tools for sustainability and / or ILC add-on’s would be
+beneficial
+Good overview about the main processes in a producing company
+Good English skills (spoken and written)
+Experienced working in an international, virtual team
+Offer
+Professional development opportunities
+Competitive salary
+Dynamic atmosphere
+Home-office possibility
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+EasyHiring Services Kft. -
+SAP SD Consultant/Analyst
+Randstad Hungary Kft -
+SAP IT Application consultant Controlling
+Randstad Hungary Kft -
+SAP IBP Consultant
+EasyHiring Services Kft. -
+SAP SD Consultant (remote/hybrid)
+EasyHiring Services Kft. -
+SAP EWM Application Consultant
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

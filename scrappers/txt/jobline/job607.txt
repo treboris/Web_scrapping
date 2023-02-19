@@ -1,0 +1,98 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Software Engineer Front-end (Magyarország)
+Software Engineer Front-end (Magyarország)
+Jelentkezem az állásra ›
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Software Engineer Front-end
+Your new company:
+ Because of the rapidly changing environment, our partner has set its aim to become the most data & technology-driven airline in the world. Changing their way of working, modernizing their technology stack and architecture and the right positioning of people is key to achieving this ambition. They have organized their product teams around business processes, where together business and IT are end-to-end responsible for the digital products and services that support our operation. They are looking for a software engineer specialist in Front-end, who together organize all necessary engineering tasks and help maximise the flow of value. As a software engineer, you will work shoulder to shoulder with other software engineers, like backend specialists, data scientists, domain experts, and frontline staff to shape the future of our partner and the aviation industry.
+Your new role
+As a Front-end specialist, you will apply your skills to change the way our partner works, driving innovation and transforming them into a truly data-driven organization. They value both technical expertise (analysis, design & architecture, engineering, quality assurance and DevSecOps) as well as the interpersonal parts of the job (coaching, consulting, coordination, and support). 
+ As a software engineer Front-end, your key result areas are:
+Make use of right technology and govern architecture for products in line with the organizational objectives, ensuring that the right technologies are chosen to strike an optimal balance between achieving business goals, realizing functional and technical requirements, and managing technical debt, development costs and continuity costs 
+Design and implement the overall architecture aligned with other optimizers for the product to deliver
+Translate business needs into compelling products and deliver them to end users so that business value is created 
+Take care of specification, design, engineering, testing, delivery, maintenance, monitoring, and support of digital products
+Foster a culture where state-of-the-art approaches, tooling and technologies are applied as fits with the mission of the department, the KPI’s and desired business impact
+What you'll need to succeed
+Preferably Bachelor degree or higher in Computer Science, Software Engineering or other relevant fields
+Minimum of 5 years of professional experience with JavaScript / TypeScript, HTML, CSS and SASS
+Minimum of 2 years of experience building enterprise production-grade Angular applications
+Experience with consuming APIs and knowledge of REST API best practices
+Knowledge of continuous integration/continuous deployment techniques and tools (Kubernetes, GitHub Actions, Bamboo)
+Proficient with automated testing (e.g., Unit tests, End-2-End tests)
+Experience with Bootstrap, tailwind or other CSS frameworks
+Experience with bringing enterprise Front-end applications to production and supporting Front-enders in industrializing their code
+Experience in coaching and knowledge sharing to familiarize teams with software engineering best practices
+Knowledge with and experience in agile way of working (e.g., SAFe, Scrum, Agile)
+Great communication skills, written and spoken (English) and team spirit 
+This role requires participation in their on-call support rotation every six weeks
+All their teams have a hybrid way of working, they do ask you to come to the office every so often to meet your colleagues, to participate in trainings or team events. 
+ In addition, the following requirements are considered nice to have:
+Experience with other frontend frameworks (e.g., React, Vue.js)
+Experience with Node.js, NestJS and GraphQL.
+Experience with state management like NGRX or Redux
+Experience with UX design
+What you'll get in return
+They offer a dynamic and challenging position in the heart of their Operation department. The role provides opportunities to apply leading edge craftsmanship and enable impact across their organization. You will be working with talented, driven people within and outside your field, on cutting-edge technology and with top-level equipment. You will be part of the broader community at our partner that organizes lectures, information sessions, hackathons and more. They are an international European corporate looking to grow in Hungary. This means you will be able to rely on the resources of our Amsterdam HQ, and they will invite you every three months to the Netherlands for our quarterly planning events. In Hungary on the people side they are very new, being part of a growing new organization brings opportunities and they will help you to grow with them. They offer a clear career path with ample opportunity for growth. You will have a hierarchical and a functional manager, your functional manager will also have a software engineering background and therefore they will be able to truly help you develop both your soft and hard skills. In your further development you can choose to either grow into a Principal Engineer, or transition to an Engineering Leader (a partially managerial role). 
+  Additionally, they offer: 
+- A competitive salary depending on your level and experience
+- 10% of your time set aside for personal learning and development
+- An excellent pension scheme, profit sharing, and yearly bonus. 
+- Substantial discounts on flight tickets (after 6 months of employment) 
+- A travel allowance 
+- Discount on health insurance 
+- A learning budget
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+DevOps Engineer
+Deutsche Telekom IT Solutions -
+Software Engineer on network field (REF223C)
+Deutsche Telekom IT Solutions -
+Software Engineer (Java/Microservices) (REF274B)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+IMPC Personnel Hungária Kft. -
+Tesztberendezés fejlesztő szoftvermérnök (labview, angol)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

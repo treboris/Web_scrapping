@@ -1,0 +1,82 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Gyakornok Internal IT területre (Szeged)
+Gyakornok Internal IT területre (Szeged)
+A hirdetés már lejárt!
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+pályakezdő /tapasztalat nélkül
+gyakornok
+Középfokú végzettség
+teljes munkaidő
+A Deutsche Telekom IT Solutions (korábban IT Services Hungary, ITSH) Magyarország legnagyobb IKT-munkaadója, a Deutsche Telekom Csoport tagja. A 2006-ban alakult, több mint 5000 fős cég az informatikai és telekommunikációs szolgáltatások széles körét nyújtja. A vállalat 2019-ben elnyerte a Nemzeti Befektetési Ügynökség (HIPA) legjobb oktatási együttműködésért járó díját, a PwC Magyarország független felmérése alapján a legvonzóbb magyarországi munkahelyek közé tartozik, és a legetikusabb multinacionális vállalat címét is megkapta. A cég folyamatosan fejleszti négy – budapesti, debreceni, pécsi és szegedi – telephelyét, és várja képzett informatikai szakemberek jelentkezését a csapatába.
+Gyakornok Internal IT területre
+Fő feladatok:
+Részvétel napi szintű üzemeltetői megbeszéléseken
+Hibajegyek kezelése (ITIL alapján)
+Event menedzsment, riporting, monitorozás
+Változáskezelés támogatása: új verziók telepítése, migrálás támogatása teszt környezetekben
+Dokumentációk kezelése
+Új toolok és technológiák elsajátítása, használata
+Microsoft SQL Server Integration Services (SSIS) csomagok karbantartása, igény esetén újak készítése
+VmWare környezetekben futó alkalmazás szerverek üzemeltetése, Internet Information Services  és Tomcat web szerverek használata.
+Fejlesztőkkel való kapcsolattartás debuggolás
+Ügyfél támogatás
+Elvárások:
+Hallgatói jogviszony még legalább 1 évig
+Legalább heti 20-25 óra munkavégzés
+Adatbázis ismeretek
+Linux/Unix alapismeretek
+Hálózati alapok
+ITIL ismeret
+Előnyök:
+Agilis módszertanok ismerete
+Docker, Kubernetes
+Személyiség:
+Jó problémamegoldó képesség
+Megoldásorientált szemléletmód
+Rugalmas hozzáállás
+önálló munkavégzés 
+N/A
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+E-lit ösztöndíj gyakornokoknak
+Deutsche Telekom IT Solutions -
+Application Administrator Trainee
+Deutsche Telekom IT Solutions -
+Access Support Specialist Trainee - REF1521G
+Deutsche Telekom IT Solutions -
+Open Telekom Cloud Trainee (REF1177L)
+Deutsche Telekom IT Solutions -
+Gyakornok - technikai/adminisztratív támogatás (REF1488D)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

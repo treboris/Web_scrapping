@@ -1,0 +1,101 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Senior DevOps Engineer - REF964D (Budapest)
+Senior DevOps Engineer - REF964D (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team. 
+Senior DevOps Engineer - REF964D
+Senior DevOps Engineer is responsible for entire lifecycle of Continuous Integration/Continuous Deployment pipelines and Infrastructure as Code approaches. Takes account and defines automated configuration management, release management, build, test and deployment activities. Provides prototypes and concepts for further automation of assigned technology.
+Tasks: 
+Designs, develops, tests and implements infrastructure for CI/CD pipelines and IaC.
+Manages source code, configuration management, release management, build and deployment activities.
+Setups and manages integration with partner applications.
+Conducts of performance analyses and tunings as well as error analyses and troubleshooting
+Consults and implements new innovative technologies to satisfy innovation strategy.
+Creates concepts for further automation of services, processes and/or operating models.
+Directly support the project teams in the development, quality assurance accompanying development as well as planning and implementation of product releases
+Continuously optimizes the development and system infrastructure.
+Provides consulting to project teams on areas of expertise also Prototypes/Proof of Concept solutions.
+Researches and develops in assigned technology, determines business requirements, proposes changes and prepares implementation plans
+Skills:
+Completed studies in mathematics, computer science or training in another technical discipline or similar education/work experience (minimum 5+ years)
+Experience in handling and administration of and with Kubernetes
+Experience in GitOps principles, workflows and pipelines
+Very good Linux skills (RedHat, Ubuntu, CentOS, core OS)
+Good knowledge in Network Architecture
+Practical experience in the cloud environment and in dealing with IaaS platforms (preferably MS Azure, but Amazon AWS, Google Cloud Platform are also accepted)
+Good knowledge of DevOps toolchain (including GitLab/GitHub, Terraform, Ansible)
+Experience with monitoring stacks, such as Prometheus, ELK stack or similar
+Good programming skills especially in scripting languages (Bash, Python)
+Knowledge of agile software / product development methods such as Scrum or Kanban as well as in accompanying a product development team
+Experience in the area of operations
+Advanced English skills
+IT Technical Skills: 
+Scripting (Bash, Python)
+Linux
+OTC / AWS / Azure
+Docker
+Kubernetes / Openshift 
+Git
+Jenkins / GitLab
+Maven / Gradle
+Ansible / Terraform / Puppet
+ELK / Prometheus / Incinga
+Networking
+Security
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+DevOps Engineer
+Deutsche Telekom IT Solutions -
+Software Engineer on network field (REF223C)
+Thyssenkrupp -
+Hardver és szoftver integrációs tesztmérnök
+Deutsche Telekom IT Solutions -
+DevOps Engineer for Cloud of Things (REF542I)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

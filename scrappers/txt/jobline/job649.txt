@@ -1,0 +1,89 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Embedded SW Engineer (Budapest)
+Embedded SW Engineer (Budapest)
+Jelentkezem az állásra ›
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Embedded SW Engineer
+Our teams develop software solutions for automated parking and safety systems, processing various automotive sensor data and providing a robust, scalable output to driving function modules.
+YOUR TASK
+Our embedded component teams are responsible for various functionality of our perception and fusion stack. These state-of-the-art algorithms are required to run in resource constrained environments. Therefore, you will be responsible for:
+> Implementation of a scalable, maintainable, cross-platform capable embedded software solution
+> Optimization of neural network post-processing and sensor fusion algorithms for multiple hardware platforms
+> Build and deployment of trained neural networks and sensor fusion algorithms into embedded environments
+> Software documentation and verification by means of black-box and white-box testing
+> Transformation of customer and project requirements into deep learning component designs
+> Collaboration with our international agile teams
+QUALIFICATIONS & EXPERIENCE
+> University degree (BSc, MSc, PhD) in a technical area: Computer Science, Electrical Engineering, or related
+> Advanced programming skills in C++
+> Basic programming skills in Python
+> Good command of English language
+> Collaborative, open-minded, team player attitude
+NICE TO HAVE
+> Work history in the automotive industry
+> Experience in CI/CD configuration (Jenkins), and various build systems
+> NoSQL database experiences
+> Knowledge in Computer Vision, Image Processing or Machine Learning
+WHAT WE OFFER
+> Competitive compensation and a wide range of benefits, including:
+> Bonus system
+> Annual flexible benefit (Cafeteria)
+> Private health insurance
+> Employee discounts
+> Sport pass support
+> Flexible work-from-home arrangements during and after the COVID-19 pandemic
+> Continuous development with access to numerous trainings, including technical skills, soft skills and language skills
+> Personal career development and a challenging role with end-to-end responsibility
+> Opportunity to see your ideas turn into reality with our test vehicles
+> Ability to directly deliver software into real, innovative products
+> Easily accessible office location in downtown Budapest (near Kálvin square)
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

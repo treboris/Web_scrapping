@@ -1,0 +1,84 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+MLOps Engineer (Budapest)
+MLOps Engineer (Budapest)
+Jelentkezem az állásra ›
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+MLOps Engineer
+Your new company
+International Telco company is looking for candidates to expand the MLOps team, and develop an AI platform using cutting-edge infrastructure technologies.
+Your new role
+Ensure that scalable IT infrastructures are created in the cloud.
+Build robust data pipelines using data from our customers. 
+You will integrate ML models into ML infrastructure and ensure that they function correctly. 
+Implementation of AI and ML automation 
+You are responsible for different CI/CD pipelines - private and public cloud providers (e.g. AWS) 
+Continuous Deployment (automation, and SW quality aspects) 
+Gitlab Pipelines
+What you'll need to succeed
+Container architectures (K8S Docker) 
+Ingress Control 
+Templating of k8s manifests 
+Experience in programming (ideally Python) 
+Exposure to public cloud providers (ideally AWS) 
+Experience in logging and monitoring (ELK) 
+Experience in developing/consuming RESTful API 
+Docker Security 
+Linux experience
+What you'll get in return
+Flexible home office (full remote if preferred)
+Annual bonus
+Comprehensive benefit system
+Internal and external training
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

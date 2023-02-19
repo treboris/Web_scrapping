@@ -1,0 +1,84 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+.NET Developer(REF369F) (Budapest)
+.NET Developer(REF369F) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+A Deutsche Telekom IT Solutions (korábban IT Services Hungary, ITSH) Magyarország legnagyobb IKT-munkaadója, a Deutsche Telekom Csoport tagja. A 2006-ban alakult, több mint 5000 fős cég az informatikai és telekommunikációs szolgáltatások széles körét nyújtja. A vállalat 2019-ben elnyerte a Nemzeti Befektetési Ügynökség (HIPA) legjobb oktatási együttműködésért járó díját, a PwC Magyarország független felmérése alapján a legvonzóbb magyarországi munkahelyek közé tartozik, és a legetikusabb multinacionális vállalat címét is megkapta. A cég folyamatosan fejleszti négy – budapesti, debreceni, pécsi és szegedi – telephelyét, és várja képzett informatikai szakemberek jelentkezését a csapatába.
+.NET Developer(REF369F)
+Nagy német multinacionális autóipari vállalat projektjéhez keresünk ambiciózus, angolul beszélő szakembert, aki komplex szoftverrendszerek tervezésével foglalkozik. Ha szereted a kihívásokkal teli, változatos munkát, szívesen használod nyelvtudásodat a mindennapi kommunikációban és releváns szoftverfejlesztési tapasztalattal rendelkezel, akkor te vagy a mi jelöltünk!
+Feladatok:
+Szoftverfejlesztés és tervezés, specifikáció írás
+Együttműködés a belső csapatokkal a szoftvertervezés és az architektúra elkészítésében
+Tiszta, skálázható kód írása .NET-el
+Makrók definiálása, Visual Basic
+Alkalmazások és rendszerek karbantartása, tesztelése és telepítése
+A kód felülvizsgálata, frissítése, refaktorálása és hibakeresés
+Elvárások:
+Bizonyított tapasztalat .NET fejlesztőként vagy alkalmazásfejlesztőként
+Az ASP.NET keretrendszer, az SQL Server és a tervezési/architekturális minták (pl. Model-View-Controller (MVC)) ismerete.
+.NET és (C#, Visual Basic .NET) és HTML5/CSS3 ismerete.
+Az architektúra ismeretek API-k (REST, RPC)
+Az agilis módszertanok ismerete
+Kiváló hibaelhárítási és kommunikációs készség
+Angol nyelvtudás
+Előnyök:
+Német nyelvtudás
+Interfészek és protokollok ismerete (REST, SOAP)
+DB2-vel kapcsolatos tapasztalat
+Ready API és UFT ismerete
+(távoli) adminisztrációs és felügyeleti tesztelésben szerzett tapasztalat
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest,Debrecen, Szeged, Pécs
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+DevOps Engineer
+Deutsche Telekom IT Solutions -
+Software Engineer on network field (REF223C)
+Deutsche Telekom IT Solutions -
+DevOps Engineer for Cloud of Things (REF542I)
+Thyssenkrupp -
+Hardver és szoftver integrációs tesztmérnök
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

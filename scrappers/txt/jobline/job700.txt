@@ -1,0 +1,90 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Test Engineer (Budapest)
+Test Engineer (Budapest)
+Jelentkezem az állásra ›
+Randstad Hungary Kft
+Alapvető elvárások
+IT, telekommunikáció
+Gyártás, műszaki terület
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Ki a Megbízó, aki hirdet?
+Partnerünk multinacionális háttérrel rendelkezik, ezáltal számos országban képviselteti magát. Légy részese egy olyan több mint 20 éves sikertörténetnek, amely Budapestről indult és vált nemzetközi szinten is egy meghatározó fejlesztési központtá az Ügyfelünk részeként. 
+Tool-fejlesztő csapatunkba keresünk Test Engineer kollégát manuális- és automatizált tesztelési területre!
+Test Engineer
+Feladatok
+Hogyan néz ki a csapat?
+A csapatuk új alapokra helyezte a JIRA-t, mint project management eszközt. Ehhez a szoftverhez fejlesztenek plugin-t a beérkező igények alapján. Csapaton belül nagy hangsúlyt helyeznek a kreatív problémamegoldásra, közös gondolkodásra a beérkező igények megvalósításának módjára.
+A feladataid lesznek:
+Tesztesetek írása és karbantartása fejlesztési specifikáció és dokumentáció alapján
+Egyedi fejlesztések funkcionális tesztelése manuálisan
+Backend és frontend funkciók tesztautomatizációja
+Tesztek kiértékelése, bugok jelentése, javítások validálása dokumentációja
+Teszt-lefedettség nyomonkövetése
+Terheléses és teljesítmény-tesztek írása, futtatása és kiértékelése
+Követelmények
+Milyen elvárásoknak kell megfelelned:
+Felsőfokú végzettség IT területen
+Legalább 1 év tapasztalat tesztautomatizálásban, vagy manuális tesztelésben és programozásban
+Jó kommunikációs készség
+Önálló munkavégzés, proaktív személyiség
+Középfokú angolnyelv-tudás (írás, olvasás)
+Előnyt jelent:
+Cypress, Karate, Jira ismerete
+Amit kínálunk
+Amit Partnerünk kínál:
+Piacképes alapfizetés és széleskörű juttatási csomag (cafeteria és bónusz)
+Részvételi lehetőség nemzetközi projektekben
+Rugalmas munkaidő és home office lehetőség (a munkaidő 60%-ában)
+A XI. kerületben található modern irodaházban kreatív környezetben dolgozhatsz, ahol sok színes közösségi tér, saját moziterem és egy skybar is vár
+Nyelvi kurzusok
+Folyamatos szakmai fejlődést biztosító, sikeres és gyorsan növekvő vállalat
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Process and Service Management (REF125F)
+Deutsche Telekom IT Solutions -
+Quality Assurance Automation Framework Developer (OTC) - REF1234F
+Deutsche Telekom IT Solutions -
+DevOps Engineer
+Thyssenkrupp -
+Hardver és szoftver integrációs tesztmérnök
+Deutsche Telekom IT Solutions -
+Automation Developer – Migration area
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

@@ -1,0 +1,63 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Cloud Architect (Open Telecom Cloud) - REF1377P (Budapest)
+Cloud Architect (Open Telecom Cloud) - REF1377P (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team. 
+Cloud Architect (Open Telecom Cloud) - REF1377P
+As a "Cloud Architect" you understand the latest developments of physical or virtual networks in cloud and container technology. You drive the further development of the network in our OpenStack-based cloud platform in the interest of customers and the OpenSource community.This includes the following tasks:You will be involved in the design, operation and further development of OpenStack-based services on the Open Telekom Cloud Platform in the network area in close contact with the manufacturers.You plan and drive automation using common automation frameworks.You further develop the physical and virtual network architecture, taking IT security aspects into account.You will work together with specialists from our team and other Deutsche Telekom teams on the technology topics of public cloud, open source and security.You will prepare materials for presentations and advise management on technology decisions.As a senior architect you will work in an agile based squad and supporting other colleagues is part of the journey.
+Requirements:Degree in computer science, mathematics, a technical, engineering or natural science subject or a comparable vocational training with many years of professional experience.3-5 years of professional experience in the ICT sector, ideally with a focus on modern Cloud technologies (Public Clouds, preferably OpenStack-based, or Docker or Kubernetes).Ability to understand Low Level Design and be able to work with it.Willingness to create proof-of-concepts with the help of necessary scripting languages and other tools for testing the concepts in practice.Excellent ability to assess technical solutions individually.Make the necessary decisions when solving incidents and any kind of tasks.Agile mindset.Fluent English, both written and spoken.Feeling comfortable in a multicultural environmentProven record of deep knowledge in physical networking and IT Security (Routers, Switches, Firewalls) is a plusPast experience with OpenSource projects is a plus.Very good knowledge of Linux Networking (Open vSwitch) is a plus.Experience with Automation e.g. with Ansible. Is a plus
+Multiple
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Szeged, Pécs
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

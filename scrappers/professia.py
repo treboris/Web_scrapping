@@ -20,15 +20,8 @@ options.headless = True
 
 driver = webdriver.Firefox(options = options)
 
-
-
-####################################PROFESSION#####################################
-#CSAK A HIRDETES CIMET AZ ALCIMKEKET ES A CEG NEVET HELYSZINT SCRAPPELI
-
-
 #feltoltes kerdeses
 upload_date = []
-
 corp = []
 main = []
 location = []
@@ -36,11 +29,9 @@ location = []
 #csak 195-ot talalt mert van ahol nincs kiirva
 salary = []
 
-
-
-i = 0
+i = 1
 while i < 10 :
-    url = (f"https://www.profesia.sk/praca/?search_anywhere=python&page_num={i}")
+    url = (f"https://www.profesia.sk/praca/programator/?page_num={i}")
     driver.get(url)
     html = driver.page_source
 
@@ -59,9 +50,10 @@ while i < 10 :
         location.append(loc.text)
 
     salary_tag = soup.find_all('span' , class_='label-group')
+    print(len(salary_tag))
     for sal in salary_tag:
         splitted = (sal.text).split()
-
+        print(splitted)
         if('Od' in splitted):
             splitted.remove('Od')
         if('Можливість' in splitted):
@@ -85,8 +77,10 @@ while i < 10 :
 
 driver.quit()
 
-
-
+print(len(corp))
+print(len(main))
+print(len(location))
+print(len(salary))
 
 save_data = Save(f'Professia' , ("Corporation" , corp) , ("Main" , main) , ("Location" , location))
 

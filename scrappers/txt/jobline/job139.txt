@@ -1,0 +1,88 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Java Developer for Cloud of Things (REF521E) (Budapest)
+Java Developer for Cloud of Things (REF521E) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 4500 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Java Developer for Cloud of Things (REF521E)
+Cloud of Things – Deutsche Telekom's IoT platform
+The Cloud of Things is our high-performance, cloud-based IoT application platform for the Internet of Things. You can use it to connect your devices and machines while monitoring and controlling them remotely. Out-of-the-box, no programming or installation (SaaS): Simply connect your devices, configure individual dashboards and get your first IoT project up and running!
+The Cloud of Things collects the sensor data of your connected machines in real-time and analyzes it. And you’ll always have an overview of several parameters, such as pressure, RPM, temperature or position in your personal web portal. You’ll also have comprehensive analysis tools at your disposal to gain insights and trigger automated actions. It all makes it extremely easy to develop new business models, increase the efficiency of your systems and processes, reduce downtime and cut costs through predictive maintenance.
+Responsibilities:
+Strong knowledge of Java stack technologies. 
+Development and maintenance of backend microservices. 
+Refactoring and code optimization. 
+Developing high-level solution designs.
+Fitting new solutions into existing landscape both in technical and business meanings.
+Evaluating changes impact and additional load introduced.
+Must Have:
+JDK8+
+Spring Boot 
+MQTT Basics
+MongoDB Basics
+Kubernetes, Docker
+English at least upper-intermediate level
+Recommended:
+VertX.io Basics
+Kotlin Basics
+MQTT-SN knowledge
+Deeper MQTT knowledge
+Experience with HiveMQ Broker
+Experience with distributed services
+Ansible Basics
+Docker Basics
+Network Basics
+Senior
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Fullstack developer (AFC)
+Deutsche Telekom IT Solutions -
+Java Architect - Software Architect - PLM area (REF399Q)
+Deutsche Telekom IT Solutions -
+Lead Java Developer (REF883E)
+Deutsche Telekom IT Solutions -
+Lead Java Developer (REF883E)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

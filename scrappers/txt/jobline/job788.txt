@@ -1,0 +1,88 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Senior Software Engineer – Full-stack/Mobile (Budapest)
+Senior Software Engineer – Full-stack/Mobile (Budapest)
+A hirdetés már lejárt!
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Senior Software Engineer – Full-stack/Mobile
+Your new company
+At our Partner they believe that the world is better when people try to understand one another. Since 1965, they have helped millions of people see new places, experience new cultures, and learn new things about the world and about themselves. Their culturally immersive education programs—focused on language, travel, cultural exchange, and academics—turn dreams into international opportunities.
+When you join to our Partner, you join a multicultural and diverse community working across more than 600 schools and offices in 50 countries, all with one shared mission of opening the world through education. Whoever you are, whatever you are passionate about—they welcome you and want you to bring that to work every day. Our partner is proud to be an equal opportunity employer and they are committed to inclusion and belonging across race, ethnicity, gender, age, religion, parental status, identity, experience and everything else that makes you unique.
+Your new role
+We are looking for a talented Full-stack Software Engineer with extensive Flutter experience. As a successful candidate you will be joining  our Partner's technology team based in Budapest. Along with your team, you will be responsible for building, delivering, and maintaining mobile application in Flutter together with their underlying APIs developed in C#.
+You will be responsible for delivering end to end features for our partner's students and teachers through development of our mobile applications and APIs as part of their team.
+Under the guidance Lead Software Engineers and Engineering Managers, you will develop first-class software solutions, both on the front-end side, adopting Flutter as well as on the back-end side, evolving their microservice ecosystem based on event driven architectures.
+If you are excited about tackling and solving tough problems; if you want to be part of a fast-paced work environment and work inside the support structure of a global enterprise; if you want to be a front runner in changing how our Partner conducts business through technology and design - then this position is for you.
+What you'll need to succeed
+You have good communication skills – not just spoken but also written
+• You are a team player – who is part of a successful cross-functional team having a composition of developers,  QAs, BAs and admins
+• You love to work in multi-cultural environments
+• You have strong attention to detail and excellent problem-solving skills
+• MSc degree in Computer Science
+• Extensive experience working with Flutter (3 years+)
+• Experience working with AWS
+• Experience working with Firebase
+• Excellent knowledge of the Dart programming language
+• Good knowledge of C# the programming language
+• Experience teaching and mentoring other engineers in new technologies such as Flutter.
+• Strong OOD competences and Software Engineering Methodologies & Practices
+• Very good design patterns knowledge and enterprise integration paradigms.
+• Full stack experience in development of complex projects, both on frontend and backend areas
+• Knowledge of software best practices like Refactoring, Clean Code, Domain Driven Design, SOLID principles, etc.
+• Hands-on experience in Web services, GraphQL API development, and REST API development
+• Experience in the education sector
+What you'll get in return
+Competitive salary package
+• Career growth opportunities
+• Work-life balance
+• Technology discussion groups
+• A friendly work environment
+• Regular mingle events
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

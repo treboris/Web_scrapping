@@ -1,0 +1,80 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+DevOps Engineer (Budapest)
+DevOps Engineer (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+DevOps Engineer
+Our client is a quantitative asset management firm founded in 2007 and currently has over 600 employees spread across more than 20 offices in 17 countries. They develop and deploy systematic financial strategies across a variety of asset classes in global markets, utilizing a proprietary research platform and risk management process. This is a private institutional investment management complex consisting of an international team of researchers, traders and technologists who constantly work toward even greater quantification and automation in the development of its trading processes. Now we are seeking a creative and driven technologiest with strong technical and programming skills, proven problem solving ability and excellent communication skills. The new colleague will work with the Core Technology DevOps team, with other technologiest, researchers and portfolio managers, monitoring and developing systems and tools to support the core production systems of the company.
+About this position
+Monitoring and supporting the software infrastructure and model production system;
+Investigating and troubleshooting issues;
+Integrating best-of-breed tools and technologies (Spark, Kafka, Zookeeper, Mesos, Docker, Elasticsearch);
+Assembling platforms and frameworks to automate business processes;
+Collababorating with internal technology, research and portfolio management teams;
+Build, testing and deployment pipelines, software and productivity tools, monitoring and middleware, data infrastructure.
+Requirements
+A bachelor degree in a technical or quantitative field;
+Fluent English both written and oral;
+Experience working in Linux, familiar with bash scripting;
+Demonstrated experience using Python and/or Java;
+Experience with relational databases (MySQL);
+Familiarity with existing open-source software packages and the DevOps toolchain;
+Experience in CI/CD;
+Excellent analytical skills and a passion for solving problems;
+Able to work independently with minimal direction.
+Offer
+Corporation with high-educated professionals who are from Google or Harvard University;
+Outstanding bonus package.
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+DevOps Engineer
+Deutsche Telekom IT Solutions -
+Software Engineer on network field (REF223C)
+Thyssenkrupp -
+Hardver és szoftver integrációs tesztmérnök
+Deutsche Telekom IT Solutions -
+DevOps Engineer for Cloud of Things (REF542I)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

@@ -1,0 +1,91 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Experienced System Architect (REF1223E) (Budapest)
+Experienced System Architect (REF1223E) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+The largest ICT employerin Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH)is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sitesin Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Experienced System Architect (REF1223E)
+Your department
+This position is filled in the Data Intelligence BU in the Digital Solutions portfolio unit of T-Systems International GmbH. The Data Economy chapter focuses on the development of the Telekom Data Intelligence Hub (DIH). We use the full range of data sources, from IoT to social media, to create sustainable innovation/value from the use of data and AI building blocks. Our solutions are both the memory and the brain of digitization. We use state-of-the-art open-source technologies and reference architectures from the IDS and GAIA-X environment. Always with the goal of bringing our customers' digitization strategies to success in the context of data spaces. As Germany's largest digital service provider, we shape the digital world together with our customers in a constantly growing market.
+Main tasks:
+Take responsibility for technical solution
+Create technical architecture according to enterprise or global standards
+Work together with solution architects, creating technical architecture according to enterprise or global standards
+Work together with cross-functional teams, ensuring code quality standards and mentoring junior colleagues
+Create documentation of technical components/modules together with developers
+Provide technical input for the backlog items (Epics, User Stories)
+Define and maintain the KPIs for code quality and propose solutions for their optimization
+Identify technical risks and provide measures to mitigate, minimize, avoid them or reduce technical debts
+Background and required skills:
+bachelor or master’s degree in the following areas: Computer science, Engineering or Information Technology or equivalent work experience in IT
+excellent knowledge in the following topics: Dealing with agile process models, scaling in an agile environment (Scrum of Scrum, SAFe), as well as proven experience in the application of Scrum, Kanban, Design Thinking and/or other agile methods
+extensive experience with designing Java based web applications
+ability to create architecture according to c4 model, arc42 or any other model/template
+good knowledge of communication protocols (HTTP, REST, AMQP, MQTT, Kafka, etc.)
+extensive experience with microservices architecture and cloud native designs
+experience with Kubernetes cluster (esp. cloud managed like AKS, EKS, etc.)
+experience with cloud infrastructure (Azure, AWS, GCP)
+experience or motivation to work with Web3 technologies esp. Self-Sovereign Identity
+good English written and oral skills. German is a plus
+Eagerness to continually learn, grow and improve in a collaborative team environment
+Willingness to travel, nationally/ internationally and able to work with teams locally and globally
+Tools experience: 
+Git
+Java, Kotlin and build tools like maven, gradle, etc
+Gitlab CI/CD (or other pipelines engines, e.g. gocd, jenkins, circle ci etc.)
+Any modern IDE (IntelliJ IDEA, VS Code, etc.)
+Jira, Confluence
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Szeged, Pécs
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Technical Process Specialist (REF705I)
+Deutsche Telekom IT Solutions -
+Incident responder (cert) ref68o
+Thyssenkrupp -
+Senior PLM / ALM Application Engineer
+Deutsche Telekom IT Solutions -
+Senior Network Architect (Open Telekom Cloud) - REF482J
+Deutsche Telekom IT Solutions -
+Application Administrator - Azure Operations Manager
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

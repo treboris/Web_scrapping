@@ -1,0 +1,74 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Software Engineer (Java/Microservices) (REF274B) (Budapest)
+Software Engineer (Java/Microservices) (REF274B) (Budapest)
+A hirdetés már lejárt!
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 4500 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team. 
+Software Engineer (Java/Microservices) (REF274B)
+We invite you to work in an agile software developer team with other T-shaped developers, on new functions and bugs of the application, as well as building microservices.
+Skills:
+4 yrs + Exeperience in JAVA development
+2 yrs + Experience in Implementing Microservices.
+Spring / Spring-Boot
+Git 
+Gitlab , especially gitlab CI/CD pipelines
+Basic Unix Shell Script (bash / sh)
+Java module System
+English: working proficiency
+Its a plus if you have experience in:
+developing and operating in virtual server environment (eg AppAgile with Red Hat OpenShift)
+Container technologies in Cloud Computing.
+API technology
+Experience with corporate Order-2-Cash, Procure-2-Pay processes
+Docker (writing Dockerfiles)
+Kubernetes (Openshift):
+Senior
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Neked ajánlott állások
+Neked ajánlott állások
+Thyssenkrupp -
+Szoftver tesztautomatizáló mérnök
+Deutsche Telekom IT Solutions -
+Senior Software Engineer (Data & Analytics)REF1182D
+Deutsche Telekom IT Solutions -
+Software engineer(REF588C)
+Thyssenkrupp -
+Szoftverintegrációs tesztautomatizáló mérnök
+Deutsche Telekom IT Solutions -
+Tapasztalt tesztelő német nyelvtudással (REF126D)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

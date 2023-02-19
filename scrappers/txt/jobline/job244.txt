@@ -1,0 +1,72 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Senior Devops Engineer (REF214E) (Budapest)
+Senior Devops Engineer (REF214E) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 4500 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Senior Devops Engineer (REF214E)
+Our group is responsible for the integration, validation and production of test results ("System Under Test") in accordance with the requirements of the Deutsche Telekom AG Platform, as measured by the diversity of the group. The work is carried out in several virtual squads within the group, mainly with german but also international colleagues. In one of these squads, called NNA_AAC , we are looking for a Senior DevOps Engineer colleague.
+Tasks
+Scope of NNA_AAC Squad: Development of automation use cases based on the automation tool NDO (Network and Domain Orchestrator) as part of the project "[email protected]", test automation.
+System management, automation and integration of network related systems within IPC
+Realization and implementation of automation solutions IP Core by means of SDN Orchestrator (NDO)
+Test automation (CI/CD)
+Requirements
+Network knowledge and experience Cisco CCNP level or similar level in Juniper
+Experience with network automation and Netconf
+Intermediate Python skills with min 1-2 years experience
+Data modeling (ideally using YANG, but XSD experience translates easily)
+Experience with REST, JSON, YAML, Linux, Git/Gitlab, CI/CD, Docker
+Ideally, experience with Kubernetes
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

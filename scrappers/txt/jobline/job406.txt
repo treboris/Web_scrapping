@@ -1,0 +1,89 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Big Data Engineer (Budapest)
+Big Data Engineer (Budapest)
+Jelentkezem az állásra ›
+Karrier Hungária
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+Big Data Engineer
+Feladatok:
+Teljes Big Data platform kialakításában való részvétel 
+Óriás adattömegek mozgatásának megtervezése
+Performancia monitorozása és javaslattétel infrastrukturális változtatásokra
+Együttműködés DWH és Reporting csapattal
+Elvárások:
+Elosztott rendszerek magas szintű ismerete
+Hadoop cluster management
+Hadoop, MapReduce, HDFS professzionális szintű ismerete
+Stream feldolgozó rendszer építésében szerzett tapasztalat, Storm vagy Spark használatával
+Kafka magas szintű ismerete
+Különböző ETL technikák és keretrendszerek ismerete, pl. Flume
+Big Data lekérdező eszközök ismerete, mint pl. Pig, Hive, és Impala
+Verziókövető rendszerek ismerete (GIT – Gitlab/ Bitbucket)
+Rendszerszintű gondolkodásmód
+Önálló és csapatban való munkavégzés
+Ajánlatunk:
+Versképes bérezés 
+Változatos hazai és nemzetközi projektek a legmodernebb technológiákra alapozva 
+Üzletileg kritikus, magas rendelkezésre állású IT rendszerek fejlesztése (és üzemeltetése)
+Komplex, felelősségteljes munka a rendszerek fejlesztésében
+Szakmai képzéseken, konferenciákon való részvételi lehetőség
+Stabil vállalat, fiatalos munkahely
+Dinamikus, szakmailag tapasztalt, széles látókörű kollégák, csapat, vezetőség
+Jól megközelíthető, felszerelt modern iroda
+Előnyök:
+Több adatforrásból történő adatintegrációban szerzett tapasztalat
+NoSQL adatbázisok ismerete, HBase, MongoDB
+Big Data ML toolkitek ismerete, pl SparkML
+További Big Data komponensek ismerete, mint NiFi, Ambari, Oozie, Kudu
+Hely:
+Budapest 
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+DevOps Engineer
+Deutsche Telekom IT Solutions -
+Software Engineer on network field (REF223C)
+Deutsche Telekom IT Solutions -
+DevOps Engineer for Cloud of Things (REF542I)
+Thyssenkrupp -
+Hardver és szoftver integrációs tesztmérnök
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

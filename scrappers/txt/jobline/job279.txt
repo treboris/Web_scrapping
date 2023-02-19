@@ -1,0 +1,78 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+API Developer (REF1084X) (Budapest)
+API Developer (REF1084X) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+API Developer (REF1084X)
+Tasks:
+Design and development of API-based microservices for DT IOT platforms and solutions
+Working in development team in agile context and active participation of agile activities like refinement, planning, daily, reviews and retro
+Responsible for complete implementation of user stories and end-to-end test automation tasks in DevOps mode
+Active contribution as team member for further improvement of product and team practices
+Requirements:
+3-5 years experience (or equivalent project expertise) of software development in agile context, particularly Scrum
+3-5 years experience (or equivalent project expertise) with development in node.js for backend and REST API components with no-SQL persistence layer (e.g. MongoDB)
+3-5 years experience (or equivalent project expertise) with DevOps activities and tools, particularly Gitlab CI/CD
+3-5 years experience (or equivalent project expertise) with development in cloud environments like Azure or AWS
+Previous experience in Telecommunications and IoT areas is a plus
+Very good analytical skills and ability to reason and discuss software design and architecture topics within the team
+Team spirit, sharing knowledge, tasks and goals, supporting other team members as required
+Willingness to take challenges on new areas, capability to learn on the fly, explore and find your way in new technical landscape
+Good communication skills and effective technical English
+Senior
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

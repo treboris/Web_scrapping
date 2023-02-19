@@ -38,9 +38,9 @@ main = []
 href = []
 corp = []
 location = []
+datee = []
 
-
-nov = 1
+nov = 0
 while nov < max_page_number:
     url = (f"https://jobline.hu/allasok/it_telekommunikacio-teljes_munkaido?p={nov}")
     driver.get(url)
@@ -85,13 +85,16 @@ list_size = len(main)
 for x in range(0, list_size):
     id.append(x)
 
+for y in range(0, list_size):
+    datee.append(date)
+
 
 
 
 print(len(corp))
 print(len(href))
 href.append("XXX")
-save_data = Save(f'Jobline_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href))
+save_data = Save(f'Jobline_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
 
 
 

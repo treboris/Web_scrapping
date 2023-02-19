@@ -1,0 +1,83 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+O365 Engineer (Magyarország)
+O365 Engineer (Magyarország)
+Jelentkezem az állásra ›
+Randstad Hungary Kft
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Global Technology Services (GTS) partners with the Aegon businesses to provide global IT standards and governance, global IT procurement services, and IT infrastructure, application, and cloud support services.
+This position will be part of the GTS Collaboration team focused on our Microsoft 365 (M365) Engineering function which is responsible for service rollout, deployment, engineering, and security/compliance for collaboration services including, but not limited to Microsoft 365, Teams, email, mailflow, security/encryption/DLP, Power Platform, backend identity dependencies (Azure AD), and governance of these services. The team also delivers technical consulting services and process management for these collaboration technologies. The team is organized to deliver services and engineering utilizing an agile framework with workload modularized, organized, and prioritized by the Product Owner (PO) who works closely with management and business stakeholders.
+O365 Engineer
+Feladatok
+On a day-to-day basis, this position will perform responsibilities such as some or all the following related to the Office 365 services:
+Deliver subject matter expertise of Office 365 with emphasis in Email, security, architectural design, migration, management and support of implementations.
+Provide overall Office 365 expertise including strong knowledge of Azure Active Directory, Exchange online, OneDrive, SharePoint, single sign-on and multi-factor authentication and related technologies (including Microsoft Enterprise Mobility + Security)
+This position is a key resource for our team in the identity and access management initiatives (joiner, mover, leaver).
+This position is a key resource for integrations and divestitures.
+This position is critical in the advancement of the Collaboration and User Experience strategies which are key future approaches for Aegon.
+Microsoft Exchange online and on-premises support.
+Secure email support.
+Data Leakage Prevention (DLP) support.
+Email archiving and retention policy support.
+Script troubleshooting and development
+Automation of repetitive tasks to improve efficiency of the team
+Own Microsoft 365/Office 365 documentation
+Követelmények
+Working knowledge of Office 365 Services
+Subject Matter Expertise in Exchange, mailflow, DLP, and secure email
+Fluent in PowerShell 
+General automation experience/technologies
+General Azure AD knowledge nice to have
+Amit kínálunk
+Opportunity to join a newly started IT Center in Budapest;
+Brand new office at an excellent location;
+Training and career opportunities;
+Competitive salary;
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+GCP (Google Cloud Platform) Consultant - REF142Z
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Deutsche Telekom IT Solutions -
+Experienced IT Architect for Software Engineering (REF1435M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

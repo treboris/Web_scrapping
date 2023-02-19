@@ -1,0 +1,71 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+System Engineer – OS Image and Support on Hybrid Cloud (REF1284Q) (Budapest)
+System Engineer – OS Image and Support on Hybrid Cloud (REF1284Q) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+The largest ICT employerin Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sitesin Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+System Engineer – OS Image and Support on Hybrid Cloud (REF1284Q)
+Our company in Switzerland has just recently built up the Country’s biggest Hybrid Cloud solution based on the product Open Telecom Cloud, an Openstack implementation. This is already a successor of the previous environment that was used by a singular customer, and now is scaling up and we are looking for people to join our team.
+For this matter we are in need of Engineers to work in a DevOps structure in our international team together wtih the Swiss counterpart, to develop, maintain and support the OS images and the representative provisioning layer of the VMs this cloud solution is offering to current and future customers.
+We do look for individual people who would join the team either as a RHEL or Windows engineer.
+Skills:
+To have a deep understanding of the Operating System layer (RHEL or Windows Server) with 3-5 years of experience working on field of an OS Administrator or similar
+Automation skills to use/maintain/develop the current code for provisioning VMs, making centralized changes in batches. Main technology for this is Ansible, Jenkins and Bash or Powershell accordingly the OS.
+To work in a Devops team in Scrum and SaFe methodologies
+At least a basic understanding on Cloud Infrastructure
+CI/CD experience for implementing changes and bug fixes
+Fluent English is a must, additional German is a big advantage
+Multiple
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Szeged, Pécs
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Technical Process Specialist (REF705I)
+Deutsche Telekom IT Solutions -
+Incident responder (cert) ref68o
+Deutsche Telekom IT Solutions -
+Senior Network Architect (Open Telekom Cloud) - REF482J
+Thyssenkrupp -
+Senior PLM / ALM Application Engineer
+Deutsche Telekom IT Solutions -
+Application Administrator - Azure Operations Manager
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

@@ -1,0 +1,88 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Data Engineer (Budapest)
+Data Engineer (Budapest)
+Jelentkezem az állásra ›
+Karrier Hungária
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+Data Engineer
+Feladatok:
+Kiemelten kritikus tranzakciós rendszerek adatbázis oldali fejlesztése
+Microservice architektúra adatbázis oldali adatmodellezése, adatkörök meghatározása
+Nagy rendelkezésre állású rendszer CockroachDB oldali tervezése, fejlesztése 
+Oracle oldali tervezése, fejlesztése, optimalizálása, performancia tesztelése
+Adatbázis oldali tevékenységek koordinálása, az alkalmazás oldali fejlesztés támogatása
+Adatbázisok (Oracle, CockroachDB) teljesítményének mérése, problémás területek azonosítás
+Elvárások:
+Legalább 3 év releváns szakmai tapasztalat
+Elosztott rendszerek magas szintű ismerete
+CockroachDB tervezésben, fejlesztésben, hangolásban szerzett tapasztalat
+Oracle vagy egyéb RDBMS-ben szerzett fejlesztői tapasztalat
+Adatmodellezésben való jártasság
+Nagy adattömegek mozgatásában, kezelésében, tárolásában szerzett tapasztalat
+Nem relációs adatmodellezés ismerete (elosztott adatbázis rendszerek, NoSQL adatbázisok, Column-oriented DBMS-k)
+Ajánlatunk:
+Versenyképes bérezés
+Változatos hazai és nemzetközi projektek a legmodernebb technológiákra alapozva 
+Üzletileg kritikus, magas rendelkezésre állású IT rendszerek fejlesztése (és üzemeltetése)
+Komplex, felelősségteljes munka a rendszerek fejlesztésében
+Szakmai képzéseken, konferenciákon való részvételi lehetőség
+Stabil vállalat, fiatalos munkahely
+Dinamikus, szakmailag tapasztalt, széles látókörű kollégák, csapat, vezetőség
+Jól megközelíthető, felszerelt modern iroda
+Előnyök:
+Adatbázis migráló/verziókövető eszközök ismerete: pl. Liquibase, Flyway, Alembic
+Streaming megoldások ismerete: pl. Kafka, Flume
+További technológiák: Hadoop stack, Cassandra, Redis, Elasticsearch, DWH 
+Cloud platformok ismerete: GCP, AWS, Azure
+CDC megoldások ismerete: Debezium, Changefeeds
+Hely:
+Budapest 
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Software Engineer on network field (REF223C)
+Deutsche Telekom IT Solutions -
+DevOps Engineer
+Thyssenkrupp -
+Hardver és szoftver integrációs tesztmérnök
+Deutsche Telekom IT Solutions -
+DevOps Engineer for Cloud of Things (REF542I)
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

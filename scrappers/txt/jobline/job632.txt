@@ -1,0 +1,114 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Senior Internet Analyst (Budapest)
+Senior Internet Analyst (Budapest)
+Jelentkezem az állásra ›
+Randstad Hungary Kft
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Global Technology Services (GTS) is Aegon's global IT partner that provides infrastructure services, information security and global/corporate application support for Aegon's businesses around the world.From 6 locations in the US, the Netherlands, UK, and Hungary, we support 20+ country units and 24000+ employees in the world. Our support consists of a wide range of centralized global IT services such as programming, database management, project management, agile/dev/ops, and more. We continue to maximize the value from having a clear digital and data technology platform strategy that extends our ecosystem, as an approach to digitization, enhancing customer experience, and improving operational efficiency.All of these teams work closely together to provide innovative and digital solutions as well as critical technology support. This is essential for enabling Aegon's businesses around the globe to be innovative, digital and competitive, efficient, and effective, and to provide the best solutions and customer experience for our customers and shareholders.
+Senior Internet Analyst
+Feladatok
+The Senior Web Security Engineer position will be responsible for consulting with various groups to plan, architect and implement standards-based solutions in the areas of Edge Security, including Load Traffic Management; Application Traffic Management (ATM), Application Security Manager and Management and security for APIs. Provides administrative support for several infrastructures related to web applications, identity management and the components surrounding these technologies. These include areas such as SharePoint, WebSphere, IIS, Tomcat, Apache, EpiServer, Proxy Internet Access, Oracle Access Manager, CMS Systems, Federation Services, Monitoring and F5 Content Switches. Also has responsibilities for Internet security, integration of 3rd party applications, domain name / SSL certificate administration and documentation.  What You Will Do:
+Direct responsibilities on the operational team for developing and maintaining integrated strategies and solutions, with a focus on WAF services for the Global Aegon environment.  WAF services include the following core technologies support by the F5 product.  
+Provide effective project management and feasibility analysis on potential future projects.
+Support Web Access Management Systems applications and Integrations.
+Provide documentation highlighting integration, design and SSO features of solutions.
+Provide technical leadership, guidance, and architectural planning for internal/external customer engagements. Assist in automation and building repeatable patterns for consumption.
+Perform day to day operations to maintain SLAs and business functions
+Runs small to medium enterprise infrastructure projects from requirements gathering to post-implementation.
+Optimizes the performance and availability of the Web Services environment through monitoring, patching, software tools, and process improvements
+Complies with information security policies 
+Solid knowledge of project management methodologies; able to manage project phases or less complex projects
+Provide documentation highlighting integration, design, and features of solutions.
+Követelmények
+Qualifications:
+Knowledge and experience in working with F5 Technologies, including but not limited to ASM, LTM, and AAM
+Experience at delivering technology solutions at an enterprise level.
+Excellent diagnostic and troubleshooting skills, and the ability to excel under pressure
+Developed written and verbal skills, assignment and priority flexibility, and time management skills
+Understanding of DNS, TCP/IP addressing and networking (Internet, routers, switches)
+Knowledge of Web Services, Web and Application Services, Java and .NET technologies, and cloud services.
+Background in scripting, code development such as PowerShell, Ansible, Java, .NET, etc.
+Ability to work in teams on small to medium projects.
+Excellent understanding of cloud and on-prem based infrastructure solutions and their Access Management needs.
+Ability to quickly learn and apply new concepts.
+Ability to drive and achieve consensus/support from large diverse groups.  
+Strong written and verbal communication skills enabling effective articulation of strategy.
+Able to understand how concepts apply to design or architectural efforts
+Enterprise network security technologies including firewalls, IDS, IPS, NAC, WAF, and Web Proxies
+Working knowledge of Certificate/CA/PKI infrastructure
+Possesses and applies broad knowledge of concepts and principles or exhibits technical expertise related to server infrastructure and web-based application support.
+A four-year computer science or related technical degree or minimum of 5 (five) years of solid related work experience.
+Breadth of knowledge across many technology disciplines; including various access management solutions
+Preferred:
+Understanding of the details in working in a highly optimized TCP/IP Stack.
+Understanding digital forensics and incident response (DFIR) and how it relates to the enterprise’s overall security posture and response
+Strong understanding of F5, Web Application Firewalls, LTM and ASM
+Strong level of knowledge of network domain technologies, platforms, and principles, including route/switch protocols, LAN/WAN, data center, high-availability design, Web Application Firewall, Domain Name Service and IP management, Content Delivery Network,Data Analytics, WAN optimization, Network Time Protocol and Network Monitoring.
+Understanding of microservices-based architecture, API based system integration and Amazon Web Services cloud Identity & Access
+Understanding of working in a hybrid cloud environment and working knowledge of AWS Cloud Principles.
+Firm understanding of SDS and experience with managing HA replicas
+Knowledge in scripting, code development such as PowerShell, Ansible, Java, .NET, etc. and automating developments by code
+Ability to work in teams on small to medium projects.
+Excellent understanding of cloud and on-prem based infrastructure solutions and their Access Management needs.
+Understanding of microservices-based architecture, API based system integration and Amazon Web Services cloud Identity & Access
+A four-year computer science or related technical degree or equivalent experience
+Hands on experience mentoring small to medium teams
+Ability to convert complex information into simple, explainable solutions.
+Possesses a planning orientation with integrative and strategic thinking skills. 
+Demonstrated project management and client relationship skills.
+Good understanding of a zero trust network environment.
+Amit kínálunk
+Hybrid work
+Modern office at an excellent location
+Competitive salary
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Technical Process Specialist (REF705I)
+Deutsche Telekom IT Solutions -
+Incident responder (cert) ref68o
+Deutsche Telekom IT Solutions -
+Senior Network Architect (Open Telekom Cloud) - REF482J
+Thyssenkrupp -
+Senior PLM / ALM Application Engineer
+Deutsche Telekom IT Solutions -
+Application Administrator - Azure Operations Manager
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

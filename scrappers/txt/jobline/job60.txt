@@ -1,0 +1,79 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Azure Platform Engineer (REF62K) (Budapest)
+Azure Platform Engineer (REF62K) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 4500 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Azure Platform Engineer (REF62K)
+IoT will be the market leader segment of the IT within years. In this segment the Deusche Telekom Group plays an important role. Using the latest technologies (5G, NB-IoT, Cloud, Data Sciene), tools and methods we are developing different enterprise products for the market. We are looking for someone who wants to be part of the future, keen on the newest technologies and would like to join our team and journey.
+As DevOps by the Hungarian IoT unit of Deutsche Telekom IoT Gmbh (https://iot.telekom.com/en) , you will be part of  a suad of developers and testers responsible for specific product and/or feature.  The daily life of a squad is organized with Agile methodologies and tools, like Scrum or KANBAN. You represent the squad in communication with other departments (such as T-Sec, DT IoT Gmbh) and external service providers (Microsoft, AWS). You will actively shape the future of the Magenta Internet of Things (IoT).
+Main responsibilities:
+support the developers in IAAS and PAAS topics
+design, build and automate the cloud environment for the product
+create, maintain and run numerous pipelines
+setup and maintaing monitoring of the environmet
+Requirements:
+Experience in design, implementation or consulting in distributed or cloud applications
+Microsoft Azure experience preferably on PaaS and automation fields or other cloud poviders(AWS, OTC, GCP)
+Working knowledge of software development life cycle tools and agile methodologies (Jira, Confluence, Gitlab, Atrifacroy, SonarQube – or equivalent)
+Proven knowledge of container tools/services: Kubernetes and Microsoft AKS
+Programming/scripting skills (Python is very welcome) Experience in cloud agnostic Infrastructure (Terraform)
+Knowledge of IAM technologies (Active Directory/LDAP/ADFS/ OAuth and Keycloak)
+Experience in monitoring and logs analysis (ELK, Loganalytics or similar)
+Experience in working with international teams and fluent in English
+Plus:
+Knowledge of Linux
+Knowledge of other IT fields and information security
+Experience with Big Data related solutions (Kafka, Hadoop or similar)
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Technical Process Specialist (REF705I)
+Deutsche Telekom IT Solutions -
+Incident responder (cert) ref68o
+Deutsche Telekom IT Solutions -
+COGNOS expert (REF1469X)
+Deutsche Telekom IT Solutions -
+Senior Network Architect (Open Telekom Cloud) - REF482J
+Thyssenkrupp -
+Senior PLM / ALM Application Engineer
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

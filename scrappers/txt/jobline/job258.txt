@@ -1,0 +1,88 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Fullstack Java fejlesztő (Budapest)
+Fullstack Java fejlesztő (Budapest)
+Jelentkezem az állásra ›
+Thyssenkrupp
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+A thyssenkrupp egy nemzetközi vállalatcsoport, amely nagyrészt független ipari és technológiai üzletágakból tevődik össze, és világszerte 96 000 embert foglalkoztat. A 2021/22-es pénzügyi évben 48 országban 41 milliárd eurós árbevételt ért el. A széleskörű technológiai know-how-ra támaszkodva az üzletágak költséghatékony és erőforrás-kímélő megoldásokat fejlesztenek a jövő kihívásaira, különösen az éghajlatvédelem, az energetikai transzformáció, az ipar digitális átalakulása és a jövő mobilitása terén.
+Magyarországi kompetencia központunkban közel 1000 fős mérnökcsapatunkkal innovatív partnerként vagyunk jelen az autóipar egyik leggyorsabban és legizgalmasabban fejlődő szegmensében, az elektromechanikus kormányrendszerek területén. Kiemelkedő minőségű, high-tech fejlesztéseinkkel neves autógyárak igényeit elégítjük ki, fejlesztéseink pedig a világszerte autóba szerelt kormányrendszerek 25 százalékában megtalálhatóak. Mérnökeink olyan ma még nem létező megoldásokon is dolgoznak, amelyek megváltoztathatják az autóipar jövőjét.
+Fullstack Java fejlesztő
+Feladatok:
+A kollégák igényei alapján új szolgáltatások, belsős toolok fejlesztésével és bevezetésével foglalkozunk csapat szinten
+Ezeknek a tooloknak a lefejlesztése, tesztelése és integrálása is hozzánk tartozik, majd a releaseket követően a kód- és adatbázis karbantartás, optimalizálás továbbra is a mi felelősségünk
+Elsődlegesen meglévő és új web alapú, hálózati kommunikációs szoftverekhez nyújtunk megoldásokat - az egyik ilyen fejlesztésünk egy belsős teljesítményértékelési felület, ahol az éves-féléves értékeléseket le tudják bonyolítani a csapatok
+Elvárások:
+Villamosmérnök vagy mérnökinformatikus végzettség
+Fejlesztési tapasztalat (Java11+), frontend fejlesztési ismeretek valamely SPA keretrendszerben
+Relációs adatbázis, SQL ismeretek
+Rendszerszemlélet és precíz munkavégzés
+Kommunikációképes angol nyelvtudás szóban és írásban egyaránt
+Jó kommunikációs és problémamegoldó készség
+Csapatjátékos hozzáállás
+Előny: 1-2 év releváns fejlesztői tapasztalat
+Techstack
+Java (SE, EE), Javascript
+js, TypeScript tapasztalat
+Spring Core, Spring Boot tapasztalat
+GIT , Maven, NPM, QueryDSL, OpenAPI v3, CSS, JUnit, Selenium
+Clean code
+Vue.js vagy React tapasztalat
+Ajánlatok:
+A XI. kerületben található modern irodaházunkban kreatív környezetben dolgozhatsz, ahol sok színes közösségi tér, saját moziterem és egy skybar is vár
+Rugalmas munkaidővel és home office lehetőséggel támogatunk (a legtöbb területen a havi munkaidő 60%-a)
+Versenyképes fizetést és széleskörű juttatásokat (cafeteria és bónusz) biztosítunk számodra
+Részese lehetsz egy sikeres, gyorsan növekvő technológiai vállalatnak
+Új nyelveket tanulhatsz nálunk (5 nyelv közül választhatsz)
+Szabadidős programokon kapcsolódhatsz ki (társasjátékok, sportolási lehetőség)
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Java Developer for Cloud of Things (REF521E)
+Deutsche Telekom IT Solutions -
+Fullstack developer (AFC)
+Deutsche Telekom IT Solutions -
+Java Architect - Software Architect - PLM area (REF399Q)
+Deutsche Telekom IT Solutions -
+Lead Java Developer (REF883E)
+Deutsche Telekom IT Solutions -
+Lead Java Developer (REF883E)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Kecskemét
+Tiszaújváros
+Miskolc
+Székesfehérvár
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job
