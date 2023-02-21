@@ -1,89 +1,116 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
-from datetime import date
-from csv import writer
-import pandas as pd
-import time
-import requests
+from datetime import datetime
 from Data import Save
+import requests
+import time
 
-print("PROFESSIA-scrapper STARTED")
+
+print("PROFESSIA.SK-scrapper STARTED")
 start_time = time.time()
-
-
+date = datetime.today().strftime('%Y-%m-%d')
 options = Options()
 options.headless = True
-
-
 driver = webdriver.Firefox(options = options)
 
-#feltoltes kerdeses
-upload_date = []
+
+
+limit_txt = "?page_num="
+limit = 1
+
+
+
+id = []
 corp = []
 main = []
 location = []
-
-#csak 195-ot talalt mert van ahol nincs kiirva
+href = []
 salary = []
+datee =[]
 
-i = 1
-while i < 10 :
-    url = (f"https://www.profesia.sk/praca/programator/?page_num={i}")
+
+def page_number():
+    url = (f"https://www.profesia.sk/praca/programator/{limit_txt}{limit}")
+    page = requests.get(url)
+    soup = BeautifulSoup(page.text,"html.parser")
+    number = soup.find('div',class_='offer-counter text-right bold')
+    splitted = number.text.split()
+    return(int(splitted[-1]))
+
+
+
+def conn(limit_txt,limit):
+    url = (f"https://www.profesia.sk/praca/programator/{limit_txt}{limit}")
     driver.get(url)
     html = driver.page_source
-
+    page = requests.get(url)
     soup = BeautifulSoup(html,"html.parser")
+    return soup
 
-    main_tag = soup.find_all('span' ,class_='title')
-    for m in main_tag:
-        main.append(m.text)
-
-    employer_tag = soup.find_all('span' , class_='employer')
-    for emp in employer_tag:
-            corp.append(emp.text)
-
-    location_tag= soup.find_all('span', class_='job-location')
-    for loc in location_tag:
-        location.append(loc.text)
-
-    salary_tag = soup.find_all('span' , class_='label-group')
-    print(len(salary_tag))
-    for sal in salary_tag:
-        splitted = (sal.text).split()
-        print(splitted)
-        if('Od' in splitted):
-            splitted.remove('Od')
-        if('Можливість' in splitted):
-            splitted.remove('Можливість')
-            splitted.remove('для')
-            splitted.remove('людей')
-            splitted.remove('України')
-        if('Reagujte' in splitted):
-            splitted.remove('Reagujte')
-            splitted.remove('bez')
-            splitted.remove('životopisu')
-        if('Ponuka' in splitted):
-            splitted.remove('Ponuka')
-            splitted.remove('onedlho')
-            splitted.remove('končí!')
-        if(splitted[-1] == 'з'):
-            splitted.remove('з')
-        salary.append(" ".join(splitted))
-
-    i += 1
-
-driver.quit()
-
-print(len(corp))
-print(len(main))
-print(len(location))
-print(len(salary))
-
-save_data = Save(f'Professia' , ("Corporation" , corp) , ("Main" , main) , ("Location" , location))
+page = round(int(page_number()/20))
 
 
 
-print("Execution time: %s seconds ---" % (time.time() - start_time))
+while(limit < page):
+
+    main_block = conn(limit_txt,limit).find('ul', class_='list')
+    for li in main_block.find_all('li',class_='list-row'):
+        for h2 in li.find_all('h2'):
+            for a in h2.find_all('a'):
+                href.append(a.get('href'))
+        for title in li.find_all('span',class_='title'):
+            main.append(title.text)
+        for loc in li.find_all('span',class_='job-location'):
+            location.append(loc.text)
+        for corporation in li.find_all('span',class_='employer'):
+            corp.append(corporation.text)
+
+    for x in range(1,21):
+        try:
+            label = driver.find_element(By.XPATH,f"//*[@id='content']/div/div/main/div/ul/li[{x}]/span[3]")
+            splitted = (label.text).split()
+            if('Od' in splitted):
+                splitted.remove('Od')
+            if('Можливість' in splitted):
+                splitted.remove('Можливість')
+                splitted.remove('для')
+                splitted.remove('людей')
+                splitted.remove('України')
+            if('Reagujte' in splitted):
+                splitted.remove('Reagujte')
+                splitted.remove('bez')
+                splitted.remove('životopisu')
+            if('Ponuka' in splitted):
+                splitted.remove('Ponuka')
+                splitted.remove('onedlho')
+                splitted.remove('končí!')
+            if('з' in splitted):
+                splitted.remove('з')
+            salary.append(" ".join(splitted))
+        except (NoSuchElementException):
+            salary.append(None)
+
+    limit += 1
+
+#ID DATE
+list_size = len(main)
+for x in range(0, list_size):
+    id.append(x)
+
+for y in range(0, list_size):
+    datee.append(date)
+
+
+
+
+
+
+save_data = Save(f'Professia_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
+
+
+
+print("--- %s seconds ---" % (time.time() - start_time))

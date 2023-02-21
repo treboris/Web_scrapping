@@ -28,13 +28,12 @@ driver = webdriver.Firefox(options = options)
 
 
 href = []
-upload_date = []
+datee =[]
 corp = []
 main = []
 labels_list = []
-#nemjo mert kevesebb tallat van valamiert
 location = []
-
+id = []
 
 
 #PAGE COUNTER
@@ -105,6 +104,13 @@ while i < max_page_number:
     i += 1
 
 
+#ID
+list_size = len(main)
+for x in range(0, list_size):
+    id.append(x)
+
+for y in range(0, list_size):
+    datee.append(date)
 
 
 
