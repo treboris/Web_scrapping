@@ -67,6 +67,8 @@ while i < max_page_number:
 
 
 
+
+
     for m in main_tag:
         m_ = m.text.replace("\n","")
         main.append(m_)

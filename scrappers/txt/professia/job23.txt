@@ -1,0 +1,86 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFull stack developer (medior) 
+Full stack developer (medior)
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+2 200 EUR/monthFrom 2200€  + VAR**We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions.
+Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and dutiesIn Siemens Healthineers, we are building the next generation enterprise solutions powered by modern technological stacks, enhanced with artificial Intelligence and machine learning technologies.You will engage closely with architects and engineering teams to build new software platform to control, service and maintain hundreds of thousands of Siemens Healthcare devices (CTs, MRIs, Utrasounds, etc.) and various other systems world-wide. Working on challenging tasks to enable integration of medical devices and processing of high-throughput as well as big volume of dataResponsibilities:•	Contribute towards the Architecture, Design and technical debt of the product to assure a scalable SW platform where services can be docked and configured•	Design and implementation of the software components based on the software design (e.g. RESTful web services, etc.)•	Transforming requirements of various stakeholders into the business logic implementation in the backend service.•	Supporting the test strategy in terms of writing automated tests and unit tests•	Ensuring the quality of the software product (conformance with the development process)•	Maintain and improve various parts of the user interface•	Integrate front-end parts with backend services and deploy the micro-sites with usage of micro-service architecture•	Deployment and monitoring of the services•	Incorporating user feedbacks and change requests in short development cycles (agile development)•	Documentation of the product design and implementation•	Investigation and fixing of the software defectsExpected qualification:•	Bachelor or Master of Science in Computer Science or related field•	5+ years hands on software development experiences in agile way•	knowledge of: C#, .NET, JavaScript, Web stack (HTML5, CSS3)•	experience with: .NET Core, ASP.NET Core, Angular•	good understanding of OOP, SOLID, Clean Code•	test automation and unit testing•	continuous integration and continuous deployment•	english in speaking and writing•	mentoring and leading of junior developers•	open feedback culture and continuous improvement mind-set, team playerNice to have:•	Event Sourcing•	Docker, Kubernetes, Helm•	basic understanding of networking - TCP/IP•	experience with TDD•	experience with AWS, Rabbit MQ•	experience with Micro-services architectureBasic wage component (gross) and other rewards : starting from 2200EUR brutto /month + VAR*
+            Required education, skills and personality requirements
+Required educationUniversity education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)
+We offer
+ Variable and Christmas bonus Hybrid type of work – combination of telework and work from office Flexible Working Hours Bridge days – free extra paid leave 6 days per year 3 sick days per year (no doctor’s permit needed) In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of   family care Additional pension plan 300 EUR for regeneration of work force via cafeteria system Wellbeing program – Psychological, Legal and Financial Councelling Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps) Retention program (work anniversary, life anniversary, employee loans) Training and development program (business and product trainings, e-learning, language courses, soft skills trainings,…) Adjustable standing desk as a standard Participation on world famous IT conferences like Microsoft IGNITE for best employees Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial ---Intelligence, Healthcare IT services, …)
+Send CV
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+viac informácií
+ID: 4355361 
+     Dátum zverejnenia:  21.2.2023 
+    2023-02-21
+lokalita: Bratislava   Pozícia: Programmer   Spoločnosť: Siemens Slovensko   
+Základná zložka mzdy (brutto): 2 200 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Fórum práce
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 
+from tqdm import tqdm
 from bs4 import BeautifulSoup
 from datetime import datetime
 from Data import Save
@@ -15,7 +16,7 @@ start_time = time.time()
 date = datetime.today().strftime('%Y-%m-%d')
 
 
-
+#DATA
 id = []
 corp = []
 main = []
@@ -23,6 +24,8 @@ location = []
 href = []
 salary = []
 datee =[]
+
+#CONNECTION
 def conn(limit_txt,limit):
     url = (f"https://kariera.zoznam.sk/pracovne-ponuky/informatika-software{limit_txt}{limit}")
     page = requests.get(url)
@@ -30,7 +33,7 @@ def conn(limit_txt,limit):
     return soup
 
 
-
+#GET-PAGE-NUMBER
 def page_number():
     url = (f"https://kariera.zoznam.sk/pracovne-ponuky/informatika-software")
     page = requests.get(url)
@@ -43,11 +46,9 @@ def page_number():
 
 
 pages = round(page_number() / 30)
-
 paginator = 0
 limit_txt = "?od="
-limit = 1
-while(limit <= pages):
+for limit in tqdm(range(pages)):
     #url = (f"https://kariera.zoznam.sk/pracovne-ponuky/informatika-software{limit_txt}{limit}")
     #page = requests.get(url)
     #soup = BeautifulSoup(page.text,"html.parser")
@@ -74,7 +75,6 @@ while(limit <= pages):
             salary.append(None)
 
     paginator += 30
-    limit += 1
 
 #ID DATE
 list_size = len(main)
@@ -86,7 +86,9 @@ for y in range(0, list_size):
 
 
 
-save_data = Save(f'Kariera_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
 
+
+
+save_data = Save(f'Kariera_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
 
 print("--- %s seconds ---" % (time.time() - start_time))

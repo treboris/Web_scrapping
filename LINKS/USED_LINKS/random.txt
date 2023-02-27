@@ -21,3 +21,12 @@ http://vmp.munka.hu/allas/talalatok/?kategoria=13
 
 scrap all the text
 https://www.geeksforgeeks.org/how-to-scrape-all-the-text-from-body-tag-using-beautifulsoup-in-python/
+
+
+tqdm
+https://pypi.org/project/tqdm/
+
+
+
+EU
+https://ec.europa.eu/eures/portal/jv-se/jv-details/MjExNzcxMSAxOQ?jvDisplayLanguage=hr&lang=en

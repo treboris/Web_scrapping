@@ -2,12 +2,14 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
+
 from bs4 import BeautifulSoup
 from datetime import datetime
+from tqdm import tqdm
+from Data import Save
 import pandas as pd
 import time
 import requests
-from Data import Save
 
 print("JOBLINE-scrapper STARTED")
 start_time = time.time()
@@ -89,10 +91,13 @@ for y in range(0, list_size):
     datee.append(date)
 
 
+print(location)
+print(href)
+print(datee)
+print(corp)
+print(main)
+print(id)
 
-
-print(len(corp))
-print(len(href))
 href.append("XXX")
 save_data = Save(f'Jobline_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
 
