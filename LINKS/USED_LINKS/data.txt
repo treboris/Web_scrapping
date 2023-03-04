@@ -18,3 +18,9 @@ https://pandas.pydata.org/docs/reference/frame.html
 
 python selenium webscraping "NoSuchElementException" not recognized
 https://stackoverflow.com/questions/19200497/python-selenium-webscraping-nosuchelementexception-not-recognized
+
+data index get the row of .csv
+https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe
+
+
+ERP SYSTEM

@@ -1,15 +1,16 @@
 from bs4 import BeautifulSoup
 from datetime import date
-from tqdm import tqdm
+from Data import Save
+from datetime import datetime
 
+from tqdm import tqdm
 import pandas as pd
-import time
 import requests
+import time
+import re
 
 print("Script STARTED")
 start_time = time.time()
-
-
 
 
 #DATA
@@ -40,14 +41,57 @@ def conn(limit):
 
 
 
-
 for limit in tqdm(range(1,page_number())):
     fblock = conn(limit).find('ul',class_='job-cards')
-    for card_body in fblock.find_all('div', class_='card-body'):
-        print(card_body.text)
+    tmp = 0
+    tmp1 = 0
+    tmp2 = 0
+    tmp3 = 0
+    for card_body in fblock.find_all('div', class_='card-body-header-company'):
+        #MAIN-HREF
+        for h2 in card_body.find_all('h2'):
+            if(tmp1 < 2):
+                pass
+            else:
+                strip = h2.text.strip()
+                strip = re.sub('\n',"",strip)
+                main.append(strip)
+            tmp1 += 1
 
+            for a in h2.find_all('a'):
+                if(tmp <2):
+                    pass
+                else:
+                    href.append(a.get('href'))
+            tmp += 1
+        #CORPORATION
+        for div in card_body.find_all('a' , class_='link-icon'):
+            if(tmp2 <2):
+                pass
+            else:
+                strip = div.text.strip()
+                strip = re.sub('\n',"",strip)
+                corp.append(strip)
+        tmp2 += 1
 
-
+        #LOCATION - itt ott van a html elem de ''-kent itt nem jo a try/catch megoldas
+        for span in card_body.find_all('span'):
+            if(tmp3 < 2):
+                pass
+            else:
+                if(span.get('title') == None):
+                    pass
+                else:
+                    strip = span.get('title').strip()
+                    if(strip == ''):
+                        location.append(None)
+                    else:
+                        strip = re.sub('\n',"",strip)
+                        if(strip == '' or strip == 'Legyen az első 5 jelentkező között!'):
+                            pass
+                        else:
+                            location.append(strip)
+        tmp3 += 1
 #ID DATE
 list_size = len(main)
 for x in range(0, list_size):
@@ -55,3 +99,6 @@ for x in range(0, list_size):
 
 for y in range(0, list_size):
     datee.append(date)
+
+
+save_data = Save(f'Kariera_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )

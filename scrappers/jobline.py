@@ -99,7 +99,8 @@ print(len(corp))
 print(len(location))
 print(len(datee))
 
-
+print(main)
+print(href)
 
 #save_data = Save(f'Jobline_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
 
