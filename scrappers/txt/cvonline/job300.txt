@@ -1,0 +1,93 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+IT Rendszerszervező (Bankkártya Back Office rendszerek) 
+Ország: Magyarország (+36)
+A pozíció leírása:
+Banki ügyfelünk részére keresünk Rendszerszervő/ IT Business Analyst munkatársat.
+Feladatkör, felelősségek:
+A Bankkártya Back Office rendszerek lecserélése megbízónk egyik legfontosabb rendszer megújítási projektje, mely során kiváltásra kerülnek a korábbi rendszerek, valamint felülvizsgálják, illetve racionalizálják az üzleti és informatikai folyamatokat.
+A rendszercsere egyúttal technológiai szint váltást is jelent, nem csak az alkalmazott IT technológiák és infrastrukturális elemek, hanem a projekt munka során követett fejlesztési módszertan, tervezési, tesztelési eszközök tekintetében is.
+Ehhez a munkához keresünk olyan informatikai rendszerszervezőt, aki részese szeretne lenni ennek az innovációnak és a közös sikernek.
+Feladatok:
+• Részvétel a jelenlegi működés felmérésben, és a leendő működés tervezésében, közösen az üzleti szakértőkkel squadon belül
+• Részvétel a bank stratégiailag meghatározó rendszercsere feladatában
+• A kártya domain-ben dolgozó többi chapter és IT szakértővel, a kártyatársaságokkal, illetve a külső szállítókkal folyamatos szakmai kapcsolattartás, egyeztetés
+• Az egyes funkcionális és nem funkcionális elvárások specifikációja, dokumentációja
+• A leendő rendszer működésének tervezése UML eszköztárral
+• Teszt tervek készítése
+• Szakmai kapcsolattartás más érintett területekkel
+• Szervezői tesztelések előkészítése, tesztdokumentáció készítése, tesztelés
+A munkakör betöltéséhez szükséges tapasztalat, végzettség:
+• Legalább 4 év IT területen szerzett szakmai tapasztalat Systems Analyst vagy IT Business Analyst munkakörben
+• Angol nyelv legalább társalgási és szakmai szintű ismerete
+• Felsőfokú végzettség informatikai, gazdasági vagy műszaki területen
+• SQL nyelv és relációs adatbázisok felhasználói szintű ismerete
+• MS Office programok felhasználói szintű ismerete
+• Proaktív hozzáállás, kooperatív személyiség, jó kommunikációs készség
+Előny:
+• Banki folyamatelemzési, folyamatszervezési tapasztalat
+• Bankkártya rendszerek ismerete, illetve bankkártya kibocsátási folyamatok ismerete
+• Agilis módszertan ismerete, ilyen környezetben szerzett tapasztalat
+• Atlassian Confluence és Jira eszközök ismerete
+• Interfész technológiák (SOAP WS, REST API, RabbitMQ, Kafka), valamint XML, JSON adatstruktúrák ismerete
+• UML alapú tervezésben szerzett tapasztalat, valamint Enterprise Architect (by Sparx Systems) eszköz ismerete
+Nyelvtudás:
+Angol nyelv legalább társalgási és szakmai szintű ismerete
+A megbízó cég profilja:
+Megbízónk nemzetközi, piacvezető pénzügyi vállalat.
+Amit megbízónk kínál :
+• Versenyképes fizetés és kiemelkedő juttatási csomag (cafeteria + 2 havi bónusz + egyéb juttatások és bankos kedvezmények)
+• Részvétel a bank alapvető rendszereinek megújításában
+• Home office (heti 3 nap )
+• Stabil hátterű, piacvezető, nemzetközileg elismert vállalatcsoport
+• Professzionális munkakörnyezet
+• Fejlődő és innovatív vállalati háttér, korszerű technológiai környezet
+• Szakmai karrierutak biztosítása
+• Szakmai fejlődési lehetőség, rendelkezésre álló képzési keretek
+Egyéb:
+Jelentkezésével Ön hozzájárul az önéletrajzában szereplő adatok kezeléséhez, adatbázisba történő felvételéhez, ill. megfelelő állásajánlat esetén • előzetes egyeztetés alapján • megbízónknak való továbbításához. Amennyiben még nem tekintette meg, kérjük, olvassa el részletesen adatvédelmi tájékoztatónkat az alábbi linken: https://www.pbs-job.hu/?/data-protection/for-employees Jelentkezésével Ön tudomásul veszi az adatvédelemre vonatkozó tájékoztatást
+Jelentkezem
+Elmentem az állást
+IT Rendszerszervező (Bankkártya Back Office rendszerek) 
+Jelentkezem
+Elmentem az állást
+PBS International Kft. 
+Hungary 
+Teljes munkaidős 
+Frissítés dátuma: 28.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Rendszerszervező  
+ Budapest  
+ Rendszerszervező 
+ Budapest  
+ Szoftvertesztelő mérnök - Beágyazott rendszerek 
+ Budapest  
+ IT Business Analyst (junior/medior) 
+ Budapest  
+ IT Business Analyst (core banki rendszer cseréje) 
+ Budapest  

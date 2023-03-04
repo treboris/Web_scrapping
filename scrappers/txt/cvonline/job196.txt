@@ -1,0 +1,75 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Product/UX Designer 
+The Company
+Diligent is the world’s largest GRC SaaS provider, serving nearly 1 million users from 25,000 organizations around the world. Our software enables holistic and informed conversations about governance, risk and compliance and ensures CEOs, CFOs and the board have an integrated view of audit, risk, information security, ethics and compliance from across the organization.
+Our world-changing idea is to bring technology, insights and confidence to leaders so they can build more effective, equitable, and successful organizations – and create lasting, positive impact on the world. We seek to empower organizations to be better for their stakeholders and communities, for their customers and employees, for their bottom line.
+Headquartered in New York, Diligent also has offices in Washington D.C., London, Galway, Budapest, Vancouver, Bengaluru, Munich, and Sydney.
+Position Overview
+As the Senior Product Designer on Diligent’s Design Systems team, you’ll lead the growing of our Atlas design system.  Atlas is a primary area of focus within our growing Product Design team, so you’ll take charge of the way it all comes together—from helping to build out the team to assisting with defining the project roadmap as well as guiding execution and implementation. This is an ideal role for system thinkers and strong collaborators:  you’ll work with a team of engineers, product designers, brand designers, and cross-functional partners to push Diligent’s user experience forward while adhering to the highest standards. 
+Key Responsibilities
+Design components, patterns, and guidelines that enable designers and engineers to create consistent and high-quality user experiences
+Collaborate closely with product designers, engineers, brand designers, writers, and other stakeholders from around the company to set and uphold high standards for design
+Document, maintain, and evangelize the benefits of Diligent’s design system both internally and externally 
+Be the ambassador of the design system and drive adoption by communicating strategy, plans, and milestones across the organization
+Highlight opportunities to use the system through design critiques, spec reviews, and team meetings
+Required Experience/Skills:
+5+ years of product design experience with an accompanying portfolio.
+5+ years designing and building durable design systems at scale within a large product organization
+A strong inclination towards systems thinking, understanding how everything fits together and how small and large changes affect our users, products, and teams.
+The flexibility to be a great collaborator and drive successful outcomes in a fast-paced, dynamic environment 
+Excellent critical thinking and attention to detail when exploring solutions at a systematic level and a component level
+Ability to create written systems guidelines that clearly articulate how components, styles, and patterns are applied in products.
+The ability to appropriately communicate complex concepts to both technical and non-technical stakeholders in a timely and effective manner
+Excellent interaction and visual design skills
+A proven technical understanding of how to build and architect design systems
+Strong familiarity with Human Interface Guidelines (iOS) and Material Design Guidelines (Android)
+Deep understanding in one or more of the following areas: accessibility standards and guidelines, visual language or tooling with emphasis on Figma, Javascript frameworks, storybook and writing markdown
+An ability to document and pro-actively evangelize systems processes within in the team and beyond
+Understanding of Web Accessibility Concepts (WCAG) and how it impacts the product and our users.
+Expertise in Figma
+Jelentkezem
+Elmentem az állást
+Senior Product/UX Designer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Software Engineer (React, Golang) 
+ Budapest  
+ Medior/Senior Software Engineer  (.Net) 
+ Budapest  
+ Senior Full-stack developer C#/Angular 
+ Budapest  
+  Medior/Senior Engineer (React, TypeScript, Javascript) 
+ Budapest  
+ Product Cybersecurity GRC/Auditor 
+ Budapest  

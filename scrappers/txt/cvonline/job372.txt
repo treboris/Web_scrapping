@@ -1,0 +1,74 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Szoftverfejlesztő - Budapest 
+Munkavégzés helye: 
+Budapest
+            Pozíció területei: 
+IT: IT állások
+        Nyelvtudás:
+Angol Középfok szóban és írásban
+                    Elvárt végzettség: 
+Felsőfokú végzettség
+	 Feladatok:
+		    Javascript, SQL, PHP és C#/.NET fejlesztésekben való részvétel
+		    Szoftver tesztelés, dokumentálás
+		    Modulok fejlesztése/dizájnja
+		    Részmunkák definíciója és implementálása
+	Elvárások:
+		    Angol nyelvtudás
+		    Többéves hasonló munkakörben szerzett tapasztalat
+		    Önállóság, problémamegoldó hozzáállás
+		    Terhelhető, céltudatos, felelősségteljes személyiség
+		    Jó kommunikációs és együttműködő készség
+		    Jó csapatjátékos
+		    Motiváció új technológiák iránt
+	Előnyt jelent:
+		    Model-View-Control architektúra ismerete
+		    Webes fejlesztési tapasztalat
+		    HTML5 és CSS3,
+		    Entity Framework ismerete
+Jelentkezem
+Elmentem az állást
+Szoftverfejlesztő - Budapest 
+Jelentkezem
+Elmentem az állást
+T-HR Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 27.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Szoftverfejlesztő 
+ Veszprém megye  
+ IT TECHNIKUS - Budapest 
+ Budapest  
+ Szoftverfejlesztő gyakornok 
+ Budapest  
+ szoftverfejlesztő mérnök 
+ Esztergom  
+ DEVOPS IT TEAMLEADER - Budapest 
+ Budapest  

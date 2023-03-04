@@ -1,0 +1,78 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Global HR analyst 
+ Description 
+The global HR Team of Deutsche Telekom’s board area Technology & Innovation is searching for a People Analyst (HR Analyst) to join the team. You will work in the field of People Analytics and support “smarter decisions with data”. You will collaborate with the HR Business Partner team to find innovative ways to deliver meaningful metrics, trends, key insights, and analysis in clear, concise stories for various stakeholders. Are you passionate about data? Do you want to work in a highly engaged, international team? Do you want to provide meaningful insights to leadership to guide future talent decisions? This might be the role for you!
+You cooperate closely with the teams within the HR Department by collecting the requirements, identifying interesting use cases, handling ad-hoc requests & building reports
+You work on the automated mapping and aggregation of HR data
+You manage HR IT infrastructure projects, e.g. to build interfaces between global HR systems in close collaboration with HR IT experts
+You plan and execute complex (predictive) data analyses by using advanced statistical measures (e.g. attrition prediction)
+You train and educate internal customers on data metrics and dashboards
+You present People Analytics insights to management teams and support them to derive data-driven decisions
+You create, test and improve KPIs and analytics dashboards for various internal customers
+You help integrating data from multiple HR systems into a data warehouse to have one common IT infrastructure
+You use expert knowledge regarding employee data privacy to ensure processes and systems comply to laws and regulation
+  Qualifications 
+You have your background in Mathematics, Statistics, Social Sciences, Computer Science, Psychology or – alternatively - any other field with high affinity to data
+You are regarded as a MS Excel expert or possess advanced skills in other statistical tools
+You have experiences with BI tools like Power BI or SAP SAP SAC
+You know how to apply knowledge of statistical methods, e.g. correlations, regression analysis
+You bring in a high IT affinity, knowledge of different HR IT tools, SAP preferable
+ You like strategic thinking to take the team together a step further towards data-driven HR.
+You are a “data-driven” person who likes analytical problem solving
+You are a self-motivated “getting-things-done” person with an ability to work independently and efficiently in a virtual way with colleagues and clients in other countries
+You won’t stop your efforts until an analytical problem is solved
+You bring in a confident appearance with strong verbal and written communication skills
+You are keen to further develop your knowledge and are not afraid to try out new things
+You have a basic understanding of the field of Human Resources including functional areas and processes
+You bring in a fluent English in spoken and written form; German language would be an advantage
+A plus, not a must: You have hands-on experience in People Analytics from your previous roles in complex international companies
+Additional Information
+Your place of work will be in XXX. Your team members and clients are located within the international footprint of Deutsche Telekom’s board area Technology & Innovation, currently mainly in Germany.
+You should be able and willing to travel to Germany up to approx. 10 times a year to meet the rest of the team and your internal customers
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Jelentkezem
+Elmentem az állást
+Global HR analyst 
+Jelentkezem
+Elmentem az állást
+Deutsche Telekom IT Solutions 
+BudapestSzegedDebrecenPécs 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ MS Analyst 
+ Budapest  
+ Senior BI Data Analyst 
+ Budapest  
+ Software QA Test Engineer 
+ Budapest  
+ Data Analyst Intern 
+ Budapest  
+ Junior IT Business Analyst and Devops Engineer 
+ Budapest  

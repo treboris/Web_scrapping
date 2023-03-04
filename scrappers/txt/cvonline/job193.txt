@@ -1,0 +1,80 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Lead Software Engineer (React, TypeScript, NodeJS) 
+About Us
+Diligent is the leading governance, risk and compliance (GRC) SaaS company, serving 1 million users from over 25,000 organizations around the world. Our software enables holistic and informed conversations about GRC and ESG to ensure CEOs, CFOs and the board have an integrated view of audit, risk, information security, ethics and compliance from across the organization.
+Position Overview
+Diligent are looking for a Lead Software Engineer to join our Center for Global Product Innovation in Budapest. The Lead Software Engineer will lead, inspire, mentor and coach one or more agile delivery teams to ensure regular successful delivery of world-class software solutions and deliver on Diligent’s ambition to redefine the way organizations are governed.
+Key Responsibilities
+Drive a culture of creativity, collaboration, speed, innovation and excellence, whilst actively promote Diligent values
+Passionately but pragmatically drive Agile and DevOps principles and practices
+Provide technical leadership within a highly collaborative technology environment
+Collaborate with senior engineering managers to define technical strategy and architecture
+Drive technical excellence
+Co-ordinate and drive communication and collaboration between Engineering, QA, Operations, and other technology groups, to ensure regular smooth delivery of working software to production
+This is a hands-on role, and this person will spend around half their time contributing as a hands-on software engineer. This will include:
+Collaborating with product and UX leaders in the analysis and documentation of technical requirements and user stories for assigned features, in accordance with the agile methodology employed by Diligent
+Designing, coding, reviewing and testing assigned features and user stories, in accordance with the agile methodology employed by Diligent
+Contributing to the quality assurance/testing strategy for assigned features, and performing technical tasks as required to support that strategy, including but not limited to development of unit and other automated tests, and assisting with acceptance and regression testing
+Required Experience/Skills:
+Passion for code
+Self-directed positive problem solver
+Excellent leadership skills and experience
+Excellent written and oral communications
+Successfully manage own workload, and take personal responsibility and ownership for delivery, behaviors, and self-improvement
+Preferred Experience/Skills
+5 years+ of software engineering experience
+Degree, or equivalent, in Computer Science, Mathematics or similar discipline
+Experience with React
+Experience with TypeScript
+Experience with NodeJS
+Experience with Ruby On Rails
+Experience working with SoAs/ESBs/Message Queues
+Experience with Agile/SCRUM/Lean software development
+Keen to learn more about new languages and frameworks
+Experience of working in regulated markets
+Jelentkezem
+Elmentem az állást
+Lead Software Engineer (React, TypeScript, NodeJS) 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Lead Software Engineer 
+ Budapest  
+  Medior/Senior Engineer (React, TypeScript, Javascript) 
+ Budapest  
+ Senior Software Engineer (React, Golang) 
+ Budapest  
+ Staff Software Engineer (React, Golang, AWS) 
+ Budapest  
+ Lead Software Engineer (Java) 
+ Budapest  

@@ -1,0 +1,71 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our partner is an IT security company based in Switzerland. They have been on the market for over 20 years, providing security solutions of renowned customers in the area of banking, insurance, and government. Their product portfolio is being further developed and adapted to new technology trends to meet the constantly evolving requirements of digitalization, this is why they are lookig for a new
+MOBILE APPLICATION TESTER
+ In your daily work, you will
+design, execute and document test cases for our IT security product suite (with special focus on native mobile apps)
+actively participate in all stages of the agile development cycle, cooperate with product owners, engineering managers, software engineers, business analysts and fellow testers
+test new functionalities, enhancements, bug-fixes, infrastructure changes, etc. in products to make sure they match the quality requirements
+participate and potentially coordinate our testing guild, which synchronizes testing related activities and best practices
+seek for tooling and testing process optimization, document the know-how for other testers and software engineers on a regular basis
+                Elvárások / Requirements
+Requirements you should ideally fulfill:
+at least 3 years of experience in software testing
+experience in native and cross-platform mobile testing
+experience in test automation with RoboScript or Selenium or similar test automation frameworks
+a good command of English (written and spoken)
+experience with working in agile teams
+a communicative and open personality
+university degree in a related field
+                Amit nyújtunk / Benefits
+What our partner offers:
+Remote work opportunity and flexible working hours
+extensive renumeration package including an annual bonus, company mobile and laptop, private health insurance, private nursery and kindergarten support etc.
+International environment with a small friendly team
+Self-development support with sponsored trainings
+Half-day vacation for 24th of December and 31st of December
+24/7 Employee Assistance Program (psychological and well being support, advices on finance and legal topics)
+Mobile Application Tester 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Manual Tester 
+ Budapest  
+ SAP Application Developer 
+ Budapest  
+ Senior Software Engineer – Full-stack/Mobile 
+ Budapest  
+ Embedded Penetration Tester (Ethical Hacker) 
+ Budapest  
+ Application Support Engineer 
+ Budapest  

@@ -1,0 +1,78 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Frontend fejlesztő (REF731J) 
+ Description 
+Részvétel komplex Java portálunk és felhőfejlesztési projektjeink webes frontend részében, elsősorban a gyártóiparban
+Szoros együttműködés szoftvertervezőkkel
+Komplex ügyfélkövetelmények elemzése újszerű IoT- és digitalizációs projektekhez
+A követelmény leképezése a megfelelő műszaki koncepciókhoz és architektúrákhoz 
+Felelősségvállalás a kiadások, javítások és gyorsjavítások fejlesztéséért és telepítéséért
+Folyamatos fejlesztés támogatása
+  Qualifications 
+                Képzettség
+Aktív német nyelvtudás szóban és írásban
+Számítástechnikai vagy hasonló alapfokú végzettség
+Legalább 2 év szoftverfejlesztői tapasztalat az Angular 2+, React vagy Vue.js Basic rendszerben
+Typescript, JavaScript, HTML és CSS Basic jártasság
+Reszponzív webdesignban és a Microservices Basic szolgáltatásban szerzett tapasztalat
+Előnyt jelent:
+Angol nyelvismeret
+Hasonló területen szerzett tapasztalat
+Részvétel nemzetközi projektekben
+Nagyon jó ismeretek a REST Addition szolgáltatási felületek tervezésében és megvalósításában
+DevOps mentalitás: gyakorlati know-how a folyamatos integrációban, telepítésben és egységtesztelésben Kiegészítés
+Felhasználói élmény (UX) és felhasználói felületek (UI) kiegészítésében szerzett tapasztalat
+Személyiség:
+Proaktív, ügyfélközpontú személyiség
+Gyors alkalmazkodási képesség
+Tanulásra való hajlandóság
+Jó kommunikációs készség
+Strukturált munkavégzés
+Analitikus gondolkodás
+További információk
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Jelentkezem
+Elmentem az állást
+Frontend fejlesztő (REF731J) 
+Jelentkezem
+Elmentem az állást
+Deutsche Telekom IT Solutions 
+BudapestSzegedDebrecenPécs 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Frontend fejlesztő 
+ Pécs  
+ Frontend Fejlesztő 
+ Pécs  
+ MEDIOR FRONTEND FEJLESZTŐ (REACT) 
+ Baranya megye  
+ Fejlesztő 
+ Szeged  
+ Frontend fejlesztő 
+ Budapest  

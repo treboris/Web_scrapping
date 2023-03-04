@@ -1,0 +1,73 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Alkalmazás üzemeltető
+Feladatok:
+Kártya rendszerek UAT környezetében üzemeltetési feladatok ellátása
+Verzióváltások végrehajtása
+Incidensek és problémák kezelése, hiba okok feltárása
+Scriptek készítése
+Mentési dokumentációk készítése, naprakészen tartása
+Üzemeltetési folyamatok megújítása, automatizálás, monitoring tovább fejlesztése
+Aktív részvétel az üzemeltetett rendszereket érintő fejlesztési projektekben
+Kapcsolattartás a társosztályokkal, a külföldi- és hazai beszállítókkal
+Követelmények:
+Főiskolai vagy egyetemi informatikai végzettség, vagy szakirányú képesítés
+Windows, Linux, Unix rendszer üzemeltetői ismeretek
+Tárgyalóképes szintű angol nyelvtudás
+Folyamat és szolgáltatás orientált szemlélet
+Jó problémamegoldó- és kommunikációs készség
+Megbízhatóság, önállóság, pontos, precíz munkavégzés
+Amit előnynek tartunk:
+Kártya termékek/folyamatok ismerete
+Haladó Linux, JAVA ismeretek
+MsSQL vagy Oracle alapismeretek
+Hálózati ismeretek
+PCI szabványok ismerete
+ITIL ismeretek
+Releváns, banki környezetben szerzett szakmai tapasztalat
+Pályakezdők jelentkezését is várjuk!
+Alkalmazás üzemeltető 
+Jelentkezem
+Elmentem az állást
+OTP Bank NyRt. 
+BudapestPest 
+Teljes munkaidős 
+Tapasztalat nem szükséges 
+Főiskolai végzettség 
+Frissítés dátuma: 01.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ IT munkatárs 
+ Miskolc  
+ SAP bázis üzemeltető 
+ Nádudvar  
+ Rendszergazda / IT szakember 
+ Fonyód  
+ Rendszerszervező 
+ Budapest  
+ SAP IT SPECIALISTA (16-2075) 
+ Veszprém  

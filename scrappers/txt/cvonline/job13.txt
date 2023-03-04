@@ -1,0 +1,62 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Java backend developer 
+Your responsibilities
+Tool-fejlesztő csapatunkba keresünk Java backend fejlesztőt! A csapat új alapokra helyezte a JIRA-t, mint projectmanagement eszközt. Ehhez a szoftverhez fejlesztünk plugin-t a beérkező igények alapján. Csapaton belül nagy hangsúlythelyezünk a kreatív problémamegoldásra, közösgondolkodásra a beérkező igények megvalósításának módjáról.
+Elvárások
+Informatikus, mérnökinformatikus végzettség
+Legalább 2-3 éves releváns szakmai tapasztalat
+Stabil alaptudás Java backend fejlesztésben: Java(Java11), Maven, REST API
+Legalább középfokú angol nyelvtudás szóban ésírásban egyaránt
+Rutinszerű tapasztalat XML formátumban (olvasás,írás)
+Verziókövető rendszer ismerete (GIT)
+Jó kommunikációs és szervezési képesség
+Tanulási hajlandóság és gyors fejlődési képesség
+Rendszerező szemlélet, jó problémamegoldás
+Csapatszellem
+Nagyra értékeljük a sokszínűséget, így minden jelentkezőt üdvözlünk nemre, nemzetiségre, etnikai és társadalmi háttérre,vallási és egyéb meggyőződésre, fogyatékosságra, életkorra vagy szexuális irányultságra és identitásra való tekintet nélkül.
+Jelentkezem
+Elmentem az állást
+Java backend developer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 04.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Backend Developer 
+ Budapest  
+ Java Developer 
+ Budapest  
+ Java Developer 
+ Budapest  
+ Java Developer 
+ Budapest  
+ Java Developer 
+ Budapest  

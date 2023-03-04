@@ -1,0 +1,71 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Fullstack Developer - REF1483O 
+ Description 
+Design and implementation of thin clients as the replacement of the current Java Swing Rich-Client
+Design and implementation of REST-APIs as  databackend for the new clients
+Mapping of the REST-APIs to the existing Oracle database
+Participation in application maintenance after a sufficient training period (9 – 12 months)
+Third level support as part of the application management tasks
+Participation in on call duties for the project after a sufficient training period (9 – 12 months)
+Long term participation in the project
+  Qualifications 
+2-5 years experience in:
+Angular 2+
+Java
+SQL
+English B2 level
+Advantages:
+▪ Experience in agile development
+▪ Experience with Client/Server architecture
+▪ Experience with Oracle databases and JDBC
+▪ Basic knowledge with UNIX servers and Shell scripts
+▪ REST WebServices
+▪ German
+Additional Information
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Jelentkezem
+Elmentem az állást
+Fullstack Developer - REF1483O 
+Jelentkezem
+Elmentem az állást
+Deutsche Telekom IT Solutions 
+BudapestDebrecenPécsSzeged 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Fullstack Developer 
+ Budapest  
+ Fullstack Developer (Java,Angular) 
+ Budapest  
+ Fullstack Application Developer 
+ Budapest  
+ Junior Fullstack Developer 
+ Budapest  
+ Java - Javacript Fullstack Developer 
+ Budapest  

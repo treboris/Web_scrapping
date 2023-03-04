@@ -1,0 +1,90 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+FRONTEND FEJLESZTŐ 
+Fő felelőssége:
+		A Frontend fejlesztő felelős a meglévő termékek felhasználói felületének fejlesztésére irányuló javaslatok kidolgozásáért, új termékek fejlesztéséért, valamint a meglévő hibák javításáért.
+Feladatok:
+		Funkcionális tervek összehangolása a technológiai lehetőségekkel,
+		Szűk keresztmetszetek azonosítása, javítása az alkalmazásban, bug-ok megszüntetése,
+		Többi fejlesztővel-, tesztelővel, PO-val és managerekkel való együttműködés,
+		Aktív részvétel a meetingeken,
+		A kollégák által készített funkcionális tervek alapján a szoftver fejlesztése,
+		Funkcionális javaslatok és a „user story”-k egyeztetése a „Functional designer”-rel vagy a „Scrum Master”-rel,
+		Javaslatok tétele a kiigazításokra és az optimálisabb működésre,
+		Együttműködés a holland- és magyar fejlesztőcsapatokkal, tudásmegosztás,
+		A szoftver tesztelése és „Code review” keretein belül a programkód ellenőrzése,
+		A „Sprint”-ben megállapított ütemterv szerint a feladatok végrehajtása.
+Elvárások:
+		Minimum középfokú informatikai végzettség, 
+		Legalább 1-3 éves fejlesztési tapasztalat JavaScript területen,
+Angol magabiztos társalgási ismeretű nyelvtudás (a napi munkavégzéshez elengedhetetlen).
+Előnyök:
+		Főiskolai vagy egyetemi végzettség műszaki vagy informatikai területen,
+		Typescript ismerete,
+		Rest API ismerete, 
+		GIT ismerete,
+		Ramda library, Yup library ismerete.
+Juttatások:
+Profi felszerelés, amit a fejlesztő maga választhat (Windows vagy MacOS),
+Medicover egészségbiztosítás,
+		Havi bruttó 25.000 Ft általános költségtérítés,
+		Havi nettó 19.000 Ft cafetéria (OTP Szép-Kártya),
+Plusz szabadnapok (munkanap áthelyezéskor a szombati munkanap helyett pihenőnap, mindenkinek a saját születésnapja szabadnap),
+Általában évi 1 utazás Hollandiába,
+Bejárási-, parkolási támogatás,
+		Ingyenes nyelvtanfolyam, ha szükséges,
+		Home Office lehetőség,
+		Karácsonyi ajándék,
+		Udemy Business lehetőség.
+Egyéb jellemzők:
+		Flat structure,
+		Open door policy,
+		Transparency.
+Munkavégzés helye: Pécs belvárosa (Zsolnay-szobor buszmegállótól sétatávolságra).
+Munkaidő: Rugalmas munkaidő.
+Amennyiben érdekli a meghirdetett pozíció, küldje el számunkra angol és magyar nyelvű önéletrajzát a JELENTKEZÉS gombra kattintva!
+Jelentkezem
+Elmentem az állást
+FRONTEND FEJLESZTŐ 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Baranya 
+Teljes munkaidős 
+Frissítés dátuma: 27.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ BACKEND FEJLESZTŐ 
+ Baranya megye  
+ TESZTELŐ 
+ Baranya megye  
+ DCS FEJLESZTŐ 
+ Budapest  
+ PROJEKT MÉRNÖK-KOORDINÁTOR 
+ Győr-Moson-Sopron megye  
+ VILLAMOSMÉRNÖK 
+ Pest megye  

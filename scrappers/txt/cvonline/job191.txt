@@ -1,0 +1,68 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+QA Automation Engineer  
+The Company
+Diligent is the pioneer in modern governance. We empower leaders to turn governance into a competitive advantage through unparalleled insight and highly secure, integrated SaaS applications, helping organizations thrive and endure in today’s complex, global landscape. The largest global network of corporate directors and executives, Diligent is relied on by more than 19,000 organizations and nearly 700,000 leaders in over 90 countries. With award-winning customer service, Diligent serves more than 50% of the Fortune 1000, 70% of the FTSE 100, and 65% of the ASX. Our passionate, smart, and creative group of more than 1,000 employees support customers around the globe.
+Position Overview
+Diligent are looking for a QA Engineer to join our Center for Global Product Innovation in Budapest. The QA Engineer will be working as a part of a Scrum team and primarily responsible for creating and automating test cases and identifying/reporting defects. This individual will work closely with all members of the team to create and drive a successful automation strategy for a product. This role requires technical intellect, strong communication, mentoring and leadership skills and someone who enjoys being part of a pro-active and self-managing team.
+Key Responsibilities
+Work as part of agile team to groom user stories and ensure work items are clear and testable
+Evaluate existing and new components to identify best automation candidates among existing manual tests
+Take leadership role in creating the automation framework for new products
+Develop and maintain tests in an automated framework
+Perform test design reviews and include team’s feedback
+Identify, analyze, and document test results
+Contribute to process improvement, look for ways of working smarter
+Required Experience/Skills:
+3-5 years of hands-on experience automating tests
+Experience with developing a test automation framework
+Experience with at least one object oriented programming language
+Experience with CI tools (Jenkins)
+Experience with the following:
+Automating API–level tests
+Automating UI level tests
+Jelentkezem
+Elmentem az állást
+QA Automation Engineer  
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Test Automation Engineer 
+ Budapest  
+ Medior/Senior Test Automation Engineer 
+ Budapest  
+ Lead Software Engineer 
+ Budapest  
+ Frontend Software Engineer (Angular) 
+ Budapest  
+ Medior/Senior Software Engineer  (.Net) 
+ Budapest  

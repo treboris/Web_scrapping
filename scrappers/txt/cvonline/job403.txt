@@ -1,0 +1,59 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Partnerünk egy 30 éves múltra visszatekintő magyar kereskedelmi vállalat, ami főleg a kultúra és a nyomtatott művészet világában lett elismert Magyarországon. Egész országra kiterjedő bolthálózattal és webshopokkal rendelkezik. A folyamatosan fejlődő cég jelenleg 20 fős IT részleggel dolgozik és egyre nagyobb az erőforrásigény. A naprakészség igénye miatt lehetőség van folyamatos fejlesztési projekteken részt venni.
+ -Az informatikai hálózat működőképességének fenntartásán, javításán és karbantartásán dolgozz majd- Biztosítsd a (leginkább Linux-alapú) háttérrendszerek működésének folyamatos ellenőrzését és felügyeletét-Folyamatosan egyeztess a külső, kapcsolt rendszerek rendszergazdáival-Szakmai javaslatokat tegyél fejlesztésekre-Az alkalmazói rendszerek folyamatos működésének biztosításában is részt vegyél-Lehetőséget biztosítunk egyéb, belső tevékenységekben való részvételre
+                Elvárások / Requirements
+-Minimum középfokú (szakirányú) végzettség-Minimum 2-3 év( szakmai tapasztalat, és nem munkatapasztalat) rendszeradminisztrátori gyakorlat Linuxnagyvállalati kiszolgálói környezetben-Mély Linux Rendszeradminisztrátori kompetencia-Tájékozottság az informatikai szektor történéseiről/fejlesztéseiről-Angol olvasásban való megértése, angol nemzetközi szakmai anyagok olvasása a témában-Csapatmunka-Magabiztos, félreértéseket kizáró kommunikáció-Megbízhatóság, pontosság, proaktivitás, jó problémamegoldó képesség + felelősségteljes munkavégzés
+Előny:
+-Magas rendelkezésre állású rendszerek üzemeltetésében szerzett tapasztalat-Szkriptelési ismeretek-Magas szintű funkcionális felügyeleti (monitoring és adat/loggyűjtő) rendszer implementálása vagy abban valóaktív részvétel-JBOSS EAP alkalmazás szerver üzemeltetésében való jártasságHálózatspecifikus hibaelhárítás és felügyelet ellátásában szerzett tapasztalat-Git, GitLab ismeret-Találkoztál már virtuális szerverkörnyezettel (VMware, KVM) vagy dokkertechnológiával
+                Amit nyújtunk / Benefits
+Izgalmas, sokszínű munkakör
+Szakmailag érdekes és kihívást jelentő feladatok
+Lendületes, motivált kollégák
+Versenyképes feltételeket: alapbér, mozgóbér, cafeteria
+Dolgozói kedvezmények
+Távmunka lehetősége
+Medior Linux Rendszergazda 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 27.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Linux Fejlesztőmérnök 
+ Budapest  
+ Rendszergazda 
+ Budapest  
+ Linux System Administrator 
+ Budapest  
+ Linux System Administrator 
+ Budapest  
+ IT Rendszergazda 
+ Kecskemét  

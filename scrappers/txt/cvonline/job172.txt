@@ -1,0 +1,74 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our fast-growing client is searching for SAP consultants with deep experties to their newly set-up IT team.
+Tasks in new position:
+Be an expert in ABAP, doing development tasks, and reading ABAP codes
+Programming in every area, not focusing on just one SAP module
+Work with ABAP objects, doing reports, programming applications with Fiori
+Doing system development tasks
+Fulfilling user accepts, working with interfaces
+Responsibilities:
+Detailing the solution design in close cooperation with our solution architects
+Development of ABAP Add-On’s, User Exits and interfaces in our SAP environment (ECC6.0, S/4, EWM,HR)
+ Interface development via ODATA and REST API on SAP Gateway
+Implementation of SAP notes
+Development or enhancement of FIORI apps
+Solution documentation and testig
+                Elvárások / Requirements
+Requirements:
+Good knowledge in all areas of the SAP ABAP development workbench and in ABAP-OO
+Experience in FIORI, ODATA, CDS views will be an advantage
+Knowledge in the CHARM process and test management process on the SAP Solution Manager is a plus
+Knowledge in the development in an HR environment will be beneficial, but is not a must
+At least 3 years of development experience
+Good English skills (spoken and written)
+Experienced working in an international, virtual team
+                Amit nyújtunk / Benefits
+Professional development opportunities
+Competitive salary
+Dynamic atmosphere
+Home-office possibility
+SAP ABAP Developer - Specialist 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SAP Application Developer 
+ Budapest  
+ SAP developer 
+ Debrecen  
+ SENIOR SAP ABAP FEJLESZTŐ 
+ Baranya megye  
+ C++ developer 
+ Budapest  
+ IT Expert SAP WM/IM and warehousing 
+ Budapest  

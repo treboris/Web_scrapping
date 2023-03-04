@@ -1,0 +1,75 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Partnerünk, a világ egyik vezető autóipari technológiai nagyvállalata számára keresünk Beágyazott szoftverfejlesztő mérnök kollégát veszprémi központjába. A veszprémi gyár a világ valamennyi autógyártója részére állít elő gépjármű menetbiztonsági rendszerekhez magas minőségű  szenzorokat. 
+Hardverközeli szoftver modulok tervezése és fejlesztése intelligens akkumulátor szenzorokhoz
+Memória menedzsment, időzítők, megszakítások és SPI
+Az elkészült hardverközeli modulok fejlesztői tesztelése a céleszközön (Development board, PCB, kész termék)
+A felfedezett hibák analizálása, debuggolása és javítása
+Programozható tápok, debuggerek, logikai analizátorok, oszcilloszkóp, függvénygenerátor aktív használata a fejlesztés/fejlesztői tesztelés során
+Hatékony megoldások keresése, az erőforrások optimális kihasználásának érdekében
+Meglévő szoftver komponensek optimalizálása
+Az elkészült szoftver fejlesztés dokumentációja a belső folyamatok szerint 
+                Elvárások / Requirements
+Felsőfokú iskolai végzettség
+C programozási ismeretek
+Szakmai tapasztalat beágyazott rendszerek fejlesztésében (pl.: mikrovezérlőkkel szerzett tapasztalat)
+Analitikus gondolkodás és jó problémamegoldási készség
+Középfokú angol nyelvű írásbeli és szóbeli kommunikációs készség
+Előnyt jelent, ha rendelkezel az alábbi ismeretekkel:
+ARM, Assembly vagy
+GIT/GitHub Rhapsody vagy
+ASIL, ASPICE vagy
+CANoe és CAPL-el
+                Amit nyújtunk / Benefits
+Rugalmas munkaidő, home office lehetőséggel
+Munkavégzéshez szükséges céges laptop és mobiltelefon biztosítása
+Egészségbiztosítás, cafeteria és bónuszrendszer
+Pénzügyi támogatások (munkába járás ill. hétvégi hazautazás támogatása, iskolakezdési támogatás és lakáscélú támogatás)
+Coaching lehetőség igénybevétele
+Változatos vállalati eseményeken való részvétel
+Irodai étterem és kávézó
+Parkoló és biciklitároló biztosítása
+Beágyazott szoftverfejlesztő mérnök (junior) 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Veszprém 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Beágyazott Szoftverfejlesztő Mérnök 
+ Budapest  
+ szoftverfejlesztő mérnök 
+ Esztergom  
+ Ipari szoftverfejlesztő mérnök - Veszprém 
+ Veszprém  
+ Beágyazott hardver és szoftver mérnök 
+ Miskolc  
+ Szoftvertesztelő mérnök - Beágyazott rendszerek 
+ Budapest  

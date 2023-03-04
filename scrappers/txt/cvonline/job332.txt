@@ -1,0 +1,93 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+MEDIOR JAVA BACKEND FEJLESZTŐ 
+Feladatok:
+Funkcionális tervek összehangolása a technológiai lehetőségekkel, Backlog refinement keretében,
+Ezen véglegesített tervek alapján a feladatok elvégzése,
+Önálló- és csapatmunka,
+Szűk keresztmetszetek azonosítása, javítása az alkalmazásban, bug-ok megszűntetése,
+Többi fejlesztővel-, tesztelővel, PO-val és managerekkel való együttműködés,
+Aktív részvétel a meetingeken,
+Junior kollégák támogatása, felügyelete.
+ Elvárások:
+Min. középfokú informatikai végzettség,
+Legalább 3+ éves fejlesztési tapasztalat Java területén,
+SpringBoot ismerete,
+Hibernate/JPA ismerete,
+Relációs adatbázis ismerete,
+GIT ismerete,
+Scrum/Agile jártasság
+Angol magabiztos társalgási szintű nyelvtudás (napi munkavégzéshez elengedhetetlen).
+ Előny:
+JAVA11/Springboot,
+Oracle DB/PLSQL,
+Docker,
+Kafka,
+Project Lombok,
+Postman/SoapUI,
+Holland nyelv ismerete.
+ Juttatások, ajánlat:
+Profi felszerelés, amit a fejlesztő maga választhat (Windows vagy MacOS),
+Home office vagy remote lehetőség,
+Flat structure,
+Open door policy,
+Transparency,
+Karácsonyi ajándék,
+Kávé, üdítő, snack,
+Iroda a belvárosban,
+Jó fej, fiatalos csapat,
+Bejárási-, parkolási támogatás,
+Általában évi egy utazás Hollandiába,
+Plusz szabadnapok: Munkanap áthelyezéskor a szombati munkanap helyett pihenőnap. Mindenkinek a saját születésnapja pihenőnap,
+Rugalmas munkaidő,
+Havi bruttó 25.000 Ft általános költségtérítés,
+Udemy Business lehetőség,
+Ingyenes nyelvtanfolyam, ha szükséges.
+ Munkavégzés helye: Pécs
+ Munkaidő: hétfőtől - péntekig, rugalmas munkaidő
+ Amennyiben érdekli a meghirdetett pozíció, küldje el számunkra angol és magyar nyelvű önéletrajzát a JELENTKEZÉS gombra kattintva!
+Jelentkezem
+Elmentem az állást
+MEDIOR JAVA BACKEND FEJLESZTŐ 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Baranya 
+Teljes munkaidős 
+Frissítés dátuma: 28.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ MEDIOR JAVA FEJLESZTŐ 
+ Budapest  
+ BACKEND FEJLESZTŐ 
+ Baranya megye  
+ MEDIOR FRONTEND FEJLESZTŐ (REACT) 
+ Baranya megye  
+ JAVA FEJLESZTŐ 
+ Győr-Moson-Sopron megye  
+ IoT BACKEND FEJLESZTŐ 
+ Budapest  

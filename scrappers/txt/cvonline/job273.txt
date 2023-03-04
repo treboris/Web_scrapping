@@ -1,0 +1,71 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Fullstack Developer 
+Fullstack Software Engineer
+Budapest
+110.000FT/nap
+Az új munkahelyed
+Az Uniqa Raiffeisen Software Service Kft. a Raiffeisen bankcsoport és az UNIQA biztosító csoport közös fejlesztő cége. A budapesti székhelyű magyar leányvállalat meghatározó szerepet játszik a tulajdonosok kelet- és közép-európai érdekeltségei között.
+Az UNIQA Raiffeisen Software Service egyik fő célja, az előállított termékek magas színvonalán alapuló hosszú távú együttműködések kiépítése, mind az ügyfelek és partnerek, mind pedig a dolgozók tekintetében.
+Feladataid
+Web alapú megoldások fejlesztése és karbantartása
+Frontend és backend fejlesztése
+Felelősségvállalás a szoftver megvalósításáért és minőségéért
+Részvétel agilis szoftverfejlesztői csapatmunkában
+Együttműködés, napi kommunikáció az osztrák anyacég munkatársaival
+Elvárások 
+Minimum 1-2 év fejlesztési tapasztalattal frontend keretrendszerben(Angular, ReactJS, Vue.JS…)
+Minimum 2-3 éves Java 8+ fejlesztési tapasztalattal
+Biztos HTML5, CSS3 és Javascript/Typescript ismeretekkel
+Német és angol nyelvtudással
+Amit kínálnak
+Átfogó betanulási folyamat biztosítása mellett kihívásokkal teli és érdekes tevékenységet fejlődési lehetőséggel
+Szakmailag magasan képzett, jelentős IT tapasztalattal rendelkező munkatársakat, befogadó munkahelyi légkört
+Rugalmas munkaidőt
+Otthoni munkavégzési lehetőséget
+Versenyképes bérezést
+Jelentkezem
+Elmentem az állást
+Fullstack Developer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 01.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Junior Fullstack Developer 
+ Budapest  
+ Fullstack Developer (Java,Angular) 
+ Budapest  
+ Fullstack Application Developer 
+ Budapest  
+ Backend Developer 
+ Budapest  
+ Java - Javacript Fullstack Developer 
+ Budapest  

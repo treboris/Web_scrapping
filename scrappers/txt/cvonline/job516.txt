@@ -1,0 +1,91 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Rendszergazda és support munkatárs 
+MIBEN SZÁMÍTUNK RÁD?
+Érkező IT hibabejelentések szerződés szerinti L1 szintű ellátása (helyszíni / távoli) ill. megfelelő delegálása
+Bizonyos ügyfeleknél helyszíni jelenlét (Budapest), az ügyfelek munkavállalóinak lokális IT támogatása
+Rendszer kiépítési/telepítési projektekben való részvétel
+Hálózati eszközök konfigurálása és üzemeltetése
+Tűzfalak és antivírus rendszerek üzemeltetése
+Gloster alapvető rendszergazdai feladatainak ellátása beleértve a kapcsolódó dokumentációt. Kollégák első szintű (közvetlen) támogatása
+Egyéb, belső infrastruktúra fejlesztési tevékenységekben való részvétel
+TÉGED KERESÜNK, AMENNYIBEN:
+Megbízhatóság, pontosság, proaktivitás, jó problémamegoldó képesség egyaránt jellemez
+Ügyfélorientált hozzáállással rendelkezel, jól kommunikálsz szóban és írásban
+Előnyt jelent, ha dolgoztál már IT ügyfélszolgálati munkakörben, használtál ITSM rendszert
+Szeretsz csapatban dolgozni, de tudsz és akarsz is önállóan működni
+Figyelemmel kíséred az informatikai szektor történéseit/fejlesztéseit
+Szívesen olvasol angolul nemzetközi szakmai anyagokat a témában
+MUNKAVÉGZÉS HELYE:
+Nagytarcsa és Budapest, közös megegyezés alapján home office lehetőségével
+Ha megtetszett az álláshirdetésünk várjuk jelentkezésed egy magyar nyelvű önéletrajz elküldésével a "Jelentkezem" gombra kattintva.
+Elvárások: 
+Legalább középfokú végzettség
+Microsoft rendszerek ismerete (Windows 10, M365)
+Előnyt jelent, ha Microsoft alapú szerverek alapszintű ismeretével is rendelkezel (Windows Server 2019)
+Alapvető hardverelemek ismerete (hálózati eszközök, kliens oldali eszközök)
+Pontos, megbízható munkavégzés, a határidők betartása
+Angol nyelvhasznált (minimum B1 szint – szóban és írásban egyaránt)
+B1-es jogosítvány, saját személygépjármű
+Hajlandóság új technológiák, programok megismerésére, elsajátítására
+Amit nyújtunk: 
+Teljes munkaidős, alkalmazotti jogviszony
+Havi fix bérjuttatás
+Teljesítményalapú bónuszrendszer
+Gyártói minősítések megszerzése céges támogatással (pl. CCNA, CCNP, MS100, MS101)
+Családias hangulat
+Fiatalos, lelkes, tanulni vágyó csapat
+Saját IT labor használati lehetőség
+Előnyök: 
+Gyártói, szakmai vizsgák, minősítések megléte (érvényes CCNA, Microsoft certifikációk vagy ennek megfelelő ismeretek)
+ITSM rendszerek ismerete
+Mobile Device Management alapismeretek
+Network Security technológiák ismerete
+Linux alapú rendszerek ismerete
+Jelentkezem
+Elmentem az állást
+Rendszergazda és support munkatárs 
+Jelentkezem
+Elmentem az állást
+Gloster Infokommunikációs Nyrt. 
+Nagytarcsa, 2142 MagyarországPest 
+Teljes munkaidős 
+1-2 év munkatapasztalat 
+Középiskola 
+Frissítés dátuma: 08.11.2022
+További állások keresése
+Állás megosztása
+Hasonló állások
+ IT munkatárs 
+ Miskolc  
+ LINUX RENDSZERÜZEMELTETŐ 
+ Budapest  
+ Rendszergazda / IT szakember 
+ Fonyód  
+ Műszaki supportos IT rendszergazda 
+ Budapest  
+ .Net L3 Support Team Lead - Hibrid 
+ Budapest  

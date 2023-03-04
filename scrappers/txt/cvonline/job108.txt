@@ -1,0 +1,83 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+VMWARE RENDSZERMÉRNÖK  
+Feladatok:
+		Közép és nagyvállalatok informatikai infrastruktúráinak (Microsoft, VMware) tervezése, implementációja,
+		Ügyfelek rendszergazdáinak L2/L3 szintű távoli és helyszíni üzemeltetés támogatása,
+		Műszaki ajánlatok kidolgozása, ajánlatok szakmai jóváhagyása,
+		Presales tevékenységek,
+		Projektek menedzselése,
+		Műszaki dokumentációk készítése.
+ Elvárások:
+Egyetemi vagy Főiskolai informatikai vagy villamosmérnök végzettség,
+5+ év szolgáltatói oldalon szerzett tapasztalat üzemeltetés támogatás (L2/L3) területén,
+		Komplex Microsoft, VMware infrastruktúrák tervezésében, migrációjában szerzett tapasztalat,
+		Az elterjedt backup megoldások közül valamely termékek ismerete (pl: Acronis, ARCserve, EMC, HP DP, IBM TSM, MS SCDPM, Symantec BackupExec/Netbackup, Veeam B&R, VMware VDP),
+		Az elterjedt monitoring megoldások közül valamely termékek ismerete (pl: Nagios, Icinga, MS SCOM, Opsview, Veeam ONE, VMware Operations Management, Zabbix),
+		Scriptelési tapasztalatok (PowerShell, PowerCLI, Shell/Bash),
+		Angol nyelv írásban való használata, angol nyelvű dokumentáció kezelés.
+ Előnyök:
+		Vezetői tapasztalat üzemeltetés támogatás (L2/L3) területen,
+		Felhő alapú megoldások (Microsoft Azure, Office 365, VMware vCloud) ismerete,
+		Linux operációs rendszerek ismerete (RedHat/CentOS, Ubuntu/Debian, SLES),
+		Adatbázis (MSSQL, MySQL, Oracle) adminisztrátori ismeretek,
+		Hyper-Converged Infrastructure (HCI) ismerete,
+		Hálózati ismeretek (Cisco, VLAN, Load Balancing, hálózat virtualizáció),
+		Storage és SAN logikai ismeretek,
+ Egyéb aktív gyártói minősítések megléte előny:
+		Veeam (VMCE),
+		Cisco (CCNA),
+		Linux (RHCSA),
+		Microsoft SQL,
+		egyéb gyártói minősítések.
+ Amit megbízónk kínál:
+		Cég által támogatott szakmai képzések, tanfolyamok,
+		Vállalati gépkocsi várja az új munkatársat!
+ Munkavégzés helye: Budapest, belváros
+ Munkaidő: hétfőtől - péntekig, napi 8 óra
+ Amennyiben a pozíció felkeltette az érdeklődését, kérem magyar nyelvű anyaggal pályázzon!
+Jelentkezem
+Elmentem az állást
+VMWARE RENDSZERMÉRNÖK  
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 03.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ INFORMATIKAI VEZETŐ 
+ Csongrád  
+ KONTROLLER 
+ Budapest  
+ SZÁMLÁZÁSI MUNKATÁRS 
+ Budapest  
+ ÜZLETFEJLESZTŐ 
+ Budapest  
+ Takarító 
+ Dunaújváros  

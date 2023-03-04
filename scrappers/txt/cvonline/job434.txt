@@ -1,0 +1,81 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+SZOFTVERFEJLESZTŐ GYAKORNOK – TOPCO 
+EZEK LESZNEK A FELADATAID
+Automatikus tesztberendezésekhez szoftverdisztribúciós és verzionáló szoftver implementálása, optimalizálása
+Mérőpadok adatbázis kapcsolatának megteremtése, big data technológiák bevezetése
+Meglévő rendszer .NET, C# alapúra portolása
+Egyedi Windows szolgáltatások implementálása
+Új funkciók implementálása
+Meglévő funkciók támogatása
+AMIK SZÜKSÉGESEK A FELADATAID ELLÁTÁSÁHOZ
+Objektumorientált programozási ismeretek
+SQL programozási nyelv ismerete
+Programozási gyakorlat
+Saját munkamenet megszervezése, logikus felépítése
+Együttműködés a csapat többi tagjával
+Angol nyelvtudás
+MIÉRT VÁLASSZ MINKET?
+Megismerhetsz egy nemzetközi vállalatot és annak tevékenységét
+Átlátod majd egy 2000 fős szervezet felépítését
+Rugalmas időbeosztásban a tanulmányaid mellett tudsz dolgozni
+Barátságos és támogató csapat vár rád
+Később akár főállásban is dolgozhatsz nálunk
+Az itt szerzett tudásod garantáltan értékes lesz a munkaerőpiacon
+Extrák: céges konditerem, parkolási lehetőség, vállalati rendezvények, szakmai konferenciák, képzések
+MÉG NAGYOBB ESÉLYED VAN, HA
+Beágyazott rendszerek ismerete
+SVN verziókezelő ismerete
+C#, .NET, JAVA programozási gyakorlat
+BI / Big data technológiák ismerete
+Önálló munkavégzés, kreativitás
+Minimum 20 óra / hét vállalása, hosszútávon is
+Problémamegoldó gondolkodás
+Megbízható, célorientált, pontos munkavégzés
+Jelentkezem
+Elmentem az állást
+SZOFTVERFEJLESZTŐ GYAKORNOK – TOPCO 
+Jelentkezem
+Elmentem az állást
+Knorr-Bremse Rail Systems Budapest 
+BudapestPest 
+Szakmai gyakorlat, diákmunka 
+Tapasztalat nem szükséges 
+Főiskolai végzettség 
+Frissítés dátuma: 22.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SZOFTVERTESZTELŐ GYAKORNOK 
+ Budapest  
+ Szoftverfejlesztő 
+ Budapest  
+ Manuális Tesztelő 
+ Budapest  
+ SZOFTVERFEJLESZTŐ  
+ Szeged  
+ SZOFTVER TÁMOGATÓ  (16-2047) 
+ Gödöllő  

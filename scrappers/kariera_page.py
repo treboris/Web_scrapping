@@ -26,15 +26,15 @@ for x in range(0 , data_size):
 
     #exists = os.path.exists(f"txt/jobline_{date}/job{x}.txt")
 
-    with open(f"txt/temp.txt" , "w") as f: #read&write
+    with open(f"txt/kariera/0/temp.txt" , "w") as f: #read&write
         f.write(full_page.text)
         f.close()
-    with open(f"txt/temp.txt" , "r") as f:
+    with open(f"txt/kariera/0/temp.txt" , "r") as f:
         for line in f:
             if(line.strip()):
                 text += line
-    with open(f"txt/kariera/job{x}.txt" , "w") as fil:
+    with open(f"txt/kariera/0/job{x}.txt" , "w") as fil:
         fil.write(text)
     text = ""
-    os.remove("txt/temp.txt")
+    os.remove("txt/kariera/0/temp.txt")
 print("--- %s seconds ---" % (time.time() - start_time))

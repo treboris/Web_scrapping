@@ -1,0 +1,68 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Azure Architect 
+Senior Azure Architect 
+Budapest (2 Home Office / hét)
+145.000FT/nap
+Your new company 
+The company is a startup company with a growing presence in Budapest.
+Your new role
+Develop a brand new infrastructure
+Lead the foundation of the Cloud Architecture
+Support the Azure DevOps Architecture design
+Design and Prepare the Policy Environment within Azure Cloud
+Work together with the Chief Security Architect
+Support implementation of mitigations per the Business Continuity Plan
+What you'll need to succeed
+Expertise in infrastructure as code (e.g., cloud formation, ARM, Terraform, Ansible, Chef, Puppet)
+Expert within Azure IaaS, SaaS Cloud Services and Architecture
+Experience with Azure Networking services, Azure Security and Identity services, Azure Integration services
+Good knowledge of security implications of public & private cloud infra design
+Experience with Cloud Automation and Infrastructure as Code
+#haystechnology #hayshungary #startup #azure
+If this opportunity caught your attention, don't hesitate and apply now!
+Jelentkezem
+Elmentem az állást
+Senior Azure Architect 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 01.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Azure Architect 
+ Budapest  
+ Senior Azure Cloud Architect 
+ Budapest  
+ Senior ICT ARchitect 
+ Budapest  
+ Senior Azure DevOps Engineer 
+ Budapest  
+ Senior Security Architect 
+ Budapest  

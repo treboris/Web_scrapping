@@ -1,0 +1,71 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Webfejlesztő
+Javascript, CSS, PHP alapú webalkalmazások fejlesztése
+Android, iOS, cross-platform (ReactNative) mobil alkalmazások fejlesztése
+Követelmények implementálása
+Frontend és backend fejlesztési feladatok elvégzése
+Adatbázis- és rendszertervezés MYSQL környezet (Symfony)
+                Elvárások / Requirements
+Javascript, PHP, HTML+, SCSS+, JS(Bootstrap 4) nyelvek valamelyikében szerzett tapasztalat;
+HTML, CSS és JavaScript ismerete;
+Jó analitikus és problémamegoldó képesség;
+Önálló és csapatban történő munkavégzés, proaktivitás és precízség;
+Új technológiák iránti folyamatos érdeklődés;
+Középszintű angol nyelvtudás írásban;
+Jó kommunikációs és együttműködő készség
+ Előny:
+Egyéb programozási nyelvek, libek és platformok ismerete (Git, node.JS, stb);
+Gyakorlat Android és/vagy IOS alkalmazások fejlesztésében;
+VUEjs, ReactNative ismerete
+                Amit nyújtunk / Benefits
+főállású, határozatlan idejű munkaviszony
+versenyképes bér- és juttatási csomag
+Heti 2-3 nap HO
+szakmai fejlődés lehetősége, továbbképzések
+változatos fejlesztési feladatok
+konstruktív, innovatív, fiatalos csapat
+a0t6N000000n38TQAQ
+Webfejlesztő 
+Jelentkezem
+Elmentem az állást
+Trenkwalder Kft 
+Szekszárd, 7100 Magyarország 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Frontend Fejlesztő 
+ Pécs  
+ szoftverfejlesztő mérnök 
+ Esztergom  
+ Senior Full-Stack Fejlesztő 
+ Szeged  
+ Backend fejlesztő 
+ Pécs  
+ Ipari szoftverfejlesztő mérnök - Veszprém 
+ Veszprém  

@@ -1,0 +1,77 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Lead Software Engineer 
+The Company
+Diligent is the pioneer in modern governance. We empower leaders to turn governance into a competitive advantage through unparalleled insight and highly secure, integrated SaaS applications, helping organizations thrive and endure in today’s complex, global landscape. The largest global network of corporate directors and executives, Diligent is relied on by more than 19,000 organizations and nearly 700,000 leaders in over 90 countries. With award-winning customer service, Diligent serves more than 50% of the Fortune 1000, 70% of the FTSE 100, and 65% of the ASX. Our passionate, smart, and creative group of more than 1,000 employees support customers around the globe.
+Position Overview
+Boards Director is one Diligent’s most high profile applications, providing boards and executives with modern governance tools that allows the board to expand their reach outside the boardroom as well as meeting requirements such as distribution of board meeting materials in a secure environment.
+Diligent are looking for a Lead Software Engineers to join our Center for Global Product Innovation in Budapest. In this role, you will be responsible for leading, inspiring, mentoring and coaching one or more agile delivery teams to ensure regular successful delivery of world-class software solutions and deliver on Diligent’s ambition to redefine the way organizations are governed.
+Key Responsibilities
+Drive a culture of creativity, collaboration, speed, innovation and excellence, whilst actively promote Diligent values
+Passionately but pragmatically drive Agile and DevOps principles and practices
+Provide technical leadership within a highly collaborative technology environment
+Collaborate with senior engineering managers to define technical strategy and architecture
+Drive technical excellence and quality. Be the person your team look up to for technical guidance
+Co-ordinate and drive communication and collaboration between Engineering, QA, Operations, and other technology groups, to ensure regular smooth delivery of working software to production
+Participate in the hiring process through CV Reviews, Code Reviews, Phone Screens, and Technical interviews
+Ensure that the onboarding experience of new hires and transfers into the team is valuable and repeatable
+This is a hands-on role, and this person will spend around half their time contributing as a hands-on software engineer. This will include:
+Collaborating with product and UX leaders in the analysis and documentation of technical requirements and user stories for assigned features, in accordance with the agile methodology employed by Diligent
+Designing, coding, reviewing, and testing assigned features and user stories, in accordance with the agile methodology employed by Diligent. We expect a Technical Lead to lead by example in every area, none more so than in the hands-on development of our products
+Contributing to the quality assurance/testing strategy for assigned features, and performing technical tasks as required to support that strategy, including but not limited to development of unit and other automated tests, and assisting with acceptance and regression testing
+Required Experience/Skills:
+Angular 2+ (with 7/8 preferred), JavaScript, Typescript (Experience in other modern web frameworks such as React/Vue/Ember/Svelte) may be an acceptable substitute)
+.NET/.NET core (Java may be an acceptable substitute)
+Experience with common patterns in distributed systems (REST, SOA)
+Familiarity with DevOps practices, including containerization, test automation, build servers, performance monitoring, static analysis. Specific experience in GIT, Jenkins, Grafana would be beneficial
+Strong experience in agile/lean methodologies and processes
+Demonstrated ability to lead and/or guide a team
+Leading the formation of solution designs
+Excellent communication skills both written and oral
+Preferred Experience/Skills:
+Microsite/micro front-end architecture
+Jelentkezem
+Elmentem az állást
+Lead Software Engineer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 03.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Lead Software Engineer (React, TypeScript, NodeJS) 
+ Budapest  
+ Frontend Software Engineer (Angular) 
+ Budapest  
+ Medior/Senior Software Engineer  (.Net) 
+ Budapest  
+ Lead Software Engineer (Java) 
+ Budapest  
+ Software Engineer - C#, .Net, Angular 
+ Budapest  

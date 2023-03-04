@@ -1,0 +1,88 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Azure Solution Architect - Amsterdam, Netherlands (on-site) 
+Job Description
+Scope:
+The design and communication of end-to-end solutions to enable and guide the design and development of integrated solutions across multiple platforms that meet current and future business needs.
+Requirements
+Professional qualifications
+BCS, TOGAF, SWEBOK or other equivalent and valid architecture certificates
+Relevant professional qualifications in designing cloud-based solutions (e.g. Azure, PowerApps Portal, MS Dynamics 365, MS SharePointOnline)
+Role-specific experience:
+Proven record in designing and delivering end-to-end business solutions implemented across multiple components, platforms and technologies (both cloud and on-prem);
+Experience using agile software development methodologies (i.e. Kanban, Scrum and other lean techniques);
+Strong knowledge Microsoft cloud technologies (Microsoft Dynamics Portals, Microsoft SharePointOnline
+Experience in working with Azure DevOps or JIRA SDLC is desired
+Role-specific skills, competencies & responsibilities
+Lead the creation and review of an end-to-end domain architecture and processes to support the strategic requirements of the business. Identify the business benefits of alternative strategies.
+Ensure compliance between business strategies, enterprise architecture and technology directions, setting strategies, policies, standards and practices.
+Develop and present business cases, for high-level initiatives and approvals.
+Create and communicate multiple design views to identify and balance the concerns of all stakeholders of the domain design and to allow for both functional and non-functional requirements. Identify and evaluates alternative design options and trade-offs.
+Ensure that domain architecture decisions are justified and documented. Assess and manage associated risks.
+Ensure that platforms and components selected for delivery of a domain specific solution are integrated to achieve domain objectives.
+Provide effort / cost estimates and work breakdown structure.
+Present domain architecture to governance bodies, address resulting architectural actions and participate in the overall IT governance structures.
+Collaborates strongly with EMA architects in developing the solution, by applying the EMA architectural principles
+Partner with Platform Architects from the Strategic Platforms (I-SP) department in order to assess and optimise domain functional requirements and augment with technical requirements from the platform architecture.
+Partner with the Enterprise Architect from the CIO Office to ensure that the domain architecture fits into the broader enterprise architecture.
+Contribute to solutions testing and identify potential improvements to the domain solution, processes and to the strategic platforms according to agreed designs/requirements;
+Collaborates with Business Analysis function in identifying and preventing risks from the requirements gathering phase and all through the lifecycle of the solution
+Supports continuous knowledge transfer to team members and transparent approach in sharing risks/issues/dependencies
+Autonomous in managing activities based on priorities given by the Project Manager
+Reports outcome of testing through the JIRA SDLC tool
+Identifies potential improvements to the process and to the software products according to agreed designs/requirements;
+Experience working with key users in a fast paced and changing business environment to design and develop software that meets business need;
+Experience of the full development lifecycle of complex large scale and multi-user applications;
+Production of the relevant technical documentation, such as system designs, class designs and documentation for the support team;
+Capacity to assist the support team in training the users of the system;
+A strong technical background, specifically the delivery of complex software systems;
+Knowledge in IT Service Management and/or Risk frameworks, and/or international standards.
+Benefits
+Daily rate: 500 EUR / day
+Duration: 2-year contract B2B (Freelance)
+Application deadline: ASAP
+Jelentkezem
+Elmentem az állást
+Azure Solution Architect - Amsterdam, Netherlands (on-site) 
+Jelentkezem
+Elmentem az állást
+Jobmarketing Kft 
+AmszterdamÉszak-HollandHollandia 
+Teljes munkaidős 
+Frissítés dátuma: 27.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Data and AI Solution Architect 
+ Budapest  
+ Senior Azure Architect 
+ Budapest  
+ Senior Azure Cloud Architect 
+ Budapest  
+ Senior Azure Architect 
+ Budapest  
+ Principal Engineer, Full Stack Architect 
+ Budapest  

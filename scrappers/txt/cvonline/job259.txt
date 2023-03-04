@@ -1,0 +1,82 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Software Developer (C++) 
+Our partner is a global supplier of intelligent automation software. The company's software allows businesses to automate and improve business workflows by simplifying the handling of data and documents.
+Scope of the job:
+Senior Software Developer (specialized for C++ programming language) participates in the architecture, design, documentation, development, coding, and debugging of Windows desktop software solutions in either new software products or enhancements to existing software, under the general direction of his or her direct supervisor (Team Lead).
+Your main responsibilities are:
+Conducting research, where appropriate and needed, to solve specific design problems
+Work independently, or in a group under the direction of a team lead, creating modules, design documentation, subsystems or applications in C++ and C#, but occasionally also using other programming languages or development tools
+Work on Windows operating system with various third-party SDKs
+Adhere to company’s secure software development process
+Positive attitude and ability to work in a fast-paced environment
+Support production users
+Document his or her work in English
+Participate regular team meetings and/or conference calls
+Effective communication and relationships with other developers and the QA team
+You are the ideal candidate if you have:
+3-5 years of professional experience as a software developer
+Solid knowledge of the C++ language is necessary
+Solid knowledge of the C# language is preferred
+Demonstrated OOD experience
+Solid knowledge of Windows operating system is necessary
+Working knowledge of bug tracking and version control systems (TFS preferred)
+Ability to work both independently and in a team environment
+Strong troubleshooting and debugging skills
+Experience with PDF technology
+Experience with Microsoft technologies (SharePoint, Microsoft 365, Office applications)
+Experience with Document Management Systems
+Experience with virtualisation technologies (VMWare, Citrix, Microsoft App-V)
+Knowledge of COM is preferred
+What our client offers:
+Good team spirit in a small multinational environment
+Competitive salary package
+Modern office environment in the 13th district, near to M3 metro station
+Regular home office opportunity
+What you need to do now:
+If you're interested in this role, click 'apply now' and attach your English resume to us.
+Jelentkezem
+Elmentem az állást
+Software Developer (C++) 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 01.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Java Developer 
+ Budapest  
+ C++ developer 
+ Budapest  
+ Full Stack Developer 
+ Budapest  
+ Java Developer 
+ Budapest  
+ C Software Engineer 
+ Budapest  

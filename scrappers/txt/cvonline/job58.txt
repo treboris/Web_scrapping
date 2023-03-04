@@ -1,0 +1,74 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our Client is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. They uphold a 150-year legacy of innovation that encourages our search for people who will support their focus on decarbonization, new technologies, and energy transformation.
+Software engineering of innovative MPC solutions for improved start-up and operation of power-plants and implementation of these optimal control solutions in real power-plants worldwide
+Setup and verification of transient process models
+Ongoing development and maintenance of software for solving of non-linear optimization problems in Python, C++ or in Modelica
+Execution of projects for online performance optimization of power-plants
+Customizing the SW as per project specific requirements
+Integration, testing, documentation, review
+Collaboration in international teams
+                Elvárások / Requirements
+Expert Level:
+Degree in computer science, engineering, physics or (applied) mathematics (PhD is an advantage)
+Python including Pytest, Numpy, Pandas
+Git and Gitlab CI/CD.
+Non-linear dynamic Optimization with direct approach (Collocation).
+Business fluent English language (if you can speak in German it is a plus but it is not expected)
+ Advanced Level:
+Formulation and solution of dynamic optimization problems.
+Solving performance and robustness issues with non-linear optimization problems.
+Transient behavior of (power) plants.
+Model based control technology.
+                Amit nyújtunk / Benefits
+Competitive salary level (based on your professional background)
+Other benefits: cafeteria, yearly bonus
+Work in a friendly, modern environment
+2 Home office per week
+Flexible working hours – work-life balance provided
+Training opportunities
+Team building events, fruit days, health care programmes in the company
+Python Software Engineer/Modelling Expert 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 03.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Python Software Engineer  
+ Budapest  
+ Python Developer for Engineering Expert 
+ Budapest  
+ C Software Engineer 
+ Budapest  
+ Software Engineer 
+ Budapest  
+ Software Engineer  
+ Budapest  

@@ -22,19 +22,6 @@ driver = webdriver.Firefox(options=options)
 date = datetime.today().strftime('%Y-%m-%d')
 
 
-
-
-
-#PAGE COUNTER
-url = (f"https://jobline.hu/allasok/it_telekommunikacio-teljes_munkaido?p=1")
-page = requests.get(url)
-soup_number = BeautifulSoup(page.text,"html.parser")
-page_number = soup_number.find('h4', class_='align_center')
-string_split = (page_number.text).split()
-max_page_number = round(int(string_split[0])/20)
-print(f"Jobs: {string_split[0]}")
-print(f"Pages to scrap: {max_page_number}")
-
 id = []
 main = []
 href = []
@@ -42,16 +29,32 @@ corp = []
 location = []
 datee = []
 
-nov = 0
-while nov < max_page_number:
-    url = (f"https://jobline.hu/allasok/it_telekommunikacio-teljes_munkaido?p={nov}")
-    driver.get(url)
 
+#CONNECTION
+def conn(limit):
+    url = (f"https://jobline.hu/allasok/it_telekommunikacio-teljes_munkaido?p={limit}")
+    driver.get(url)
     html = driver.page_source
     soup = BeautifulSoup(html,"html.parser")
+    return soup
 
-    main_tag = soup.find_all('div',class_='job-main')
-    corp_tag = soup.find_all('div',class_='job-info')
+
+
+#GET-PAGE-NUMBER
+def page_number():
+    url = (f"https://jobline.hu/allasok/it_telekommunikacio-teljes_munkaido?p=1")
+    page = requests.get(url)
+    soup_number = BeautifulSoup(page.text,"html.parser")
+    page_number = soup_number.find('h4', class_='align_center')
+    string_split = (page_number.text).split()
+    max_page_number = round(int(string_split[0])/20)
+    return max_page_number
+
+
+for limit in tqdm(range(0,page_number())):
+
+    main_tag = conn(limit).find_all('div',class_='job-main')
+    corp_tag = conn(limit).find_all('div',class_='job-info')
 
 #location & main
     for m in main_tag:
@@ -69,8 +72,8 @@ while nov < max_page_number:
         corp.append(c_)
 
 #HREF EXTRACT
-    for div in soup.find_all('div' , class_='center'):
-        if(nov < 2):
+    for div in conn(limit).find_all('div' , class_='center'):
+        if(limit < 2):
             for link in div.find_all('article', class_='m-job_item no-flex top5'):
                 for a in link.find_all('a' , class_='l-cta_button open job-material-click'):
                     href.append(a.get('href'))
@@ -78,7 +81,6 @@ while nov < max_page_number:
             for a in link.find_all('a' , class_='l-cta_button open job-material-click'):
                 href.append(a.get('href'))
 
-    nov +=1
 
 driver.close()
 
@@ -90,16 +92,16 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
+print(len(id))
+print(len(main))
+print(len(href))
+print(len(corp))
+print(len(location))
+print(len(datee))
 
-print(location)
-print(href)
-print(datee)
-print(corp)
-print(main)
-print(id)
 
-href.append("XXX")
-save_data = Save(f'Jobline_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+
+#save_data = Save(f'Jobline_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
 
 
 

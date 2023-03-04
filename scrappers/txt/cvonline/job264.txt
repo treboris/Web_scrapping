@@ -1,0 +1,80 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Angular Frontend Developer 
+Your new company
+Your new role
+Fejlesztések és egyedi megoldások tervezése
+Fejlesztés végrehajtása, dokumentálása, leszállítása
+Fejlesztések minőség biztosítása, integrációs és tesztek készítése
+Hibakeresés, hibajavítás, tesztelés
+Rendszerteszt előkészítése, szervezése, lebonyolítása, dokumentálása
+Konzultáció a fejlesztési folyamat egyéb résztvevőivel
+Szakmai konzultációk, oktatások tartása, mentoring
+What you'll need to succeed
+HTML, CSS 
+JavaScript / TypeScript
+Angular keretrendszer
+Angular component library-k (RxJS, ngrx) 
+Micro frontend tapasztalat
+Strukturált gondolkodás, önálló problémamegoldó képesség
+Pontos, precíz munkavégzés, csapatmunkára való képesség
+Agilis hozzáállás, fogékonyság az új technológiák, ismeretek iránt
+Angol nyelv középfokú ismerete
+What you'll get in return
+Startup mentalitás
+Professzionális eszközkészlet
+Fiatalos csapat
+Agilis módszertan
+Megújult, modern, munkavállalói igényekre fókuszáló munkakörnyezet
+Home Office lehetősége
+Udemy Business hozzáférés és szakmai konferenciákon való részvétel 
+Felelősségteljes, önálló munkavégzés 
+Versenyképes juttatási rendszer
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+Senior Angular Frontend Developer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 01.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Full-stack developer C#/Angular 
+ Budapest  
+ Frontend Angular Developer - Remote 
+ Magyarország  
+ Frontend Developer 
+ Budapest  
+ Senior Frontend Developer 
+ Budapest  
+ Frontend Developer 
+ Budapest  

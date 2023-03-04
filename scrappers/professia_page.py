@@ -14,10 +14,12 @@ text = ""
 date = datetime.today().strftime('%Y-%m-%d')
 data = pd.read_csv('data/Professia_2023-02-21.csv')
 
-data_size = data.size
+dataindex = data.index
+data_size = len(dataindex)
 href = data['Href'].to_list()
 
-for x in range(0 , data_size):
+
+for x in tqdm(range(0,data_size)):
     url_piece = href[x]
     url = (f"https://www.profesia.sk{url_piece}")
     page = requests.get(url)

@@ -1,0 +1,65 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Full Stack Developer
+Német vöröskereszt részére fejlesztések microservice-alapú szoftverrel,
+Egy, a segélyszervezet által használt vérlabor teljes informatikai rendszerének módosítása, modernebb infrastruktúrára,
+Szoftverek fejlesztése és tervezése professzionális környezetben,
+Egyedileg fejlesztett megoldások készítése,
+Szoros együttműködés a projektcsapattal.
+                Elvárások / Requirements
+Tárgyalóképes angol és/vagy német nyelvtudás,
+Nemzetközi vagy hazai, minimum 5-10 év nagyvállalati fejlesztési tapasztalat,
+A backend GoLang-ban íródott microservice, ami Docker és Kubernetes környezetben fut,
+A frontend nagy része Angular-ban, a projekt egyes részei C# .NET-Core-ban íródtak,
+JIRA, Bitbucket, Confluence vagy hasonló kollaborációs rendszerek ismerete,
+Verziókezelésben való jártasság szoftverekkel,
+Scrum ismeretek.
+                Amit nyújtunk / Benefits
+Versenyképes bérezés,
+Támogató csapat,
+Rugalmas munkaidő,
+Külső és belső képzési lehetőségek (nyelvi és informatikai területen).
+a0t6N000000pIZ8QAM
+Full Stack Developer 
+Jelentkezem
+Elmentem az állást
+Trenkwalder Kft 
+Kecskemét 
+Teljes munkaidős 
+Frissítés dátuma: 28.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Full Stack Developer 
+ Budapest  
+ Senior Full-stack developer C#/Angular 
+ Budapest  
+ Full-stack developer (node.js) 
+ Budapest  
+ Junior Full Stack Developer 
+ Debrecen  
+ Full-stack developer C#/Angular - Medior 
+ Budapest  

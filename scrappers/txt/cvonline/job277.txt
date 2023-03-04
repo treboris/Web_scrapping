@@ -1,0 +1,71 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Manufacturing IT gyakornok 
+ A GE Power részeként a GE Power Supply Chain különálló üzletága egy olyan globális gyárközpontot működtet Magyarországon, mely a világ minden tájára szállít erőművi megoldásokat, többek között gázturbinák karbantartásakor szükséges alkatrészeket, vagy mini-erőműveket.
+ Feladatok:
+ Gyártási folyamatokat támogató alkalmazások és a hozzájuk kapcsolódó hardveres környezetek tervezése, fejlesztése, telepítése és támogatása
+ Alkalmazások fejlesztése olyan kézzelfogható, gyártás közeli problémákra, mint optikai karakterfelismerés (OCR), képfeldolgozás-alapú minőség-ellenőrzés, mérésadatok digitalizálása
+ A projekt eredményeinek bemutatása, kommunikáció a funkcionális partnerek felé
+ Elvárások:
+ Nappali tagozatos hallgatói jogviszony
+ Legalább középszintű angol nyelvtudás
+ Magabiztos MS Office használat
+ Programozási ismeretek a következő eszközök valamelyikével: Java, Python, C/C++, Linux, webprogramozás (HTML, Java Script, NodeJS, Spring Boot, stb.) 
+ Nyitottság IoT technológiák megismerésére (Arduino, Raspberry Pi/Raspbian)
+ Nyitottság felhő alapú technológiák megismerésére (AWS, Azure)
+  Munkaidő
+ Heti minimum 20 órában végezhető diákmunka
+  Amit kínálunk
+ Bruttó 1704 Ft/óra diákbér
+ Ingyenes céges buszjárat Veresegyházra
+ Otthoni munkavégzésre lehetőség
+ Szakmai gyakorlat leigazolása
+ Hosszú távú diákmunka
+ Előnyt jelent:
+ Időszakonként veresegyházi munkavégzés
+  Jelentkezés  Amennyiben felkeltette érdeklődésed az alábbi pozíció, töltsd ki a lenti űrlapot és kattints a "Jelentkezem" fülre!
+Jelentkezem
+Elmentem az állást
+Manufacturing IT gyakornok 
+Jelentkezem
+Elmentem az állást
+Mind-Diák Szövetkezet 
+Budapest 
+Szakmai gyakorlat, diákmunka 
+Frissítés dátuma: 28.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ IT gyakornok  
+ Budapest  
+ IT Biztonsági gyakornok 
+ Budapest  
+ Szoftvertesztelő gyakornok 
+ Budapest  
+ Szoftverfejlesztő gyakornok 
+ Budapest  
+ Jogosultság kezelő gyakornok 
+ Budapest  

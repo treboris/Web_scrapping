@@ -1,0 +1,111 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Szoftverfejlesztő 
+FELHÍVÁS 
+álláshely betöltésére 
+Igazgatóság: Architekturális Szolgáltatások Igazgatóság
+Főosztály: Informatikai szolgáltató főosztály
+Álláshely megnevezése: Szoftverfejlesztő
+Álláshely besorolása: Vezető-hivatalifőtanácsos
+Álláshely legkorábbi betöltésének időpontja: 2023. március 20.
+A kormányzati szolgálati jogviszony ideje: határozatlan
+Foglalkoztatás jellege:  teljes munkaidős
+Munkavégzés helye:  1024 Budapest, Buday László u. 1-3.
+Jogállás, illetmény és juttatások:
+A jogviszonyra, az illetmény megállapítására és a juttatásokra a kormányzati igazgatásról szóló 2018. évi CXXV. törvény kormánytisztviselőkre vonatkozó rendelkezései az irányadóak.
+Ellátandó feladatok:
+A Központi Statisztikai Hivatal KSH-ELEKTRA elektronikus adatgyűjtési rendszerében elektronikus kérdőívek fejlesztése, ezen belül:
+A kérdőívek specifikációja alapján a fejlesztés megvalósítása;
+Elektronikus kérdőívek készítése, hibák kezelése, változtatások és új fejlesztési igények megvalósítása
+Fejlesztői tesztek elvégzése;
+A KSH-ELEKTRA rendszer új alkalmazás verzióinak tesztelése;
+Kapcsolattartás és együttműködés a fejlesztőkkel, szakterületekkel;
+Informatikai dokumentációk elkészítése, karbantartása;
+Kapcsolattartás a statisztikusokkal, az adatgyűjtés és a statisztikusi igények megismerése érdekében, valamint külső fejlesztőkkel;
+Együttműködés más kapcsolódó informatikai rendszerek felelőseivel.
+Az állás betöltésének feltételei:
+Magyar állampolgárság;
+Cselekvőképesség;
+Főiskolai és/vagy egyetemi szintű iskolai végzettség;
+Középfokú angol nyelvismeret;
+Legalább 1-3 év szakmai tapasztalat;
+Kinevezés esetén a büntetlen előéletet igazoló hatósági bizonyítvány bemutatása.
+Elvárt kompetenciák:
+Motiváció;
+Önálló munkavégzés;
+Jó problémamegoldó készség;
+Stressztűrés;
+Kezdeményező és együttműködési készség;
+Szorgalom.
+Az elbírálásnál előnyt jelent:
+iFORM (űrlaptechnológia) ismeret
+Fejlesztői gyakorlat,
+Oracle ismeret
+Javascript ismeret
+SQL ismeret.
+A jelentkezéshez szükséges:
+Önéletrajz (Kit. 83. § (5) bekezdése szerint);
+Motivációs levél (fizetési igény megjelölésével);
+Nyilatkozat személyes adatok megismeréséhez és kezeléséhez.
+A pályázat benyújtásának határideje:            2023. február 19.
+A pályázat elbírálásának határideje:              2023. március 01.
+A pályázatok benyújtásának módja:
+Elektronikus úton a tárgyban feltüntetve a „KSH 1284” azonosító számot, Varga Judit részére a "Jelentkezem" gombra kattintva.
+A pályázati eljárás, a pályázat elbírálásának módja, rendje:
+Amennyiben a pályázati kiírásban szereplő feltételeknek a jelentkező megfelelt, továbbá a pályázat a munkáltató figyelmét felkeltette, szóbeli meghallgatásra kerül sor. A pályázat eredményéről a pályázókat írásban tájékoztatjuk.
+A pályázati kiírás további közzétételének helye, ideje:
+ksh.hu – 2023. február 03.
+A munkáltatóval kapcsolatos egyéb lényeges információ:
+Szakmai fejlődési- és továbbképzési lehetőség
+Nemzetközi projektekben való részvétel
+Folyamatosan megújuló szervezet
+Családbarát munkahely
+Sport- és kulturális programok
+Szervezetünkről, könyvtárunkról, munkahelyünkről bővebben a www.ksh.hu honlapon tájékozódhat.
+Jelentkezem
+Elmentem az állást
+Szoftverfejlesztő 
+Jelentkezem
+Elmentem az állást
+Központi Statisztikai Hivatal 
+BudapestPest 
+Teljes munkaidős 
+1-2 év munkatapasztalat 
+Főiskolai végzettség 
+Frissítés dátuma: 03.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SZOFTVERFEJLESZTŐ GYAKORNOK – TOPCO 
+ Budapest  
+ Rendszergazda / IT szakember 
+ Fonyód  
+ SZOFTVER TÁMOGATÓ  (16-2047) 
+ Gödöllő  
+ SZOFTVERTESZTELŐ GYAKORNOK 
+ Budapest  
+ SZOFTVERFEJLESZTŐ  
+ Szeged  

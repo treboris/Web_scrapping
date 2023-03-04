@@ -1,0 +1,57 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Do you want to work at a stable company presenting in several different industries? Would you participate in the work of a company that has a people-oriented attitude and where the employees love their workplace? 
+Due to the continuous expansion of our client, which occupies a top position in automation, we are looking for an Embedded Firmware Developer professional.
+▪ Development of embedded firmware for devices and sensors with focus on a communication forIndustrial Ethernet▪ Definition of the product/firmware specification in the requirement management system▪ Coding, integration, testing and documentation of program code▪ Conceptual design of unit, integration and system tests, execution and evaluation of relatedtests▪ Collaboration with interdisciplinary, distributed product development teams
+                Elvárások / Requirements
+▪ Studies of electrical engineering, communications technology, computer science focusembedded systems or comparable qualification▪ Professional experience of at least 2-5 years▪ Very good knowledge in C, C++ and Ethernet bus systems▪ Very good experience in the development of embedded systems▪ English knowledge at communication level▪ Good knowledge of the corresponding tool chains (requirement management / developmentsystems)▪ Experience with continuous integration and testing systems▪ Good analytical capabilities▪ Team player
+                Amit nyújtunk / Benefits
+Besides base salary the package includes premium, cafeteria, health insurance service, commuting support, relocation support 
+Stable background, a continuously expanding company with a 30+-year history
+Excellent work-life balance (based on employee satisfaction measurement)
+Flexible working time, home office option
+Professional trainings, opportunity for development and advancement
+Embedded Firmware Developer 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 28.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Embedded developer 
+ Budapest  
+ Embedded SW Engineer 
+ Budapest  
+ Embedded SW Engineer 
+ Budapest  
+ Embedded Software Engineer 
+ Budapest  
+ Senior Embedded Software Engineer 
+ Budapest  

@@ -1,0 +1,79 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Azure Architect 
+Your new company
+New start up in e-commerce field.
+Your new role
+Lead the foundation of the Cloud Architecture & Governance for the SME Corporation
+Support the Azure DevOps Architecture design
+Support the Azure DataPlatform Architecture design
+Support the Azure EventHub/DataServices Integration Architecture design
+Support the Azure RunTime Infrastructure design for the core business enabler Marketplace Platform in Azure Kubernetes Services and other native Azure Cloud Services
+Design and Prepare the Policy Environment within Azure Cloud
+Support SaaS ICT Architecture and Implementation in Azure
+Support integration initiatives and related Solution Architecture in/outbound from Azure Cloud
+Work together with the Chief Security Architect / Virtual CISO on Cloud Security Topics
+Support the preparation of an IT Policy for the Enterprise
+Support implementation of mitigations per the Business Continuity Plan
+What you'll need to succeed
+Expert within Azure IaaS, SaaS Cloud Services and Architecture
+Experience in setting up and operating an Azure Cloud environment for a SME
+Experience with Azure Networking services, Azure Security and Identity services, Azure Integration services, Azure SQL Database, SQL Server, SQL Server IaaS, firewalls, Web App proxies, Bash, BGP, Chef, Puppet, PowerShell scripting, Azure Monitor and Application Insights
+Expertise in infrastructure as code (e.g., cloud formation, ARM, Terraform, Ansible, Chef, Puppet)
+Basic familiarity with network features – e.g. cloud network topology, BGP, routing, web (REST) APIs
+Experience with configuring, deploying and operating public cloud services (e.g. Azure, AWS, GCP)
+Awareness in open source tools & scripting language (e.g. Python, powershell, Shell)
+Deep understanding of software development lifecycles and cloud economics, incl. knowledge of consumption-driven TCO
+Expertise in infrastructure as code (e.g., cloud formation, ARM, Terraform, Ansible, Chef, Puppet)
+High availability engineering experience (region, availability zone, data replication clustering)
+Good knowledge of security implications of public & private cloud infra design
+Experience with Cloud Automation and Infrastructure as Code
+Microsoft Certified Azure Architect is a plus
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+Senior Azure Architect 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 04.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Azure Cloud Architect 
+ Budapest  
+ Senior Azure Architect 
+ Budapest  
+ Senior ICT ARchitect 
+ Budapest  
+ Senior Azure DevOps Engineer 
+ Budapest  
+ Senior Azure DevOps Engineer 
+ Budapest  

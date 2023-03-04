@@ -1,0 +1,80 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+IT Operations Administrator 
+Your new company
+Our partner is a major innovative partner in the auto industry. Uniquely in Hungary, their manufacturing activity began as a result of their successes in the field of development.
+Your new role
+Participate in implementation and provide operational support for Global IT Infrastructure Services of Manufacturing Operations Management (MOM) Systems at group level as primary responsible.
+Provide L2 support for this service and for additional ones, such as IT System Monitoring as deputy responsible.
+Ensure standard installation, configuration and administration of hybrid IT infrastructure components, such as MS Windows Servers, Red Hat Enterprise Linux Servers.
+Take part in central logging, backup, monitoring and reporting for these services.
+Monitor, analyze IT Infrastructure of MOM System related events and incidents, based on the analysis take professional corrective actions.
+Resolve, manage and document IT Infrastructure Services of MOM System related incidents by the ticketing system.
+Collaboration in the definition of local and/or global standards.
+Close cooperation with IT and other departments during daily works as well as during various projects and/or audits.
+What you'll need to succeed
+Good knowledge of server operating systems: Linux Server and Microsoft Windows Server Systems. Preferred RHEL or CentOS. RHCA, RHCE, RHEL Satellite Administration certifications or equivalent knowledge is required.
+Azure IaaS, SaaS or other cloud computing service administration skills are required.
+Experiences in IT service installations and administrations with mentioned server operating systems. Ideally should have experiences in configuration, management and application deployment in on premise as well as in cloud environments.
+Understandings of IT service supports and operations.
+Precise and well-structured work style.
+Proactive, self-confident attitude but able and capable to follow standards and policies.
+Good English knowledge, German knowledge is an advantage.
+2-3 years L1 and/or L2 Level support experiences ideally in one of the mentioned services above.
+Readiness for continuous trainings and educations.
+Willingness to work flexibly if needed (possible out-of-hours assignments).
+Willingness to work with colleagues from different cultures.
+Willingness to provide on-call service out of office time.
+Willingness to travel internationally (up to 15 %).
+What you'll get in return
+ • Competitive salary and extensive benefit package
+ • Participation in international projects 
+ • A successful and rapidly growing company that ensures continuous professional development
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+IT Operations Administrator 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Jász-Nagykun-Szolnok 
+Teljes munkaidős 
+Frissítés dátuma: 03.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ System Administrator 
+ Budapest  
+ Windows System Administrator 
+ Budapest  
+ Linux System Administrator 
+ Budapest  
+ Salesforce Administrator 
+ Budapest  
+ Security Solution Administrator - Antivirus Operation (REF565Y) 
+ Budapest  

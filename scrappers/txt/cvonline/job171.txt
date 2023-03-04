@@ -1,0 +1,74 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Energiaszektorban működő ügyfelünk megbízásából keresünk az informatikai csapatukba rendszergazda pozícióba új kollégát. A MS környezetben működő infrastruktúra üzemeltetése mellett a fejlesztési igények koordinálása, kapcsolattartás a beszállítókkal is a feladatkör része.
+Későbbiekben rendszermérnök vagy rendszerszervező irányban van lehetőség továbblépésre a szervezeten belül.
+Felhasználók napi szintű informatikai támogatása, felmerülő IT problémák helyszíni és távolról történő megoldása
+HelpDesk tevékenység ellátása, hibajegykezelő rendszer használata
+Informatikai rendszerek üzemeltetése, admin feladatainak ellátása
+Szerverek, kliensek és egyéb hardverek üzemeltetése
+Mobil eszközök üzemeltetésének támogatása
+Hardver és szoftver telepítésekben való részvétel
+Informatikai fejlesztések, verzióváltások támogatása
+Szállítókkal, szerződéses támogató partnerekkel való kapcsolattartás
+Egyéb IT folyamatok támogatása, adminisztrálása
+                Elvárások / Requirements
+2-3 év hasonló munkakörben szerzett szakmai tapasztalat
+Microsoft Windows (7-10) desktop operációs rendszerek, és Office alkalmazások ismerete
+Microsoft szerver oldali rendszerek ismerete (Windows server, AD,  Exchange, SQL, stb.)
+szakmai angol nyelv ismerete
+felsőfokú szakirányú végzettség előny
+B kategóriás jogosítvány előny
+rendszerszemlélet, igényes, pontos munkavégzés,
+ügyfélorientált gondolkodás
+önálló munkavégzésre és csapatmunkára való képesség.
+                Amit nyújtunk / Benefits
+Szakmai fejlődési lehetőség
+Kiváló munkakörnyezet és munkaeszközök
+Támogató, összetartó csapat
+Kellemes munkahelyi légkör
+Versenyképes alapbér
+Home office lehetőség
+Rendszergazda 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 02.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ IT Rendszergazda 
+ Kecskemét  
+ Rendszergazda 
+ Tiszaújváros  
+ Medior Linux Rendszergazda 
+ Budapest  
+ Microsoft Rendszergazda 
+ Budapest  
+ Rendszergazda / IT szakember 
+ Fonyód  

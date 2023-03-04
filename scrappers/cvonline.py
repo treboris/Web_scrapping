@@ -11,6 +11,8 @@ from tqdm import tqdm
 from Data import Save
 import pandas as pd
 import re
+import os
+
 import time
 import requests
 
@@ -96,6 +98,11 @@ for y in range(0, list_size):
 
 
 save_data = Save(f'Cvonline_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+
+
+#TO TXT
+
+
 
 
 

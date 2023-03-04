@@ -64,6 +64,4 @@ for y in range(0, list_size):
 save_data = Save(f'ITpeople_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
 
 
-
-
 print("--- %s seconds ---" % (time.time() - start_time))
