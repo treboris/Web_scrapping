@@ -1,0 +1,82 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Flutter Developer - junior/medior/senior 
+Country: Hungary (+36) • Budapest
+Description:
+Our client is looking for Flutter Developers (junior/medior/senior) for very interesting long-term projects.
+Duties:
+• Participation in the creation of the new, state of the art systems user interface
+• Creating new functionalities of the financial systems
+• Write clear, maintainable and testable code that you are proud of
+• Running the mentorship within the Frontend team
+Requirements and skills:
+• Experience with Flutter (junior/medior/senior)
+• Working knowledge of the general mobile landscape, architectures, trends and emerging technologies
+• Proven working experience in team software development
+• Experience with third-party libraries and APIs
+• Solid understanding of the full mobile development lifecycle including automated testing and building
+• Good command of English: ability to communicate effectively in writing and verbally (international team)
+• Be proficient in using version control and continuous integration, with tools such Git and Jenkins
+• Experience working in an matrix development process
+Command of languages:
+Good command of English
+Client company profile:
+Our client is a market leader and internationally acknowledged company with a stable background. They offer modern workplace with high-tech development environment with the latest hardware devices which available on the market, and wide range of technology sources.
+What our client offers:
+• Generous employee benefits, competitive salary (base + bonus + cafeteria)
+• Flexible working hours, home office days (4 days/week)
+• Personal and professional development opportunities (UDEMI / O'Reilly subscription, etc.)
+•High performance equipment (MAC or Linux)
+• Access to cutting edge solutions, newest technologies
+• Start-up like work environment within a stable, long-established company.
+• New project (Open source software application, replacement of legacy systems into future-proof modular architecture and creating systems with huge transaction numbers in a distributed architecture. )
+• Work- life balance
+• Flexible working hours with core time
+• Opportunity to learn and gain experience in Flutter programming language
+Further information:
+By submitting an application form or sending your curriculum vitae electronically, you will be giving the employees of PBS International Ltd. the approval and acknowledgement to access, handle and record the personal details you have submitted for application and registration processing. During the course of your application and in the future event that a prospective party expresses professional interest in you, we will only forward your details onto our clients upon your exclusive and prior approval. For a more detailed view of our data security terms and to accept all of our terms and conditions please visit the link here: https://www.pbs-job.hu/?/data-protection/for-employees
+Jelentkezem
+Elmentem az állást
+Flutter Developer - junior/medior/senior 
+Jelentkezem
+Elmentem az állást
+PBS International Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 06.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior/Medior Full Stack Developer 
+ Budapest  
+ Full-stack developer C#/Angular - Medior 
+ Budapest  
+ Backend Fejlesztő (junior/medior/senior) 
+ Budapest  
+ Medior Java Developer 
+ Budapest  
+ Senior Full-stack developer C#/Angular 
+ Budapest  

@@ -1,0 +1,64 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Teszteszköz fejlesztő mérnök 
+Multinacionális partnerünkhöz keresünk tapasztalt teszteszköz fejlesztő kollégát Budapest XXIII. kerületében.
+                Feladatok / Tasks
+Teszteszközök specifikálása az adott tesztelési igényeknek megfelelően
+Meglévő teszt berendezések és tesztelési technológiák fejlesztése és értékelése az adott tesztelési igények alapján
+Új tesztrendszerek tervezése, dokumentációjának elkészítése
+Költség- és időterv elkészítésének támogatása
+Teszt berendezések beüzemelésének támogatása
+Tesztmérnökök támogatása  
+Esetleges meghibásodás esetén a hibafeltárás és hibajavítás támogatása
+Elvárások: 
+Mechatronikai, fizikusi, villamosmérnöki, gépészmérnöki végzettség
+A NI LabVIEW szoftver fejlesztő környezet használatának ismerete
+Aktív középfokú angol nyelvtudás
+Rendszerszemlélet, strukturált gondolkodásmód
+Önállóság
+Nemzetközi környezetben való kooperációs készség
+Jelentkezem
+Elmentem az állást
+Teszteszköz fejlesztő mérnök 
+Jelentkezem
+Elmentem az állást
+HSA Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 04.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Teszteszköz fejlesztő mérnök 
+ Budapest  
+ Fejlesztő 
+ Szeged  
+ C# fejlesztő 
+ Szeged  
+ Backend fejlesztő 
+ Pécs  
+ Aphex fejlesztő 
+ Budapest  

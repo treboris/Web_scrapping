@@ -11,7 +11,7 @@ import requests
 import time
 
 
-print("KARIERA.SK-scrapper STARTED")
+print("KARIERA.sk-scrapper STARTED")
 start_time = time.time()
 date = datetime.today().strftime('%Y-%m-%d')
 

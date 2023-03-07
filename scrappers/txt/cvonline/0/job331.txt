@@ -1,0 +1,85 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+MEDIOR FRONTEND FEJLESZTŐ (REACT) 
+Feladatok:
+Funkcionális tervek összehangolása a technológiai lehetőségekkel, Backlog refinement keretében,
+Ezen véglegesített tervek alapján a feladatok elvégzése,
+Junior kollégák felügyelete, segítségnyújtás számukra,
+Szűk keresztmetszetek azonosítása, javítása az alkalmazásban, bug-ok javítása,
+Többi fejlesztővel-, tesztelővel, PO-val és managerekkel való együttműködés,
+Aktív részvétel a meetingeken.
+ Elvárások:
+Min. középfokú informatikai végzettség (előny főiskolai vagy egyetemi végzettség informatikai vagy műszaki területen),
+Legalább 3+ év fejlesztési tapasztalat javascript területen (elsősorban React),
+Scrum/Agile jártasság,
+GIT ismerete,
+Angol magabiztos társalgási szintű nyelvtudás (napi munkavégzéshez elengedhetetlen).
+ Előnyök:
+Adatbázis, back-end tapasztalat,
+PL/SQL,
+Docker tapasztalat,
+Kafka tapasztalat,
+CI/CD tapasztalat,
+SAFE ismeret,
+Holland nyelv ismerete.
+ Juttatások, ajánlat:
+Profi felszerelés, amit a fejlesztő maga választhat (Windows vagy MacOS),
+Home office vagy remote lehetőség,
+Flat structure,
+Open door policy,
+Transparency,
+Karácsonyi ajándék,
+Kávé, üdítő, snack,
+Iroda a belvárosban,
+Jó fej, fiatalos csapat,
+Bejárási-, parkolási támogatás,
+Általában évi egy utazás Hollandiába,
+Ingyenes nyelvtanfolyam munkaidőben.
+Munkavégzés helye: Pécs
+Munkaidő: hétfőtől - péntekig, rugalmas munkaidő
+ Amennyiben érdekli a meghirdetett pozíció, küldje el számunkra angol és magyar nyelvű önéletrajzát a JELENTKEZÉS gombra kattintva!
+Jelentkezem
+Elmentem az állást
+MEDIOR FRONTEND FEJLESZTŐ (REACT) 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Baranya 
+Teljes munkaidős 
+Frissítés dátuma: 28.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ MEDIOR JAVA BACKEND FEJLESZTŐ 
+ Baranya megye  
+ Frontend Fejlesztő 
+ Pécs  
+ Frontend fejlesztő 
+ Pécs  
+ Medior JAVA fejlesztő 
+ Magyarország  
+ Frontend fejlesztő (REF731J) 
+ Budapest  

@@ -1,0 +1,86 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+SZOFTVERTESZTELÉSI CSOPORTVEZETŐ 
+Szeretnél olyan termékek fejlesztésében részt venni, amelyeknek komoly piaci potenciálja van, és egyúttal a vasúti közlekedés, vagyis az egyik leginkább környezettudatos közlekedési mód alapfunkcióját biztosítják? Dolgoznál olyan fékvezérlő rendszerek tesztelésén, ahol a minőség és a megbízhatóság mindenek felett áll? Nálunk mindezekre alkalmad nyílik! Közel 20 fős szoftvertesztelő csoportunk számára keresünk csoportvezetőt! Tesztelő kollégáink a vonatkozó vasúti szabványokat és a legmodernebb tesztelői paradigmákat felhasználva, biztonságkritikus fékvezérlő kártyák szoftver- és rendszertesztelésével foglalkoznak. Ehhez a legújabb Vector eszközöket és saját fejlesztésű tesztkörnyezeteket alkalmaznak, automatizált teszteket írva a szoftver komponensektől egészen a teljes rendszer szintjéig. Ezenkívül rendszeres támogatói és résztvevői vagyunk a HUSTEF konferenciának, ahol tovább színesítjük tudásunkat.
+EZEK LESZNEK A FELADATAID
+Szoftverteszt mérnökökből álló csoport vezetése
+Rendszeres négyszemközti megbeszélések megtartása a beosztottakkal
+A kollégák karrierjének tervezése, képzései tervezek összeállítása
+Toborzásban való részvétel
+Erőforrás tervezés és erőforrás allokáció fejlesztési projektekre
+Projektek tesztelési stratégiájának kialakítása nemzetközi együttműködésben
+Tesztfolyamatok és tesztelési módszertan fejlesztése
+Tesztrendszerekkel és eszközökkel kapcsolatos stratégia kialakítása
+Kapcsolattartás projekt- és csoportvezetőkkel
+Rendszeres beszámolás felsővezetés felé
+AMIK SZÜKSÉGESEK A FELADATAID ELLÁTÁSÁHOZ
+Mérnök informatikus vagy villamosmérnök végzettség
+Formális tesztelői képzettség, magabiztos tesztelői tudás
+Legalább 5 év beágyazott rendszerek tesztelésében szerzett tapasztalat
+Csoportvezetésben vagy teszt menedzsmentben szerzett tapasztalat
+Önálló, lendületes munkavégzés
+Kommunikációs készség, csapatmunka, utazási kedv
+Magabiztos angol nyelvtudás
+MIÉRT VÁLASSZ MINKET?
+Versenyképes a juttatási csomagunk, mely az alapbéren felül többek között cafeteriát és 13. havi bért is tartalmaz
+Minden munkatársunk után kiterjedt élet-és balesetbiztosítást kötünk, valamint egészségbiztosítási csomaggal is támogatjuk őket
+Kötetlen munkaidő heti 3 nap Home Office lehetőséggel
+Egy folyamatosan fejlődő és bővülő stabil vállalat új munkatársaként nemzetközi és modern munkakörnyezettel várunk
+Megismerhetsz innovatív termékeket, technológiákat és megoldásokat
+Fontos számunkra egyéni szakmai fejlődésed, melyet képzésekkel is támogatunk
+Kellemes munkahelyi légkör és sokszínű programlehetőség (családi nap, sportnap) színesíti a mindennapokat
+Saját konditermünk és számtalan sportszakkörünk is van, ahol örömmel várjuk új belépőinket
+Ingyenes parkolási lehetőséget biztosítunk számodra
+Csatlakozz hozzánk és egy nyitott, befogadó közösség tagja lehetsz!
+MÉG NAGYOBB ESÉLYED VAN, HA
+Rendelkezel ISTQB CTAL TM és CTAL TA tanúsítvánnyal
+Ismersz és tudsz alkalmazni tesztelési folyamatfejlesztési modellt (TMMi, TPI Next)
+Rendelkezel hardvertesztelésben szerzett tapasztalattal
+Rendelkezel német nyelvtudással
+Jelentkezem
+Elmentem az állást
+SZOFTVERTESZTELÉSI CSOPORTVEZETŐ 
+Jelentkezem
+Elmentem az állást
+Knorr-Bremse Rail Systems Budapest 
+BudapestPest 
+Teljes munkaidős 
+5-10 év munkatapasztalat 
+Főiskolai végzettség 
+Frissítés dátuma: 23.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SZOFTVERTESZTELŐ MÉRNÖK - BEÁGYAZOTT TERÜLETRE 
+ Budapest  
+ TESZTMÉRNÖK GYAKORNOK 
+ Budapest  
+ Szoftverintegrációs tesztautomatizáló mérnök 
+ Budapest  
+ Junior PLC Programozó 
+ Dunavarsány  
+ Szoftverfejlesztő mérnök (beágyazott rendszerek) 
+ Budapest  

@@ -1,0 +1,86 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+ERP Developer 
+Téged keresünk ha:
+Ha szeretnél komplex Microsoft ERP bevezetési projekteken dolgozni
+Ha szeretnéd egy dinamikusan fejlődő IT tanácsadó cégnél folytatni a karrieredet
+Érdekelnek különböző iparágakat átfogó projektek
+Szeretnéd bővíteni a tudásodat egy innovatív szervezetben
+                Feladatok / Tasks
+Microsoft Dynamics NAV/Business Central technológia megismerése
+Microsoft Dynamics NAV/Business Central  programnyelvének elsajátítása (C/AL, AL)
+Rendszer-funkcionalitások, üzleti folyamatok megismerése belső tréningek segítségével, és önálló tanulási folyamat során
+specifikáció alapú kódírás
+fejlesztői/unit tesztek végzése MS Dynamics NAV/BC  megoldásokban
+MS Dynamics NAV/BC  megoldások támogatása
+Telepítési csomagok készítése a fejlesztett megoldásokhoz
+Installációs csomagok készítése a release-hez
+Docker,  PowerShell, GIT verzió kezelő használata
+MS Azure DevOps használata
+Visual Studio Code használata
+Együttműködés a konzulensekkel és a csapatban dolgozó fejlesztőkkel
+Nemzetközi projektekben való részvétel
+Termékfejlesztési feladatok
+Agilis működés
+                Amit nyújtunk / Offer
+Támogató környezet és esély a gyors fejlődésre, kihívást jelentő munka már az első naptól, változatos projektek
+Tréningek, folyamatos támogatás
+Elvárások: 
+2-3 év szoftverfejlesztési tapasztalat
+C#, .NET framework és MSSQL ismeret
+Hajlandóság az egyedi, cél programnyelv (C/AL, AL)
+GIT ismerete
+Visual Studio Code ismerete
+Új ismeretek elsajátítására való nyitottság
+Kommunikációképes angol nyelvtudás
+Amit nyújtunk: 
+Egyetemi/főiskolai végzettség – gazdaságinformatika szak előny
+IIS ismeret, ASP.NET alapú fejlesztésben szerzett tapasztalat
+MS Azure Service ismerete
+Német nyelvtudás
+Docker ismeret
+Jelentkezem
+Elmentem az állást
+ERP Developer 
+Jelentkezem
+Elmentem az állást
+HSA Kft. 
+Debrecen 
+Teljes munkaidős 
+Frissítés dátuma: 06.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SAP developer 
+ Debrecen  
+ C++ developer 
+ Budapest  
+ ERP tréner 
+ Nyíregyháza  
+ Front-End Developer 
+ Budapest  
+ Junior Full Stack Developer 
+ Debrecen  

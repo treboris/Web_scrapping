@@ -54,9 +54,9 @@ Hasonló állások
  Pécs  
  Frontend fejlesztő (REF731J) 
  Budapest  
- Backend fejlesztő 
- Pécs  
- MEDIOR FRONTEND FEJLESZTŐ (REACT) 
- Baranya megye  
  Frontend fejlesztő 
  Budapest  
+ MEDIOR FRONTEND FEJLESZTŐ (REACT) 
+ Baranya megye  
+ Backend fejlesztő 
+ Pécs  

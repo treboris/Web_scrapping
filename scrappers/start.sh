@@ -3,21 +3,30 @@
 
 
 
-if python3 cv_online.py ;then
-  echo "Cvonline scrap executed."
+if python3 cvonline.py ;then
+  true
 else
   echo "An error has occurred(cvonline)!"
 fi
 
 
-if python3 jobline_scrap.py ;then
-  echo "Jobline scrap executed."
+if python3 kariera.py ;then
+  true
 else
   echo "An error has occurred(jobline)!"
 fi
 
-if python3 cv_online.py ;then
-  echo "Profession scrap executed."
+
+if python3 profession.py ;then
+  true
 else
   echo "An error has occurred(profession)!"
+fi
+
+
+
+if python3 it_people.py ;then
+  true
+else
+  echo "An error has occurred(itpeople)!"
 fi

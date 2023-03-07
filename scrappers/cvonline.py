@@ -19,7 +19,7 @@ import requests
 
 
 
-print("CVONLINE-scrapper STARTED")
+print("CVONLINE.hu-scrapper STARTED")
 start_time = time.time()
 date = datetime.today().strftime('%Y-%m-%d')
 

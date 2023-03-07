@@ -1,0 +1,63 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Aegon is a multinational financial services group headquartered in The Hague, the Netherlands. The company has multiple locations across the globe, with core markets in The Netherlands, the UK, and the US, growth markets in China, Brazil, and Iberia, and an Asset Management organization with locations in the UK, US, NL, and Hungary. Aegon Global Business Solution Center is supporting these businesses with IT, Finance, Risk, Model Validation, Actuarial, Audit, and Asset management services with a growing team of approx. 300 people, based in Budapest, Hungary.
+At Aegon, they foster a diverse workforce and an inclusive culture. They are a people business, and they recognize that delivering excellent client outcomes comes from harnessing distinct perspectives. They value diversity in the full range of human uniqueness without limitation, including race, gender, ability, language, culture, beliefs, age, origin, background, perspectives, and experiences.
+What You Will Do:
+Develop, Deploy and Support Cloud Infrastructure, as code artifacts or modules;Design, Build and Maintain Cloud infrastructure and applications;Support and deliver using Continuous Integration/Continuous Delivery pipelines;Design and Support resiliency and scalability using AWS and other cloud platforms;Enable systems with automated monitoring and alerting;Support the Team and Customers with day-to-day requests, Change and Incident tickets;Support Technology stack refresh on Systems (end-to-end) when required;Ensure automated security is built into each technology stack
+                Elvárások / Requirements
+What You Will Need:
+Qualifications;Four-year Computer Science or related degree, or equivalent work experience;3 or more years of experience including 2 years of experience in supporting enterprise-level platform installations;3 years of experience working with cloud providers (Azure/ AWS, etc..);At least 2 years of experience with Agile development and planning methodologies;2-3 years of experience working in a high performing DevOps team or role;2-3 years of experience in performance monitoring, alerting and troubleshooting in an enterprise;Strong, holistic understanding of the internet and hosting from the network layer up through the application layer
+Preferred:
+Experience working in roles with a strong focus on security, including automated alerting and response;Demonstrate a strong understanding of API’s and API Security;Demonstrated ability in automated code testing;Certifications in relevant technologies, methods, or platforms;Demonstrate the key critical behaviors of commitment to task, communication, customer focus, decision;Making/problem solving, tolerance of ambiguity, planning, prioritizing, and goal setting
+                Amit nyújtunk / Benefits
+Compensation:
+Competitive salary
+Comprehensive health package
+ Brand new office at an excellent location
+ Hybrid working
+Opportunities for growth and advancement
+A highly people-centric, positive, and supportive work environment
+Senior DevOps Engineer 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 28.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Azure DevOps Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  
+ Senior Azure DevOps Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  

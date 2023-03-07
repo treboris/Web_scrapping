@@ -5,7 +5,7 @@ from Data import Save
 import requests
 import time
 
-print("IT people-scrapper STARTED")
+print("ITpeople.hu-scrapper STARTED")
 start_time = time.time()
 date = datetime.today().strftime('%Y-%m-%d')
 

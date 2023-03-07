@@ -1,0 +1,75 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Azure DevOps Engineer 
+Country: Hungary (+36) • Budapest
+Description:
+We are looking for a Senior Azure DevOps Engineer for a new venture of one of the region's most established multinational company.
+Duties:
+•- Support the Capability Maturity Model development and roadmap execution of the DevOps Domain
+•- Setup the DevOps Infrastructure, Environments, Tooling & Utilities
+•- Support the Release & Configuration Management of the core Product on normal and hotfix release tracks
+•- Work closely with Azure Cloud Architects, Security Architect, QA Engineers, Full Stack Developers for the successful development and operations of the DevOps capabilities
+Requirements and skills:
+•- Strong understanding of Continuous Integration, Delivery and Deployment conceptsx
+•- Have at least 3 years of professional experience (min. 7 years preferred) as a DevOps engineer, any experience in RunOps, SysOps or SecOps is a plus
+•- Have hands on with following DevOps Technologies: Microsoft Azure, Azure DevOps Pipelines, Docker, Kubernetes / OpenShift, Atlassian JIRA, Confluence, Ansible, Terraform, Helm, Gitlab, GitHub, Bitbucket, Jenkins, SonarQube
+•- Have Delivery Experience in Agile Development, Scrum, Kanban Delivery Methodologies
+Command of languages:
+Good command of English
+Client company profile:
+Our client company is a new venture for one of the region's most established multinational company. Strong backing and commitment from the Shareholders
+What they offer:
+• Competitive Compensation Package and Incentive System (13th and 14th Month salary bonus + Annual financial bonus based on company goals)
+• 3 days home office/week, flexible working hours
+• Less Regulation, Fast Moving Agile Organization
+• State of the Art Technologies and Capabilities relying on in-house developed Products and 3rd Party Cloud SaaS / PaaS
+• Lots of room for career growth
+• Efficient Business Operations, lean Processes and low level of Bureaucracy
+• Regional ambition, potential international expansion ahead
+Further information:
+By submitting an application form or sending your curriculum vitae electronically, you will be giving the employees of PBS International Ltd. the approval and acknowledgement to access, handle and record the personal details you have submitted for application and registration processing. During the course of your application and in the future event that a prospective party expresses professional interest in you, we will only forward your details onto our clients upon your exclusive and prior approval. For a more detailed view of our data security terms and to accept all of our terms and conditions please visit the link here: https://www.pbs-job.hu/?/data-protection/for-employees
+Jelentkezem
+Elmentem az állást
+Senior Azure DevOps Engineer 
+Jelentkezem
+Elmentem az állást
+PBS International Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 28.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Azure DevOps Engineer 
+ Budapest  
+ Senior Azure Cloud Architect 
+ Budapest  
+ Senior DevOps Engineer 
+ Budapest  
+ Senior Big Data Engineer / DWH / Middleware SME 
+ Budapest  
+ Senior/Medior Full Stack Developer 
+ Budapest  

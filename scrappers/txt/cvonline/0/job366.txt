@@ -1,0 +1,73 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+.NET FEJLESZTŐ 
+Ami a feladatod lesz:
+		Szoftver termékek- és rendszermegoldások fejlesztése
+		Követelmények, specifikációk kidolgozása
+		Meglévő rendszerek működésének feltérképezése és hibajavítása
+		A SCRUM megbeszéléseken elvállalt feladatok elvégzése
+		Egyeztetés a projektvezetővel, együttműködés a Frontend és Backend fejlesztőkkel, tesztelőkkel, svájci fejlesztő és menedzsment csapatokkal.
+		Fejlesztési dokumentációk készítése angol nyelven
+ Amit tőled várnak:
+Legalább 3-5 év .NET fejlesztői gyakorlat backend oldalon
+Webes technológiák ismerete (.NET Core, C#, Entity, ASP.NET)
+Agilis módszertannak megfelelő munkavégzés
+		Felhő alapú technológiák ismerete
+		Legalább alsó középfokú angol nyelvtudás
+ Előny:
+		Felsőfokú végzettség
+		Jártasság:.NET 5, .NET 6, MS SQL, ASP.NET, REST technológiákban
+ Mivel várják leendő kollégájukat?
+		Korrekt munkafeltételek
+		Tapasztalathoz illeszkedő bérezés
+		Hibrid munkavégzés (Irodai / Home Office), rugalmas munkaidő, időnként 1 hetes svájci kiutazások
+		Tagja lehetsz egy tapasztalt IT csapatnak, ahol stabil, hosszú távú munkalehetőség és szakmai fejlődés vár rád.
+		A barátságos légkörben és családias hangulatban folyamatos támogatást kapsz munkatársaidtól.
+ Cégközpont:
+		13. Kerület (Váci út - Dózsa György útnál - Capital Square irodaház)
+ Amennyiben szívesen csatlakoznál ügyfelünk IT csapatához, várjuk frissített CV-det a Jelentkezés gombra kattintva!
+Jelentkezem
+Elmentem az állást
+.NET FEJLESZTŐ 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 28.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ .NET FEJLESZTŐ, SZAKMAI VEZETŐ 
+ Budapest  
+ SENIOR .NET FEJLESZTŐ 
+ Pest megye  
+ IoT BACKEND FEJLESZTŐ 
+ Budapest  
+ JAVA FEJLESZTŐ 
+ Győr-Moson-Sopron megye  
+ Mid .NET Full-stack Developer - Hybrid 
+ Budapest  

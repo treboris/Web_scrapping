@@ -1,0 +1,78 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+SENIOR SAP ABAP FEJLESZTŐ 
+Feladatok:
+		SAP fejlesztés, testreszabás, specifikációk készítése
+		Üzleti igények felvétele, blueprint készítése
+		Technikai tanácsadás
+		Fejlesztés  backendben: ABAP/OO
+		Fejlesztés frontendben: SAP Web UI, FIORI
+ Elvárások:
+		Felsőfokú informatikai vagy hasonló szakirányú végzettség
+Legalább 3 éves gyakorlat SAP projektekben, SAP fejlesztésben
+Magabiztos német vagy angol nyelvtudás
+Önálló munkavégzés
+ Előny:
+		Különböző SAP modulok üzleti folyamatainak ismerete
+		SAP UI5, FIORI tapasztalat
+		Külföldi projekttapasztalat
+		Agilis projekt metodika ismerete
+ Juttatások:
+		Tapasztalathoz illeszkedő alapbér
+		Éves bónusz
+		Munkába járás támogatása
+		Szakmai továbbképzések
+		Csapatépítő események
+		Utazási lehetőség, külföldi projektek
+		Home office
+ Munkavégzés helye:
+		Győr vagy Pécs
+		Home office
+ Munkaidő:
+		Heti 40 óra - rugalmas (törzsidővel)
+ Amennyiben rendelkezel a fent említett tapasztalatokkal, várjuk önéletrajzod a Jelentkezés gombra kattintva! 
+Jelentkezem
+Elmentem az állást
+SENIOR SAP ABAP FEJLESZTŐ 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Baranya 
+Teljes munkaidős 
+Frissítés dátuma: 27.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SAP TANÁCSADÓ ÉS FEJLESZTŐ 
+ Baranya megye  
+ SAP ABAP Developer - Specialist 
+ Budapest  
+ Senior Full-Stack Fejlesztő 
+ Szeged  
+ JUNIOR SAP® TANÁCSADÓ ÉS FEJLESZTŐ 
+ Baranya megye  
+ Backend Fejlesztő (junior/medior/senior) 
+ Budapest  

@@ -9,6 +9,7 @@ from Data import Save
 from tqdm import tqdm
 import requests
 import time
+import re
 
 
 print("PROFESSIA.SK-scrapper STARTED")
@@ -56,29 +57,29 @@ page = round(float(page_number()/20))
 print(page)
 
 
-counter = 0
+
 for limit in tqdm(range(page)):
 
     main_block = conn(limit_txt,limit).find('ul', class_='list')
-    for li in main_block.find_all('li',class_='list-row'):
+
+    for li in main_block.select('.list-row:has(div)'):
         for h2 in li.find_all('h2'):
             for a in h2.find_all('a'):
                 href.append(a.get('href'))
         for title in li.find_all('span',class_='title'):
             main.append(title.text)
-            print(title.text)
         try:
             for loc in li.find_all('span',class_='job-location'):
                 location.append(loc.text)
         except (AttributeError,TypeError):
-                location.append(None)
-        counter+=1
+                location.append("None")
         for corporation in li.find_all('span',class_='employer'):
             corp.append(corporation.text)
-    #print(f"ELEMEK: {counter}")
+
+
     for x in range(1,21):
         try:
-            label = driver.find_element(By.XPATH,f"//*[@id='content']/div/div/main/div/ul/li[{x}]/span[3]/a[1]/span")
+            label = driver.find_element(By.XPATH,f"//*[@id='content']/div/div/main/div/ul/li[{x}]/span[3]")
             splitted = (label.text).split()
             if('Od' in splitted):
                 splitted.remove('Od')
@@ -98,13 +99,11 @@ for limit in tqdm(range(page)):
             if('з' in splitted):
                 splitted.remove('з')
             salary.append(" ".join(splitted))
-            print(" ".join(splitted))
         except (NoSuchElementException):
-            salary.append(None)
-            print('None')
-    counter = 0
-    #print(f'===============================OLDAL{limit}==================================================')
+            salary.append("None")
 driver.quit()
+
+
 #ID DATE
 list_size = len(main)
 for x in range(0, list_size):
@@ -125,9 +124,14 @@ print(len(corp))
 print(len(main))
 print(len(id))
 print(len(salary))
+print(main[-1])
+print(href[-1])
+print(corp[-1])
+print(salary[-1])
+print(location[-1])
 
 
-save_data = Save(f'Professia_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
+#save_data = Save(f'Professia_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
 
 
 

@@ -9,8 +9,9 @@ import requests
 import time
 import re
 
-print("Script STARTED")
+print("PROFESSION.hu-scrapper STARTED")
 start_time = time.time()
+date = datetime.today().strftime('%Y-%m-%d')
 
 
 #DATA
@@ -31,15 +32,11 @@ def page_number():
     string_split = (page_number.text).split()
     return round(int(string_split[0])/20)
 
-
-
 def conn(limit):
     url = (f"https://www.profession.hu/allasok/{limit},10_25,0,0,200_201_393_448_75_76_202_363_450_80_449_69_338_72_70_365_77_73_79_78")
     page = requests.get(url)
     soup = BeautifulSoup(page.text,'html.parser')
     return soup
-
-
 
 for limit in tqdm(range(1,page_number())):
     fblock = conn(limit).find('ul',class_='job-cards')
@@ -101,4 +98,6 @@ for y in range(0, list_size):
     datee.append(date)
 
 
-save_data = Save(f'Kariera_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+save_data = Save(f'profession_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+
+print("--- %s seconds ---" % (time.time() - start_time))

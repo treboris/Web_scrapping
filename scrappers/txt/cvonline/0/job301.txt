@@ -1,0 +1,76 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+If you are interested in IT security, the challenges of digitalization, and care about consistent user interfaces: we are looking forward to your application! Our Client for more than 20 years has been the preferred strategic partner for demanding security solutions of renowned customers in the area of banking, insurance, and government. They offer a solution-oriented and uncomplicated corporate culture with flexible working hours, plenty of room for initiative, development opportunities, and attractive employment conditions in a forward-looking and dynamic company. The Company's product portfolio is being further developed and adapted to new technology trends to meet the constantly evolving requirements of digitalization. That's why we're looking for you.
+Leverage cutting edge technologies like Kubernetes, Terraform, Docker to design and build new Identity and Access Management products for the Cloud
+Take end-to-end responsibility for your engineered results and automate everything to scale their Cloud service
+Work on all layers (infrastructure as code, automation monitoring) using open source components and open standards
+Integrate new components and technologies into existing software systems and architectures
+Do on the job training's
+Mentor junior colleagues (do code reviews, give support in technical design, etc.)
+Use Scrum, TDD and modern software development methodologies
+                Elvárások / Requirements
+2+ years professional experience with cloud-native development
+Strong Cloud Provider and/or Kubernetes/Docker expertise
+You are a “Clean Code evangelist” and have experience in developing Java applications with Spring Boot
+Proven track record using Terraform, Ansible, or similar to automate infrastructure in production settings
+“12-factor” principles is a plus
+A university degree (MSc/BSc) in Computer Science or a related field - or similar
+                Amit nyújtunk / Benefits
+Annual bonus
+Company mobile phone (iPhone/Android)
+Company laptop (Lenovo/Apple)
+Private health insurance (Medicover White package)
+Self-development support with sponsored trainings
+Flexible working hours
+Opportunity to work from home
+Half-day vacation for 24th of December and 31st of December
+International environment with a small friendly team
+Modern working environment (new office, Xbox, csocsó etc.)
+Private nursery and kindergarten support 
+Fresh fruits and veggies every day
+24/7 Employee Assistance Program (psychological and well being support, advices on finance and legal topics)
+Other local benefits aligned with the global Company Guidelines
+Cloud Engineer (Azure) 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 28.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Azure Cloud Architect 
+ Budapest  
+ DevOps Engineer IoT Cloud 
+ Budapest  
+ Senior Azure DevOps Engineer 
+ Budapest  
+ Cloud Data Engineer 
+ Budapest  
+ Senior Azure DevOps Engineer 
+ Budapest  

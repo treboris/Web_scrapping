@@ -1,0 +1,78 @@
+Ugrás a tartalomra
+Menü
+Search for jobs
+Close menu
+Nyelvek
+EN
+HU
+Login menu
+Belépés
+Regisztráció
+Applicant main menu
+Profilom
+Álláskeresés
+Tudástár
+backTudástár
+Álláskeresés
+Önéletrajz
+Motivációs levél
+Munkahely váltás
+Felmondás
+Elbocsátás
+Bérkalkulátor
+GYIK
+Munkáltatóknak
+ÁLLÁSHIRDETÉS FELADÁS
+SENIOR SOFTWARE ENGINEER 
+A kihívások, melyek Önre várnak:
+		Skálázható, magas rendelkezésre állású, biztonságos és hibatűrő rendszerek fejlesztése és üzembe helyezése a Kubernetes-alapú privát felhőkön és az Azure-on,
+		Infrastruktúra automatizációt támogató API-k fejlesztése,
+		A meglévő automatizálás módosítása az AWS/Azure-ban a teljesítmény javítása érdekében.
+ Miben szükséges, hogy jártas legyen:
+		Főiskolai vagy egyetemi végzettség informatikai területen,
+		Legalább 3+ év professzionális programozási tapasztalat az alábbi programozási nyelvek valamelyikében: Java, JavaScript, Go vagy Python,
+		Felhő alapú szolgáltatások ismerete,
+		Konténerizációs technológiák ismerete (preferáltan Docker vagy Kubernetes),
+		CI/CD megoldások ismerete,
+		Magabiztos tárgyalási nyelvtudás angol vagy német nyelven.
+ Előny, de nem feltétele a pozíció betöltésének:
+			“Infrastructure as Code” ismerete, lehetőleg Terraform segítségével,
+		Kubernetes- vagy Azure-hoz kapcsolódó tanúsítvány,
+		Tapasztalat:
+				ETL 
+				Apache Airflow
+				Camel K
+				Pyspark
+				Monitoring és riasztás a Grafana segítségével
+				Helmfile
+				Az API tervezés alapos ismerete (pl. Swagger/OpenAPI)
+ Amit megbízónk kínál:
+		Szakmai tudáshoz illeszkedő alapbér,
+		Éves bónusz,
+		Professzionális munkakörnyezet,
+		Hozzáértő szakmai csapat,
+		FULL TIME REMOTE lehetőség.
+ Munkavégzés helye: Remote, (de van irodai lehetőség is Budapesten az Infopark sétányon).
+ Munkaidő: hétfőtől - péntekig, rugalmas
+ Amennyiben érdekli a meghirdetett pozíció, küldje el számunkra angol vagy német és magyar nyelvű önéletrajzát a JELENTKEZÉS gombra kattintva!
+Jelentkezem
+Elmentem az állást
+SENIOR SOFTWARE ENGINEER 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Teljes munkaidős 
+Frissítés dátuma: 27.02.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Software Engineer 
+ Budapest  
+ Senior Software Engineer (Java) – Budapest IX./ Hybrid 
+ Budapest  
+ Embedded Software Engineer - Remote 
+ Budapest  
+ Fullstack C# Software Engineer - Hibrid 
+ Budapest  
+ Cloud Software Engineer - Hibrid 
+ Budapest  

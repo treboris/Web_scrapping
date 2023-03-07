@@ -73,13 +73,9 @@ for limit in tqdm(range(0,page_number())):
 
 #HREF EXTRACT
     for div in conn(limit).find_all('div' , class_='center'):
-        if(limit < 2):
             for link in div.find_all('article', class_='m-job_item no-flex top5'):
                 for a in link.find_all('a' , class_='l-cta_button open job-material-click'):
                     href.append(a.get('href'))
-        for link in div.find_all('article', class_='m-job_item no-flex'):
-            for a in link.find_all('a' , class_='l-cta_button open job-material-click'):
-                href.append(a.get('href'))
 
 
 driver.close()
