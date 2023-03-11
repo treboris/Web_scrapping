@@ -1,0 +1,46 @@
+ Belépés ›
+DevOps Engineer (Magyarország)
+DevOps Engineer (Magyarország)
+Jelentkezem az állásra ›
+Boschung Mecatronic 
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+The Boschung Group is a world leader in the development and production of solutions for the efficiency and safety of traffic surfaces for the world’s largest airports, busiest highways and most visited cities and municipalities across the globe.
+In our Boschung Technology Center, headquarter of the group based in Payerne, Switzerland, and our numerous other locations around the world, everything we accomplish is a result of the strong partnership we have with the people in our team. Looking to strengthen the IT-Support team right away or by agreement, BOSCHUNG MECATRONIC is recruiting a:
+DevOps Engineer 100% 
+(Remote work & periodic on-site visits. English required; Workplace in Hungary)
+Your tasks
+Set up new IT infrastructure services including documentation of the standard system
+Configure and install various IT infrastructure components and services (e.g. servers, blades, compute fabric, network fabric, virtualization platform)
+Automation of maintenance and installation processes
+Participation in the observability-stack to monitor our platform and identify improvements
+Reporting on the status of specific IT infrastructure projects by collecting/prioritizing information; actively participating in projects
+Daily use of databases (MySQL, PostgreSQL, Scylla)
+Your profile
+Bachelor of Science in Informatics or equivalent education/professional experience.
+Organized and structured way of working both autonomously and as part of a team
+Fluent in English, French and/or German is a plus
+Experience in working with networks and virtualized services
+Experience setting up and maintaining secondary data centers
+Experience participating in projects related to the network design & solutions architecture
+Good understanding / experience in virtualization technologies and containerization (Proxmox, Open Stack, K8s)
+Understanding of / experience with GNU/Linux systems, network administration (Debian-based) and network technologies (VPN, L2, Access, Port Channel, Trunk, VLANs, BGP)
+Programming in Shell and Python
+Good understanding of storage technologies and protocols (Ceph, iSCSI, NFS)
+Hands-on experience with monitoring, diagnostic, and analysis tools such as Prometheus and Nagios
+Knowledge of modern configuration management tools (e.g. Git, Ansible).
+What we have to offer
+You will be able to carry out a variety of activities in a modern infrastructure and a prosperous business
+You will be familiarised with your new task with the support of a talented and motivated team, working with de latest technologies!
+We offer attractive terms and conditions and will be happy to support you in your professional development
+Are you interested in working for Boschung Mecatronic? Then get in touch with us!
+We look forward to receiving your complete application documents (CV in English) and guarantee absolute discretion in processing your application.
+Boschung Management AG, Human Resources, Aéropôle 108, 1530 Payerne
+Jelentkezem az állásra ›
+Neked ajánlott állások

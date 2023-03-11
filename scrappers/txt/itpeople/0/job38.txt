@@ -1,79 +1,17 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Medior-senior rendszergazda állás Magyarország
-Rendszer / Hálózat, DevOps állások 
-Munkatársat keresünk céges app környezet rendszergazda feladatainak az ellátására. A potenciális jelentkező az alábbi feladatok minimum 60%-át képes elvégezni, mivel rendelkezik releváns munkatapasztalattal. A tökéletes jelölt feladatai:Rendszerfelügyelet, rendelkezésre állás,DokumentációTelepítési leírásokRendszerleírásFolyamat dokumentációVáltozás kezelésIncidens kezelésSzerver frissítések: Linuxok dockerbenMiro szerver lista:https://miro.com/app/board/uXjVPpbJpK8=/?share_link_id=210785819120Kubernetes verzió frissítés esetén az alrendszerek kompatibilitás vizsgálataRendszerbiztonságTűzfalak kezelése beállítása, DokumentációWAFDokumentációKubernetes namespace-k közötti adatbiztonság, Podok közötti biztonság beállításaAdatbázis felügyeletAdatbázis szerverek karbantartása, frissítéseAdatbázis mentések beállítása ellenőrzéseMicroservice-k közötti kommunikáció megoldása (RabbitMQ?)Loggolás (ElasticSearch / OpenSearch)mindenhonnan jöjjenek a logoklegyen elég helyA logok elemzéseRiasztások beállításaBármilyen riasztás egy Dashboardon láthetú legyenDisaster RecoveryTervezésDokumentációFrissen tartásÖsszeomlás szimuláció megtervezéseHavonta egy összeomlás szimuláció elvégzéseKülső rendszerekhez való csatlakozásJumper szerver konfigurálásaDokumentációJumpto szerver konfigurálásaDokumentációNodeRed szerverek konfigurálása - ÜgyfelenkéntMentésekMail template szerverek konfigurálásaCéges rendszerekVPN-ekJogosultság kezelésTeleport szerver beüzemeléseSSO szerverek karbantartásaDokumentum tárolás helyrerakásaOwnCloud (vagy más)Implementáció támogatásaÚj szerverkörnyezet kialakítása, kubernetesÜgyfelenkénti microservice-k konfigjamail, nodeRed, jumper, jumptoAdatbázisok kialakításaRiport adatbázis konfigDomainek beállításaSSO rendszerek bekonfigurálása 
+Software Engineer állás Budapest
+Docker
+GIT
+Java
+Spring
+PostgreSQL
+Tesztelés állások 
+Cégleírás / Organisation / DepartmentAre you passionate about software and about aviation? Do you love a technical challenge and like to work on multiple platforms to create a consistent experience for the consumers?
+Our partner company has 30.000 employees worldwide. The company has a head office in Paris and Amsterdam and has several daughter companies. The group has over 550 aircraft and they are one of the bigger players in Europe. The developers they are hiring now will be working from Budapest, but fully part of the product teams.
+The company has gone through a major restructuring over the last two years to adjust to the covid crisis. They are now implementing a strategic restructuring program in which one of the pillars is the Data &amp; Technology track. They have expressed the ambition to become the most data and tech-driven accompany in their sector. To do this, they are innovating and expanding and thus looking to attract more experts to the company.Elvárások / Requirements3+ years of experience in Java;Agile Project Management tool such as Jira or GitLab;Git and Online versioning tool such as Bitbucket or GitHub;CI/CD experience;Spring Boot;Relational databases such as PostgreSQL and Oracle
+Preferred:Docker, Kubernetes;Microsoft Azure;RedisAmit kínálunk / OfferSpecify, design, engineer, test, deliver, deploy, maintain and support digital products in order to optimally enable the improvement of business processes.
+As a software developer, you now have the opportunity to join a new team in our partner company. However, there is already a team of developers working on the airline's internal applications in Amsterdam they are looking to involve those who join the new team in the development of new applications.
+Our partner company is looking for an agile & objective-minded experienced developer with a pro-active mindset that is eager to learn new things.Kapcsolattartó / InformationLong-term opportunity within a fast growing companyCareer development opportunitiesSupportive cultureCompetitive benefits package, cafeteria 
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Jelentkezés
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-proonline.hu													
-Országos / Magyarország
-Teljes Munkaidő
- Rendszer / Hálózat, DevOps
-Lejárati dátum: 2023-03-22
-Kapcsolattartó: Proonline
-Telefonszám: 06702169797														- Hivatkozzon az itpeople-re!
-Álláshirdetés részletei
-PozícióMedior-senior rendszergazda
-Munkavégzés helye
-Országos / Magyarország
-MunkaidőTeljes Munkaidő
-KapcsolattartóProonline
-Telefonszám06702169797													- Hivatkozzon az Itpeople-re
-KategóriaRendszer / Hálózat, DevOps
-Bérsávnetto 700e F t- 1200e Ft
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

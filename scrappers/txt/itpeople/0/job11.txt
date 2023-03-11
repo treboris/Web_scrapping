@@ -1,75 +1,7 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Senior JAVA Developer állás Országos
-Java
-Szoftverfejlesztő állások 
-BevezetőFémipari partnerünkhöz keresünk tapasztalt Java fejlesztő kollégát Budapest XXIII. kerületében.FeladatokEgy új Vezetői tanácsadó rendszer (DAS – Driver Advisory      System) funkcióinak fejlesztése a felmerülő igények alapján, A project tesztelési fázisba került Teljes funkciók feletti felelősség Új funkciók és komplex algoritmusok      implementálása A tervezési folyamatokban való aktív részvétel      egy scrum csapat tagjaként Meglévő funkciók és a bonyolult algoritmusok támogatása és      továbbfejlesztése Automatikus unit tesztek implementálása Fejlesztők munkájának koordinálása ElvárásokVillamosmérnök, mechatronikai mérnök vagy mérnök informatikus végzettségLegalább 3-5 év Java fejlesztésben szerzett tapasztalat Aktív középfokú angol nyelvtudás Rendszerszemlélet, strukturált gondolkodásmód ÖnállóságNemzetközi környezetben való kooperációs készségJuttatásokKiemelkedő bérezés és széles körű juttatási      csomag (Cafeteria, 13. havi fizetés, magán      egészségbiztosítási csomag, élet- és balesetbiztosítás)Heti 3 nap Home Office      lehetőségModern irodai környezet Innovatív termékek, technológiák és      megoldások Támogató és jó hangulatú csapat  
+IT gyakornok állás Győr
+Gyakornok állások 
+ElvárásokBetöltött 18.életévNappali aktív vagy passzív tagozatos hallgatói jogviszonyAngol nyelv kommunikációs ismereteElőny a jogosítványFeladatok informatikai csapat munkájának támogatásaIT szervezés és tesztelés ElőnyökHosszú távú munkalehetőségMultinacionális vállalati környezetSzakmai gyakorlat leigazolása 
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Jelentkezés
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-HSA Kft, 													
-Országos
-Nincs meghatározva
- Szoftverfejlesztő
-Lejárati dátum: 2023-03-25 13:37:26
-Álláshirdetés részletei
-PozícióSenior JAVA Developer
-Munkavégzés helye
-Országos
-MunkaidőNincs meghatározva
-KategóriaSzoftverfejlesztő
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

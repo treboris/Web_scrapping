@@ -1,93 +1,30 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Software Project Manager - Motorcycle állás Veszprém
-Szoftverfejlesztő állások 
-Cégleírás / Organisation / DepartmentArrayElvárások / Requirements
-Degree in information technologies, control engineering or similar education
-Strong customer focus and quality orientation
-Professional experience in Automotive
-Advanced English knowledge
-Moderation, mediation between and communication with different stakeholders
-Good knowledge in project management
-Strong intercultural skills
-Experience in functional leading of teams is desirable
+SAP Application Developer állás Budapest
+OOP
+SAP
+SAP állások 
+Tisztelt álláskereső!Ez az álláshirdetés lejárt.Azonban oldalunk több ezer egyéb álláshirdetéssel rendelkezik! Találja meg az önnek megfelelő munkát erre a linkre kattintva!
+Cégleírás / Organisation / DepartmentOur client is a global technology company supplying systems for passenger cars, commercial vehicles, and industrial technology, enabling the next generation of mobility. They allow vehicles to see, think, and act. In the four technology domains of Vehicle Motion Control, Integrated Safety, Automated Driving, and Electric Mobility, the company offers comprehensive product and software solutions for established vehicle manufacturers and newly emerging transport and mobility service providers. Our client electrifies a wide range of vehicle types. With its products, the company contributes to reducing emissions, protecting the climate, and enhancing safe mobility.Elvárások / Requirements
+Degree in (Business) Information Technology or related disciplines
+1-3 years of ABAP development experience (with one or more of the following, which are advantages: knowledge of Core ABAP, OOP, Enhancements, system integration, SAPUI5, oData, and CDS)
+Experience and knowledge in agile software development as well as excellent analytical skills and process thinking
+Fluent spoken and written English (Further language skills e.g. German are an advantage)
+Flexibility, good teamwork experience, and strong communication skills in an international environment
+SAP module knowledge is a plus but not required
 Amit kínálunk / Offer
-Software project responsible for application projects from the quotation phase
-Coordination of international SW teams
-Record, analyze, and implement customer requirements
-Perform SW component tests
-Escalating project risks and issues to all affected parties
-Preparing and coordinating release activities
-Analyze system and vehicle tests in cooperation with Test engineers.
-Integration of motorcycle SW for ABS/TCS systems
-Using FSM compliant development processes
-Kapcsolattartó / InformationOne of the prominent manufacturers within the automotive industry is looking for a Software Project Manager regarding Motorcycle development in Veszprém. 
+Proactively gather, understand, and manage requirements and expectations
+Contributing to the entire cycle of product development, from first ideas and brainstorming sessions over the creation of functional and technical specifications to continuously delivering solutions in an agile approach, based on business requirements and user stories
+Implementation of applications in SAP ECC 6.0 and S/4 HANA environments including respective interfaces in collaboration with other teams across the internal organization and external developers
+Responsible for end-to-end service delivery and operations (development, test management, deployment, maintenance, incident management)
+Participation in corporate projects and orders, self-responsible performing of work packages
+Kapcsolattartó / Information
+Stable company background and long-term working possibility
+Full of challenges and high-level professional activities at an international company
+Participation in international projects and commissions to foreign countries
+Career opportunities, continuous training programs, and language courses
+Competitive salary and performance-related bonus 
+Cafeteria with optional elements
+School start support
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Randstad Hungary													
-Veszprém megye / Veszprém
-Nincs meghatározva
- Szoftverfejlesztő
-Lejárati dátum: 2023-03-22 10:50:00
-Álláshirdetés részletei
-PozícióSoftware Project Manager - Motorcycle
-Munkavégzés helye
-Veszprém megye / Veszprém
-MunkaidőNincs meghatározva
-KategóriaSzoftverfejlesztő
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

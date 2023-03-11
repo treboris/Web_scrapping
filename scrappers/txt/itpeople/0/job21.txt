@@ -1,79 +1,12 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Szenior BI Szakértő állás Budapest
-C#
-net
+Diákmunka - IT gyakornok állás Budapest XI. kerület
+Java
+iOS
+Linux
+Android
 SQL
-Szoftverfejlesztő állások 
-We are looking for aBI Expert colleague for our dynamically developing partner dealing with unique software development and boxed products!FeladatokAdattárházak műszaki felméréseAdatbázisok és adatmodellek tervezése és fejlesztéseETL folyamatok tervezése és fejlesztéseRiportok fejlesztéseElvárások5 év tapasztalat adatbázisok szerver oldali programozás (DDL, DML), ezen belül 3 év adattárházakkalAdattárház tervezési és fejlesztési minták ismeretMicrosoft SQL Server ismeret (Database Engine, Reporting Services, Analysis Services)Power BI ismeretDAX, T-SQL és .NET C# programozási nyelvek ismerete (ETL interfészek, Web/Windows Service-ek és kisebb tool-ok fejlesztése c#-ban)Üzleti rálátás, agilitásTárgyalás szintű angol nyelvtudás szóban és írásban egyarántElőnyök:Pénzügyi vagy gazdasági tapasztalatBig Data megoldások ismereteIoT megoldások ismereteMachine Learning tapasztalatMicrosoft Azure Cloud tapasztalatMicrosoft minősítésekAmit kínálunkHatékony fejlődés – vezetőink és tapasztaltabb kollégáink folyamatos mentorálása mellett sokkal gyorsabban bővítheted és mélyítheted szakmai tudásodatFolyamatos szakmai, soft skill és nyelvi képzéseket is biztosítunkPiacvezető termékek fejlesztőjeként izgalmas projektekben vehetsz résztHabár létszámunk egyre csak nő, a családias környezetet nem adjuk fel. Nagyon fontosnak tartjuk, hogy bent egy jó csapat alakuljon ki, ezért másfél havonta csapatépítő Happy Friday-eket tartunk (közös bográcsozás, borfesztivál, sörfesztivál, farsangi buli), minden hónapban megünnepeljük a szülinaposokat, szeretjük a közös reggeliket is (pl. parasztreggeli, Márton-napi reggeli), és minden évben elutazunk egy 3 napos csapatépítő hétvégéreHa éppen hosszabb ideig otthonról dolgozunk akkor is próbáljuk csapatunkat egy kis aktivitásra bírni és összetartaniSzerveztünk már virtuális palacsinta napot, kvíz játékokat, sör standupot. Egyre több közös, szabadidős programból tudsz választani: Társas est, Közös filmezős estek, LAN party, Squash, de szeretünk elmenni együtt futóversenyekre is, illetve bicikli túrát is szerveztünk márHeti egy alkalommal gerinctornát szerveztünk, hogy a sok ülést követően kicsit át tudjuk mozgatni magunkat profi edzők segítségévelKutyabarát munkahely vagyunk, úgyhogy kedvencedet is bátran hozhatod akár minden napAz egészséges életmódot nagyon fontosnak tartjuk, ezért heti kétszer tartunk gyümölcs napot, kedden és csütörtökönOlyan irodában dolgozunk, ahol van csocsó, biliárd, léghoki, darts, pingpong és babzsákfotelekÉvente két alkalommal teljesítményértékelést és elégedettségmérést végzünk, így Te is adhatsz nekünk visszajelzést, illetve a folyamatos fejlődésed érdekében is visszacsatolunk az elmúlt fél évről 
+Gyakornok állások 
+											IT feladatok ellátására keresünk diák-munkatársat a XI. kerületbe.•Pc-k, laptopok, egyéb végponti eszközök beüzemelése, üzemeltetése, alap szinten•HelpDesk / első szintű támogatási feladatok elvégzése, hibajegyek kezelése, magasabb szintre eszkalálása•Licenc, hardver, szoftver, leltár nyilvántartás naprakészen tartás•Adminisztrációs feladatok ellátása•Informatikai alap ismeretek,•Windows 10 telepítési, és felhasználói szintű ismeretek•Microsoft Excel , Word felhasználó szintű ismerete•Android és IOS mobiltelefon rendszerek ismerete,•Önálló, és együttműködő munkastílus, precizitás, segítőkészség•Jó kommunikációs készség•Önfejlesztési ambíciókElőny, de nem feltétel:•Microsoft SQL ismerete.•PowerShell ismerete•Java programozói környezet ismerete•Microsoft AD ismerete•Linux operációs rendszer ismereteAmit kínálunk:•Rugalmas időbeosztás•Jó csapat, jó hangulat•Laptop a munkavégzéshez•Lehetőség egy modern, innovatív, jól működő informatikai osztályon tapasztalat szerzésre							 			
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Trenkwalder Recruitment Kft													
-Budapest
-Teljes Munkaidő / Részmunkaidő
- Szoftverfejlesztő
-Lejárati dátum: 2023-03-25 11:43:29
-Kapcsolattartó: Nikolett Lőber
-Álláshirdetés részletei
-PozícióSzenior BI Szakértő
-Munkavégzés helye
-Budapest
-MunkaidőTeljes Munkaidő / Részmunkaidő
-KapcsolattartóNikolett Lőber
-KategóriaSzoftverfejlesztő
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

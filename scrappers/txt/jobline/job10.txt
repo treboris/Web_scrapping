@@ -8,76 +8,59 @@ Szakmunka
 Álláshirdetés-feladás
  Regisztráció ›
  Belépés ›
-Távközlési szakember (Budapest)
-Távközlési szakember (Budapest)
-A hirdetés már lejárt!
-BKV Zrt.
+IT-Support Technician (Magyarország)
+IT-Support Technician (Magyarország)
+Jelentkezem az állásra ›
+Boschung Mecatronic 
 Alapvető elvárások
 IT, telekommunikáció
-3 - 5 év tapasztalat
+1 - 2 év tapasztalat
 beosztott
 Középfokú végzettség
 teljes munkaidő
-BUDAPESTI KÖZLEKEDÉSI ZÁRTKÖRŰEN MŰKÖDŐ RÉSZVÉNYTÁRSASÁG
-távközlési feladatok ellátására
-felvételt hirdet
-A BKV Zrt. egy nagy múlttal rendelkező, stabil nagyvállalat. Informatikai Főosztálya dinamikusan változó és a piaci igényeknek megfelelő infrastruktúrával, technológiával rendelkezik. Folyamatosan bővülő csapatunkba, a Telekommunikációs Osztályra keressük távközlési végberendezés üzemeltetői feladatok ellátására új kollégánkat.
-Ha fontos számodra a stabil, biztos háttér, a kiszámítható munkakörnyezet, a vidám és támogató munkahelyi légkör, ugyanakkor nyitott vagy a technikai, technológiai újdonságokra, jelentkezz IT csapatunkba!
-Főbb feladatok:
-távközlési hálózat, alközpontok felügyelete, üzemeltetése
-Skype for Business IP központ üzemeltetése
-távközlési szolgáltatókkal történő kapcsolattartás
-A munkakör betöltésének feltételei:
-felsőfokú szakirányú végzettség
-átfogó távközlési és informatikai ismeretek
-Skype for Business IP központ üzemeltetésében szerzett gyakorlat
-3-5 éves szakmai tapasztalat
-Feladatok részletezése:
-távközlési hálózati beavatkozások és a távközlési hálózatok egyes elemeinek üzemeltetői oldalról történő specifikálása
-a cég távközlési hálózatában bekövetkező változások naprakész dokumentálása
-távközlési hálózatok tervezésének elősegítése, jelenlegi rendszerek üzemeltetése
-az osztály által végzett műszaki felmérések koordinálása és a létesítési határidők betartása
-A jelentkezésnél előny:
-Microsoft rendszermérnöki végzettség
-Windows PowerShell ismerete, üzemeltetésben szerzett tapasztalat
-IP technológia, hálózatszervezés ismerete, üzemeltetésben szerzett tapasztalat
-Verba hangrögzítő rendszer üzemeltetésében szerzett tapasztalat
-Unify HiPath rendszer üzemeltetésében szerzett tapasztalat
-projekt szemlélet
-angol nyelvtudás
-Leendő munkatársunktól megkívánt képességek, készségek:
-felelősségteljes önálló munkavégzés
-csapatmunka és projektszemlélet
-proaktivitás
-rendszerszemlélet, komplex problémák megértése, összefüggések gyors átlátása
-Amit kínálunk:
-versenyképes juttatási csomag
-hosszú távú munkalehetőség
-a speciális ágazatból adódóan egyedülálló tapasztalatokat adó munkakör
-szakmai fejlődési lehetőség, továbbképzéseken történő részvétel biztosítása
-cafeteria
-üdülési lehetőségek
-munkavállalói kedvezmények a BKV Zrt. szerződött partnereinél
-ingyenes utazási lehetőség a BKV Zrt. járatain a munkavállaló, házastársa és az összes, egy háztartásban élő iskolás gyermeke részére
-A munkavégzés helye:
-A BKV Zrt. budapesti központja és budapesti telephelyei.
-Jelentkezési határidő: 2023. február 12.
-A jelentkezés során csatolni kérünk:
-részletes szakmai önéletrajzot
-motivációs levelet
-A munkakör betölthető: a kiválasztást követően azonnal
+angol - felsőfokú
+német - felsőfokú
+The Boschung Group is a world leader in the development and production of solutions for the efficiency and safety of traffic surfaces for the world’s largest airports, busiest highways and most visited cities and municipalities across the globe. 
+In our Boschung Technology Center, headquarter of the group based in Payerne, Switzerland and our numerous other locations around the world, everything we accomplish is a result of the strong partnership we have with the people in our team. Looking to strengthen the IT-Support team right away or by agreement, Boschung Mecatronic is recruiting a:
+IT-Support Technician 100%
+(Remote work & periodic on-site visits. English required; Workplace in Hungary)
+Your tasks
+Implementation of new IT infrastructure services, including standard system documentation
+Support and troubleshooting of various IT components and services
+Maintenance and installation processes from IT services (SFTP servers, VPN, IoT devices, Linux OS Server’s administration)
+Monitor our IT platforms and detect incidents & improvements
+Daily use of databases (MySQL)
+Technical support
+Participation in the on-call service
+Your profile
+Computer scientist or equivalent education/work experience
+Organized and structured work method, both independently and in a team
+English and German languages are required, French is an asset
+Proven understanding and experience with GNU/Linux systems, network administration (Debian based) and networking technologies (ie. VPN, VLANs)
+Basic experience with monitoring, diagnostic and analysis tools (e.g. checkmk, centreon)
+What we have to offer
+You will be able to carry out a variety of activities in a modern infrastructure and a successful company!
+You will be familiarized with your new task with the support of a talented and motivated team working with the latest technologies!
+We offer attractive terms and conditions and will be happy to support you in your professional development!
+Are you interested in working for Boschung Mecatronic? If so, contact us!
+We look forward to receiving your complete application documents (CV in English) and guarantee the utmost discretion when processing your application.
+Boschung Management AG, Human Resources, Aéropôle 108, 1530 Payerne, Switzerland
+Jelentkezem az állásra ›
 Neked ajánlott állások
 Neked ajánlott állások
+Nemzetbiztonsági Szakszolgálat -
+Operátor
 Deutsche Telekom IT Solutions -
-Application Administrator (Patch management) (REF1471N)
+Németül és angolul beszélő ügyfélkapcsolati munkatárs (REF1211K)
 Deutsche Telekom IT Solutions -
-Technical Process Specialist (REF705I)
-Deutsche Telekom IT Solutions -
-Incident responder (cert) ref68o
-Deutsche Telekom IT Solutions -
-Senior Network Architect (Open Telekom Cloud) - REF482J
-Deutsche Telekom IT Solutions -
-Cloud Architect in Azure Engineering - REF477J
+Application Administrator - Azure Operations Manager
+Hadrianus Kft. -
+Mobiltelefon szerviztechnikus
+Bonafarm Csoport -
+Címkeszerkesztő munkatárs 
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
 Állásajánlatok - legnépszerűbb városok
 Budapest
 Debrecen
@@ -85,10 +68,10 @@ Pécs
 Szeged
 Veszprém
 Győr
-Kecskemét
-Tiszaújváros
 Miskolc
+Kecskemét
 Székesfehérvár
+Tatabánya
 © 2000 - 2023 Jobline | HVG Kiadó Zrt. 
 Termékeink
 Impresszum

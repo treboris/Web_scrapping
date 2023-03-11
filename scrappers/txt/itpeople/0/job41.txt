@@ -1,106 +1,28 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Java Developer állás Országos
-Docker
-GIT
-Soap
-Java
-Kotlin
-Oracle
-SQL
-Spring
-Szoftverfejlesztő állások 
-Cégleírás / Organisation / DepartmentOur Client is a leading European airline. Their IT is a strong mature agile organization with over 1.000 internal employees worldwide – but they are starting fresh in Budapest with a new start-up this year.
-Are you looking for a chance to work in truly European spirit with their future technological developments?Together you fly 110 aircraft to 145 destinations, bringing millions of passengers to where they need to be, developing sustainable travel and pushing the boundaries of air travel towards to the future.Elvárások / RequirementsBachelor or Master degree level or higher in Computer Science, Software Engineering or other
-relevant fields through study or IT experience
-2 - 4 years of experience building production-grade software
-3 years of expertise in Java/J2EE, Spring, Spring Boot, Kotlin, Knowledge of API management, handling SOAP services and REST API, Hibernate, Maven, Docker, Kubernetes, Groovy, Git, Jenkins, Ready API
-Identity and Access Management, Storn in Oauth 2, good knowledge in application and endpoint security
-Experience with Unit testing, Contract based testing, release-on-demand concepts and automated build tools (e.g. Bamboo)
-Code Quality maintenance ( Sonar, Performance/LOAD Testing , Integration Testing , Security Scanning )
-Being able to engineer for Azure
-Practical experience and a strong theoretical basis for dealing with complex architectures
-Curiosity to discover the complex domain processes
-Proactive attitude
-Good communication skills, written and spoken (English)
-Great team player that can work well as part of a diverse, international team
-Agile mindset
-Nice to have:
-OPEN ID connect, microservices, DevOps CICD, Mongo DB, Redis cache, Dynatrace, Oracle PL/SQL,
-Java script, Message brokers Active and KafkaAmit kínálunk / OfferCommercial Software Engineers are T-shaped professionals.
-As Commercial Software Engineer, you take care of specification, design, engineering, testing, delivering, deploying, maintaining, and supportingdigital products.The ability to deliver code in one or more programming languages is at the core of the job. As a T-shaped professional you brings deep expertise in one or more crafts and proficiency in other crafts.In the product team, the Commercial Software Engineers together secure all the skills, knowledge and experience on analysis, design and architecture, development, quality assurance, DevOps, LCM and operational support as needed.Depending on the service level agreements (SLA) the Commercial Software Engineer can be asked to participate in consignation duties, for example if 24/7 support is agreed. We value both technical expertise (analysis, design and architecture, engineering, quality assurance and DevPps) as well as the interpersonal parts of the job (coaching, consulting, coordination, and support).Kapcsolattartó / InformationA challenging role at an unique employer in the Netherlands
-Plenty of room for personal development and wonderful career opportunities
-A good pension scheme, end of the year bonus, and profit sharing
-Great discounts on airline tickets (if you have been in service for at least 6 months)
-A travel expenses scheme and a quarterly duty trip to Amsterdam
-Discount on your health insurance
-A personal budget for sustainable employability 
+Mobile Application Tester állás Budapest
+Tesztelés állások 
+Cégleírás / Organisation / DepartmentOur partner is an IT security company based in Switzerland. They have been on the market for over 20 years, providing security solutions of renowned customers in the area of banking, insurance, and government. Their product portfolio is being further developed and adapted to new technology trends to meet the constantly evolving requirements of digitalization, this is why they are lookig for a new
+MOBILE APPLICATION TESTERElvárások / RequirementsRequirements you should ideally fulfill:
+at least 3 years of experience in software testing
+experience in native and cross-platform mobile testing
+experience in test automation with RoboScript or Selenium or similar test automation frameworks
+a good command of English (written and spoken)
+experience with working in agile teams
+a communicative and open personality
+university degree in a related field
+Amit kínálunk / OfferIn your daily work, you will
+design, execute and document test cases for our IT security product suite (with special focus on native mobile apps)
+actively participate in all stages of the agile development cycle, cooperate with product owners, engineering managers, software engineers, business analysts and fellow testers
+test new functionalities, enhancements, bug-fixes, infrastructure changes, etc. in products to make sure they match the quality requirements
+participate and potentially coordinate our testing guild, which synchronizes testing related activities and best practices
+seek for tooling and testing process optimization, document the know-how for other testers and software engineers on a regular basis
+Kapcsolattartó / InformationWhat our partner offers:
+Remote work opportunity and flexible working hours
+extensive renumeration package including an annual bonus, company mobile and laptop, private health insurance, private nursery and kindergarten support etc.
+International environment with a small friendly team
+Self-development support with sponsored trainings
+Half-day vacation for 24th of December and 31st of December
+24/7 Employee Assistance Program (psychological and well being support, advices on finance and legal topics)
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Randstad Hungary													
-Országos
-Nincs meghatározva
- Szoftverfejlesztő
-Lejárati dátum: 2023-05-05 12:15:00
-Álláshirdetés részletei
-PozícióJava Developer
-Munkavégzés helye
-Országos
-MunkaidőNincs meghatározva
-KategóriaSzoftverfejlesztő
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

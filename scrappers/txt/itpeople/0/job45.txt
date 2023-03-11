@@ -1,95 +1,41 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Frontend Developer (React) állás Országos
-Javascript
-Front-end fejlesztő állások 
-Cégleírás / Organisation / DepartmentOur partners’ dynamically growing Frontend Developer Team is looking for new member!You will be liable for service-based front-end development and will have the possibility to get acquainted with the airline business domains (In-flight Entertainment and other innovated solutions). So join them and work on the development of B2B and B2C web applications!Elvárások / Requirements
-Have at least 3 years experiences in desktop/ web development and have deep knowledge of JavaScript, HTML5, CSS3, React
-Have good understanding of agile software development processes
-Are passionate to be up-to-date in new JS technologies
-Are able to communicate in English both spoken and written
-Have willingness to learn and take responsibility for your work and projects
-Have good cooperative and communication skills
-Experience in software development projects in cooperation with different development teams is also an advantage
+Senior Software Development Engineer állás Országos
+C
+Szoftverfejlesztő állások 
+Cégleírás / Organisation / DepartmentOur client is an international company in the automotive industry who are looking for a software development engineer who supports the integrate of safety technologies and controls vehicle dynamics to ensure safe and comfortable driving. The objective is to implement "Vision Zero", the vision of accident-free driving. Autonomous Mobility and Safety's components and system capabilities are prerequisites for autonomous mobility.Elvárások / Requirements
+Engineering Diploma (Information Technology, SW engineering, Mechatronics)
+Min. 5 years relevant experience
+Automotive Know-how (ASPICE, ASIL)
+Experience in Automotive Quality standards
+Experience in embedded SW development (MISRA C)
+Strong English knowledge
+Advantages:
+Git/GitHub
+Rhapsody
+Doors
+ARM Architecture
+EE skills
 Amit kínálunk / Offer
-Developing and maintaining front-end components by applying technologies – we are focusing on React
-Working in Agile environment and try yourself in end-to-end testing and development
-Having code ownership and quality awareness
-Code review and testing
-Keeping contact with partners, customers
+Embedded SW development for automotive sensors
+Using the engineering viewset in the daily work
+Utilizes internal development processes and connected tools in line with the regulation autonomously
+Checks and fulfills tasks according to project schedules
+Keeps his/her knowledge of the special professional field and of the related regulations up-to-date
+Cooperates with the related departments and the development departments of car manufacturers
 Kapcsolattartó / Information
-Gross 640 000 HUF cafetéria
-Flexible working hours based on core time
-Designed career paths (and a career management system)
-Training courses
-After six months you will receive discounts for flights
-1 office day/week
+Flexible working time
+Home office opportunity
+Laptop and company mobile
+Private health insurance
+Cafeteria
+Bonus system
+Financial support of commuting costs/weekend travelling costs to permanent address
+Financial support for families regarding school starting costs
+Financial support for renting/buying a flat
+Canteen and coffee bar
+Company events
+Parking space for cars and bikes
+Coaching service
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Randstad Hungary													
-Országos
-Nincs meghatározva
- Front-end fejlesztő
-Lejárati dátum: 2023-03-19 11:35:00
-Álláshirdetés részletei
-PozícióFrontend Developer (React)
-Munkavégzés helye
-Országos
-MunkaidőNincs meghatározva
-KategóriaFront-end fejlesztő
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

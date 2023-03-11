@@ -1,114 +1,34 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Information Security Program Analyst állás Budapest
-Egyéb IT pozik állások 
-Cégleírás / Organisation / DepartmentOur Client is one of the leading investment banks in the world, and for their growing professional team we are looking for an Information Security Program Analyst.Elvárások / Requirements
-3+ years of experience in information security or related technology experience
-Experience working in an information security team defining, revising and implementingcorporate information security policies
-Experience analyzing security assessments and creating metrics visualizations for analytics
-Experience reviewing application security testing results from various testing tools
-Project Management experience a plus
-Experience with governance and implementation of security policies, standards, procedures,programs, plans and processes
-Experience coordinating initiatives related to process control design and testing
-Professional Certifications in Information Security domain a plus
-Demonstrate an aptitude to develop and implement application security strategies and plansbased on company standards
-Familiarity with security standards such as OWASP, NIST, PCI DSS, etc.
-Consistently demonstrates clear and concise written and verbal communication
-Proven analytical, influencing and relationship management skills
-Education:
-Bachelor’s degree or equivalent experience
-Amit kínálunk / Offer
-Governance of Application System Testing standards and policies - review the standards andmake enhancements based on application assets
-Identify compliance objectives and map program deliverables to the requirements
-Document scope of assets to be included in the system security testing standard forvulnerability assessments
-Collaborate with business and enterprise architecture team to implement changes required toidentify assets for vulnerability assessments scoping
-Document business requirements related to system enhancements and submit for reviewsand approvals
-Map out process flows for controls in systems and review for improvements to make controlsmore effective
-Monitor vulnerability assessment exemption and exception requests and process based ondocumented system testing standards and policies
-Collect information for generating and communicating responses for internal audit questions and deliverables promptly
-Design and implement a solution for performance measurements on effectiveness of controlsand overall vulnerability assessment program
-Analyze trends on assets security health posture and report using visualization tools forprogram review with management and stakeholders
-Provide timely, accurate, and actionable reporting on application vulnerability activity, trends,service levels, and areas of concern to senior management
-Document and standardize business rules for accurate compliance measurements andtracking metrics based on application security testing standard
-Work with the Metrics reporting team to enhance and refine the metrics and keyperformance indicators reported to senior management and external regulatory agencies
-Develop User acceptance test plans for testing changes to system enhancements that impactgovernance and compliance
-Serve as a Program SME and drive open issues to a closure with appropriate resolution
-Update power point presentations monthly and quarterly for application security programreviews
-Train and mentor team members as needed
-Weekly and Monthly Status reporting for the program
-Kapcsolattartó / InformationCompetitive compensation package with extensive benefits:
-Private Medical Care Program and onsite medical rooms in our buildings
-Pension Plan Contribution to Voluntary Pension Fund
-Group Life Insurance
-Flexible work arrangements
-Continuous career progression opportunities across geographies and business line
-An inclusive and friendly corporate culture with diverse networking opportunities 
+Test Engineer állás Budapest
+Oracle
+SQL
+Szoftverfejlesztő állások 
+Cégleírás / Organisation / DepartmentOur partner has more than 40 years of experience in research and development in the field of lottery systems. They are a worldwide leading supplier of lottery products, with more than 170 employees in Budapest, and currently serving more than 400 customers on six continents.
+We are looking for a Test Engineer for their growing team. Elvárások / RequirementsThe requirements you should fulfill:
+Completed technical education in IT
+Minimum 2 years of experience as a test engineer in full time job
+Technical experience in test management tools (Jira, Spira), SQL, Oracle database and Linux
+Effective in problem analysis and resolution in a multi-component system
+Excellent English knowledge (spoken and written)
+It's an advantage if you also have:
+ISTQB CT-FL
+Experience and knowledge in Test Automation
+Amit kínálunk / OfferThe following challenges await our new Test Engineer:
+Creating and reviewing test specifications, methods, plans, cases, and test data
+Test execution and monitoring for function, integration, system, performance, field and acceptance tests (manual and automated)
+Error analysis and classification, defect tracking
+Support of the company organization through expert advice
+Working according to company development processes
+Continuous improvement of testing environment and processes
+Create and maintain automated tests
+Kapcsolattartó / InformationWhat our partner offers:
+Competitive package (cafeteria, health insurance and 13. -14. months salaries)
+Mentoring Program, trainings and team buildings
+Flexible work schedule (home office possibility)
+Indoor bike and motorcycle storage
+Excellent working atmosphere (recreation room)
+Open company culture
+Economically stable and growing enterprise
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Randstad Hungary													
-Budapest
-Nincs meghatározva
- Egyéb IT pozik
-Lejárati dátum: 2023-03-10 08:05:00
-Álláshirdetés részletei
-PozícióInformation Security Program Analyst
-Munkavégzés helye
-Budapest
-MunkaidőNincs meghatározva
-KategóriaEgyéb IT pozik
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

@@ -1,0 +1,36 @@
+ Belépés ›
+PHP Developer (Budapest)
+PHP Developer (Budapest)
+A hirdetés már lejárt!
+NEMATECH Kft.
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+5+ év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+We seek for a PHP developer, working remote in a full-time position.
+PHP Developer
+MS 365 Account will be provided.
+We expect, since you will be responsible for a production-critical web page, a certain availability after normal worktime. (Emergency-response, in case of)
+You work in an international team of German, Hungarian and Ukrainian teammates
+This is a long-term position. We already develop the webpage for 3 years now, and there is more to do then ever!
+The requirements:
+very good English skills - or very good German skills.
+very good MySQL database management skills
+very good PHP skills (v7+)
+very good JavaScript skills
+object oriented programming
+good experience in test driven development
+good experience in Symfony based project development
+good experience in with Git and Git based project management
+clean coding (understanding the importance of a common code style)
+ability to abstract code from a described real world scenario
+ability to think like an end user and wrote good code to provide best user experience and usability
+nice to have: C#-programming skills, good Hungarian skills
+Normal worktime is 40h/week.
+Every morning at 08:30 you´ll meet your colleagues in a daily TEAMS Meeting.
+Neked ajánlott állások

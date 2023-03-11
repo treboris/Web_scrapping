@@ -1,102 +1,13 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-szoftverfejlesztő mérnök állás Országos
-C#
+Java Developer állás Budapest
+Docker
+Typescript
+Java
+GCP
+Linux
+Spring
 Szoftverfejlesztő állások 
-Cégleírás / Organisation / Departmenta szoftverfejlesztés éltet, de folyton keretekbe ütközöl? nincs, aki meghallgatná az ötleteidet, forradalmasító gondolataidat? szívesen ötvözöd különböző technológiákban szerzett tudásodat, hogy egy problémát megoldj?
-gyártópartnerem Esztergomban pont ilyen fejlesztőt keres! Innováció, a kódolás szeretete és megoldásfókusz.Elvárások / RequirementsJó, ha rendelkezel az alábbiakkal:
-felsőfokú informatikai végzettséged van, vagy végzős hallgató vagy, esetleg diplomával egyenértékű tapasztalatod van
-van minimum 2 éves programozási, fejlesztési tapasztalatod (számít a hallgatói projektmunka is)
-relációs adatbázis tervezési és kezelési ismeretekkel bírsz
-aktív, legalább középfokú angol nyelvtudás
-projektszemlélet, önállóság, precizitás
-a programozás és a technológiák iránti elkötelezettség
-jó analitikus és problémamegoldó képesség backend fókusszal
-JAVA, C# - vagy amiben a termeléshez kapcsolódó ötleteket kivitelezed majd - ez rajtad múlik!
-Amit kínálunk / Offermilyen feladatok várnak egy szoftverfejlesztőre?
-a mindennapi munkához kapcsolódó megoldások innovációja és fejlesztése, üzemeltetés támogatása
-kezelőfelület-fejlesztés a gyár technológiája, robotjai, autonóm berendezései felé
-újítási és változtatási lehetőségek észlelése, ötletek megfogalmazása - ezért még jutalmat is kaphatsz!
-támogatja, együttműködik a gyár különböző részlegeivel és a külsős partnerekkel
-kihívást jelentő komplex alkalmazások tervezése, fejlesztése
-üzleti területek rendszereinek és folyamatainak fejlesztése (gyártástól egészen az aftersalesig)
-munkavállalók, felhasználók oktatása és támogatása
-Kapcsolattartó / Information
-a fizetésen felül pótlékok és SZÉP kártya juttatás
-kiszámítható, 8 órás munkarend
-ingyenes étkezés naponta egyszer
-ingyenes buszjárat 40 km-es körzeten belülről
-ingyenes szállás, ha távolról érkezel
-előrelépési lehetőség
-dolgozói ajánló program
-kedvezményes telefonflotta és termékvásárlási lehetőség
-a vállalat európai bázisában dolgozhatsz nemzetközi környezetben
+Egyedi szoftverfejlesztéssel és dobozos termékekkel foglalkozó, dinamikusan fejlődő budapesti partnerünkhöz keresünk Java Fejlesztő kollégát!FeladatokÜzleti alkalmazások fejlesztésében való részvétel több szektorban (bank, energetika, ecommerce). A teljes fejlesztési folyamatban való aktív részvétel.Elosztott rendszerek fejlesztése mind on-premise, mind cloud környezetben. Kisebb fejlesztőcsapat és juniorok mentorálása.Döntéstámogatás architektúrális kérdésekben és dokumentációk készítése.Elvárások4+ éves Java backend fejlesztési tapasztalatSpring/Spring Boot keretrendszer tapasztalatREST és Message Queue tapasztalatRelációs adatbázis tapasztalatMicroservice architektúra ismereteJó problémamegoldó képesség, kreatív gondolkodásTanulási hajlandóságElőnyök:Java 11+Cloud ismeretek (GCP, Azure)Funkcionális programozási ismeretek (pl.: Webflux, RxJava)KotlinTervezési és architektúrális mintákNoSql (pl.: Mongo, Redis)Agilis szoftverfejlesztési tapasztalatGradleDevops szemlélet (CI/CD, Docker, Kubernetes, Linux)Typescript, ReactJS, VueJS.Asszertív kommunikáció készségAmit kínálunkHatékony fejlődés – vezetőink és tapasztaltabb kollégáink folyamatos mentorálása mellett sokkal gyorsabban bővítheted és mélyítheted szakmai tudásodatFolyamatos szakmai, soft skill és nyelvi képzéseket is biztosítunkPiacvezető termékek fejlesztőjeként izgalmas projektekben vehetsz résztHabár létszámunk egyre csak nő, a családias környezetet nem adjuk fel. Nagyon fontosnak tartjuk, hogy bent egy jó csapat alakuljon ki, ezért másfél havonta csapatépítő Happy Friday-eket tartunk (közös bográcsozás, borfesztivál, sörfesztivál, farsangi buli), minden hónapban megünnepeljük a szülinaposokat, szeretjük a közös reggeliket is (pl. parasztreggeli, Márton-napi reggeli), és minden évben elutazunk egy 3 napos csapatépítő hétvégéreHa éppen hosszabb ideig otthonról dolgozunk akkor is próbáljuk csapatunkat egy kis aktivitásra bírni és összetartaniSzerveztünk már virtuális palacsinta napot, kvíz játékokat, sör standupot. Egyre több közös, szabadidős programból tudsz választani: Társas est, Közös filmezős estek, LAN party, Squash, de szeretünk elmenni együtt futóversenyekre is, illetve bicikli túrát is szerveztünk márHeti egy alkalommal gerinctornát szerveztünk, hogy a sok ülést követően kicsit át tudjuk mozgatni magunkat profi edzők segítségévelKutyabarát munkahely vagyunk, úgyhogy kedvencedet is bátran hozhatod akár minden napAz egészséges életmódot nagyon fontosnak tartjuk, ezért heti kétszer tartunk gyümölcs napot, kedden és csütörtökönOlyan irodában dolgozunk, ahol van csocsó, biliárd, léghoki, darts, pingpong és babzsákfotelekÉvente két alkalommal teljesítményértékelést és elégedettségmérést végzünk, így Te is adhatsz nekünk visszajelzést, illetve a folyamatos fejlődésed érdekében is visszacsatolunk az elmúlt fél évről 
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Randstad Hungary													
-Országos
-Nincs meghatározva
- Szoftverfejlesztő
-Lejárati dátum: 2023-04-30 16:20:00
-Álláshirdetés részletei
-Pozíciószoftverfejlesztő mérnök
-Munkavégzés helye
-Országos
-MunkaidőNincs meghatározva
-KategóriaSzoftverfejlesztő
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

@@ -1,107 +1,40 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-IT Architect (.NET) állás Budapest
-Angular
-C#
-net
-remote
-IT / Dev architect  állások 
-Cégleírás / Organisation / DepartmentOur Partner is a global technology company supplying systems for passenger cars, commercial vehicles and industrial technology, enabling the next generation of mobility. They are looking for a new senior colleague to join their team in the following position:
-IT ARCHITECTElvárások / RequirementsRequirements you should fulfill:
-At least a Bachelor's degree (Master's preferred) in IT
-At least 3 years of experience in a similar position (Lead software developer, IT Architect etc.)
-Some experience in agile software development
-Practical experience with Azure, DevOps, .NET, Angular, Kubernetes and Terraform
-Familiarity with the fundamentals of Data Science, Machine Learning, AI, and MLOps
-A good understanding of low-level communication protocols.
-Excellent verbal and written English language skills (German is a plus)
-Soft skills we look for:
-Team player attitude 
-A result-oriented and systematic work approach
-Excellent conceptual skills and an ability to structure complex topics
-Autonomous, self-driven, flexible, reliable, and keen to push things forward
-Amit kínálunk / OfferYour focus will be:
-Architectural design for industry 4.0 solutions using domain-driven design and microservice architecture patterns
-Design and development of a computer vision/AI solution framework - including machine learning, backend and frontend development, corresponding DevOps and automation tasks
-Design of technical solution architectures based on Microsoft Azure services, Databricks, .NET / C#, Angular, Kubernetes and Terraform
-Working together with other professionals like product owners, business experts, solution architects and the development team to engineer solutions aligned with architecture guidelines.
-Documentation and presenting results to the program leadership and stakeholders
-Steering of the development team, orchestration of activities during the sprint and assurance of quality of results
-Kapcsolattartó / InformationWhat our partner offers:
-Home office or remote work opportunity
-A job full of challenges and high-level professional activities
-Stable international company background
-Participation in international projects and commission to foreign countries
-Career opportunities, continuous training program and language courses
-Competitive salary and performance-related bonus
-Cafeteria with optional elements
-School start support
+Linux Fejlesztőmérnök állás Budapest
+Javascript
+C
+Python
+Linux
+Rendszer / Hálózat, DevOps állások 
+Cégleírás / Organisation / DepartmentÜgyfelünk fő profilja videotechnikai berendezések tervezése és gyártása. Részt vesznek többek között rendezvények, koncertek vizuális támogatásában, de foglalkoznak modernizált tárgyalók kialakításától kezdve a sorozatgyártáson át, az orvos technikáig, számtalan izgalmas projekttel. Elvárások / RequirementsTéged keresnek, ha:
+legalább 3 év Linux alkalmazás fejlesztői tapasztalatod van;
+jó vagy valamilyen script nyelvben (pl. Bash, Shell, Python, JavaScript, nodeJS);
+Git verziókövető ismereted;
+rendszerszemléletű gondolkodásmódod;
+szakmai angol nyelvismerettel rendelkezel.
+Előnyt jelent, ha:
+szereztél már tapasztalatot beágyazott rendszerek fejlesztésében;
+van modern C++ ismereted (C++17);
+van GNU Make, gcc, gdb felhasználói szintű tapasztalatod;
+rendelkezel Continuous Integration tapasztalattal (pl. Jenkins);
+van systemd ismereted;
+vannak hálózati és IT biztonsági ismereteid;
+dolgoztál már agilis fejlesztési környezetben.
+Amit kínálunk / Offer
+a cég által fejlesztett videotechnikai berendezések szoftverének fejlesztése;
+részvétel a termék- és szoftverspecifikálásban, az architektúra tervezésben és a szoftver teljes fejlesztési folyamatában;
+új készülékek belső működtetésének kitalálása, megvalósítása és kipróbálása már a fejlesztési fázisban, amelyek az általad fejlesztett szoftverrel működnek;
+jól strukturált, igényes kód írása.
+Kapcsolattartó / Information
+kijelölt mentor, és rendkívül támogató csapat segíti betanulásod;
+komplex mérnöki problémákkal találkozhatsz, melyek mindig új kihívásokat rejtenek;
+végigkövetheted a teljes fejlesztési folyamatot, és kipróbálhatod a működő eredményt;
+meghallgatják az ötleteidet, legyen szó termékekről vagy akár folyamatokról;
+mindig a legújabb technológiákkal, szabványokkal foglalkoznak az AV területen, így folyamatosan fejlesztheted magad;
+részese lehetsz egy magyar cég sikerének a világpiacon;
+betanulás után heti 2 nap home office lehetőséget;
+belvárosi, jól megközelíthető munkahelyet;
+emberközpontú szemléletet;
+magas színvonalú csapatépítő tréningeket és egyéb közösségépítő programokat.
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Randstad Hungary													
-Budapest
-Nincs meghatározva
- IT / Dev architect 
-Lejárati dátum: 2023-03-23 16:20:00
-Álláshirdetés részletei
-PozícióIT Architect (.NET)
-Munkavégzés helye
-Budapest
-MunkaidőNincs meghatározva
-KategóriaIT / Dev architect 
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

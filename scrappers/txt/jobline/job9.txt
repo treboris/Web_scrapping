@@ -8,90 +8,63 @@ Szakmunka
 Álláshirdetés-feladás
  Regisztráció ›
  Belépés ›
-Ügyféltámogató informatikus (Budapest)
-Ügyféltámogató informatikus (Budapest)
-Jelentkezem az állásra ›
-ELTE Kancellária Emberi Erőforrás Igazgatóság
+Etikus hacker (Budapest)
+Etikus hacker (Budapest)
+A hirdetés már lejárt!
+Nemzetbiztonsági Szakszolgálat
 Alapvető elvárások
 IT, telekommunikáció
+3 - 5 év tapasztalat
+pályakezdő /tapasztalat nélkül
 1 - 2 év tapasztalat
 beosztott
 Középfokú végzettség
 teljes munkaidő
-Eötvös Loránd Tudományegyetem
-Kancellária, Informatikai Igazgatóság
-ügyféltámogató informatikus
-munkatársat keres
-Feladatok
-A beosztás szerinti egyetemi területek felhasználóinak közvetlen informatikai támogatása az alábbiak szerint:
-számítógéppark üzemben tartása, az informatikai hálózathoz való csatlakozásuk biztosítása
-a hardver hibák elhárítása, szoftverek naprakészen tartása
-központi management alá vont gépekkel és nyomtatókkal kapcsolatos időszakos feladatok, felhasználói tájékoztatás
-a szoftverek személyre szabott beállításában segítségnyújtás közvetlenül, vagy távsegítséggel
-az egyetemi tulajdonban lévő laptopok, táblagépek üzemben tartása, személyre szabott beállítása
-a kiszolgált területek egyetemi dolgozóinak mobil eszközein a központi informatikai szolgáltatások eléréséhez szükséges beállítások elvégzése
-a központi egyetemi informatikai szolgáltatásokkal kapcsolatos igények kiszolgálása
-oktatástechnikai feladatok ellátása
-az üzemeltetési szerződéssel működtetett nyomtatók és multifunkciós eszközökkel kapcsolatos havi teendők, számlálóállás lejelentés, számlareklamációk, hibabejelentés
-a területek kiszolgálásához szükséges kellékanyagok, alkatrészek raktárrendszerű kezelése, javaslattétel ezek beszerzésére
-a kiszolgált területeken felszabaduló informatikai eszközök újrahasznosítására, selejtezésére javaslattétel
-a kiszolgált területeken működő szervezeti egységek informatikai hálózattal kapcsolatos kéréseinek, hibabejelentéseinek, továbbítása
-folyamatos kapcsolattartás a kollégákkal
-Elvárások
-középiskola/gimnázium
-gyakorlott rendszergazdai, MS Office és hardver ismeret
-magyar állampolgárság, büntetlen előélet, cselekvőképesség
-Elvárt kompetenciák
-önálló, csapatmunkára nyitott, együttműködő, ügyfélközpontú személyiség,
-rugalmasság,
-precizitás, pontosság, megbízhatóság ,
-jó/kiváló kommunikációs, szervező, kapcsolatteremtő, elemző készség,
-támogató, probléma megoldására törekvő munkavégzés,
-logikus, strukturált, stratégiai gondolkodás, komplex látásmód, rendszer-, ill. projektszemlélet,
-monotonitástűrés, stressztűrés,
-tanulás és fejlődés iránti elkötelezettség, nyitottság technikai fejlődés iránt
-Előnyök
-felsőfokú informatikai végzettség, vagy középfokú végzettség és folyamatban lévő felsőfokú informatikai tanulmányok, vagy középfokú végzettség és informatikai szakképesítés
-angol nyelvből legalább középfokú, legalább társalgási szintű nyelvtudás
-hálózat-, Windows op. rendszer, Linux ismeretek
-legalább 1 év szakmai tapasztalat
-Amit kínálunk
-bérezés megegyezés szerint
-önálló munkavégzés
-folyamatos tanulási, szakmai fejlődési lehetőség
-támogató, összeszokott, stabil, csapat
+angol - alapfokú
+Kíváncsi vagy, milyen mély a nyúl ürege? Jelentkezz hozzánk, és megmutatjuk! Nálunk megismerheted a legújabb fejlesztéseket, és olyan rendszerekkel dolgozhatsz, amelyek egyedülállóak az országban! A Nemzetbiztonsági Szakszolgálat IT szakterületre keres munkatársakat – akár pályakezdőket is!
+Etikus hacker
+Elvárások:
+operációs rendszerek mélyebb ismerete
+sérülékenységvizsgálatban szerzett tapasztalat
+különböző területeken szerzett tapasztalat: webapplikáció biztonság, mobileszköz biztonság, hálózatbiztonság
+CEH, vagy CHFI vagy ezekkel egyenértékű minősítés
+legalább egy szkript nyelv magabiztos ismerete
+angol nyelv minimum társalgási szintű ismerete
+Előnyt jelent:
+felsőfokú informatikai végzettség
+OSCP minősítés
+malware elemzésben szerzett tapasztalat
+assembly nyelvben szerzett tapasztalat
+Amit kínálunk:
+kezdő havi bér bruttó 1.000.000 Ft
+évi bruttó 200.000 Ft cafeteria juttatás
+ruházati illetmény
+versenyképes jövedelem
+karrierlehetőség
+munkába járási támogatás
+kedvezményes üdülési lehetőség
 hosszú távú munkalehetőség
-Magyarország legrégebb óta folyamatosan működő, legnagyobb felsőoktatási intézménye
-Munkavégzés helye
-1097 Budapest, Pázmány Péter sétány 1/A
-1088 Budapest, Múzeum körút 4/C
-A pályázathoz csatolni szükséges
-részletes szakmai önéletrajz fizetési igény megjelölésével
-motivációs levél
-iskolai végzettség(ek)et, szakképzettség(ek)et tanúsító okiratok másolata
-nyilatkozat arról, hogy a pályázó hozzájárul személyes adatainak a pályázati eljárással összefüggő kezeléshez „Nyilatkozat álláspályázat elbírálásához” –nyomtatvány az https://www.elte.hu/allaspalyazatok oldalról tölthető le
-sikeres pályázat esetén, amennyiben felvételt nyert, 3 hónapnál nem régebbi erkölcsi bizonyítvány
-A pályázat elbírálásának módja, rendje
-A közalkalmazotti jogviszony 4 hónap próbaidő kikötésével tölthető be. A pályázat elbírálása folyamatos, a benyújtott dokumentumok és állásinterjúk alapján történik. Az interjúk során személyiségi teszt és/vagy szakmai jártasságokat mérő tesztek/feladatok alkalmazására is sor kerülhet. BÉREZÉS MEGEGYEZÉS SZERINT!
-A munkáltatóval kapcsolatos egyéb lényeges információ
-Az Eötvös Loránd Tudományegyetem mint álláspályázatot hirdető az álláspályázati jelentkezés keretében benyújtott személyes adatokat a https://www.elte.hu/allaspalyazatok oldalon található Adatkezelési tájékoztatóban foglaltak szerint kezeli. Az egyetem munkatársai és vezetői kizárólag munkaköri feladatuk, illetve vezetői megbízatásuk ellátásával összefüggésben, és csak az ahhoz szükséges mértékben férhetnek hozzá, illetve kezelhetik a pályázó személyes adatait. Az álláspályázat elbírálása során eljáró testületben esetenként külső tag is részt vehet. A személyes adatok kezelésének, védelmének, valamint az ezzel összefüggő jogorvoslatnak törvényben és egyetemi szabályzatban rögzített szabályairól az Adatkezelési tájékoztatóban talál részletes tájékoztatást.
-A munkáltatóval kapcsolatban további információt a www.elte.hu honlapon szerezhet.
-Jelentkezem az állásra ›
+komplex, kiemelt projektekben részvétel
+kihívásokkal teli, felelős szakmai munka
+széleskörű tapasztalatszerzési lehetőség
+szakirányú továbbképzéseken való részvétel
+nemzetközi konferenciákon, szakmai kiutazásokon való részvétel
+Munkavégzés helye:
+Budapest
+Jelentkezés módja:
+Online jelentkezés lap kitöltésével és ezzel párhuzamosan egy magyar nyelvű önéletrajz és motivációs levél megküldésével lehet, a tárgyrovatban kérjük megjeleníteni az „Etikus hacker 2023” jeligét.
 Neked ajánlott állások
 Neked ajánlott állások
 Deutsche Telekom IT Solutions -
-Application Administrator (Patch management) (REF1471N)
+Solution Engineer
+Deutsche Telekom IT Solutions -
+Technical Process Specialist (REF705I)
 Deutsche Telekom IT Solutions -
 Incident responder (cert) ref68o
 Deutsche Telekom IT Solutions -
-Microsoft Application Administrator - Skype for Business, Teams (REF974Y)
+Senior Network Architect (Open Telekom Cloud) - REF482J
 Deutsche Telekom IT Solutions -
-SSCM-DSM System Administrator (REF985M)
-Deutsche Telekom IT Solutions -
-Application Administrator (REF1491J)
-Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
-Ne maradj le egy jó állásról!
-Kérem! ›
+Security Analyst (REF92A)
 Állásajánlatok - legnépszerűbb városok
 Budapest
 Debrecen
@@ -99,10 +72,10 @@ Pécs
 Szeged
 Veszprém
 Győr
-Kecskemét
-Tiszaújváros
 Miskolc
+Kecskemét
 Székesfehérvár
+Tatabánya
 © 2000 - 2023 Jobline | HVG Kiadó Zrt. 
 Termékeink
 Impresszum

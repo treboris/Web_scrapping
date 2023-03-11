@@ -1,95 +1,34 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Törzsadat kezelési szakértő állás Országos
-SAP
-SAP állások 
-Cégleírás / Organisation / DepartmentArrayElvárások / Requirements
-Felsőfokú végzettség
-ERP rendszerek (preferáltan SAP) ismerete
-SAP törzsadat kezelésben szerzett tapasztalat
-Tárgyalási szintű, aktív angol nyelvtudás alapfeltétel (szóban és írásban egyaránt; német nyelvtudás előnyt jelent)
-Kiváló kommunikációs készségek
-Precizitás, analitikus gondolkodás, rendszerszemlélet
-Erős felhasználói szintű IT ismeretek
-Amit kínálunk / Offer
-Új törzsadatok (cikk, szállító, vevő) felvitele, meglévő törzsadatok (cikk, szállító, vevő) folyamatos karbantartása, ellenőrzése és javítása
-Társosztályoktól érkező igények alapján új beszállítók, ügyfelek, termékek stb. adatainak felvitele a vállalatirányítási rendszerbe
-Régi, elavult adatok kiszűrése és archiválása
-Adattisztítás, duplikációk megszüntetése
-Rendszeres kapcsolattartás az SAP kulcsfelhasználókkal
-Közreműködés sztenderd üzleti folyamatok meghatározásában
-Kapcsolódó dokumentációk naprakészen tartása
-Kapcsolattartó / Information
-Kihívást jelentő multinacionális környezet
-Részvétel egy új gyártóüzem beindításában
-Külföldi betanulás lehetősége
-Kiemelkedő bérezési és juttatási csomag
+Software Test Development Engineer állás Veszprém
+C
+Python
+Szoftverfejlesztő állások 
+Cégleírás / Organisation / DepartmentOur partner is one of the world's leading automotive technology companies, for its headquarters in Veszprém. The factory produces high-quality sensors for vehicle safety systems for all car manufacturers in the world.
+We are looking for a Software Test Development Engineer for their growing team. Elvárások / RequirementsThe requirements you should fulfill:
+Completed bachelor or master’s degree in any field of engineering or computer science
+Experience in C and/or Python programming
+Good problem solving, practical thinking, engineering mindset
+Confident English communication
+Collaborative, open-minded, team player attitude
+It's an advantage if you also have:
+Knowledge in Doors, Jira, GitHub, Capl, CANoe
+Experience in embedded programming, real-time systems
+Knowledge of relevant automotive standards (ASPICE, AUTOSAR)
+Experience with agile development methods
+Amit kínálunk / OfferThe following challenges await their new colleague:
+Software Test and Test Development of Advanced Driver Assistance System projects
+Analyze internal and customer requirements
+Write and execute test cases, evaluate test results
+Support in analyzing root causes of detected failures
+Create test reports, resolve test environment related issues
+Kapcsolattartó / InformationWhat our partner offers:
+Flexible work schedule (home office possibility)
+Competitive package (private health insurance, cafeteria and bonus system)
+Laptop and company mobile
+Financel support package (for renting/buying a flat, for families regarding school starting cost and commuting costs/weekend travelling costs to permanent address)
+Canteen and coffee bar
+Coaching service and company events
+Parking space for cars and bikes
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Randstad Hungary													
-Országos
-Nincs meghatározva
- SAP
-Lejárati dátum: 2023-03-23 07:25:00
-Álláshirdetés részletei
-PozícióTörzsadat kezelési szakértő
-Munkavégzés helye
-Országos
-MunkaidőNincs meghatározva
-KategóriaSAP
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

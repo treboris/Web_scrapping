@@ -1,75 +1,7 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-IT operation administrator állás Országos
-Linux
-Rendszer / Hálózat, DevOps állások 
-FeladatokGyártási műveletirányítási (MOM) rendszerek globális informatikai infrastrukturális szolgáltatásainak bevezetése és működési támogatásaIT-infrastruktúra-összetevők szabványos telepítésének, konfigurálásának és adminisztrációjának biztosítása (MS Windows Servers, Red Hat Enterprise, Linux Servers.)A MOM System IT infrastrukturális szolgáltatásainak megoldása, kezelése és dokumentálása a jegyrendszerrelHelyi és/vagy globális szabványok meghatározásában való részvételSzoros együttműködés az IT és más részlegekkel a napi munkavégzés során, valamint a különböző projektek és/vagy auditok soránElvárásokFelsőfokú IT végzettségLegalább 2 év informatikai szolgáltatások támogatásában és üzemeltetésében szerzett tapasztalatTárgyalóképes angol nyelvtudás, német nyelvtudás előnyt jelentLinux Server és Microsoft Windows Server Systems, CentOS, RHCA, RHCE, RHEL ismeretekAzure IaaS, SaaS vagy más felhőalapú számítástechnikai szolgáltatás ismereteJó problémamegoldó képességProaktív személyiség 
+IT Project Manager junior állás Országos
+IT management állások 
+Gépgyártó partnercégünk részére keresünk munkatársat junior IT Project Manager pozícióba Pécsre:FeladatokÖsszetett IT projektek koordinálásaProjekttervezés és a projektcélok egyeztetése az informatikai szakemberekkelA projekt sikerét szolgáló intézkedések önálló végrehajtása (végrehajtás, ellenőrzés, koordináció); a projekt eredményeinek elemzése és dokumentálásaA projektkockázatok azonosítása és értékelése (kockázati előrejelzés és kockázattérképezés), valamint az ellenintézkedések tervezése és ellenőrzéseA projekt kommunikációjának koordinálása, a projektcsapat és a projekt eredményeinek bemutatása a menedzsment számáraEgyüttműködés helyi és nemzetközi IT csoportokkalÁtlátható kommunikáció a projekt sikere érdekében A projektben megállapított mérföldköveknek, fő teljesítménymutatóknak és keretfeltételeknek való megfelelés biztosításaRendszeres státuszjelentések készítése a transzparencia megteremtése érdekébenA projektben bekövetkezett változások következetes rögzítése, kezeléseKapcsolatok kiépítése a belső ügyfelek telephelyének kulcsszereplőivelA OneIT infrastruktúra licenckezelésének átvételeElvárásokFelsőfokú informatikai végzettség vagy ezzel egyenértékű tapasztalat IT területenMagabiztos angol nyelvtudás írásban és szóbanTapasztalat IT projektek menedzselésében1-3 év projektvezetési tapasztalatMagabiztos megjelenés, jó kommunikációs és prezentációs készségJó problémamegoldó képességMS Office (PP, Word, Excel) széleskörű felhasználói ismereteAmit kínálunkOrszágos szinten is kiemelt juttatási csomagStabil és kiszámítható nagyvállalati háttérFejlődési- és karrierlehetőségSZÉP kártyaTréningek és képzésekMunkába járás támogatásaModern munkakörnyezet és home office lehetőség 
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Jelentkezés
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-HSA Kft, 													
-Országos
-Nincs meghatározva
- Rendszer / Hálózat, DevOps
-Lejárati dátum: 2023-03-25 13:37:26
-Álláshirdetés részletei
-PozícióIT operation administrator
-Munkavégzés helye
-Országos
-MunkaidőNincs meghatározva
-KategóriaRendszer / Hálózat, DevOps
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

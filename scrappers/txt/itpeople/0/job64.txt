@@ -1,89 +1,10 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-ECS Analyst állás Országos
+Python Developer állás Budapest
+Javascript
+Python
+Linux
 Szoftverfejlesztő állások 
-Cégleírás / Organisation / DepartmentOur Client is one of the leading investment banks in the world, and for their growing professional team we are looking for an ECS (External Connectivity Security) Analyst.Elvárások / Requirements
-1-3 years of IT Support or relevant experience;
-Data transferring knowledge;
-Networking knowledge is a plus, but not required;
-Fluency in English;
- Amit kínálunk / Offer
-Process Firewall requests and perform risk assessments to ensure that the connectivity is compliant with the company's Information Security Standards and IS Policies;
-Liaise with multiple technology teams to facilitate cross-functional solutions as it relates to 3rd party connectivity aligning with the company's Information Security Standards;
-Provide Information Security oversight and guidance to the company's businesses requiring 3rd party connectivity as it relates to the Information Security Standards and IS Policies;
-Registering the rules and contacting businesses
- Kapcsolattartó / Information
-Highly competitive compensation package;
-Home office opportunity;
-Long-term career path across geographies and business lines;
-Flexible work arrangement;
-Friendly work atmosphere;
+											Our multinational client looks for a new colleague asPython DeveloperRoleIn a world where everything needs to be delivered more quickly, without impacting quality, automation of our processes has a keOur multinational client looks for a new colleague asPython DeveloperRoleIn a world where everything needs to be delivered more quickly, without impacting quality, automation of our processes has a key role. As part of the Datacenter Automation team, you help realizing this on the infrastructure level.You help automate daily operations within the datacenter department and build future-proof datacenter management tools with infrastructure-as-code and infrastructure-as-a-service as goal. You deliver qualitative and performant solutions.The team does this by developing new applications, implement infrastructure-as-code with the help of Jenkins build streets, implement automated datacenter service offerings with a standardized framework, scripting daily operation tasks… Mostly this is done with Python, Ansible and Jenkins. Your role in the team is help building, enhancing, modifying and maintaining these solutions. ResponsibilitiesYou participate in making customer requirements clear.You do design-driven implementation of solutions according to the discussed requirements.You perform unit, integration and functional testing to ensure a qualitative result.You continuously improve the way we deliver solutions.You work agile and team context. When needs shift, you quickly adapt. QualificationsExperienced in Python and Object oriented programmingBasic knowledge on JavaScript and HTMLExperienced in using GITBasic knowledge on working on Linux based infrastructureComfortable with frequent, incremental code testing and deploymentGood communication skills in English - written and spoken 
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Randstad Hungary													
-Országos
-Nincs meghatározva
- Szoftverfejlesztő
-Lejárati dátum: 2023-03-17 13:55:00
-Álláshirdetés részletei
-PozícióECS Analyst
-Munkavégzés helye
-Országos
-MunkaidőNincs meghatározva
-KategóriaSzoftverfejlesztő
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

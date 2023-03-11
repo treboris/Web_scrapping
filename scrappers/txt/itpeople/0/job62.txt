@@ -1,74 +1,10 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Kutató-fejlesztő gyakornok állás Budapest
+Beágyazott programozó állás Budapest
+Javascript
+GIT
 C
-Python
-Gyakornok állások 
-Elvárások Akit keresünk ·         C++, Python ·         Önálló munkavégzés ·         Egyetemi tanulmányok Informatikai szakirányon FeladatokEz a program egyben szakmai gyakorlatod, TDK dolgozatod, vagy diplomamunkád témája is lehet. Lehetőséged nyílik a fejlesztői folyamatokat közvetlen közelről megismerni. Beilleszkedésedről, valamint a szakmai segítségről és fejlődésedről szakmai vezetőink gondoskodnak. Olyan embert keresünk, aki tud felelősséget vállalni, élvezi az összetett környezet nyújtotta izgalmakat, valamint motiválja, hogy önálló, kreatív gondolataival és ötleteivel hozzájárulhat egy szervezet üzleti sikereihez. A programban való részvétel nem jár bérezéssel, de a program végeztével legjobban teljesítő gyakornokainknak állást kínálunk. Célunk, hogy a gyakornoki programmal egy hosszú távú együttműködés kezdődjön el közöttünk. Ha kezdetben egyetem mellett szeretnél dolgozni, részmunkaidőben és teljes munkaidőben is van erre lehetőséged! A program során megismerhető területek:·         KÉPFELDOGOZÁS, GÉPI LÁTÁS ALGORITMUSOK ·         GÉPI TANULÁS ÉS KOMPLEX FELISMERŐ RENDSZEREK  ·         VIDEÓ ÉS KÉPFELDOLGOZÓ ESZKÖZÖK  Mi lesz a feladatod ·         Egyéni kutatási és gyakorlati feladatok képfeldolgozás témában ·         Standard gépi látás eljárások használata ·         Neurális hálók használata  
+Tesztelés állások 
+											Partnerünk számára az alábbi pozícióba keresünk kollégát:SENIOR/JUNIOR BEÁGYAZOTT PROGRAMOZÓA Protecta Kft. magyar tulajdonú, stabil pénzügyi alapokon nyugvó középvállalat. A Társaság a villamosenergiPartnerünk számára az alábbi pozícióba keresünk kollégát:SENIOR/JUNIOR BEÁGYAZOTT PROGRAMOZÓA Protecta Kft. magyar tulajdonú, stabil pénzügyi alapokon nyugvó középvállalat. A Társaság a villamosenergia-ipar számára fejleszt és gyárt védelmeket és automatikákat. A hazai piacon már több mint 25 éve őrizzük piacvezető szerepünket és az elmúlt évtizedben jelentős lépéseket tettünk a nemzetközi piacokon is. A folyamatos bővülés eredményeként csapatunkat Beágyazott programozó pozícióba keressük leendő kollégánkat.FŐBB FELADATOK:A cég termékeinek fejlesztése C és C   nyelvenRészvétel egy új alaprendszer tervezésében és programozásábanFejlesztések koordinálása az adott hardverkörnyezetben, kapcsolattartás a társosztályokkalA rendszer funkcionalitásának kialakítása a vevői igények alapjánTesztek írása, folyamatos integrációs környezet naprakészen tartásaKölcsönös code reviewELVÁRÁSOK:Szakirányú felsőfokú végzettségAlapvető szakmai érdeklődésKitartó, precíz munkavégzésRugalmasság, új szoftvertechnológiák elsajátításaAngol nyelvtudásELŐNYT JELENT:Ethernet hálózati ismeretekBash, JavaScript script nyelvek ismereteLinux programozói ismereteLinux kernel építés buildroot / yocto környezetbenverziókövető rendszerek ismerete (Git)SOLID elvek gyakorlati alkalmazása, agilis metodika használataErősáramú alapismeretekMUNKAVÉGZÉS HELYE:Budapest, XV. kerületAMIT KÍNÁLUNK:Szakmai továbbképzéseken, fórumokon, vásárokon való részvételVersenyképes juttatási csomagRugalmas munkaidőBiztos munkahelyKellemes munkakörülmények 
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-zyntern													
-Budapest
- Gyakornok
-Lejárati dátum: 2023-08-15 14:13:42
-Álláshirdetés részletei
-PozícióKutató-fejlesztő gyakornok
-Munkavégzés helye
-Budapest
-KategóriaGyakornok
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

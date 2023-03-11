@@ -1,0 +1,75 @@
+ Belépés ›
+Szoftver Fejlesztő (Budapest)
+Szoftver Fejlesztő (Budapest)
+A hirdetés már lejárt!
+R-Szoft Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+Szoftver Fejlesztő - R-Szoft Kft.
+Rólunk:
+Nagyvállalati ügyfeleknek fejlesztünk digitális megoldásokat agilis csapatokban. Hisszük, hogy csak az ügyfeleinkkel együtt tudunk mi is sikeresek lenni.
+A mindennapok során a legfontosabbak a kollégáink, miközben mindannyian az ügyfeleinkre figyelünk. (https://r-szoft.hu).
+Kis létszámú családias hangulat, rugalmas hozzállás!
+Keressük tapasztalt kollégánkat Java illetve Fullstack Szoftver Fejlesztő pozícióra.
+Jelentkezz hozzánk ha érdekel a kódolás, szeretsz önállóan (is) dolgozni, tudod mi az, hogy clean code és architecture, csapatban tudsz a többiekre is figyelni, valamint nem veted meg a tesztelést sem.
+Napi feladatok:
+Fejlesztés
+Egyezettések
+Tesztelés és hibajavítás
+Elvárt végzettség:
+Főiskola/Egyetem
+Jó ha rendelkezel a következő ismeretekkel, illetve minél többel az alábbiakból:
+Clean code ismeretek
+Frontend vagy Backend fejlesztési tapasztalattal a következőkben:
+HTML és CSS gyakorlati ismerete haladó szinten (SCSS előny)
+Reszponzív sitebuild ismeretek
+Böngésző specifikus kódolási ismeretek
+Legalább egy modern javascript framework magas szintű ismerete: React és/vagy Angular Java 8-17, Spring Framework (Boot, Security),
+REST, SOAP
+Microservices
+Ugyancsak szeretjük, ha nyitott vagy új technológiákra, illetve szeretsz tanulni:
+AWS
+CI/CD megoldások
+DevOps ismeretek
+Cloud rendszer komponenseivel gyakorlati tapasztalat (AWS, Azure)
+Jira felhasználói ismeretek
+Konténerizáció
+Amit kínálunk:
+agilis munkavégzés, transzparencia, virtuális eszközök
+nagyvállalati projektek, szakmai kihivások
+távoli munkavégzés, időszakosan részmunkaidős opciók
+jó társaság és finom kávé (ha be kell jönnöd :))
+Irodán belüli juttatások:
+Free coffee
+Bike parking
+Shower
+Free parking
+In-house trainings
+Startup atmosphere
+Canteen
+Free snacks
+No dress code
+Extrák:
+Flat structure
+Nagyvállalati projektek
+Nemzetközi projektek
+Trainings
+Felvételi információk:
+Online állásinterjú
+Toborzás nyelvei: Hungarian
+Azonnali kezdés
+Határozatlan idejű szerződés
+Fizetett szabadság: Munkaszerződés
+Nem részmunkaidős állás
+Távmunka akár heti 4 nap
+Rugalmas munkaidő
+Nem jár utazással
+Főleg új funkciók fejlesztése
+Jó közlekedés
+Parkolási lehetőség
+Neked ajánlott állások

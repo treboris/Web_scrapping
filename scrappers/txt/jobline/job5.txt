@@ -8,56 +8,54 @@ Szakmunka
 Álláshirdetés-feladás
  Regisztráció ›
  Belépés ›
-PHP Developer (Budapest)
-PHP Developer (Budapest)
-Jelentkezem az állásra ›
-NEMATECH Kft.
+HARDWARE SZERVIZTECHNIKUS (Budapest)
+HARDWARE SZERVIZTECHNIKUS (Budapest)
+A hirdetés már lejárt!
+HumanField Kft.
 Alapvető elvárások
 IT, telekommunikáció
-3 - 5 év tapasztalat
-5+ év tapasztalat
+Karbantartás, szerviz
+1 - 2 év tapasztalat
 beosztott
 Középfokú végzettség
 teljes munkaidő
 angol - középfokú
-német - középfokú
-We seek for a PHP developer, working remote in a full-time position.
-PHP Developer
-MS 365 Account will be provided.
-We expect, since you will be responsible for a production-critical web page, a certain availability after normal worktime. (Emergency-response, in case of)
-You work in an international team of German, Hungarian and Ukrainian teammates
-This is a long-term position. We already develop the webpage for 3 years now, and there is more to do then ever!
-The requirements:
-very good English skills - or very good German skills.
-very good MySQL database management skills
-very good PHP skills (v7+)
-very good JavaScript skills
-object oriented programming
-good experience in test driven development
-good experience in Symfony based project development
-good experience in with Git and Git based project management
-clean coding (understanding the importance of a common code style)
-ability to abstract code from a described real world scenario
-ability to think like an end user and wrote good code to provide best user experience and usability
-nice to have: C#-programming skills, good Hungarian skills
-Normal worktime is 40h/week.
-Every morning at 08:30 you´ll meet your colleagues in a daily TEAMS Meeting.
-Jelentkezem az állásra ›
+HARDWARE SZERVIZTECHNIKUS
+Stabil hátterű, rendkívül innovatív szoftver és hardver fejlesztő partnerünk részére keresünk munkatársat
+HARDWARE SZERVIZTECHNIKUS (16-2085) pozícióba.
+Feladatok
+Mérőműszer karbantartása, éves inspekciója és kalibrálása,
+Hardware és software javítása,
+Telefonos és személyes támogatásnyújtás németországi ügyfeleknek,
+Ügyfelek oktatása a termék használatára,
+Németországi utazás a munkaidő 30-50%-ban (egyszerre csak 5 nap).
+Elvárások
+Technikai végzettség elektronika területen,
+Mechanikai tapasztalat,
+Szerelési, tesztelési tapasztalat,
+Angol nyelvtudás,
+Jogosítvány,
+Mérőműszerekkel való tapasztalat előny.
+Amit kínálunk
+Versenyképes fizetés,
+Kiemelkedő juttatási csomag,
+Stabil, nemzetközi háttér,
+Utazási lehetőség,
+Nemzetközi projektek.
+A munkavégzés helye
+Budapest
 Neked ajánlott állások
 Neked ajánlott állások
+Humancentrum -
+Gépész
+EasyHiring Services Kft. -
+Karbantartó technikus
 Deutsche Telekom IT Solutions -
-Java Developer for Cloud of Things (REF521E)
-Deutsche Telekom IT Solutions -
-Fullstack developer (AFC)
-Deutsche Telekom IT Solutions -
-Java Architect - Software Architect - PLM area (REF399Q)
-Deutsche Telekom IT Solutions -
-Lead Java Developer (REF883E)
-Deutsche Telekom IT Solutions -
-Lead Java Developer (REF883E)
-Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
-Ne maradj le egy jó állásról!
-Kérem! ›
+Cloud Engineer (OTC) REF879F
+Trenkwalder Kft. -
+Mechanikai Karbantartó
+Multimex Kft. -
+Szervíztechnikus
 Állásajánlatok - legnépszerűbb városok
 Budapest
 Debrecen
@@ -65,10 +63,10 @@ Pécs
 Szeged
 Veszprém
 Győr
-Kecskemét
-Tiszaújváros
 Miskolc
+Kecskemét
 Székesfehérvár
+Tatabánya
 © 2000 - 2023 Jobline | HVG Kiadó Zrt. 
 Termékeink
 Impresszum

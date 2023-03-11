@@ -1,76 +1,15 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Senior Data Scientist állás Budapest
-Python
-Linux
+Software Engineering Lead állás Budapest
+Angular
+Java
+SAP
 Tesztelés állások 
-											Our client GE Healthcare looks for a new colleague as Senior Data Scientist Location: BudapestThe Senior Data Scientist will work in teams addressing statistical, machine learning and data understandiOur client GE Healthcare looks for a new colleague as Senior Data Scientist Location: BudapestThe Senior Data Scientist will work in teams addressing statistical, machine learning and data understanding problems in a commercial technology and consultancy development environment. In this role, they will contribute to the development and deployment of modern machine learning, operational research, semantic analysis, and statistical methods for finding structure in large data sets.Essential Responsibilities:The Senior Data Scientist will be part of a cross-disciplinary team, consisting of data scientists, data engineers, software engineers, and medical professionals working on commercially facing development projects, typically involving large, complex data sets.Perform exploratory and targeted data analysis using statistics and visualization techniques.Work with clinical partners to understand the domain and explore the data.Develop and validate analytics and models to address our customer needs and opportunities.Work alongside software engineers to translate algorithms into commercially viable products and services.Work with data engineers on data quality assessment, data cleansing and data analytics.Contribute to the development and deployment of modern machine learning, operational research, semantic analysis, and statistical methods for finding structure in large data sets. Lead the development and deployment of machine learning and computer vision algorithms, take ownership of your models.Generate reports, annotated code, and other projects artifacts to document, archive, and communicate your work and outcomes.Requirements:Master’s Degree in a “STEM” major (Science, Technology, Engineering, Mathematics) Fluent in English, both spoken and writtenMinimum 3 years of professional experience in AI developmentExperience in image processing algorithms, such as filters, sampling, compression, etc.Experience with AI development on images, such as segmentation, object detection etc.Excellent in Python, with knowledge of the features of the language, and best practices, coding conventions, relevant librariesExperience in image processing and data science related Python packages: NumPy, OpenCV, SITK, scikit-learn, pandas etc.Experience with TensorFlow, KerasExperience in data visualization with 3rd party libraries (e.g. matplotlib, seaborn)Experience with VCS systems, specifically gitExperience with Linux (commands, bash scripting)Our Offer:Competitive salaryCafeteria package and other benefitsParticipation in international projectsHome office possibilityMultinational company 
+Cégleírás / Organisation / DepartmentOur Client is a leading European airline. Their IT is a strong mature agile organization with over 1.000 internal employees worldwide – but they are starting fresh in Budapest with a new start-up this year.
+Are you looking for a chance to work in truly European spirit with their future technological developments?Together you fly 110 aircraft to 145 destinations, bringing millions of passengers to where they need to be, developing sustainable travel and pushing the boundaries of air travel towards to the future.Elvárások / RequirementsYou love complex problems and enjoy solving them even more. You are not afraid of change. In fact, you want to constantly improve our Client's services. You speak various programming languages, but also enjoy coaching and guiding software engineers. Your will be working in an environment that at this moment also relies on planning & rostering systems or SAP (catering), knowledge on integrating COTS in custom applications and experience with DevOps is a pre.
+Additionally, you have:A college or university degree, preferably in IT or engineering;Good knowledge of the English languageA strong knowledge of different programming languages:Java;TypeScriptPreferred but not necessary, secondary experience in:Front end (Angular);DevOps;More than 7 years of proven experience in software development;Proven leadership experience
+ Amit kínálunk / OfferVery briefly, you will be working on some of their core systems that support our Client's flying crew members. From systems that enable planning and rostering of their crew to ensuring the right catering is placed onboard every flight, the 3 domains within Flight have a very diverse application landscape. Through your work, you will have a direct impact on their crew, their aircrafts, and their customers.
+They offer a very open environment for you to grow and expand your talents, together you will contribute to their goal of becoming the number one data- and technology-driven airline.
+In addition:You will supervise a number of software engineers;You will be the link between your department and the rest of the business;You will be part of the tech management and you will give direction to technical solutions;You will work with different programming toolsKapcsolattartó / InformationA challenging role at a unique European company10% of your work time dedicated to personal development and a personal learning budget10% bonus depending on individual as well as the company performanceGreat flexible benefits such as: nursery, health care, pension, parking, SZEP card, etc.Attractive discounts on airline tickets (after 6 months of service) with Our Client and their partnersA personal budget for sustainable employability 
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Starjobs Magyarország Kft.													
-Budapest
-Nincs meghatározva
- Tesztelés
-Lejárati dátum: 2023-03-24 12:13:50
-Álláshirdetés részletei
-PozícióSenior Data Scientist
-Munkavégzés helye
-Budapest
-MunkaidőNincs meghatározva
-KategóriaTesztelés
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

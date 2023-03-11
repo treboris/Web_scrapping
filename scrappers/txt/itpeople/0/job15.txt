@@ -1,74 +1,34 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Teszteszköz fejlesztő mérnök állás Országos
-Szoftverfejlesztő állások 
-BevezetőMultinacionális partnerünkhöz keresünk tapasztalt teszteszköz fejlesztő kollégát Budapest XXIII. kerületében.FeladatokTeszteszközök specifikálása az adott tesztelési igényeknek megfelelőenMeglévő teszt berendezések és tesztelési technológiák fejlesztése és értékelése az adott tesztelési igények alapjánÚj tesztrendszerek tervezése, dokumentációjának elkészítéseKöltség- és időterv elkészítésének támogatásaTeszt berendezések beüzemelésének támogatásaTesztmérnökök támogatása  Esetleges meghibásodás esetén a hibafeltárás és hibajavítás támogatásaElvárásokMechatronikai, fizikusi, villamosmérnöki, gépészmérnöki végzettségA NI LabVIEW szoftver fejlesztő környezet használatának ismereteAktív középfokú angol nyelvtudásRendszerszemlélet, strukturált gondolkodásmódÖnállóságNemzetközi környezetben való kooperációs készségJuttatásokKiemelkedő bérezés és széles körű juttatási csomag (Cafeteria, 13. havi fizetés, magán egészségbiztosítási csomag, élet- és balesetbiztosítás)Heti 3 nap Home Office lehetőségModern irodai környezetInnovatív termékek, technológiák és megoldásokTámogató és jó hangulatú csapat  
+Python Developer for Engineering Expert állás Budapest
+GIT
+C
+C#
+Python
+Java
+Linux
+IT management állások 
+Cégleírás / Organisation / DepartmentAs an internationally positioned IT team, we support the Client's product development by providing applications and solutions for mechanical and software development and for the management of development data. In this processes, we count more than 6,000 users among our internal customers.
+We operate in a very heterogeneous environment of applications, such as CATIA Mechanical Design, MS Project Server, JIRA, GIT Software Management, Doors NG Requirements Management and our PLM system CIM Database.
+To strengthen our team we are looking for a qualified and motivated IT specialist at our location in Budapest.
+We offer an exciting work environment in a globally operating enterprise with many various opportunities for your own personal professional growth.Elvárások / Requirements
+Successfully completed studies in computer science or a comparable course of study
+Deep knowledge and experience in at least one object-oriented software development language, preferably Python
+Additional knowledge in e.g. C++, C#, Java Script, Linux Shell Programming is welcome but not mandatory·
+Creative and analytical problem solving of issues
+Good English skills (spoken and written).
+Experienced working in an international, virtual team.
+Amit kínálunk / Offer
+Focus is the software technical implementation of requirements demanded by our business partners in the engineering departments, mainly in Python programming language and in the context of our PLM System CIM Database
+Developments of add-ons and interfaces to automate and optimize business processes.
+Configuration of the engineering applications according to the business needs.
+Operation, installation, configuration and incident handling in the environment of engineering applications.
+Monitoring the service quality and ensuring optimal quality and availability of the application environment.
+Communication and close collaboration with our other IT technical teams
+Kapcsolattartó / Information
+Professional development opportunities
+Competitive salary
+Dynamic atmosphere
+Home-office possibility
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Jelentkezés
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-HSA Kft, 													
-Országos
-Nincs meghatározva
- Szoftverfejlesztő
-Lejárati dátum: 2023-03-25 13:37:26
-Álláshirdetés részletei
-PozícióTeszteszköz fejlesztő mérnök
-Munkavégzés helye
-Országos
-MunkaidőNincs meghatározva
-KategóriaSzoftverfejlesztő
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

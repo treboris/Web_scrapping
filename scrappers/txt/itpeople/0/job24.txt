@@ -1,76 +1,13 @@
-ITPeople.hu
- Facebook
-Önéletrajz feltöltés
-Állások
-Álláskereső belépés
-Munkáltató belépés
-Álláshirdetés feladása
-Blog
-Kapcsolat
- itpeople facebook
-itpeople
- Facebook
-Álláshirdetés feladása
-Belépés/Regisztráció
-Munkáltató
-Álláskereső
-Állások
-Projektmunkák
-Önéletrajz feltöltés
 Közösség
 Kapcsolat
-Tesztautomatizáló / szoftvertesztelő állás Budapest
-C
+Senior Angular (BackEnd) Developer állás Budapest
+Angular
+Python
 Java
-Tesztelés állások 
-											Multinacionális partnerünk számára keresünk munkatársat az alábbi munkakörbe:Tesztautomatizáló / szoftvertesztelőMunkavégzés helye: Budapest, III. kerület A jelenlegi helyzetben home office lehetőségeMultinacionális partnerünk számára keresünk munkatársat az alábbi munkakörbe:Tesztautomatizáló / szoftvertesztelőMunkavégzés helye: Budapest, III. kerület A jelenlegi helyzetben home office lehetőséget biztosítunk!Feladatok és munkakörökA cég által gyártott, életet fenntartó orvosi berendezések megismeréseA vonatkozó gyártmányfejlesztési folyamatok és tesztelési technológiák megismerése és alkalmazásaOrvosi berendezések fejlesztési eredményeinek ellenőrzése és teszteléseAutomatizált tesztkörnyezet megismerése és továbbfejlesztéseTesztek végrehajtása és folyamatos karbantartásaTesztdokumentáció elkészítéseSzakmai kompetenciákInformatikus vagy villamosmérnök végzettség, diploma (BSc, MSc, PhD)Minimum 2 év szoftvertesztelésben szerzett tapasztalat (teszteset készítése, manuális és/vagy automatikus futtatása)C / C   / Java programozási nyelvek valamelyikének ismereteC# programozási nyelv ismereteELŐNY:C   programozási nyelv ismereteSzámítógépes hálózatokkal szerzett tapasztalatBeágyazott területen szerzett tapasztalatFejlesztésben szerzett gyakorlatAutomatizált szoftverek fejlesztésében szerzett tapasztalatGherkin nyelv ismereteTest Driven Development / Behaviour Driven Development tapasztalatJenkins / Continuous Integration tapasztalatSzemélyes kompetenciákKommunikációképes angol nyelvtudásPontos, precíz munkavégzésIgény a folyamatos fejlődésreEredményorientált, nyitott gondolkodásCsapatszellemAjánlatunkTagja lehetsz egy fiatalos csapatnak, ahol stabil, hosszú távú munkalehetőség és szakmai fejlődés vár rád. A barátságos légkörben és családias hangulatban folyamatos támogatást kapsz munkatársaidtól.Munkádat rugalmas időben végezheted, rendszeres képzések segítenek a fejlődésben, és versenyképes fizetéssel, valamint béren kívüli juttatásokkal ismerjük el a munkádat.Előnyök és juttatásokLegyél részese egy vállalati kultúrának, amely aktívan támogatja a kollégák, az ügyfelek és a partnerek közötti konstruktív párbeszédet. Dolgozz velünk az emberek életminőségének hosszú távú megóvása és javítása érdekében. Érdekes, változatos feladatokat és kiváló előrelépési lehetőségeket kínálunk kiemelt bérezéssel és kiterjedt juttatási csomaggal, mindezt egy dinamikus családi vállalkozás keretein belül. 
+PostgreSQL
+Golang
+Apache
+Back-end fejlesztő állások 
+											Senior Angular (BackEnd) Developer What you bring to the table:Do you have Outstanding Development skills, can you design & write clean code, troubleshoot & solve problems (in Java, Python or Golang)tSenior Angular (BackEnd) Developer What you bring to the table:Do you have Outstanding Development skills, can you design & write clean code, troubleshoot & solve problems (in Java, Python or Golang)then come and help us ·       Build cloud native applications (running on Kubernetes environment)·       Create new features; revise, update, refactor existing code ·       Design APIs, events and event schemas·       Think using reactive programming patterns·       Use Event-streaming & event-sourcing (using Apache Pulsar).·       Implement Microservices or Functions as a Service·       Save data in a graph database (neo4j) or relational database (PostgreSQL)·       get everything automated: integration, tests, deployment, use declarative gitops (with argocd)·       Participate in requirements analysis; assist POs in defining requirements and explain the capabilities and limitations of various systems ·       Define Software architectures for upcoming business requirements ·       Support the architects to define the software and solution architecture·       everything in an international agile environment - Work closely together with business analysts, frontend developer, testers and DevOps Soft Skills:·       Pro-active attitude and team orientation·       Excellent communication skill·       Structured working approach and problem solving skills·       Very good command of English (mandatory), German is a plus·       Multi culture sensibility 
 Jelentkezésnél hivatkozzon az Itpeople-re!
 Vissza
-Tovább a hirdetőhöz
-Share
-Please enable JavaScript to view the comments powered by Disqus.
-Starjobs Magyarország Kft.													
-Budapest
-Nincs meghatározva
- Tesztelés
-Lejárati dátum: 2023-03-24 12:13:50
-Álláshirdetés részletei
-PozícióTesztautomatizáló / szoftvertesztelő
-Munkavégzés helye
-Budapest
-MunkaidőNincs meghatározva
-KategóriaTesztelés
-Hasznos linkek
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-IT Állások iparág szerint
-Adatbázis szakértő, Analyst állások
-Back-end fejlesztő állások
-Front-end fejlesztő állások
-Full-stack fejlesztő állások
-Design és grafika állások
-IT management állások
-IT / Dev architect  állások
-Rendszer / Hálózat, DevOps állások
-SAP állások
-Szoftverfejlesztő állások
-Tesztelés állások
-Egyéb IT pozik állások
-Mérnöki / Ipari programozás állások
-IT Support állások
-Mobil fejlesztő állások
-Gyakornok állások
-ITPeople.hu
-Kezdőlap
-Állások
-Önéletrajz feltöltés
-Álláshirdetés feladás
-Adatkezelési tájékoztató
-Kapcsolat
-Oldaltérkép
-ITPeople állások

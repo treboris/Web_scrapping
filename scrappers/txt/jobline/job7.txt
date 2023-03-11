@@ -8,95 +8,52 @@ Szakmunka
 Álláshirdetés-feladás
  Regisztráció ›
  Belépés ›
-Szoftver Fejlesztő (Budapest)
-Szoftver Fejlesztő (Budapest)
-Jelentkezem az állásra ›
-R-Szoft Kft.
+SAP IT Specialista (Veszprém megye)
+SAP IT Specialista (Veszprém megye)
+A hirdetés már lejárt!
+HumanField Kft.
 Alapvető elvárások
 IT, telekommunikáció
-1 - 2 év tapasztalat
 3 - 5 év tapasztalat
 beosztott
 Felsőfokú végzettség
 teljes munkaidő
-Szoftver Fejlesztő - R-Szoft Kft.
-Rólunk:
-Nagyvállalati ügyfeleknek fejlesztünk digitális megoldásokat agilis csapatokban. Hisszük, hogy csak az ügyfeleinkkel együtt tudunk mi is sikeresek lenni.
-A mindennapok során a legfontosabbak a kollégáink, miközben mindannyian az ügyfeleinkre figyelünk. (https://r-szoft.hu).
-Kis létszámú családias hangulat, rugalmas hozzállás!
-Keressük tapasztalt kollégánkat Java illetve Fullstack Szoftver Fejlesztő pozícióra.
-Jelentkezz hozzánk ha érdekel a kódolás, szeretsz önállóan (is) dolgozni, tudod mi az, hogy clean code és architecture, csapatban tudsz a többiekre is figyelni, valamint nem veted meg a tesztelést sem.
-Napi feladatok:
-Fejlesztés
-Egyezettések
-Tesztelés és hibajavítás
-Elvárt végzettség:
-Főiskola/Egyetem
-Jó ha rendelkezel a következő ismeretekkel, illetve minél többel az alábbiakból:
-Clean code ismeretek
-Frontend vagy Backend fejlesztési tapasztalattal a következőkben:
-HTML és CSS gyakorlati ismerete haladó szinten (SCSS előny)
-Reszponzív sitebuild ismeretek
-Böngésző specifikus kódolási ismeretek
-Legalább egy modern javascript framework magas szintű ismerete: React és/vagy Angular Java 8-17, Spring Framework (Boot, Security),
-REST, SOAP
-Microservices
-Ugyancsak szeretjük, ha nyitott vagy új technológiákra, illetve szeretsz tanulni:
-AWS
-CI/CD megoldások
-DevOps ismeretek
-Cloud rendszer komponenseivel gyakorlati tapasztalat (AWS, Azure)
-Jira felhasználói ismeretek
-Konténerizáció
-Amit kínálunk:
-agilis munkavégzés, transzparencia, virtuális eszközök
-nagyvállalati projektek, szakmai kihivások
-távoli munkavégzés, időszakosan részmunkaidős opciók
-jó társaság és finom kávé (ha be kell jönnöd :))
-Irodán belüli juttatások:
-Free coffee
-Bike parking
-Shower
-Free parking
-In-house trainings
-Startup atmosphere
-Canteen
-Free snacks
-No dress code
-Extrák:
-Flat structure
-Nagyvállalati projektek
-Nemzetközi projektek
-Trainings
-Felvételi információk:
-Online állásinterjú
-Toborzás nyelvei: Hungarian
-Azonnali kezdés
-Határozatlan idejű szerződés
-Fizetett szabadság: Munkaszerződés
-Nem részmunkaidős állás
-Távmunka akár heti 4 nap
-Rugalmas munkaidő
-Nem jár utazással
-Főleg új funkciók fejlesztése
-Jó közlekedés
-Parkolási lehetőség
-Jelentkezem az állásra ›
+angol - középfokú
+Innovatív, stabil hátterű nemzetközi gyártópartnerünk részére keresünk munkatársat
+SAP IT Specialista
+(16-2075)
+pozícióba.
+Feladatok
+SAP üzleti alkalmazásának IT oldalról történő támogatása;
+EDI, SAP SD és SAP MM projektek koordinálása nemzetközi együttműködés keretében;
+Irányadó folyamatok üzemeltetése, fejlesztése;
+IT támogatás biztosítása a felhasználók számára;
+A felhasználók edukálása tréningek keretében.
+Elvárások
+Felsőfokú végzettség (az IT szakirányú diploma előnyt jelent);
+SAP rendszer üzemeltetése terén szerzett néhány éves tapasztalat;
+EDI / SAP MM / SAP SD ismeretek;
+Aktív, jó angol nyelvtudás.
+Amit kínálunk
+Kiemelkedő fizetés és juttatási csomag;
+Nemzetközi, válsághelyzet esetén is stabil háttér;
+Szakmai kihívások, izgalmas projektek mentén fejlődési lehetőség.
+Munkavégzés helye
+Veszprém megye
+Jelentkezés módja
+Ha ajánlatunk felkeltette érdeklődését, kérjük, küldje el magyar és angol nyelvű önéletrajzát.
 Neked ajánlott állások
 Neked ajánlott állások
-Deutsche Telekom IT Solutions -
-GCP (Google Cloud Platform) Consultant - REF142Z
-Deutsche Telekom IT Solutions -
-COGNOS expert (REF1469X)
-HVG Kiadó Zrt. -
-.Net fejlesztő
-Deutsche Telekom IT Solutions -
-Experienced IT Architect for Software Engineering (REF1435M)
-NEMATECH Kft. -
-PHP Developer
-Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
-Ne maradj le egy jó állásról!
-Kérem! ›
+EasyHiring Services Kft. -
+Test Manager
+Hays Hungary Kft. -
+SAP Expert in Intralogistics
+Hire-One Személyzeti Tanácsadó Kft. -
+SAP Business Analyst
+Hays Hungary Kft. -
+SAP Key user MM/PP
+EasyHiring Services Kft. -
+SAP ABAP Developer - Specialist
 Állásajánlatok - legnépszerűbb városok
 Budapest
 Debrecen
@@ -104,10 +61,10 @@ Pécs
 Szeged
 Veszprém
 Győr
-Kecskemét
-Tiszaújváros
 Miskolc
+Kecskemét
 Székesfehérvár
+Tatabánya
 © 2000 - 2023 Jobline | HVG Kiadó Zrt. 
 Termékeink
 Impresszum
