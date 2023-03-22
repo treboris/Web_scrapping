@@ -1,0 +1,31 @@
+ Belépés ›
+Frontend Engineer (Budapest)
+Frontend Engineer (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Frontend Engineer
+About our partner:
+Our company helps power the modern connected world with security made for people. We protect digital content, applications, and devices with intuitive, people-centered and frictionless security. We are looking for a Front-End Engineer who cares deeply about building high quality products and is passionate about software development. You’ll be focused on building UI components and applications to help teams ship code fast and with quality. Come join a collaborative team that’s committed to innovation and loves to solve problems with code.
+Tasks:
+Create and maintain clean, reusable code using React.js and Redux
+Collaborate with multiple teams, product owners, and UX designers to develop reusable components that can be leveraged across all our client's software platforms. 
+esign, develop, deploy and support world-class, enterprise-level products
+Requirements: 
+At least 5 years of commercial (read: daily, hands-on-the-code on platforms with thousands of users) experience developing in React.js
+Experience building single-page applications (SPA's) in JavaScript React/TypeScript.
+Javascript ES6, HTML 5 and CSS
+Evaluate stability, compatibility, scalability, interoperability, and performance of the software product
+Responsive design
+Jest, Enzyme and React testing library – or any other testing framework. An understanding of backend architecture principles and RESTful design.
+The ability to be successful in a Test-Driven Development (TDD) and Agile environments.
+Munkavégzés helye
+Budapest, Pest
+Jelentkezem az állásra ›
+Neked ajánlott állások

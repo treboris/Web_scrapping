@@ -1,0 +1,140 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Budapest
+Következő 
+Senior Linux rendszermérnök
+Profession Services
+Budapest
+ Elvárt technológiák
+LINUX
+BASH
+JAVA
+PHP
+APACHE
+JAVASCRIPT
+ACTIVE DIRECTORY
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Nem igényel nyelvtudást
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Szakmai tréningek
+ Elvárt technológiák
+LINUX
+BASH
+JAVA
+PHP
+APACHE
+JAVASCRIPT
+ACTIVE DIRECTORY
+Több mint 15 éve sikeresen a magyar IT piacon tevékenykedő partnercégünk budapesti nagyvállalati ügyfelének a rendszermérnöki támogatásához keresünk vállalati Linux rendszerekben jártas rendszerüzemeltető és támogató új kollégájukat.
+Csatlakozz hozzájuk, mint
+Senior Linux rendszermérnök!
+Feladatok:
+Nagyvállalati ügyfelek informatikai rendszerének rendszermérnöki támogatása
+Amit kínálunk:
+A piacon versenyképes, fix jövedelemSzakmai fejlődési lehetőség: szakmai tréningeken való részvétel biztosítása, gyártói vizsgák megszerzésének támogatásaKönnyen megközelíthető, színvonalas, kulturált munkakörnyezet
+Feladatok elvégzéséhez szükséges elvárások:
+Linux alapú monitorozó és felügyeleti rendszerek üzemeltetése, üzemeltetés támogatásában tapasztalatFolyamat automatizációk kialakítása szkripteléssel (pl.: bash vagy perl nyelvben)Forráskódból csomag készítése, buildelése (rpmbuild, stb.)Java servletek (war fájl) ismerete és futtatásuk (Tomcat, Wildfly)Webszer platformok ismerete és a terheléselosztás konfigurálásaPHP és PHP-FPM használatában tapasztalatApache Guacamole ismerete és a kliens oldali Javascript hibakeresés képességeHálózati kapcsolatok elemzése, protokollok ismerete (HTTP, WebSocket) LinOTP ismereteLDAP (slapd és Microsoft Active Directory) címtárak ismerete, Radius (FreeRADIUS) ismerete
+Előnyök:
+Felsőfokú végzettség, szakmai vizsgák és minősítésekNagyvállalati környezetben szerzett tapasztalatKözépfokú angol nyelvismeret
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Nem igényel nyelvtudást
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Szakmai tréningek
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+profession.hu Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Világháló-portál szolgáltatás
+100-250 munkavállaló
+2014
+1123
+Budapest,
+Nagyenyed utca 8-14. 4. em.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Senior Linux rendszermérnök!
+Profession Services
+Budapest
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

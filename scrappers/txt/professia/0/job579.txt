@@ -1,0 +1,27 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceEmbedded C/C++ Developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Voľné pracovné pozície
+Profil firmy
+Prečo Scheidt & Bachmann 
+Kde nás nájdete
+Embedded C/C++ Developer
+Place of work: Žilina
+Salary: 2 000 EUR/month
+Medior from 2 000 €; Senior from 2 300 €. 
+Final salary depends on candidate´s professional experience.
+Company profile
+                    Scheidt & Bachmann, Mönchengladbach was founded in 1872 and today presents itself as an innovative company with a long tradition. In a total of four largely separate divisions, systems for parking and leisure centres, systems for railway signalling technology, fare collection systems, and systems for petrol stations are developed, produced and distributed. Scheidt & Bachmann Slovakia s.r.o. was established in 1995 at the initiative of Scheidt & Bachmann.  A successful cooperation with the University of Žilina also made a significant contribution to the establishment.
+Parking Solutions
+offers customers system solutions for parking management and supports them in both domestic and foreign market.
+We offer Perspective work in a stable company with adequate financial assessment and opportunities for personal development (soft skills and technical training, language courses). Attractive financial team bonus paid once a year based on team performance. Referral financial bonus paid for referring someone to our open job position. Rich social program for employees (several social events and team buildings, sport and culture possibilities). Free snacks for the whole day (free coffee/tea drinks, vending machines with various delicacies). Flexible working time, additional vacation, "bridgedays". Possibility of Homeoffice. Work in international and multicultural teams (divisions in 23 countries). Possibility of international business trips or staying abroad for certain period of time.
+Your responsibilities Conception and development of device software for the new parking management generation. Creation of automated tests to ensure the quality of the products. Collaboration with Product Owner, testers and developers in an agile working environment.
+Your profile Completed degree in computer science or comparable education. Good programming skills in C/C++. Knowledge of development tools such as CMake, Git, Jenkins, Artifactory, Jira and Confluence. Knowledge of REST- and Messaging-based interfaces. Knowledge of QT Framework is an advantage. Knowledge of Debian Linux is an advantage. Knowledge of AWS and AWS IoT Core is an advantage. Understanding of complex technical issues. Analytical thinking. Ability to work in a team. Ability to communicate and cooperate. Knowledge of spoken and written English.
+ID: 4513269 
+     Dátum zverejnenia:  3.2.2023 
+    2023-02-03
+lokalita: Žilina   Pozícia: C++ Programmer, Software Engineer   Spoločnosť: Scheidt & Bachmann Slovensko s.r.o.   
+Základná zložka mzdy (brutto): 2 000 EUR/month
+                Všetky ponuky

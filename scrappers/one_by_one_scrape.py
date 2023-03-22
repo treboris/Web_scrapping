@@ -8,8 +8,9 @@ import os
 
 def size(csv):
     data = pd.read_csv(f'data/{csv}')
-    return len(data.index)
+    return (data['ID'].size) -1
 
+print(size('professia1.csv'))
 
 def file_write(name,href,id,initial):
 
@@ -45,7 +46,7 @@ def file_write(name,href,id,initial):
 
     cond = False
     text = ''
-    
+
     #SOUP KELL????!!!
     #with open(f'txt/{name}/{initial}/soup/soup{id}.html','w') as f_soup:
     #    f_soup.write(conn(href).prettify())
@@ -53,6 +54,7 @@ def file_write(name,href,id,initial):
         f.write(conn(href).text)
     with open(f"txt/{name}/{initial}/temp.txt" , "r") as f:
 
+#DATA CLEANING
 
         if (name == 'jobline'):
             for line in f:
@@ -71,8 +73,14 @@ def file_write(name,href,id,initial):
                         cond = True
                     if (cond):
                         text += line
-                    if ('Vissza' in line):
+                    if ('Hasznos linkek' in line):
                         break
+
+        elif (name == 'profession'):
+            for line in f:
+                if(line.strip()):
+                    text += line
+
 
         elif(name == 'cvonline'):
             for line in f:
@@ -84,9 +92,34 @@ def file_write(name,href,id,initial):
                     if ('Jelentkezem' in line):
                         break
 
+        elif(name == 'professia'):
+            for line in f:
+                if(line.strip()):
+                    if ('                    Prihlásiť' in line):
+                        cond = True
+                    if (cond):
+                        text += line
+                    if ('                Všetky ponuky' in line):
+                        break
+
+        elif (name == 'kariera'):
+            for line in f:
+                if(line.strip()):
+                    if ('				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.' in line):
+                        cond = True
+                    if (cond):
+                        text += line
+                    if ('Späť na pracovné ponuky' in line):
+                        break
+
 
 
     with open(f"txt/{name}/{initial}/job{id}.txt" , "w") as f:
-        f.write(text)
+        try:
+            f.write(text)
+        except (AttributeError):
+            print('AttributeError')
+            pass
+
 
     os.remove(f"txt/{name}/{initial}/temp.txt")

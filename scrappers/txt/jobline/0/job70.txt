@@ -1,0 +1,43 @@
+ Belépés ›
+Lead Designer in Test & Operations automation (REF1534Q) (Budapest)
+Lead Designer in Test & Operations automation (REF1534Q) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Would you like to join to a team, where you can contribute with your experiences to an end to end procedure in testing, automation and operations activities of innovative network technologies? This is your turn now! Come and join us and be the part of an exciting journey towards Magenta world! Join our international company and help us to create value for one of the biggest and most important projects in Deutsche Telekom Group. Being part of our team, you will have an impact on our 30 million Customers, who will use our products and services.
+Lead Designer in Test & Operations automation (REF1534Q)
+Tasks
+In EMS Team of DTT we are continuing, expanding, and developing the first automation steps and adapting them in order to increase quality in validation, rollout and operation.
+Collecting and understanding the client needs and translate them into technical language
+Develop strategy, architecture, concept and design of automation (operations, tests of EMS of one of major network vendors + reusable for others)
+Organize, structure, plan and prioritize their implementation steps
+Create sustainable, maintainable and modular solution
+The implementation and development should be actively accompanied, and these should also be used in parts, e.g. in the active participation in the test environment
+Supplementation, expansion and automation of existing processes / mechanisms not automated by the manufacturer
+Goals:
+Increase quality in validation, rollout and operation
+Shorten lead times
+Improve software quality through higher test coverage
+Increase transparency
+Create reusable solution
+Requirements
+Ability to develop sustainable and well maintainable design approaches and criteria
+Security-by-design - very strong awareness of data protection and security in general and, in particular, in the automation environment
+Frameworks: Postman, Ansible, ReadyAPI, Behave, VS Code, etc
+Programming languages YAML, Python, Gherkin, json, bash, etc.
+Jira, Git
+Linux
+English and German knowledge communication level
+Strong communication skills with a distributed team (in Germany) using various technical means, but also willingness to communicate personally with team members
+Good to have:
+Experience as “fixed access” network engineer, to have clear understanding of the subject area
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások

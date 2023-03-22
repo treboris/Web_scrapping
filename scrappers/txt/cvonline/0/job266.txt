@@ -1,0 +1,29 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Alkalmazás üzemeltető
+Feladatok:
+Kártya rendszerek UAT környezetében üzemeltetési feladatok ellátása
+Verzióváltások végrehajtása
+Incidensek és problémák kezelése, hiba okok feltárása
+Scriptek készítése
+Mentési dokumentációk készítése, naprakészen tartása
+Üzemeltetési folyamatok megújítása, automatizálás, monitoring tovább fejlesztése
+Aktív részvétel az üzemeltetett rendszereket érintő fejlesztési projektekben
+Kapcsolattartás a társosztályokkal, a külföldi- és hazai beszállítókkal
+Követelmények:
+Főiskolai vagy egyetemi informatikai végzettség, vagy szakirányú képesítés
+Windows, Linux, Unix rendszer üzemeltetői ismeretek
+Tárgyalóképes szintű angol nyelvtudás
+Folyamat és szolgáltatás orientált szemlélet
+Jó problémamegoldó- és kommunikációs készség
+Megbízhatóság, önállóság, pontos, precíz munkavégzés
+Amit előnynek tartunk:
+Kártya termékek/folyamatok ismerete
+Haladó Linux, JAVA ismeretek
+MsSQL vagy Oracle alapismeretek
+Hálózati ismeretek
+PCI szabványok ismerete
+ITIL ismeretek
+Releváns, banki környezetben szerzett szakmai tapasztalat
+Pályakezdők jelentkezését is várjuk!
+Alkalmazás üzemeltető 
+Jelentkezem

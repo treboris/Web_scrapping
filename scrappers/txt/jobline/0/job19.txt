@@ -1,58 +1,42 @@
  Belépés ›
-Service Chain Operations Manager (REF1549H) (Budapest)
-Service Chain Operations Manager (REF1549H) (Budapest)
+Full Stack Software Engineer (Magyarország)
+Full Stack Software Engineer (Magyarország)
 Jelentkezem az állásra ›
-Deutsche Telekom IT Solutions
+Boschung Mecatronic 
 Alapvető elvárások
-SSC (Shared Service Center)
 IT, telekommunikáció
-1 - 2 év tapasztalat
-középvezető
+3 - 5 év tapasztalat
+beosztott
 Felsőfokú végzettség
 teljes munkaidő
-távmunka, home office
 angol - felsőfokú
-német - felsőfokú
-The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
-Service Chain Operations Manager (REF1549H)
-Tasks:
-Responsible for service chains of a specific business service / product cross various organizational units.
-Responsible for KPIs and SLAs / OLAs of the contracted services.
-Accountable for technical content of operational / specialized technical concepts. 
-Ensure the quality of provided services and provides operational support.
-Coordinate, manage and monitor operational performance.
-Identify, formulate and implement the improvement of processes and policies to maximize operational output.
-Steer the respective Operation Managers.
-Operational interface between the production, the service delivery management (SDM) and other delivery units for the ordered delivery elements. 
-Explanation of production options for SDM. 
-Accountable for the default reporting ordered by the SDM.
-Monitor, manage and improve the efficiency of provided services.
-Single point of contact towards the internal customer.
-Requirements:
-English and/or German language knowledge (C1 level)
-Proactive problem solving ability
-At least 1 year of Operation Manager experience
-Good knowledge of IT services, architectures and IT Service Management
-Experience in optimizing operational processes
-Team-management experience
-ITIL Foundation certificate, and/or equivalent work experience
-Project management experience
-Advantage
-Service Delivery Manager experience
-Experience with Cloud operation and technologies
-German language knowledge
-Personality
-Strong interpersonal skills
-Structural problem-solving abilities
-Analytical skills and the ability to interpret
-Proactive approach
-Ability to work in team
-Willingness to change, flexibility
-Stress resistant
-Customer, value, result and performance orientation
-Experienced
-* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
-Munkavégzés helye
-Budapest, Debrecen, Pécs, Szeged
+The Boschung Group is a world leader in the development and production of solutions for the efficiency and safety of traffic surfaces for the world’s largest airports, busiest highways and most visited cities and municipalities across the globe. 
+In our Boschung Technology Center, headquarter of the group based in Payerne, Switzerland and our numerous other locations around the world, everything we accomplish is a result of the strong partnership we have with the people in our team. Looking to strengthen the R&D’s team right away or by agreement, BOSCHUNG MECATRONIC is recruiting an:
+Full Stack Software Engineer 100%
+(Remote work & periodic on-site visits. English required; Workplace in Hungary)
+Your tasks
+Conception and development of API-based solutions and microservices using frameworks like Spring or SpringBoot
+Development and maintenance of frontend applications using frameworks like React, Vue or Angular
+Contribution to develop, implement and maintain workflows as CI/CD pipelines in collaboration with other teams.
+Conception, development of new features and maintenance of legacy products
+Active participation on code reviews and bug fix activities
+Your profile 
+You have a Bachelor’s degree in Software Engineering, Computer Science or related field and 4+ years of professional experience
+Solid foundations of the JAVA 8+ ecosystem and Spring/Spring Boot framework
+Experience in relational (PostgreSQL, MySQL) and non-relational (Cassandra) database design
+You are interested in Kubernetes, Docker, RabbitMQ and MQTT technologies and ideally you already have expertise in these areas
+Familiar with Mobile Apps development is an asset
+Fluent in English, German or French is an asset
+Knowledge of Agile methodologies is an asset
+You are motivated, goal-oriented and pro-active team player which is comfortable with remote cross-team collaboration and communication
+Willing to attend PI planning sessions in the headquarters every two month
+What we have to offer:
+You will be able to carry out a variety of activities in a modern infrastructure and a prosperous business
+You will be part of our initiative to expand our Digital Services!
+You will be familiarised with your new task with the support of a talented and motivated team, working with the latest technologies!
+We offer attractive terms and conditions and will be happy to support you in your professional development
+Contact us!
+Are you interested in working for Boschung Mecatronic SA? If so, we look forward to receiving your complete application documents (CV in English) and guarantee the utmost discretion when processing your application.
+Boschung Management AG, Human Resources, Aéropôle 108, 1530 Payerne, Switzerland
 Jelentkezem az állásra ›
 Neked ajánlott állások

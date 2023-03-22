@@ -1,0 +1,29 @@
+ÁLLÁSHIRDETÉS FELADÁS
+HARDVERFEJLESZTŐ VILLAMOSMÉRNÖK GYAKORNOK (BC CSAP) 
+EZEK LESZNEK A FELADATAID
+BLDC motor vezérlésének fejlesztése
+NYÁK tervezés, gyártás előkészítés
+ZigBee alapú kommunikáció implementálása STM32F mikrokontrolleren
+ZigBee – Ethernet gateway alapú hálózat tervezése
+FreeRTOS alapú beágyazott rendszer fejlesztése
+A fejlesztéshez, vagy teszteléshez szükséges egyedi hardvereszközök megtervezése, előállítása
+Kontroll interfészek létrehozása LabViewban
+Szoros együttműködés a hardverfejlesztőkkel
+Az elvégzett munka alapos dokumentálása
+AMIK SZÜKSÉGESEK A FELADATAID ELLÁTÁSÁHOZ
+Aktív felsőfokú tanulmányok villamosmérnöki vagy mechatronikai mérnök területen
+Alapvető áramköri és alkatrész ismeretek
+Microsoft Office alkalmazások ismerete
+Heti minimum 20 óra munkavégzés
+Altium vagy Eagle tervezőszoftverek ismerete
+C/C++ rutinos ismerete
+Alapszintű Labview ismeretek
+Hosszú távú jelenlét
+Angol nyelvtudás
+Önálló munkavégzésre való képesség
+MÉG NAGYOBB ESÉLYED VAN, HA
+Van forrasztási gyakorlatod THT és SMD alkatrészekkel
+FreeRTOS ismeretekkel rendelkezel
+Tapasztalatot szereztél hardverfejlesztési folyamatokban
+Releváns tanszéki/tudományos munkában vettél részt
+Jelentkezem

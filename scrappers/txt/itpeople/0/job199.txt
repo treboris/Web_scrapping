@@ -1,0 +1,23 @@
+Közösség
+Kapcsolat
+Senior DevOps Engineer állás Budapest
+AWS
+Rendszer / Hálózat, DevOps állások 
+Cégleírás / Organisation / DepartmentAegon Global Technology Services (GTS) provides IT infrastructure and application support services to the Aegon businesses. GTS is responsible for the provision, support and ongoing maintenance of IT operating platforms, applications and services. There is also a strong connection with external providers necessitating vendor and service provider management. GTS is responsible for driving the technology strategy and providing IT infrastructure solutions that are in alignment with business objectives and the GTS technology strategy.Elvárások / RequirementsWhat You Will Need:Qualifications;Four-year Computer Science or related degree, or equivalent work experience;3 or more years of experience including 2 years of experience in supporting enterprise-level platform installations;3 years of experience working with cloud providers (Azure/ AWS, etc..);At least 2 years of experience with Agile development and planning methodologies;2-3 years of experience working in a high performing DevOps team or role;2-3 years of experience in performance monitoring, alerting and troubleshooting in an enterprise;Strong, holistic understanding of the internet and hosting from the network layer up through the application layerPreferred:Experience working in roles with a strong focus on security, including automated alerting and response;Demonstrate a strong understanding of API’s and API Security;Demonstrated ability in automated code testing;Certifications in relevant technologies, methods, or platforms;Demonstrate the key critical behaviors of commitment to task, communication, customer focus, decision;Making/problem solving, tolerance of ambiguity, planning, prioritizing, and goal settingAmit kínálunk / OfferWhat You Will Do:Develop, Deploy and Support Cloud Infrastructure, as code artifacts or modules;Design, Build and Maintain Cloud infrastructure and applications;Support and deliver using Continuous Integration/Continuous Delivery pipelines;Design and Support resiliency and scalability using AWS and other cloud platforms;Enable systems with automated monitoring and alerting;Support the Team and Customers with day-to-day requests, Change and Incident tickets;Support Technology stack refresh on Systems (end-to-end) when required;Ensure automated security is built into each technology stackKapcsolattartó / InformationVery good development opportunities in a global company;Workplace in a pleasant atmosphere with motivated and team-oriented colleagues;Diverse and interesting tasks and projects;Competitive salary 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary Kft													
+Budapest
+Nincs meghatározva
+ Rendszer / Hálózat, DevOps
+Lejárati dátum: 2023-04-04 11:20:00
+Álláshirdetés részletei
+PozícióSenior DevOps Engineer
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaRendszer / Hálózat, DevOps
+Hasznos linkek

@@ -1,0 +1,171 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Következő 
+Junior Software Developer
+Huawei Technologies Hungary Kft.
+Budapest
+ Elvárt technológiák
+SECURITY
+PYTHON
+JAVASCRIPT
+HTML
+SQL
+DATABASE
+LINUX
+NODEJS
+REACT
+FRONTEND
+BACKEND
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+Nem igényel tapasztalatot
+Főiskola
+Juttatások
+Cafeteria
+Munkába járás támogatás
+Egészségbiztosítás
+ Elvárt technológiák
+SECURITY
+PYTHON
+JAVASCRIPT
+HTML
+SQL
+DATABASE
+LINUX
+NODEJS
+REACT
+FRONTEND
+BACKEND
+Junior Software Developer
+Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices. With integrated solutions across four key domains – telecom networks, IT, smart devices, and cloud services – we are committed to bringing digital to every person, home and organization for a fully connected, intelligent world.
+At Huawei, innovation focuses on customer needs. We invest heavily in basic research, concentrating on technological breakthroughs that drive the world forward. We have more than 180,000 employees, and we operate in more than 170 countries and regions.
+Huawei's end-to-end portfolio of products, solutions and services are both competitive and secure. Through open collaboration with ecosystem partners, we create lasting value for our customers, working to empower people, enrich home life, and inspire innovation in organizations of all shapes and sizes.
+We are diverse, and we embrace it. With us you have the opportunity to work in a dynamic, multinational environment with more than 150 nationalities worldwide. We seek and reward talent. At Huawei, if you are driven and show results, your efforts will be rewarded.
+"Bring Digital to Every Person, Home and Organization for a Fully Connected, Intelligent World" Welcome all talents to join us, to achieve this great vision!
+Let us unlock our potential with passion, add value with wisdom, and unlock the future digital world together!
+Responsibilities:
+Gather requirements, develop, test, and deploy scripts/programs/tools for different internal customers;Perform periodic system administration tasks, including upgrades, Patch & Security patch management and maintain regulatory controls;Ensure optimal performance of all systems running within the virtual environment through proactive tuning and preventive maintenance;Perform daily systems checks and correct any issues, fix bugs;Monitor systems performance and recommend adjustments to ensure optimum performance and response time;Prepare/compile agreed periodic activity and performance reports;Maintain security and data integrity;Implement and support audit and compliance regulations as per requirements;Prepare or update tools documentation and user guides as needed diagrams and SOPs as needed;Communication with customer;
+Professional experience and skills required:
+Understanding one of the following programming languages: Python, JavaScript, HTML, SQLUnderstanding how to process data in files or database by pythonHave the knowledge to handle command in Linux machine, execute basic SQL commands.Good knowledge of common software such as GitLab (Code hub), PyCharm/VSCode editorsYou will have high priority if you can meet one of the following conditions:Understanding one of the structures is better: Django, NodeJS, react, FlaskUnderstanding how to develop a web UI page, include the frontend, backend and integration
+Education and key qualifications:
+Graduated or student in Telecommunications or Computer Science;Excellent knowledge of English language (both written and spoken) is mandatory;Availability for occasional short travel periods, for customer meetings (in the future, when the international context makes it safe);
+Other knowledge and skills:
+Ability to interact with customers and internal partners and provide technical solutions;Ability to work under pressure in a fast pace environment;Ability to work in a team and independent;Flexibility and adaptability;Analytical technical thinking;Communicative person, fast learner, growth attitude;Open to learn new technologies and tools;
+What we offer
+A professional career in one of the leading multinational telecommunication companyChallenging work and competitive salary package.Referral bonus, You are a model future employee for us, so if you have colleagues, friends with similar profile like yours, please send us as referral and you will be remunerated with referral bonus.12.000 HUF meal allowance (szép card)Medical assurance at MedicoverMonthly Budapest transportation season ticket, which costs 10.500 HUF/month, or you can choose the 9 HUF/ km transportation allowance if you use car.Annual bonus according with the performance of each employee.Travel outside Hungary as per position/project requires – business trip allowance, transportation and accommodation will be cover by the company accordingly local legislationOvertime in case of needed – paid extraAnnual leave days –The base annual leave quota is 20 days, but accordingly local legislation you can have extra annual quotas because of the ages and if somebody has children.
+Sector(s):
+IT Development
+Programmer, Developer
+IT Operation, Telecommunication
+Telecommunication
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+Nem igényel tapasztalatot
+Főiskola
+Juttatások
+Cafeteria
+Munkába járás támogatás
+Egészségbiztosítás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Huawei Technologies Hungary Híradástechnikai Korlátolt Felelősségű Társaság
+Kereskedelem
+●
+Elektronikus, híradás-technikai berendezés és alkatrészei nagykereskedelme
+100-250 munkavállaló
+2005
+1133
+Budapest,
+Váci út 116-118. 1. ép. 6. em.
+Értékelések a(z) Huawei Technologies Hungary Kft. cégről
+Értékelések kategória szerint 
+3,6
+Kollégák és céges hangulat 
+4,2
+Megközelíthetőség 
+3,6
+Munkakörnyezet 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Junior Software Developer
+Huawei Technologies Hungary Kft.
+Budapest
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

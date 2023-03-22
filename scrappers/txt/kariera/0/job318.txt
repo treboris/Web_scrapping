@@ -1,0 +1,73 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+Test Automation SpecialistIBM12.03.2023Job informationPlace of work
+Bratislava
+Bratislava, SlovakiaPosition / industry
+Information Technologies - Software; IT testerJob description, information about job
+As a Test Specialist at IBM, your analytical and technical skills will directly impact the quality of the software we create. Come work in an agile environment where you will help each iteration reach the next level. Whether the testing is manual, automated, or cognitive, you hold a key role in releasing the best deliverables to IBM’ers and our clients.
+Your Role and Responsibilities: 
+• Automation Tester with scripting languages knowledge who will be working on
+new development and maintenance of already existing applications
+• Automation Tester writing tests using various software-testing frameworks (e.g.
+Cucumber, Selenium)
+Our team is a balanced mixture of younger and experienced IT Specialists with a
+national and international background. Senior team members are prepared to share
+their knowledge and experience with you, and to teach you how you can work and
+think from a pragmatic and result-oriented view. The ideal candidate must display
+good written and oral skills with demonstrated interpersonal and organization
+abilities and must be able to work in a varied, fast paced environment.
+You can work from Bratislava, Kosice or Banska Bystrica
+What would be your responsibilities?
+The individual will be responsible for implementing and maintaining automation test
+scripts of software components and interfaces. Have a broad understanding of
+various coding methodologies, testing frameworks, tools and know when to apply
+each method to achieve the desired outcomes.
+Required skills:
+ Multiple years of testing automation experience (hands-on)
+ Ability to create test scenarios
+ Basic knowledge of Java programming language for test script creation in
+Selenium WebDriver
+ Performance testing experience and tool knowledge (e.g. JMeter)
+ Self-motivated, detail oriented and organized, team player
+ Good communication , organizational, and presentation skills
+Frameworks / Tools / Programming languages:
+ JUnit, Jest, Cypress, Cucumber/ Gherkin, JMeter, SoapUI
+ NodeJS or Java experience (not required to be proficient)
+ TypeScript and JavaScript
+Nice to have skills:
+ Basic understanding of DevOps concepts
+ Basic knowledge of AWS or Red hat OpenShift
+ Basic knowledge of Containers, Kubernetes
+ Jira / XRay
+ German languageOffered salary
+2500 EUR
+Benefits and other advantages
+What benefits do we offer?
+• Salary starting from 2500 - 3000 EUR gross, depending on relevant experience and language proficiency
+• Stable job in a reputable and well-performing company
+• Almost endless learning & growth opportunities (classroom based trainings and 5000 e-learning courses)
+• Performance and salary evaluation on regular basis
+• Subsidized meal-tickets
+• Flexible working time and home office with option to borrow assets (monitor, chair)
+• Three additional vacation days
+• Up to three self-recovery days
+• 100% sick leave compensation
+• Life insurance and supplementary pension savings program
+• Private medical sanatorium
+• Long term career development and possibility of internal rotation
+• Recommend-a-Friend – get a bonus in the employee referral programStart date
+1.9.2022Type of employment
+full-timeEmployee requirementsMinimum required education
+First Level University Education (Bachelor's Degree)Language skills
+English (upper-intermediate - B2)German (upper-intermediate - B2)Company informationCompany characteristics
+Spoločnosť IBM je jednou z najväčších IT spoločností na svete a pod názvom International Business Machines poskytuje klientom svoje služby už viac ako 100 rokov. Celosvetovo pôsobí vo vyše 160 krajinách sveta. Poslaním spoločnosti IBM je pomocou integrovaných, flexibilných a efektívnych riešení pomáhať svojim zákazníkom redukovať ich náklady a zvýšiť tak ich konkurencieschopnosť na trhu. Samostatná pobočka IBM Slovensko s.r.o. bola založená 7. decembra 1992. V roku 2003 založila IBM na Slovensku druhú pobočku IBM International Services Centre s.r.o. (ISC). Spoločnosť IBM je najväčší zamestnávateľ v oblasti IT na Slovensku.Adress
+IBMMlynské nivy 49Bratislava - mestská časť RužinovSlovak Republic1006209030074003,4002,4001Respond to offer
+Be a part of something great at IBM
+Imagine a world where inspired ideas and innovative technology combine to create a smarter, more sustainable future. Welcome to the world of IBM.
+https://ibm.com/jobs/sk
+                Connect with us:
+Do your best work ever.
+SK
+EN
+    		Do your best work ever.
+Respond to offer
+Späť na pracovné ponuky

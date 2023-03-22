@@ -22,40 +22,52 @@ Munkaadóknak
 Hirdetésfeladás
 Regisztráció
 Belépésálláskeresőknek
-Finance, Accounting
-Analyst, Advisor
-Budapest
-Data Analyst
-VI5 Technologies Kft.
-Flexible workplace - Budapest
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Borsod-Abaúj-Zemplén megye
+Miskolc
+Következő 
+SAP Application Developer
+Bónusz
+Gramont Kft.
+3527 Miskolc
 Biztosított eszközök
 Laptop
+Monitor (1 db)
+Headset
 Jelentkezem
 Mentés
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Home office, Alkalmazotti jogviszony
-Általános munkarend
+Teljes munkaidő, Szakmai gyakorlat, Home office, Alkalmazotti jogviszony
 Elvárások:
 Angol középfok
-5-10 év szakmai tapasztalat
-Főiskola
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Egészségbiztosítás
 Biztosított eszközök
 Laptop
-VI5 Technologies Kft.
-Data Analyst
-We are looking for a Data Analyst with a strong BI focus to join one of our leading Hungarian-based, innovative software development partners.
-Task:
-• identifies analytical needs of each department through one-to-one communications of key employees; duties specific to this function may include the assessment of the following: what decisions need to be made, why decisions need to be made, when decisions need to be made, and who will use the data and insights to make the decisions• design, implementation, and enhancement of reports, data models, data processes to support day-to-day business and strategical decisions• creating complex SQL queries for data extraction (from source systems) and appropriate transformation• produce analyses and interactive reports in Power BI, develop and operate quality assurance processes for the whole chain• negotiate new requirements with business users and data structures with source systems experts• support for building data strategy, data warehouse, reporting and dashboard systems• analyze data, deliver insights, and present them to the stakeholders• works closely together with the data engineers and specify development requests for them• assists users with data related tools, provide trainings if needed• communicates appropriately with business users to understand their needs• proceeds with appropriate actions that include requirements documentation, design and use• ensures that information is available as needed in a timely fashion and is accurate, valid and reliable
-Expectation:
-• 5+ years of data and analyses experience at a multi-national company• bachelor or higher degree from a university in Computer Science, Management Information Systems, Business, Management or Economics• experience in a business analytics/intelligence utilizing enterprise databases with large scale, complex data sets performing data mining and deep dive analysis• experience in Power BI, preferred Power BI Service in creating reports, dashboards, publishing datasets and setting up RLS• experience in building and transforming queries to different data sets using Power Query; data analysis, and ETL processes• relational database experience/SQL know-how and knowledge of data warehouse technologies• strong statistics and analytical skills with demonstrated proficiency in databases, query languages and data visualization tools• creation and maintenance of appropriate documentation to support the delivery of the service or project• business-oriented mindset, problem-solving skills, precise attention to detail, excellent client facing and stakeholder management skills• proficiency in English, communicative personality, insightfulness
-Sector(s):
-Finance, Accounting
-Analyst, Advisor
-IT Development
-IT Consultant, Analyst, Auditor
-Business Supporting Centres
-IT Support
+Monitor (1 db)
+Headset
+Gramont Kft.
+SAP Application Developer
+Főbb feladatok, munkák:
+A GRAMONT svájci központú SAP tanácsadó cégként a legújabb technológiákat alkalmazva nyújt innovatív megoldásokat ügyfeleinek PLM (Product Lifecycle Management), MDG (Master Data Governance) és EHS (Environment Health and Safety) területeken. Cégünk tanácsadói profilja mellett saját termékek fejlesztésével is foglalkozik szoros együttműködésben az SAP-val. Multinacionális vállalatként több lokáción is dolgozunk, irodáink megtalálhatók Svájcban, Németországban, az Egyesült Államokban, Magyarországon és Indiában. A miskolci és budapesti irodánkba keresünk motivált pályakezdőket, Junior SAP Fejlesztőket 1-3 év tapasztalattal, továbbá SAP Fejlesztőket 3 év feletti tapasztalattal backend és frontend oldalon egyaránt.SAP Fejlesztőként multinacionális csapatokban szerezhetsz értékes szakmai tapasztalatot ügyfélprojekteken, illetve saját termékek fejlesztése során.
+Az ideális jelölt, akit keresünk:
+informatikai, mérnöki, illetve kapcsolódó területen szerzett diploma vagy folyamatban lévő tanulmányok,folyékony, magabiztos angol nyelvtudás írásban és szóban egyaránt,professzionális hozzáállás,elköteleződés az IT terület iránt.
+Előnyt jelent:
+1-3 év fejlesztői tapasztalatObjektum Orientált programozási környezetben szerzett tapasztalat, iletve ABAP, HANA, WebDynpro, CDS views használatában,REST szolgáltatások, ODATA és Gateway ismerete,UI fejlesztési tapasztalat (UI/Fiori).
+Amire számíthatsz tőlünk:
+dinamikus és kreatív munkakörnyezet, ami támogatja a személyes fejlődést és a tanulási lehetőséget szenior munkatársainktól,multinacionális munkakörnyezetben,részvétel innovatív projektekben S4/HANA, SAP Cloud platform, SCP ABAP és Machine Learning területeken,részvételi lehetőség különböző SAP tréningeken,versenyképes juttatási csomag,éves bónusz,egyetemi szakmai gyakorlati lehetőség,hosszútávú karrierút.
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezés módja:
+Ha érdekes lehet neked a pozíció, valamint szeretnéd megépíteni a stabil karriered az IT világában, kattints a 'Jelentkezem' gombra és küldd el nekünk önéletrajzodat.
 Jelentkezem
 MENTÉS
 Elküldöm magamnak a hirdetést
@@ -67,35 +79,40 @@ MentésMentés kedvencnek
  Vissza a listára
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Home office, Alkalmazotti jogviszony
-Általános munkarend
+Teljes munkaidő, Szakmai gyakorlat, Home office, Alkalmazotti jogviszony
 Elvárások:
 Angol középfok
-5-10 év szakmai tapasztalat
-Főiskola
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Egészségbiztosítás
  Elküldöm magamnak
  Értesítést kérek
 A cégről
-VI5 Technologies Korlátolt Felelősségű Társaság
-Tudományos, műszaki tevékenység
+Gramont Korlátolt Felelősségű Társaság
+Információ, kommunikáció
 ●
-Üzletviteli, egyéb vezetési tanácsadás
-0-10 munkavállaló
-2021
-1147
+Számítógépes programozás
+25-50 munkavállaló
+2013
+1037
 Budapest,
-Telepes utca 13. földszint 2. ajtó
+Bojtár utca 56.
 Munkahelyi extrák
-Kávézó
 Céges rendezvények
+Parkoló
+Ingyen kávé, üdítő
 Munkahely értékelése 
 Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
-Értékelem 
+Értékelem
 Önnek ajánljuk
 Hasonló állások megtekintése 
-Data Analyst
-VI5 Technologies Kft.
-Flexible workplace - Budapest
+SAP Application Developer
+Gramont Kft.
+3527 Miskolc
 JELENTKEZEM
 Mentés
 Kövessen bennünket! 

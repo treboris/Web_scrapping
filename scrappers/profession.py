@@ -98,6 +98,6 @@ for y in range(0, list_size):
     datee.append(date)
 
 
-save_data = Save(f'profession_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+save_data = Save(f'profession1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
 
 print("--- %s seconds ---" % (time.time() - start_time))

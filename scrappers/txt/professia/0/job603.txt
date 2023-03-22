@@ -1,0 +1,51 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceBackend Developer (all genders) #java #spring 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+            Make a difference in the financial life of millions of people: At Erste Digital you are co-creating the digital future, in which better financial health is possible. #believeinyourself
+Backend Developer (all genders) #java #spring
+Location: Košice
+Working-Hours: Full-time
+Occupation Area: IT
+Company:  Erste Digital
+            We are part of Erste Group – the largest banking group in Central and Eastern Europe with more than 2,500 branches and over 45,000 employees. Our more than 2,000 IT experts and enthusiasts are the bank's Digital Muscle. With top notch technology, we drive the realization offers the Group’s vision: To provide human banking in digital times, and to build Financial Health for over 16 million customers in the CEE region. We aim to attract and develop the best talent and aspire to be an IT employer beyond compare.
+We are Erste Digital. We are #digitaltotheheart
+What to do:
+As Backend Developer you will design, develop, deploy and operate a microservice architecture platform for corporate banking services with focus on high availability, scalability and low latency. Your role is to build and maintain cloud-ready services on top of Elastic Search, MQs and Oracle DBs and work with other software engineers, data analysts, and decision-makers, such as product owners, to build solutions and gain novel insights.
+Our team is cross-functional and involved in the ideation of features, from the conceptual and planning phases to the implementation and shipping of requirements. Your contribution is not only high-quality code, as you are actively shaping the product and its technological landscape with your ideas. We believe that microservices are an architecture of many choices and this gives us the ability to experiment with new technologies.
+Tech stack:
+Backend: Java 17 (some older parts in 8 & 11), Spring, SpringBoot, Hibernate, Jersey, Apache Commons, Dropwizard Metrics
+Cloud: private cloud (OpenShift, Kubernetes, Docker), plan to migrate to Google Cloud
+Testing: Junit, Mockito
+CI/CD tools: Jenkins, Npm, Bitbucket, Maven, Artifactory
+Dev Tools: Idea Intellij, OracleSql Developer
+Database: Oracle, ElasticSearch, Apache Cassandra
+Monitoring: JMX, Prometheus, Dynatrace, Grafana
+You check these boxes:
+Experience working in a product-driven environment where you could identify yourself with the product
+Understand the way Spring applications are written and you are familiar with the challenges that microservices bring
+Familiar with designing and building distributed and scalable systems on Kubernetes/OpenShift in a DevOps manner
+Know and care about engineering practices like continuous delivery, defensive programming and automated testing
+Comfortable writing high quality and easily maintainable code in a variety of styles (i.e. OO, FP)
+Why you will like us:
+Possibility to benefit and learn from our international, talented and passionate community at Erste
+Great learning curve through ownership and creative freedom
+Interest groups and clubs: Take part in discussions and get involved in projects. Numerous interest groups invite you to engage with a topic
+Culinary delights - Healthy nutrition and good food are important for our quality of life. As an employee, you receive a meal allowance fully paid by us (even you are on vacation)
+Health Care - Above standard medical examination, helpline, paid sick leave and healthcare budget for you
+Work-Life-Balance - Sabbatical, paternity leave, contribution to marriage & childbirth, 4 days of extra holiday and 3 sick days per year, contribution to the 3rd pillar and MultiSport card, recreational contribution for every employee. This is how we promote a balance between work, leisure, and family
+New way of work: With our flexible working hours model we want to make your life less complicated. Combing the best of both worlds, remote and office time
+Employee Referral Program: Become a talent scout for career opportunities in IT. We are rewarding every successful referral for Erste Digital
+Language courses for German & English: Learning a new language unites. We support you with fully paid appropriate language courses where you participate together with your colleagues.
+Visa Sponsoring: We support our employees with all the formalities associated with a relocation to Slovakia and also advise them on choosing a suitable residential area
+The minimum wage for this full-time position in accordance with the collective agreement with complete fulfillment of the functional profile 2.300 EUR gross per month. But this is just a formality - we would be happy to talk about your actual salary in person
+Erste Group considers the diversity of its employees as key to innovation and success. As employer we are proud to offer everyone equal chances, irrespective of age, skin colour, religious belief, gender, sexual orientation or origin.
+ Apply online 
+ Follow us: 
+ID: 4512415 
+     Dátum zverejnenia:  2.2.2023 
+    2023-02-02
+lokalita: Košice   Pozícia: Backend developer, IT Tester, Java Programmer, Software Engineer   Spoločnosť: Erste Digital   
+Základná zložka mzdy (brutto): 2 300 EUR/month
+                Všetky ponuky

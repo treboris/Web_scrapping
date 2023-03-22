@@ -1,0 +1,36 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceProgramátor PHP 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyProgramátor PHPDODS SYSTEM, s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+1.3.2023
+Mzdové podmienky (brutto)
+Od 1 500 EUR/mesiacosobne predstavíme tabuľku hodniotenia na základe schopností
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiNáplň práce:
+- podieľať sa na vývoji nových webových aplikácii
+- rozširovať existujúce aplikácie o požadované moduly a funkcie a integrovať ich do pôvodného celku
+- spolupracovať s kolegami na hľadaní najoptimálnejších riešení
+- samostatné kontrola, testovanie a analýza existujúceho kódu
+- do štruktúry existujúceho kódu Vás zaučíme Zamestnanecké výhody, benefityMožnosť pracovať z domu Informácie o výberovom konaníV prípade záujmu o prácu v spoločnosti DODS SYSTEM, s.r.o. vyplňte prosím dotazník uchádzača o zamestnanie na stránke:
+praca.let.is
+a následne si dohodneme termín pracovného pohovoru.
+Pre viac informácií o nás, vhľadajte si na youtube naše projekty ako LET.IS SYSTEM, PHIS SYSTEM alebo DODS SYSTEM :) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňaVzdelanie v odboreinformatikaOstatné znalostiHTML - ExpertCSS - ExpertPHP - ExpertSQL - ExpertjQuery - PokročilýPozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnostiOsobnostné predpoklady:
+- schopnosť samostatne vyhľadávať, analyzovať a zapracovávať potrebné funkcie/moduly do nových alebo existujúcich riešení
+- porozumenie existujúcemu kódu (PHP+MySQL+javascript) a schopnosť plynule naň nadviazať
+- znalosť OOP PHP nie je nutná, požadujeme ale porozumenie modulárnej štruktúry našich systémov na základe našich štýlov (použitie konkrétnych tried pre určité prvky)
+- schopnosť písať čistý priamy kód, orientovaný na kompatibilitu (aj naprieč verziami PHP) a rýchlosť spracovania Inzerujúca spoločnosť Stručná charakteristika spoločnostiDODS SYSTEM je partnerom zariadení sociálnych služieb na Slovensku, ktorý prevádzkuje Informačný systém.
+Stali sme sa firmou, ktorá vzdeláva zamestnancov v oblasti sociálnych služieb, pomáha im pri legislatívnych zmenách či pomáha získavať finančné prostriedky formou rôznych dotácií. 
+Prešli sme si dlhú cestu s prekážkami a problémami. Dnes sme však prvou voľbou pri riešení problémov v sociálnych službách. Počet zamestnancov5-9 zamestnancov 
+ID: 4511503 
+     Dátum zverejnenia:  31.1.2023 
+    2023-01-31
+lokalita: Práca z domu   Pozícia: PHP programátor, Programátor   Spoločnosť: DODS SYSTEM, s.r.o.   
+Základná zložka mzdy (brutto): 1 500 EUR/mesiac
+                Všetky ponuky

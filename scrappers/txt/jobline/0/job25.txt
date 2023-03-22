@@ -1,0 +1,53 @@
+ Belépés ›
+Cloud Application Operation (Budapest)
+Cloud Application Operation (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team. 
+Cloud Application Operation "DevOps Engineer" - REF122O
+You build it, you run it!
+To support a German government contract we are seeking a high profile DevOps team to build up and support a system with 80Million users. In the ramp up phase we seek the skill overkill to assure the best possible service from the start. The skills required are based on DevOps principles and specific toolset. Some elements as on call are very well known not desired by many, but a true DevOps has the mentality to build it as good, that he never has to wake up at night.
+Are you up to the task?
+Conception, implementation, operation and documentation for cloud projects, solutions and products
+Customer consulting on cloud architecture and intensive collaboration with developers and internal departments of customers around agile DevOps and operational processes
+Collobaration and controlling in DevOps topics for agile methods (consulting and operations projects)
+Deployment Automation with Infrastructure-as-Code and configuration management tools
+Conception, enhancements and optimization for continuous integration, continuous delivery
+Application transformation using cloud-native-architecture
+Improvement of availability and performance
+Support for simple programming tasks (Python, Java)
+Perform health checks, optimize monitoring and executing deployments in cloud environments
+Troubleshooting and participation in call readiness
+Presentation of concepts and solutions for the customer
+Requirements
+Successfully completed study of computer science or comparable graduation respectively professional experience in comparable position
+Deep experience in DevOps environment (git, Jenkins/GitLab)
+Basic knowledge in ITIL
+Programming experience in Python, Java or other programming languages
+Very good basic knowlege in handling with Linux
+Experience with automation tools like Ansible or Terraform
+Experience with NGINX, KONG, Redis, Postgres, Docker, Jenkins, Grafana und Prometheus
+Experience in cloud environment / cloud technologies (Azure, Kubernetes, Docker)
+Logical reasoning and pro active solution finding on a technical level
+Willingness to travel
+Knowledge of infrastructure capabilities (network, VMs, OS)
+Good knowledge about SM9, CMDB, ... (intern tools)
+Can create structured documentation
+Willingness for on-call service
+English language skills
+Soft skills
+Customer-oriented thinking and handling (service)
+Ability to communicate and work under pressure
+Poise, teamwork, flexibility and initiative
+Location
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások

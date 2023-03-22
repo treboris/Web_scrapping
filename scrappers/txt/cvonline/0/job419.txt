@@ -1,0 +1,53 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our Client is one of the leading investment banks in the world, and for their growing professional team we are looking for an Senior Automation Developer.
+Developing and encouraging the adoption of standard approaches that:
+improve testing processes (unit testing, code review process)
+improve current quality control processes
+help create automation workflows in a resource effective way
+Identify recurring error sources to decrease the number of issues emerging after handover to Business users
+Assure the continuity of business for stakeholders that utilize the automation solutions developed by the entire digital team by:
+Handling incidents, urgent change requests and urgent fixes in connection with workflows that are in production
+Assuring that maintenance development artefacts adhere to internal standards and policies
+Monitoring and assessing the risk of outdated standard components applied in workflows that are in production
+Identifying, recommending and implementing process improvements to enhance testing strategies
+Creating proposals for workflow retrofit with the involvement of technology and reporting teams
+Driving the retrofitting process of workflows that contain outdated standard components.
+Developing automated solutions in KNIME data transformation and automation tool
+Incidents may need to be addressed on bank holidays and after-hours occasionally, very rarely on weekends.
+                Elvárások / Requirements
+Knowledge and Experience
+Experience in full software development lifecycle (design, development, testing, maintenance) and QA methodologies
+Experience with a data transformation tool (e.g. KNIME, Alteryx, Qliksense, ETL tools)
+Knowledge of scripting languages (e.g. Python, Javascript, VBA)
+Excellent command of the English language (both written and spoken)
+Experience in financial sector is an advantage
+Familiarity with software testing methodologies is an advantage
+Experience with software quality control is a plus
+Skills
+Excellent analytical skills
+Strong presentation and visual story telling skills
+Ability to deal with a range of senior/junior staff across a number of disciplines
+Ability to work autonomously
+Excellent ability to pay attention to details and work under pressure
+Confident ability to achieve objectives via working with and influencing others
+Qualifications
+University / College degree or equivalent in Computer Science or related Information Technology, Business Informatics or Finance field
+5+ years of relevant work experience
+Competencies
+Resourceful and creative in solving problems and overcoming obstacles
+Motivated to create sustainable and elegant modular solutions
+Self-starter approach
+Enthusiastic team player
+                Amit nyújtunk / Benefits
+Long-term career path across geographies and business lines
+Friendly work atmosphere
+Competitive compensation package
+Flexible work arrangements
+Paid Parental Leave Program: we aim to support families through all life stages, and do our best to help our colleagues manage work and family life, we provide additional support to our employees (maternity leave and paternity leave) on top of the local legal requirements.
+We offer recognition of your efforts through our compensation package with added benefits:
+Private Medical Care Program and onsite medical rooms in our buildings
+Pension Plan Contribution to Voluntary Pension Fund
+Group Life Insurance
+Senior Automation Developer 
+Jelentkezem

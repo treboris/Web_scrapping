@@ -1,0 +1,47 @@
+ Belépés ›
+Junior Backend fejlesztő német nyelvtudással (REF953R) (Budapest)
+Junior Backend fejlesztő német nyelvtudással (REF953R) (Budapest)
+A hirdetés már lejárt!
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+német - középfokú
+A Deutsche Telekom IT Solutions (korábban IT Services Hungary, ITSH) Magyarország legnagyobb IKT-munkaadója, a Deutsche Telekom Csoport tagja. A 2006-ban alakult, több mint 5000 fős cég az informatikai és telekommunikációs szolgáltatások széles körét nyújtja. A vállalat 2019-ben elnyerte a Nemzeti Befektetési Ügynökség (HIPA) legjobb oktatási együttműködésért járó díját, a PwC Magyarország független felmérése alapján a legvonzóbb magyarországi munkahelyek közé tartozik, és a legetikusabb multinacionális vállalat címét is megkapta. A cég folyamatosan fejleszti négy – budapesti, debreceni, pécsi és szegedi – telephelyét, és várja képzett informatikai szakemberek jelentkezését a csapatába.
+Junior Backend fejlesztő német nyelvtudással (REF953R)
+Egy német logisztikai multinacionális nagyvállalat (DPDHL) projektjére keresünk ambiciózus,  németül magabiztosan beszélő, fejlesztői, support feladatokat ellátó junior szakembert. Amennyiben szereted a kihívásokkal teli, változatos munkakört, szívesen használod nyelvtudásod a mindennapi kommunikáció során és valamennyi releváns tapasztalattal rendelkezel JAVA fejlesztés területén, Te vagy a mi emberünk!
+Feladatok:
+Szoftverfejlesztés és tervezés: CR, bugfixing, interfészek, migráció, adatbázis-karbantartás
+Követelményanalízis és végrehajtás
+Fejlesztési folyamatok és szolgáltatás karbantartása, hatékonyságnövelés
+Dokumentáció (Interface-ek leírása, tervezés, architektúra, stb.)
+Verziókezelés
+Önálló részprojektek menedzselése
+Német nyelvű ügyfélkommunikáció és kapcsolattartás a nemzetközi csapattal
+Elvárások:
+-Magabiztos német nyelvtudás
+Felsorolt technológiák alapszintű ismerete
+JAVA
+Springboot
+Unit tesztelés
+Adatbázis kezelés (PostgreSQL,Oracle,stb.)
+GIT
+Scrum módszertan
+Confluence
+Jira (User Story / Bugtracking)
+Előnyök:
+Angol nyelvtudás
+Személyiség:
+Analitikus gondolkodás
+Megoldásorientált szemléletmód
+Strukturált munkavégzés
+Priorizálási készség
+Rugalmas hozzáállás
+Junior
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Neked ajánlott állások

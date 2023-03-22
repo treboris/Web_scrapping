@@ -1,0 +1,53 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava Tech Lead - TPP, remote 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Pracovné ponuky
+Pre uchádzačov
+O nás
+SK
+EN
+Java Tech Lead - TPP, remote
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 000 - 4 500 EUR/mesiac
+ Reagovať
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ Všetky ponuky
+Náplň práceSi skúsený Java programátor, ktorý je pripravený viesť tím, prijať výzvy, modernizovať produkt a tiež stratégiu vývoja?
+Tvojou úlohou bude:
+- Vybudovanie moderného ERP a HRM riešenia pre verejný trh v zahraničí.
+- Vývoj produktu na schvaľovanie platieb z ERP systému.
+- Využívanie AWS cloudového riešenia.
+Techstack:
+Java 8 & 11
+Spring, Hibernate
+MSSQL, Oracle
+Apache Wicket, Tomcat, Git,
+JUnit, Mockito, Selenium
+AWS Požadujeme- aspoň 4 roky skúseností s programovaním v jazyku Java
+- skúsenosť s frameworkom Spring Boot
+- znalosti relačných databáz
+- skúsenoť s Angularom - výhodou Benefity- Neobmedzený home office
+- Flexibilná pracovná doba
+- Stravné lístky bez zrážok (5,50€/deň)
+- Sickdays
+- Príspevok do 3.piliera
+- Možnosť presúvať sviatky
+- Zmluva na dobu neurčitú InformácieZašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku. Viac podobných pozícií nájdete na https://www.grafton.sk/sk/job-search
+ Reagovať
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ Všetky ponuky
+ID: 4515106 
+     Dátum zverejnenia:  6.2.2023 
+    2023-02-06
+lokalita: Práca z domu   Pozícia: Java programátor, Programátor, Softvérový inžinier   Spoločnosť: Grafton Slovakia s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 3 000 EUR/mesiac
+                Všetky ponuky

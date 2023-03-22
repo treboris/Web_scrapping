@@ -97,7 +97,7 @@ for y in range(0, list_size):
 
 
 
-save_data = Save(f'Cvonline_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+save_data = Save(f'cvonline1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
 
 
 #TO TXT

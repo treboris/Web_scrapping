@@ -1,0 +1,60 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePHP Developer pre cestovnú kanceláriu 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyPHP Developer pre cestovnú kanceláriuSATUR TRAVEL a.s.
+Miesto práce
+Miletičova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP/dohodou
+Mzdové podmienky (brutto)
+1 700 - 2 500 EUR/mesiacUvedená je dolná hranica základnej mzdy, ktorá predstavuje minimálne platové ohodnotenie. Na finálnej sume sa dohodneme spoločne a rozhodujúce budú hlavne Vaše skúsenosti.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme k nám na oddelenie IT programátora s výbornou znalosťou PHP. Používame Framework Symfony 6. Je dôležité, aby si mal skúsenosti s ORM (Object Relation Mapping), REST/SOAP webservisovými architektúrami.
+Táto pracovná pozícia u nás vyžaduje znalosť front-endových a back-endových technológií a skúsenosti s programovaním a agilnými metódami vývoja.
+Tvojou hlavnou náplňou práce u nás bude:
+- Údržba a vývoj vlastného CMS riešenia a internetovej e-commerce platformy.
+- Komplexná tvorba webservisov.
+- Návrh zlepšení a optimalizácie webservisov.
+- Review kódu.
+- Riešenie prípadných problémov na produkcii.
+Tím IT máme menší, ale výkonný. Tvoj nadriadený je otvorený diskutovať, pričom pri diskusii o koncepte a návrhu riešenia požiadaviek, keďže sedíš spolu s kolegami, sa zapájajú všetci :) U nás sa vždy hľadá spoločne najlepšie riešenie. Zamestnanecké výhody, benefityTvoja mzda bude zložená zo základnej čiastky, ku ktorej Ťa na pravidelnej báze na základe splnenia vopred stanovených cieľov a Tvojho výkonu odmeníme navyše.
+Odmeňovací systém Ti radi vysvetlíme na osobnom pohovore.
+Home office - U nás Ti poskytneme možnosť čiastočnej práce z domu a flexibilnej pracovnej doby.
+Práca v cestovnej kancelárii prináša pre jej interných zamestnancov aj zľavy na dovolenky, poznávacie výlety a celkovo produkty našej cestovnej kancelárie, ale aj výhodné ceny leteniek.
+Poskytneme Ti možnosť využívania Multisport karty, ktorá má široké využitie na celom Slovensku, taktiež zľavy na kultúrne podujatia, zľavy na plavby loďou po Dunaji a kopec iného.
+Čakajú Ťa zaujímavé teambuildingy a teamové aktivity.
+V prípade potreby máš nárok na tzv. Sick days - dni voľna, kedy môžeš ostať doma aj bez lekárskeho potvrdenia a dostať svoju mzdu. Informácie o výberovom konaníReagujte zaslaním svojho životopisu v slovenskom jazyku  priamo cez www.profesia.sk.
+Upozorňujeme, že kontaktovať budeme iba vybraných uchádzačov, ktorí spĺňajú na základe zaslaného životopisu požiadavky ohľadom našej pracovnej ponuky.
+Na zaradenie do všeobecnej evidencie uchádzačov o zamestnanie v SATURe, aby sme vás vedeli kontaktovať s ponukami práce, je potrebný Váš súhlas.
+V e-maile/alebo priamo v životopise prosím uveďte: „súhlasím so spracovaním osobných údajov prevádzkovateľom SATUR TRAVEL, a.s.“. Súhlas máte právo kedykoľvek odvolať. Informácie o spracovaní a ochrane osobných údajov na tento účel získate na www.satur.sk v časti Kariéra/Evidencia a spracovanie osobných údajov
+- https://www.satur.sk/stranky/suhlas-na-ucely-evidencie-uchadzacov-o-zamestnanie/
+- https://www.satur.sk/stranky/informacia-o-spracovani-osobnych-udajov-v-suvislosti-s-vyberovym-konanim/
+Kontakt na zodpovednú osobu za osobné údaje v SATURe je [email protected]Predpokladaný termín ukončenia výberového konania31.3.2023 (ostáva ešte 18 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreTechnickéJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiPHP 7+ - PokročilýSymfony (PHP framework) - PokročilýZend framework - PokročilýLaravel (PHP framework) - PokročilýLumen framework - PokročilýMySQL - PokročilýSimple Object Access Protocol (SOAP) - Mierne pokročilýRepresentational state transfer (REST) - Mierne pokročilýObject-relational mapping (ORM) - PokročilýJasmine (JavaScript testing framework) - Mierne pokročilýDocker - Mierne pokročilýRedis - Mierne pokročilýRabbitMQ - Mierne pokročilýJSON - Mierne pokročilýXML - Mierne pokročilýAgile software development - PokročilýHTML - PokročilýPrax na pozícii/v oblastiPHP programátor/developerPočet rokov praxe3Osobnostné predpoklady a zručnosti- minimálne 3-ročná aktívna skúsenosť s vývojom webových aplikácií v PHP a znalosť objektovo orientovaného programovania,
+- výborná znalosť PHP 7+,
+- výborná znalosť Symfony, Zend alebo Laravel/Lumen,
+- potrebná znalosť MySQL,
+- skúsenosti s REST/SOAP,
+- skúsenosti a komplexné chápanie ORM,
+- skúsenosti s Javascriptom (jQuery, AJAX, Node.sj, Stimulus), 
+- skúsenosti s Dockerom, ELK stack, Redis, RabbitMQ, JSON a XML,
+- chápanie microservisovej architektúry,
+- skúsenosti s agilným spôsobom SW vývoja (SCRUM, LEAN, KANBAN),
+- znalosť webových štandardov HTML/CSS, Composer, Yarn, Webpack, Bootstrap, Git, Twig,
+- výhodou je znalosť LAMP stacku na úrovni kofigurácie a znalosť DevOps nástrojov
+- vieš pracovať tímovo, ale aj samostatne, v anglickom jazyku si schopný čítať manuály a dokumentáciu a dokážeš minimálne písomnou formou komunikovať s dodávateľom. Inzerujúca spoločnosť Stručná charakteristika spoločnostiHotel Park **** sa nachádza v nádhernom mestskom parku, len 500 metrov od vstupu na Kúpeľný ostrov a približne päť minút chôdze od historického centra jedného z najkrajších slovenských miest.
+Tichá a pokojná lokalita, jedinečný letný ružový sad, oproti rieky Váh ponúka dokonalý oddych, regeneráciu a načerpanie síl.
+Hotel Park **** Ponúka komfortné ubytovanie v 103 izbách, elegantný krytý bazén s prístupom na letnú terasu,  wellness i zdravotnú časť, fitness, reštauráciu, kaviareň a pre denný či večerný oddych pri pohári obľúbeného nápoja a drinku v príjemnom prostredí s garanciou súkromia je k dispozícii náš Sky Bar na šiestom poschodí.
+V reštaurácii sa podávajú jedlá slovenskej i medzinárodnej kuchyne.
+Okrem ubytovania a pobytov ponúkame aj usporiadanie svadieb, rodinných osláv či firemných podujatí alebo konferencii. Počet zamestnancov50-99 zamestnancov 
+ID: 4508159 
+     Dátum zverejnenia:  25.1.2023 
+    2023-01-25
+lokalita: Bratislava   Pozícia: Backend programátor, Frontend programátor, PHP programátor   Spoločnosť: SATUR TRAVEL a.s.   
+Základná zložka mzdy (brutto): 1 700 EUR/mesiac
+                Všetky ponuky

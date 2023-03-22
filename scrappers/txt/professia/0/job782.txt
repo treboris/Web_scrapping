@@ -1,0 +1,35 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePHP Developer  Можливість для людей з України
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyPHP DeveloperPositive s.r.o.
+Miesto práce
+Brno, Česko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+2 000 EUR/mesiacFinálna výška mzdy závisí iba od Tvojich skúseností a zručností.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiBaví Ťa vývoj a tvorba webového riešenia?
+Budeš mať možnosť vytvoriť vlastné projekty, ktoré budú napomocné výrobným podnikom.
+S nami získaš možnosť podieľať sa projekte vývoja modelov výrobného systému (napríklad plánovacie kalendáre, vizualizácia zákaziek, štatistiky výroby a podobne).
+Čo bude tvojou pracovnou náplňou?
+- vyvíjať a spravovať intranet riešenia na mieru pre výrobné podniky
+- využívať AJAX, JQUERY a pracovať aj s MySQL databázami. 
+- vyvíjať rôzne vizualizácie štatistík, grafov alebo tabuliek pri použití BOOTSTRAP. Zamestnanecké výhody, benefity- Flexibilná pracovná doba
+- Pravidelné školenie, kurzy
+- Možnosť služobného auta Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímnadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformačné technológieJazykové znalostiČeský jazyk - Pokročilý (C1) alebo Anglický jazyk - Stredne pokročilý (B2)Ostatné znalostiPHP - PokročilýMySQL - PokročilýCSS - PokročilýLaravel (PHP framework) - Mierne pokročilýSymfony (PHP framework) - ZákladyAJAX - Mierne pokročilýjQuery - Mierne pokročilýBootstrap - PokročilýPrax na pozícii/v oblastiPHP ProgramátorOsobnostné predpoklady a zručnostiPráca s internými systémami PHP a MySQL je podmienkou, k tomu aj znalosti CSS, BOOTSTRAP. Znalosť Laravel/Symfony výhodou. Inzerujúca spoločnosť Stručná charakteristika spoločnostiSkupina Positive
+Positive pôsobí na trhu softvérových riešení.
+Od začiatku nášho pôsobenia sa orientujeme na zákazníkov pôsobiacich vo finančnom sektore.
+Riešenia spoločnosti sú určené najmä pre poisťovne, banky a finančných sprostredkovateľov. 
+Snaha obslúžiť potreby našich partnerov komplexne vyústila do programu softvér a služby pre finančný trh.
+V súčasnosti poskytujeme pod značkou positive služby prostredníctvom holdingovej štruktúry pôsobiacej na Slovensku.
+www.positive.sk Počet zamestnancov10-19 zamestnancov 
+ID: 4507622 
+     Dátum zverejnenia:  25.1.2023 
+    2023-01-25
+lokalita: Brno   Pozícia: PHP programátor   Spoločnosť: Positive s.r.o.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+                Všetky ponuky

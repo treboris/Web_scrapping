@@ -1,0 +1,44 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceIT Teamleader/Docker Specialista 
+    Reagujte bez životopisu
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyIT Teamleader/Docker SpecialistaLugera & Maklér spol.s r.o.
+Miesto práce
+možnosť HO, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac2500€ - 3100€
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti* Hľadáme IT team lídra, ktorý bude viesť tím v Bratislave alebo v Žiline (podla tvojho bydliska) Tvoja náplň práce bude : 
+* - Aktívne kontrolovať správnu funkčnosť systémov na platforme Docker a správu užívateľov v dotknutých systémoch
+* - Predkladať návrhy na zvýšenie spoľahlivosti, dostupnosti a výkonu platformy Docker
+* - Technicko - analytické práce pri návrhoch a rozvoji systémov
+* - Úzka spolupráca s tvojím DevOps tímom
+*  - Diagnostika, analýza incidentov a problémov, prevencia a odstraňovanie kolíznych stavov Zamestnanecké výhody, benefity- príležitosť pre rozvoj a osobný rast
+- home office
+- pružný pracovný čas
+- možnosť získať cieľovú ročnú odmenu do výšky 2 mesačných platov
+- zvýhodnené podmienky našich produktov
+- príjemné pracovné prostredie
+- bezplatné parkovanie na vlastnom parkovisku Spoločnosť, pre ktorú je pozícia obsadzovanáBankovníctvo, peňažníctvo* Náš klient je lídrom v poskytovaní finančných služieb na Slovensku uz od roku 1992 Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Začiatočník (A2)Osobnostné predpoklady a zručnosti- 3 ročné pracovné skúsenosti v oblasti microservices
+- Znalosť Linux/Unix - podmienkou
+- Znalosť nástrojov a procesov nasadzovania aplikácií (Maven, Git)
+- Znalosť skriptovacích programovacích jazykov (Phyton alebo shell scripts)
+- Znalosť container virtualization technológií ( Docker Swarm alebo Kubernetes) - MUST HAVE
+- NoSQL databázy (Mongo DB) výhodou
+- Znalosť nástrojov na automatizáciu testovania (Selenium, HP UFT, LoadRunner, Katalon) výhodou
+- Skúsenosti s vedením tímu Inzerujúca spoločnosť Stručná charakteristika spoločnostiLugera je jednou z najväčších personálno-poradenských spoločností na Slovensku. Od založenia v r. 1996 v Trenčíne sme otvorili 4 pobočky na Slovensku (TN, BA, NR, KE) a pôsobenie sme rozšírili aj do zahraničia - do Českej republiky, Poľska, Holandska, Rumunska, Arménska a na Ukrajinu.
+Uchádzačom o zamestnanie pomáhame s uplatnením na trhu práce bezplatne. Ponúkame možnosť registrácie životopisu v databáze, poskytujeme poradenstvo, zasielanie aktuálnych pracovných pozícií podľa zadaných kritérií a ďalšie služby.
+Na osobných stretnutiach kandidátov dôkladne pripravíme na stretnutia s klientmi, informujeme ich o aktuálnej situácii na trhu práce v súvislosti s ich profilom a možnosťami uplatnenia. Samozrejmosťou je konštruktívna spätná väzba na priebeh pohovoru a poradenstvo kandidátovi.
+V súčasnosti máme za sebou stovky veľkých i menších projektov pre zahraničných investorov, rovnako ako domáce slovenské spoločnosti a tisícky obsadených pracovných miest. Využite aj vy naše skúsenosti a jedinečné znalosti o trhu práce na Slovensku aj v zahraničí.Spoločnosť je držiteľ povolenia na sprostredkovanie práce. Počet zamestnancov50-99 zamestnancov 
+ID: 4518561 
+     Dátum zverejnenia:  13.2.2023 
+    2023-02-13
+lokalita: Bratislava   Pozícia: IT konzultant, IT manager, Programátor, Správca počítačovej siete, Systémový administrátor   Spoločnosť: Lugera & Maklér spol.s r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+                Všetky ponuky

@@ -22,40 +22,43 @@ Munkaadóknak
 Hirdetésfeladás
 Regisztráció
 Belépésálláskeresőknek
-Pénzügy, Könyvelés
-Üzleti elemző
-Fejér megye
-Székesfehérvár
-Senior Business Process Analyst
-Harman Becker Kft.
-Székesfehérvár
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Budapest
+IT Rendszermérnök
+Építési és Közlekedési Minisztérium
+Budapest
 Jelentkezem
 Mentés
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
 Elvárások:
-Angol felsőfok
-5-10 év szakmai tapasztalat
+Angol alapfok
+3-5 év szakmai tapasztalat
 Főiskola
-Juttatások
-Szakmai tréningek
-Lakhatási támogatás
-Munkába járás támogatás
-Senior Business Process Analyst
-Feladatok:
-Operatív területek támogatása rendszer és folyamatok tekintetében, kiemelt felelősséggel a  Production Planning/Warehouse management területen;Elemzések elvégzése a meglévő folyamatokra, dokumentálás és a hozzá tartozó mérési módszerek meghatározása, valamint ellenőrzése;Szoros együttműködés a "Business process ownerekkel", IT partnerekkel az üzleti folyamatok hatékony működtetésével kapcsolatban;Innovatív ötletek és megvalósításuk a hatékonyság növelés érdekében, folyamatosan törekedve az automatizálási lehetőségek bővítésére;Rendszertechnikai fejlesztések kezelése tesztelésekkel, szükséges dokumentációk elkészítése;Rövid- és hosszútávú tervezéssel kapcsolatos projektekben való részvétel, tervezési rendszerekben power user szerepkör betöltése;Harmanon belüli „best practice”-ek feltérképezése és bevezetése;Üzleti igények lefordítása rendszertechnikai megoldásokra;Szakmai tréningek tartása a felhasználók megfelelő rendszertechikai ismeretének növelésére;Termeléstervezés hatékonyságának elősegítése, hibák feltárása és megoldása;Megoldások előkészítése és kivitelezése a Business Unit / Production Planning / operatív szervezet irányába;Szakmai auditok támogatása;Eseti és sürgős problémák kezelése és megoldása;Riportok kidolgozása, készítése.
-Elvárások:
-Felsőfokú végzettség releváns (logisztika) vagy IT területenMinimum 5 éves szakirányú tervezési vagy ellátási lánc egyéb területén szerzett tapasztalatSAP vállalatirányítási rendszer, ezen belül PP modul erős ismereteFolyamat alapú elemzési, tervezési ismeretekFolyamatszervezői, üzleti elemző területen szerzett gyakorlati tapasztalatErős MS office ismeretekTárgyalóképes angol nyelvtudás (szóban és írásban)Gyors alkalmazkodási képesség változó körülmények/igények eseténKiváló kommunikációs és csapatmunkában való együttműködési készségProaktív szemlélet és Integrált gondolkodás
-Előny:
-SAP LMPC modul ésIBP ismeret
-Amit kínálunk:
-Nemzetközi csapat tagjaként együttműködhetsz a világ legnagyobb autógyártóivalVersenyképes juttatási csomagot biztosítunk számodraHome office lehetőséggel is élhetszLakhatási/letelepedési támogatást adunk, ha más lokációból érkezel hozzánk (45 km-t meghaladó távolság esetén)Folyamatos szakmai tréningeken vehetsz résztKarrier és fejlődési lehetőségeket biztosítunkDolgozói kedvezményt kapsz a HARMAN (JBL®, AKG®, HARMAN Kardon®) termékekre
+Az Építési és Közlekedési Minisztérium
+munkatársat keres
+IT Rendszermérnök
+munkakörbe
+Munkavégzés helye: Budapest
+Szerződés típusa: munkaviszony
+Főbb feladatok:
+Nagyvállalati környezetben működő Microsoft alapú informatikai rendszerek üzemeltetői feladatainak ellátásaInfrastruktúra üzemeltetési feladatok ellátásaVállalati alkalmazások L1, L2 szintű támogatásaBeérkező IT incidensek és problémák megoldásaFolyamatok optimalizálása és annak javításának irányításaRendszerek biztonságának és védelmének biztosítása betörésektől és vírusoktólRendszerdokumentációk és kézikönyvek készítése
+A munkakör betöltésének feltételei:
+Minimum 3 év releváns tapasztalatSzakirányú felsőfokú végzettségWindows szerverek (Windows Server 2012R2-2022) adminisztrációs szintű ismerete (Active Directory, GPO, DNS, DHCP, WDS, WSUS, IIS, fájl szerver, stb…)Hálózati, hálózatépítési ismeretekVirtualizációs környezetek kialakításában és üzemeltetésében szerzett tapasztalat (Hyper-V)M365 üzemeltetői ismeretekMicrosoft System Center termékek ismerete (SCOM, SCSM, SCCM)Szakmai angol nyelvtudás (dokumentációk megértése, e-mail-ek megválaszolása)
+Előnyt jelent:
+Nagyvállalati környezetben, komplex rendszerek üzemeltetésében szerzett tapasztalatAlapszintű Linux rendszerismeret Jó kommunikációs és problémamegoldó képesség MSSQL adatbázisszerverek üzemeltetési szintű ismereteMicrosoft Exchange üzemeltetési tapasztalat Végpontvédelmi rendszer üzemeltetési tapasztalat Microsoft PowerBI üzemeltetési ismeretAngol nyelv legalább középfokú ismerete
+Az Ideális jelölt:
+Ügyfélközpontú, kiemelkedően kommunikálÖnálló, felelősségteljesen végzi munkájátNyitottság és komplex szemléletmód jellemziProblémamegoldás orientáltProaktív személyiségCsapatjátékos
+Mit kínálunk mindezért cserébe?
+kihívásokkal teli feladatkörtfejlődési lehetőségetversenyképes bértbéren kívüli juttatásokat
 Állás, munka területe(i):
-Pénzügy, Könyvelés
-Üzleti elemző
-IT programozás, Fejlesztés
-IT tanácsadó, Elemző, Auditor
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Jelentkezéshez kérjük csatolni:
+önéletrajzmotivációs levél A munkakör a pályázatok elbírálását követően azonnal betölthető. 
 Jelentkezem
 MENTÉS
 Elküldöm magamnak a hirdetést
@@ -67,43 +70,32 @@ MentésMentés kedvencnek
  Vissza a listára
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
 Elvárások:
-Angol felsőfok
-5-10 év szakmai tapasztalat
+Angol alapfok
+3-5 év szakmai tapasztalat
 Főiskola
-Juttatások
-Szakmai tréningek
-Lakhatási támogatás
-Munkába járás támogatás
  Elküldöm magamnak
  Értesítést kérek
-Értékelések a(z) Harman Becker Kft. cégről
-3,6
-123 értékelés alapján 
-Értékelések kategória szerint 
-3,5
-Bérezés és juttatások 
-3,6
-Munkaidő és munkarend 
-3,8
-Kollégák és céges hangulat 
-4,2
-Megközelíthetőség 
-4,0
-Munkakörnyezet 
-További kategóriák  
-A munkahely előnyei 
-Biztosítják a munkaeszközöket 
-További vélemények 
+A cégről
+Építési és Közlekedési Minisztérium
+Közigazgatás, védelem, biztosítás
+●
+Általános közigazgatás
+250-500 munkavállaló
+2022
+1054
+Budapest,
+Alkotmány utca 5.
 Munkahely értékelése 
 Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
-Értékelem 
+Értékelem
 Önnek ajánljuk
 Hasonló állások megtekintése 
-Senior Business Process Analyst
-Harman Becker Kft.
-Székesfehérvár
+IT Rendszermérnök
+Építési és Közlekedési Minisztérium
+Budapest
 JELENTKEZEM
 Mentés
 Kövessen bennünket! 

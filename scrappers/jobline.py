@@ -73,10 +73,9 @@ for limit in tqdm(range(0,page_number())):
 
 #HREF EXTRACT
     for div in conn(limit).find_all('div' , class_='center'):
-            for link in div.find_all('article', class_='m-job_item no-flex top5'):
+            for link in div.find_all('article'):
                 for a in link.find_all('a' , class_='l-cta_button open job-material-click'):
                     href.append(a.get('href'))
-
 
 driver.close()
 
@@ -88,17 +87,10 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-print(len(id))
-print(len(main))
-print(len(href))
-print(len(corp))
-print(len(location))
-print(len(datee))
 
-print(main)
-print(href)
 
-#save_data = Save(f'Jobline_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+
+save_data = Save(f'jobline1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
 
 
 

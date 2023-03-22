@@ -1,0 +1,37 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePHP programátor Junior - Nette 
+PHP programátor Junior - NetteWebtec s. r. o.
+Miesto práce
+Magnetová 1, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+2 000 EUR/mesiacmzda sa odvíja od skúseností uchádzača, 13.plat
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti- vývoj e-shopového riešenia Shoptec (Nette framework)
+- napojenia na ekonomické systémy, kuriérske spoločnosti, aplikácie tretích strán a pod. 
+- vývoj nových funkcií, rozširovanie API, písanie dokumentácie, UNIT testing
+- komunikáciu so zákazníkom zabezpečia kolegovia na hepldesku, stane sa však, že im budeš musieť poradiť pri zložitejších problémoch
+Náš vývoj prebieha cez systém GIT (bitbucket.org) a programujeme v jazyku PHP. Všetok významný kód testujeme formou UNIT testov za pomoci frameworku Nette Tester. Shoptec je naše riešenie postavené na frameworku Nette. Snažíme sa po vyladení nových verzií vždy ísť s dobou a upgradovať na najnovšie verzie, či už frameworkov alebo softvéru inštalovaného na managed serveroch VSHOSTING. Zamestnanecké výhody, benefity- práca s modernými technológiami
+- sebarealizácia pri navrhovaní projektov
+- nootebook aj na súkromné účely
+- kľudné prostredie v mladom kolektíve 
+- práca v stabilnej firme
+- zdieľame kancelárie spolu s našou sesterskou firmou - digitálnou agentúrou VIAMEDIA, takže sa budeš stretávať nielen so svetom IT / e-commerce, ale aj s online marketingom Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiNette - ZákladyPostgreSQL (triggers, joins, views, functions ...) - ZákladyPHP - ZákladyGIT (bitbucket.org, pipelines) - ZákladyHTML / CSS (Bootstrap 3/4 + LESS) - PokročilýjQuery - ZákladyVodičský preukazB Pozícia je vhodná pre absolventaÁno Inzerujúca spoločnosť Stručná charakteristika spoločnostiSpoločnosť Webtec s.r.o. vznikla v roku 2010 a jej počiatočným zameraním bola tvorba rôznych webových stránok, portálov a e-commerce riešení. Približne v roku 2015 sme sa rozhodli tvoriť výhradne e-commerce projekty, s ktorými sme mali dlhoročné skúsenosti a vytvorili sme projekt Shoptec - e-shopové riešenie ponúkajúce plne vybavené a moderné technické riešenie pre predaj na internete za nízku cenu mesačného prenájmu. K dnešnému dňu máme viac ako 100 spokojných klientov a stále rastieme. 
+Ak hľadáš prácu v oblasti e-commerce, budeme radi, ak sa staneš členom nášho tímu. Počet zamestnancov5-9 zamestnancov KontaktKontaktná osoba: Lenka TerpákTel.: +421948663664E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4522732 
+     Dátum zverejnenia:  17.2.2023 
+    2023-02-17
+lokalita: Bratislava   Pozícia: IT architekt, IT/Technical Support Specialist, PHP programátor, Programátor, Softvérový inžinier   Spoločnosť: Webtec s. r. o.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

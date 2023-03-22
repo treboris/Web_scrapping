@@ -1,0 +1,42 @@
+ Belépés ›
+Senior DevOps Cloud Engineer (Budapest)
+Senior DevOps Cloud Engineer (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Senior DevOps Cloud Engineer
+About our Partner:
+They are a global information technology company that builds high-performance, security-centric solutions that can help change the world. Now, they are looking for a talented Senior DevOps Cloud Engineer.
+Responsibilities:
+Build functional systems that improve our customers' experience, mainly in the cloud and micro-services area
+Deploy cloud platform infrastructure-related changes, maintain the existing code, identify production issues, and do the necessary modification according to the business needs
+Work with application/product teams to identify and implement self-service capabilities
+Deploy updates and fixes for the cloud platform and underlying services using Terraform
+Ensure that systems are safe and secure against cybersecurity threats using Prisma Cloud, TerraScan and Checkov
+Develop scripts to automate Datadog visualization
+Test and examine code written by others and analyze results using SonarQube
+Provide Level 3 technical support
+Perform root cause analysis for production errors
+Investigate and resolve technical issues
+Requirements:
+2+ years experience in DevOps Engineer/Software Engineer/Automation Engineer position using CI/CD tools
+Hands-on experience in public cloud infrastructure (AWS and/or Azure)
+Good understanding of Source Control Management especially Gitlab
+Fluency in English
+Advantages:
+Cloud-related certifications at a Fundamental level. Professional will be plus
+HashiCorp Vault experience
+Solid knowledge of RedHat/Centos Linux systems
+Experience with Kubernetes in the production environment
+Understanding YAML as it is the standard language for many solutions
+Knowledge of any repository/binary manager like Artifactory, Nexus
+Munkavégzés helye
+Budapest, Pest
+Jelentkezem az állásra ›
+Neked ajánlott állások

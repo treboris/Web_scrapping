@@ -1,0 +1,23 @@
+ÁLLÁSHIRDETÉS FELADÁS
+C++ developer 
+Job description
+For 35 years our partner has been offering software solutions which are specifically created for infrastructure and civil engineering. Mensura, their program is an infrastructure design CAD software, with more than 12,000 licenses installed. It offers an entire production chain from processing the survey points to CAD design and 3D modelling. It is a civil engineering design and drafting software, used by civil engineers, land surveyors, construction contractors and draftsmen. Their company is a pure software, cloud and mobile solutions provider for the construction sector and has driven the digitalization of its ecosystem over two decades. They support every stakeholder (e.g. civil engineers, land surveyors, contractors, network owners, engineering design offices and public authorities) involved in the infrastructure, building sites and urban resource management ecosystems, offering an innovative and efficient approach to digital transition, building information and city information modelling.The ideal candidate will be responsible for developing our flagship product, the above mentioned Mensura.
+Responsibilities
+Developing 3D visualization parts of Mensura
+Participate in all stages of software development (analysis, design, implementation, testing, deployment, maintenance)
+Write well-designed, highly scalable and testable code
+Analyze and maintain existing software applications, implement change requirements
+Determine and fix programming bugs
+Participation in international projects
+Qualifications
+Strong C++ programming skills and experience with working in large codebases
+Knowledge of MS Visual Studio
+Analytical approach with an emphasis on accuracy
+Excellent problem-solving abilities with strong attention to details
+Ability to work independently, proactivity
+Up-to-date English knowledge for correspondence and processing technical documents
+Benefits
+High standard working conditions
+Flexible working hours arrangements and home office possibility
+Competitive salary and compensation package Location: Budapest, XII. district
+Jelentkezem

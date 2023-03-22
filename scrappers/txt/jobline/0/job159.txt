@@ -1,0 +1,49 @@
+ Belépés ›
+.NET Developer (Testautomation) (REF369F) (Budapest)
+.NET Developer (Testautomation) (REF369F) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+A Deutsche Telekom IT Solutions (korábban IT Services Hungary, ITSH) Magyarország legnagyobb IKT-munkaadója, a Deutsche Telekom Csoport tagja. A 2006-ban alakult, több mint 5000 fős cég az informatikai és telekommunikációs szolgáltatások széles körét nyújtja. A vállalat 2019-ben elnyerte a Nemzeti Befektetési Ügynökség (HIPA) legjobb oktatási együttműködésért járó díját, a PwC Magyarország független felmérése alapján a legvonzóbb magyarországi munkahelyek közé tartozik, és a legetikusabb multinacionális vállalat címét is megkapta. A cég folyamatosan fejleszti négy – budapesti, debreceni, pécsi és szegedi – telephelyét, és várja képzett informatikai szakemberek jelentkezését a csapatába.
+.NET Developer (Testautomation) (REF369F)
+For the project of a large German multinational automotive company, we are looking for an ambitious, English (or German) speaking specialist who will design complex Software systems. If you like a challenging, varied job, are happy to use your language skills in everyday communication and have relevant experience in software development, you are our candidate!
+Tasks
+Software development and design, specification writing
+Collaborate with customer and internal Test team to support and improve the Testautomation Framework
+Write clean, scalable code using .NET framework and Visual Basic and Java as programming languages
+Maintenance, test and deploy a framework and tools related to a customized HP QC/ALM Testautomation
+Revise, update, refactor and debug existing testframework and tooling code
+Skills:
+General knowledge of modern Testautomation approaches and technologies
+Proven experience in .NET and VBA (Visual Basic for Application)
+Advanced SQL Knowledge
+Excellent troubleshooting and communication skills
+Fluent English
+Advantages
+Experience to work with HP QC/ALM
+Knowledge Ready API and UFT
+At least basic Java programming knowledge
+Understanding of Agile methodologies
+experience with (remote) administration and monitoring test
+Experience to work with AQT as database access tool
+Basic German
+Experience to work in an agile environment using tools like Confluence and Jira
+Experience with GIT
+Required soft skills
+Very good communication and coordination skills
+Self-learning ability
+Team player
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest,Debrecen, Szeged, Pécs
+Jelentkezem az állásra ›
+Neked ajánlott állások

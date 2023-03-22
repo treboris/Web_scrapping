@@ -1,0 +1,47 @@
+ Belépés ›
+AWS Consultant - REF343F (Budapest)
+AWS Consultant - REF343F (Budapest)
+A hirdetés már lejárt!
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team. 
+AWS Consultant - REF343F
+Tasks:
+Create Architectural designs for workloads migrating to AWS
+Perform AWS Well-Architected Reviews
+Create Infrastructure as a Code for AWS services as per the Architecture designs
+Create CI/CD Pipelines for automated deployments.
+Develop Serverless architecture designs in AWS
+Day-to-day AWS support to the customers
+Produce Containerisation solutions on AWS
+Produce documentation for technical implementations in AWS
+Working closely with DevOps teams to ensure security is a large focus and help to build a true DevSecOps culture
+Requirements:
+Demonstrate a strong understanding of the AWS Well-Architected Framework to validate solution/architecture
+Proven experience of Network architecture and design
+Strong experience in defining standards, setting technical roadmaps, designs, strategies and mentoring
+Strong experience in architecting and migrating large scale applications to AWS, as well as Disaster Recovery solutions
+Development tools: GitHub, Python, Perl, Shell, JSON/YAML, Jenkins
+Network: IPv4 CIDR, IPv6, BGP, DNS, VPN (IPsec)
+Fluent in English
+Nice to have:
+Deep expertise in AWS services across Security, Identity, Compliance, Management, Governance, and Networking
+Cloud Security Architecture experience
+Experience in implementing security and governance on AWS
+Any AWS Certification
+Familiar with AWS Services: EC2, S3, IAM, RDS, ECS, ECR, EKS, KMS, Certificate Manager, VPC, Route53, CloudTrail and CloudWatch
+Infrastructure as a Code: CloudFormation, Terraform, Ansible, Chef, Puppet, OpenStack
+German language knowledge
+Multiple
+Munkavégzés helye
+Budapest
+Neked ajánlott állások

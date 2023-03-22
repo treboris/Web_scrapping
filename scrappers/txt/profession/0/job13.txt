@@ -22,44 +22,38 @@ Munkaadóknak
 Hirdetésfeladás
 Regisztráció
 Belépésálláskeresőknek
-IT Operation, Telecommunication
-Telecommunication
+IT üzemeltetés, Telekommunikáció
+IT support, Helpdesk
 Budapest
-NFV-CORE Engineer
-Bónusz
-Huawei Technologies Hungary Kft.
 Budapest
+Következő 
+Terméktámogatási menedzser
+eKRÉTA Informatikai Zrt.
+Infopark C épület, 1117 Budapest, Gábor Dénes utca 4.
 Jelentkezem
 Mentés
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő
-Általános munkarend
+Teljes munkaidő, Alkalmazotti jogviszony
 Elvárások:
-Angol felsőfok
-Nem igényel tapasztalatot
+Nem igényel nyelvtudást
+5-10 év szakmai tapasztalat
 Főiskola
-Juttatások
-Cafeteria
-Munkába járás támogatás
-Egészségbiztosítás
-NFV-CORE Engineer
-New ideas are all around us, but only a few will change the world. Are you a change maker interested to be part of this opportunity?
-The Telecommunications landscape is in a constant flux of change. For telecommunication professionals, knowledge and competence is vital in this ever-changing industry.
-Huawei has a dynamic and multicultural environment, in the great step of opening of a new technical hub in Budapest, Hungary market.
-At Huawei we are looking for people who share our vision: to enrich life through communication. We are offering a challenging position, the opportunity to grow and expend your knowledge through daily interaction with skilled engineers located all over the world.
-We offer exceptional career development opportunities. You will have the direct exposure to the latest technologies and the international team where likeminded professionals exchange and build know-how. We invite you to join and grow with us, to help building a better connected world.
-What you will be working on:
-Support NFV Core project Remote delivery, according to the requirement investigate output HLD/LLD/DD. Remote commission and integration;Troubleshoot the technical problem within test period and services migrate;Be sure the project successes delivery;Provide the remote delivery solution to customer and cooperate with local office delivery.
-What you have to bring with you:
-Degree in IT or electrical engineering (fresh graduates are also welcome)Basic telecommunication knowledge or interestPassionate and eager to learn and be hands on in cutting-edge telecommunication technologyKnowledge of at least one field of core network products technology is an advantage: PS/EPC/5GC/CS/IMS/HSS/PCRF/NFVIHCIE/HCNP/HCNA or equivalent Cisco certificate is considered a plusFluent English language knowledge
-What we offer:
-Putting all the Telecommunication theoretical knowledge into real-life practiceWorking on newest and top-world class telecommunication equipmentGetting to know how the international corporation works to be leading on marketMulticultural environment, where you can see how different people and markets look likeImprovement of technical, as well as soft skillsChallenging work and competitive salary packageMeal allowance (Szép card)Medical assurance at MedicoverMonthly Budapest transportation season ticket, or you can choose transportation allowance if you use car.Annual bonus according with the performance of each employee.Travel outside Hungary as per position/project requires - business trip allowanceOvertime in case of needed - paid extra
-Sector(s):
-IT Development
-Project Management
-IT Operation, Telecommunication
-Telecommunication
+Bővülő csapatunkba új munkatársat keresünk az alábbi pozícióba
+terméktámogatási menedzser
+FELADAT:
+A KRÉTA rendszer terméktámogatása: a beérkező nem informatikai hibajegyek kezelése, kérdések megválaszolása.Az intézmények tantestületének képzése, oktatása. Esetenként 50-100 fős csoportoknak előadás tartása a rendszer működéséről; személyes, helyszíni vagy digitális, on-line formában.Szoftverfejlesztők szakmai támogatása:jogszabályoknak való megfelelés,megbeszélések, új ötletek átbeszélése után, specifikáció írása, az intézmények által támasztott igények átadása a fejlesztők részére.Folyamatos ötletelés a rendszer fejlesztésével kapcsolatban.A teszteléssel kapcsolatban felmerülő feladat: az újdonságok kipróbálása a rendszerben, illetve annak meghatározása, hogy a tesztesetben hogyan kell megcsinálni a szakmai tesztet. (a manuális tesztelésre külön szakemberek vannak)Dokumentációk írása, prezentációk, képernyővideók és egyéb multimédiás anyagok készítése.
+ELVÁRÁSOK:
+felsőfokú pedagógiai végzettség,a KRÉTA rendszer ismerete,minimum 3 év intézményvezető-helyettesi vagy tagintézmény-, intézmény-egységvezető-helyettes tapasztalat,minimum 5 év köznevelési intézményben szerzett tapasztalat (elsősorban óvoda),óvodai nevelés területén szerzett szakmai tapasztalat,tanulási környezetben szerzett tapasztalat, illetve oktatás-módszertani, oktatásmenedzsment ismeret; kiemelt jelentőségű az iskolai, tanári gyakorlat,a webes szoftverek világának ismerete, értése, erős technológiai affinitás,„Office” használatában szerzett jártasság,jó prezentációs készség,önállóság,proaktívitás,kiemelkedő kommunikációs készség,jó problémamegoldó készség, megoldásorientált hozzáállás,nagy munkabírás és stressztűrő képesség.
+A POZÍCIÓ ELNYERÉSÉHEZ ELŐNY:
+informatikai területen szerzett tapasztalatintézményvezetői tapasztalat (óvoda)szakvizsgázott pedagógus, közoktatási vezető vagy bármely pedagógus szakvizsgamesterképzési szakon szerezett végzettség (pl. neveléstudomány)közigazgatásban szerzett tapasztalat 
+MUNKAVÉGZÉS HELYE:
+ Infopark C épület, 1117 Budapest, Gábor Dénes utca 4.
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+IT support, Helpdesk
+Jelentkezés módja
+Jelentkezni lehet a lenti "Jelentkezem" gombra kattintva.
 Jelentkezem
 MENTÉS
 Elküldöm magamnak a hirdetést
@@ -71,45 +65,32 @@ MentésMentés kedvencnek
  Vissza a listára
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő
-Általános munkarend
+Teljes munkaidő, Alkalmazotti jogviszony
 Elvárások:
-Angol felsőfok
-Nem igényel tapasztalatot
+Nem igényel nyelvtudást
+5-10 év szakmai tapasztalat
 Főiskola
-Juttatások
-Cafeteria
-Munkába járás támogatás
-Egészségbiztosítás
  Elküldöm magamnak
  Értesítést kérek
-A cégről
-Huawei Technologies Hungary Híradástechnikai Korlátolt Felelősségű Társaság
-Kereskedelem
-●
-Elektronikus, híradás-technikai berendezés és alkatrészei nagykereskedelme
-100-250 munkavállaló
-2005
-1133
-Budapest,
-Váci út 116-118. 1. ép. 6. em.
-Értékelések a(z) Huawei Technologies Hungary Kft. cégről
+Értékelések a(z) eKRÉTA Informatikai Zrt. cégről
 Értékelések kategória szerint 
-3,6
-Kollégák és céges hangulat 
-4,2
+3,7
+Munkaidő és munkarend 
+3,5
 Megközelíthetőség 
-3,6
+4,2
 Munkakörnyezet 
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
 További vélemények 
 Munkahely értékelése 
 Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
-Értékelem 
+Értékelem
 Önnek ajánljuk
 Hasonló állások megtekintése 
-NFV-CORE Engineer
-Huawei Technologies Hungary Kft.
-Budapest
+terméktámogatási menedzser
+eKRÉTA Informatikai Zrt.
+Infopark C épület, 1117 Budapest, Gábor Dénes utca 4.
 JELENTKEZEM
 Mentés
 Kövessen bennünket! 

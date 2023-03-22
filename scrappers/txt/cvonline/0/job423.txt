@@ -1,0 +1,36 @@
+ÁLLÁSHIRDETÉS FELADÁS
+SYSTEM ENGINEER FOR IOT DEVICE MANAGEMENT 
+We are looking for a motivated and experienced System Engineer to define and setup together with lead architects a common IoT Device and Asset Management solution for rolling stock subsystems, with focus on Rail Freight Automation and Telematics. You will also define how to integrate an IoT Device Management approach in rolling stock workshop procedures (commissioning, maintenance, operation, warehouse). You will be part of a new team that will focus on the development of new Digital Products and Services which will have a huge impact on the future of rail freight in Europe. Take a look at this article: THE FUTURE OF RAIL FREIGHT (https://www.knorr-bremse.com/en/magazine/the-future-of-rail-freight-waki...)
+MAIN TASKS
+Clarify, record, and prioritize device management requirements in coordination with customers and internal stakeholders (development, product management, sales and production and commissioning)
+On this basis, develop concepts and the system architecture elements, clarify the selection of system components, and coordinate the implementation with development teams and suppliers
+Coordinate the implementation, handle technical problems, make the necessary technical decisions
+Ensure the timely availability of new functions, breaking down the milestones in actionable stories that engineers can understand
+In strong cooperation with international teams, integrate device management into the KB-Rail IoT landscape to combine all necessary services for customers in a continuous customer journey
+Manage product backlog, priorities, and timelines
+Work together with distributed teams in Europe and India
+Travel occasionally
+REQUIREMENTS
+A degree in Software Engineering, Electrical Engineering or Computer Science
+Strong experience in IoT Device Management solutions
+Experience in the development of cloud-based systems
+Experience in system requirement engineering with SysML Tools
+Excellent verbal and written communication
+Proficient English language skills
+BENEFITS
+A modern office environment with sports facilities
+Competitive salary and comprehensive benefits package (cafeteria, 13th month allowance, health insurance package, life and accident insurance).
+Participation in international projects
+Non-bound working hours and 3 home office days / week
+Professional skill development opportunities, with our support you can attend professional conferences, training courses, and obtain certificates.
+Innovative products, technologies and solutions
+Supporting team environment
+Closed and guarded parking opportunity
+PREFERRED QUALIFICATIONS
+Knowledge in Cybersecurity topics
+Protocol Stack knowledge like TR069-UL, LwM2M or OMA-DM
+An understanding of the complete device life cycle
+Experience in IoT maintenance concepts
+Background in railway, automotive or automation industry
+German language skills
+Jelentkezem

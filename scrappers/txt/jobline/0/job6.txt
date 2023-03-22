@@ -1,44 +1,53 @@
  Belépés ›
-Rendszergazda (Budapest)
-Rendszergazda (Budapest)
+SENIOR SOFTWARE ARCHITECT (Budapest)
+SENIOR SOFTWARE ARCHITECT (Budapest)
 Jelentkezem az állásra ›
-Mobile Online Kft.
+HVG Kiadó Zrt.
 Alapvető elvárások
 IT, telekommunikáció
-1 - 2 év tapasztalat
+5+ év tapasztalat
 3 - 5 év tapasztalat
 beosztott
 Középfokú végzettség
 teljes munkaidő
-Cégünk, a Mobile Online Kft. (1996 óta prepaid mobilegyenleg-feltöltéssel foglalkozó szolgáltatói integrátor és elszámolóház) 10 év közös munka után új utakat kereső kollegánk helyére azonnali belépéssel Budapest XIX. kerületi munkahelyre
-RENDSZERGAZDA
-munkatársat keres.
-Feladatok:
-telefonos műszaki support ügyfeleinknek
-helyszíni telepítések és műszaki support
-hardwerek javítása, karbantartása
-általános rendszergazdai feladatok
-Amit szeretnénk:
-középiskolai végzettség
-rendszergazdai gyakorlat
-MS Excel és Word szoftverek felhasználói szintű ismerete
-stabil (hálózati) hardware ismeret
-határidők betartása
-önálló és precíz munkavégzés
-B kategóriás jogosítvány
-alapszintű angol nyelvtudás
-plusz jó lenne, ha lenne ügyfelekkel történő kapcsolattartásban gyakorlatod élőben és telefonon is….
+A HVG Kiadó Zrt. online portfólióját fejlesztő csapatunk elkötelezett az új technológiák iránt. Saját megoldásban fejlesztünk online portál- és listingmegoldásokat SQL / NoSQL alapon, hibrid microservice architektúrában, automatikusan tesztelhető és deployolható infrastruktúrában. Fiatal, dinamikus csapatunk több scrum teamre osztva rövid, pörgős sprintekben dolgozik, agilis módszertani és fejlesztési környezetben.
+SENIOR SOFTWARE ARCHITECT
+Kit keresünk?
+Olyan, különböző, modern architekturális stílusokban és fejlesztési módszertanokban jártas, senior kollégát, aki a Fejlesztési üzletág Architect csapatának tagjaként alkalmas lehet a termékgazdákkal közösen gondolkodni és a velük csapatban meghatározott fejlesztési célok megvalósítását tervezni, koordinálni, a megvalósításban részt vevő, szoftverfejlesztő csapatokat szakmailag támogatni, valamint szívesen részt vállal az online termékek és szolgáltatások fejlesztési céljainak architekturális és stratégiai tervezésében is.
+Jellemzőbb technológiák és paradigmák:
+C#, .NET, ASP.NET MVC, Web API, REST;
+JavaScript, TypeScript, jQuery, Vue.js, Nuxt, SPA;
+SQL/NoSQL, MongoDB, PostgreSQL, MS SQL, ElasticSearch, Couchbase, Redis, RabbitMQ, Message Broker;
+Docker, Swarm, Portainer, Kong + Konga, Nginx, Linux / Windows, Kudu, Hangfire;
+GitHub, Git Stach, Sonar, Jenkins;
+Clean Code, SOLID, CI/CD, Infrastructure as a Code;
+Scrum, Kanban, DevOps, TDD, DDD.
+Minimumelvárások:
+Mélyebb elméleti tudás és többéves gyakorlati tapasztalat a fenti technológiák és paradigmák többségében;
+Analitikus gondolkodás, stratégiai látásmód;
+Üzleti érték, valamint ROI- és célorientáltság;
+Precizitás;
+Csapatmunka, coaching-, mentoringtapasztalat;
+Kommunikációs és prezentációs készség, aktív, hatékony tudásmegosztás;
+Igényes munkavégzés, agilis dokuementáció, különböző, modern architektúradiagramok készségszintű, célirányos alkalmazása.
+Előnyök:
+Széles körű, agilis módszertani ismeretek, Agile Coaching-tapasztalat, DevOps-jártasság;
+Distributed architecture/SOA/ microservices;
+Architecture, Design & Socio-architectural Patterns.
 Amit kínálunk:
-kellemes, családias zöldövezeti munkahelyi környezet
-versenyképes fizetés
-jó csapat
-céges autó a munkavégzéshez és a munkába járáshoz Budapest területén
-céges mobil
-céges laptop
-heti 1 HO
-kéthetente péntekenként félnapos munkarend.
-Jelentkezés módja:
-Önéletrajzodat fizetési igény megjelöléssel küldd el kérlek. Amennyiben kérdésed lenne, azt is itt tudod feltenni.
-Várjunk jelentkezésed! 🙂
+Versenyképes fizetés;
+Érdekes szakmai kihívások;
+Home office;
+Dedikált idő az önfejlesztésre, oktatásra;
+Színvonalas, zöld munkakörnyezet;
+State-of-the-art patterns, tools, architecture;
+Legacy rendszerek folyamatos modernizálása, migrálása modern architekturális és infrastrukturális környezetbe;
+Összetartó csapat;
+Coding dojok;
+Közös sörözések, közös futás, csocsó.
+Munkavégzés helye
+Budapest
+Jelentkezés módja 
+Önéletrajzát küldje el a „Jelentkezem az állásra” gombra kattintva.
 Jelentkezem az állásra ›
 Neked ajánlott állások

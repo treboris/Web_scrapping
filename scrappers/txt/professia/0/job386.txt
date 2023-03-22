@@ -1,0 +1,61 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava developer/ka Medior/Senior 
+Java developer/ka Medior/SeniorZENTITY Slovakia s.r.o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+2 300 - 6 400 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiBudete spolu s nami vyvíjať komplexné digitálne riešenia v programovacom jazyku Java. Máme pre vás projekty z oblasti bankovníctva, telekomunikácií, poisťovníctva a iné. Hľadáme skúseného a tvorivého Java developera, ktorý sa vie nadchnúť pre inovácie, vyhľadáva výzvy a objavuje nové technológie. Potrebujeme zodpovedný prístup k funkčnosti a čistote kódu.
+Vašimi úlohami bude:
+•  návrh a implementácia riešenia na základe špecifikácii a podkladov od analytika
+•  integrácia backendových systémov
+•  vytváranie REST webových služieb pre mobilne aplikácie / web Zamestnanecké výhody, benefity• stabilná práca v rastúcej firme
+• veľmi dobré finančné ohodnotenie
+• flexibilná pracovná doba
+• priateľský a neformálny tím
+• teambuildingové akcie
+• podpora športovania a relaxu (Multisport)
+• podpora vzdelávania a účasti na konferenciách
+• motivačný bonusový program pre zamestnanca
+• jazykové vzdelávanie – v anglickom jazyku 
+• možnosť profesného a odborného rastu
+• rôzne formy spolupráce (zamestnanecká zmluva, externá spolupráca)
+• spolupráca aj 100 % REMOTE
+• v prípade zamestnaneckého pracovného pomeru finančný príspevok na stravovanie, notebook
+• pitný režim, skvelá káva a ovocie na pracovisku
+• nástup ihneď alebo podľa dohody Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformačné technológieJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiJava - PokročilýPočet rokov praxe2Osobnostné predpoklady a zručnostiočakávame pracovné skúsenosti v nasledovných oblastiach:
+    •  s návrhom a vývojom aplikácii v jazyku Java / J2EE / Spring Framework
+     • znalosť SQL (H2 / Oracle / MS SQL / ...)
+     • znalosť JPA / Hibernate / Liquibase
+     • integrácia na systémy (SOAP / REST)
+     • znalosť nástrojov na podporu vývoja Maven, Git, JUnit,
+     • výhodou znalosť bezpečnostných princípov a kryptografie
+  • znalosť nástrojov podporujúce kontajnerizáciu riešenia Docker, Helm, Kubernetes
+     •  vítame skúsenosť s agilným developmentom
+     • ochota vzdelávať sa, učiť sa nové veci
+     • dôslednosť, precíznosť, snaha o čistý kód
+     • zodpovednosť, analytické myslenie a orientácia na výsledok
+     • samostatnosť, pritom schopnosť tímovej práce Inzerujúca spoločnosť Stručná charakteristika spoločnostiZENTITY - líder v oblasti digitálnych riešení
+Sme technologickou spoločnosťou pôsobiacou v oblasti vývoja, zabezpečenia a integrácie digitálnych riešení pre smartfóny, tablety a responzívny web. 
+Medzi našich klientov patria významné globálne korporácie – banky, poisťovne a mobilní operátori. Pôsobíme aj v oblasti eHealth či energetiky.
+Sídlíme v Prahe a v Bratislave a zastúpenie máme aj v Maďarsku a v USA. Samostatné projekty vedieme aj u významných zákazníkov na Blízkom východe alebo v Južnej Afrike.
+Sme stredne veľkou spoločnosťou so zavedeným systémom riadenia kvality. Máme dlhoročné skúsenosti, špičkový a dynamický tím nadšených kolegov. Naša firemná atmosféra je príjemná a otvorená. Kvalita našich riešení v spojení so zásadami firemnej kultúry je jednou z našich konkurenčných výhod. Počet zamestnancov50-99 zamestnancov KontaktKontaktná osoba: Bibiana JadamecTel.: +421948311368E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 3599068 
+     Dátum zverejnenia:  2.3.2023 
+    2023-03-02
+lokalita: Bratislava   Pozícia: Java programátor   Spoločnosť: ZENTITY Slovakia s.r.o.   
+Základná zložka mzdy (brutto): 2 300 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

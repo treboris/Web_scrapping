@@ -1,0 +1,40 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSW Engineer C# 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+SW Engineer C#Informácie o pracovnom miesteMiesto práce: NitraMzdové podmienky (brutto): Od 2 300 EUR/mesiac(finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta)*Termín nástupu: DohodouDruh pracovného pomeru: plný úväzokNáplň práce, právomoci a zodpovednosti- SW aplikačná správa a vývoj výrobných systémov ich návrh a deployment
+- Monitoring podporovaných systémov
+- Zodpovednosť za aktualizácie, testing nových verzií systému
+- programovanie Microsoft .NET - VB.Net, C#, .Net 
+- Komunikácia a konzultácie  ohľadom vzniknutých problémov s developermi v zahraničí
+- Zabezpečenie, aby úrovne služieb boli dosiahnuté z pohľadu dostupnosti podľa SLA, zabezpečenie plynulého chodu výrobnej prevádzky
+- Dodržiavanie ITIL (Incident , Change , Problem and Known Error Management)
+- Tvorba potrebných technických reportov a technckej dokumentácie
+- Denná komunikácia v slovenskom a anglickom jazyku Iné výhody- Stabilná medzinárodná spoločnosť. Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieNašim klientom je medzinárodná spoločnosť. Požiadavky na zamestnanca Požadované vzdelaniestredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiMicrosoft Windows - ZákladyOsobnostné predpoklady a zručnosti- Predošlá pracovná skúsenosť na podobnej pozícii zaneranej na správu a konfiguráciu MES systémov 
+- Znalosť programovania Microsoft .NET - VB.Net, C #, .Net 
+- Výhoda znalosť - MES sýstému/aplikácií vo výrobnej spoločnosti, alebo iného produktu 
+- Znalosť PLC, OPC Servers (Kepware and RSLinx), SCADA systémov
+- Skúsenosť s monitorovacími systémami (preferencia Remedy)
+- Výborné komunikačné schopnosti
+- Anglický jazyk na komunikačnej úrovni
+- Proaktívny prístup, ochota a spoľahlivosť Inzerujúca spoločnosť Stručná charakteristika spoločnostiPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)Spoločnosť je držiteľ povolenia na sprostredkovanie práce. (AA/2009/4810/4232/OISS) Hlavná oblasť pôsobenia spoločnostiSprostredkovanie práce a personálne poradenstvo Počet zamestnancov10-19 zamestnancov Informácie o výberovom konaní* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: [email protected]KontaktKontaktná osoba: Mgr.  Anna SpasováTel.: +421 2 6241 3438, +421 911 525 022E-mail: 
+ID: 4515464 
+     Dátum zverejnenia:  7.2.2023 
+    2023-02-07
+lokalita: Nitra   Pozícia: .NET programátor, IT/Technical Support Specialist, PLC programátor, Servisný technik, Správca informačného systému   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 2 300 EUR/mesiac
+                Všetky ponuky

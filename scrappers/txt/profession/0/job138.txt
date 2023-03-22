@@ -1,0 +1,145 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Következő 
+Senior .NET fejlesztő
+VOXINFO KFT.
+Budapest
+ Elvárt technológiák
+C
+ASP.NET MVC
+WEB API
+MVC
+WCF
+WEBAPI
+SQL
+DEVOPS
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Nem igényel nyelvtudást
+5-10 év szakmai tapasztalat
+Középiskola
+ Elvárt technológiák
+C
+ASP.NET MVC
+WEB API
+MVC
+WCF
+WEBAPI
+SQL
+DEVOPS
+VOXINFO KFT.
+Senior .NET fejlesztő
+munkatársat keres
+Szeretnél részese lenni egy dinamikusan fejlődő csapatnak, ahol tudásod meglévő rendszerek felhasználóbaráttá tételére hasznosíthatod, és új projekteken, innovatív megoldásokon dolgozhatsz? Amennyiben csatlakozol hozzánk, különböző internetes és mobil szolgáltatások fejlesztésében vehetsz részt, a mobil parkolástól kezdve az autópálya matrica értékesítésen keresztül hiteles céginformációk nyújtásáig vagy emeltdíjas telefonszolgáltatásokig. Várjuk jelentkezésed Óbudai irodánkba, amennyiben legalább 5 év aktív fejlesztői tapasztalattal rendelkezel és csatlakoznál csapatunkhoz.
+Feladatok
+~30 szolgáltatásból álló infrastruktúra továbbfejlesztése, karbantartása, áttervezése, felújításaÚj szolgáltatások tervezése, bevezetése~15 weboldalból és egy mobil backendből álló szolgáltatás fejlesztése, felügyelete, karbantartásaSupport tevékenység IT támogatása BackOffice fejlesztésekkel, riportokkalRendszerek performanciájának optimalizálásaKülső rendszerekkel való integráció fejlesztése, optimalizálásaFejlesztői csapat támogatásaFejlesztési feladatok megtervezése, ütemezése
+Technológiák
+ASP.NET MVC.NET CoreWCF, ASPXAmazon SESKendo UI
+Szolgáltatási területek
+Parkolás, autópályamatrica, mobiljegy értékesítés, céginformációs szolgáltatások, emelt díjas telefon szolgáltatások
+Minimális elvárások
+C# magas szintű használata, ASP.NET MVC ismerete.NET Core ismerete (Web API, MVC)Magas szintű rendszerszeméletWCF, WebAPI integrációs tapasztalatMS SQL adatbáziskezelő ismerete, SQL nyelv készségszintű használataLegalább 5 év aktív fejlesztői tapasztalat
+Előny
+DevOps, Xamarin tapasztalatRészvétel tervezési feladatokban
+Amit nyújtunk
+Együtt dolgozni dinamikus, motivált munkatársakkal, jó hangulatbanVersenyképes jövedelemIzgalmas új területek megismeréseLegújabb technológiák alkalmazása, fejlődési lehetőségKreatív ötletek megvalósításaModern irodai környezet, de a héten 2-3 napot az otthonod kényelméből dolgozhatsz
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezés módja:
+Fényképes önéletrajzzal és fizetési igény megjelöléssel
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Nem igényel nyelvtudást
+5-10 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+VOXINFO INFORMATIKAI FEJLESZTŐ ÉS SZOLGÁLTATÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG
+Információ, kommunikáció
+●
+Világháló-portál szolgáltatás
+0-10 munkavállaló
+1996
+1037
+Budapest,
+Bécsi út 269.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Senior .NET fejlesztő
+VOXINFO KFT.
+Budapest
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

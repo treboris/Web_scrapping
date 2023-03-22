@@ -1,0 +1,45 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava UI Developer (Wicket) of an open source product  Можливість для людей з України
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyJava UI Developer (Wicket) of an open source productEvolveum s. r. o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Start date
+Immendiately
+Wage (gross)
+From 2 000 EUR/monthFull-time: 2000 € - 4400 € gross / month + bonuses
+Contractor rate: 150 € - 300 € / manday
+Information about the position Job description, responsibilities and dutiesWe are building the best open source identity management & governance software in the world, midPoint. Join our expert development team and help improve a graphical user interface that is based on the Apache Wicket framework. Make the most of the opportunity to design, develop, and maintain midPoint’s GUI while having a considerable amount of freedom in your work.
+What you will do:
+• Collaborate with colleagues including UX designer to design and implement a user-friendly GUI
+• Be part of development team with the main responsibility for the user interface
+• Participate on bugfixing, testing, stabilizing, and preparing midPoint for release
+• Learn and understand how users and identity experts are using midPoint to make the UI even more user-friendly
+• Come up with ideas and put them into practice to influence midPoint’s look and feel
+• Be the person responsible for your time management and workflow to meet agreed deadlines
+• Maintain high standards for code quality and refactor the code reasonably
+✅ Learn more about this position and benefits it brings: https://evolveum.com/jobs/java-ui-developer/
+❤️ Do we match? Take a look into Evolveum’s culture: https://evolveum.com/company-profile/ Employee perks, benefits• Full remote, possibility to work in an office in Bratislava or Košice
+• A possibility to negotiate your time availability to fit your needs (even 4-day work week)
+• No middle management watching over your shoulder
+• We follow open source principles and philosophy that you can fully embrace
+• Opportunity to build your own personal brand with pride and nothing to hide
+• True meritocratic company system
+• Room for pet projects Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Educational SpecializationITLanguage skillsEnglish - Intermediate (B1)Number of years of experience2Personality requirements and skills• Apache Wicket and Java on a reasonable level. Bootstrap knowledge is an advantage. We expect the applicant to learn all mentioned above for their every day work.
+• Software development: at least 2 years of experience with projects of any size 
+• A creative approach towards problems and the ability to find a solution 
+• Experience with identity management is an advantage
+• A bachelor’s degree (and higher) and/or a proven track record 
+• English skills on the B1 level or higher Advertiser Brief description of the companyEvolveum is a globally recognized EU-based organization that was established in 2011. With its dedicated team of professionals, Evolveum is the creator and maintainer of the leading open source identity platform midPoint. The feature set covering identity governance and administration makes midPoint an ideal choice for organizations seeking digital transformation to enhance security and efficiency.
+Thanks to its worldwide effect, midPoint has a valuable community that provides a great source of knowledge and a place to share ideas. And when the IGA journey gets turbulent, Evolveum’s paid services and partners in over 45 countries are there to ensure organizations have the best midPoint experience possible. That is how Evolveum, even though it is a vendor of a completely open source product, has stable revenue that allows it to have a full-time dedicated technical and non technical team. Number of employees25-49 employees 
+ID: 4505597 
+     Dátum zverejnenia:  6.2.2023 
+    2023-02-06
+lokalita: Remote work   Pozícia: Backend developer, Frontend developer, IT Security Specialist, Systems Engineer, User Experience Expert   Spoločnosť: Evolveum s. r. o.   
+Základná zložka mzdy (brutto): 2 000 EUR/month
+                Všetky ponuky

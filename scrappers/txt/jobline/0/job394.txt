@@ -1,0 +1,41 @@
+ Belépés ›
+Senior Machine Learning Engineer (Budapest)
+Senior Machine Learning Engineer (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Machine Learning Engineer
+- Bring expertise in the application of artificial intelligence to real-world problems in drug discovery and development.
+- Work as a member of a cross-functional team comprising specialists in AI, drug discovery and bioinformatics. In these teams, you will apply the latest advances in machine learning to develop tools for drug discovery and development.
+- Implement reproducible workflows to investigate how can AI support us as we move deeper and deeper into sub-cellular mechanisms where there’s very little data.
+- Build and optimize scalable machine learning systems to extract biological truth from noisy lab measurements using state-of-the-art machine learning. Finding of how the incorporation of those can enhance the firm's drug predictions.
+Our Client is building a computational model of human cellular biology, transforming the understanding of deadly disease and designing life-saving treatments for patients with cancer.
+Combining molecular biology with data science, artificial intelligence and massive scale in the cloud, our interdisciplinary team works with leading biopharmaceutical companies across the globe.
+They are a diverse team, driven by a shared thirst for understanding. Their data scientists, software engineers, molecular biologists and medical doctors are laser focused on unlocking complex cancer mechanisms and ways to precisely target them with efficient therapies.
+- Couple of years industrial experience
+- An advanced degree in computer science or equivalent experience
+- The ability to implement ETL procedures combining multiple databases
+- Knowledge of modern tools for ML such as Tensorflow 2, SageMaker, etc.
+- Experience implementing machine learning workflows in the cloud
+- An ability to work well in a research-heavy area with lot of unknowns
+Nice to have:
+- Experience building research prototypes for scientific investigation
+- Experience with relevant research applying modern machine learning and artificial intelligence techniques to biological data (e.g., genomics, transcriptomics, epigenomics, proteomics, etc.) or clinical data (e.g., electronic health records)
+- Knowledge of the pharmaceutical industry, ideally with a focus on drug discovery
+- innovative enviroment
+- team building events
+- carrier path
+- good career path
+- exiting projects
+- fast self-improvement
+- expanding team
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások

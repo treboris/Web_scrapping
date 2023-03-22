@@ -1,0 +1,17 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceProgrammer for Identity and Access Management 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+O nás
+Kariéra
+Kontakt
+                        find ( “perfect_job” );Buď súčasťou našich projektov.
+Programmer for Identity and Access ManagementPlace of workRemote work Basic wage component (gross) and other rewardsfrom 2 000 € + variable component(base salary depends on seniority, experiences and qualification of the candidate) Your roleWe are looking for a colleague who will work in a multi-national team (Germany, Vietnam, Slovakia) on a Data consolidation layer. You will become a member of a highly skilled team focused on monitoring and assessing risk and protecting corporate assets. The team is providing professional Application Maintenance & Support (AMS) services in the area of Security Operations as a managed service. As a part of the team, you will be working for a world leader in renewables with a clear growth focus. The role also includes: working with the DCL module (Data Consolidation Layer) which collects, sorts and cleans data for further processing the whole system is hosted on AWS and is the entry point for SailPoint (identity management system) transferring data via APIs or files processing e.g. rights for new users, leavers or movers and coding how the data are transferred to other systems (in Java, Python) processing such SailPoint requests using OS Windows and Linux scripts analyzing logs, correcting data in SQL databases or fixing programs  What do we expect? you have experience with Sailpoint IdentityNow and Active Directory you are experienced with the following tools:  Service Now - back office Confluence Jira Trello   you have the following programming skills:  DB MS SQL - basics Java, Python - intermediate Windows and Linux OS scripts - intermediate Powershell scripting - intermediate HTML - basics   you have experience with Git - Bitbucket you have been working with AWS Glue, S3, EC2, RDS, Lambda, and SES your experience with Terraform, AWS CodeBuils and AWS CodeCommit is an advantage you speak English fluently, German is an advantage   Our benefits variable component in amount of 13. salary company social benefit up to 2 000 € extra project bonus company performance bonus loyalty bonus referral bonus up to 3 000 € unlimited, fully equipped home office flexible working hours hard and soft skills trainings, conferences and certifications unlimited access to all Udemy for Business e-learning trainings language course and upskill project contribution on your own hardware multisport card recreation voucher family culture teambuilding and sport activities  ContactContact person: Mgr.  Dominika SpišákováE-mail: send CV 
+ID: 4513621 
+     Dátum zverejnenia:  3.2.2023 
+    2023-02-03
+lokalita: Remote work   Pozícia: Java Programmer, Python Programmer   Spoločnosť: Fpt Slovakia s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 000 EUR/month
+                Všetky ponuky

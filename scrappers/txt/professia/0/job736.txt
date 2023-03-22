@@ -1,0 +1,35 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práce.NET Developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky.NET DeveloperDOKUMENTA, a.s.
+Miesto práce
+Trenčín, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme .NET vývojárov do zabehnutého teamu.
+- spolupráca s ďalšími developermi na vývoji systému z oblasti DMS a registratúry
+- udržiavanie projektu ako aj vývoj nových funkcií
+- spoluúčasť pri návrhu a tvorbe systémovej architektúry pre vyvíjané riešenia
+- stabilný dlhodobý projekt Zamestnanecké výhody, benefity- sick days
+- home office (v rámci dohody)
+- firemný notebook
+- flexibilná pracovná doba
+- práca s modernými technológiami
+- možnosť zúčastňovať sa na vzdelávacích kurzoch Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitouJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Osobnostné predpoklady a zručnosti- Minimálne 3 roky skúseností s vývojom aplikácií v C#/.NET
+- Skúsenosti s MS SQL
+- Entity Framework Core
+- DevOps
+- Docker
+- GIT
+- skúsenosti s Kubernetes výhodou Inzerujúca spoločnosť Stručná charakteristika spoločnostiSpoločnosť sa zaoberá vývojom a implementáciou softvérových riešení pre správu a riadenie dokumentov a ich obehu v spoločnosti, riešení pre elektronickú fakturáciu, prenos elektronických dát a dokumentov. Počet zamestnancov10-19 zamestnancov 
+ID: 4185582 
+     Dátum zverejnenia:  26.1.2023 
+    2023-01-26
+lokalita: Trenčín   Pozícia: .NET programátor   Spoločnosť: DOKUMENTA, a.s.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+                Všetky ponuky

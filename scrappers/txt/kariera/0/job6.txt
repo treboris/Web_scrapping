@@ -1,0 +1,81 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+ Analytik IT - SDS
+			11.03.2023		
+			Sociálna poisťovňa			
+ Miesto práce: 
+ Ul. 29.augusta/10Bratislava 
+ Pozícia / odvetvie: 
+ IT analytik 
+Ponúkaný plat (základná mzda):
+1800 EUR
+ Termín nástupu do práce: 
+ od 15.4.2023  
+ Druh pracovného pomeru: 
+ plný úväzok 
+ Počet voľných miest: 
+ 1 
+Informácie o pracovnom mieste
+ Náplň práce, informácie o pracovnom mieste: 
+ - podpora projektového tímu pri návrhu, vývoji, testovaní a nasadení systémov;
+- analýza a návrh riešenia nových aplikácií resp. zmien v existujúcich systémoch;
+- zber požiadaviek, komunikácia so zadávateľmi požiadaviek;
+- analýza a návrh riešenia, detailný návrh implementácie, funkčná špecifikácia, tvorba vývojových diagramov;
+- testovanie navrhovaného systému, komunikácia s ostatnými vývojármi v tíme;
+- tvorba dokumentácie, školenie koncových používateľov;
+- podpora produkčnej verzie aplikácií, práce na zapracovaní zmien a odstraňovaní chýb;
+- analýza dátových štruktúr v existujúcich systémoch, práce na výbere a poskytovaní údajov pre interné/externé subjekty; (zber požiadaviek na výber, vytváranie a spúšťanie SQL skriptov)
+- oboznamovanie sa s legislatívou v oblasti sociálneho poistenia.
+ Benefity a ďalšie výhody: 
+ • Poskytujeme 1 týždeň dovolenky navyše.
+• Na oddych môže zamestnanec a jeho rodinní príslušníci využívať naše doškoľovacie a rekreačné zariadenia v Pavčinej Lehote, alebo na Starých Horách.
+• U nás je 7,5 hodinový pracovný úväzok, pričom poskytujeme pružný pracovný čas.
+• Byť chorý nie je nikomu príjemné. Svojim zamestnancom poskytujeme už od prvého dňa „péenky“, zvýšenú náhradu príjmu, ktorá je vo výške 70% denného vymeriavacieho základu.
+• Pri zjavnom ochorení môžete využiť 2 dni voľna navyše.
+• Obed z domu, alebo menučko? Zamestnancom prispievame na stravovanie takmer 75% z celkovej výšky stravovacej poukážky 5,10€.
+• Do III. piliera prispievame 3% až 6%, podľa dĺžky pracovného pomeru.
+• Vážime si solidárnosť, a preto každému darcovi krvi ktorý získa niektorú z Jánskeho plakiet, poskytujeme finančnú odmenu vo výške od 70€ do 350€.
+• Ak sa zamestnanec ocitne vo finančnej tiesni, nemusí chodiť do banky, či iných finančných inštitúcií, ale môže požiadať o nenávratnú finančnú výpomoc, alebo návratnú bezúročnú pôžičku za zvýhodnených podmienok priamo Sociálnu poisťovňu.
+• Byť verný a spoľahlivý sa oplatí. Každý zamestnanec pri pracovnom, alebo životnom výročí získa peňažnú odmenu.
+ Informácie pre uchádzača: 
+	O výsledku konania budeme informovať každého uchádzača.  
+Požiadavky na zamestnanca
+ Minimálne požadované vzdelanie: 
+ vysokoškolské I. stupňa (bakalárske) 
+ Jazykové znalosti: 
+ Anglický jazyk (mierne pokročilý - B1) 
+ Vhodné pre absolventov: 
+ Nie 
+ Iné znalosti:	
+ Microsoft Excel, Microsoft Outlook, Microsoft PowerPoint	
+ Všeobecne požadované znalosti: 
+ Osobnostné predpoklady a zručnosti:
+- všeobecný prehľad v IT a znalosti IT infraštruktúry;
+- znalosť metodiky SW vývoja;
+- praktické skúsenosti v oblasti návrhu a dizajnu SW riešení;
+- prax v oblasti analýz a návrhu dátových štruktúr, práce s dátami;
+- znalosť UML, SQL, XML;
+- aktívne skúsenosti s MS Word, MS Excel, MS Power Point;
+- znalosť Visual Paradigm výhodou;
+- analytické myslenie;
+- schopnosť rýchlej orientácie v problematike;
+- flexibilita, samostatnosť, presnosť a spoľahlivosť;
+- konštruktívny a pozitívny prístup pri riešení problémov;
+- slušné a profesionálne vystupovanie a komunikácia;
+- zmysel pre tímovú spoluprácu.
+Informácie o spoločnosti
+ Charakteristika spoločnosti: 
+ Sociálna poisťovňa je verejnoprávna inštitúcia poverená výkonom nemocenského poistenia, dôchodkového poistenia, úrazového poistenia, garančného poistenia a poistenia v nezamestnanosti. Za podmienok ustanovených v zákone č. 461/2003 Z. z. o sociálnom poistení poskytuje poistencom dávky vyplývajúce z určených druhov poistenia. Sociálna poisťovňa spravuje Centrálny informačný a ponukový systém (CIPS), prostredníctvom ktorého sporiteľ/žiadateľ o dôchodok zo starobného dôchodkového sporenia dostáva všetky ponuky na dôchodok od poisťovní a dôchodkových správcovských spoločností z jedného zdroja.  Oblasť pôsobenia: 
+ Všeobecná verejná správa  Adresa: 
+ Sociálna poisťovňa29. augusta 8 a 10Bratislava  -  mestská časť Staré MestoSlovenská republikawww.socpoist.sk/  Kontaktné údaje: 
+ Gabriela Grečnárová Magalová29. augusta 8 a 10, Bratislava  -  mestská časť Staré Mesto, 81363, Slovenská republika Tel: 0908088715   
+Reagovať na ponukuĎalšie ponuky spoločnosti
+Programátor COBOL
+Bratislava
+Analytik IT - CIPS
+Bratislava
+Kyber bezpečnostný inžinier
+Bratislava
+Posudkový lekár
+Bratislavský kraj, Trnavský kraj, Trenčiansky kraj, Nitriansky kraj, Žilinský kraj, Banskobystrický kraj, Prešovský kraj, Košický kraj
+Iné možnosti práceIT analytik Bratislava | Bratislava plný úväzok
+Späť na pracovné ponuky

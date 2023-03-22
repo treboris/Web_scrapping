@@ -1,0 +1,11 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Multinacionális partnercégünk a magyar biztosítói piac vezetője, globálisan pedig 140 000 munkatárssal állnak 86 millió ügyfél rendelkezésére.
+A magyar operációt kiszolgáló informatikai csapat bővülése kapcsán keressük a leendő Enterprise Architect kollégát.
+Főbb feladatok:IT architektúra tervezése, modellezése;IT stratégia kialakításában való aktív részvétel;Régiós, külső szolgáltatások integrálásának tervezése, támogatása;Hazai és nemzetközi projektekben való részvétel;Informatikai fejlesztések támogatása és felügyelete.
+                Elvárások / Requirements
+Elvárások:Felsőfokú informatikai végzettség;3 éves, multinacionális vállalatnál vagy biztosítónál szerzett tapasztalat;Aktív, magabiztos angol nyelvtudás (szóban és írásban egyaránt);Többrétegű architektúra ismerete, felhő alapú technológiákban való jártasság (pl. MS Azure, Openshift, Docker, Kubernet);Enterprise architektúrában való jártasság, fejlesztési módszertan ismeretek;Határozott, eredményorientált személyiség;Problémamegoldó képesség, gyakorlatias gondolkodás, folyamatszemlélet
+                Amit nyújtunk / Benefits
+Stabil vállalati háttér;Versenyképes fizetés;Éves prémium;Lehetőség munkavégzésre környező országok operációiban;All You Can Move kártya támogatás;Home office;Szakmai képzések (LinkedIn Learning)
+Enterprise architect 
+Jelentkezem

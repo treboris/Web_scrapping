@@ -1,0 +1,42 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePHP Developer/ka  
+PHP Developer/ka Websupport, s.r.o.
+Miesto práce
+Karadžičova 12, Ružinov
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+po dohode
+Mzdové podmienky (brutto)
+1 400 - 3 400 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiChceš vyvíjať produkty, ktoré používajú desaťtisícky našich zákazníkov? Ak ťa láka robiť na dynamických end-to-end projektoch a okrem samotného vývoja sa chceš podieľať aj na dizajne riešení, si na dobrej stope.
+Ako bude vyzerať tvoj deň v práci?
+Pred ranným stand-upom o desiatej si dáš s kolegami z develu kávu. Potom preberiete, na čom pracuješ, s čím sa ti darí a s čím potrebuješ pomôcť.
+Tvojou dennou rutinou bude návrh, kódenie a code review na požiadavkách, ktoré zadávajú naši product owneri. 
+Pravidelne budeš spolupracovať s ostatnými PHP developermi a teamleadom, našim front-end teamom, projekťákom a produkťákom. 
+Dôležité je, že budeš riešenia nielen navrhovať, ale ich aj objasňovať a diskutovať o nich s kolegami z tímu. Využívať budeš hlavne Laravel a Symfony.
+Pracovať budeš na jednom z migračných projektov (dopĺňanie feature parity z iných platforiem), nových produktoch, alebo na prerábke jedného zo starších systémov do novej architektúry. Zamestnanecké výhody, benefityPracuj s nami, ako ti to najviac vyhovuje: Malé deti? Iné projekty? Navrhni si typ spolupráce podľa seba. Ponúkame full-time / part-time, TPP / freelance či spoluprácu len na určitom projekte.
+Podporu skúseného tímu: kolegov, ktorí ťa radi naučia čokoľvek v čom sa necítiš komfortne a pomôžu ti rozvíjať tvoje najlepšie “ja”. Spoznaj svojich budúcich kolegov na slobodukoderom.sk.
+Dôveru v tvoje schopnosti: priestor pre tvoj názor a diskusie nad riešeniami systémov, návrhy veľkých architektúr a ich samotnú implementáciu.
+Príležitosť rásť: či už po technickej, ľudskej alebo manažérskej stránke, možnosť chodiť na prednášky a konferencie (ako účastník/účastníčka alebo aj ako prednášajúci/prednášajúca), príležitosť študovať jazyky, interné vzdelávanie, workshopy.
+Priestor pre seba: samozrejmosťou je flexibilný pracovný čas a možnosť home officu, k tomu 6 dní dovolenky navyše a Multisport karta pre tvojho športového ducha.
+Cooltúru: hackathony, grilovačky, raňajky, vianočný žúr a k tomu najkrajšie kancelárie (Office roka 2020) s občerstvením, terasou, masážami či workout systémom, LAN parties!
+Máme čas na kvalitu: robíme si code reviews, píšeme mnoho automatizovaných testov, naša technická stratégia sa snaží eliminovať technický dlh, máme priestor na refactor.
+2 projektové dni v mesiaci: nauč sa niečo nové alebo experimentuj s tým, čo ťa baví – posunieš tak seba aj nás. Informácie o výberovom konaníNajprv si s tebou zavolá Lucia z HR a pobavíte sa o našich aj tvojich očakávaniach od spolupráce. Na následnom osobnom rozhovore s naším tímom si detailnejšie prejdeme tvoje skúsenosti a ty sa nás popýtaš, čo ťa ešte o pozícii zaujíma, aby sme zistili, či sa k sebe hodíme. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Osobnostné predpoklady a zručnosti- Máš dobrú znalosť PHP.
+- Máš pracovnú skúsenosť s MVC frameworkom.
+- Si zbehlý/zbehlá v GIT a composer.
+- Nebojíš sa experimentov a problémov, rád/rada sa z nich poučíš a vymyslíš zlepšenia.
+- Chuť na sebe pracovať a zlepšovať sa.
+- Skúsenosť s prácou v tíme je veľkou výhodou.
+- Skúsenosť s písaním automatizovaných testov je výhodou (PHPUnit, CodeCeption, Selenium…). Inzerujúca spoločnosť Stručná charakteristika spoločnostiFirma, ktorá to zo študentského internátu dotiahla až na jednotku na trhu. Je povestná svojou uvoľnenou firemnou kultúrou, podporou komunity a zodpovedným spoločenským prístupom. Snom každého/-ej talentovaného/-ej (ale aj úplne začínajúceho/-ej) “ítéčkára/ítečkárky” je pracovať práve tu. Počet zamestnancov50-99 zamestnancov KontaktKontaktná osoba: Lucia KvašňákováE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 3969658 
+     Dátum zverejnenia:  6.3.2023 
+    2023-03-06
+lokalita: Bratislava   Pozícia: PHP programátor, Programátor, Softvérový inžinier   Spoločnosť: Websupport, s.r.o.   
+Základná zložka mzdy (brutto): 1 400 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

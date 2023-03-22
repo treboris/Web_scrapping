@@ -1,0 +1,56 @@
+ Belépés ›
+Linux System Administrator (REF668D) (Budapest)
+Linux System Administrator (REF668D) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+The largest ICT employerin Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH)is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sitesin Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Linux System Administrator (REF668D)
+Our Linux System Operation Team provides 2nd Level tecnical support to Austrian and Swiss Customers and carry out different Linux based migrations and deployments. If you have stabile Linux experiences and want to try out yourself in the operation, and also in the automation field and take part in interessting projects, you are the colleague we are looking for.
+2nd or 3rd level technical support, SLES, Red Hat, Vmware vCenter, Linux, Administration, Server administration, OS Admin
+Task: 
+Linux System administration with emphasis on the Red Hat Linux Enterprise Operating System
+Diagnosing and resolving RHEL, SUSE issues
+Work together with other Linux System Administrators
+System installation
+Patching activities
+ITIL based ticket administration and documentation  (Incident and Change Management)
+Participation in customer and vendor calls
+Providing on-call support
+solving complex problems, doing Root Cause Analysis
+capacity planning, performance tuning, optimization related activities
+automation related scripting tasks
+knowledge sharing
+Requirements: 
+BSc in Information Technology or equivalent work experience in technical field
+Minimum 1-3 years experiences within supporting UNIX systems 
+Experiences in UNIX administration, and with monitoring systems (HP OM; Zabbix; Nagios)
+Network knowledge, understanding of TCP/IP protocols in a server environment
+Virtualization platforms, like VMware vCenter
+Intermediate English language skill (fluent written and oral)
+Accurate, precise work, individual and group at Work, willingness to learn , ambitious personality , initiative
+Advantages:
+Experiences with Bash scripting, or other scripting languages 
+Experiences with ticketing systems (SNOW, HP SM9)
+Infrastructure Management Products (Red Hat Satellite, SuSE Manager)
+Ansible
+Experiences with ITIL
+German language knowledge
+Personality:
+reliable, conscientious, engaged, open, continuous learning, teamplayer, responsible person
+customer focused attitude and communications 
+willingness to learn new technologies
+proactivity
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások

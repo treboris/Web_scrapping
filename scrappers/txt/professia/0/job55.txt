@@ -1,0 +1,42 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSoftware Developer Continuous Integration 
+Software Developer Continuous IntegrationVITA COM BUSINESS EURÓPA, s.r.o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Wage (gross)
+From 2 500 EUR/month
+Information about the position Job description, responsibilities and dutiesThe cars of the past were guided by human hands – the cars of the future will be driven by human ideas. In the quest towards full automation, we have set out to tackle the toughest challenge of autonomous driving – safety. Our trusted safety platform is on board more than one million vehicles.
+Curiosity and passion for high-tech innovation! This combination has made us the technological heart of the complex field of autonomous driving. As expert for continuous integration you create the innovative and efficient foundation for the development of complex software systems. Use this opportunity to support our mission of advancing safe technologies and improving human lives!
+Your Tasks
+•	Develop and maintain the continuous integration framework for the autonomous driving projects
+•	Develop, maintain and automate tools for infrastructure and build automation
+•	Create software release packages
+•	Guide the software release process
+•	Evaluate new tools and make sure used frameworks are best in class
+•	Provide configuration management support to projects
+Your Profile
+•	Technical education (e.g. Computer Science, Physics, Electrical Engineering or related)
+•	First experience with continuous integration (e.g. Jenkins) and configuration management (e.g. git) tools.
+•	Knowledge in programming (Python, C), Windows and/or Linux shell scripting
+•	Interest in automation of workflows and processes
+•	Motivated and committed team player with curiosity for innovation.
+•	Flexibility and self-motivation are among your strengths
+•	Good command of English, German is an advantage Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)Other knowledgePython - AdvancedC - AdvancedShell Scripting - Skillful Advertiser Brief description of the companyThe company with stable position in European IT market. Excellent references of realized projects or projects in realization. Number of employees50-99 employees ContactContact person: Mgr.  Martin TrenčanskýTel.: +421917660851E-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4496836 
+     Dátum zverejnenia:  20.2.2023 
+    2023-02-20
+lokalita: Remote work   Pozícia: C Programmer, Programmer, Python Programmer   Spoločnosť: VITA COM BUSINESS EURÓPA, s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

@@ -22,14 +22,13 @@ Munkaadóknak
 Hirdetésfeladás
 Regisztráció
 Belépésálláskeresőknek
-IT üzemeltetés, Telekommunikáció
-Rendszergazda
-Bács-Kiskun megye
-Kecskemét
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
 Következő 
-Hálózati Rendszergazda Informatikus
-DELTAKON Kft.
-6000 Kecskemét, Izsáki út 2.
+Senior adatmérnök / Java fejlesztő 
+UNIQA Raiffeisen Software Service Kft.
+1053 Budapest, Szép utca 2.
 Jelentkezem
 Mentés
 Az állásról
@@ -38,22 +37,24 @@ Teljes munkaidő, Alkalmazotti jogviszony
 Általános munkarend
 Elvárások:
 Nem igényel nyelvtudást
-1-3 év szakmai tapasztalat
+3-5 év szakmai tapasztalat
 Középiskola
-DELTAKON Kft.
-Munkatársat keresünk
-Hálózati Rendszergazda Informatikus
-pozícióba.
-El tudsz végeztetni dolgokat emberekkel?Gyorsan gondolkodsz, és hamar találsz jó megoldást?Szeretsz embereknek segíteni, IT problémák széles körét megoldani?Napi életünk része, az Internet, a telefon és a tv szolgáltatás, melyek gerincét képző, vezeték nélküli informatikai elosztó hálózatunk üzemeltetése lesz a fő feladatod.
-Főbb feladatok, munkák:
-A legfontosabb elvárás, hogy gyorsan oldj meg ügyfeleinknél felmerülő problémákat, hogy elégedettek legyenek, és úgy érezzék, hogy maximális szolgáltatást és törődést kapnak. Számos ügyfélnek fogsz távoli segítséget nyújtani, és időnként több helyszínre is ki kell menni.A teljesítményt a reagálási és teljesítési idővel, valamint ügyfeleink elégedettségi felmérésének eredményével mérjük.Az deltanet egy 1996-ban alapított kecskeméti vállalkozás, mely jelenleg 20 munkatárssal, 50 településen, 4000 előfizetőt szolgál ki. Napi szinten 10.000 Mikrotik illetve Ubiquiti eszköz felügyeletét látjuk el. Küldetésünk a magas színvonalú távközlési szolgáltatások eljuttatása ügyfeleinkhez, mellyel támogatjuk mindennapi életüket és üzleti sikereiket. Tevékenységünk eredményeként stabilan növekszünk és terjeszkedünk.
-Az álláshoz tartozó elvárások:
-A munkakör kitartást és motivációt igényel, ahhoz, hogy a műszaki ügyfélszolgálat sikeres legyen. Tanulási és fejlődési lehetőség, valamint egy jövedelmező karrier folytatásának lehetősége vár csapatunkban.Ha nincs elég gyakorlatod ezen a területen, akkor se aggódj! Tapasztalt kollégákkal, jól együttműködő csapatként végzitek a napi munkákat, így gyorsan beletanulsz.Tevékenységünkkel simává és termékennyé tesszük ügyfeleink mindennapi életét és üzleti működését.Már dolgoztál és szereztél tapasztalatot IT Ügyfélszolgálati környezetben?Problémák gyors megoldásában kimagasló eredményeket értél el?Úgy érzed, sikeres lennél ebben a munkakörben?Jelentkezz a linkre kattintva egy pár perces kérdőív kitöltésével!
+Az ausztriai UNIQA Konszern magyarországi szoftverfejlesztő partnereként már több, mint 25 éve végzünk IT szolgáltatásokat anyavállalatunk számára.
+Budapesti csapatunk erősítésére, az UNIQA vállalati adatplatformjának kiépítésére és létrehozására keresünk motivált kollégát "Adatintegráció és Big Data" projektünkhöz az alábbi munkakörbe:
+Senior adatmérnök / Java fejlesztő
+A MUNKAKÖR CÉLJA:
+Vállalati szintű adatintegrációs és adatbeviteli megoldások megvalósítása a Big Data technológiák felhasználásávalKözreműködés egy agilis csapatban, amely elkötelezett a magas minőségű eredmények gyors szállítása iránt az ETL, az adatintegráció és a Big Data eszközcsomag használatával, nemzetközi kollégákkal együttA meglévő adatintegrációs alkalmazások életciklusának támogatásaA meglévő eszközök/keretrendszerek átalakítása holisztikus "Data-as-a-Service" platformmá
+FŐBB FELADATOK:
+Az UNIQA adatmegoldásainak megvalósítása:Adatbeviteli megoldások fejlesztése, karbantartása és tesztelése "alulról felfelé" a forrástól (pl. legacy / mainframe / near real time) a célpontig (fájlok / interfészek / adatmárkák)Change Data Capture folyamatok megvalósítása, amelyek lehetővé teszik az UNIQA számára a valós idejű adatfolyamok használatát  (pl. Kafka).DevOps rutinok és eljárások javításaAdatfeldolgozó rendszereket és ETL-csatornákat épít a Hadoop ökoszisztémában (Spark, Hive, HBase, Impala, Nifi)Hozzájárul az adatkezeléshez az adatvonalak, az adatkatalogizálás és az adatmodellezés lehetővé tétele tekintetébenMotivált, interdiszciplináris csapatban dolgozik együtt különböző üzleti érdekeltekkel, architektekkel, adatmérnökökkel, rendszermérnökökkel és adattudósokkal mind az üzleti, mind az informatikai területről
+ELVÁRÁSAINK:
+Legalább 3 év Java-fejlesztés vállalati környezetbenNagyfokú jártasság a Big Data Hadoop/Spark/Hive/HBase/Impala/Kudu ökoszisztémákban,pl. Cloudera/HortonworksA legmodernebb adatintegrációs és ETL (pl. Nifi, AirFlow, Talend), valamint adatreplikációs és üzenetközvetítő (pl. Kafka) eszközökben való magas szintű jártasságTapasztalat a CICD (Jenkins, Hudson), IaC és DevOps eszköztárakkal (Ansible, Terraform, Kubernetes)Tapasztalat az alkalmazások felhőinfrastruktúra-szolgáltatók használatával történő beállításábanKiváló szóbeli és írásbeli kommunikációs készség német és angol nyelven (német nyelvtudás előny)Kiváló csapatjátékos, aki képes problémamegoldóan, agilis környezetben dolgozni
+ELŐNYT JELENT
+FinTech / biztosítási tapasztalatKülönböző programozási vagy szkriptnyelvek, például SQL (ANSI és dialektusok), Python, R, Perl, Ruby ismereteAz adatkezelési és adatkatalogizálási eszközök ismerete (pl. Apache Atlas / Cloudera Navigator) Munkavégzés helye: 1053 Budapest, Szép utca 2.
+Jelentkezés módja
+Légy tagja egy sikeres és jó hangulatú csapatnak, ahol belvárosi iroda, jó munkakörülmények, modern munkakörnyezet, nyugodt, szakmai légkör vár.Amennyiben szeretnél a biztosítói szféra számára fejlesztési projektekben részt venni, várjuk jelentkezésed magyar és német/angol nyelvű önéletrajzzal és a fizetési igény megjelölésével!
 Állás, munka területe(i):
-IT üzemeltetés, Telekommunikáció
-Hálózati és Rendszermérnök
-IT support, Helpdesk
-Rendszergazda
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
 Jelentkezem
 MENTÉS
 Elküldöm magamnak a hirdetést
@@ -69,51 +70,49 @@ Teljes munkaidő, Alkalmazotti jogviszony
 Általános munkarend
 Elvárások:
 Nem igényel nyelvtudást
-1-3 év szakmai tapasztalat
+3-5 év szakmai tapasztalat
 Középiskola
  Elküldöm magamnak
  Értesítést kérek
 A cégről
-DELTAKON Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság
+UNIQA Raiffeisen Software Service Kft.
 Információ, kommunikáció
 ●
-Egyéb távközlés
-10-25 munkavállaló
-2010
-6000
-Kecskemét,
-Izsáki út 2. 1. em. 16.
-Értékelések a(z) DELTAKON Kft. cégről
-3,8
-14 értékelés alapján 
+Információ-technológiai szaktanácsadás
+50-100 munkavállaló
+1996
+1053
+Budapest,
+Szép utca 2.
+Értékelések a(z) cégről
+4,0
+3 értékelés alapján 
 Értékelések kategória szerint 
-3,6
-Bérezés és juttatások 
-3,6
+4,7
 Munkaidő és munkarend 
-3,5
-Fejlődési, előrelépési lehetőség 
-3,6
+4,7
 Munka és magánélet egyensúlya 
-4,4
+4,0
 Kollégák és céges hangulat 
-4,4
+5,0
 Megközelíthetőség 
-3,9
+4,3
 Munkakörnyezet 
 További kategóriák  
 A munkahely előnyei 
-Vállalják a betanítást 
+Ajánlaná ismerőseinek 
+Biztosítják a munkaeszközöket 
+Támogatják a képzéseket 
 További vélemények 
 Munkahely értékelése 
 Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
-Értékelem 
+Értékelem
 Önnek ajánljuk
 Hasonló állások megtekintése 
-Hálózati Rendszergazda Informatikus
-DELTAKON Kft.
-6000 Kecskemét, Izsáki út 2.
-Jelentkezem
+Senior adatmérnök / Java fejlesztő
+UNIQA Raiffeisen Software Service Kft.
+1053 Budapest, Szép utca 2.
+JELENTKEZEM
 Mentés
 Kövessen bennünket! 
 Rólunk

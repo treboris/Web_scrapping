@@ -1,0 +1,53 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePython developer - Renewable Energy sector - HPP 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyPython developer - Renewable Energy sector - HPPManpowerGroup s.r.o.
+Místo práce
+Jihomoravský kraj, Česká republika
+Druh pracovního poměru
+plný úvazek
+Informace o pracovním místě Náplň práce, pravomoci a zodpovědnostiOur client is a fast-growing start-up in the renewable energy sector and is dedicated to clean energy use. Provider of automated carbon reduction and electricity cost-saving technology for small and medium-sized enterprises. Headquartered in the UK and Czech Republic, company currently operates sites in the UK, Czech Republic, Slovakia, Croatia and Poland.  We are looking for talented Python developer for edge control devices. You will be developing and optimising control logic for energy flows and communication with external devices via ethernet (like EV chargers, Batteries, Photovoltaic or Heat pump). Development is based on Ubuntu linux and Python 3.x
+You will be part of a team developing real time management and monitoring, code running on edge controller devices. Zaměstnanecké výhody, benefity
+An enjoyable working environment in a Czech / British team
+A laptop &amp; necessary tech is a given
+Flexible working hours
+Remote work or hybrid
+Location: Brumov-Bylnice, Zlín, Vsetín, Slavičín, Uherské Hradiště, Brno
+Bonuses: part of the company bonus scheme (performance bonus, referrals, meal allowance, phone allowance, sick days...)
+Chance to learn, build and shape cutting edge technology
+Benefits
+Option for Remote Work
+Meal vouchers
+Wage bonuses
+Sick Days
+Extra vacation
+Flexible Schedule
+Multisport Card Contribution
+100% Remote Work
+Czech language not required
+ Požadavky na zaměstnance Pozici vyhovují uchazeči se vzdělánímvysokoškolské I. stupněOsobnostní předpoklady a dovednosti
+Fluency in Python 3, Linux experience (Mid-Level, Senior)
+Docker and application containerization experience
+Git (including pull requests and code reviews, branching strategy)
+Advanced English (min. B2) - communication with UK colleagues 
+Nice-to-have:
+Experience in energy industry
+Bachelor’s or Master’s Degree 
+Hands-on experience developing device communication for Ethernet interfaces.
+Familiar with SiL and HiL testing
+Experience with cloud computing and REST APIs
+Experience with protocol Modbus TCP
+Familiar with ARM-based SBCs.
+ Inzerující společnost Stručná charakteristika společnostiVíte, co je pro Manpower ve světě práce nejdůležitější? Lidé jako Vy!
+Staráme se o ně a víme, jak je práce v životě každého důležitá. 
+Potřebujete poradit? Podělíme se s Vámi o naše znalosti a zkušenosti a poradíme Vám, co je a bude aktuální v současném světě práce.
+Hledáte jedničku v oblasti personálních služeb? 
+Manpower je světovým lídrem v oblasti lidských zdrojů. Naší klíčovou hodnotou je inovace vedoucí k dlouhodobému rozvoji ve světě práce.
+Už víte, co budete dělat? 
+ID: 4517438 
+     Dátum zverejnenia:  9.2.2023 
+    2023-02-09
+lokalita: Jihomoravský kraj   Pozícia: Programátor, Programátor Python   Spoločnosť: ManpowerGroup s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+                Všetky ponuky

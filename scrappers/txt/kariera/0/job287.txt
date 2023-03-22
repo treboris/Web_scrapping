@@ -1,0 +1,40 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+O nás
+Tímy
+#TsmeMy
+Cyber Security Expert (m/ž)Slovak Telekom12.03.2023Informácie o pracovnom miesteMiesto práce
+Slovenská republikaPozícia / odvetvie
+Informatika - software; Špecialista na IT bezpečnosťNáplň práce, informácie o pracovnom mieste
+Chceš sa podieľať na vývoji a zabezpečení nových technológii? Byť pri implementácií nových postupov a trendov v rámci aplikačného vývoja? Máš skúsenosti s SDLC, či AWS? Nebaví Ťa monotónna práca a rád spoznávaš nových ľudí? Ponúkame Ti flexibilitu a dynamické pracovné prostredie, s priestorom na osobnostný a profesijný rozvoj v tíme technologickej bezpečnosti. Tím technologickej bezpečnosti v rámci Slovak Telekomu a T-Mobile CZ je zodpovedný za bezpečnosť služieb a technológií. Navrhuje, dizajnuje a nasadzuje moderné koncepcie či jednotlivé prvky zabezpečenia pre všetky technologické oblasti a spolupracuje v medzinárodnom prostredí na zvyšovanie zabezpečenia v rámci skupiny Deutsche Telekom Group. Pridaj sa do nášho tímu na pozíciu cyber security expert so zameraním na aplikačnú bezpečnosť a staň sa tak členom spoločnosti, ktorá je súčasťou nadnárodnej skupiny firiem Deutsche Telekom Group. Tvoj cieľ: Technický dizajn a implementácia bezpečnostnej aplikačnej stratégie a architektúry, pre on-prem a cloudové prostredie AWS. Úlohy a zodpovednosti: Úprava aplikačnej stratégie na základe aktuálnych hrozieb a dostupných možností zabezpečenia.Definovanie roadmapy pre implementáciu bezpečnostných zlepšení a riešení.Rozvoj a dokumentácia referenčnej aplikačnej architektúry (napr. Microservices, Micro Frontends, SPA, atď.) podľa najnovších bezpečnostných štandardov.Zosúladenie politik vnútro firemného prostredia a definovanie integračných vzorov v zmysle definovanej architektúry.Pre on-prem aj cloudové prostredie (najmä AWS).Výber bezpečnostných riešení a produktov, ich posúdenie z pohľadu bezpečnostného prínosu a odriadenie ich PoC v rámci spoločnosti.Tvorba, dohlaď a podpora funkčného SSDLC pre rôzne typy aplikačného vývoja (najmä Agile, DevOps, GitOps).Definovanie bezpečnostných testov v rámci CI/CD.Vyhodnocovanie, spracovanie a adresácia nálezov z testovania. Vytváranie „use casov“ na monitoring a príprava metrík na vyhodnotenie efektivity testov.Čo očakávame?Skúsenosti z oblasti technologickej bezpečnosti - min. 5 rokovZnalosť SDLC, AWSAnalytické myslenieSamostatnosť a flexibilitaAJ- B2Našim ponúkame to najlepšieSmartphone: Vyber si telefón a získaj naňho kompenzáciu každé 3 roky až do 900 €.Zamestnanecký paušál: Dátuj neobmedzene, telefonuj a SMSkuj za zvýhodnenú cenu na súkromné či pracovné účely.Bonusy a odmeny: Šikovnosť sa cení! A to odmenami za individuálny výkon. Navyše, ak sa firme bude dariť, máš šancu získať aj ročný bonus do výšky 15 %.Telekom zľavy: Využi znížené ceny našich produktov a služieb pre rodinu a blízkych.Zľavy u partnerov: Uži si zľavy na nákup produktov a služieb u našich partnerov.Flexibilná pracovná doba: Prispôsob si prácu svojim potrebám vďaka možnosti home-office (po dohode s manažérom).Akciový program Shares2You: Staň sa akcionárom skupiny Deutsche Telekom a čerpajte výhody s tým spojené.Dovolenka a oddych: Relaxuj so 4 dňami osobného voľna navyše.MultiSport: Športuj alebo relaxuj so svojimi najbližšími zadarmo či so zľavami vďaka zvýhodnenej karte MultiSport.Náhrada príjmu počas PN: Pri dočasnej PNke trvajúcej max. 2 týždne ti nahradíme príjem vo výške 80 % denného vymeriavacieho základu.Zdravotná starostlivosť: Dbaj o svoje zdravie za zvýhodnenú cenu s nadštandardnou starostlivosťou v našom zmluvnom zariadení.Vzdelávanie a rozvoj: Rozšír svoje obzory s internou T-Univerzitou, ktorá ponúka bohatý výber kurzov.Pomoc pri životnej situácii: Skúša ťa život? Podporíme ťa jednorazovou finančnou pomocou pri nepriaznivej životnej situácii.Psychologická poradňa: Čelíš ťažkostiam v súkromnom alebo v pracovnom živote? Zdôver sa odborníkovi anonymne cez telefón alebo online.Gastro karta: Pochutnaj si na skvelom obede s príspevkom 5,10 € na každý pracovný deň.Rekreačný príspevok: Budeš s nami 2 roky? Príspevok na rekreáciu máš vo vrecku.Dôchodkové sporenie: Priprav sa na jeseň života s príspevkom na poistenie už po prvých 3 mesiacoch u nás.Každý je u nás vítanýNaši zamestnanci cítia, že majú u nás rovnaké príležitosti týkajúce sa zamestnania a kariérneho rozvoja, bez ohľadu na vek, pohlavie a gendrovú identitu, telesné a duševné schopnosti, národnosť, sociálny a etnický pôvod, politické názory, náboženstvo a svetový názor. Z toho máme obrovskú radosť. Sme odhodlaní sa neustále zlepšovať a vytvárať bezpečné pracovné prostredie pre všetkých.Čo ťa čakáZaujala ťa pracovná ponuka? Vyplň prihlasovací formulár a daj nám o sebe vedieť.Informácie, ktoré nám o sebe pošleš posúdime a ozveme sa ti za každých okolností.S vybranými uchádzačmi sa spojíme a upresníme si detaily.Pohovor je pre nás obojstrannou príležitosťou, aby sme sa mohli lepšie spoznať.O výsledku pohovoru ťa budeme čo najskôr informovať. Úspešní kandidáti dostanú pracovnú ponuku.Ponúkaný plat
+3200 EUR
+Upresnenie platových podmienok
+finálna mzda bude predmetom pohovoru a záleží od skúseností a seniority kandidátaDruh pracovného pomeru
+plný úväzokPožiadavky na zamestnancaMinimálne požadované vzdelanie
+stredoškolské s maturitouInformácie o spoločnostiCharakteristika spoločnosti
+Slovak Telekom je moderná spoločnosť s dlhoročnou tradíciou na slovenskom telekomunikačnom trhu. Naším strategickým partnerom je najväčšia telekomunikačná spoločnosť v Európe – Deutsche Telekom AG, ktorá sa svojimi aktivitami radí medzi hlavných inovátorov v oblasti telekomunikácií a informačných technológií.
+Sme vedúcou spoločnosťou v poskytovaní telekomunikačných služieb na Slovensku. Vlastníme a prevádzkujeme telekomunikačnú sieť, ktorá pokrýva celé územie Slovenskej republiky, poskytujeme národné a medzinárodné telefónne služby, ako aj široké portfólio dátových a internetových služieb. Patríme medzi najväčších zamestnávateľov, dlhodobo investujeme do rozvoja našej siete a služieb, a svojimi korporačnými aktivitami prispievame k rozvoju internetizácie Slovenska.Adresa
+Slovak TelekomBajkalská 28BratislavaSlovenská republikaKontaktné údaje
+Zuzana NagyováRecruiterhttps://app.recruitis.io/upload/cache/imagekit/employees/30/df518f060ae978027b69544a3db7fe2d48abade3.jpgST_mix / mesačneReagovať na ponuku
+Kontakt
+Zdielajte pozíciu
+Facebook
+Linkedin
+Twitter
+Preposlať odkaz
+Zaujala ťa pracovná pozícia?
+Ozvi sa nám!
+Mám záujem
+Zaujala ťa pracovná pozícia?
+Ozvi sa nám!
+Mám záujem
+Zostaňme v kontakte
+aj na sociálnych sieťach
+Instagram
+Linked In
+Tik Tok
+Facebook
+Youtube
+Twitter
+© 2022 Slovak Telekom
+Reagovať na ponuku
+Späť na pracovné ponuky

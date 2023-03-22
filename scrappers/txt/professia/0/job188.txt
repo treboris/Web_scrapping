@@ -1,0 +1,38 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceHľadáme vývojára, ktorý sa nebojí C++ ! 
+HĽADÁME VÝVOJÁRA, KTORÝ SA NEBOJÍ C++ !
+Košice, Slovenská republika
+                Základná mzda od €3000 brutto/mesiac (zodpovedá nástupnej úrovni na Mid level pozíciu a ďalej sa odvíja v závislosti od znalostí a skúseností)
+            Zohnať kvalitného C++ programátora je v dnešnej dobe neľahká úloha - nielenže sa firmy predbiehajú v platoch a benefitoch, ale kto dnes ešte v C++ robí rád(a), tak to znamená, že týmto jazykom a technológiami naň naviazanými doslova žije.
+            My, vývojári v Bohemia Interactive Simulations, sa za takýchto nadšencov považujeme. Mnohí z nás stáli pri zrode nášho hlavného produktu - Virtual Battle Space (VBS) - od čias, kedy sa objavilo C++98 a niektorí pamätajú časy ARMA či dokonca Operation Flashpoint, kde to celé začalo.
+            Ako firma sa BISim za 20 rokov rozrástla z pár členného tímu nadšencov na medzinárodnú spoločnosť - najväčšia pobočka je v Prahe, najnovšia tu v Košiciach. Naši hlavní zákazníci sú členské krajiny NATO, ktoré na našich produktoch trénujú vojakov, čím šetria nielen prostriedky na výcvik, ale aj chránia životy samotných vojakov a životné prostredie vôkol nás.
+Hľadáme do nášho tímu vývojára/ku, ktorý/á má programovanie predovšetkým ako hobby a až potom ako profesiu. Robíme na fakt zaujímavých veciach, od 3D renderingu cez AR/VR až po simuláciu celých svetov v cloude, takže naše projekty a úlohy preveria aj tie najdrsnejšie povahy 
+            Na druhej strane uprednostňujeme motivovaných a spokojných zamestnancov, takže žiadne šibeničné deadliny alebo ťahanie nadčasov - my naše produkty dodávame, keď sú naozaj hotové.
+Ak sa ti pozdáva, čo si si práve prečítal(a) a zároveň ti niečo hovorí:
+C++ (nečakané!) - dedičnosť, STL, algoritmy, šablóny
+dangling pointers, double free, memory leaks, zlé poradie inicializácii objektov, … áno, všetky tie problémy, kde si treba vyhrnúť rukávy
+trpezlivosť pri analyzovaní záhadných problémov (viď predošlý bod)
+lineárna algebra
+princípy 3D renderovania (nie nutnosť, ale poteší)
+máš apoň 2 roky praxe (buď s C++ alebo s počítačovou grafikou)
+a vieš sa dohovoriť po anglicky na úrovni B2 (väčšinou čítanie/písanie, občas telefonát), tak nám určite napíš, budeme sa mať o čom porozprávať
+Z takých štandardných vecí ponúkame:
+pohodové pracovné prostredie - nie je nás tu v KE ani dvadsať, máme prakticky plochú riadiacu štruktúru, sídlime v pekných priestoroch hneď pri Hlavnej ulici
+stabilnú prácu - nie je to len taký personalistický BS, jednak máme minimálnu fluktuáciu ľudí, ale hlavne máme dlhodobé zákazky a zákazníkov
+možnosť reálnej zodpovednosti a rastu - nehľadáme len robotov na programovanie, ale aj ľudí, ktorí vedia svoje vedomosti odovzdávať ďalej
+keďže armáda do vývoja investuje nemalé prostriedky, tak máš možnosť pracovať s najmodernejším (niekedy aj najexotickejším) hardvérom, aký sa dá kúpiť
+25 dní dovolenky (bežne je 20) + 3 dni osobného voľna
+stravenky, ktoré ti v pohode vystačia na obed a plne hradená Multisport karta
+Prihásiť sa
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4390189 
+     Dátum zverejnenia:  16.2.2023 
+    2023-02-16
+lokalita: Košice   Pozícia: C++ programátor, Softvérový inžinier   Spoločnosť: Bohemia Interactive Simulations k.s.   
+Základná zložka mzdy (brutto): 3 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

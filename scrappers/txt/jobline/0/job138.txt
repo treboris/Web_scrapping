@@ -1,0 +1,49 @@
+ Belépés ›
+Software Engineer (Mid/Senior/Expert) (REF275E) (Budapest)
+Software Engineer (Mid/Senior/Expert) (REF275E) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Software Engineer (Mid/Senior/Expert) (REF275E)
+We are looking for exceptional Software Engineers to work with our cross-functional team and join our world-class community of talented developers in the exciting field of information technology.
+You'll get direct experience designing, developing, testing & deploying services that work at high scale and with enterprise reliability. You'll be working in a multinational company being a key player in developing and improving new and existing products. We are open to the following OOP languages: Python, Java, JavaScript. Cloud infrastructure is part of our everyday life. We offer you technical challenges and career advancement as well.
+We strongly believe striking the balance between work and family is very important and our culture is focused on the well-being of our team and their loved ones.
+Your daily tasks:
+Collaborate with various engineering & cross-functional teams, to execute engineering challenges
+Contribute to product architecture to ensure seamless development of new product features
+Support the Architects by the updates in the product development, new features, technologies
+Participate also in technical design, development and code reviews. Be responsible for implemented functionality, quality code and technical documentation
+Understands business and technical objectives of a project and works closely with analysts and the test team
+Be directly responsible for multiple components within the platform
+Share your thoughts on product features, the user experience, or literally anything else
+Working in agile and team context
+Requirements:
+OOP languages, Team player, Problem solving, Proactivity, Agile, Scrum, Clean Code
+At least 3 years’ experience within the field of application programming in object-oriented programming languages (Python, Java 8+, JavaScript, Vue, React, Angular, ...)
+At least 3 years’ experience with databases (Oracle, MS SQL Server, PostgreSQL, MongoDB,…)
+Experience with agile software development methodology (e.g. Scrum)
+English language knowledge
+Advantages:
+Cloud platform: Kubernetes, OpenShift, AWS, Azure
+REST, Docker, Spring Framework, Microservices, CI/CD , HTML,
+Spring Boot 2, Spring Cloud, Hibernate, JPA, JMS, Relational databases,
+German language knowledge
+Additional information:
+Agile management: Scrum, Agile, SaFe,
+Issue tracking tool: Jira
+Knowledge repository: Confluence, Wiki, GitHub
+Code reviews: GitHub
+Version control system: Yes
+Build server: Jenkins, SQL, MySQL, MongoDB
+Team size: 1-5, 6-10
+Location
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások

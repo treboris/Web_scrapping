@@ -22,42 +22,44 @@ Munkaadóknak
 Hirdetésfeladás
 Regisztráció
 Belépésálláskeresőknek
-IT programozás, Fejlesztés
-IT tanácsadó, Elemző, Auditor
-Budapest
+Finance, Accounting
+Financial Analyst
+Pest county
+Szentendre
 Következő 
-IT rendszerszervező - Business Analyst 
-Stratis Kft.
-Budapest
+Dashboard Coordinator
+Ford Közép- és Kelet-Európai Értékesítő Kft.
+Szentendre
 Jelentkezem
 Mentés
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Home office
-Általános munkarend
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
 Elvárások:
 Angol felsőfok
-3-5 év szakmai tapasztalat
+Nem igényel tapasztalatot
 Főiskola
-2020-ban is a vezetési tanácsadó cégek közt első helyezést értünk el a Budapest Business Journal által összeállított vállalati rangsorban. A hazai menedzsment és IT tanácsadási piac egyik innovatív, vezető szereplője vagyunk. Eddigi működésünk során 150 ügyfélnél, 1000 projektben dolgoztunk, jellemzően ügyféloldali, szállítófüggetlen partnerként.
-A Stratisnál a csapatban bízunk, és azokat a játékosokat keressük, akik a legjobban illenek közénk, dinamikus, proaktív és elkötelezett embereket. A problémamegoldásban hiszünk, nem a rutinban, a tudásmegosztásban, nem a merev struktúrákban. Kreatív és talpraesett, de pontos és hatékony kollégákat keresünk, egy csipetnyi zsenialitással. Ha szeretnél egy profi és támogató csapat tagja lenni, és magadra ismersz a következő leírásban, jelentkezz:
-IT rendszerszervező - Business Analyst
-Feladatok:
-Üzleti igények felmérése, elemzése, alternatívák kidolgozása a leghatékonyabb működésre és legoptimálisabb megvalósításraInformatikai rendszer részletes üzleti és funkcionális specifikációjának összeállítása, folyamat és követelmény modellezésInformatikai rendszerhez kapcsolódó üzleti modellezés, a szoftverrel támogatni kívánt folyamatok elemzéseLogikai rendszerterv elkészítése, illetve üzleti szempontból történő véleményezéseA fejlesztők támogatása a funkcionális specifikáció értelmezésében.A tesztelés előkészítése, támogatása, koordináció ellátásaDokumentációk készítése (tesztelési jegyzőkönyvek, használati leírás)Kapcsolattartás informatikai és üzleti szakterületeink között
-Elvárások:
-Felsőfokú végzettség - műszaki vagy informatikai végzettség előnyt jelent3-5 év rendszerszervezői, vagy IT Business Analyst munkakörben szerzett szakmai tapasztalatTárgyalóképes angol nyelvtudás (szóban és írásban)Kiváló dokumentációs készség, modellezéshez használt szoftver(ek) készségszintű használata)Analitikus gondolkodásmód és ügyfélközpontúságKonstruktivitás, eredményesség, logikai képességekJó problémamegoldó képesség és kommunikációs készségÖnálló, határozott, agilis, terhelhető személyiség
-Előny:
-Szoftverfejlesztési területen, szoftverfejlesztő/tanácsadó cégnél szerzett szakmai tapasztalatProjekt vezetői tapasztalatAdatbázis és SQL ismeretekBanki, telekommunikációs vagy egyéb multinacionális cégeknél szerzett projekt tapasztalat
-Miért mi?
-Cégünk több évtizedes múltra tekint vissza a magyar vezetői és informatikai tanácsadás piacán. Alapítóink mindegyike a mai napig a Stratisban dolgozik, hiszen mindannyian részesei voltak a vállalat sikereinek és hisznek a cég további fejlődésében. A gazdasági válság hatásai bár elérték cégünket mégis megerősödve, piaci részesedésünk növelésével hagytuk magunk mögött ezt az időszakot. Az elmúlt évben a Budapest Business Journal rangsorában a vezetési tanácsadók között piacvezetőkké váltunk. Köszönhetjük ezt kollégáink elhivatottságának, kiváló szakmai felkészültségének és a vezetők tudatosságának. Csapatunkban projektről projektre mindenki megtalálja a fejlődési lehetőségeket, melyekkel szélesíthetik és mélyíthetik szaktudásukat.Munkavégzés helye:Alapértelmezetten Budapesten hibrid munkavégzés (iroda és home office), illetve ügyfeleink igénye alapján ügyfeleink telephelyén
-Állás, munka területe(i):
-IT programozás, Fejlesztés
-Programozó, Fejlesztő
-IT tanácsadó, Elemző, Auditor
-Amit kínálunk:
-Teljesítményarányos, versenyképes jövedelemA piaci környezetnél gyorsabb előmeneteli lehetőségMagas szintű szakmai háttérSzéles körű szakmai fejlődési lehetőségEgyéni kezdeményezések támogatásaKellemes és inspiratív munkakörnyezet
-Jelentkezés módja:
-Jelentkezés a "Jelentkezem" gombra kattintva.
+Juttatások
+Cafeteria
+At Ford Motor Company, we believe freedom of movement drives human progress. And as you start your career journey, we also believe in providing you with the freedom to define and realize your dreams. With all our incredible plans for the future, there’s no better place to jump start an amazing career, and access a better tomorrow, today.
+Ford is one of the largest US-based automotive employers in Hungary. Operating in two locations - Budapest and Szentendre - with more than 600 highly skilled professionals on board, our team is responsible for leading and implementing Ford's business solutions strategy in Europe.
+Ford Business Services is looking for a
+Dashboard Coordinator
+to join our National Sales Company Operating System team in Szentendre
+As a Dashboard coordinator you will Contribute to the development of the business models with our dealerships across Europe. Suggest creative solutions, present it to the European top management while improving your business acumen and analytical skills. The main focus is on the communication with Business Owners, measurement of dealer KPIs and automation of business processes.
+What you’ll love about us:
+A great opportunity to get a comprehensive insight into how business processes work at one of the biggest car manufacturing company in the worldHybrid working modelNow you have a chance to create the footprint of the newest foundation of Ford. Your ideas will always be welcomeTest driving days with our most recent new products so you can see your daily job coming aliveAs an employee you can use your discount for new and used car purchase as well besides other benefits like cafeteriaShuttle bus service between local train station and the office
+What will be your roles and responsibilities in the team?
+Model E certification process and Excel reportingAlign operational details of Key Performance Indicator measurement with business ownersSupport Excel reporting setup, develop and maintain desk proceduresIdentify possible interfaces and seek automation opportunitiesSupport the scorecard setup process and governance Variable Dealer Margin reportingSupport Business owner request to harmonize and optimize workflows among dashboards and back-end database operated by the teamSet up user interface platform (HERMES) templates in connection with variable dealer margin reportingIdentify touch points between Model E compliance implementation to target leaner process execution Dealer Information Database (DID) and Dealer attestation processFamiliarize with Dealer Information Database functionality, maintain special attention to activity-based featuresSupport Business owner requests to change business logic in DID structureSet up and maintain dealer attestation process, collect and store Field Service Actions, consider future development and hosting solutions for this process Dealer Communication Center – Digital Case managementUnderstand market and user’s needs and collect development ideasWork together with the process reengineering team to identify a new application for this tool and find a new hosting solutionRun standard reporting and send to markets about main KPIs.Revisit training materials and provide training upon market requests
+Professional experience and soft-skills that will help you in your everyday job:
+Degree in economics, business informatics, marketing or similar fieldExcellent command of both written and spoken EnglishStrong analytical skill, advanced usage of Excel – reporting experienceExcellent communication skillsApplication of techniques to improve and automate processes – Alteryx knowledge is preferredSelf-motivated and ability to work independently – project management experience is preferredVery good problem solving skills
+Sector(s):
+Finance, Accounting
+Financial Analyst
+IT Development
+Database Expert
+Business Supporting Centres
+Sales Support
 Jelentkezem
 MENTÉS
 Elküldöm magamnak a hirdetést
@@ -69,32 +71,40 @@ MentésMentés kedvencnek
  Vissza a listára
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Home office
-Általános munkarend
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
 Elvárások:
 Angol felsőfok
-3-5 év szakmai tapasztalat
+Nem igényel tapasztalatot
 Főiskola
+Juttatások
+Cafeteria
  Elküldöm magamnak
  Értesítést kérek
 A cégről
-STRATIS Vezetői és Informatikai Tanácsadó Korlátolt Felelősségű Társaság
-Tudományos, műszaki tevékenység
+Ford Közép- és Kelet-Európai Értékesítő Korlátolt Felelősségű Társaság
+Gépjárműkereskedelem
 ●
-Üzletviteli, egyéb vezetési tanácsadás
-50-100 munkavállaló
-1998
-1037
-Budapest,
-Szépvölgyi út 139.
+Személygépjármű-, könnyűgépjármű-kereskedelem
+500-1000 munkavállaló
+2000
+2000
+Szentendre,
+Galamb József utca 3.
+Értékelések a(z) Ford Közép- és Kelet-Európai Kft. cégről
+Értékelések kategória szerint 
+3,7
+Munkakörnyezet 
+További vélemények 
+Munkahelyi extrák
+Céges busz
 Munkahely értékelése 
 Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
-Értékelem 
+Értékelem
 Önnek ajánljuk
 Hasonló állások megtekintése 
-IT rendszerszervező - Business Analyst
-Stratis Kft.
-Budapest
+Dashboard Coordinator
+Ford Közép- és Kelet-Európai Értékesítő Kft.
+Szentendre
 Jelentkezem
 Mentés
 Kövessen bennünket! 

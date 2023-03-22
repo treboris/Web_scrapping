@@ -1,0 +1,29 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSW System Architect (focus on field devices) 
+Voľné pracovné pozície
+Profil firmy
+Prečo Scheidt & Bachmann 
+Kde nás nájdete
+SW System Architect (focus on field devices)
+Place of work: Košice, Slovakia (Job with occasional home office)
+Salary: From 3 600 EUR/month
+Junior from 2 800 €; Medior from 3 200 €; Senior from 3 600 €; + variable bonus. Final salary depends on candidate´s professional experience.
+Company profile
+                    Scheidt & Bachmann, Mönchengladbach was founded in 1872 and today presents itself as an innovative company with a long tradition. In a total of four largely separate divisions, systems for parking and leisure centres, systems for railway signalling technology, fare collection systems, and systems for petrol stations are developed, produced and distributed. Scheidt & Bachmann Slovakia s.r.o. was established in 1995 at the initiative of Scheidt & Bachmann.  A successful cooperation with the University of Žilina also made a significant contribution to the establishment.
+Fare Collection Systems
+offers a wide range of products of various technical equipment according to customer requirements. This area covers modern, comprehensive fare collection systems in urban, suburban, and metropolitan transportation with ticket printing and coding machines.
+We offer  Perspective work in a stable company with adequate financial assessment and opportunities for personal development (soft skills and technical training, language courses)  Attractive financial team bonus paid once a year based on team performance  Referral financial bonus paid for referring someone to our open job position  Rich social program for employees (several social events and team buildings, sport and culture possibilities)  Free snacks for the whole day (free coffee/tea drinks, vending machines with various delicacies)  Flexible working time, additional vacation, "bridgedays"  Work in international and multicultural teams (divisions in 23 countries)  Possibility of international business trips or staying abroad for certain period of time
+Your responsibilitiesInformation about the positionTo the newly establishing branch in Kosice we are looking for an experienced System Architect to join our successful team.Scheidt & Bachmann FCS is a leading supplier of Fare Collection Systems worldwide with focus to European and North America Market. Our deliveries are based on wide product portfolio and strong ability to customize the solution to fulfill customer demands. Our innovative Account Based Ticketing makes usage of public transportation easy and comfortable for every traveller. In your new role you will be shaping the future of mobility as a member of international team of architects who design comprehensive E2E SW product covering back office, web portals, mobile apps, selling and validating devices which serves as a base for the customised solution for our worldwide projects. This particular opportunity is focused on design of field device (selling & validating) SW.Job description, responsibilities and duties  Creation of system model of the core SW  Partitioning of Core SW assets into subsystems and modules  Decomposition of e2e-scenarios into subsystem interaction  Definition of interactions / interface between subsystems  Technology scouting and definition of common technology standards  Managing architectural and cross-team discussions  Support for bid manager, assist the creation of technical proposals  Write or review comprehensive functional and non-functional specifications  Tight collaboration with IT, HW and System ArchitectsExample of product description: Ticketing Devices:https://www.scheidt-bachmann.de/fare-collection-systems/ticketing-devices/Example of product description: Account-based Ticketing:https://www.scheidt-bachmann.de/en/fare-collection-systems/account-based-ticketing/
+Your profileWe are happy to welcome you in our team and support you in further education and growth if you fullfill following essential criteria:  Experience with SW design  Experience with development of C++ applications  Experience with system architecture  German language is an advantageYou are the Ideal candidate for this role if you posses following personal qualities:  Experience with system modelling (e.g. UML2, C4)  Experience with development of C++ applications  Experience with design of complex large scale systems  Programming skills: source code review and analysis  Positive attitude with the ability to embrace change  Analytical and communication skills, creativity, critical thinking, data analysis  Strong team spirit and ‘can-do’ attitude  Ability to make substantial decisions without supervision  Self-motivated, responsible and self-directed  A natural problem solver who can think outside the box  Quick learner and researcher who can adapt to a fast-paced, ever-changing environmentYou and us are the best match if following technologies (or at least a part of it) are your playground:  SW Design: UML2, C4 model  C++: Qt5, QtCreator, QML  CI/CD: Docker, Linux, REST API, DB, shell scripts, Git, Gitlab, TeamCity, Artifactory, Conan  Further topics: MQTT, AMQP, SQLite, Python3
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4509308 
+     Dátum zverejnenia:  24.2.2023 
+    2023-02-24
+lokalita: Košice   Pozícia: C++ Programmer, IT Architect, IT Manager, Java Programmer, Programmer   Spoločnosť: Scheidt & Bachmann Slovensko s.r.o.   
+Základná zložka mzdy (brutto): 3 600 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

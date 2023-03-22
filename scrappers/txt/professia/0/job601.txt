@@ -1,0 +1,54 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Backend Engineer for BI Monitoring Portal (all genders) 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+            Make a difference in the financial life of millions of people: At Erste Digital you are co-creating the digital future, in which better financial health is possible. #believeinyourself
+Senior Backend Engineer for BI Monitoring Portal (all genders)
+Location: Bratislava
+Working-Hours: Full-time
+Occupation Area: IT
+Company:  Erste Digital
+            The future of banking is digital, and IT is the key to this change. Erste Digital is the digital enabler that drives innovative IT solutions for Erste Group, the leading banking group in CEE. Our service involves “run the bank” as well as “change the bank” activities. Our more than 2,000 IT experts and enthusiasts deliver best-in-class IT solutions and services to all Erste Group entities and by this directly to Erste Group’s more than 16 million customers. Are you ready to work for one of the most innovative and largest IT companies in the CEE region? Then hit the “apply now” button.
+The Group BI Processing department is looking for a Senior Developer that will be working on a modern and state of the art solution, the BI Monitoring Portal. BIMP is a monitoring tool that provides crucial end-to-end view on the BI processing chain starting from data delivery and ending with the submission of all the bank reports. Through interlinking and visualizing BIMP provides overviews and dashboards that display all relevant information to both Business and IT counterparts. Development is done in an agile setup and dynamics, flexibility and creativity are key to our success.
+Your tasks would be to:
+Closely cooperate with other team developers and business counterparts on designing of the proper technical solution for business requests
+Use suitable development procedures and patterns - in line with best practices
+Keep solution maintainability and proposes code optimization for maximal efficiency
+Identify and proposes potential improvements of existing services
+Prepare final packages for deployment
+Support with unit testing and in addition analyze and solve bugs when needed
+Participate on all Scrum related meetings and contribute with experience and ideas
+What should you bring with you:
+3+ years of experience in practicing the relevant skills
+Experience with RESTful API design and development in Spring Boot/Node.js
+Microservice Architecture
+SQL - PostgreSQL
+Elastic Search and Kibana
+Kubernetes with OpenShift
+Reviews, Unit/Integration testing and clean coding practices
+Git/BitBucket
+Advantage with nice to have skills:
+Kafka
+CI / CD
+Our Offer
+We care for your personal well-being and career development while actively supporting your educational needs
+We’re a team of experienced IT enthusiasts who love to exchange ideas and push the boundaries
+We provide a relaxed, professional environment and all the hardware & software you need to work efficiently
+Work on the new technologies and concepts being discussed worldwide
+We encourage regular conference visits and multiple chances to shine
+An opportunity to work with a motivated, ambitious multi-national team and to cooperate with many colleagues, different roles and units across the Erste Group in our region.
+Very diverse job in an interesting and dynamic field with excellent perspectives
+Pension saving paid by us, Paid sick-leave and 4 days of extra holiday per year
+Language courses, support for learning and development,good care of physical and psychological health
+Working from home, virtual office, working while riding a bike. What ever and how ever you do your best work - is fine by us.
+New Work is not just another buzz word to us. We proactively adapt to the ever-changing work environment of today
+A competitive and performance-related salary dependent on your professional and personal qualifications is granted - We are obliged by law to quote the minimum wage of EUR 3.200,- gross per month for this position. But this is just a formality - we would be happy to talk about your salary in person!
+ Apply online 
+ Follow us: 
+ID: 4512516 
+     Dátum zverejnenia:  2.2.2023 
+    2023-02-02
+lokalita: Bratislava   Pozícia: Backend developer, IT Architect, Programmer, Software Engineer   Spoločnosť: Erste Digital   
+Základná zložka mzdy (brutto): 3 200 EUR/month
+                Všetky ponuky

@@ -1,0 +1,42 @@
+ Belépés ›
+Angular Developer for Cloud of Things (REF577Q) (Budapest)
+Angular Developer for Cloud of Things (REF577Q) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Angular Developer for Cloud of Things (REF577Q)
+Cloud of Things – Deutsche Telekom's IoT platform
+The Cloud of Things is our high-performance, cloud-based IoT application platform for the Internet of Things. You can use it to connect your devices and machines while monitoring and controlling them remotely. Out-of-the-box, no programming or installation (SaaS): Simply connect your devices, configure individual dashboards and get your first IoT project up and running!
+The Cloud of Things collects the sensor data of your connected machines in real-time and analyzes it. And you’ll always have an overview of several parameters, such as pressure, RPM, temperature or position in your personal web portal. You’ll also have comprehensive analysis tools at your disposal to gain insights and trigger automated actions. It all makes it extremely easy to develop new business models, increase the efficiency of your systems and processes, reduce downtime and cut costs through predictive maintenance.
+In this role you will:
+Support, maintenance and redesign of the CoT Web Applications "Service&Help" and "Demo-Tenant".
+Other topics/tasks dealing with CoT frontends are planned/expected.
+Technical skills:
+Requirements:
+ JavaScript/Typescript;
+ Experience in developing GUI frontends using Web frameworks such as Angular2+;
+ An advantage would be knowing of AngularJS;
+ English suitable for communications;
+ Git;
+ Agile development processes Kanban/Scrum;
+ Confluence, Jira.
+Soft skills:
+Experience with working in agile projects (Scrum, Kanban)
+Being curious and capable to learn new things
+Being creative and proactive with finding new solutions and resolving problems
+Being able to achieve good results independently and without close supervision
+Being used to taking responsibility for their work and results
+Good time management skills
+Able to organize their own work effectively
+Communication, collaboration and team work are important in our project.
+Location
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások

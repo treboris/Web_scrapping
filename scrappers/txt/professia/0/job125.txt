@@ -1,0 +1,71 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceC++ [STL] programátor na kontrakt, 220 až 250€/MD 
+C++ [STL] programátor na kontrakt, 220 až 250€/MDTITANS freelancers, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP alebo dohodou
+Mzdové podmienky (brutto)
+4 400 - 5 000 EUR/mesiacPráca na kontrakt podľa počtu odpracovaných hodín.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDĺžka projektu: 12 mesiacov s možnosťou predĺženia.
+Spolupráca možná v režimoch: 
+- takmer úplný OFF-SITE s občasným ON-SITE (min. 1x za 2-3 týždňe v Bratislave);
+- kombinácia ON-SITE a OFF-SITE (podľa záujmu freelancera);
+- Spolupráca pri údržbe existujúcej aplikácie určenej pre B2B, proaktívne riešenie problémov a prekonávanie prekážok;
+- vývoj ovládania, vyhľadávania, UI a serverových komunikačných algoritmov;
+podieľanie sa na: 
+- hodnoteniach stavu projektu a rizík s primeranou úrovňou detailu, tak aby bol dodržaný harmonogram;
+- tvorbe novej funkcionality (napríklad hlasové ovládanie a iné) a refaktoring existujúceho riešenia;
+- testovanie a písanie testov pre embedded SW (unit testy, funkčné testy, vývojové testovanie);
+- práca v rámci agilného tímu;
+- prostredie etablovanej spoločnosti so skúsenými developermi, riešiacimi problémy spoločne v tíme. Zamestnanecké výhody, benefity- Stabilné zamestnanie a motivujúce finančné ohodnotenie;
+- flexibilný pracovný čas s možnosťou home office;
+- časopis – TouchIT, Nextech alebo Forbes po 60 odpracovaných MD;
+- ticketportal alebo kino poukážky po 80 odpracovaných MD;
+- Alza poukážka - po 100 odpracovaných MD. Informácie o výberovom konaníV prípade Vášho záujmu nám, prosím, pošlite životopis v anglickom jazyku s upresnením Vašej časovej dostupnosti. 
+Kontaktovať ohľadom ďalšieho postupu výberového konania budeme všetkých záujemcov. Ďakujeme Vám vopred za prejavený záujem.
+Osobné údaje záujemcov o spoluprácu na projekte, ktorí nám zašlú svoj profesijný životopis prostredníctvom internetovej stránky www.profesia.sk, budeme spracúvať na účely výberového konania. Poskytnutie údajov záujemcu je nevyhnutné na účasť vo výberovom konaní, ktorého sa zúčastňuje ako záujemca o účasť na projekte, ktorý bude realizovaný pre nášho zákazníka. Osobné údaje záujemcov o spoluprácu (fyzických osôb – podnikateľov resp. konateľov spoločnosti, ktorí majú záujem byť našim obchodným partnerom) v rozsahu údajov uvedených v životopise, motivačnom liste, iných zaslaných prílohách a ďalších údajov získaných na uvedený účel v priebehu výberového konania (napr. pri osobnom pohovore) budeme spracúvať na tento účel po dobu do skončenia výberového konania. Spracúvanie údajov záujemcov na tento účel je nevyhnutné, aby sa na základe žiadosti dotknutej osoby vykonali opatrenia pred uzatvorením zmluvy (predzmluvné vzťahy). Osobné údaje budeme na tento účel uchovávať po dobu do ukončenia výberového konania. Bližšie informácie o podmienkach spracúvania Vašich osobných údajov na tento účel nájdete v sekcii Pravidlá ochrany osobných údajov na našej webovej stránke. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiSlovenský jazyk - Stredne pokročilý (B2) alebo Český jazyk - Stredne pokročilý (B2)Prax na pozícii/v oblasti3 roky.Osobnostné predpoklady a zručnosti- Minimálne 3-ročná skúsenosť s návrhom, programovaním a/alebo udržiavaním aplikácií postavených na C++ technológiách;
+výborná znalosť: 
+- programovania v C++ za pomoci STL (standard template library) v proprietárnych knižniciach;
+- princípov objektovo orientovaného programovania (OOP);
+- SQL a noSQL databázových princípov;
+pokročilé skúsenosti s:
+- repozitármi (Git, SVN...);
+- automatizačnými toolmi (Jenkins);
+- Jira (Atlassian tools);
+- Agilnými metodológiami (SCRUM, KANBAN...);
+- výhodou skúsenosti s platformou Android;
+- silné analytické myslenie;
+- schopnosť rýchlej orientácie v dotknutej problematike a adaptácie do tímu;
+- proaktívny prístup k práci a schopnosť samostatného uvažovania. Inzerujúca spoločnosť Stručná charakteristika spoločnostiChceš sa stať TITANOM? Úspech sa začína odvahou.
+Sme TITANS freelancers a už viac ako deväť rokov poskytujeme služby v oblasti outsourcingu IT freelancerov.
+Sme inovatívni. Sme nezávislí. Sme féroví a priami!
+Posilňujeme IT projekty, na ktorých chýbajú tí správni ľudia. 
+Freelancerom ponúkame možnosti, ktorými sa neboja pochváliť ďalej.
+Spolupracujeme s viac ako 400 rôznorodými spoločnosťami na Slovensku a v zahraničí.
+Toto sú čísla, ktoré hovoria za nás:
+●  viac ako 13 800 dostupných IT špecialistov
+●  viac ako 1 270 alokovaných TITANov
+●  189 010 dodaných Mandayov
+●  1 016 vyzbrojených IT projektov
+Láka ťa freelancing, no nevieš, ako a kde začať? Nechaj to na nás.
+Radi ti poradíme aj v oblasti účtovníctva. Jedno bez druhého jednoducho nejde.
+Nestačí? Ak máš záujem, prezradíme ti viac. Počet zamestnancov20-24 zamestnancov KontaktKontaktná osoba: RecruitmentE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4522646 
+     Dátum zverejnenia:  17.2.2023 
+    2023-02-17
+lokalita: Bratislava   Pozícia: C++ programátor, Programátor   Spoločnosť: TITANS freelancers, s.r.o.   
+Základná zložka mzdy (brutto): 4 400 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

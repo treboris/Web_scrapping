@@ -1,0 +1,841 @@
+ID,Main,Location,Corporation,Salary,Href,Date
+0,Vývojár  mobilných aplikácií (Android & iOS) - TPP/freelance &  remote,Bratislava,Grafton Slovakia s.r.o.,2 300 - 3 300 EUR/mesiac,/praca/grafton-slovakia/O4543180,2023-03-21
+1,Medior/Senior Java Developer,"Karloveská 34, Karlova Ves","Plaut Slovensko, s.r.o.",None,/praca/plaut-slovensko/O4485029,2023-03-21
+2,Senior Java Software Engineer (m/f/d),Remote work,Semantic Web Company,,/praca/semantic-web-company/O4543153,2023-03-21
+3,React Native Developer (Medior),Práca z domu,localhost s.r.o.,,/praca/localhost/O4523855,2023-03-21
+4,CRM Developer (Microsoft Dynamics),"Bratislava, Slovak Republic (Job with occasional home office)",S&you by SYNERGIE,None,/praca/s-you-by-synergie/O4543130,2023-03-21
+5,.NET Developer,Práca z domu,Kodiva s. r. o.,,/praca/kodiva/O4543119,2023-03-21
+6,Angular Developer,Práca z domu,Kodiva s. r. o.,,/praca/kodiva/O4543118,2023-03-21
+7,JavaScript programátor,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",BOOTIQ SK s.r.o.,,/praca/bootiq-sk/O4109036,2023-03-21
+8,Frontend Developer  (E-commerce),"Ľudovíta Stárka 2870, Trenčín-Zlatovce, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Factcool - FC ecom, s.r.o.",,/praca/factcool-fc-ecom/O4543072,2023-03-21
+9,Python Developer for Telematics,"Sygic, Mlynské nivy, Bratislava, Slovensko (Job with occasional home office)","Sygic, a. s.",,/praca/sygic/O4154737,2023-03-21
+10,"Senior IT Inžinier/ka (PL/SQL, interné predajné aplikácie)",Bratislava,"Orange Slovensko, a.s.",,/praca/orange-slovensko/O4542941,2023-03-21
+11,"IT Inžinier/ka (PL/SQL, interné predajné aplikácie)",Bratislava,"Orange Slovensko, a.s.",,/praca/orange-slovensko/O4542940,2023-03-21
+12,"InterNET, Claude MoNET, Microsoft .NET","Prievozská 14, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","DIMANO, a. s.",,/praca/dimano/O3292094,2023-03-21
+13,C#/.NET Programátor Medior/Senior,"Elektrárenská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Datapac s.r.o.,,/praca/datapac/O4542916,2023-03-21
+14,Python/DevOps TechLead,Práca z domu,Pro HR,,/praca/pro-hr/O3989481,2023-03-21
+15,Senior Full Stack Developer,"Bratislava region, Slovak Republic","SOITRON, s.r.o.",,/praca/soitron/O4542810,2023-03-21
+16,DevOps Developer (Kubernetes),"Bratislava region, Slovak Republic","SOITRON, s.r.o.",,/praca/soitron/O4542807,2023-03-21
+17,Frontend Developer,"Bánovská cesta, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)","EMTEST, a. s.",,/praca/emtest/O4542789,2023-03-21
+18,Hľadáme PHP Programátora,Práca z domu,Art4web (digital studio),,/praca/art4web-digital-studio/O4542696,2023-03-21
+19,Programátor  C++ ,"Bánovská cesta, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)","EMTEST, a. s.",,/praca/emtest/O4456459,2023-03-21
+20,Vývojár  mobilných aplikácií (Android & iOS) - TPP/freelance &  remote,Bratislava,Grafton Slovakia s.r.o.,2 300 - 3 300 EUR/mesiac,/praca/grafton-slovakia/O4543180,2023-03-21
+21,Medior/Senior Java Developer,"Karloveská 34, Karlova Ves","Plaut Slovensko, s.r.o.",None,/praca/plaut-slovensko/O4485029,2023-03-21
+22,Senior Java Software Engineer (m/f/d),Remote work,Semantic Web Company,2 500 EUR/mesiac,/praca/semantic-web-company/O4543153,2023-03-21
+23,React Native Developer (Medior),Práca z domu,localhost s.r.o.,,/praca/localhost/O4523855,2023-03-21
+24,CRM Developer (Microsoft Dynamics),"Bratislava, Slovak Republic (Job with occasional home office)",S&you by SYNERGIE,None,/praca/s-you-by-synergie/O4543130,2023-03-21
+25,.NET Developer,Práca z domu,Kodiva s. r. o.,,/praca/kodiva/O4543119,2023-03-21
+26,Angular Developer,Práca z domu,Kodiva s. r. o.,,/praca/kodiva/O4543118,2023-03-21
+27,JavaScript programátor,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",BOOTIQ SK s.r.o.,,/praca/bootiq-sk/O4109036,2023-03-21
+28,Frontend Developer  (E-commerce),"Ľudovíta Stárka 2870, Trenčín-Zlatovce, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Factcool - FC ecom, s.r.o.",,/praca/factcool-fc-ecom/O4543072,2023-03-21
+29,Python Developer for Telematics,"Sygic, Mlynské nivy, Bratislava, Slovensko (Job with occasional home office)","Sygic, a. s.",,/praca/sygic/O4154737,2023-03-21
+30,"Senior IT Inžinier/ka (PL/SQL, interné predajné aplikácie)",Bratislava,"Orange Slovensko, a.s.",,/praca/orange-slovensko/O4542941,2023-03-21
+31,"IT Inžinier/ka (PL/SQL, interné predajné aplikácie)",Bratislava,"Orange Slovensko, a.s.",,/praca/orange-slovensko/O4542940,2023-03-21
+32,"InterNET, Claude MoNET, Microsoft .NET","Prievozská 14, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","DIMANO, a. s.",,/praca/dimano/O3292094,2023-03-21
+33,C#/.NET Programátor Medior/Senior,"Elektrárenská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Datapac s.r.o.,,/praca/datapac/O4542916,2023-03-21
+34,Python/DevOps TechLead,Práca z domu,Pro HR,,/praca/pro-hr/O3989481,2023-03-21
+35,Senior Full Stack Developer,"Bratislava region, Slovak Republic","SOITRON, s.r.o.",,/praca/soitron/O4542810,2023-03-21
+36,DevOps Developer (Kubernetes),"Bratislava region, Slovak Republic","SOITRON, s.r.o.",,/praca/soitron/O4542807,2023-03-21
+37,Frontend Developer,"Bánovská cesta, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)","EMTEST, a. s.",,/praca/emtest/O4542789,2023-03-21
+38,Hľadáme PHP Programátora,Práca z domu,Art4web (digital studio),,/praca/art4web-digital-studio/O4542696,2023-03-21
+39,Programátor  C++ ,"Bánovská cesta, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)","EMTEST, a. s.",,/praca/emtest/O4456459,2023-03-21
+40,SAP ABAP Developer pre BOOTIQ,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",BOOTIQ SK s.r.o.,2 500 EUR/mesiac,/praca/bootiq-sk/O4063762,2023-03-21
+41,"Skúsený SAP ERP Consultant (Developer) - rôzne moduly (IS-U, CRM, FI, SD, MM, PP...)",Práca z domu,"gd - Team, a.s.",3 000 EUR/mesiac,/praca/gd-team/O4542663,2023-03-21
+42,Machine Learning Expert,Práca z domu,Garwan Consulting s. r. o.,,/praca/garwan-consulting/O4542662,2023-03-21
+43,SAP ABAP programátor /remote,Práca z domu,"gd - Team, a.s.",None,/praca/gd-team/O4542189,2023-03-21
+44,Full-Stack Developer,Práca z domu,Garwan Consulting s. r. o.,,/praca/garwan-consulting/O4542659,2023-03-21
+45,C Trainee (Linux/Networking),Žilina,GlobalLogic Slovakia s.r.o.,,/praca/globallogic-slovakia/O4542610,2023-03-21
+46,Webdeveloper pre Bistro.sk (ZA/BA),"Poštová, Žilina-Vlčince, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Bistro.sk a. s.,,/praca/bistro-sk/O4488409,2023-03-21
+47,Java Development Engineer,"EcoPoint Office Center, Magnezitárska, Košice, Slovakia (Job with occasional home office)",Deep Pool Technology Slovakia s. r. o.,,/praca/deep-pool-technology-slovakia/O4187510,2023-03-21
+48,Java Developer ,"Sygic, Mlynské nivy, Bratislava, Slovensko (Job with occasional home office)","Sygic, a. s.",,/praca/sygic/O4523739,2023-03-21
+49,SW Developer ,"Bratislava, Slovakia (Job with occasional home office)",Pro HR,,/praca/pro-hr/O4334195,2023-03-21
+50,Naštartujte svoju kariéru v IT už dnes - príležitosť pre študentov/-ky  IT v Košiciach,"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)","DÔVERA zdravotná poisťovňa, a. s.",,/praca/dovera-zdravotna-poistovna/O4541994,2023-03-21
+51,Frontend Developer ,Práca z domu,"DGT factory, a. s.",,/praca/dgt-factory/O4139749,2023-03-21
+52,Software Engineer ,Remote work,"GoHealth, s. r. o.",,/praca/gohealth/O3964543,2023-03-21
+53,Web Developer - Medior/Senior,"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Slovensko IT, a. s.",,/praca/slovensko-it/O4260385,2023-03-21
+54,Fullstack SharePoint/Azure Developer,"Moldavská cesta, Košice, Slovakia (Job with occasional home office)",IT-Impulse s. r. o.,,/praca/it-impulse/O3612299,2023-03-21
+55,SAP ABAP / Fiori Developer ,"Bratislava II, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","SYNCHRONIX, a.s.",,/praca/synchronix/O4114053,2023-03-21
+56,SAP konzultant,"Nitra, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Foxconn Slovakia, spol. s r.o.",,/praca/foxconn-slovakia/O4542489,2023-03-21
+57,System Integrator & Coordinator,Nitra,Muehlbauer Technologies s.r.o.,,/praca/muehlbauer-technologies/O4486359,2023-03-21
+58,C++ Developer (Medior/Senior),Nitra,Muehlbauer Technologies s.r.o.,,/praca/muehlbauer-technologies/O4249390,2023-03-21
+59,DevOps for Biometric Devices,Nitra,Muehlbauer Technologies s.r.o.,,/praca/muehlbauer-technologies/O4503558,2023-03-21
+60,Java Software Engineer,"Pradiareň 1900, Svätoplukova, Ružinov, Slovakia, Bratislava (Job with occasional home office)",Multitude IT Labs (as part of Multitude Group),2 500 EUR/mesiac,/praca/multitude-it-labs-as-part-of-multitude-group/O4523693,2023-03-21
+61,Senior Java Developer,hybridný model: po zaškolení a dohode s nadriadeným možnosť práce z domu 60% a 40% z pracoviska Twin,"Západoslovenská energetika, a.s.",2 700 EUR/mesiac,/praca/zapadoslovenska-energetika/O4542452,2023-03-21
+62,C++ Developer,"Biznis Centrum Poštová 1, Poštová, Žilina-Vlčince",CertiCon SK s. r. o.,,/praca/certicon-sk/O4477344,2023-03-21
+63,C/C++ Developer,"Biznis Centrum Poštová 1, Poštová, Žilina-Vlčince",CertiCon SK s. r. o.,None,/praca/certicon-sk/O4477348,2023-03-21
+64,Vývojár C++ na Basic software,"Biznis Centrum Poštová 1, Poštová, Žilina-Vlčince",CertiCon SK s. r. o.,,/praca/certicon-sk/O4484359,2023-03-21
+65,Embedded C vývojár,"Biznis Centrum Poštová 1, Poštová, Žilina-Vlčince",CertiCon SK s. r. o.,,/praca/certicon-sk/O4518490,2023-03-21
+66,SW Developer (Vývoj a výroba elektronických testovacích zariadení),"Bytča, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4473237,2023-03-21
+67,Software Integration Engineer ,"Bratislava, Slovakia (Job with occasional home office)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4456137,2023-03-21
+68,Senior Application Developer (Robotics&Artificial intelligence) (REF507X),040 01 Košice,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4524336,2023-03-21
+69,Senior application developer (Network data Intelligence) (REF506H),040 01 Košice,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4524332,2023-03-21
+70,Senior Front-End Application Developer+ 5000 Eur Sign on bonus (REF463Z),040 01 Košice,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4524325,2023-03-21
+71,Senior Python Developer (permanent home office possible),"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4515955,2023-03-21
+72,Service Management Analyst,"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4502991,2023-03-21
+73,C# Developer,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Siemens Slovensko,,/praca/siemens-slovensko/O4118049,2023-03-21
+74,Full stack developer (medior),"Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4355361,2023-03-21
+75,SW developer - student,"Košice, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4307506,2023-03-21
+76,Medior C++ Developer ETCS OBU (Remote),Práca z domu,Siemens Slovensko,,/praca/siemens-slovensko/O4267352,2023-03-21
+77,Oracle Cloud Developer,Bratislava,IBM,,/praca/ibm/O4213544,2023-03-21
+78,Experienced Fullstack Developer with .NET expertise (permanent home office possible),"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4171094,2023-03-21
+79,Senior Java Developer (Permanent Home office possible),Remote work,"Accenture, s.r.o.",,/praca/accenture/O3801629,2023-03-21
+80,Lead developer/Architect for Embedded C++ Software,"Lamačská cesta, 841 01 Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,2 900 EUR/mesiac,/praca/siemens-slovensko/O4065776,2023-03-21
+81,Experienced C#.NET developer for Dynamics 365 platform (permanent home office possible),"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",2 800 - 4 300 EUR/mesiac,/praca/accenture/O4056971,2023-03-21
+82,Azure Machine Learning developer ,"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",1 800 EUR/mesiac,/praca/accenture/O3988995,2023-03-21
+83,C++ Software Engineer,"Bratislava, Slovakia (Job with occasional home office)","ESET, spol. s r.o.",None,/praca/eset/O4508201,2023-03-21
+84,Medior/Senior C++ Developer for Linux,"Bratislava, Slovakia (Job with occasional home office)","ESET, spol. s r.o.",,/praca/eset/O4500919,2023-03-21
+85,Malware Researcher,"Bratislava, Slovakia (Job with occasional home office)","ESET, spol. s r.o.",,/praca/eset/O4499255,2023-03-21
+86,Programátor / Developer / JAVA/ANDROID - Medior/Senior,"Tomášikova 28D, Ružinov",Papaya POS s.r.o.,,/praca/papaya-pos/O4348560,2023-03-21
+87,Java Developer (banking sector),Bratislava,Grafton Slovakia s.r.o.,,/praca/grafton-slovakia/O4542305,2023-03-21
+88,Java Programátor,Košice,Grafton Slovakia s.r.o.,,/praca/grafton-slovakia/O4542303,2023-03-21
+89,C#/.NET Programátor (aj živnosť/s.r.o.+ remote),Bratislava,Grafton Slovakia s.r.o.,,/praca/grafton-slovakia/O4542296,2023-03-21
+90,QA Automation Engineer,Košice,Grafton Slovakia s.r.o.,,/praca/grafton-slovakia/O4542295,2023-03-21
+91,Dlhodobá brigáda pre študenta VŠ v banke na divízii IT a digitalizácie (odbor IT Vývoj),Žilina,"Prima banka Slovensko, a.s.",,/praca/prima-banka-slovensko/O4542279,2023-03-21
+92,IT Authorization Analyst (senior),"Námestie Mateja Korvína 1, Bratislava",RPC,,/praca/rpc/O4542274,2023-03-21
+93,Full-stack programátor - Laravel,"Vilová, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",SVK media s.r.o.,,/praca/svk-media/O4542195,2023-03-21
+94,Frontend Engineer,"Mlynské nivy 5, Ružinov, Slovakia, Bratislava (Job with occasional home office)",BTCS Slovakia s. r. o.,,/praca/btcs-slovakia/O4318068,2023-03-21
+95,C#/.NET Software Developer,"Mlynské nivy 5, Ružinov, Slovakia, Bratislava (Job with occasional home office)",BTCS Slovakia s. r. o.,,/praca/btcs-slovakia/O4207016,2023-03-21
+96,MS SQL databázový špecialista ,"Kálov 356, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)","codium, s.r.o.",,/praca/codium/O4542140,2023-03-21
+97,IT Analyst (medior-senior),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,,/praca/pro-hr/O4542122,2023-03-21
+98,.NET API Developer,"Bratislava, Slovakia (Job with occasional home office)",Orange Business,,/praca/orange-business/O4542120,2023-03-21
+99,Junior JAVA programátor/ka v automotive,Bratislava,"VOLKSWAGEN SLOVAKIA, a.s.",,/praca/volkswagen-slovakia/O4257749,2023-03-21
+100,"Test Automation Engineer (JAVA, JavaScript, Python)","Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,2 600 EUR/mesiac,/praca/pro-hr/O4542084,2023-03-21
+101,C# .NET Developer,"Miletičova, Bratislava","SYNOT Games, s.r.o.",2 900 - 3 000 EUR/mesiac,/praca/synot-games/O4051599,2023-03-21
+102,Senior Frontend / Fullstack Developer for eMobility,Remote work,Fpt Slovakia s.r.o.,2 500 EUR/mesiac,/praca/fpt-slovakia/O4542046,2023-03-21
+103,Data Scientist (possibility of shortened work schedule 80% - 100%),"Bratislava, Slovak Republic (Job with occasional home office)","Zurich Insurance Company Ltd, organizačná zložka",None,/praca/zurich-insurance-company-ltd-organizacna-zlozka/O4542033,2023-03-21
+104,Full Stack Developer,"Bratislava, Slovak Republic","ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4541946,2023-03-21
+105,Junior/MID PHP programátor – Backend Developer,"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)",abc-zoo s.r.o.,,/praca/abc-zoo/O4541828,2023-03-21
+106,Hľadáme Java developera s potenciálom stať sa Tímlídrom! ,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",PosAm spol. s r.o.,,/praca/posam/O4541798,2023-03-21
+107,"Fullstack Developer (C#, .Net, Javascript, Web Stack (HTML5, CSS3))",Bratislavský kraj,"Manuvia, a. s.",,/praca/manuvia/O4541784,2023-03-21
+108,Senior Front-End Developer for Smart Buildings,Bratislavský kraj,"Manuvia, a. s.",,/praca/manuvia/O4541783,2023-03-21
+109,IT Developer (Angular),Bratislavský kraj,"Manuvia, a. s.",,/praca/manuvia/O4541782,2023-03-21
+110,Trainee C++ embedded developer ,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",GlobalLogic Slovakia s.r.o.,,/praca/globallogic-slovakia/O4541703,2023-03-21
+111,Java Developer ,Práca z domu,Unicorn,,/praca/unicorn/O4539256,2023-03-21
+112,Java programátor medior - Home Office/Office,Práca z domu,msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4007175,2023-03-21
+113,Špecialista IT tester - automatizácia - Home Office/Office,Práca z domu,msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4126327,2023-03-21
+114,Java developer - Home Office/Office,"Hraničná, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4344884,2023-03-21
+115,Vývojár 2D/3D CAD systémov,Bratislava,Grafton Slovakia s.r.o.,,/praca/grafton-slovakia/O4541547,2023-03-21
+116,IT procesný analytik/čka v oblasti CRM dát a kampaní,Bratislava,"Slovenská sporiteľňa, a.s.",,/praca/slovenska-sporitelna/O4541536,2023-03-21
+117,Java programátor senior - Home Office/Office,Práca z domu,msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4485795,2023-03-21
+118,Java programátor MigArchiv - Home Office/Office,Práca z domu,msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4502068,2023-03-21
+119,C++/C# Programátor Junior (príležitosť pre študentov 5. ročníka),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4541448,2023-03-21
+120,IT Site Reliability Engineer,Remote work,Pro HR,3 500 EUR/mesiac,/praca/pro-hr/O3955520,2023-03-21
+121,FrontEnd Developer ,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,2 300 EUR/mesiac,/praca/pro-hr/O3236250,2023-03-21
+122,Senior JAVA developer,Práca z domu,CODERAMA s. r. o.,3 000 - 6 000 EUR/mesiac,/praca/coderama/O4520710,2023-03-21
+123,IT Architekt,Práca z domu,CODERAMA s. r. o.,None,/praca/coderama/O4525691,2023-03-21
+124,Junior Application Developer - Back-End (Part-time job for students) (REF471R),Košice,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4523820,2023-03-21
+125,Junior Application Developer (part time job for students) (REF530M),"Košice, Slovakia (Job with occasional home office)",Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4523806,2023-03-21
+126,Senior Qlik developer,Remote work,"Accenture, s.r.o.",,/praca/accenture/O4523718,2023-03-21
+127,Experienced Java Developer,Práca z domu,"UNIQA Group Service Center Slovakia, spol. s r.o.",,/praca/uniqa-group-service-center-slovakia/O4444777,2023-03-21
+128,Adobe Senior Consultant,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O4505949,2023-03-21
+129,Adobe Developer,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O4505944,2023-03-21
+130,Adobe Consultant,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O4505936,2023-03-21
+131,Start your career with Adobe!,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O4505929,2023-03-21
+132,Frontend Developer ( Angular ),"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4485176,2023-03-21
+133,JAVA Developer (Remote),Práca z domu,"ACEQES, s.r.o.",,/praca/aceqes/O4457146,2023-03-21
+134,JavaScript Developer - Frontend / Fullstack (Remote),Práca z domu,"ACEQES, s.r.o.",,/praca/aceqes/O4386879,2023-03-21
+135,Web Application Developer,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4345584,2023-03-21
+136,Application Tester - Python,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4416758,2023-03-21
+137,Junior C++ Developer ETCS OBU,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4266155,2023-03-21
+138,Experienced Azure Data Engineer ,"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4053707,2023-03-21
+139,Senior Embedded C++ Software developer,"Lamačská cesta, 841 01 Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4050094,2023-03-21
+140,Experienced ServiceNow Consultant / Developer (permanent home office possible),"Košice, Slovakia (Job with occasional home office)","Accenture, s.r.o.",2 800 - 4 300 EUR/mesiac,/praca/accenture/O3859622,2023-03-21
+141,Application Engineer,"Lesná 52, 900 33 Marianka",XIMEA s.r.o.,1 300 - 2 000 EUR/mesiac,/praca/ximea/O4317692,2023-03-21
+142,SW Developer in Embedded Systems - Motor Control,Remote work,IT-Impulse s. r. o.,,/praca/it-impulse/O4522269,2023-03-21
+143,SW Developer - Battery pack and charger development ,Remote work,IT-Impulse s. r. o.,None,/praca/it-impulse/O4522294,2023-03-21
+144,PHP programátor Junior - Nette,"Magnetová 1, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Webtec s. r. o.,,/praca/webtec/O4522732,2023-03-21
+145,Trainee C++ embedded developer,"Žilina, Slovakia (Job with occasional home office)",GlobalLogic Slovakia s.r.o.,,/praca/globallogic-slovakia/O4541054,2023-03-21
+146,"Príležitosť pre študentov vysokých škôl! Pracuj popri štúdiu, firemný autobus zabezpečený!",Kechnec,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4541043,2023-03-21
+147,.NET/C# Senior Software Developer,"Twin City C, Staré Mesto","CRIF - Slovak Credit Bureau, s. r. o.",,/praca/crif-slovak-credit-bureau/O4192721,2023-03-21
+148,Software Architect .NET,"Twin City C, Old Town","CRIF - Slovak Credit Bureau, s. r. o.",,/praca/crif-slovak-credit-bureau/O3942489,2023-03-21
+149,"Java Developer (spring, angular)-finančné služby-50 % Ba a 50 % HO",Bratislava,"Manuvia, a. s.",,/praca/manuvia/O4541011,2023-03-21
+150,IOS programátor (FinTech),"Eurovea, Pribinova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","WORLD BUSINESS PRESS online, a.s.",,/praca/world-business-press-online/O4540999,2023-03-21
+151,"Java Developer, IČO, 100% home office",Práce z domu,teamIT s.r.o.,,/praca/teamit/O4540998,2023-03-21
+152,.NET Developer - Medior/Senior,"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Slovensko IT, a. s.",,/praca/slovensko-it/O4483204,2023-03-21
+153,Java Developer,Práca z domu,Kodiva s. r. o.,,/praca/kodiva/O4540918,2023-03-21
+154,Java Software Engineer for George (all genders),"Bratislava, Slovakia (Job with occasional home office)",Erste Digital,,/praca/erste-digital/O4540593,2023-03-21
+155,Senior RPA Developer ,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Mazars,,/praca/mazars/O4505888,2023-03-21
+156,IOS Developer for George (all genders),"Bratislava, Slovakia (Job with occasional home office)",Erste Digital,,/praca/erste-digital/O4540553,2023-03-21
+157,QA Software Engineer - debug specialist,"Bratislava, Slovakia (Job with occasional home office)","Nokia Slovakia, a.s.",,/praca/nokia-slovakia/O4391536,2023-03-21
+158,C# CI/CD developer,"Košice Region, Slovakia, Košice region (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4540719,2023-03-21
+159,C# CI/CD developer,"Košice Region, Slovakia, Košice region (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4540718,2023-03-21
+160,Summer Development Academy Kosice - full time internship for students during summer,Košice,Siemens Slovensko,6 EUR/hod.,/praca/siemens-slovensko/O4540713,2023-03-21
+161,Summer Development Academy Bratislava - full time internship for students during summer,"Bratislava Region, Slovakia, Bratislava region (Job with occasional home office)",Siemens Slovensko,6 EUR/hod.,/praca/siemens-slovensko/O4540712,2023-03-21
+162,Summer Development Academy Zilina - full time internship for students during summer,"Žilina Region, Slovakia, Žilina region (Job with occasional home office)",Siemens Slovensko,6 EUR/hod.,/praca/siemens-slovensko/O4540711,2023-03-21
+163,Programátor remote riešení,Zvolen,NEXINEO s.r.o.,None,/praca/nexineo/O4540688,2023-03-21
+164,Programator pre Unreal Engine.,Práca z domu,GiM s.r.o.,,/praca/gim/O4540663,2023-03-21
+165,IT  Junior Specialista / SAP support,"Teplička nad Váhom, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Hyundai AutoEver Europe GmbH, organizačná zložka",,/praca/hyundai-autoever-europe-gmbh-organizacna-zlozka/O4540644,2023-03-21
+166,Junior JAVA Developer - Graduate Hiring Program,"DXC Technology, Galvaniho, Bratislava, Slovakia (Job with occasional home office)",DXC Technology,,/praca/dxc-technology/O3859409,2023-03-21
+167,C++ developer for WMS,Remote work,First Line Software s.r.o.,,/praca/first-line-software/O4540621,2023-03-21
+168,UI Software Engineer - Žilina,"Žilina, Slovakia (Job with occasional home office)",PANTHEON.tech s.r.o.,,/praca/pantheon-tech/O4540608,2023-03-21
+169,UI Software Engineer - Banská Bystrica,"Banská Bystrica, Slovakia (Job with occasional home office)",PANTHEON.tech s.r.o.,,/praca/pantheon-tech/O4540605,2023-03-21
+170,UI Software Engineer - Bratislava,"Bratislava, Slovakia (Job with occasional home office)",PANTHEON.tech s.r.o.,,/praca/pantheon-tech/O4400051,2023-03-21
+171,Python Software Engineer - Žilina,"Žilina, Slovakia (Job with occasional home office)",PANTHEON.tech s.r.o.,,/praca/pantheon-tech/O4540600,2023-03-21
+172,Python Software Engineer - Banská Bystrica,"Banská Bystrica, Slovakia (Job with occasional home office)",PANTHEON.tech s.r.o.,,/praca/pantheon-tech/O4540599,2023-03-21
+173,Python Software Engineer - Bratislava,"Bratislava, Slovakia (Job with occasional home office)",PANTHEON.tech s.r.o.,,/praca/pantheon-tech/O4241394,2023-03-21
+174,JAVA Software Engineer - Žilina,"Žilina, Slovakia (Job with occasional home office)",PANTHEON.tech s.r.o.,,/praca/pantheon-tech/O4540595,2023-03-21
+175,JAVA Software Engineer - Banská Bystrica,"Banská Bystrica, Slovakia (Job with occasional home office)",PANTHEON.tech s.r.o.,,/praca/pantheon-tech/O4540594,2023-03-21
+176,JAVA Software Engineer - Bratislava,"Bratislava, Slovakia (Job with occasional home office)",PANTHEON.tech s.r.o.,,/praca/pantheon-tech/O4400044,2023-03-21
+177,Mid Full Stack Developer (HTML/WP/PHP),"Hurbanova 40, Senica, Slovensko (Pozícia umožňuje občasnú prácu z domu)",upvision.s.r.o.,,/praca/upvision-s-r-o/O4540552,2023-03-21
+178,"Backend Developer (AWS, TypeScript, Java, C#)",Remote work,Arcondis Solutions s.r.o.,,/praca/arcondis-solutions/O4539994,2023-03-21
+179,Junior JAVA Developer,Remote work,FREQUENTIS Solutions & Services s. r. o.,,/praca/frequentis-solutions-services/O4427457,2023-03-21
+180,Python developer - more projects to choose from (Bratislava or remote),Remote work,"Infinit, s.r.o.",2 500 - 5 000 EUR/mesiac,/praca/infinit/O4145556,2023-03-21
+181,Java developer pre finančný projekt,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",TRIGON Consulting s.r.o.,1 800 EUR/mesiac,/praca/trigon-consulting/O4538891,2023-03-21
+182,JAVA backend developer (mid/senior),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Union,2 300 EUR/mesiac,/praca/union/O4540348,2023-03-21
+183,Python Developer in data science team,"U. S. Steel Košice, s.r.o., Šaca, Slovakia (Job with occasional home office)","U. S. Steel Košice, s.r.o.",None,/praca/u-s-steel-kosice/O4521765,2023-03-21
+184,Platform technology engineer/ka,Bratislava,"Slovenská sporiteľňa, a.s.",,/praca/slovenska-sporitelna/O4540311,2023-03-21
+185,Java Developer pre Smart Buildings,Bratislava,"Manuvia, a. s.",,/praca/manuvia/O4540278,2023-03-21
+186,Senior Java Developer pre Smart Buildings,Bratislava,"Manuvia, a. s.",,/praca/manuvia/O4540277,2023-03-21
+187,C/C++ Developer ,"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4522662,2023-03-21
+188,Senior Salesforce Developer,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O3274812,2023-03-21
+189,Embedded C Software Developer Junior,"Brose Prievidza, spol. s r.o., Prievidza, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Brose Prievidza, spol. s r.o.",,/praca/brose-prievidza/O4396661,2023-03-21
+190,Medior Java Developer,Remote work,"Accenture, s.r.o.",,/praca/accenture/O4072671,2023-03-21
+191,Senior SAP Consultant,"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4159840,2023-03-21
+192,IT Trainee,Remote work,IBM,,/praca/ibm/O4063133,2023-03-21
+193,Senior Java Developer,Práca z domu,Garwan Consulting s. r. o.,,/praca/garwan-consulting/O4540147,2023-03-21
+194,Mid/Senior PHP programátor,Práca z domu,"Quality Unit, s. r. o.",,/praca/quality-unit/O4540124,2023-03-21
+195, Technický konzultant zákazníckych riešení - Košice (m/ž),"Košický kraj, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Slovak Telekom, a.s.",,/praca/slovak-telekom/O4540083,2023-03-21
+196,Junior Embedded C/C++ Engineer (Linux/Networking),Remote work,GlobalLogic Slovakia s.r.o.,,/praca/globallogic-slovakia/O4540059,2023-03-21
+197,ServiceNow Developer/Consultant (javascript),Práca z domu,MATERNA Information & Communications s.r.o.,,/praca/materna-information-communications/O4261496,2023-03-21
+198,Java Trainee Program ,Práca z domu,MATERNA Information & Communications s.r.o.,,/praca/materna-information-communications/O4516248,2023-03-21
+199,Senior Finance Consultant Oracle: E-Business Suite ,"Bratislava region, Slovak Republic",ManpowerGroup Slovensko s.r.o.,,/praca/manpowergroup-slovensko/O4539998,2023-03-21
+200,.NET Developer,Práca z domu,Unicorn,2 000 EUR/mesiac,/praca/unicorn/O4539551,2023-03-21
+201,Senior Supply Chain Consultant Oracle: E-Business Suite,"Bratislava region, Slovak Republic",ManpowerGroup Slovensko s.r.o.,3 500 EUR/mesiac,/praca/manpowergroup-slovensko/O4539925,2023-03-21
+202,Senior Mobile Game Developer (Unity),"Bratislava, Slovakia (Job with occasional home office)",SuperScale s. r. o.,3 800 EUR/mesiac,/praca/superscale/O4539916,2023-03-21
+203,Cloud Transformation Engineer,"Bratislava, Slovakia (Job with occasional home office)","The Capital Markets Company Slovakia, s. r. o.",None,/praca/the-capital-markets-company-slovakia/O3977714,2023-03-21
+204,Teamleader/Java Developer s nástupným bonusom 1.500 €,"Prievozská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","DGT factory, a. s.",,/praca/dgt-factory/O4434282,2023-03-21
+205,Administratívna podpora - logistika/SAP,Nové Mesto nad Váhom,ALEX PETERSON s.r.o.,,/praca/alex-peterson/O4539648,2023-03-21
+206,Junior Embedded C/C++ Software developer,Bratislava,Siemens Slovensko,,/praca/siemens-slovensko/O4539857,2023-03-21
+207,Embedded C++ softvérový/-á vývojár/-ka,"Galvaniho, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",HMH s.r.o.,,/praca/hmh/O4494840,2023-03-21
+208,Programátor - špecialista informatik ,Bratislava,"Národná diaľničná spoločnosť, a.s.",,/praca/narodna-dialnicna-spolocnost/O4499565,2023-03-21
+209,C#/.NET SW Developer (Agile Swiss company) - Mid / Senior,"Einsteinova 33, Petržalka",Metrohm Research Slovakia s. r. o.,,/praca/metrohm-research-slovakia/O3238943,2023-03-21
+210,Build Systems Administrator,"Einsteinova 33, Petržalka",Metrohm Research Slovakia s. r. o.,,/praca/metrohm-research-slovakia/O3244237,2023-03-21
+211,Senior IT Application Developer PL/SQL,"Bratislava, Slovakia (Job with occasional home office)","SIA Central Europe, a.s.",,/praca/sia-central-europe/O4507831,2023-03-21
+212,Web developer | BizPartner Group,Práca z domu,BizPartner a.s.,,/praca/bizpartner/O4506180,2023-03-21
+213,Data Engineer (Stochastic Analytics),"Bottova, Bratislava, Slovakia (Job with occasional home office)",Synpulse Slovakia s.r.o.,,/praca/synpulse-slovakia/O4306178,2023-03-21
+214, .NET / C# / Programátor / Tpp,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",SEITEQ s.r.o.,,/praca/seiteq/O3326658,2023-03-21
+215,.NET / C# Developer- Full Time Remote / 100% HO. / Živnosť / S.r.o.,Práca z domu,SEITEQ s.r.o.,,/praca/seiteq/O4153609,2023-03-21
+216,SW Backend developer,Kysucké Nové Mesto,SCHAEFFLER,,/praca/schaeffler/O4539746,2023-03-21
+217,Frontend developer,Kysucké Nové Mesto,SCHAEFFLER,,/praca/schaeffler/O4539745,2023-03-21
+218,Senior Consultant Oracle: PM Cloud,"Bratislava region, Slovak Republic",ManpowerGroup Slovensko s.r.o.,,/praca/manpowergroup-slovensko/O4539690,2023-03-21
+219,Elektrokonštruktér (Vývoj a výroba elektronických testovacích zariadení) ,"Bytča, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4539689,2023-03-21
+220,ABAP Developer,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,2 900 EUR/mesiac,/praca/scheidt-bachmann-slovensko/O4518266,2023-03-21
+221,Product Owner / Technical Team Lead of Java Team,"Bratislava, Slovakia (Job with occasional home office)",Scheidt & Bachmann Slovensko s.r.o.,4 200 EUR/mesiac,/praca/scheidt-bachmann-slovensko/O4518620,2023-03-21
+222,SW System Architect (focus on back-office),"Bratislava, Slovakia (Job with occasional home office)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4518692,2023-03-21
+223,DevOps Engineer,"Praha, Česko (Pozice umožňuje občasnou práci z domu)","Advantage Consulting, s.r.o.",None,/praca/advantage-consulting/O4539681,2023-03-21
+224,Full Stack developer,"Zámocká 30, 811 01 Bratislava-Hrad, Slovakia (Job with occasional home office)","Intellica DG, s. r. o.",,/praca/intellica-dg/O4539680,2023-03-21
+225,Backend Node.js/JavaScript programátor,"Námestie SNP, Banská Bystrica",Total Avengers s. r. o.,,/praca/total-avengers/O4539672,2023-03-21
+226,Front-end Developer /-ka,Bratislava,ENERGO - AQUA a.s.,,/praca/energo-aqua/O4472953,2023-03-21
+227,C/C++ Developer ,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4452733,2023-03-21
+228,AWS/Terraform/Kubernetes Engineer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,,/praca/pro-hr/O4261831,2023-03-21
+229,Presales konzultant,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Alanata a. s.,,/praca/alanata/O4539622,2023-03-21
+230,Java programator - Senior,Práca z domu,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4539547,2023-03-21
+231,Medior Java Developer,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4453635,2023-03-21
+232,Experienced software engineer (.NET),Remote work,"NESS KE, s.r.o.",,/praca/ness-ke/O4520450,2023-03-21
+233,Experienced DevOps Engineer,"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4530376,2023-03-21
+234,Data Warehouse Developer,Remote work,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4521591,2023-03-21
+235,Power BI Developer,Remote work,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4521588,2023-03-21
+236,Service Now Lead Developer Architect - HRSD (Slovakia),"Žilina, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4472158,2023-03-21
+237,Service Now Lead Developer Architect - HRSD (Slovakia),"Košice, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4472150,2023-03-21
+238,AWS DevOps .Net Core Developer,"Zvolen, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Continental AG,,/praca/continental-ag/O4439052,2023-03-21
+239,Monitoring Engineer,Remote work,"Accenture, s.r.o.",,/praca/accenture/O4435177,2023-03-21
+240,Java Software Engineer ,Remote work,Infobip,2 000 EUR/mesiac,/praca/infobip/O4083046,2023-03-21
+241, Experienced .NET Developer (permanent home office possible),"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",2 800 - 4 300 EUR/mesiac,/praca/accenture/O4001511,2023-03-21
+242,Absolvent s IT zameraním,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Siemens Slovensko,,/praca/siemens-slovensko/O4226521,2023-03-21
+243,C++ Developer,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Siemens Slovensko,None,/praca/siemens-slovensko/O4164861,2023-03-21
+244,Java Developer,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4108268,2023-03-21
+245,Junior Software Deployment Manager,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4060546,2023-03-21
+246,Experienced Data Engineer (for a unique project),Bratislava,IBM,,/praca/ibm/O4080591,2023-03-21
+247,Experienced ETL Data Engineer ready for the Cloud level? (Permanent Home Office Possible),"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4023408,2023-03-21
+248,SAP HCM Developer with WD4A skill,Remote work,DXC Technology,,/praca/dxc-technology/O4490118,2023-03-21
+249,"Vieš čo je ABAP?  Super, poď k nám programovať SAP","Stará Turá, Slovensko (Pozícia umožňuje občasnú prácu z domu)",BizLink Industry Slovakia spol. s r. o.,,/praca/bizlink-industry-slovakia/O4539340,2023-03-21
+250,Automation Engineer Medior - 365.innohub (m/ž),Bratislava,365.bank,,/praca/365-bank/O4539311,2023-03-21
+251,Programátor (IT Vývoj),Žilina,"Prima banka Slovensko, a.s.",,/praca/prima-banka-slovensko/O4539295,2023-03-21
+252,Experienced Azure Data Engineer Kosice,"Košice, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4053704,2023-03-21
+253,SW Developer – Backend,Bratislava,NG Aviation s. r. o.,,/praca/ng-aviation/O4539234,2023-03-21
+254,Business Analyst (Bratislava or 90% remote),Práca z domu,"ARTIN Solutions, s.r.o.",,/praca/artin-solutions/O4516557,2023-03-21
+255,Backend programátor,"Univerzitná 8661/6a, Žilina","Asseco CEIT, a.s.",,/praca/asseco-ceit/O4528383,2023-03-21
+256,IT/ERP Analyst,"Diaľničná cesta 12, Senec, okres Senec","ESA LOGISTIKA, s.r.o.",,/praca/esa-logistika/O4467588,2023-03-21
+257,Release manager / C#/.NET Developer,"Miletičova, Bratislava","SYNOT Games, s.r.o.",,/praca/synot-games/O4516799,2023-03-21
+258,Senior Frontend Developer,"Miletičova, Bratislava","SYNOT Games, s.r.o.",,/praca/synot-games/O4145038,2023-03-21
+259,Senior Python Developer pre ERP systém Odoo,"Karadžičova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Dedoles s.r.o., v reštrukturalizácii",,/praca/dedoles-v-restrukturalizacii/O4539017,2023-03-21
+260,"Lead SW Engineer for the Computer Vision team (Python, Golang, AWS)","Jurkovičova Tepláreň, Bratislava, Slovakia (Job with occasional home office)",Sportradar,4 800 EUR/mesiac,/praca/sportradar/O4324516,2023-03-21
+261,"Programátor priemyselných robotov, PLC alebo SCADA",Prešovský kraj,"Manuvia, a. s.",1 400 EUR/mesiac,/praca/manuvia/O4538954,2023-03-21
+262,ERP Administrátor,Topoľčany,"Manuvia, a. s.",2 500 - 3 000 EUR/mesiac Zabezpečená doprava,/praca/manuvia/O4538952,2023-03-21
+263,Programátor - junior,"Liptovský Mikuláš, Slovensko (Pozícia umožňuje občasnú prácu z domu)",AXENTA s. r. o.,None,/praca/axenta/O4538908,2023-03-21
+264,Java Developer s nástupným bonusom 1.500 €,Práca z domu,"DGT factory, a. s.",1 800 EUR/mesiac,/praca/dgt-factory/O4450156,2023-03-21
+265,Systémový administrátor - špecialista na Docker,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",2 500 EUR/mesiac,/praca/asseco-central-europe/O4538876,2023-03-21
+266,Front-end developer/ka – Vue.js a React.js,Bratislava,"Slovenská sporiteľňa, a.s.",2 100 EUR/mesiac,/praca/slovenska-sporitelna/O4538850,2023-03-21
+267,"Hľadáme vývojára, ktorý sa nebojí C++ !","Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Bohemia Interactive Simulations k.s.,,/praca/bohemia-interactive-simulations-k-s/O4390189,2023-03-21
+268,Frontend vývojár,"Povodská cesta, Dunajská Streda","METRANS /Danubia/, a.s.",,/praca/metrans-danubia/O4127757,2023-03-21
+269,.NET/C# Developer,Práca z domu,develogics k. s.,,/praca/develogics-k-s/O4387148,2023-03-21
+270,Medior/Senior Frontend Developer for our Connected Home Team,"Bratislava, Slovakia (Job with occasional home office)","ESET, spol. s r.o.",,/praca/eset/O4520105,2023-03-21
+271,Java / DevOps developer,Práca z domu,STENGL a.s.,,/praca/stengl/O4538798,2023-03-21
+272,"Firmware developer (C, C++)","Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","R-DAS, s. r. o.",,/praca/r-das/O4487698,2023-03-21
+273,ABAP Developer,Remote work,"Unlimit Recruitment, s.r.o.",,/praca/unlimit-recruitment/O4309850,2023-03-21
+274,Cyber Security Specialist,Práca z domu,Pro HR,,/praca/pro-hr/O3543786,2023-03-21
+275,Java Developer,"Štúrova 27, Staré Mesto, Slovakia, Košice (Job with occasional home office)","ABB Solutions Slovakia, s. r. o.",,/praca/abb-solutions-slovakia/O4459428,2023-03-21
+276,"F# Developer | Skvelá komunita, veľa zábavy, vedomostí a zaujímavých projektov","Obchodná 2, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","CN Group CZ a.s., organizačná zložka SK",,/praca/cn-group-cz-organizacna-zlozka-sk/O4520005,2023-03-21
+277,C# SW Developer ,Nitra,Muehlbauer Technologies s.r.o.,,/praca/muehlbauer-technologies/O3980655,2023-03-21
+278,PLC programátor /-ka,Dubnica nad Váhom,ENERGO - AQUA a.s.,,/praca/energo-aqua/O4519793,2023-03-21
+279,"IT Developer (PHP, SQL)",Bratislava,"Manuvia, a. s.",,/praca/manuvia/O4538694,2023-03-21
+280,Vision Application Engineer,Nitra,Muehlbauer Technologies s.r.o.,1 500 EUR/mesiac,/praca/muehlbauer-technologies/O4197051,2023-03-21
+281,Senior .NET/C# Programátor,"Poštová, Žilina-Vlčince, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Descartes Systems (Slovakia) s.r.o.,2 700 EUR/mesiac,/praca/descartes-systems-slovakia/O4525088,2023-03-21
+282,Dynatrace Monitoring Expert,Remote work,"UNIQA Group Service Center Slovakia, spol. s r.o.",2 500 EUR/mesiac,/praca/uniqa-group-service-center-slovakia/O4345547,2023-03-21
+283,Senior Fiori Developer,"Košice, Slovakia (Job with occasional home office)","Accenture, s.r.o.",None,/praca/accenture/O4475590,2023-03-21
+284,Senior SAP Consultant,"Košice, Slovakia (Job with occasional home office)","Accenture, s.r.o.",2 800 - 4 300 EUR/mesiac,/praca/accenture/O4475575,2023-03-21
+285,Cloud Developer,Bratislava,IBM,,/praca/ibm/O4471460,2023-03-21
+286,Senior Cloud Data Engineer (permanent home office possible),Remote work,"Accenture, s.r.o.",,/praca/accenture/O4434984,2023-03-21
+287,C# Test Automation Developer,"Košice Region, Slovakia, Košice region (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4394680,2023-03-21
+288,Senior ABAP Developer,"Košice, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4388902,2023-03-21
+289,Senior SAP ABAP Developer,"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4067430,2023-03-21
+290,Junior Nuclear Verification & Validation /Test Engineer,Bratislava,Framatome Controls s. r. o.,,/praca/framatome-controls/O4064933,2023-03-21
+291,Senior Nuclear Verification & Validation / Test Engineer,Bratislava,Framatome Controls s. r. o.,,/praca/framatome-controls/O4017935,2023-03-21
+292,Infrastructure Security Engineer ,"Košice, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4191412,2023-03-21
+293,Infrastructure Security Senior Engineer ,"Košice, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4191406,2023-03-21
+294,Infrastructure Automation Engineer ,"Košice, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4191382,2023-03-21
+295,Azure Machine Learning developer Kosice  ,"Košice, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4071004,2023-03-21
+296,Senior Fiori Developer,"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O4051874,2023-03-21
+297,Software engineer C# - Intern,"Nivy Tower, Mlynské nivy, Bratislava","HighChem s.r.o., součást Thermo Fisher Scientific",,/praca/highchem-soucast-thermo-fisher-scientific/O4538586,2023-03-21
+298,PHP developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Unlimit Recruitment, s.r.o.",,/praca/unlimit-recruitment/O4538381,2023-03-21
+299,Lektor programovania pre deti - online forma,Práca z domu,Algorithmics s. r. o.,,/praca/algorithmics/O4146644,2023-03-21
+300,Student Part-time DevOps Engineer (all genders) #work&study #java #docker #K8,"Bratislava, Slovakia (Job with occasional home office)",Erste Digital,7 EUR/hod.,/praca/erste-digital/O4537995,2023-03-21
+301,Medior/Senior .NET developer,"Kutlíkova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Steinringer WEB and IT solutions, s.r.o.",2 500 EUR/mesiac,/praca/steinringer-web-and-it-solutions/O2827337,2023-03-21
+302,SAP Specialist,"Pardubice, Česko","Advantage Consulting, s.r.o.",None,/praca/advantage-consulting/O4538258,2023-03-21
+303,DevOps Engineer,"Ostrava-město, Česko","Advantage Consulting, s.r.o.",None,/praca/advantage-consulting/O4538256,2023-03-21
+304,Senior Backend Developer (PHP),"Binarium, Staré Grunty, Karlova Ves, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",Simplaq s.r.o,None,/praca/simplaq/O4538241,2023-03-21
+305,Front-End Development Team Lead,"Bratislava, Slovakia (Job with occasional home office)",Frinx s.r.o.,2 500 - 3 400 EUR/mesiac,/praca/frinx/O4538229,2023-03-21
+306,Java Back-end developer /-ka,Bratislava,ENERGO - AQUA a.s.,2 500 - 3 500 EUR/mesiac,/praca/energo-aqua/O4478457,2023-03-21
+307,Java Developer ,Remote work,Pro HR,,/praca/pro-hr/O4538173,2023-03-21
+308,SQL developer ,Prešov,"Fio banka, a. s., pobočka zahraničnej banky",,/praca/fio-banka-pobocka-zahranicnej-banky/O4538172,2023-03-21
+309,Programátor/elektrotechnik pre Rockwell PLC systémy,"Vlčie hrdlo, Bratislava","SLOVNAFT, a.s.",,/praca/slovnaft/O4538165,2023-03-21
+310,PHP Developer ,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,,/praca/pro-hr/O4538145,2023-03-21
+311,ABAP Developer /SAP S/4 HANA,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,,/praca/pro-hr/O4538140,2023-03-21
+312,FrontEnd Developer ,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,,/praca/pro-hr/O4537979,2023-03-21
+313,ABAP Developer/Developerka,"Digital Park, Einsteinova, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)","Zatopek Consulting, a. s.",,/praca/zatopek-consulting/O4518721,2023-03-21
+314,Frontend developer pre Aktuality.sk,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Ringier Slovakia Media, s. r. o.",,/praca/ringier-slovakia-media/O4537931,2023-03-21
+315,.NET / C# Developer,Práca z domu,"M2M Solutions, s.r.o.",,/praca/m2m-solutions/O4537930,2023-03-21
+316,PHP programátor/ka,"Kutlíkova, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",Mestská časť Bratislava-Petržalka,,/praca/mestska-cast-bratislava-petrzalka/O4537925,2023-03-21
+317,"Programátor - analytik C++, Qt",Košice,ALES a.s.,,/praca/ales/O4501061,2023-03-21
+318,Java programátor expert - Home Office/Office,Práca z domu,msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4288902,2023-03-21
+319,Java programátor junior - Home Office/Office,Práca z domu,msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4138912,2023-03-21
+320,IT Internship Opportunities,"Bratislava, Slovakia (Job with occasional home office)",Dell,"6,6 EUR/hod.",/praca/dell/O4442539,2023-03-21
+321,C++/C# developer for embedded systems,Nitra,Muehlbauer Technologies s.r.o.,2 000 EUR/mesiac,/praca/muehlbauer-technologies/O4517010,2023-03-21
+322,IT Infrastructure Capacity Planning Intern,Remote work,Dell,"6,6 EUR/hod.",/praca/dell/O4443737,2023-03-21
+323,Machine Software Engineer C++ ,Abroad - Others (The job requires travelling),Muehlbauer Technologies s.r.o.,None,/praca/muehlbauer-technologies/O4481456,2023-03-21
+324,Java software developer  - oddelenie Software Solutions,Nitra,Muehlbauer Technologies s.r.o.,,/praca/muehlbauer-technologies/O4517008,2023-03-21
+325,Java Programátor (TPP alebo s.r.o.),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Profinit Slovakia, s.r.o. (člen skupiny Profinit)",,/praca/profinit-slovakia-clen-skupiny-profinit/O4460171,2023-03-21
+326,Data Engineer (Data Tower),"Bottova, Bratislava, Slovakia (Job with occasional home office)",Synpulse Slovakia s.r.o.,,/praca/synpulse-slovakia/O4519239,2023-03-21
+327,Junior vývojár na platforme Mendix,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4313848,2023-03-21
+328,Web Portal Developer,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4519693,2023-03-21
+329,Senior Data Engineer / Java Developer “Data Integration and Big Data” ,Bratislava,"UNIQA Group Service Center Slovakia, spol. s r.o.",,/praca/uniqa-group-service-center-slovakia/O4396445,2023-03-21
+330,GoLang Developer for Open Sovereign Cloud,Košice,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4395837,2023-03-21
+331,Junior Application Specialist with German,"BBC 5, Plynárenská, Ružinov, Slovakia, Bratislava (Job with occasional home office)","Accenture, s.r.o.",,/praca/accenture/O3961961,2023-03-21
+332,SAP R/3 Finance (FI) Consultant,"Bratislava Region, Slovakia, Bratislava region (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4470578,2023-03-21
+333,PHP/Angular developer (eCommerce project),Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4348993,2023-03-21
+334,Full stack developer junior for MAGNUS project,"Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4304126,2023-03-21
+335,Hybrid Cloud Service Manager (SAP Infrastructure & Services),"Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4304122,2023-03-21
+336,Junior Konzultant/ka pre systém SAP,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)","GLOBESY, s.r.o.",,/praca/globesy/O4535992,2023-03-21
+337,Medior Konzultant/ka pre systém SAP,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)","GLOBESY, s.r.o.",,/praca/globesy/O4536089,2023-03-21
+338,C# programátor/-ka pre IS Humanet,Práca z domu,"HOUR, spol. s r.o.",,/praca/hour/O4537618,2023-03-21
+339,Java Developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,,/praca/softec/O4537677,2023-03-21
+340,DevOps Engineer - TPP/živnosť & Remote,Bratislava,Grafton Slovakia s.r.o.,2 200 - 4 000 EUR/mesiac,/praca/grafton-slovakia/O4537649,2023-03-21
+341,Databázový špecialista - migrácie (TPP/ živnosť a s možnosťou práce full remote),Bratislava,Grafton Slovakia s.r.o.,2 100 - 3 500 EUR/mesiac,/praca/grafton-slovakia/O4537648,2023-03-21
+342,DevOps engineer,Košice,Grafton Slovakia s.r.o.,2 700 - 4 000 EUR/mesiac,/praca/grafton-slovakia/O4537629,2023-03-21
+343,SW Developer (.NET),Bratislava,Grafton Slovakia s.r.o.,None,/praca/grafton-slovakia/O4537628,2023-03-21
+344,Senior Java developer,"Landererova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",JUMP soft a.s.,,/praca/jump-soft/O4537588,2023-03-21
+345,Programátor - medior/senior,Práca z domu,AMCEF s.r.o.,,/praca/amcef/O4390535,2023-03-21
+346,Solution Architect,"Košice, Slovakia (Job with occasional home office)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4518263,2023-03-21
+347,JAVA programátor (Senior),"Krasovského, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)","DATALAN, a.s.",,/praca/datalan/O4537516,2023-03-21
+348,Medior Java/Spring developer,"Landererova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",JUMP soft a.s.,,/praca/jump-soft/O4537509,2023-03-21
+349,Senior C/C++ Application Developer -  (Transaction Authorization - Base24) ,"Bratislava, Slovakia (Job with occasional home office)","SIA Central Europe, a.s.",,/praca/sia-central-europe/O4507265,2023-03-21
+350,Medior PHP programátor,"Krasovského 14, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",Alanata a. s.,,/praca/alanata/O4537455,2023-03-21
+351,C/C++/C#/.NET/Xamarin/Blazor/Silverlight/Embedded/PLC/Hardware,Práce z domu,radixal s.r.o.,,/praca/radixal/O4537448,2023-03-21
+352,Senior SAP ABAP/Fiori/ Developer,Remote work,Fpt Slovakia s.r.o.,,/praca/fpt-slovakia/O4537419,2023-03-21
+353,Test Automation Developer - Banská Bystrica,"Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Orange Slovensko, a.s.",,/praca/orange-slovensko/O4537413,2023-03-21
+354,Web developer,"Apollo Business Centre, Prievozská, Ružinov",Dataconcept s.r.o.,,/praca/dataconcept/O4189468,2023-03-21
+355,Trainee Backend Developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,,/praca/softec/O4537316,2023-03-21
+356,C++ Developer (ABIS product),"Lakeside Park 02, Tomášikova, Nové Mesto, Slovakia, Bratislava (Job with occasional home office)","Innovatrics, s.r.o.",,/praca/innovatrics/O4517589,2023-03-21
+357,C# / .NET Developer ,"Stará Vajnorská 27, Bratislava",Universal Instruments s. r. o.,,/praca/universal-instruments/O3409876,2023-03-21
+358,C++ Junior Software Engineer for Košice,Košice,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4209593,2023-03-21
+359,C++ Senior Software Engineer for Košice,Košice,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4209576,2023-03-21
+360,Agile Test Engineer with Python,Remote work,"ESET, spol. s r.o.",2 300 EUR/mesiac,/praca/eset/O4477967,2023-03-21
+361,Web developer,Práca z domu,"M7, s.r.o.",2 000 - 3 500 EUR/mesiac,/praca/m7/O3598552,2023-03-21
+362,"PHP Developer - Laravel, Vue.js",Práca z domu,"M7, s.r.o.",,/praca/m7/O3931000,2023-03-21
+363,Junior Android Developer (FinTech),"Eurovea, Pribinova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","WORLD BUSINESS PRESS online, a.s.",None,/praca/world-business-press-online/O4537088,2023-03-21
+364,JIRA Developer,"Bottova, Bratislava, Slovakia (Job with occasional home office)",Synpulse Slovakia s.r.o.,,/praca/synpulse-slovakia/O4457390,2023-03-21
+365,Full Stack Developer (with R),"Bottova, Bratislava, Slovakia (Job with occasional home office)",Synpulse Slovakia s.r.o.,,/praca/synpulse-slovakia/O4428348,2023-03-21
+366,Java programátor ERP,Práca z domu,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4537069,2023-03-21
+367,Java programátor,Práca z domu,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4518761,2023-03-21
+368,Junior programátor C/C++ alebo Java (Študent 3.- 5. roč.VŠ ),"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4537017,2023-03-21
+369,Senior .NET vývojár,Bratislava,STENGL a.s.,,/praca/stengl/O4485734,2023-03-21
+370,Junior Fullstack Web Developer,"Eurovea, Pribinova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","WORLD BUSINESS PRESS online, a.s.",,/praca/world-business-press-online/O4537052,2023-03-21
+371,IT konzultant / programátor – implementácie IS,Banská Bystrica,ESO9 Slovakia s.r.o.,,/praca/eso9-slovakia/O4427674,2023-03-21
+372,Junior IT Risk & Cyber Security audítor - Bratislava,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",EY – Ernst & Young,,/praca/ey-ernst-young/O4321410,2023-03-21
+373,"Programátor Java (Banking, Health, Insurance, Public)","Bratislavský kraj, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4536928,2023-03-21
+374,.NET developer do super-tímu v Bratislave,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",CODERAMA s. r. o.,,/praca/coderama/O4360470,2023-03-21
+375,Senior C++ developer,Práca z domu,CODERAMA s. r. o.,,/praca/coderama/O4527807,2023-03-21
+376,Senior React NATIVE developer ,Práca z domu,CODERAMA s. r. o.,,/praca/coderama/O4444185,2023-03-21
+377,.NET developer pre nemecký projekt,Práca z domu,CODERAMA s. r. o.,,/praca/coderama/O4496762,2023-03-21
+378,Programátor COBOL,"Ulica. 29.Augusta, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Sociálna poisťovňa, ústredie",,/praca/socialna-poistovna-ustredie/O4536877,2023-03-21
+379,Programátor riadiacich systémov ,Sereď,"SLOVENSKÉ CUKROVARY, s.r.o.",,/praca/slovenske-cukrovary/O4536875,2023-03-21
+380,HMI Programmer ,"Trenčianska Turná 2811, 913 21 Trenčianska Turná, Slovakia (Job with occasional home office)",Valicare s.r.o.,2 500 EUR/mesiac,/praca/valicare/O4216360,2023-03-21
+381,Front-end Developer - Team Lead,"Karadžičova, Bratislava",PwC,2 700 EUR/mesiac,/praca/pwc/O4374420,2023-03-21
+382,SW System Architect (focus on back-office),"Košice, Slovakia (Job with occasional home office)",Scheidt & Bachmann Slovensko s.r.o.,3 600 EUR/mesiac,/praca/scheidt-bachmann-slovensko/O4518956,2023-03-21
+383,Java Developer,Bratislava,IBM,None,/praca/ibm/O4469866,2023-03-21
+384,Embedded Systems Developer for Healthcare Projects,"Košice Region, Slovakia, Košice region (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4432355,2023-03-21
+385,Junior Oracle Database Administrator/Optimalization Specialist,"Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4302933,2023-03-21
+386,Oracle Database Administrator/Optimalization Specialist,Bratislava,Siemens Slovensko,,/praca/siemens-slovensko/O4302931,2023-03-21
+387,Software Architect for Point of Care Diagnostics,"Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4259861,2023-03-21
+388,Software Application Tester,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Siemens Slovensko,,/praca/siemens-slovensko/O4155610,2023-03-21
+389,Dátový Analytik ,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4223573,2023-03-21
+390,Senior IT Analytik,Bratislava,Greyson,,/praca/greyson/O3396145,2023-03-21
+391,Senior Java Developer ,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",PwC,,/praca/pwc/O4414402,2023-03-21
+392,Front end Developer,"Konventná, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",A Consulting - AS s.r.o.,,/praca/a-consulting-as/O4314868,2023-03-21
+393,Back end Developer ,"Konventná 6, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",A Consulting - AS s.r.o.,,/praca/a-consulting-as/O4314894,2023-03-21
+394,"HTML PHP, WordPress Programátor",Práca z domu,Rather Cash s. r. o.,,/praca/rather-cash/O4536760,2023-03-21
+395,C++ Developer,okres Nitra,Lugera & Maklér spol.s r.o.,,/praca/lugera-makler/O4536607,2023-03-21
+396,Fullstack developer (m/ž),"Bajkalská 28, Ružinov","Slovak Telekom, a.s.",,/praca/slovak-telekom/O4536604,2023-03-21
+397,Devops Engineer  - PL/SQL developer (m/ž),"Bajkalská 28, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)","Slovak Telekom, a.s.",,/praca/slovak-telekom/O4536603,2023-03-21
+398,Java/Javascript programátor,"Čajakova 18, Čajakova, Staré Mesto, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",TRAVELDATA s. r. o.,,/praca/traveldata/O4536547,2023-03-21
+399,.NET programátor,"Čajakova 18, Smrečianska, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",TRAVELDATA s. r. o.,,/praca/traveldata/O4536546,2023-03-21
+400,Python Software Engineer (Medior/Senior),"Bratislava, Slovakia (Job with occasional home office)",Frinx s.r.o.,2 000 - 4 000 EUR/mesiac,/praca/frinx/O4536498,2023-03-21
+401,QA Engineer / Tester,Remote work,SEITEQ s.r.o.,1 900 EUR/mesiac,/praca/seiteq/O4267505,2023-03-21
+402,DevOps Engineer,Remote work,SEITEQ s.r.o.,2 700 EUR/mesiac,/praca/seiteq/O4486401,2023-03-21
+403,Aktuár/Poistný matematik,Práca z domu,"ADECCO Slovakia, s. r. o.",None,/praca/adecco-slovakia/O4536424,2023-03-21
+404,Junior Java/React Developer - Letectvo,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Indra Avitech s.r.o.,,/praca/indra-avitech/O4517711,2023-03-21
+405,IT analytik - Letectvo ,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Indra Avitech s.r.o.,,/praca/indra-avitech/O4138880,2023-03-21
+406,Storage Infrastructure Engineer,Práca z domu,"Seznam.cz Slovensko, s.r.o.",,/praca/seznam-cz-slovensko/O4536189,2023-03-21
+407,Acceptance Tester - Letectvo,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Indra Avitech s.r.o.,,/praca/indra-avitech/O4428378,2023-03-21
+408,IT Developer Senior - Integrácie ,"Bratislava II, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Data System Soft, spol. s r.o.",,/praca/data-system-soft/O4492656,2023-03-21
+409,Test Automation Developer pre lídra v telekomunikačných službách,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",S&you by SYNERGIE,,/praca/s-you-by-synergie/O4535969,2023-03-21
+410,Global Tax Automation Internship,"Bratislava, Slovakia (Job with occasional home office)",Dell,,/praca/dell/O4535838,2023-03-21
+411,Data Science Internship,"Bratislava, Slovakia (Job with occasional home office)",Dell,,/praca/dell/O4535837,2023-03-21
+412,PHP Developer – Práca z domu!,Bratislava,SPORTISIMO s.r.o.,,/praca/sportisimo/O4535912,2023-03-21
+413,Programátor ,"Einsteinova 25, Petržalka","Privatbanka, a.s.",,/praca/privatbanka/O4535891,2023-03-21
+414,Frontend Developer,"Dvořákova 2881/77, Město, Přerov, Česko (Pozice umožňuje občasnou práci z domu)",KARAT Software a.s.,,/praca/karat-software/O4459889,2023-03-21
+415,CNC programátor,"Považské Podhradie 313, Považská Bystrica-Považské Podhradie","DOR, s.r.o.",,/praca/dor/O788845,2023-03-21
+416,Programátor robotov,Trnava,Lugera & Maklér spol.s r.o.,,/praca/lugera-makler/O4535818,2023-03-21
+417,Senior JAVA backend developer,Práca z domu,"UNIQA Group Service Center Slovakia, spol. s r.o.",,/praca/uniqa-group-service-center-slovakia/O4473977,2023-03-21
+418,Senior DevOps Engineer (Terraform@AWS),Remote work,"UNIQA Group Service Center Slovakia, spol. s r.o.",,/praca/uniqa-group-service-center-slovakia/O4436175,2023-03-21
+419,Senior Verification Engineer,"Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)","ON Semiconductor Slovakia, a.s.",,/praca/on-semiconductor-slovakia/O4500289,2023-03-21
+420,Verification Engineer,"Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)","ON Semiconductor Slovakia, a.s.",2 000 EUR/mesiac,/praca/on-semiconductor-slovakia/O4500288,2023-03-21
+421,Experienced ServiceNow Consultant / Developer (permanent home office possible),"Bratislava, Slovakia (Job with occasional home office)","Accenture, s.r.o.",2 800 - 4 300 EUR/mesiac,/praca/accenture/O4441505,2023-03-21
+422,Mid/Senior Full Stack Developer,"Lamačská cesta, 841 01 Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,1 900 EUR/mesiac,/praca/siemens-slovensko/O4002541,2023-03-21
+423,Senior DevOps Engineer,"Bratislava, Slovak Republic","Kistler Bratislava, s.r.o.",None,/praca/kistler-bratislava/O4535661,2023-03-21
+424,ERP supervisor,Topoľčany,"Manuvia, a. s.",3 500 EUR/mesiac,/praca/manuvia/O4535659,2023-03-21
+425,Node.js alebo PHP programátor,"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)",bart.sk s.r.o.,1 600 - 2 200 EUR/mesiac Zabezpečená doprava,/praca/bart-sk/O4535588,2023-03-21
+426,SAP Fiori developer,Práca z domu,Natuvion Slovakia s.r.o.,1 800 EUR/mesiac,/praca/natuvion-slovakia/O3969059,2023-03-21
+427,Mid/Senior Frontend Developer (VUE),"Binarium, Staré Grunty, Karlova Ves, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",Simplaq s.r.o,,/praca/simplaq/O4535548,2023-03-21
+428,Software Test Engineer,Bratislavský kraj,Lugera & Maklér spol.s r.o.,,/praca/lugera-makler/O4535480,2023-03-21
+429,"Dream Job ! Validačný expert s cestovaním po svete - aj pre absolventov ( mechatronika, elektrotechnika, automatizácia) !","Trenčiansky kraj, Zahraničie - ostatné (Práca vyžaduje cestovanie)","ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4535446,2023-03-21
+430,Fiori/UI5 Developer ,"Bratislava, Slovakia (Job with occasional home office)",Takeda,,/praca/takeda/O4535429,2023-03-21
+431,Embedded C/C++ Developer,Práca z domu,"M2M Solutions, s.r.o.",,/praca/m2m-solutions/O4535424,2023-03-21
+432,Java Backend developer,Košice,"GoodWill Recruitment, s.r.o.",,/praca/goodwill-recruitment/O4489313,2023-03-21
+433,C# Developer – Junior (pozícia vhodná aj pre absolventa),"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4510453,2023-03-21
+434,Platform Engineer,Bratislava,Telus Agriculture & Consumer Goods,,/praca/telus-agriculture-consumer-goods/O4535330,2023-03-21
+435,Oracle WebLogic Administrátor/Administrátorka,"Mlynské nivy, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Všeobecná úverová banka, a.s., Intesa Sanpaolo",,/praca/vseobecna-uverova-banka-intesa-sanpaolo/O4535263,2023-03-21
+436,Embedded C Dev. - Functional Safety (až 7.350 Eur/měs. - Full-Remote),Práce z domu,Valatron s.r.o.,,/praca/valatron/O4490828,2023-03-21
+437,Embedded C dev. - Ethernet/Analog/Audio (až 7.350 Eur/měs. - Full-Remote),Práce z domu,Valatron s.r.o.,,/praca/valatron/O4490827,2023-03-21
+438,Backend / Fullstack Python Developer,"Prešovská, Bratislava",SmartBase s. r. o.,,/praca/smartbase/O4144667,2023-03-21
+439,Programátor CNC fréz,Martin,Knifetec s. r. o.,,/praca/knifetec/O4535158,2023-03-21
+440,"Software Developer C/C++, Python - Multiple positions","Bratislava, Slovakia (Job with occasional home office)","Nokia Slovakia, a.s.",2 000 EUR/mesiac,/praca/nokia-slovakia/O2558801,2023-03-21
+441,"Software Developer Python, Bash, Tcl - Multiple positions","Bratislava, Slovakia (Job with occasional home office)","Nokia Slovakia, a.s.",2 000 EUR/mesiac,/praca/nokia-slovakia/O2557190,2023-03-21
+442,Senior Data Engineer,Remote work,"GoHealth, s. r. o.",,/praca/gohealth/O4515534,2023-03-21
+443,Programátor analytik/analytička Senior,"Mlynské nivy, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Všeobecná úverová banka, a.s., Intesa Sanpaolo",None,/praca/vseobecna-uverova-banka-intesa-sanpaolo/O4535098,2023-03-21
+444,SW Developer,"Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4534988,2023-03-21
+445,Liferay programátor,"Košický kraj, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4534985,2023-03-21
+446,Liferay programátor,"Banskobystrický kraj, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4534984,2023-03-21
+447,Liferay programátor,"Bratislavský kraj, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4534983,2023-03-21
+448,Analytik - programátor,"OVB Allfinanz Slovensko a.s., Kukuričná, Bratislava 3, Slovensko (Pozícia umožňuje občasnú prácu z domu)",OVB Allfinanz Slovensko a. s.,,/praca/ovb-allfinanz-slovensko/O4442081,2023-03-21
+449,C# developer,Bratislava,Siemens Slovensko,,/praca/siemens-slovensko/O4486792,2023-03-21
+450,C++ / WinCC OA Developer,Práca z domu,Siemens Slovensko,,/praca/siemens-slovensko/O4118051,2023-03-21
+451,React Developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,,/praca/pro-hr/O4534857,2023-03-21
+452,JAVA Developer - Junior,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Union,,/praca/union/O4534826,2023-03-21
+453,IT SQL Report Builder Developer ,Práca z domu,"Data System Soft, spol. s r.o.",,/praca/data-system-soft/O4534791,2023-03-21
+454,.NET Developer pre ČSOB,Bratislava,ČSOB Finančná skupina,,/praca/csob-financna-skupina/O4534787,2023-03-21
+455,SW test inženýr - Automotive,"Liptovský Mikuláš, Slovensko (Pozice umožňuje občasnou práci z domu)",CIT-Con SK s. r. o.,,/praca/cit-con-sk/O4232393,2023-03-21
+456,Junior SW Developer,"Bratislavský kraj, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4534712,2023-03-21
+457,Frontend programátor,"Univerzitná 8661/6a, Žilina","Asseco CEIT, a.s.",,/praca/asseco-ceit/O4523171,2023-03-21
+458,SW Test Engineer for Košice,Košice,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4534676,2023-03-21
+459,SW Test Engineer for Michalovce,Michalovce,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4534661,2023-03-21
+460,Flutter developer - middle - poď vyvíjať nový Pokec.sk!,Práca z domu,"Ringier Slovakia Media, s. r. o.",2 000 EUR/mesiac,/praca/ringier-slovakia-media/O4231884,2023-03-21
+461,Node.js developer - poď vyvíjať nový Pokec.sk na zelenej lúke!,Práca z domu,"Ringier Slovakia Media, s. r. o.",2 000 EUR/mesiac,/praca/ringier-slovakia-media/O4061475,2023-03-21
+462,React Developer for Telematics,"Sygic, Mlynské nivy, Bratislava, Slovensko (Job with occasional home office)","Sygic, a. s.",2 000 - 4 000 EUR/mesiac,/praca/sygic/O4363903,2023-03-21
+463,React (Native) developer,"Karadžičova, Bratislava",01 People s.r.o.,None,/praca/01-people/O4203235,2023-03-21
+464,Java developer for sports statistics (BE),"Jurkovičova Tepláreň, Bratislava, Slovakia (Job with occasional home office)",Sportradar,,/praca/sportradar/O4318914,2023-03-21
+465,Java+React FE developer / Živnosť / Kontrakt,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",SEITEQ s.r.o.,,/praca/seiteq/O4515364,2023-03-21
+466,Programátor pre DCS systémy,Bratislava,Siemens Slovensko,,/praca/siemens-slovensko/O4534528,2023-03-21
+467,Práca pre CNC programátora ! ,Kolárovo,LUMITECH spol. s r.o.,,/praca/lumitech/O4533308,2023-03-21
+468,BackEnd Python Developer,Bratislava,QORPO s. r. o.,,/praca/qorpo/O4534365,2023-03-21
+469,"Java/Kotlin Developer (remote, Bratislava/ Košice)",Práca z domu,"ARTIN Solutions, s.r.o.",,/praca/artin-solutions/O4525862,2023-03-21
+470,Junior/Medior C++ Software Developer,Trenčín,"Virtual Reality Media, a.s.",,/praca/virtual-reality-media/O4534294,2023-03-21
+471,Senior programátor C#,"Nové Zámky, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Imaweb, s. r. o.",,/praca/imaweb/O4534293,2023-03-21
+472,Junior programátor C#,"Nové Zámky, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Imaweb, s. r. o.",,/praca/imaweb/O4534289,2023-03-21
+473,Programátor/programátorka pre aplikáciu počítačových systémov ,Nová Dubnica,EVPÚ a.s.,,/praca/evpu/O4534282,2023-03-21
+474,Junior/Medior 3D Software Developer,"Rybárska 1, Trenčín","Virtual Reality Media, a.s.",,/praca/virtual-reality-media/O4534278,2023-03-21
+475,Robotik - programátor priemyselných robotov,"Továrenská 1, 018 41 Dubnica nad Váhom",Matador Group,,/praca/matador-group/O4192152,2023-03-21
+476,Solution Architect Digital Channels,Remote work,"UNIQA Group Service Center Slovakia, spol. s r.o.",,/praca/uniqa-group-service-center-slovakia/O4534244,2023-03-21
+477,PHP programátor - homeoffice,Práca z domu,Izzy Trading s.r.o.,,/praca/izzy-trading/O4534242,2023-03-21
+478,Penetration Tester (Ethical Hacker),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","ESET, spol. s r.o.",,/praca/eset/O4475461,2023-03-21
+479,Senior Scientific Programmer C++,"Bottova 2a, Bratislava, Slovakia (Job with occasional home office)",Solargis s. r. o.,,/praca/solargis/O4515832,2023-03-21
+480,DevOps Engineer,Bratislava,Siemens Slovensko,2 000 EUR/mesiac,/praca/siemens-slovensko/O4534116,2023-03-21
+481,Developer pre centrálne bankové systémy,Bratislava,"Tatra banka, a.s.",2 100 EUR/mesiac,/praca/tatra-banka/O4534115,2023-03-21
+482,Software Developer,"Landererova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",JUMP soft a.s.,1 400 EUR/mesiac,/praca/jump-soft/O4502245,2023-03-21
+483,Programátor CNC strojov,"Coburgova 82, Trnava",COLAB a.s.,None,/praca/colab/O4405289,2023-03-21
+484,Junior MS Dynamics CRM Developer ,Bratislava,"Unlimit Recruitment, s.r.o.",,/praca/unlimit-recruitment/O4533893,2023-03-21
+485,Web-developer for map applications,"Bottova 2a, Bratislava, Slovakia (Job with occasional home office)",Solargis s. r. o.,,/praca/solargis/O4533401,2023-03-21
+486,"Vývojáři všech specializací, 100 % home office",Práce z domu,radixal s.r.o.,,/praca/radixal/O4533672,2023-03-21
+487,Konzultant/vývojář SAP - i absolventi (35 - 70 000 Kč),"Praha, Česko","Advantage Consulting, s.r.o.",,/praca/advantage-consulting/O4488531,2023-03-21
+488,.NET Developer  / junior,"Vajnorská 158, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",MicroStep - HDO s.r.o.,None,/praca/microstep-hdo/O4141331,2023-03-21
+489,C# / .NET Developer Junior,"Továrenská, Dubnica nad Váhom",Matador Group,,/praca/matador-group/O4517813,2023-03-21
+490,PLC programátor senior,"M. Gorkého 820, 018 51 Nová Dubnica, Slovensko (Pozícia umožňuje občasnú prácu z domu)",NES Nová Dubnica s.r.o.,,/praca/nes-nova-dubnica/O4533634,2023-03-21
+491,Software Developer,"Príles, Trenčianska Teplá-Príles, Slovakia (Job with occasional home office)",KUK COILS Slovakia s. r. o.,,/praca/kuk-coils-slovakia/O1516764,2023-03-21
+492,Senior C++ Software Developer,"Košice, Slovak Republic",Solar Turbines Slovakia s.r.o.,,/praca/solar-turbines-slovakia/O4533578,2023-03-21
+493,C# developer - student position,"Žilina Region, Slovakia, Žilina region (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4533535,2023-03-21
+494,Fullstack developer - student position,"Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4533530,2023-03-21
+495,Software Developer in Air Traffic Management ,Remote work,FREQUENTIS Solutions & Services s. r. o.,,/praca/frequentis-solutions-services/O4417008,2023-03-21
+496,Fullstack Engineer for e-commerce project,Remote work,GlobalLogic Slovakia s.r.o.,,/praca/globallogic-slovakia/O4533496,2023-03-21
+497,Software developer - Student,"Žilina Region, Slovakia, Žilina region (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4533487,2023-03-21
+498,ERP Supervisor,Topoľčany,Pankl Automotive Slovakia s.r.o.,,/praca/pankl-automotive-slovakia/O4530705,2023-03-21
+499,IT Tester (Medior/Senior),"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",CODERAMA s. r. o.,,/praca/coderama/O4533465,2023-03-21
+500,Java Developer ,Bratislava,Bencor s.r.o.,None,/praca/bencor/O4510906,2023-03-21
+501,Java programátor,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Persona Grata HR s.r.o.,2 000 - 3 000 EUR/mesiac,/praca/persona-grata-hr/O4533376,2023-03-21
+502,Cloud Engineer (m/w/d) AWS,Práca z domu,Raiffeisen Informatik SK s.r.o.,2 500 EUR/mesiac,/praca/raiffeisen-informatik-sk/O4160435,2023-03-21
+503,DevSecOps Engineer,Remote work,Pro HR,None,/praca/pro-hr/O4334191,2023-03-21
+504,Ruby on Rails Developer (junior/medior/senior),Remote work,Pro HR,3 700 EUR/mesiac,/praca/pro-hr/O4020862,2023-03-21
+505,Senior Django developer,Práca z domu,CODERAMA s. r. o.,,/praca/coderama/O4452162,2023-03-21
+506,Python data engineer junior/medior (on site),"SKY PARK Offices, Bottova, Bratislava",Solargis s. r. o.,,/praca/solargis/O4150511,2023-03-21
+507,Scientific software and data engineer (on site),"SKY PARK Offices, Bottova, Bratislava, Slovakia (Job with occasional home office)",Solargis s. r. o.,,/praca/solargis/O4218042,2023-03-21
+508,C++ Junior Software Engineer for Michalovce,Michalovce,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4209598,2023-03-21
+509,C++ Senior Software Engineer for Michalovce,Michalovce,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4209582,2023-03-21
+510,Hybrid Cloud Service Manager (SAP Infrastructure & Services),"Žilina, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4278275,2023-03-21
+511,Hybrid Cloud Service Manager (SAP Infrastructure & Services),"Košice, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4278272,2023-03-21
+512,Join our Mobile community! (iOS/Android/Hybrid),Bratislava,IBM,,/praca/ibm/O4255645,2023-03-21
+513,Web Developer / Software Developer PHP for Pimcore,Remote work,"LOEWE, s.r.o.",,/praca/loewe/O4513047,2023-03-21
+514,IT Tester (Banking),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4533192,2023-03-21
+515,"Senior Developer (HTML, React, VUE.js, C#, SQL)","Trnava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",EMIS s.r.o.,,/praca/emis/O4533184,2023-03-21
+516,Automation Tester + Java - remote,Práca z domu,STENGL a.s.,,/praca/stengl/O4533129,2023-03-21
+517,PLC Programátor,"Priemyselná 2, Žilina","TECHNOALPIN EAST EUROPE, s.r.o.",,/praca/technoalpin-east-europe/O4482569,2023-03-21
+518,FrontEnd Developer,Žilina,FUERGY Industries j. s. a.,,/praca/fuergy-industries-j/O4508073,2023-03-21
+519,Application developer,Žilina,FUERGY Industries j. s. a.,,/praca/fuergy-industries-j/O4508001,2023-03-21
+520,Python Developer,Žilina,FUERGY Industries j. s. a.,1 800 EUR/mesiac,/praca/fuergy-industries-j/O4508089,2023-03-21
+521,Liferay/Java developer,Práca z domu,STENGL a.s.,35 EUR/hod.,/praca/stengl/O4509335,2023-03-21
+522,FrontEnd Developer,Bratislava,QORPO s. r. o.,1 800 EUR/mesiac,/praca/qorpo/O4532846,2023-03-21
+523,Strong Middle WordPress Developer,Remote work,"Altamira Softworks, s. r. o.",None,/praca/altamira-softworks/O4532824,2023-03-21
+524,React Developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Unicorn,1 500 - 2 500 EUR/mesiac,/praca/unicorn/O4470599,2023-03-21
+525,PHP Backend vývojár/ka v e-commerce,"Blueweb s.r.o., M. R. Štefánika, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Blueweb s.r.o.,2 000 EUR/mesiac,/praca/blueweb/O4512747,2023-03-21
+526,Frontend Developer ,"Karadžičova 12, Ružinov","Websupport, s.r.o.",1 800 EUR/mesiac,/praca/websupport/O4014739,2023-03-21
+527,Python Developer/ka ,"Karadžičova 12, Ružinov","Websupport, s.r.o.",,/praca/websupport/O4494407,2023-03-21
+528,PHP Developer/ka ,"Karadžičova 12, Ružinov","Websupport, s.r.o.",,/praca/websupport/O3969658,2023-03-21
+529,Teamleader/-ka oddelenia zdieľaných aplikačných služieb,Bratislava,ČSOB Finančná skupina,,/praca/csob-financna-skupina/O4532656,2023-03-21
+530,Junior Java Engineer,Remote work,GlobalLogic Slovakia s.r.o.,,/praca/globallogic-slovakia/O4532555,2023-03-21
+531,Junior developer - Delphi,"Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)",TRIGON Consulting s.r.o.,,/praca/trigon-consulting/O4510780,2023-03-21
+532,PHP Senior,Práca z domu,TSS Group a. s.,,/praca/tss-group/O4512524,2023-03-21
+533,Python developer,Práca z domu,Hyperia s.r.o.,,/praca/hyperia/O4507691,2023-03-21
+534,PHP developer,Práca z domu,Hyperia s.r.o.,,/praca/hyperia/O4411789,2023-03-21
+535,Java Developer - Medior/Senior,"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Slovensko IT, a. s.",,/praca/slovensko-it/O4275876,2023-03-21
+536,Frontend / Angular Developer,Remote work,"UNIQA Group Service Center Slovakia, spol. s r.o.",,/praca/uniqa-group-service-center-slovakia/O4171775,2023-03-21
+537,Head of Software Solutions,Nitra,Muehlbauer Technologies s.r.o.,,/praca/muehlbauer-technologies/O4511193,2023-03-21
+538,MS SharePoint Administrátor / Developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",MICROCOMP - Computersystém s.r.o.,,/praca/microcomp-computersystem/O4471624,2023-03-21
+539,Tester SW (Automatizované testovanie),"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4514771,2023-03-21
+540,Experienced Vue.JS developer,Bratislava,Siemens Slovensko,2 500 EUR/mesiac,/praca/siemens-slovensko/O4496488,2023-03-21
+541,C# developer,Žilina,Siemens Slovensko,2 200 EUR/mesiac,/praca/siemens-slovensko/O4466408,2023-03-21
+542,SW Developer Student with Linux focus,Bratislava,Siemens Slovensko,5 EUR/hod.,/praca/siemens-slovensko/O4298284,2023-03-21
+543,"GDC IT Application/Service Manager for LIMS system - US Timezone (Glasgow, Delaware)","Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,None,/praca/siemens-slovensko/O4277115,2023-03-21
+544,SharePoint / Power Platform Developer,"Bratislava, Slovakia (Job with occasional home office)",IBM,2 000 EUR/mesiac,/praca/ibm/O4230693,2023-03-21
+545,Web/Mobile Developer for Smart Building Applications (Angular),"Lamačská cesta, 841 01 Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,2 300 - 4 000 EUR/mesiac,/praca/siemens-slovensko/O3943129,2023-03-21
+546,Java programátor senior - Home Office/Office Žilina,"Priemyselná 2, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4532189,2023-03-21
+547,Java programátor medior - Home Office/Office Žilina,"Priemyselná 2, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4532188,2023-03-21
+548,Automatizácia / Commissioning,"Nemecko, Rakúsko (Práca vyžaduje cestovanie)",FOPA WORLD s. r. o.,,/praca/fopa-world/O4532123,2023-03-21
+549,ABAP Developer (Medior/Senior),Remote work,IT-Impulse s. r. o.,,/praca/it-impulse/O4513546,2023-03-21
+550,Cloud Engineer,"Bratislava, Slovak Republic",CPL Jobs s.r.o.,,/praca/cpl-jobs/O4532000,2023-03-21
+551,Application Developer - Experience Front End,Košice,IBM,None,/praca/ibm/O4465560,2023-03-21
+552,Data Engineer (vývoj BI & DWH),Práca z domu,Pro HR,,/praca/pro-hr/O4531882,2023-03-21
+553,"ETL Engineer (SQL, Hadoop)","Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,,/praca/pro-hr/O4531881,2023-03-21
+554,Experienced .NET dev wanted! 100% remote possible,Bratislava,Telus Agriculture & Consumer Goods,,/praca/telus-agriculture-consumer-goods/O4531827,2023-03-21
+555,Chceš vidieť výsledok svojej práce? Pracuj ako Java Smart Industry developer (Medior -Senior),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","ANASOFT APR, spol. s r.o.",,/praca/anasoft-apr/O3845087,2023-03-21
+556,.Net developer (medior/senior),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","ANASOFT APR, spol. s r.o.",,/praca/anasoft-apr/O3025370,2023-03-21
+557,Experienced React developer needed. 100% remote ,Remote work,Telus Agriculture & Consumer Goods,,/praca/telus-agriculture-consumer-goods/O4199654,2023-03-21
+558,Baví ťa práca s SQL? Pridaj sa do nášho tímu.,"Mlynská dolina, Karlova Ves, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)","ANASOFT APR, spol. s r.o.",,/praca/anasoft-apr/O4482354,2023-03-21
+559,Senior Programátor C#/ASP.NET WebForms,Práca z domu,"GGFS, s.r.o.",,/praca/ggfs/O4111158,2023-03-21
+560,Senior Software Engineer (CRM systém),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","ESET, spol. s r.o.",2 500 EUR/mesiac,/praca/eset/O4032222,2023-03-21
+561,Senior backend developer/ka - C++,"Bottova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Seznam.cz Slovensko, s.r.o.",2 500 - 4 000 EUR/mesiac,/praca/seznam-cz-slovensko/O4531681,2023-03-21
+562,Azure Solution Architect,Bratislava,"Manuvia, a. s.",3 000 - 4 400 EUR/mesiac,/praca/manuvia/O4531660,2023-03-21
+563,Embedded C Junior Software Engineer for Michalovce,Michalovce,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",None,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4203266,2023-03-21
+564,Embedded C Junior Software Engineer for Košice,Košice,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4203260,2023-03-21
+565,Electronic Hardware Developer for Michalovce,Michalovce,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O3630812,2023-03-21
+566,Junior SW Developer (PublicHealth),"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4531604,2023-03-21
+567,Java Developer (publichealth),"Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4531597,2023-03-21
+568,Software Architect (all genders),"Bratislava, Slovakia (Job with occasional home office)",Erste Digital,,/praca/erste-digital/O4531247,2023-03-21
+569,C++ programátor/ka pre vyhľadávanie v Mapy.cz/Firmy.cz,"Bottova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Seznam.cz Slovensko, s.r.o.",,/praca/seznam-cz-slovensko/O4531552,2023-03-21
+570,Senior Database Programmer,040 11 Košice,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4531489,2023-03-21
+571,Srdcom programátor .NET (medior - senior),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","ANASOFT APR, spol. s r.o.",,/praca/anasoft-apr/O4120784,2023-03-21
+572,Java Developer for Automotive,Remote work,Fpt Slovakia s.r.o.,,/praca/fpt-slovakia/O4531458,2023-03-21
+573,Senior softvérový vývojár - Load and performance test  - Home Office / Office,Práca z domu,msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4531439,2023-03-21
+574,Experienced / Senior .NET Software Engineer,Košice,Infobip,,/praca/infobip/O4510320,2023-03-21
+575,Software Engineer .NET/C#/VB,"Pribinova, Bratislava, Slovakia (Job with occasional home office)","MetLife Europe d.a.c., pobočka poisťovne z iného členského štátu",,/praca/metlife-europe-d-a-c-pobocka-poistovne-z-ineho-clenskeho-statu/O4531410,2023-03-21
+576,Front-end Developer - junior,Bratislava,PwC,,/praca/pwc/O4531390,2023-03-21
+577,SQL Data Engineer – Product Team (100% remote),Remote work,S&you by SYNERGIE,,/praca/s-you-by-synergie/O4531381,2023-03-21
+578,SW Tool Developer with C++ for Driving Assistance System,"Sazečská 247/2, Strašnice, Czechia",Valeo,,/praca/valeo/O4531361,2023-03-21
+579,Senior IT Architekt,Práca z domu,TRIGON Consulting s.r.o.,,/praca/trigon-consulting/O4466093,2023-03-21
+580,Java developer - junior,"Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)",TRIGON Consulting s.r.o.,2 000 EUR/mesiac,/praca/trigon-consulting/O4442282,2023-03-21
+581,IT Analytik - medior/senior,"Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)",TRIGON Consulting s.r.o.,1 800 EUR/mesiac,/praca/trigon-consulting/O4402461,2023-03-21
+582,C/C++ Embedded Developer Automotive - Medior / Senior ,Práce z domu,CIT-Con SK s. r. o.,2 200 - 3 500 EUR/mesiac,/praca/cit-con-sk/O4232389,2023-03-21
+583, iOS Developer/Developerka,"Karadžičova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Billdu LTD,None,/praca/billdu-ltd/O4510179,2023-03-21
+584,Android Developer/Developerka ,"Karadžičova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Billdu LTD,,/praca/billdu-ltd/O4510287,2023-03-21
+585,DevOps specialista (50-70.000 Kč),"Praha, Česko","Advantage Consulting, s.r.o.",,/praca/advantage-consulting/O4531255,2023-03-21
+586,PLC programátor s praxí (45-80.000 kč),"Mladá Boleslav, Česko","Advantage Consulting, s.r.o.",,/praca/advantage-consulting/O4531258,2023-03-21
+587,C++ Developer (35-80.000 kč) - Praha,"Praha, Česko","Advantage Consulting, s.r.o.",,/praca/advantage-consulting/O4531260,2023-03-21
+588,Tester řídících jednotek s Pythonem,"Mladá Boleslav, Česko","Advantage Consulting, s.r.o.",,/praca/advantage-consulting/O4531262,2023-03-21
+589,Java Consultant (medior/senior),"Košice, Slovakia (Job with occasional home office)","The Capital Markets Company Slovakia, s. r. o.",,/praca/the-capital-markets-company-slovakia/O4512889,2023-03-21
+590,Android Developer (DOT product),"Lakeside Park 02, Tomášikova, Nové Mesto, Slovakia, Bratislava (Job with occasional home office)","Innovatrics, s.r.o.",,/praca/innovatrics/O4334885,2023-03-21
+591,Java programator,Práca z domu,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4531195,2023-03-21
+592,Software Developer for Automation SSC (JAVA),"Bratislava, Slovakia (Job with occasional home office)",Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4321331,2023-03-21
+593,SAP Analytics Consultant,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O4446266,2023-03-21
+594,"GDC IT Application/Service Manager for LIMS system - US Timezone (Glasgow, Delaware)","Košice, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4253566,2023-03-21
+595,"GDC IT Application/Service Manager for LIMS system - US Timezone (Glasgow, Delaware)","Žilina, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4253565,2023-03-21
+596,JAVA Developer,Remote work,DXC Technology,,/praca/dxc-technology/O4454484,2023-03-21
+597,Medior/Senior FE developer (poď s nami bojovať za slobodu slova!),Práca z domu,"FAT CHILLI, s.r.o.",,/praca/fat-chilli/O4530937,2023-03-21
+598,Medior/Senior BE developer (poď s nami bojovať za slobodu slova!),Práca z domu,"FAT CHILLI, s.r.o.",,/praca/fat-chilli/O4530934,2023-03-21
+599,Senior React Developer for brand new e-shop frontend,Remote work,GymBeam s.r.o.,,/praca/gymbeam/O4530906,2023-03-21
+600,Java developer/ka Medior/Senior,Bratislava,ZENTITY Slovakia s.r.o.,2 300 - 6 400 EUR/mesiac,/praca/zentity-slovakia/O3599068,2023-03-21
+601,O365/SharePoint developer,"Galvaniho 19, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","exe, a.s.",2 000 EUR/mesiac,/praca/exe/O4530820,2023-03-21
+602,Application Administrator,"Košice, Slovakia (Job with occasional home office)",Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4530751,2023-03-21
+603,Integration technology engineer/ka,Bratislava,"Slovenská sporiteľňa, a.s.",None,/praca/slovenska-sporitelna/O4530645,2023-03-21
+604,SAP Fiori programátor /remote/,Práca z domu,"gd - Team, a.s.",,/praca/gd-team/O4528530,2023-03-21
+605,Java Developer - remote,Práca z domu,"gd - Team, a.s.",,/praca/gd-team/O4528532,2023-03-21
+606,Senior Application Engineer,"Mlynské nivy 12, Bratislava, Slovakia (Job with occasional home office)",Swiss Re,,/praca/swiss-re/O4530525,2023-03-21
+607,.NET programátor desktopových aplikácií,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",KROS a.s.,,/praca/kros/O4510547,2023-03-21
+608,Senior PHP Developer,"Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)",SCR technologies s.r.o.,,/praca/scr-technologies/O4530495,2023-03-21
+609,Senior full-stack developer (.NET Framework/Core  + Angular),"Prievozská, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)","ForesServices, s. r. o.",,/praca/foresservices/O4502865,2023-03-21
+610,Support Developer,"Prievozská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","ForesServices, s. r. o.",,/praca/foresservices/O4502868,2023-03-21
+611,Java architekt na vývoj nového riešenia ,Bratislava,"Unlimit Recruitment, s.r.o.",,/praca/unlimit-recruitment/O4530420,2023-03-21
+612,Java architekt na vývoj nového riešenia ,Bratislava,"Unlimit Recruitment, s.r.o.",,/praca/unlimit-recruitment/O4530419,2023-03-21
+613,Vývoj špeciálnych strojov - Špecialista pre kamerové systémy,Kysucké Nové Mesto,SCHAEFFLER,,/praca/schaeffler/O4530364,2023-03-21
+614,SW Developer pre oblasť automotive (C / Matlab Simulink),Kysucké Nové Mesto,SCHAEFFLER,,/praca/schaeffler/O4530344,2023-03-21
+615,Senior JAVA backend developer,Prešov,"UNIQA Group Service Center Slovakia, spol. s r.o.",,/praca/uniqa-group-service-center-slovakia/O4473981,2023-03-21
+616,Senior Data Engineer / Java Developer “Data Integration and Big Data” ,Remote work,"UNIQA Group Service Center Slovakia, spol. s r.o.",,/praca/uniqa-group-service-center-slovakia/O4440174,2023-03-21
+617,Vývojár pre projektantský nástroj COMOS,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4464180,2023-03-21
+618,"Java Developer/Architect for ""Automatic Driving Trains""","Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Siemens Slovensko,,/praca/siemens-slovensko/O4464162,2023-03-21
+619,Mid/Senior Full Stack Developer,"Framborská, Žilina, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4017299,2023-03-21
+620,Senior Back-End Developer for Smart Buildings,"Lamačská cesta, 841 01 Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,1 900 EUR/mesiac,/praca/siemens-slovensko/O3969862,2023-03-21
+621,Senior Web Developer/Developerka,"Karadžičova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Billdu LTD,4 000 - 5 000 EUR/mesiac,/praca/billdu-ltd/O4502381,2023-03-21
+622,ABAP/FIORI Developer ,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",EY – Ernst & Young,,/praca/ey-ernst-young/O4356833,2023-03-21
+623,Software Engineer or Developer for Grid Control,Bratislava,Siemens Slovensko,None,/praca/siemens-slovensko/O4530078,2023-03-21
+624,V&V Infrastructure Developer (až 4.250 EUR/MĚS),"Moravskoslezský kraj, Česko",Valatron s.r.o.,,/praca/valatron/O4530069,2023-03-21
+625,Hľadáme programátora,"Robotnícka 2192, Považská Bystrica",ICT industrial construction technologies s. r. o.,,/praca/ict-industrial-construction-technologies/O4523950,2023-03-21
+626,PHP Developer / PHP SW Engineer (Innovative Fin-tech company with in-house development),"Pradiareň 1900, Svätoplukova, Ružinov, Slovakia, Bratislava (Job with occasional home office)",Multitude IT Labs (as part of Multitude Group),,/praca/multitude-it-labs-as-part-of-multitude-group/O4529940,2023-03-21
+627,C# / .NET Developer,"Jašíkova 2, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)","KERAMETAL, s.r.o.",,/praca/kerametal/O4518791,2023-03-21
+628,DevOps Specialist,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",,/praca/asseco-central-europe/O4529786,2023-03-21
+629,Back end developer senior,"Bottova 2a, Bratislava, Slovakia (Job with occasional home office)",Solargis s. r. o.,,/praca/solargis/O4139817,2023-03-21
+630,Front end developer - junior/medior,"Bottova 2a, Bratislava, Slovakia (Job with occasional home office)",Solargis s. r. o.,,/praca/solargis/O4502978,2023-03-21
+631,Solution Architect,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",ČSOB Finančná skupina,,/praca/csob-financna-skupina/O4529680,2023-03-21
+632,Java developer Junior pre ČSOB Bratislava,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",ČSOB Finančná skupina,,/praca/csob-financna-skupina/O4529672,2023-03-21
+633,Java developer pre ČSOB Bratislava,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",ČSOB Finančná skupina,,/praca/csob-financna-skupina/O4529671,2023-03-21
+634,IT Architect,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",ČSOB Finančná skupina,,/praca/csob-financna-skupina/O4529664,2023-03-21
+635,Cloud core banking analyst junior - 365.innohub (m/ž),Bratislava,365.bank,,/praca/365-bank/O4529654,2023-03-21
+636,Internship for Software Engineer,Bratislava,"Nokia Slovakia, a.s.",,/praca/nokia-slovakia/O1597521,2023-03-21
+637,Software Engineer: ASP .NET Core C# Developer,Remote work,SpecPage AG,,/praca/specpage-ag/O4529640,2023-03-21
+638,DevOps Engineer - 365.innohub (m/ž),Bratislava,365.bank,,/praca/365-bank/O4511106,2023-03-21
+639,Backend Developer - Node.js (SaaS FinTech),Práca z domu,"Vestberry, s.r.o.",,/praca/vestberry/O4528925,2023-03-21
+640,Developer ESM Tools,040 01 Košice,Deutsche Telekom IT Solutions Slovakia,3 100 EUR/mesiac,/praca/deutsche-telekom-it-solutions-slovakia/O4529543,2023-03-21
+641,IT Trainer / Developer,"Bratislava, Slovak Republic",CPL Jobs s.r.o.,None,/praca/cpl-jobs/O4529503,2023-03-21
+642,JAVA Developer  (m/f),"Bajkalská 28, Ružinov, Slovakia, Bratislava (Job with occasional home office)","Slovak Telekom, a.s.",2 500 - 4 000 EUR/mesiac,/praca/slovak-telekom/O4529497,2023-03-21
+643,Senior Software Engineer for Patient Examination and CT Scanner Tuning (C#/C++),"Košice region, Slovak Republic (Job with occasional home office)",Siemens Slovensko,None,/praca/siemens-slovensko/O4529404,2023-03-21
+644,Service Now Lead Developer Architect - HRSD (Slovakia),"Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4494696,2023-03-21
+645,Embedded C Software Developer ,"Brose Prievidza, spol. s r.o., Prievidza, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Brose Prievidza, spol. s r.o.",,/praca/brose-prievidza/O4384752,2023-03-21
+646,SAP ABAP/Fiori/UI5 Developer,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O4028755,2023-03-21
+647,Programátor PLC,"Česko, Nemecko, Bratislavský kraj, Česká republika (Práca vyžaduje cestovanie)",InPro electric s.r.o.,,/praca/inpro-electric/O220179,2023-03-21
+648,IT Programátor Developer .NET SQL c#,Bratislava,"Data System Soft, spol. s r.o.",,/praca/data-system-soft/O4529283,2023-03-21
+649,Developer Java/Angular (full-time),"Einsteinova 33, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,,/praca/softec/O4529278,2023-03-21
+650,Account & Business development manager – Banking & Telco & Insurance,"Einsteinova 33, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,,/praca/softec/O4529277,2023-03-21
+651,C++ Developer,"Vajnorská 158, Bratislava",MicroStep - HDO s.r.o.,,/praca/microstep-hdo/O1213210,2023-03-21
+652,Skúsený .NET developer,"Einsteinova 33, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,,/praca/softec/O4529272,2023-03-21
+653,AI špecialista / programátor,Dubnica nad Váhom,"ZTS - VÝSKUM A VÝVOJ, a.s.",,/praca/zts-vyskum-a-vyvoj/O4529012,2023-03-21
+654,Systémový inženýr pro NFC Ostrava,"Ostrava-město, Česko","Advantage Consulting, s.r.o.",,/praca/advantage-consulting/O4529182,2023-03-21
+655,Embedded vývojář Ostrava,"Ostrava-město, Česko","Advantage Consulting, s.r.o.",,/praca/advantage-consulting/O4529003,2023-03-21
+656,PHP/React developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","ESET, spol. s r.o.",,/praca/eset/O4528987,2023-03-21
+657,Golang Developer for Open Sovereign Cloud,"Košice, Slovakia (Job with occasional home office)",Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4528956,2023-03-21
+658,"Application Developer - € 1,000 Sign-on Bonus","Košice, Slovakia (Job with occasional home office)",Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4528933,2023-03-21
+659,Lead Angular Developer,Bratislava,QORPO s. r. o.,,/praca/qorpo/O4528767,2023-03-21
+660,Java developer,"KM Technology, spol. s r.o., Moyzesova, Pezinok, Slovensko (Pozícia umožňuje občasnú prácu z domu)","KM Technology, spol. s r. o.",1 700 EUR/mesiac,/praca/km-technology/O2912805,2023-03-21
+661,Cloud Migration Engineer - Oracle,"Košice, Slovakia (Job with occasional home office)",Deutsche Telekom IT Solutions Slovakia,2 600 EUR/mesiac,/praca/deutsche-telekom-it-solutions-slovakia/O4528711,2023-03-21
+662,Fullstack developer,Bratislava,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4528672,2023-03-21
+663,Android Developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",ČSOB Finančná skupina,None,/praca/csob-financna-skupina/O4528667,2023-03-21
+664,Senior fullstack developer,Bratislava,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4528608,2023-03-21
+665,Senior IT architekt,Bratislava,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4528555,2023-03-21
+666,Aplikačný špecialista,Bratislava,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4528545,2023-03-21
+667,Práca aplikačného špecialistu v Prešove,Prešov,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4528537,2023-03-21
+668,Senior software engineer C#.NET,"Nivy Tower, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)","HighChem s.r.o., součást Thermo Fisher Scientific",,/praca/highchem-soucast-thermo-fisher-scientific/O4449793,2023-03-21
+669,Laravel PHP Developer,Práca z domu,Rather Cash s. r. o.,,/praca/rather-cash/O4528512,2023-03-21
+670,Aplikačný špecialista prevádzkových aplikácií v Bratislave,Bratislava,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4528508,2023-03-21
+671,.NET Backend developer,"Galvaniho, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Solutions, a.s.",,/praca/asseco-solutions/O4528477,2023-03-21
+672,SAP Junior Developer,"Bratislava, Slovakia (Job with occasional home office)","SNP Slovakia, s. r. o.",,/praca/snp-slovakia/O2599739,2023-03-21
+673,.net programátor - full remote,"Košice I, Košice",Grafton Slovakia s.r.o.,,/praca/grafton-slovakia/O4528431,2023-03-21
+674,PHP programátor - full remote,Košice,Grafton Slovakia s.r.o.,,/praca/grafton-slovakia/O4528424,2023-03-21
+675,Junior Programmer,Bratislava,"AUTO GAMES Slovakia, s.r.o.",,/praca/auto-games-slovakia/O4528419,2023-03-21
+676,Senior C# .NET Developer,"Dunajská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",IT lions consulting a.s.,,/praca/it-lions-consulting/O4528287,2023-03-21
+677,"Senior Application Developer (Full Stack) - € 5,000 Sign-on Bonus",Remote work,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4528360,2023-03-21
+678,Senior Java Developer,040 11 Košice,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4528359,2023-03-21
+679,"Senior Application Developer - € 5,000 Sign-on Bonus","Košice, Slovakia (Job with occasional home office)",Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4528358,2023-03-21
+680,Senior Front-End Engineer,040 11 Košice,Deutsche Telekom IT Solutions Slovakia,2 700 EUR/mesiac,/praca/deutsche-telekom-it-solutions-slovakia/O4528357,2023-03-21
+681,SAP WM Key User - Špecialista logistiky/skladu - nástupný bonus 500 €!,"Nové Mesto nad Váhom, Slovensko (Pozícia umožňuje občasnú prácu z domu)","MAGNA SLOVTECA, s.r.o.",2 200 EUR/mesiac,/praca/magna-slovteca/O4301479,2023-03-21
+682,.NET programátor s nemčinou,Práca z domu,EuroView s.r.o.,,/praca/euroview/O4528354,2023-03-21
+683,PL/SQL Developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",EuroView s.r.o.,None,/praca/euroview/O4467849,2023-03-21
+684,HW/SW Developer (Vývoj a výroba elektronických testovacích zariadení),"Bytča, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4511305,2023-03-21
+685,Software Validator,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4118048,2023-03-21
+686,Senior Embedded Linux Software Developer,"Lamačská cesta, 841 01 Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4143639,2023-03-21
+687,Senior Front-End Developer for Smart Buildings,"Lamačská cesta, 841 01 Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4143636,2023-03-21
+688,Dynamics 365 Developer for unique projects ,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O4049335,2023-03-21
+689,Microsoft Azure Data Engineer,"Bratislavský kraj, Banskobystrický kraj, Košický kraj (Práca vyžaduje cestovanie)",IBM,,/praca/ibm/O4053969,2023-03-21
+690,Azure Developer to Microsoft team,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O3328302,2023-03-21
+691,PHP web developer v ASData.sk,"Tvorba web stránok, e-shopov - ASData group, s.r.o., Štúrova, Nitra, Slovensko (Pozícia umožňuje občasnú prácu z domu)","ASData group, s.r.o.",,/praca/asdata-group/O3526357,2023-03-21
+692,IOS Developer ,"Jurkovičova Tepláreň, Bottova, Old Town, Slovakia, Bratislava (Job with occasional home office)",Sportradar,,/praca/sportradar/O4528221,2023-03-21
+693,Junior Angular Developer,"Einsteinova 33, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,,/praca/softec/O4528213,2023-03-21
+694,PL SQL Developer,"Einsteinova 33, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,,/praca/softec/O4528207,2023-03-21
+695,Test Developer,"Bratislava, Slovak Republic","Kistler Bratislava, s.r.o.",,/praca/kistler-bratislava/O4528178,2023-03-21
+696,Development lead for Python,"Bratislava, Slovak Republic (Job with occasional home office)","Zurich Insurance Company Ltd, organizačná zložka",,/praca/zurich-insurance-company-ltd-organizacna-zlozka/O4528171,2023-03-21
+697,.Net Software Engineer (possibility of remote work up to 80%),Remote work,"Zurich Insurance Company Ltd, organizačná zložka",,/praca/zurich-insurance-company-ltd-organizacna-zlozka/O4528168,2023-03-21
+698,SW engineer C/C++ Ostrava,"Ostrava-město, Česko","Advantage Consulting, s.r.o.",,/praca/advantage-consulting/O4528146,2023-03-21
+699,FrontEnd Developer (React) - Letectvo (Greenfield project),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Indra Avitech s.r.o.,,/praca/indra-avitech/O4403246,2023-03-21
+700,Trainee Frontend Developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,6 EUR/hod.,/praca/softec/O4528138,2023-03-21
+701,AI/ML špecialista,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,2 000 EUR/mesiac,/praca/softec/O4528127,2023-03-21
+702,Skúsený JAVA/Scala developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,,/praca/softec/O4528124,2023-03-21
+703,MS SQL/DWH DEVELOPER,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,None,/praca/softec/O4528117,2023-03-21
+704,Web Apps Developer,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",KROS a.s.,,/praca/kros/O4086308,2023-03-21
+705,C# / .NET Developer pre digitálne platby (Junior/Senior),"Panenská 13, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Ultima Payments a.s.,,/praca/ultima-payments/O4486377,2023-03-21
+706,IT Lektor/školiteľ IT kurzov aj online ,Práca z domu,Macrosoft s.r.o.,,/praca/macrosoft/O4527976,2023-03-21
+707,.Net / C# Developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",UNIQA,,/praca/uniqa/O4527964,2023-03-21
+708,Tester/ka do automotive s Pythonem,"Mladá Boleslav, Česko (Pozice umožňuje občasnou práci z domu)","Advantage Consulting, s.r.o.",,/praca/advantage-consulting/O4527917,2023-03-21
+709,Java developer - Bratislava / Banská Bystrica / remote,Práca z domu,SCR technologies s.r.o.,,/praca/scr-technologies/O4527922,2023-03-21
+710,Špecialista testovacích zariadení ,Trenčín,HELLA,,/praca/hella/O4459442,2023-03-21
+711,Support DevOps špecialista,Práca z domu,STENGL a.s.,,/praca/stengl/O4527756,2023-03-21
+712,PL/SQL vývojár,Práca z domu,STENGL a.s.,,/praca/stengl/O4527746,2023-03-21
+713,Programator v C++,"Slovenskej Jednoty 10, Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)","EKOSOFT, spol. s r.o.",,/praca/ekosoft/O4330128,2023-03-21
+714,Experienced / Senior Python Software Engineer,Remote work,Infobip,,/praca/infobip/O4508795,2023-03-21
+715,Frontend Developer,"Drobného, Dúbravka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)","C.G.C., a.s.",,/praca/c-g-c/O4289964,2023-03-21
+716,Senior Data Scientist with MLOPS experience,"Košice, Slovak Republic","ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4527667,2023-03-21
+717,Java Developer pre identity a access manažment - komix Slovakia,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",KOMIX SK s.r.o.,,/praca/komix-sk/O4527664,2023-03-21
+718,SAP konzultant,Nové Mesto nad Váhom,ALEX PETERSON s.r.o.,,/praca/alex-peterson/O4527648,2023-03-21
+719,Inžinier Riadiacich Systémov,"Považská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Danfoss Power Solutions a.s.,,/praca/danfoss-power-solutions/O4527617,2023-03-21
+720,IOS Developer - práca s najnovšími technológiami,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",TRIGON Consulting s.r.o.,3 200 EUR/mesiac,/praca/trigon-consulting/O4464862,2023-03-21
+721,DevOps Engineer,Práca z domu,"ADECCO Slovakia, s. r. o.",2 200 EUR/mesiac,/praca/adecco-slovakia/O4527592,2023-03-21
+722,Front-End Application Developer + 1000 eur brutto Sign on Bonus (REF280Q),"Košice, Slovakia (Job with occasional home office)",Deutsche Telekom IT Solutions Slovakia,2 000 EUR/mesiac,/praca/deutsche-telekom-it-solutions-slovakia/O4527584,2023-03-21
+723,Backend Developer C# / .NET,Remote work,Arcondis Solutions s.r.o.,None,/praca/arcondis-solutions/O4527576,2023-03-21
+724,Senior Database Programmer,"Košice, Slovakia (Job with occasional home office)",Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4527575,2023-03-21
+725,Software developer - programátor ,"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Telegrafia, a.s.",,/praca/telegrafia/O1856918,2023-03-21
+726,Java Software Engineer for George (all gendes),"Bratislava, Slovakia (Job with occasional home office)",Erste Digital,,/praca/erste-digital/O4527441,2023-03-21
+727,Senior JAVA Developer s nemčinou,"Viedeň-okolie, Rakúsko (Pozícia umožňuje občasnú prácu z domu)",STENGL a.s.,,/praca/stengl/O4527514,2023-03-21
+728,Software Coordinator,"Brose Prievidza, spol. s r.o., Prievidza, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Brose Prievidza, spol. s r.o.",,/praca/brose-prievidza/O4527510,2023-03-21
+729,"QA Mid Developer (PowerShell, C/C++, .Net) ","Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Descartes Systems (Slovakia) s.r.o.,,/praca/descartes-systems-slovakia/O4276060,2023-03-21
+730,Python developer (m/ž),"Bajkalská 28, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)","Slovak Telekom, a.s.",,/praca/slovak-telekom/O4527379,2023-03-21
+731,Stáž na oddelení inžinieringu pre VŠ študentov (m/ž/i),Senica,VAILLANT GROUP Heat Pump Production s.r.o.,,/praca/vaillant-group-heat-pump-production/O4489273,2023-03-21
+732,Senior Backend Developer (PHP),"Binarium, Staré Grunty, Karlova Ves, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",Simplaq s.r.o,,/praca/simplaq/O4527363,2023-03-21
+733,Software-developer/PLC programátor,"MANZ Slovakia, s.r.o., Rybárska, Nové Mesto nad Váhom",Manz Slovakia s.r.o.,,/praca/manz-slovakia/O4241861,2023-03-21
+734,Embedded C Senior Software Engineer for Michalovce,Michalovce,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4203306,2023-03-21
+735,Embedded C Senior Software Engineer for Košice,Košice,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4203290,2023-03-21
+736,"Softvérový vývojar pre oblasť rádiových systémov (Python, C++)",Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4378606,2023-03-21
+737,PHP/Angular developer (eCommerce project),Košice,Siemens Slovensko,,/praca/siemens-slovensko/O4382460,2023-03-21
+738,Experienced .NET/C# Developer,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O4062182,2023-03-21
+739,PHP Developer,"Bratislava, Slovakia (Job with occasional home office)",MOB Interier s.r.o.,,/praca/mob-interier/O4498819,2023-03-21
+740,Senior PHP Developer,"Bratislava, Slovakia (Job with occasional home office)",MOB Interier s.r.o.,3 000 - 4 000 EUR/mesiac,/praca/mob-interier/O4498824,2023-03-21
+741,Fullstack programátor,Bratislava,IMG SERVICES s.r.o.,2 000 - 3 000 EUR/mesiac,/praca/img-services/O4527329,2023-03-21
+742,Poď s nami robiť frontend našej novej videoplatformy,"Bottova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Seznam.cz Slovensko, s.r.o.",3 000 - 4 000 EUR/mesiac,/praca/seznam-cz-slovensko/O4527165,2023-03-21
+743,Poď s nami robiť backend našej novej videoplatformy,"Bottova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Seznam.cz Slovensko, s.r.o.",None,/praca/seznam-cz-slovensko/O4527164,2023-03-21
+744,Java Developer pre Digital IT (m/ž),"Bajkalská 28, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)","Slovak Telekom, a.s.",,/praca/slovak-telekom/O4527145,2023-03-21
+745,Java Developer,Košice,DC MEDICAL s.r.o.,,/praca/dc-medical/O4527110,2023-03-21
+746,Java Developer,"City Business Center V., Karadžičova, Bratislava",DC MEDICAL s.r.o.,,/praca/dc-medical/O4477497,2023-03-21
+747,MS SQL + MS Visual Basic developer,"Svätého Vincenta 2, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","SEN Systems, spol. s r.o.",,/praca/sen-systems/O4527083,2023-03-21
+748,.NET Core/C# Developer,"Svätého Vincenta 2, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","SEN Systems, spol. s r.o.",,/praca/sen-systems/O4527082,2023-03-21
+749,(Medior) Java developer - Bankovnictví - Praha - HPP/IČO,"Praha, Česká republika",ManpowerGroup s.r.o.,,/praca/manpowergroup/O4527014,2023-03-21
+750,PHP Junior,Práca z domu,TSS Group a. s.,None,/praca/tss-group/O4132056,2023-03-21
+751,Senior .NET Developer,"Bratislava, Slovak Republic","Kistler Bratislava, s.r.o.",,/praca/kistler-bratislava/O4526963,2023-03-21
+752,"COMOS L1, L2 support na kontrakt, 235 až 260€/MD","Levice, Slovensko (Pozícia umožňuje občasnú prácu z domu)","TITANS freelancers, s.r.o.",,/praca/titans-freelancers/O4526921,2023-03-21
+753,Senior PLC programátor - Automatizačný inžinier (bez cestovania !!),"Priemyselná, Trnava",Lugera & Maklér spol.s r.o.,,/praca/lugera-makler/O4526886,2023-03-21
+754,Team Lead JAVA,Práca z domu,STENGL a.s.,,/praca/stengl/O4526866,2023-03-21
+755,Špecialista pre vývoj FW,"Budovateľská 50, Prešov","Applied Meters, a. s.",,/praca/applied-meters/O4526860,2023-03-21
+756,Full stack developer for Patient Engagement application,"Bratislava Region, Slovakia, Bratislava region (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4526792,2023-03-21
+757, .NET Developer for Healthcare,Remote work,Arcondis Solutions s.r.o.,,/praca/arcondis-solutions/O4526790,2023-03-21
+758,Java Developer,Remote work,Arcondis Solutions s.r.o.,,/praca/arcondis-solutions/O4526788,2023-03-21
+759,Analyzér v laboratóriu / elektrotechnické komponenty,Košice,"GoodWill Recruitment, s.r.o.",,/praca/goodwill-recruitment/O4279394,2023-03-21
+760,"Drupal, PHP Developer - Medior/Senior","Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Slovensko IT, a. s.",1 800 EUR/mesiac,/praca/slovensko-it/O4324011,2023-03-21
+761,Data analytik - štatistik,"Ďatelinová 6, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","2muse, s.r.o.",1 000 EUR/mesiac,/praca/2muse/O1273666,2023-03-21
+762,Full-stack developer,"Slávičie údolie, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",BRACKETS by TRIAD s.r.o.,,/praca/brackets-by-triad/O4526747,2023-03-21
+763,C#  Programátor,Považská Bystrica,SEOYON E-HWA AUTOMOTIVE SLOVAKIA s.r.o.,None,/praca/seoyon-e-hwa-automotive-slovakia/O3668702,2023-03-21
+764,C++/Qt Widgets developer,"Na Pažiti, Svätý Jur, Slovakia (Job with occasional home office)","OZZYLOGIK, s.r.o.",,/praca/ozzylogik/O4526727,2023-03-21
+765,Junior Integration Engineer,"Kopčianska, Petržalka, Slovakia, Bratislava (Job with occasional home office)","cargo-partner SR, s.r.o.",,/praca/cargo-partner-sr/O4230266,2023-03-21
+766,C++\Qt QML developer,"Na Pažiti, Svätý Jur, Slovakia (Job with occasional home office)","OZZYLOGIK, s.r.o.",,/praca/ozzylogik/O4526713,2023-03-21
+767,Python developer,"Na Pažiti, Svätý Jur, Slovakia (Job with occasional home office)","OZZYLOGIK, s.r.o.",,/praca/ozzylogik/O4526651,2023-03-21
+768,"Golang Kubernetes Platform Engineer (100% remote, all seniorities)",Remote work,Berops s.r.o.,,/praca/berops/O4115088,2023-03-21
+769,Medior Frontend Developer webstránok a webových aplikácií,Práca z domu,JM Consulting s. r. o.,,/praca/jm-consulting/O4526594,2023-03-21
+770,FullStack Developer (node.js+React),"Bratislava, Slovakia (Job with occasional home office)",Pro HR,,/praca/pro-hr/O4250374,2023-03-21
+771,Python Developer (senior),Remote work,Pro HR,,/praca/pro-hr/O4328259,2023-03-21
+772,Angular Developer (Mid/Senior Level),"Žilina, Slovakia (Job with occasional home office)",Pro HR,,/praca/pro-hr/O4064226,2023-03-21
+773,AWS Kubernetes Engineer,Práca z domu,Pro HR,,/praca/pro-hr/O3883195,2023-03-21
+774,DevOps Engineer,Remote work,Pro HR,,/praca/pro-hr/O3452784,2023-03-21
+775,C/C++ Developer in Public Transport,Remote work,FREQUENTIS Solutions & Services s. r. o.,,/praca/frequentis-solutions-services/O4035509,2023-03-21
+776,Aktuár/Poistný matematik - IT vývoj - Home Office/Office,Práca z domu,msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4171025,2023-03-21
+777,Robot Operator,Nitra,Jaguar Land Rover,,/praca/jaguar-land-rover/O3470658,2023-03-21
+778,Junior Software Engineer for Patient Examination in Computed Tomography (CT),"Košice region, Slovak Republic (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4526261,2023-03-21
+779,Integration Developer,Remote work,"UNIQA Group Service Center Slovakia, spol. s r.o.",,/praca/uniqa-group-service-center-slovakia/O4506540,2023-03-21
+780,Software Developer - Java,"Košice, Slovakia (Job with occasional home office)",Scheidt & Bachmann Slovensko s.r.o.,2 900 EUR/mesiac,/praca/scheidt-bachmann-slovensko/O4509310,2023-03-21
+781,SW System Architect (focus on field devices),"Košice, Slovakia (Job with occasional home office)",Scheidt & Bachmann Slovensko s.r.o.,3 600 EUR/mesiac,/praca/scheidt-bachmann-slovensko/O4509308,2023-03-21
+782,Data Scientist,040 11 Košice,Deutsche Telekom IT Solutions Slovakia,2 000 EUR/mesiac,/praca/deutsche-telekom-it-solutions-slovakia/O4509103,2023-03-21
+783,C# Senior Software Developer for Point of Care Diagnostics,"Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,None,/praca/siemens-slovensko/O4357660,2023-03-21
+784,Test automation engineer for Embedded C/C++ Software,"Lamačská cesta, 841 01 Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4216056,2023-03-21
+785,.NET/C# Programátor,"Poštová, Žilina-Vlčince, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Descartes Systems (Slovakia) s.r.o.,,/praca/descartes-systems-slovakia/O4526228,2023-03-21
+786,Mid/senior java Developer,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Itera Slovakia - organizačná zložka,,/praca/itera-slovakia-organizacna-zlozka/O4495592,2023-03-21
+787,Programátor/programátorka Senior pre oblasť Integrácií,"Mlynské nivy, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Všeobecná úverová banka, a.s., Intesa Sanpaolo",,/praca/vseobecna-uverova-banka-intesa-sanpaolo/O4526002,2023-03-21
+788,Data Scientist with MLOps or DevOps experience ,"Tomášikova 64, Bratislava, Slovakia (Job with occasional home office)","Innovatrics, s.r.o.",,/praca/innovatrics/O4525976,2023-03-21
+789,Mid/Senior Frontend Developer (VUE),"Binarium, Staré Grunty, Karlova Ves, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)",Simplaq s.r.o,,/praca/simplaq/O4493276,2023-03-21
+790,PL/SQL programátor,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,,/praca/pro-hr/O4525855,2023-03-21
+791,C/C++ Developer,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Pro HR,,/praca/pro-hr/O4525849,2023-03-21
+792,IoT DevOps Engineer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Orange Slovensko, a.s.",,/praca/orange-slovensko/O4525831,2023-03-21
+793,Electronic Hardware Developer for Košice,Košice,"BSH Drives and Pumps s.r.o., člen skupiny BOSCH",,/praca/bsh-drives-and-pumps-clen-skupiny-bosch/O4525786,2023-03-21
+794,Cloud Native Java Developer,Práca z domu,Unicorn,,/praca/unicorn/O4525151,2023-03-21
+795,Automatizovaný tester/vývojár testov,Práca z domu,Pro HR,,/praca/pro-hr/O4525779,2023-03-21
+796,Senior Data Engineer | Greenfield projekt v oblasti predaja áut | Azure & Databricks,"Obchodná 2, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","CN Group CZ a.s., organizačná zložka SK",,/praca/cn-group-cz-organizacna-zlozka-sk/O4525710,2023-03-21
+797,MS Dynamics CRM Developer (medior and senior),Bratislava,"Unlimit Recruitment, s.r.o.",,/praca/unlimit-recruitment/O4525701,2023-03-21
+798,Software Developer - Java,"Bratislava, Slovakia (Job with occasional home office)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4508774,2023-03-21
+799,Senior projektový manažér pre riadenie SW dodávok,"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Scheidt & Bachmann Slovensko s.r.o.,,/praca/scheidt-bachmann-slovensko/O4508761,2023-03-21
+800,Senior C++ Developer ETCS OBU ,Žilina,Siemens Slovensko,2 600 EUR/mesiac,/praca/siemens-slovensko/O4291041,2023-03-21
+801,Salesforce Consultant,"Bratislava, Slovakia (Job with occasional home office)",IBM,1 900 - 2 400 EUR/mesiac,/praca/ibm/O4214979,2023-03-21
+802,Salesforce Developer,"Bratislava, Slovakia (Job with occasional home office)",IBM,,/praca/ibm/O4214975,2023-03-21
+803,Java developer for Smart Buildings,"Lamačská cesta, 841 01 Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,None,/praca/siemens-slovensko/O4105148,2023-03-21
+804,Senior Java developer for Smart Buildings,"Lamačská cesta, 841 01 Bratislava, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O4105143,2023-03-21
+805,Senior Back-End Developer for Smart Buildings,"Žilina, Slovakia (Job with occasional home office)",Siemens Slovensko,,/praca/siemens-slovensko/O3938453,2023-03-21
+806,Developer .NET,Práca z domu,Sofisol s.r.o.,,/praca/sofisol/O4525574,2023-03-21
+807,"Web Developer (HTML, React, VUE.js, C#)",Trnava,EMIS s.r.o.,,/praca/emis/O4525550,2023-03-21
+808,GIS Expert - programátor,Trnava,EMIS s.r.o.,,/praca/emis/O4379085,2023-03-21
+809,IT & Business Analyst (Data Streaming),"Námestie Mateja Korvína, Bratislava, Slovakia (Job with occasional home office)",RPC,,/praca/rpc/O4525541,2023-03-21
+810,C++ Developer (senior),"Námestie Mateja Korvína, Bratislava, Slovakia (Job with occasional home office)",RPC,,/praca/rpc/O4525534,2023-03-21
+811,Marketing automation specialist / CX consultant,"Apollo Business Centre, Prievozská, Ružinov",Dataconcept s.r.o.,,/praca/dataconcept/O4525436,2023-03-21
+812,ICT architekt - API,Remote work,"ADECCO Slovakia, s. r. o.",,/praca/adecco-slovakia/O4525432,2023-03-21
+813,Java Development Team Leader,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",eqit s. r. o.,,/praca/eqit/O4525213,2023-03-21
+814,Test Automation Developer - Bratislava,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Orange Slovensko, a.s.",,/praca/orange-slovensko/O4525340,2023-03-21
+815,Frontend Developer (remote/onsite/hybrid),"Aston ITM, spol. s r.o., Račianska, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Aston ITM, s.r.o.",,/praca/aston-itm/O4503292,2023-03-21
+816,Programátor Junior,Bratislava,"AUTO GAMES Slovakia, s.r.o.",,/praca/auto-games-slovakia/O4525269,2023-03-21
+817,IT copywriter pre oblasť JAVA programovanie,Práca z domu,msg life Slovakia s.r.o.,,/praca/msg-life-slovakia/O4525273,2023-03-21
+818,SharePoint/ PowerPlatform Konzultant,"Plynárenská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Millennium, spol. s r. o.",,/praca/millennium/O3577442,2023-03-21
+819,Hľadá sa java developer ,Práca z domu,"PROSOFT, spol. s r.o.",,/praca/prosoft/O4387454,2023-03-21
+820,C++/C# Programátor Junior,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","Asseco Central Europe, a. s.",1 500 EUR/mesiac,/praca/asseco-central-europe/O4525165,2023-03-21
+821,Java Developer,"Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)",SOFTEC,1 800 EUR/mesiac,/praca/softec/O4525136,2023-03-21
+822,Software Engineer – Java/Java EE,"Polianky, Dúbravka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)","Ardaco, a.s.",,/praca/ardaco/O4525126,2023-03-21
+823,Senior Front-end Developer,"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",Greyson,None,/praca/greyson/O4525087,2023-03-21
+824,Programátor IS KARAT,"KARAT Software, Dvořákova 2881, 750 02 Přerov, Česko",KARAT Software a.s.,,/praca/karat-software/O4153357,2023-03-21
+825,Java based QA Automation Engineer,Remote work,Deutsche Telekom IT Solutions Slovakia,,/praca/deutsche-telekom-it-solutions-slovakia/O4448588,2023-03-21
+826,Medior C++ Developer ETCS OBU ,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4289911,2023-03-21
+827,Senior C++ Developer ETCS OBU (Remote),Práca z domu,Siemens Slovensko,,/praca/siemens-slovensko/O4268042,2023-03-21
+828,ServiceNow Architect / Lead Developer,Košice,Siemens Slovensko,,/praca/siemens-slovensko/O4176769,2023-03-21
+829,ServiceNow Architect / Lead Developer,Žilina,Siemens Slovensko,,/praca/siemens-slovensko/O4176767,2023-03-21
+830,IT Application Developer PL/SQL + Phyton,"Bratislava, Slovakia (Job with occasional home office)","SIA Central Europe, a.s.",,/praca/sia-central-europe/O4524826,2023-03-21
+831,IT Shopfloor Specialist,Záborské,HEADSCOUT s.r.o.,,/praca/headscout/O4524825,2023-03-21
+832,SAP ABAP Developer,"Landererova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",CGI Slovakia s. r. o.,,/praca/cgi-slovakia/O3841845,2023-03-21
+833,Java Developer (Senior),"Landererova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",CGI Slovakia s. r. o.,,/praca/cgi-slovakia/O3949204,2023-03-21
+834,Java Developer (medior),"Landererova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)",CGI Slovakia s. r. o.,,/praca/cgi-slovakia/O4258966,2023-03-21
+835,Java Backend Developer,Remote work,"Foundation, s.r.o.",,/praca/foundation/O4524792,2023-03-21
+836,Data engineer (100% HO),Remote work,Offer experts s. r. o.,,/praca/offer-experts/O4524750,2023-03-21
+837,CX developer - Dôvera dizajn systém (BA),"Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)","DÔVERA zdravotná poisťovňa, a. s.",,/praca/dovera-zdravotna-poistovna/O4489750,2023-03-21
+838,CX developer - Dôvera dizajn systém (KE),"Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)","DÔVERA zdravotná poisťovňa, a. s.",,/praca/dovera-zdravotna-poistovna/O4489748,2023-03-21
+839,Support engineer / Pracovník podpory ,"Čavojského 1, Karlova Ves","MicroStep-MIS, spol. s r.o.",,/praca/microstep-mis/O4105772,2023-03-21

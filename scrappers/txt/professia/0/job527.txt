@@ -1,0 +1,48 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceDevOps Engineer - TPP/živnosť & remote 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Pracovné ponuky
+Pre uchádzačov
+O nás
+SK
+EN
+DevOps Engineer - TPP/živnosť & remote
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 200 - 4 000 EUR/mesiac
+ Reagovať
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ Všetky ponuky
+Náplň práceNová príležitosť pre skúseného DevOps inžiniera v spoločnosti poskytujúcej SW riešenia pre poisťovne! Pokiaľ máte skúsenosti v oblasti automatizácie a láka Vás zavádzanie nových DevOps procesov a budovanie CI/CD, táto pozícia by pre Vás mohla byť zaujímavá! 
+Náplň práce: 
+- zabezpečovať operations ako aj ďalší vývoj centrálnej build infraštruktúry na báze Linux/Unix
+- práca na automatizácii ako aj na zlepšení implementácie a dodávania softvérového riešenia zákazníkom
+- vývoj a implementácia CI/CD pipelines 
+- tvorba návrhov procesov, ich monitorovanie a ďalší vývoj v oblasti automatizácie, testovania a deploymentu 
+- úzka spolupráca s vývojovým tímom 
+Techstack: Linux/Unix, Git, Docker, Kubernetes, Jenkins (CI/CD) Požadujeme- predchádzajúce pracovné skúsenosti na obdobnej pozícii, ideálne v spoločnosti poskytujúcej služby v oblasti vývoja SW riešení  pre svojich zákazníkov
+- skúsenosť s vývojom a zavádzaní CI/CD 
+- znalosť DevOps technológií
+- komunikatívna úroveň anglického alebo nemeckého jazyka Benefity- Možnosť práce z domu 
+- Vianočné bonusy 
+- Performance bonus
+- Dovolenka navyše 
+- Multisport 
+- Školenia a certifikácie InformácieZašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku. Viac podobných pozícií nájdete na https://www.grafton.sk/sk/job-search
+ Reagovať
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ Všetky ponuky
+ID: 4515065 
+     Dátum zverejnenia:  6.2.2023 
+    2023-02-06
+lokalita: Bratislava   Pozícia: DevOps Engineer, Programátor, Systémový administrátor, Systémový inžinier   Spoločnosť: Grafton Slovakia s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 200 EUR/mesiac
+                Všetky ponuky

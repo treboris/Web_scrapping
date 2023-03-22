@@ -1,0 +1,29 @@
+ÁLLÁSHIRDETÉS FELADÁS
+FULL STACK FEJLESZTŐ (ANGULAR/NODE.JS) 
+Feladatok: 
+		Robotikai alkalmazások grafikus felhasználói felületének fejlesztése a robotika területén, 
+		A vizuális tervezési szakaszokban való munka a koncepciótól a tervezésig, 
+		Szoftveralkalmazások rendszerarchitektúrájának meghatározása, 
+		Tesztelési esetek kidolgozása és végrehajtása, hibaelhárítás, 
+		Az alkalmazott fejlesztési módszerek és folyamatok követése (verziókezelés és dokumentáció).
+ Elvárások:
+		Főiskolai vagy egyetemi mérnöki vagy informatikai végzettség, 
+5-8 éves szakmai tapasztalat szoftverfejlesztőként, 
+Legalább 1 év tapasztalat Angular fejlesztésben, 
+		Verzióvezérlő szoftverek (Git), fejlesztési folyamatok ismerete, 
+		Min. alapszintű angol nyelvtudás szóban és írásban egyaránt, 
+		MS Office felhasználói szintű ismerete.
+ Előnyök: 
+		Webalkalmazások back-endjének fejlesztésében való jártasság (Node.js, Javascript, REST API, MongoDB), 
+		Tervezési és UX eszközökben szerzett tapasztalat.
+ Amit megbízónk kínál: 
+		Pozícióhoz illeszkedő bejelentett alapbér, 
+		Céges laptop és telefon, 
+		Bejárás támogatás, 
+Angol nyelvtanfolyam,
+		Évi egészségügyi szűrővizsgálat, 
+		Wellness- és fitneszterem kedvezmény.
+ Munkavégzés helye: Budapest, IV. kerület (Újpest vasútállomás közelében) 
+ Munkaidő: Hétfőtől - péntekig (törzsidő: 10:00-16:00, ezen felül a munkaidő rugalmasan alakítható a Vezetőséggel egyeztetve) 
+ Amennyiben álláslehetőségünk felkeltette érdeklődésed, küldd el számunka magyar és angol nyelvű önéletrajzod a JELENTKEZÉS gombra kattintva!
+Jelentkezem

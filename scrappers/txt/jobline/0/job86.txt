@@ -1,0 +1,22 @@
+ Belépés ›
+Application Administrator - Azure Operations Manager (Budapest)
+Application Administrator - Azure Operations Manager (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Application Administrator - Azure Operations Manager
+Cloud Center of Excellence Service HUB provide public Cloud platforms & services for using by the applications, consult the application owners to select the best Cloud option for their environment, provide trainings and support.In addition, we develop easy to use solutions for handling the different cloud capabilities and security obligations.We work as a SAFe Agile Release Train currently with 10 teams and about 95 people from Germany, Slovakia and Hungary and are responsible for the availability and stability of the Cloud Landingzones, eg. OTC, AWS, Azure.Main tasks: - solve incident tickets with your Azure know-how- maintain the pipelines in GitLab and the code inside (automation)- support & consult projects, using the Azure Landingzone- support the further development of the landing zone
+Programming languages:PythonPowerShellShellscriptTerraformaz-cliARM-templatesbicepsEnglish language  - confident conversational level
+Senior
+- provide an on-call service (24/7)* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások

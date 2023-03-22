@@ -1,0 +1,47 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceMS SQL/DWH Developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+MS SQL/DWH DeveloperSOFTEC
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 300 EUR/mesiacod 2300,- €/mes. (btt.) + atraktívna variabilná zložka mzdy + ďalšie benefity. Výsledné mzdové ohodnotenie závisí od úrovne skúseností a výkonu.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiChceš byť súčasťou unikátnych projektov a pracovať s najmodernejšími technológiami? Do nášho development tímu hľadáme skúseného DB developera/architekta na platforme MSSQL (TSQL, SSIS, SSAS), ktorý sa bude podieľať na vývoji dátových skladov v poisťovníctve.Rozvíjaj svoju kariéru v prestížnej softvérovo-konzultačnej spoločnosti SOFTEC, ktorá patrí k top dodávateľom v oblasti business a IT integrácie.ČO BUDE TVOJOU ÚLOHOU:spolupodieľanie sa na vývoji DWH/BI riešenia pre našich zákazníkov - implementácia a optimalizácia transformačných procedúr TSQL,tvorba biznis aplikácií používaných v rámci ODS/DWH riešeníparticipácia na vytváraní riešení realizujúcich near realtime transformácie medzi zdrojovými systémami a cieľovou DBspolupráca a aktívna komunikácia s ostatnými členmi vývojového tímu pri realizácii riešenia. Zamestnanecké výhody, benefityČO TI PONÚKAME?možnosť pracovať na zmysluplných IT riešeniach, ktoré uľahčujú život;kariérny rast a rozvoj, účasť na aktivitách expertných centier – zdieľanie najnovších IT trendov;prepracovaný systém odborného vzdelávania a rozvoja soft skills;prácu v skvelom kolektíve, kde kolegovia sú aj priateľmi;zaujímavý benefitný systém zohľadňujúci level seniority (dni dovolenky navyše, príspevok na zdravie, na technologickú vychytávku, príspevok do 3. piliera DDS, sabatical, auto na operatívny leasing);množstvo športových a kultúrnych aktivít, Multisport karta, ďalšie benefity na podporu zdravia (lekárske vyšetrenia, masáže, wellness procedúry, atď.);príspevok na jazykové vzdelávanie;nielen prácou sme živí – spoločné firemné a divízne akcie, výlety a aktivity;flexibilný pracovný čas s možnosťou home office v najzelenšom office v Bratislave;priestory najzelenšej kancelárskej budovy na Slovensku s veľkou terasou, oddychovou zónou a cyklomiestnosťou. Informácie o výberovom konaníAk ťa ponuka zaujala, neváhaj a pošli nám svoje CV tu, alebo na e-mail adresu: [email protected] Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreIT, SW vývojOsobnostné predpoklady a zručnostiČO OČAKÁVAME:TSQL (primárne dávkové spracovanie) – seniorvýhodou sú skúsenosti s C# - tvorba CLR procedúr,  Powershell – automatozícia, git, bash/linux a Apache Kafkaideálne znalosti z poisťovacej doményĎalšie požiadavky na ideálneho kandidáta:aspoň 1 rok praxe vo vývoji DB riešení;samostatnosť a proaktívny prístup;ochota a schopnosť neustále sa učiť;zodpovedný prístup k práci;tímová a zákaznícka orientácia;analytické a logické myslenie. Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme softvérovo-konzultačná spoločnosť, spolu nás je už vyše 400 a neustále rastieme. Určite radi privítame do tímu aj teba. Neboj sa, nehodíme ťa do vody, aby si sám plával. 
+Ak si junior, tak ako každý nováčik u nás, budeš aj ty na začiatku zaradený do útvaru Akadémia a bude ti pridelený tútor, ktorý ťa bude viesť a pomáhať ti so zadanými úlohami. Následne, keď budeš na to pripravený, po mesiaci až dvoch, začneš pracovať na reálnom projekte. Mladým talentom vytvárame inšpiratívne podmienky pre profesionálny i osobnostný rozvoj a vzdelávanie. 
+Pri medioroch a senioroch je priebeh zaškoľovania primeraný ich aktuálnym znalostiam a taktiež s podporou prideleného tútora. Pracujeme s technológiami ako napríklad Angular, Java, .NET, React ale aj vlastnými ako napr. JavaTec. 
+Sídlo spoločnosti máme v Bratislave v budove Einpark - najzelenšej kancelárskej budove na Slovensku, ktorá vďaka svojim udržateľným princípom získala viacero certifikátov. Naše ďalšie pobočky máme v Prahe, Prievidzi a v Žiline.
+Od iných firiem sa líšime hlavne tým, že pojmy rodinná a príjemná atmosféra nie sú pre nás iba prázdne slová, ale je to reálny motivátor našich zamestnancov. Dokazujú to aj naše interné prieskumy spokojnosti, fluktuácia nepresahujúca dvojciferné číslo, stabilné tímy, naši dlhoroční kolegovia a nakoniec aj samotné pravidelné umiestnenie medzi najlepšími zamestnávateľmi. Tento rok nás opäť neminulo ocenenie od Profesie a sme medzi top 10 najzamestnávateľmi na Slovensku v oblasti IT. Naša pobočka v Bratislave nedávno získala ocenenie Office roka 2021 – Zdravá kancelária, pričom k tomuto rozhodnutiu, ako uviedla samotná porota, prispela tiež rodinná atmosféra, ktorú v našich officoch cítili.  
+Máme prepracovaný benefitný systém, ktorý ponúka množstvo zaujímavých výhod ako napríklad:
+•	penzijné zabezpečenie/ 3. pilier DDS
+•	dni dovolenky navyše pre všetkých podľa levelu seniority     
+•	Kafetéria       
+•	príspevok na technologickú vychytávku (na pracovné vybavenie)
+•	podpora zdravotnej starostlivosti
+•	finančný príspevok na jazykové vzdelávanie 
+•	pôžička na riešenie bytovej situácie 
+•	referral program
+•	lifestyle aktivity - ranné cvičenia jogy, zdravý chrbát, webináre a pod.
+•	oddychové zóny, cyklomiestnosť
+•	parkovanie, auto na operatívny leasing
+•	home office (napriek tomu chodí mnoho našich kolegov do práce pretože sa chce stretávať s ostantnými) 
+•	letná a zimná Softecovica, divízovice, detský Mikuláš
+•	tematické týždne – nanukový, ovocný, zdravý a pod.
+•	skupinové športové aktivity – maratóny a bežecký klub, florbal, volejbal a ďalšie
+Chceš sa o SOFTEC-u dozvedieť viac? Klikni na našu webstránku a pozri si naše aktuálne otvorené pozície: https://www.softec.sk/pracovne-ponuky/ Počet zamestnancov250-499 zamestnancov 
+ KontaktE-mail: poslať životopis
+Všetky ponuky spoločnosti
+ID: 4512260 
+     Dátum zverejnenia:  1.2.2023 
+    2023-02-01
+lokalita: Bratislava   Pozícia: Backend programátor, Databázový analytik, Programátor   Spoločnosť: SOFTEC   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 300 EUR/mesiac
+                Všetky ponuky

@@ -1,0 +1,65 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+ Java Tech Lead - TPP, remote (Ref. č.: 1-16-41182)
+			10.03.2023		
+			Grafton Slovakia s.r.o.			
+Agentúra je členom asociácie personálnych agentúr Slovenska  
+ Miesto práce: 
+ KošiceKošice 
+ Pozícia / odvetvie: 
+ Informatika - software; Programátor 
+Ponúkaný plat (základná mzda):
+3000 - 4500 EUR
+ Druh pracovného pomeru: 
+ plný úväzok 
+ Počet voľných miest: 
+ 1 
+Informácie o pracovnom mieste
+ Náplň práce, informácie o pracovnom mieste: 
+ Si skúsený Java programátor, ktorý je pripravený viesť tím, prijať výzvy, modernizovať produkt a tiež stratégiu vývoja?
+Tvojou úlohou bude:
+- Vybudovanie moderného ERP a HRM riešenia pre verejný trh v zahraničí.
+- Vývoj produktu na schvaľovanie platieb z ERP systému.
+- Využívanie AWS cloudového riešenia.
+Techstack:
+Java 8 & 11
+Spring, Hibernate
+MSSQL, Oracle
+Apache Wicket, Tomcat, Git,
+JUnit, Mockito, Selenium
+AWS 
+ Benefity a ďalšie výhody: 
+ - Neobmedzený home office
+- Flexibilná pracovná doba
+- Stravné lístky bez zrážok (5,50€/deň)
+- Sickdays
+- Príspevok do 3.piliera
+- Možnosť presúvať sviatky
+- Zmluva na dobu neurčitú 
+ Informácie pre uchádzača: 
+	Zašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku. Viac podobných pozícií nájdete na https://www.grafton.sk/sk/job-search  
+Požiadavky na zamestnanca
+ Minimálne požadované vzdelanie: 
+ stredoškolské s maturitou 
+ Vhodné pre absolventov: 
+ Nie 
+ Všeobecne požadované znalosti: 
+ - aspoň 4 roky skúseností s programovaním v jazyku Java
+- skúsenosť s frameworkom Spring Boot
+- znalosti relačných databáz
+- skúsenoť s Angularom - výhodou	 
+Informácie o spoločnosti
+ Charakteristika spoločnosti: 
+ Spoločnosť Grafton Slovakia s.r.o., svetovo uznávaný poskytovateľ personálnych služieb a sprostredkovaní práce, je personálno-poradenská agentúra so širokou pôsobnosťou. V oblasti sprostredkovania práce ponúkame stále zamestnanie, dočasné úväzky, brigády, ale tiež prácu v zahraničí. Zameriava sa predovšetkým na ponuky práce v nasledujúcich oboroch: obchod, marketing, administratíva, financie, bankovníctvo, IT, engineering, výroba, farmácia, cestovný ruch a ďalšie. Okrem ponuky práce poskytuje aj personálne poradenstvo, napr. ako napísať životopis, sprievodný list či ako sa pripraviť na pohovor.
+Medzi široké portfólio Grafton služieb tiež patrí personálna inzercia na mieru, testovanie kandidátov, Assesment Centres, personálne a mzdové vedenie, konzultácie v oblasti ľudských zdrojov a Outplacement.
+Graftonu záleží na kvalite, a preto sa snaží na trhu sprostredkovania práce a personálneho poradenstva ponúknuť maximálne profesionálny servis. Práve preto implementoval európsky uznávaný systém riadenia kvality ISO 9001. Certifikát ISO 9001 prispieva k snahe spoločnosti Grafton vyhovieť požiadavkám jej zákazníkov v najlepšej možnej kvalite. Ku každému  zákazníkovi pristupuje individuálne s prioritou nájsť spoločné riešenie.  
+Reagovať na ponukuĎalšie ponuky spoločnosti
+OPERÁTOR VÝROBY - MZDA až 1100€/brutto. DOPRAVA AJ UBYTOVANIE ZABEZPEČENÉ (Ref. č.: 2-18-40356)
+Partizánske
+VOICE NETWORK SPECIALIST (Ref. č.: 1-10-5010/ZO)
+Bratislavský kraj
+Šička (Ref. č.: 100-18-41814)
+Nitra
+IT Security Manager (Ref. č.: 1-16-41564)
+Bratislava
+Iné možnosti práceInformatika - software Košice | Programátor Košice | Košice plný úväzok
+Späť na pracovné ponuky

@@ -1,0 +1,38 @@
+ Belépés ›
+Java fejlesztő (Budapest)
+Java fejlesztő (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Java fejlesztő
+Partnercégünk a nemzetközi cheminformatics piac meghatározó szereplője, akik saját fejlesztésű termékeken, egyedi alkalmazásokon dolgoznak elsősorban gyógyszeripari, vegyipari ügyfelek számára. Szoftveres megoldásaikat széles körben használják K+F területen, de akadémiai közegben és a felsőoktatásban is. Termékeiket tudományos igénnyel tervezik és a legmodernebb technológiai megoldásokon alapulva. Jelenleg Java fejlesztő kollégát keresnek csapatukba.
+A pozícióról
+Részvétel kisméretű molekulák analizálását és klaszterezését végző, valamint ezen komponensek kémiai tulajdonságait előrejelző szoftveres megoldások fejlesztésében, amelyek különböző kémia-kapcsolt munkafolyamatokat segítenek elő (gyógyszertervezés, laboratóriumi kísérlet-tervezés, ...)
+Részvétel specifikus adatmodellező megközelítések felkutatásában és fejlesztésében klasszikus és machine learning technikák bevonásával
+Részvétel a teljes fejlesztői folyamatban (zöldmezős projektek és code maintenance egyaránt)
+Rövid és felhasználói visszajelzésen alapuló fejlesztői ciklusok Cloud (elsősorban AWS) service-ek használata, fejlesztése
+Elvárások
+4+ év Java fejlesztői tapasztalat OOP és algoritmikus készségek
+Magas minőségű, jól kezelhető kód megírásának képessége
+Tapasztalat legacy kód felszámolásában, refactoringban
+Komplex rendszerek megértésének képessége
+Nyitottság új ismeretekre, technológiákra
+Magabiztos angol nyelvtudás (elsősorban írás/olvasás szintjén, szóban előny)
+API design, Spring keretrendszer tapasztalat előny
+Amit Megbízónk kínál
+Lehetőség remote munkavégzésre
+Nyitott kapuk az önálló ötletek, elképzelések előtt
+Lehetőségek szakmai tréningeken, ingyenes nyelvtanfolyamon való részvételre
+Természetközeli, zöld környezet, világos, ergonomikus iroda, biciklitároló, zuhanyzó
+Céges sportolási és kikapcsolódási lehetőségek (pl. jóga óra, body art, kosárlabda, biliárd, ping-pong…)
+Céges "nagymama”
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások

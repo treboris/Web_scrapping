@@ -23,80 +23,47 @@ Hirdetésfeladás
 Regisztráció
 Belépésálláskeresőknek
 IT programozás, Fejlesztés
-Tesztelő, Tesztmérnök
-Csongrád-Csanád megye
-Szeged
+IT tanácsadó, Elemző, Auditor
+Budapest
 Következő 
-Szoftver tesztautomatizáló
-Semilab Zrt.
-Szeged
- Elvárt technológiák
-C
-GIT
-AZURE
-DEVOPS
-WINDOWS
-BASH
-POWERSHELL
-ISTQB
+IT Üzleti elemző
+UNIQA Raiffeisen Software Service Kft.
+1053 Budapest, Szép utca 2.
  Módszertanok és szoftverek
-Git
-Agilis
-Scrum
-Kanban
-Ci
-Jira
-Jenkins
 Confluence
-Istqb
 Jelentkezem
 Mentés
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő
+Teljes munkaidő, Alkalmazotti jogviszony
 Általános munkarend
 Elvárások:
-Angol középfok és
-Magyar anyanyelvi szint
-3-5 év szakmai tapasztalat
-Egyetem
+Angol középfok vagy
+Német középfok
+Nem igényel tapasztalatot
+Középiskola
 Juttatások
-Cafeteria
- Elvárt technológiák
-C
-GIT
-AZURE
-DEVOPS
-WINDOWS
-BASH
-POWERSHELL
-ISTQB
+Szakmai tréningek
  Módszertanok és szoftverek
-Git
-Agilis
-Scrum
-Kanban
-Ci
-Jira
-Jenkins
 Confluence
-Istqb
-Semilab Zrt.
-A SEMILAB a világ vezető mikroelektronikai, napelemipari és kijelző-gyártó cégeinek beszállítója a méréstechnika területén. Termékeinket a világ minden táján használják a gyártási folyamat ellenőrzésére és kutatás-fejlesztésre. A berendezéseket Budapesten fejlesztjük és gyártjuk, ahol saját szakembergárdánk felügyeli a termék teljes életútját, az ötlettől a tervezésen és gyártáson át a felhasználók támogatásáig.
-Szoftver tesztautomatizáló
-Főbb feladatok:
-A cég által fejlesztett szoftverek fejlesztése közben felmerülő hibák keresése automatizált tesztek futtatásával, manuális és build környezetben egyarántÚj automatizált tesztesetek fejlesztése, valamint a meglévő tesztek frissítése és karbantartása a release folyamatok soránA teszteket futtató keretrendszer fejlesztése, funkcionális bővítéseA szoftverfejlesztők munkájának támogatása minőségbiztosítási szempontok alapjánAz automata tesztek által talált hibajegyek életútjának követése, elkészítéstől a visszatesztelésig
-Elvárások:
-Teszt automatizálásban szerzett legalább 1 éves tapasztalatMinimum junior szintű OOP tapasztalat (C#)Verziókezelő szoftverekben szerzett tapasztalat (GIT)Agilis módszertanok ismerete (Scrum/Kanban tapasztalat)Kommunikációs szintű angol nyelvtudás
-Előny:
-ALM és CI rendszerekben szerzett felhasználói szintű tapasztalat (pl. JIRA, Jenkins, Azure Devops, Confluence, stb.)Windows Desktop alkalmazások automatizálásában szerzett tapasztalatScript nyelvek ismerete (pl. bash, PowerShell, stb.)ISTQB Foundation/Advanced szintű tudás megléte (Teljesített vizsga előny)Felsőoktatási BSc/MSc diploma informatikai szakirányonJó kommunikációs képességekCsapatjátékos mentalítás a munka során
-Amit kínálunk
-Versenyképes jövedelem, cafeteria juttatásokHibrid munkavégzés, rugalmas munkaidőSegítőkész kollégák, családias hangulatCéges rendezvények, csapatépítő programokBiciklivel való bejárás támogatása
+Az osztrák UNIQA Konszern budapesti leányvállalataként több, mint 25 éve fejlesztünk szoftvereket, IT megoldásaink naponta több millió ügyfelet szolgálnak ki  Ausztriában.
+Budapesti csapatunk erősítésére keresünk kollégát az alábbi pozícióra:
+IT Üzleti elemző
+(Business Analyst/Business Designer) (advanced/senior)
+Német nyelvtudással
+Feladatok:
+UNIQA-nál használt meglévő IT háttér-alkalmazások elemzése, továbbfejlesztése és karbantartásaA meglévő informatikai alkalmazások műszaki folyamatainak és funkcióinak, valamint koncepciójának megismeréseÚj vevői igények vagy törvényileg szükséges kiigazítások elemzéseIT megvalósítási javaslatok kialakítása és végrehajtása, költségbecslésKommunikáció és interfész menedzsment a szomszédos termékcsoportokkalAz adat / funkció modell változásainak dokumentálása és kidolgozása (Epic, User Stories)Szakmai támogatás a műszaki fejlesztési szakaszbanTesztesetek definiálása, elvégzéseTechnikai támogatás az ügyfél általi elfogadáshoz és a működéshezIncidenskezelés működés közben, hibaelemzés / -javításKapcsolattartás a megrendelővel
+Ezzel várunk:
+Hosszú távú perspektíva, érdekes, kihívást jelentő és változatos tevékenységekModern folyamateszközök (pl. JIRA, Confluence)Szervezett onboarding. Képzésekkel segítjük a könnyebb beilleszkedést belépéskor
+Elvárásaink:
+Befejezett vagy folyamatban lévő gazdasági vagy informatikai tanulmányokAdatbáziskezelő rendszerek ismerete (pl. SQL)Gyakorlati tapasztalat Követelménymérnöki, Tesztelői vagy IT Projektmenedzsment területekenKommunikáció képes német és angol nyelvtudás
+Előnyt jelent:
+Biztosítási ismeretek Munkavégzés helye: 1053 Budapest, Szép utca 2.
 Jelentkezés módja
-Jelentkezés
+Amennyiben szeretnél a biztosítási szféra számára elemzési projektekben részt venni, várjuk jelentkezésed magyar és német/angol nyelvű önéletrajzzal és a fizetési igény megjelölésével!
 Állás, munka területe(i):
 IT programozás, Fejlesztés
-Tesztelő, Tesztmérnök
+IT tanácsadó, Elemző, Auditor
 Jelentkezem
 MENTÉS
 Elküldöm magamnak a hirdetést
@@ -108,41 +75,56 @@ MentésMentés kedvencnek
  Vissza a listára
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő
+Teljes munkaidő, Alkalmazotti jogviszony
 Általános munkarend
 Elvárások:
-Angol középfok és
-Magyar anyanyelvi szint
-3-5 év szakmai tapasztalat
-Egyetem
+Angol középfok vagy
+Német középfok
+Nem igényel tapasztalatot
+Középiskola
 Juttatások
-Cafeteria
+Szakmai tréningek
  Elküldöm magamnak
  Értesítést kérek
 A cégről
-SEMILAB Félvezető Fizikai Laboratórium Zártkörűen működő Részvénytársaság
-Feldolgozóipar
+UNIQA Raiffeisen Software Service Kft.
+Információ, kommunikáció
 ●
-Mérőműszergyártás
-1000+ munkavállaló
-1989
-1117
+Információ-technológiai szaktanácsadás
+50-100 munkavállaló
+1996
+1053
 Budapest,
-Prielle Kornélia utca 4/A.
-Értékelések a(z) SEMILAB zrt cégről
+Szép utca 2.
+Értékelések a(z) cégről
+4,0
+3 értékelés alapján 
 Értékelések kategória szerint 
-3,8
+4,7
+Munkaidő és munkarend 
+4,7
+Munka és magánélet egyensúlya 
+4,0
+Kollégák és céges hangulat 
+5,0
 Megközelíthetőség 
+4,3
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Ajánlaná ismerőseinek 
+Biztosítják a munkaeszközöket 
+Támogatják a képzéseket 
 További vélemények 
 Munkahely értékelése 
 Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
-Értékelem 
+Értékelem
 Önnek ajánljuk
 Hasonló állások megtekintése 
-Szoftver tesztautomatizáló
-Semilab Zrt.
-Szeged
-Jelentkezem
+IT Üzleti elemző
+UNIQA Raiffeisen Software Service Kft.
+1053 Budapest, Szép utca 2.
+JELENTKEZEM
 Mentés
 Kövessen bennünket! 
 Rólunk

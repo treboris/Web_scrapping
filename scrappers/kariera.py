@@ -49,9 +49,6 @@ pages = round(page_number() / 30)
 paginator = 0
 limit_txt = "?od="
 for limit in tqdm(range(pages)):
-    #url = (f"https://kariera.zoznam.sk/pracovne-ponuky/informatika-software{limit_txt}{limit}")
-    #page = requests.get(url)
-    #soup = BeautifulSoup(page.text,"html.parser")
 
     fblock = conn(limit_txt,paginator).find('ul' , class_='search-list')
     for li in fblock.find_all('li' , class_='clearfix'):
@@ -89,6 +86,6 @@ for y in range(0, list_size):
 
 
 
-save_data = Save(f'Kariera_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
+save_data = Save(f'kariera1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
 
 print("--- %s seconds ---" % (time.time() - start_time))

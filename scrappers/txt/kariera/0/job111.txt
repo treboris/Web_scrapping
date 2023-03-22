@@ -1,0 +1,67 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+ Senior Python Developer (Ref. č.: 1-16-40397)
+			08.03.2023		
+			Grafton Slovakia s.r.o.			
+Agentúra je členom asociácie personálnych agentúr Slovenska  
+ Miesto práce: 
+ KošiceKošice 
+ Pozícia / odvetvie: 
+ Informatika - software 
+Ponúkaný plat (základná mzda):
+2700 - 3900 EUR
+ Druh pracovného pomeru: 
+ plný úväzok 
+ Počet voľných miest: 
+ 1 
+Informácie o pracovnom mieste
+ Náplň práce, informácie o pracovnom mieste: 
+ Pre nášho klienta v Košiciach, ktorý pôsobí v priemysle v globálnom merítku, hľadáme skúseného Backend alebo Fullstack Developera, ktorý by sa pridal k agilnému tímu pracujúcemu na vývoji komplexného SW založeného na microservices architektúre.
+Náplň práce:
+· analýza požiadaviek, dizajn, test a vývoj komponentov podľa definovaných požiadaviek
+· využitie knižníc, frameworkov a API
+· riešenie aplikačných a technických problémov, maintenance a optimalizácia
+· práca v Agile tíme v spolupráci s backend, frontend developermi a testermi, konzultácia s product ownerom a dátovými expertami ohľadom nových funkcionalít a iterácií
+· mentoring menej skúsených kolegov 
+ Benefity a ďalšie výhody: 
+ - extra 5 dní dovolenky
+- flexibilný pracovný čas
+- možnosť HO/remote
+- príspevok do 3. piliera
+- životné poistenie
+- refferal bonus, dobrovoľnícky deň voľna a iné. 
+ Informácie pre uchádzača: 
+	Zašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku.
+Viac podobných pozícií nájdete na www.grafton.sk/sk/job-search?utm_source=jobboard&utm_medium=jobposition  
+Požiadavky na zamestnanca
+ Minimálne požadované vzdelanie: 
+ vysokoškolské I. stupňa (bakalárske) 
+ Vhodné pre absolventov: 
+ Nie 
+ Všeobecne požadované znalosti: 
+ · titul z technického oboru a/alebo relevantné skúsenosti vo vývoji SW (aspoň 5 rokov)
+· 3 roky skúseností programovania v Pythone - backend alebo Fullstack.
+· znalosti Django, prípadne Flask a FastAPI
+· znalosti microservice architektúry, REST štandardov
+· znalosti SQL
+· skúsenosti s prácou v Agile 
+Výhodou:
+Výhodou:
+· samostatnosť a proaktivita, skúsenosti s prácou v malom agilnom tíme
+· skúsenosti s nasadzovaním SW pomocou CI/CD technológií ako Jenkins, Azure Devops a pod.
+· skúsenosti s používaním "message queues" ako napr. RabbitMQ	 
+Informácie o spoločnosti
+ Charakteristika spoločnosti: 
+ Spoločnosť Grafton Slovakia s.r.o., svetovo uznávaný poskytovateľ personálnych služieb a sprostredkovaní práce, je personálno-poradenská agentúra so širokou pôsobnosťou. V oblasti sprostredkovania práce ponúkame stále zamestnanie, dočasné úväzky, brigády, ale tiež prácu v zahraničí. Zameriava sa predovšetkým na ponuky práce v nasledujúcich oboroch: obchod, marketing, administratíva, financie, bankovníctvo, IT, engineering, výroba, farmácia, cestovný ruch a ďalšie. Okrem ponuky práce poskytuje aj personálne poradenstvo, napr. ako napísať životopis, sprievodný list či ako sa pripraviť na pohovor.
+Medzi široké portfólio Grafton služieb tiež patrí personálna inzercia na mieru, testovanie kandidátov, Assesment Centres, personálne a mzdové vedenie, konzultácie v oblasti ľudských zdrojov a Outplacement.
+Graftonu záleží na kvalite, a preto sa snaží na trhu sprostredkovania práce a personálneho poradenstva ponúknuť maximálne profesionálny servis. Práve preto implementoval európsky uznávaný systém riadenia kvality ISO 9001. Certifikát ISO 9001 prispieva k snahe spoločnosti Grafton vyhovieť požiadavkám jej zákazníkov v najlepšej možnej kvalite. Ku každému  zákazníkovi pristupuje individuálne s prioritou nájsť spoločné riešenie.  
+Reagovať na ponukuĎalšie ponuky spoločnosti
+Aplikačný administrátor/inžinier (Ref. č.: 1-16-41058)
+Bratislava
+Účtovník / Mzdový účtovník (Ref. č.: 2-7-41474)
+Bratislava
+Procesný inžinier - BOM (Ref. č.: 1-10-41205)
+Senec
+Operátor výroby so zabezpečenou dopravou z Martina (Ref. č.: 6-18-40241)
+Žilina
+Iné možnosti práceInformatika - software Košice | Košice plný úväzok
+Späť na pracovné ponuky

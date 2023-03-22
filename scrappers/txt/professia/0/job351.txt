@@ -1,0 +1,68 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava Developer 
+                                Define your career today.
+                                Explore opportunities now.
+                                Primary job category
+                            IT Specialist
+                                Place of work
+                            Bratislava, Banská Bystrica, Košice
+                                Contract type
+                            full-time, part-time
+                                Salary (gross)
+2 300 - 3 500 EUR/month
+Java Developer
+        The individual will be responsible for developing, implementing, maintaining, and supporting Java based components and interfaces and have understanding of various coding methodologies and tools and know when to apply each method to achieve the desired outcomes. The ideal candidate must display good written and oral skills with demonstrated interpersonal and organization abilities and must be able to work in a varied, fast paced environment.
+What do you need for your success?
+• Over 4 years of experience working in IT industry developing solutions in Java / Java Enterprise technologies
+• Java SE knowledge (Java 8 and newer), including OOP principles
+• Intermediate experience with Java backend programming
+• 2+ year experience with Spring or Spring boot
+• 2+ year experience with JPA-based frameworks like Hibernate or other JPA implementation
+• Customer communication experience
+• Intermediate SQL / SQLite and ORM knowledge
+• Intermediate Maven or Gradle building tool knowledge
+• Intermediate Git version control system knowledge
+• Individual and result oriented work (globally distributed team)
+• Being adaptable and able to pick up new technologies and design techniques
+• Being self-motivated, detail oriented and organized
+• Team player
+• Good communication (oral and written) and interpersonal skills
+• Bachelor’s Computer Science, MIS or related experience Nice to have
+• Intermediate Docker platform knowledge is an advantage
+• Intermediate CI/CD knowledge is an advantage
+• Basic Microservice or Serverless architecture knowledge is an advantage
+• Basic Kubernetes or OpenShift platform knowledge is an advantage
+• Intermediate Junit5 and Mockito framework knowledge is an advantage
+Required Professional and Technical Expertise:
+Advanced Java knowledge (Java 8 and newer), including OOP principles Customer communication experience, Intermediate SQL / SQLite and ORM Intermediate Maven or Gradle building tool knowledge, Intermediate Git version control system knowledge
+Preferred Professional and Technical Expertise: 
+Intermediate Docker platform knowledge is an advantage
+Intermediate CI/CD knowledge is an advantage
+Basic Microservice or Serverless architecture knowledge is an advantage
+Basic Kubernetes or OpenShift platform knowledge is an advantage
+What benefits do we offer?
+• Salary starting between 2300 - 3500 EUR gross, depending on relevant experience and language proficiency
+• Almost endless learning & growth opportunities (classroom based trainings and 5000 e-learning courses)
+• Three additional vacation days
+• Up to three self-recovery days
+• 100% sick leave compensation
+• Life insurance and supplementary pension savings program
+• Private medical sanatorium
+• Long term career development and possibility of internal rotation
+• Recommend-a-Friend – get a bonus in the employee referral program
+Additional information
+            IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+SK |
+                            EN
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4469866 
+     Dátum zverejnenia:  13.2.2023 
+    2023-02-13
+lokalita: Bratislava   Pozícia: Backend developer, Java Programmer, Programmer   Spoločnosť: IBM   
+Základná zložka mzdy (brutto): 2 300 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

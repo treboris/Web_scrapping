@@ -1,0 +1,54 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceMiddle/Senior C++ Software Engineer (Linux/Networking) 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyMiddle/Senior C++ Software Engineer (Linux/Networking)GlobalLogic Slovakia s.r.o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+2 800 EUR/monthMinimum wage, it depends on your skills and experience
+Information about the position Job description, responsibilities and dutiesThe product is Residential Gateways Middleware development based on OpenWrt.
+Software Engineer will be responsible for the following tasks:
+- New feature evaluation (time estimation / architecture)
+- Implementation / development
+- Complex bug fixing Employee perks, benefits• Extra 4 paid vacation days,
+• Flexible working hours and optional home working,
+• Personal computer hardware that you can use at home anytime you need,
+• Voice & data mobile phone plans and discounts on computer hardware,
+• Bonus for leisure, relaxation, health & wellbeing,
+• Special discounts & perks for employees from various product/service providers
+(Relax / Wellness /Health / Bank and Insurance/ Sports/ Restaurants /Shops) in
+Slovakia,
+• Recognition - Star Performer (yearly recognition for the most successful
+employees of GL SLovakia),
+• Kudos Recognition (annual recognition drive across all bands),
+• Coffee, tea and milk available daily,
+• Get-togethers and team-building exercises throughout the year,
+• Relax zones with game rooms. Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Personality requirements and skills- 3+ years of professional experience using C/C++
+- Linux and networking background
+- Intermediate English level
+- Smart and fast learner
+Nice to have:
+- Open source software contributions
+- Experience with OpenWrt / DD-WRT Advertiser Brief description of the companyGlobalLogic is a leader in digital product engineering services. We help our clients design and build innovative products, platforms and tools, and thus improve the customer digital experience in the modern world. By offering integrated solutions and combining strategic design, complex engineering, and vertical industry expertise, we help our clients imagine what’s possible and accelerate their transition into tomorrow’s digital business.
+GlobalLogic headquarters in Slovakia is located in Kosice and the company also operates in Zilina and Banska Bystrica. In 2023 we plan to expand to Bratislava as another Slovak location.
+The Kosice delivery center was established in June 2014. With almost 300 employees in Kosice, we work on many projects in healthcare, mobile embedded systems, telco-media, automotive and location based systems for the world’s leading companies. What makes us unique is our strong design team that gives GL a powerful competitive advantage as an IT company in the Kosice region. Kosice technical stack includes , Node.js, Embedded Linux, C++, C#, .NET, SpecFlow, React, Redux, Drupal, PHP, Symfony, GO, Python, MVC, MSSQL, AWS, iOS, Android, Win Mobile, GSM, 2G, 3G, 4G, LTE...
+Zilina and Banska Bystrica delivery centers joined the GlobalLogic family in January 2016 through the biggest acquisition in the GlobalLogic history. 100+ employees work on mobile development, embedded systems, automotive and telecommunications projects for the leading companies worldwide. Zilina technical stack comprises Embedded Linux, C, C++, Qt Embedded, , NDS, LUA, GPS, IoT, M2M, Yocto, CAN, Google Tests, BitBake...
+https://www.globallogic.com/sk/what-we-do-services/
+GlobalLogic in Slovakia boasts talented engineers, low attrition levels, and an experienced senior management team. Artificial intelligence, future medicine and face recognition - GlobalLogic covers all these innovative technologies. What is more, they allow us to be proud of our unique machine learning projects. The delivery centers are certified in Agile Scrum methodologies and specialize in software design, architecture, and quality assurance services. GlobalLogic in Slovakia is also very active in the local IT community and is a member of two IT clusters: Kosice IT Valley and IT Cluster in Zilina.
+See our career opportunities and join the GlobalLogic family today!
+https://www.youtube.com/watch?v=wkXXPa_K85I Number of employees250-499 employees 
+ID: 4516392 
+     Dátum zverejnenia:  8.2.2023 
+    2023-02-08
+lokalita: Remote work   Pozícia: C++ Programmer, Software Engineer   Spoločnosť: GlobalLogic Slovakia s.r.o.   
+Základná zložka mzdy (brutto): 2 800 EUR/month
+                Všetky ponuky

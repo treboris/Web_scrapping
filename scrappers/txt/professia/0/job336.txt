@@ -1,0 +1,32 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSystémový administrátor - špecialista na Docker 
+Práca
+Firma
+Benefity
+Kontakt
+Systémový administrátor - špecialista na Docker
+                                Miesto práce
+                            Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Typ
+                            plný úväzok
+                                Mzda (eur brutto)
+2 100 EUR/mesiacod 2 100€ brutto
+                                Termín nástupu
+                            Dohodou
+* brutto/mesačne, reálna mzda podľa skúsenostíAsseco Central Europe (Asseco CE) je jedným z najsilnejších softvérových domov v strednej a východnej Európe. Patrí medzi najvýznamnejších poskytovateľov komplexných riešení a služieb v oblasti informačných technológií „šitých na mieru“. Realizuje rôzne projekty pre komerčnú sféru, ako aj pre štátnu správu a samosprávu. Pracuje v oblasti bankovníctva, poisťovníctva, verejného sektora a iných. Asseco CE je súčasťou medzinárodnej skupiny Asseco Group, ktorá v súčasnosti pôsobí v 54 krajinách sveta.Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiNaše očakávania a tvojou náplňou práce bude:Administrácia LiNUX (Oracle Linux,      Red Hat Enterprise Linux) systémov v zverenej oblasti Základná administrácia správy sietí (routing, DHCP, DNS, VPN, NAT atd.)Administrácia zálohovania a      archiváciaAdministrácia monitoringu a      proaktívnych postupov riešení problémovV spolupráci s architektmi vytvárať špecifikáciu a dizajn riešeníTroubleshootingPríprava a kontrola technickej dokumentácie Do budúcna by sme ocenili tvoju pomoc technicky juniornejším kolegom.Táto pozícia zahŕňa pracovnú on-call pohotovosť 24/7 (ale neboj, so svojimi kolegami sa budeš pravidelne striedať :) Zamestnanecké výhody, benefityvariabilná zložka odmeňovania v podobe kvartálnych bonusovvzdelávanie prostredníctvom internej akadémie a rôznych externých školeníjazykové kurzydni voľna pri špeciálnych príležitostiach nad rámec zákonapríspevok do doplnkového dôchodkového sporenia a iné zaujímavé benefity Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňa
+vysokoškolské III. stupňaOsobnostné predpoklady a zručnostiPokročilá znalosť v serverovom hardware, storage a virtualizačných technológiachZnalosť technológií a nástrojov Docker, Kubernetes a AnsibleZnalosť produktov OpenShift je výhodouPrehľad v monitorovacích nástrojoch  Prehľad v zálohovacích technológiách  Základné sieťové znalosti   Výhodou skúsenosti s navrhovaním architektúr a s prípravou ponúk  Skúsenosti so správou a implementáciou zákazníckych prostredí  Technické myslenie, aktívne a samostatné riešenie problémov
+DISCLAIMER
+Asseco CE podporuje inakosť a diverzitu. Naša firemná kultúra je otvorená všetkým bez ohľadu na ich vek, národnosť, pohlavie alebo zdravotné znevýhodnenie. Svojich zamestnancov si starostlivo vyberáme na základe ich zručností, praxe, znalostí a osobnostných predpokladov. Zamestnávame kolegov so zdravotným hendikepom, tiež nakupujeme výrobky cez chránené dielne, vďaka čomu môžeme prostriedky, ktoré by sme inak museli odvádzať do odvodového systému vracať medzi tých, ktorí si to najviac zaslúžia.Inzerujúca spoločnosť Počet zamestnancov500-999 zamestnancov KontaktKontaktná osoba: Natália HladkáE-mail: poslať životopis
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4518754 
+     Dátum zverejnenia:  13.2.2023 
+    2023-02-13
+lokalita: Bratislava   Pozícia: IT architekt, Programátor, Správca informačného systému, Systémový administrátor, Špecialista IT bezpečnosti   Spoločnosť: Asseco Central Europe, a. s.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 100 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

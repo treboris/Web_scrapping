@@ -23,56 +23,52 @@ Hirdetésfeladás
 Regisztráció
 Belépésálláskeresőknek
 IT programozás, Fejlesztés
-Programozó, Fejlesztő
-Baranya megye
-Pécs
-Szoftverfejlesztő
-RabIT Solutions Zártkörűen Működő Részvénytársaság
-7623 Pécs, Tüzér utca 13.
- Elvárt technológiák
-FRONTEND
-BACKEND
-JAVA
-PHP
-HTML
-CSS
-JAVASCRIPT
-C#
+Projektmenedzsment
+Budapest
+Budapest
+Következő 
+Informatikai projektvezető
+Jutalék
+BEFEKTETŐVÉDELMI ALAP
+Budapest, 1092 Köztelek utca 6.
+Biztosított eszközök
+Laptop
+Mobiltelefon
 Jelentkezem
 Mentés
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Alkalmazotti jogviszony
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+napi 8 óra
 Általános munkarend
 Elvárások:
-Angol középfok
-1-3 év szakmai tapasztalat
-Középiskola
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Főiskola
 Juttatások
 Cafeteria
 Szakmai tréningek
- Elvárt technológiák
-FRONTEND
-BACKEND
-JAVA
-PHP
-HTML
-CSS
-JAVASCRIPT
-C#
-Szoftverfejlesztő
-Szoftverfejlesztőkkel bővítjük pécsi csapatunkat. Ha szenvedélyed a programozás, és szeretnél egyedi és változatos projekteken dolgozni egy barátságos és fiatalos csapat tagjaként, akkor nálunk a helyed!
-Főbb feladatok, munkák:
-Web és desktop alkalmazások fejlesztéseNatív és cross-platform mobil app fejlesztéseFrontend és backend fejlesztési feladatok elvégzéseSzoftverkövetelmények implementálásaAdatbázis- és rendszertervezés
-Az álláshoz tartozó elvárások:
-Java, PHP vagy C# nyelvek valamelyikében szerzett tapasztalatHTML, CSS és JavaScript ismereteJó analitikus és problémamegoldó képességFelelősségteljes, önálló munkavégzésÚj technológiák iránti folyamatos érdeklődésKommunikációs szintű angol nyelvtudás (elsősorban írásban)
-Amit kínálunk:
-Versenyképes jövedelem, cafeteriaSzakmai fejlődésed előtérbe helyezése, havi képzésekVáltozatos fejlesztési feladatokFiatal, jófej csapat
+Biztosított eszközök
+Laptop
+Mobiltelefon
+BEFEKTETŐVÉDELMI ALAP
+Informatikai projektvezető
+A Befektető-védelmi Alap (Beva) 1997-ben létrejött pénzügyi garancia alap, tagjai a hazai hitelintézetek, befektetési vállalkozások és befektetési alapkezelők, feladata a befektetők kártalanítása. A szervezet budapesti székhelyen, kis létszámú munkaszervezettel (8 fő) működik, az informatikai tevékenységek kiszervezésre kerültek.
+Új munkatársunkat a külső IT szolgáltatók tevékenységének koordinálására és felügyeletére, valamint az informatikai infrastruktúra fejlesztését célzó projektek irányítására keressük.
+Feladatok
+Közreműködés a szervezet informatikai stratégiájának alakításában, az informatikai infrastruktúra fejlesztését célzó projektek tervezésében és megvalósításában;Az informatikai projektek lebonyolításának irányítása;Külső megbízottak által végzett IT üzemeltetés (szerver, tűzfal, gépek, egyéb kapcsolódó infrastruktúra), valamint logelemzési szolgáltatás megbízói oldalról történő felügyelete és koordinálása;Szoros együttműködés az Informatikai Biztonsági Felelőssel;A belső és külső IT auditok előkészítésében közreműködés és az auditok alapján szükséges intézkedések végrehajtásának megszervezése;Ticketing rendszer kezelése megbízói oldalról, a feladatok végrehajtásának ellenőrzése;IT beszerzésekkel kapcsolatos feladatok (döntéselőkészítés, közreműködés a végrehajtásban);Jogosultságkezelési nyilvántartás vezetése, a jogosultság beállítások ellenőrzése;Egyéb IT nyilvántartások vezetése;Elektronikus aláíró és titkosító tanúsítványokkal kapcsolatos ügyintézés;
+Elvárások
+Felsőfokú végzettség,Legalább 3 év releváns szakmai tapasztalat IT területen,Önálló munkavégzés, problémamegoldó képességGyakorlatias szemlélet, adminisztrációs készségekJó kommunikációs és szervező képesség,Magasszintű Microsoft Office ismeret,Windows környezet ismerete,Exchange, MS SQL ismerete.
+Előnyt jelent
+IT biztonsági rendszerek (tűzfal, víruskereső, logelemző stb.) ismerete;ITIL ismeretek és IT biztonsági szemlélet;Nextcloud szerver illetve Linux környezet ismerete,
+Amit kínálunk
+Határozatlan idejű munkaviszony,Teljes munkaidő vagy részmunkaidőStabil munkahelyVersenyképes juttatási csomag (alapbér, jutalom, cafetéria)Céges laptop,Céges mobiltelefon és előfizetésRészbeni home-office munkavégzésSzakmai képzések támogatása
 Állás, munka területe(i):
 IT programozás, Fejlesztés
 Programozó, Fejlesztő
-Jelentkezés módja:
-A "Jelentkezem" gombra kattintás után kérjük, hogy csatold fényképes önéletrajzodat.
+Projektmenedzsment
+Kért dokumentum:
+Fényképes, magyar nyelvű szakmai önéletrajz a fizetési igény és a munkaidő (teljes/rész) megjelölésével)
 Jelentkezem
 MENTÉS
 Elküldöm magamnak a hirdetést
@@ -84,35 +80,36 @@ MentésMentés kedvencnek
  Vissza a listára
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Alkalmazotti jogviszony
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+napi 8 óra
 Általános munkarend
 Elvárások:
-Angol középfok
-1-3 év szakmai tapasztalat
-Középiskola
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Főiskola
 Juttatások
 Cafeteria
 Szakmai tréningek
  Elküldöm magamnak
  Értesítést kérek
 A cégről
-RabIT Solutions Zártkörűen Működő Részvénytársaság
-Információ, kommunikáció
+BEFEKTETŐVÉDELMI ALAP
+Biztosítás, nyugdíjalapok
 ●
-Számítógépes programozás
-25-50 munkavállaló
-2021
-6726
-Szeged,
-Alsó kikötő sor 11. D. ép.
+Egyéb pénzügyi kiegészítő tevékenység
+0-10 munkavállaló
+1997
+1092
+Budapest,
+KÖZTELEK UTCA 6.
 Munkahely értékelése 
 Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
-Értékelem 
+Értékelem
 Önnek ajánljuk
 Hasonló állások megtekintése 
-Szoftverfejlesztő
-RabIT Solutions Zártkörűen Működő Részvénytársaság
-7623 Pécs, Tüzér utca 13.
+Informatikai projektvezető
+BEFEKTETŐVÉDELMI ALAP
+Budapest, 1092 Köztelek utca 6.
 JELENTKEZEM
 Mentés
 Kövessen bennünket! 

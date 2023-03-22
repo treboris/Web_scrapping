@@ -1,0 +1,31 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava Software Engineer  Можливість для людей з України
+Java Software EngineerMultitude IT Labs (as part of Multitude Group)
+Place of work
+Pradiareň 1900, Svätoplukova, Ružinov, Slovakia, Bratislava (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+2 500 EUR/monthThe minimum salary is 2500 EUR gross monthly but will be higher if you are a senior candidate. Our final offer to you will be set up fairly, considering your skills and experience.
+Information about the position Job description, responsibilities and dutiesMultitude IT Labs is looking for talented Software Engineers to join our experienced international team.If you are looking for challenging projects, new technologies, willing to build something new, then this is a great opportunity for you.Responsibilities: Together with experienced team of Solution Architects and Tech Leads develop financial products on latest technologies Create high performance production solutions through code reviews via pull requests, high test coverage, static code analysis using SonarQube, performance monitoring and analysis using Kibana and Elastic APM Go extra mile, stay up to date with the latest trends in technologies, sharing knowledge with your team and not being afraid in suggesting technical improvements Employee perks, benefits• Job opportunity in a fast-growing, international fintech company with a lot of new ideas• Great working environment supporting technological innovation• Access to LinkedIn learning with over 8000 courses• Possibility to work from home and the office• 4 sick days a year• Gym in the office and additional sporting options via MultiSport card• Healthy snacks and fresh fruits in the office as well as other office entertainment• Your assigned business laptop available for your free personal use, after the 5th year equipment renewal policy• Share purchase matching program up to 10% of annual gross salary, currently offered bi-annually with matching 1:1 with a vesting period of 2 years from purchase• Opportunities for growth, the realization of own ideas and further trainingWe support trainings, certifications and development internally and externally with individual approach based on your needs and requests. Requirements for the employee Candidates with education suit the positionFollow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Educational SpecializationITLanguage skillsEnglish - Advanced (C1)Personality requirements and skillsExpected skills and experience: You will have significant experience with development production systems using Java 11 and Spring ecosystem (Boot, REST, JPA, Data, Integration, Cloud, Security) Efficient coding, aware of patterns and anti-patterns, properly structured, testable, maintainable, easily comprehensible and well documented clean code Knowledge of integrations, REST APIs, refactoring, secure coding, application performance monitoring and troubleshooting Analytical and problem solving skills needed to break down complex issues and visualize solutions Being great team player as well as working independently with solid English reading and writing skillsWe will appreciate but we don't require: Familiarity with Microservice architecture, event sourcing, distributed systems and asynchronous communication, authentication Basic knowledge of Kafka, Docker, Kubernetes, Camunda BPM, Kotlin, Liquibase, Kibana, Elastic APM, MySQL, PostgreSQL, MongoDB, ElasticSearch, Prometheus, Grafana Hands on experience with development tools: Intellij Idea, Gitflow, Bitbucket, Bamboo, SonarQube, Maven, Enterprise Architect, Swagger, JIRA Advertiser Brief description of the companyMultitude is a fully regulated growth platform for financial technology. Its ambition is to become the most valued financial ecosystem. This vision is backed by +15 years of solid track record in building and scaling financial technology. Through its full European banking license, and profound know-how in technology, regulation, cross-selling, and funding, Multitude enables a range of sustainable banking and financial services to grow and scale.
+Currently, it has three independent business units on this growth platform: Ferratum as a consumer lender, CapitalBox as a business lender, and SweepBank as a shopping and financing app. Multitude and its independent units employ over 700 people in 19 countries, and they together generated EUR 230 million turnover in 2020. Multitude was founded in 2005 in Finland and is listed in the Prime Standard segment of the Frankfurt Stock Exchange under the symbol ‘FRU.
+Our employees can choose where and when they work by taking full advantage of our hybrid-work environment. Whether you’re mostly in the office, working remotely or a mix of the two, you’ll be empowered to do whatever brings out your best. We understand that happy people make happy employees! Number of employees500-999 employees 
+ ContactContact person: Natália ZemkováE-mail: send CV
+All company jobs
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4523693 
+     Dátum zverejnenia:  20.2.2023 
+    2023-02-20
+lokalita: Bratislava   Pozícia: Java Programmer, Software Engineer   Spoločnosť: Multitude IT Labs (as part of Multitude Group)   
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

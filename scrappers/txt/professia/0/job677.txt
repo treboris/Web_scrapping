@@ -1,0 +1,49 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceC#/.NET Programátor - študent 5.ročníka 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyC#/.NET Programátor - študent 5.ročníkaDatapac s.r.o.
+Miesto práce
+IP CENTRUM - IP development, s.r.o., Elektrárenská, Bratislava
+Druh pracovného pomeru
+na dohodu (brigády)
+Termín nástupu
+Čo najskôr
+Mzdové podmienky (brutto)
+6 EUR/hod.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáte výzvu a príležitosť rozvíjať svoje programátorské zručnosti v oblasti C#/.NET? Ste študent 5. ročníka a chcete pracovať v tíme profesionálov a rozvíjať sa v tejto oblasti? Potom ste na správnom mieste!
+V našej spoločnosti hľadáme nadšených študentov, ktorí sa neboja pracovať s najnovšími technológiami. Neváhajte, pošlite nám svoj životopis a staňte sa súčasťou nášho tímu!"
+Čo budeš u nás robiť?
+1. Vývoj softvérových riešení podľa zadania
+2. Testovanie riešení
+3. Podpora a odstraňovanie chýb pri existujúcich riešeniach
+4. Spolupráca na projektoch firmy
+5. Ostatné činnosti na základe úloh definovaných nadriadeným
+Pri svojej práci budeš používať nasledovné technológie:
+•	MSsql, .NET
+•	GIT, JIRA 
+•	Docker Zamestnanecké výhody, benefityDatapac je stabilná firma s rodinnou atmosférou. Spoločne trávime čas v práci, spoločne oslavujeme, spoločne prežívame úspechy aj neúspechy. Párkrát do roka ťa vytiahneme na spoločnú chatu alebo teambuilding, nech si vyvetráš hlavu.
+Čo ťa u nás čaká?
+• Práca pre firmu, kde na firemnej kultúre záleží a kde môžeš bez rozmýšľania každému tykať
+• Zaujímavé projekty na medzinárodnej úrovni a kreatívny tím plný technologických nadšencov
+• Pracovné prostredie s oddychovými zónami (sediacie vaky, PS4, stolný futbal, šípky)
+• Kurz anglického jazyka 1x týždenne priamo na pracovisku
+• Cvičenie jogy 1x týždenne
+• Fitness a outdoor športovisko (tenis, ping pong, futbal, basket) zdarma v priestoroch firmy plus možnosť zapojiť sa do programu MultiSport
+• Bohaté občerstvenie počas celého dňa – nápoje, denne čerstvé pečivo a ovocie
+• Pre kulinárskych fajnšmekrov možnosť uvariť si obed priamo vo firme (plne vybavená kuchyňa)
+• Finančný príspevok na stravovanie aj počas celodennej neprítomnosti
+• Firemné voľno nad rámec zákona počas vianočných sviatkov
+• Neobmedzené sick days podľa potreby
+• Home office podľa potreby a dohody
+• Flexibilný pracovný čas prispôsobiteľný individuálnym potrebám
+• Firemný multivan aj GoPro kamera na súkromné účely
+• Bezproblémové parkovanie
+• Riadený osobný rozvoj, odborné školenia, teambuildingy
+• Zaujímavé projekty, kreatívny tím a všetky potrebné školenia Informácie o výberovom konaníTáto pozícia je určená výhradne pre študentov od 5. ročníka vysokej školy technického zamerania. Práca bude vykonávaná na Dohodu o brigádnickej práci študenta, neskôr prechod na trvalý pracovný pomer. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímštudent vysokej školyJazykové znalostiAnglický jazyk - Stredne pokročilý (B2) a Slovenský jazyk - Expert (C2)Ostatné znalostiOOP  - ZákladyC# - ZákladySQL - ZákladyRest API - ZákladyRabbitMQ - ZákladyMicrosoft Visual Studio - ZákladyOsobnostné predpoklady a zručnostiAk sa rýchlo a rád učíš nové veci, orientuješ sa v IT technológiách, preferuješ prácu v tíme, dohovoríš sa po anglicky a máš systémové myslenie, pošli nám svoje CV! Inzerujúca spoločnosť Stručná charakteristika spoločnostiDatapac je firma, v ktorej sa skĺbila viac ako 20 ročná tradícia s inováciami. Hlavnou činnosťou je vývoj a implementácia retailového informačného systému pre siete maloobchodu, čerpacích staníc či gastro biznisu. Spravujeme infraštruktúry našich zákazníkov, zákaznícke systémy v oblasti retailu, datawarehouse a reportingu. V oblasti business intelligence a pokročilej analytiky držíme krok s najnovšími trendmi a technológiami. O našej kvalite vypovedá aj to, že v tom, čo robíme, sme veľmi silnou konkurenciou na európskom trhu. Počet zamestnancov50-99 zamestnancov 
+ID: 4400342 
+     Dátum zverejnenia:  30.1.2023 
+    2023-01-30
+lokalita: Bratislava   Pozícia: .NET programátor, C# programátor   Spoločnosť: Datapac s.r.o.   
+Základná zložka mzdy (brutto): 6 EUR/hod.
+                Všetky ponuky

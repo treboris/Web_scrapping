@@ -1,49 +1,40 @@
  Belépés ›
-.Net fejlesztő (Budapest)
-.Net fejlesztő (Budapest)
-A hirdetés már lejárt!
-HVG Kiadó Zrt.
+Mobiltelefon szerviztechnikus (Budapest)
+Mobiltelefon szerviztechnikus (Budapest)
+Jelentkezem az állásra ›
+Hadrianus Kft.
 Alapvető elvárások
+Karbantartás, szerviz
 IT, telekommunikáció
-3 - 5 év tapasztalat
+1 - 2 év tapasztalat
 beosztott
 Középfokú végzettség
-Felsőfokú végzettség
 teljes munkaidő
-távmunka, home office
-Naponta sok százezer ügyfelet kiszolgáló webes termékportfóliónkhoz, .NET csapatukba keresünk medior vagy senior tapasztalattal rendelkező fejlesztőt, aki egy devops team tagjaként alkalmas lehet a termékgazdával közösen gondolkodni és a meghatározott fejlesztési célokat megvalósítani.
-.Net fejlesztő
-Használt technológiák:
-C#, .NET, ASP.NET MVC, Web API
-JavaScript, TypeScript, jQuery, Vue.js
-MongoDB, PostgreSQL, MS SQL, ElasticSearch, Couchbase, Redis, RabbitMQ
-Docker, Swarm, Portainer
-GitHub, Git Stach, Sonar, Jenkins
-Minimum elvárások:
-A fenti technológiákban jártasság vagy nyitottság azok felvételére.
-A minimum tech stack:
-4 éves gyakorlati C# tapasztalat, ASP.NET MVC, SQL, Javascript, jQuery, Git
-Analitikus gondolkodás
-Precizitás
-Csapatmunka
-Kommunikációs készség
-Igényes munkavégzés
-Előnyök:
-Scrum / Kanban módszertani gyakorlat
-DevOps terület iránti érdeklődés és/vagy jártasság
-Distributed architecture / SOA / microservices
-Design Patterns
+Dinamikusan fejlődő, számítás-, és irodatechnikai valamint telekommunikációs eszközökkel foglalkozó cégünk részére keresünk fiatal csapatunkba új kollegát az alábbi munkakörbe:
+Mobiltelefon szerviztechnikus
+Munkakör:
+A cégünkhöz beérkező mobiltelefonok, tabletek és egyéb hordozható IT eszközök állapotfelmérése, karbantartása, javítása. Mobiltelefonok értékesítésében való részvétel.
+Feladatok:
+Mobiltelefonok és egyéb hordozható IT eszközök állapotfelmérése, javítása, karbantartása, tisztítása
+Mobiltelefonok árajánlatának kiküldése, eladott mobiltelefonok összekészítése, meglévő partnereknek való átadás, számla kiállítás
+Szervizelési munkák adminisztrációja
+Az értékesítés támogatása műszaki kérdésekben
+Napi egyeztetés a közvetlen felettessel
+Alkalmanként notebookok és egyéb hordozható IT eszközök állapotfelmérése, hardver szintű javítása, karbantartása, tisztítása
+A jelölttel szembeni elvárások:
+Középfokú műszaki végzettség
+Min. 1 éves, hasonló munkakörben szerzett tapasztalat
+Kiemelkedő műszaki érzék
+Gyors, precíz és pontos munkavégzés
+Önállóság
+Nagy munkabírás és monotónia tűrés
+Előny:
+ Több, mint 1 éves releváns tapasztalat
 Amit kínálunk:
 Versenyképes fizetés
-Érdekes szakmai kihívások
-Home Office
-Dedikált idő az önfejlesztésre, oktatásra
-Színvonalas, zöld munkakörnyezet
-State-of-the-art patterns, tools, architecture
-Legacy rendszerek folyamatos modernizálása, migrálása modern architekturális és infrastrukturális környezetbe
-Összetartó csapat
-Coding dojok, code review-k
-Közös sörözések, közös futás, csocsó
+Kellemes, családias munkahelyi környezet
+Stabil szervezeti háttér
 Munkavégzés helye:
-Budapest
+Budapest, X. kerület
+Jelentkezem az állásra ›
 Neked ajánlott állások

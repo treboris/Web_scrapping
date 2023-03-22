@@ -1,0 +1,34 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceMid/Senior Full Stack Developer 
+Mid/Senior Full Stack Developer
+Place of work
+Framborská, Žilina, Slovakia (Job with occasional home office)
+Start date
+ASAP/by agreement
+Contract type
+full-time, trade licence
+Salary
+1 900 EUR/monthFrom 1900€  brutto/month + variable bonus*We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions. Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+About us
+SiemensWe are a technology company focused on industry, infrastructure, transport, and healthcare. By combining the real and the digital worlds, we empower our customers to transform their industries and markets, helping them to transform the everyday for billions of people.Job description, responsibilities and dutiesWe are looking for a senior full-stack developer for a project creating cloud-based solution for optimizing of costs related to maintenance of assets in buildings – offices, hospitals, hotel chains, etc. You will be working with cutting edge technologies in a scrum team which closely collaborates with teams in Switzerland and Germany. Our goal is to implement a highly responsive, scalable and secure solution with attractive look & feel which will be used across the world by our external customers – facility managers.https://youtu.be/lVOLLK3iew4At Siemens we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow‘s reality. Find out more about the Digital world of Siemens here: www.siemens.com/careers/digitalmindsIn this role you will be responsible for:• Analysis, design and implementation of front-end, backend and cloud infrastructure features• Implementation of unit tests for your code• Document your design and code• Participate on scrum events – daily stand-up, demo, retrospective, planning• Communicating with product management and team members from other teams about interfaces and dependencies• Coaching of junior team membersWe expect:• Experience in software development projects• Object oriented analysis, design and implementation• Knowledge of design patterns• Working experience with Java SE• GIT SCM (or similar source code management system)• User level of project tracking tool (Jazz, JIRA, …)• Experience and willingness to work in agile environment
+            Required education, skills and personality requirements
+Required educationSecondary with school-leaving examination
+Educational Specialization
+                ITLanguage skillsEnglish - Upper intermediate (B2)
+Number of years of experience
+                3Nice to have• Working experience with JEE (Spring Boot, Spring Security)• Angular 2+ (TypeScript)• UML• SQL
+                We offer
+                •	Work-life balance - flexible working hours and hybrid working model•	Free pool parking•	Bridge days (generally 5 days /year), Sick days (3 days /year), additional paid leave•	Sick leave compensation (up to 100% of salary, generally 20 days/year)•	Working with newest technologies + all projects run in agile methodology (we use SAFe)•	You can attend various international conferences (e.g., AWS)•	Cafeteria system – BenefitPlus generally 300 points/€•	Financial benefits –employee refferal bonus (up to 2 000€), childbirth bonus, contribution for attending a preschool facility (within Cafeteria system - BenefitPlus), payment of entry fee of representative sports activities•	Discounts for employees (banking services, electronics, computer technology, language courses, vacation stays)•	Contribution to 3rd pillar pension - progressive with length of employment (up to 3%)•	Share Matching program - after the employment trial period - opportunity to invest in the purchase of Siemens shares•	HEALTHY BACK PROGRAM = we offer ergonomic workplace (an electrically operated sit-stand desk, ergonomic chairs)•	Wellbeing program, Health Day , team-building program•	Employee loans - for employees with an employment relationship of more than 3 years•	2 SIM cards with discounted employee flat rate also for family members•	Work in a socially responsible company with the opportunity to participate in charitable projects•	We will support you! (Trainings, certificates, development internally and externally with individual approach based on your needs and request)•	Work anniversary present and life anniversary contribution•	Valuable gift on the occasion of retirement
+Send CV
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+viac informácií
+ID: 4017299 
+     Dátum zverejnenia:  2.3.2023 
+    2023-03-02
+lokalita: Žilina   Pozícia: Java Programmer, Javascript Programmer, Software Engineer   Spoločnosť: Siemens Slovensko   
+Základná zložka mzdy (brutto): 1 900 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

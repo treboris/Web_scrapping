@@ -1,0 +1,40 @@
+ Belépés ›
+Operation Manager Agile (PowerPlatform) (REF1408G) (Budapest)
+Operation Manager Agile (PowerPlatform) (REF1408G) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Operation Manager Agile (PowerPlatform) (REF1408G)
+We are looking for you as Operations Manager Agile to support our team for operations with a focus on PowerPlatform!
+If you would like to work on tasks below, don't hesitate to apply!
+Operations and Engineering for Power Platform
+Creating, reading and evaluating monitoring information of the Power BI Platform (number of API requests, connection via On DataGateway etc)
+Monitoring of the PowerBI Platform with the help of the Center of Execllent Starter Kit
+Creation and implementation of own reporting for the evaluation of operational monitoring information
+Knowledge of the Power BI infrastructure (Power BI Shared, Premium, embedded), creation of simple data sources and workspaces
+Knowledge of connecting OnPrem DataGateway, incl. troubleshooting and monitoring of operating parameters
+Basic knowledge in creating reports
+Implementing architecture concepts on the PowerBI infrastructure
+Performing administrative tasks on PowerBI, such as creating workspaces, assigning licences, etc.
+Troubleshooting the Power BI infrastructure together with customer representatives.
+Communication with Microsoft support
+You can apply to this position, if you have some experience in using all of the following tools:
+Experience and knowledge in the Microsoft technology world 
+Basic experience in Office / M365, at least as a user of the services.
+Understanding in user management of M365. Azure ActiveDirectory / use of AzureActive Directory groups.
+Basic knowledge of PowerShell, such as installing modules, running scripts.
+Basic knowledge of Cloud.( SaaS, PaaS, IaC etc).
+Basic knowledge of Azure.Cloud technology. (-> what is sub scripting, what is VM etc.. )
+Languages: English; German is an advantage
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások

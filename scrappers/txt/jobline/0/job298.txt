@@ -1,0 +1,40 @@
+ Belépés ›
+Software Engineer - DevSecOps (Budapest)
+Software Engineer - DevSecOps (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Software Engineer - DevSecOps
+About Our Partner:
+Our multinational partner, in order to become the most technology-driven airline in the world, is looking for a talented software engineer specialized in DevSecOps.
+Tasks:
+Build, migrate, implement and maintain environments and key technologies for COTS/SAAS apps by using the IaC principles, showing leadership towards OPS- & Security teams, and collaborate with the development team on the continual process improvement.
+Build, implement and maintain CI/CD pipelines and its processes to support development teams with automated testing and security scanning while keeping an eye on FinOps.
+Support the migration of our critical-, but also legacy landscape from on-premises to the Azure and Google Cloud environment in line with our strategical objectives. Experience with migrating COTS to SAAS is a pre.
+Design and implement the overall architecture aligned with other self-engineered products to deliver.
+Take care of specification, design, engineering, testing, delivery, maintenance, monitoring, and support of the IaC landscape.
+Requirements:
+Preferably Bachelor degree or higher in Computer Science, Software Engineering or other relevant fields.
+Minimum of 5 years of professional experience with engineering CI/CD pipelines on-premise and/or Azure/GCP environments.
+Minimum of 5 years of professional experience in performing and automate COTS/SAAS environments by using the IaC and monitor everything principles, while industrializing environments.
+Knowledge of CI/CD techniques and tooling (e.g., k8s, GitHub Actions, Bamboo, Jenkins, Git, etc.).
+Proficient with automation tooling, configuration management and problem finding.
+Experience with bringing enterprise applications to production and supporting development teams.
+Experience in coaching and knowledge sharing to familiarize teams with DevSecOps best practices.
+Knowledge with and experience in agile way of working (e.g., SAFe, Scrum, Agile).
+Great communication skills, written and spoken (English) and team spirit.
+This role requires participation in our on-call support rotation.
+Available to come to the office 3 days a week, there are no formal rules about work from home yet, but most teams have a hybrid way of working.
+Advantages:
+Preferable being a certified Cloud DevOps Engineer for Azure / GCP / AWS
+Experience in the developer- / infra related role in previous jobs
+Munkavégzés helye
+Pest, Pest
+Jelentkezem az állásra ›
+Neked ajánlott állások

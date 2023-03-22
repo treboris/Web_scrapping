@@ -51,10 +51,8 @@ def conn(limit_txt,limit):
     html = driver.page_source
     soup = BeautifulSoup(html,"html.parser")
     return soup
-print(page_number())
 
 page = round(float(page_number()/20))
-print(page)
 
 
 
@@ -113,25 +111,9 @@ for y in range(0, list_size):
     datee.append(date)
 
 
-print(salary)
-print('==================================')
-print(location)
-
-print(len(location))
-print(len(href))
-print(len(datee))
-print(len(corp))
-print(len(main))
-print(len(id))
-print(len(salary))
-print(main[-1])
-print(href[-1])
-print(corp[-1])
-print(salary[-1])
-print(location[-1])
 
 
-#save_data = Save(f'Professia_{date}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
+save_data = Save(f'professia1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
 
 
 

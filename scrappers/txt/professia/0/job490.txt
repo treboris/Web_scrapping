@@ -1,0 +1,36 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Data Engineer  Можливість для людей з України
+#GoStability
+#GoPurpose
+#GoGrowth
+Senior Data Engineer
+Apply now and grow within a rapidly evolving company. GoHealth Slovakia is looking for you.
+GoHealth is looking for a Senior Data Engineer to become part of our team. We produce a lot of data every day, and we need you to help us build systems that can process that data, providing every part of our business the data it needs to get their job done.
+Possibility of working remote (anywhere in Slovakia)/on-site in our Bratislava or Košice office.
+Salary3 500 - 5 000 EUR/monthOffered salary varies based on relevant experience and skills. From 2600 EUR/m for a Mid-level and from 3500 EUR/m for a Senior position. Plus: Annual Salary Bonus based on individual & company performance.
+Your roleYou will be responsible for the design, development, and delivery of its various batch and streaming data pipelines. We are seeking candidate who has a strong software development background and experience with BigData frameworks/projects, data streaming, batch processing. In this role, you will work with other members of Engineering, Product and Project Management, and various business groups to ensure timely availability of usable data to all parts of the business that need it. You will primarily report to your Technical Lead.You will     Design, develop and deploy batch and streaming data pipelines.     Monitor and ensure operational stability of data pipelines.     Design and build replacement ETL system onto S3 + RedShift + AWS Glue + DBT + Astronomer (greenfield development).     Maintain legacy ETL system built on SqlServer + SSIS + Airflow until it is retired.     Create and maintain documentation of the technical detail design, operational support and maintenance procedures for all data pipelines.     Ensure data quality and compliance with development, architecture, reporting, and regulatory standards throughout entire data pipeline.     Collaborate with the rest of the Engineering Team, subject matter experts and department leaders to understand, analyze, build and deliver new data-related processes and/or reports.
+15 years of experience
+For nearly 15 years, we’ve partnered with the biggest tech brands to get their ideas to market faster. As a leader in providing technical solutions in health insurance mediation, we have a robust digital platform that covers the entire life cycle of customers and helps millions of customers access affordable health insurance. We work with the cutting-edge technologies and tools, prize collaboration in all that we do, and push the boundaries with every new project.
+Our technology plays a key role in our growth, and we are systematically modernizing our technological stack. We’re committed to growing a team of well-rounded engineers, operating software in a production environment and building easily maintainable software. That’s where you come in.
+Required Skills
+     Bachelor’s Degree in computer science or equivalent experience required.     6+ years of experience in the design and development of data pipelines and tasks.     Strong analytical and problem solving ability with strong attention to detail and accuracy.     Understanding of data warehousing concepts and dimensional data modeling.     Hands-on experience with troubleshooting performance issues and fine tuning queries.     Experience extracting data from relational and document databases.     Experience consuming data over HTTP and in formats such as HTML, XML, and JSON.     Knowledge of and experience with a version control system (such as Git, Mercurial, SVN, etc).     Proficiency in Java, Python, C# or C++ programming languages.     Familiarity with data warehousing platforms, such as Redshift, Snowflake, SQL Server, etc.     Written and spoken communication skills in English (B2 category)We are an equal opportunity employer, and we're dedicated to building an inclusive working environment. Frequently cited statistics show that women and underrepresented groups apply to jobs only if they meet 100% of the qualifications. GoHealth encourages you to break that statistic and to apply. No one ever meets 100% of the qualifications. We look forward to your application.
+Apply nowIf you are ready to play an important role in an upwardly mobile, innovative product development company, this is your opportunity to leverage and grow your unique strengths, talents and skills.
+Apply now
+Follow us on your  favorite social network
+Bratislava 
+                            Nivy TowerMlynské Nivy 5
+                            821 09 Bratislava
+Košice 
+                            Hviezdoslavova 6, 
+                            040 01 Košice
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4515534 
+     Dátum zverejnenia:  9.3.2023 
+    2023-03-09
+lokalita: Remote work   Pozícia: Business Intelligence Specialist, Java Programmer, Programmer, Python Programmer, Software Engineer   Spoločnosť: GoHealth, s. r. o.   
+Základná zložka mzdy (brutto): 3 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

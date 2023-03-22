@@ -1,0 +1,44 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceNode.js Developer 
+    Reagujte bez životopisu
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyNode.js DeveloperAdvantage Consulting, s.r.o.
+Místo práce
+Brno, Česko (Pozice umožňuje občasnou práci z domu)
+Druh pracovního poměru
+plný úvazek, živnost
+Informace o pracovním místě Náplň práce, pravomoci a zodpovědnosti* vývoj webového OS na platformě Node.js
+* využíváme cloudové řešení
+* multiplatformní server, běží zkrátka všude
+* generické UI řízené objektovým modelem, máme jednotné UI pro všechny platformy
+* podpora synchronizace a offline režimu
+* aplikace z oblastí CRM, ERP, DMS, ..
+* podpora vícero databází
+* běžíme na REST api Zaměstnanecké výhody, benefity* možnost kariérního postupu
+* zázemí stabilní a úspěšné firmy v Brně, mladý a přátelský kolektiv
+* lukrativní finanční ohodnocení + prémie dle výkonů
+* flexibilní pracovní doba, home office dle domluvy
+* zaškolení při nástupu, průběžné vzdělávání, jazykové kurzy
+* firemní akce, sick days, stravenky, nápoje, občerstvení a další..
+* typ úvazku: HPP, po domluvě možnost i jiné formy spolupráce
+* pracoviště Brno - centrum Informace o náboruZaujala Vás tato nabídka práce? Pokud ano, zašlete svůj životopis na emailovou adresu [email protected]ěšíme se na konzultaci s Vámi!Společnost, pro kterou je pozice obsazovánaInformační technologie, počítačové programování, webové portályStabilní a prosperující firma. Požadavky na zaměstnance Pozici vyhovují uchazeči se vzdělánímstředoškolské s maturitou
+nástavbové/vyšší odborné vzdělání
+student vysoké školy
+vysokoškolské I. stupně
+vysokoškolské II. stupněPozice je vhodná pro absolventaAnoOsobnostní předpoklady a dovednosti* zkušenost s programováním webových aplikací
+* pokročilou znalost JavaScriptu (Node.js velkou výhodou)
+* zkušenost s relačními databázemi (jazyk SQL)
+* zkušenost s GITem
+* pozitivní přístup k pracovním úkolům, flexibilitu
+* komunikativnost, kreativitu, schopnost týmové i samostatné práce
+* alespoň základní úroveň angličtiny Inzerující společnost Stručná charakteristika společnostiOd roku 2002 pomáháme uchazečům o zaměstnání s jejich uplatněním na trhu práce. Vytváříme společnost, které si váží nejen klienti, zaměstnanci, ale i veřejnost. 
+Zakládáme si na tom, že naši konzultanti jsou odborní partneři, kteří dokáží pomoci v oblasti kariérního života. 
+Naše odborné divize se specializují na tyto obory: ICT, Engineering, Electro & Energo, Sales & Logistics, Finance, Chemistry a Manufacturing.
+Více než 1700 otevřených pracovních pozic v rámci celé České republiky naleznete na našich stránkách www.acjobs.cz.
+Těšíme se na případnou konzultaci s Vámi. Počet zaměstnanců50-99 zaměstnanců 
+ID: 4514573 
+     Dátum zverejnenia:  6.2.2023 
+    2023-02-06
+lokalita: Brno   Pozícia: IT architekt, Programátor Javascript, Softwarový inženýr, Specialista technické podpory/IT   Spoločnosť: Advantage Consulting, s.r.o.   
+                Všetky ponuky

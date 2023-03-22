@@ -1,0 +1,47 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSkúsený JAVA/Scala developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Skúsený JAVA/Scala developerSOFTEC
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 000 EUR/mesiacOd 2 000,- €/mes. + variabilná zložka mzdy + ďalšie benefity; Sme pripravení ohodnotiť aj vysokú úroveň skúseností a výkonu.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiNáplň práce, právomoci a zodpovednostiDo Scala tímu hľadáme proaktívneho a samostatného človeka, ktorý by sa rád podieľal na vývoji riešenia určeného pre oblasť zdravotníctva vyhodnocujúceho štatistické dáta a predikujúceho rôzne situácie.Čo budeš robiť?navrhovať a vyvíjať aplikačnú logiku v jazyku Scala/JAVA;podieľať sa na vývoji aplikácií prostredníctvom najmodernejších technológií;podporovať implementované riešenia, upravovať ich a rozširovať;úzko spolupracovať s analytikmi, testermi a ostatnými členmi tímu;poskytovať podporu kolegom pri písaní unit, integračných alebo záťažových testov a overovaní korektného správania komplexných systémov. Zamestnanecké výhody, benefityČo ti ponúkame?Vývoj v odbornom kolektíve.Práca na kritických Big Data systémoch, ktoré vedú k zefektívneniu práce pracovníkom v danej oblastiKariérny rast a rozvoj – zdieľanie najnovších IT trendov prostredníctvom komunítZaujímavý benefitný systém formou KafetérieZázemie stabilnej spoločnostiZmluva na dobu neurčitúPriestory najzelenšej kancelárskej budovy na Slovensku s veľkou terasou, oddychovými zónami a cyklomiestnosťou Informácie o výberovom konaníAk ťa ponuka zaujala, radi si prečítame tvoje CV spolu s motivačným listom. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformatikaOsobnostné predpoklady a zručnostiKoho hľadáme?hľadáme človeka, ktorý sa dokáže nadchnúť pre úlohu a riešiť ju, samostatnosť a proaktivita je preto neodmysliteľnou súčasťou;ovládaš, alebo si počul o Akka frameworku (Akka http, Akka Stream), príp. o inom Actor based model;máš aspoň čiastočné znalosti návrhu architektúry cez micro služby a event sourcing;je výhodou ak poznáš NoSQL a technológie ako Kafka, Mongo;hovorí ti niečo Continuous integration a Jenkins?ovládaš JAVU a máš záujem naučiť sa Scalumáš chuť učiť sa, pretože dôležité je pre nás chcieť, ak s niečim nemáš skúsenosti, radi ťa to doučíme vďaka mentorom a skúseným kolegom. Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme softvérovo-konzultačná spoločnosť, spolu nás je už vyše 400 a neustále rastieme. Určite radi privítame do tímu aj teba. Neboj sa, nehodíme ťa do vody, aby si sám plával. 
+Ak si junior, tak ako každý nováčik u nás, budeš aj ty na začiatku zaradený do útvaru Akadémia a bude ti pridelený tútor, ktorý ťa bude viesť a pomáhať ti so zadanými úlohami. Následne, keď budeš na to pripravený, po mesiaci až dvoch, začneš pracovať na reálnom projekte. Mladým talentom vytvárame inšpiratívne podmienky pre profesionálny i osobnostný rozvoj a vzdelávanie. 
+Pri medioroch a senioroch je priebeh zaškoľovania primeraný ich aktuálnym znalostiam a taktiež s podporou prideleného tútora. Pracujeme s technológiami ako napríklad Angular, Java, .NET, React ale aj vlastnými ako napr. JavaTec. 
+Sídlo spoločnosti máme v Bratislave v budove Einpark - najzelenšej kancelárskej budove na Slovensku, ktorá vďaka svojim udržateľným princípom získala viacero certifikátov. Naše ďalšie pobočky máme v Prahe, Prievidzi a v Žiline.
+Od iných firiem sa líšime hlavne tým, že pojmy rodinná a príjemná atmosféra nie sú pre nás iba prázdne slová, ale je to reálny motivátor našich zamestnancov. Dokazujú to aj naše interné prieskumy spokojnosti, fluktuácia nepresahujúca dvojciferné číslo, stabilné tímy, naši dlhoroční kolegovia a nakoniec aj samotné pravidelné umiestnenie medzi najlepšími zamestnávateľmi. Tento rok nás opäť neminulo ocenenie od Profesie a sme medzi top 10 najzamestnávateľmi na Slovensku v oblasti IT. Naša pobočka v Bratislave nedávno získala ocenenie Office roka 2021 – Zdravá kancelária, pričom k tomuto rozhodnutiu, ako uviedla samotná porota, prispela tiež rodinná atmosféra, ktorú v našich officoch cítili.  
+Máme prepracovaný benefitný systém, ktorý ponúka množstvo zaujímavých výhod ako napríklad:
+•	penzijné zabezpečenie/ 3. pilier DDS
+•	dni dovolenky navyše pre všetkých podľa levelu seniority     
+•	Kafetéria       
+•	príspevok na technologickú vychytávku (na pracovné vybavenie)
+•	podpora zdravotnej starostlivosti
+•	finančný príspevok na jazykové vzdelávanie 
+•	pôžička na riešenie bytovej situácie 
+•	referral program
+•	lifestyle aktivity - ranné cvičenia jogy, zdravý chrbát, webináre a pod.
+•	oddychové zóny, cyklomiestnosť
+•	parkovanie, auto na operatívny leasing
+•	home office (napriek tomu chodí mnoho našich kolegov do práce pretože sa chce stretávať s ostantnými) 
+•	letná a zimná Softecovica, divízovice, detský Mikuláš
+•	tematické týždne – nanukový, ovocný, zdravý a pod.
+•	skupinové športové aktivity – maratóny a bežecký klub, florbal, volejbal a ďalšie
+Chceš sa o SOFTEC-u dozvedieť viac? Klikni na našu webstránku a pozri si naše aktuálne otvorené pozície: https://www.softec.sk/pracovne-ponuky/ Počet zamestnancov250-499 zamestnancov 
+ KontaktE-mail: poslať životopis
+Všetky ponuky spoločnosti
+ID: 4512265 
+     Dátum zverejnenia:  1.2.2023 
+    2023-02-01
+lokalita: Bratislava   Pozícia: Java programátor, Programátor   Spoločnosť: SOFTEC   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+                Všetky ponuky

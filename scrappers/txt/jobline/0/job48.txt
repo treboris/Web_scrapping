@@ -1,0 +1,38 @@
+ Belépés ›
+Experienced/Senior Data Engineer (REF1343L) (Budapest)
+Experienced/Senior Data Engineer (REF1343L) (Budapest)
+A hirdetés már lejárt!
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+A Deutsche Telekom IT Solutions (korábban IT Services Hungary, ITSH) Magyarország legnagyobb IKT-munkaadója, a Deutsche Telekom Csoport tagja. A 2006-ban alakult, több mint 5000 fős cég az informatikai és telekommunikációs szolgáltatások széles körét nyújtja. A vállalat 2019-ben elnyerte a Nemzeti Befektetési Ügynökség (HIPA) legjobb oktatási együttműködésért járó díját, a PwC Magyarország független felmérése alapján a legvonzóbb magyarországi munkahelyek közé tartozik, és a legetikusabb multinacionális vállalat címét is megkapta. A cég folyamatosan fejleszti négy – budapesti, debreceni, pécsi és szegedi – telephelyét, és várja képzett informatikai szakemberek jelentkezését a csapatába.
+Experienced/Senior Data Engineer (REF1343L)
+Tegnaptól keresünk egy tapasztalt Data Engineert, aki a nagy adatmennyiségek hatékony feldolgozásában érzi otthon magát!
+Ha már bizonyítottál korszerü Data Plattformokon, néhéz kihívásokkal is megbírkoztál SPARK-ban és tovább szeretnél fejlődni új technológiákban egy nemzetközi Projekten, akkor beszéljünk egymással. A Projekteinkben a Data Engineer pozicióban agilis módszertan alapján egy nemzetközi Projektcsapatban széleskörü feladatok várnak rád:
+Data Pipeline-ok fejlesztése.
+Job Monitoring.
+Adatminőség ellenőrzése
+Hibaanalizis, hibás transformációk javitása
+Támogatás architekturális döntésekben
+Elvárások:
+Tapasztalat Big Data fejlesztés területén (Min. 3 év).
+Tapasztalat min. egy Hyperscaler-Platformon (pl. Azure, AWS vagy GCP)
+Spark keretrendszer alapos ismerete
+Korszerü fájlformátumok ismerete (pl. ORC, AVRO, Parquet / Delta-Parquet)
+Tapasztalat CI/CD ezközökkel előnyös (pl. Azure DevOps, Git)
+Tapasztalat IAC ezközökkel előnyös (pl. Pulumi, Terraform)
+Java vagy Scala vagy Python ismeret
+angol vagy német nyelvtudás
+ügyfél- és minőségorientált munkavégzés
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Neked ajánlott állások

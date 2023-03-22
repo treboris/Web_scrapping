@@ -1,0 +1,54 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJunior PHP web developer/ developerka v ui42 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyJunior PHP web developer/ developerka v ui42ui42 spol. s r.o. | e-commerce one-stop shop
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+asap alebo dohodou
+Mzdové podmienky (brutto)
+1 400 - 2 000 EUR/mesiacpodľa úväzku/ hodín, skúseností a formy spolupráce
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiToto je príležitosť pridať sa k mega tímu, odborne aj ľudsky na úrovni. 
+- Back-end Full-stack PHP vývoj, eshopy v našom CMS Buxus založenom na frameworku Laravel, ale aj weby a aplikácie
+- aplikujeme technológie ako PHP 8, Laravel, redis, SOLR, elasticsearch, beanstalkd
+- používame continuous deployment, code reviews, unit a selenium testy
+Keď si ťa vyberieme, bude to vyzerať takto:
+1. ujme sa ťa seniorský mentor+ 2-3 ďalší skúsení kolegovia ti budú k dispozícii, aby vysvetlili, pomohli, povzbudili
+2. chvíľu nebudeš za nimi stíhať, ale krivka učenia v tomto tíme pôjde prudko hore
+3. počas prvých troch mesiacov dáme aspoň 2 stretnutia, ako sa ti darí a s čím potrebuješ pomôcť+ prvý feedback na tvoju prácu
+4. projekty sú rôznorodé a niekedy technicky náročné, preto je táto ponuka splneným snom najmä pre tých, ktorí sa nikdy nechcú prestať zlepšovať
+5. v článkoch na našom blogu opisujeme výnimočné technológie a komplikované problémy, ktoré riešime, a keď chceš vedieť viac o ľuďoch v ui42, mrkni videá Zamestnanecké výhody, benefityV ui42 ponúkame:
+- odborne aj ľudsky skvelý tím, do ktorého ľahko zapadneš
+- otvorenosť nielen v komunikácii ale aj k tvojim nápadom a veľký priestor na rast, keď spolu zistíme, v čom je tvoj naj talent
+- férový model odmeňovania, kde hornú hranicu určujú výsledky, vrátane možnosti získania podielu na zisku firmy
+- flexibilný pracovný čas, pretože si ceníme work-life balance
+- homeoffice alebo kombinovaný spôsob práce, podľa tvojich potrieb
+- pravidelné firemné akcie, grilovačky, raňajky a legendárne víkendy
+- multi-sport kartu, bedminton..alebo radšej poker?
+- čerstvé ovocie, dobrá káva a čaj v našom sídle na Haydnovej 20/B
+- 2 letné terasy a zelené prostredie Horského parku
+Uvítal/a by si niečo navyše? Dobrým nápadom radi dávame zelenú. Informácie o výberovom konaníPošli CV e-mailom na uvedenú kontaktnú adresu, ak pridáš ukážky svojej práce, máš výhodu.
+Prilož prosím aj súhlas so spracovaním vašich osobných údajov podľa zákona 428/2002 Z.z.
+Ak zaujmeš, ozveme sa do 5-ich pracovných dní telefonicky, v opačnom prípade dostaneš poďakovanie mailom. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiPHP - PokročilýHTML - PokročilýMySQL - PokročilýJavaScript - PokročilýAdministrácia UNIX/Linux - ZákladyOsobnostné predpoklady a zručnostiHľadáme navyše aj:
+- skúsenosti s open-source PHP MVC frameworkami
+- znalosť google technológií
+- samostatnosť a iniciatívu pri riešení problémov Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme one-stop shop webová agentúra zameraná na e-commerce. Venujeme sa:
+• programovaniu a testovaniu webov, webových aplikácií a e-shopov (B2B aj B2C),
+• UX/UI dizajnu, testovaniu použiteľnosti,
+• performance marketingu (SEO, PPC),
+• vývoju digitálnych produktov - najnovšie odporúčací nástroj Recommendations, ktorý je založený na AI a náš chatbot.
+Stáli sme pri zrode takých úspešných projektov ako Profesia alebo Slovenská User Experience Asociácia (SUXA). 
+Dodnes vyvíjame prvý slovenský CMS systém BUXUS, priniesli sme na slovensko World Usability Day, vytvorili sme prvý UX lab, ktorý spĺňa všetky medzinárodné štandardy. 
+Sme členom Asociácie digitálnych marketingových agentúr (ADMA) aj slovensko.digital. 
+Venujeme sa aj vzdelávaniu na slovenských univerzitách, konkrétne na FIIT STU a FMFI UK, sme častými speakrami na rôznych konferenciách. So Slovenskou sporiteľňou organizujeme pre e-shopy a verejnosť online konferenciu Website Story. Počet zamestnancov50-99 zamestnancov 
+ID: 3939822 
+     Dátum zverejnenia:  9.2.2023 
+    2023-02-09
+lokalita: Bratislava   Pozícia: IT architekt, IT projektový manažér, PHP programátor, Programátor   Spoločnosť: ui42 spol. s r.o. | e-commerce one-stop shop   
+Základná zložka mzdy (brutto): 1 400 EUR/mesiac
+                Všetky ponuky

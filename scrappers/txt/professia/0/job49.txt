@@ -1,0 +1,53 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava Developer  
+Java Developer Sygic, a. s.
+Place of work
+Sygic, Mlynské nivy, Bratislava, Slovensko (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 000 EUR/monthMin 2 000 - 4 000 EUR / gross monthly + additional remuneration
+Information about the position Job description, responsibilities and dutiesCustomer Identity and Access Management (CIAM) is a one of the key components of all applications of Sygic and Eurowag. Managing customer identities and access efficiently enables us to connect Fleets with all digital and physical services offered by all our products.
+In 2023 YOU will participate on the following initiatives:
+- Build and setup federalized identity – enable multiple daughter companies to share customer base
+- Work on a solution that doesn’t end with CIAM but also manages entities, users and assets
+- Integrate customers from newly acquired companies
+- Migrate existing customer base to new system that will be designed and built with your help
+- Streamline the authentication and access management and reducing friction in the customer journey Employee perks, benefitsWE TAKE GOOD CARE OF PEOPLE, AND OUR BENEFITS ARE A PERFECT PROOF OF THAT:
+- Choose your benefits up to 1000 EUR. Flexible benefits scheme from Benefit plus program, where you choose your preferred products/services such as meal voucher card, pension contribution, books, technology, sport, culture, travel, extra health services and pharmacy products, holiday, children camps, and much more.
+- Enjoy company events: hackathons, all-hands meetings, joint breakfasts, Christmas parties, summer teambuilding, and others.
+- We support your mental health. If there is anything you want to discuss with a mental health professional, we offer free, anonymous psychological counseling with experts.
+- Extra contribution and days off in case of significant life events.
+5 weeks of holidays plus 3 health days per year.
+- Paid leave for volunteering towards a good cause or charity of your choice.
+- A bonus scheme based on your performance.
+- Flexible working hours with regular home office option; remote work is possible.
+- We are all on a first-name basis, we don't do dress codes, and you can usually meet 4-legged friends here as our office is pet friendly.
+- We are seated in one of the most beautiful offices in Slovakia. More than 95% of our employees are proud to bring visitors and show them around.
+- When you come to the office, a good chair and a height-adjustable table will await you to make your workday more comfortable.
+- Beautiful terrace with a grill that you'll love chilling on.
+- Free coffee, tea, and breakfast cereals go without saying. Our fully equipped kitchen is also at your disposal. Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skills- Bachelor's or master's degree in computer science, information technology, or a related field.
+- Strong experience in Java development and a solid understanding of Java-based CIAM solutions.
+- Proven experience in designing and developing Java-based applications.
+- Strong understanding of CIAM protocols and technologies, such as OAuth 2.0, OpenID Connect, and SAML.
+- Proficiency in English (both written and oral).
+- Strong communication and teamwork skills, with the ability to work effectively in a cross-functional team.
+- Strong analytical and problem-solving skills, with the ability to troubleshoot and debug complex issues.
+- Understanding of relational database management systems (RDBMS). Advertiser Brief description of the companyWe are Sygic; we have been changing the way people travel since 2004. We connect smartphones with cars, navigate you home, make sure of your safety, and navigate fleets worldwide. 
+We are known for the Sygic GPS Navigation mobile application, the first navigation app on the Appstore and the second on Google Play, but today we are much more! After all these years, we extended, but the focus and start-up mentality remains. We became part of the Eurowag group in 2019, and now, we are happy to work on products that connect both visions into one. Together we work to simplify the life of fleet companies worldwide. 
+Our users are considered part of the Sygic and Eurowag development family. We listen to their suggestions and try to ensure that our product still brings them added value. Number of employees200-249 employees ContactContact person: Zuzana MojžišíkováE-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4523739 
+     Dátum zverejnenia:  20.2.2023 
+    2023-02-20
+lokalita: Bratislava   Pozícia: Java Programmer   Spoločnosť: Sygic, a. s.   
+Základná zložka mzdy (brutto): 2 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

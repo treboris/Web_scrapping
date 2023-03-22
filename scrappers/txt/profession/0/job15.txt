@@ -23,40 +23,61 @@ Hirdetésfeladás
 Regisztráció
 Belépésálláskeresőknek
 IT Operation, Telecommunication
-Network and System Engineer
-Budapest
-CEM - Platform Maintenance Engineer (Budapest – GSC Hungary)
-Bónusz
-Huawei Technologies Hungary Kft.
-Budapest
+Corporate Management System, SAP
+Regionális 
+Következő 
+Inhouse Consultant SAP PP (remote)
+OTTO FUCHS Hungary Kft.
+Anywhere nationwide
+ Elvárt technológiák
+SAP
+ABAP
+SECURITY
+ Módszertanok és szoftverek
+Project management.
+SAP
+Biztosított eszközök
+Laptop
+Mobiltelefon
 Jelentkezem
 Mentés
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Alkalmazotti jogviszony
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
 Általános munkarend
 Elvárások:
-Angol felsőfok
-1-3 év szakmai tapasztalat
-Középiskola
+Angol középfok vagy
+Német középfok
+3-5 év szakmai tapasztalat
+Főiskola
 Juttatások
+Mobiltelefon
 Cafeteria
-Munkába járás támogatás
-Egészségbiztosítás
-CEM - Platform Maintenance Engineer (Budapest – GSC Hungary)
-New ideas are all around us, but only a few will change the world. Are you a change maker interested to be part of this opportunity?
-The Telecommunications landscape is in a constant flux of change. For telecommunication professionals, knowledge and competence is vital in this ever-changing industry.
-Huawei has a dynamic and multicultural environment, in the great step of opening of a new technical hub in Budapest, Hungary market.
-At Huawei we are looking for people who share our vision: to enrich life through communication. We are offering a challenging position, the opportunity to grow and expend your knowledge through daily interaction with skilled engineers located all over the world.
-What you will be working on:
-Perform daily inspection to proactively find and resolve problems.Assist the frontline in outputting reports such as the HCT report every week, check the hardware health report and system performance report, find risks before problems occurring.Familiar with the relationships between platform components and the service and data processes of the platform.Locates and resolves major problems of the platform and database.Responsible for customer communication and team skill improvement;
-What you have to bring with you is:
-Familiar with CS, PS, IMS Core Network, NE, signaling flow. Able to do service troubleshooting; Be familiar with the Linux/Unix system, Shell language and be able to compile simple shell scripts;Have a good command of the SQL language. Have general knowledge of mainstream databases in the industry, such as Oracle, SybaseIQ, and Postgres.Understand big data and be familiar with Hadoop open-source components. Be familiar with big data databases, such as Impala, Hive, and HBase, and the Yarn and MR mechanisms;Very good English skills;Open to overtime, possible overnight.Nice to have: French, Spanish
+ Elvárt technológiák
+SAP
+ABAP
+SECURITY
+ Módszertanok és szoftverek
+Project management.
+SAP
+Biztosított eszközök
+Laptop
+Mobiltelefon
+OTTO FUCHS Hungary Kft.
+Inhouse Consultant SAP PP (remote)
+OTTO FUCHS - We shape the futureExperience. Knowledge. Progress.Flights into space, worldwide transportation of people and international transport of goods, high technology in mechanical engineering, the shaping of large cities by modern architecture ...OTTO FUCHS is represented everywhere with ideas, products, and solutions.
+Task:
+As an in-house consultant, you will be responsible for the comprehensive support and further development of the SAP PP module and connected sub-systems.The implementation of adjustments in the SAP PP environment is part of your day-to-day businessYou act as a consultant between the individual plants and are a competent contact person for module-related issuesYou will be involved in national and international SAP projects and will be responsible for planning and implementing various sub-projects in the SAP PP environment, including project management. Your tasks include the analysis of processes in the area of production as well as their further development and optimization You will implement the design in the planned S4/HANA implementation project
+Expectation:
+You have successfully completed a degree with a focus on (business) informatics or comparable trainingYou have several years of SAP experience as a logistics consultant in the PP module; ideally APO-PP/DS as a foundationYou have very good knowledge in the conception and implementation of SAP logistics solutionsYou have knowledge in development (ABAP; Fiory)You have know-how and experience in planning, conception and implementation of SAP projectsYou are characterized by a business and customer-oriented way of thinking as well as a professional appearanceYou have strong teamwork and communication skillsBusiness fluent German and/or good English skills complete your profile
 What we offer:
-A professional career in one of the leading multinational telecommunication companyChallenging work and competitive salary package.Referral bonus, You are a model future employee for us, so if you have colleagues, friends with similar profile like yours, please send us as referral and you will be remunerated with referral bonus.12.000 HUF meal allowance (szép card)Medical assurance at MedicoverMonthly Budapest transportation season ticket, which costs 10.500 HUF/month, or you can choose the 9 HUF/ km transportation allowance if you use car.Annual bonus according with the performance of each employee.Travel outside Hungary as per position/project requires – business trip allowance, transportation and accommodation will be cover by the company accordingly local legislationOvertime in case of needed – paid extraAnnual leave days –The base annual leave quota is 20 days, but accordingly local legislation you can have extra annual quotas because of the ages and if somebody has children.
+future-oriented training according to SAP Business Suite on HANA, SAP S/4HANA Collaboration in the migration to SAP S/4 HANAWork-life balance (mobile working, remote working, flexible flexitime model)Security (permanent position with an unlimited contract)
 Sector(s):
+IT Development
+Project Management
+IT Consultant, Analyst, Auditor
 IT Operation, Telecommunication
-Network and System Engineer
+Corporate Management System, SAP
 Jelentkezem
 MENTÉS
 Elküldöm magamnak a hirdetést
@@ -68,46 +89,51 @@ MentésMentés kedvencnek
  Vissza a listára
 Az állásról
 Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Alkalmazotti jogviszony
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
 Általános munkarend
 Elvárások:
-Angol felsőfok
-1-3 év szakmai tapasztalat
-Középiskola
+Angol középfok vagy
+Német középfok
+3-5 év szakmai tapasztalat
+Főiskola
 Juttatások
+Mobiltelefon
 Cafeteria
-Munkába járás támogatás
-Egészségbiztosítás
  Elküldöm magamnak
  Értesítést kérek
 A cégről
-Huawei Technologies Hungary Híradástechnikai Korlátolt Felelősségű Társaság
-Kereskedelem
+OTTO FUCHS Hungary Korlátolt Felelősségű Társaság
+Feldolgozóipar
 ●
-Elektronikus, híradás-technikai berendezés és alkatrészei nagykereskedelme
-100-250 munkavállaló
-2005
-1133
-Budapest,
-Váci út 116-118. 1. ép. 6. em.
-Értékelések a(z) Huawei Technologies Hungary Kft. cégről
+Közúti jármű alkatrészeinek gyártása
+500-1000 munkavállaló
+1995
+2800
+Tatabánya,
+Búzavirág u. 12.
+Értékelések a(z) OTTO FUCHS Hungary Kft. cégről
 Értékelések kategória szerint 
+3,5
+Bérezés és juttatások 
 3,6
+Munkaidő és munkarend 
+4,1
 Kollégák és céges hangulat 
-4,2
+4,1
 Megközelíthetőség 
-3,6
-Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
 További vélemények 
 Munkahely értékelése 
 Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
-Értékelem 
+Értékelem
 Önnek ajánljuk
 Hasonló állások megtekintése 
-CEM - Platform Maintenance Engineer (Budapest – GSC Hungary)
-Huawei Technologies Hungary Kft.
-Budapest
-JELENTKEZEM
+Inhouse Consultant SAP PP (remote)
+OTTO FUCHS Hungary Kft.
+Anywhere nationwide
+Jelentkezem
 Mentés
 Kövessen bennünket! 
 Rólunk

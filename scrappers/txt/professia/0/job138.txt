@@ -1,0 +1,53 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceTechnologický tester/testerka 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyTechnologický tester/testerkaNárodné centrum zdravotníckych informácií
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 1 500 EUR/mesiacFinálne mzdové ohodnotenie bude závisieť od praxe a skúsenosti vybraného kandidáta, pričom bude v súlade so zákonom č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo NCZI hľadáme nového kolegu/novú kolegyňu na pozíciu Technologický tester/testerka.
+Technologický tester/testerka je zodpovedný za:
+• prípravu SW, ktorá zahŕňa konfiguráciu v C# a je nevyhnutným predpokladom 
+• prípravu SW na realizáciu testovania
+• prácu s GITom
+• prijímanie vstupov, dát a pokynov, požiadaviek na konfiguráciu systému pre potreby testovania,
+• prípravu dodaných testovacích požiadaviek (requestov) a dát,
+• vyhodnotenie chýb a výsledkov testov na základe dokumentácie integračného manuálu a očakávaných výsledkov testovacích prípadov,
+• vyhodnotenie logov a XML súborov, ktoré sú zaznamenané v TestProjekte. Nasadený opravný balíček release opätovne pretestuje so zreteľom na odstránenie evidovaných defektov, bugov,
+•  vypracovanie testovacích prípadov na základe príslušnej dokumentácie. Testovacie prípady riadne zaznamená v nástroji na to určenom,
+• overenie pripravenosti systému na testy,
+• vykonávanie behu jednotlivých testov,
+•  zaznamenávanie priebehu a výsledkov testov, vykonávanie analýzy testov na základe výsledkov testov, 
+• zaznamenanie všetkých defektov vzniknutých počas testovania, prípadne rozdiely oproti očakávanému stavu nahlasuje ako defekt,
+• overenie odstránenia defektov, otestovanie defektov a stav voči očakávaným výsledkom testov, akceptáciu alebo zamietnutie odstránenia defektu. Zamestnanecké výhody, benefity• flexibilný pracovný čas
+• nárok na 5 dní dovolenky nad rámec zákona
+• dodatočné dni voľna nad rámec zákona (rodinné udalosti, dobrovoľnícke aktivity)
+• príspevok zamestnávateľa na DDS
+• možnosť kariérneho rastu
+• príspevok na stravovanie nad rámec zákona Informácie o výberovom konaníVopred ďakujeme všetkým uchádzačom za prejavený záujem. Kontaktovať ohľadom online/osobného interview budeme len tých kandidátov, ktorí spĺňajú požadované kritéria. Ďakujeme za porozumenie. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiMicrosoft Excel - PokročilýMicrosoft Word - PokročilýMicrosoft Outlook - PokročilýXML - ZákladySQL - ZákladyPrax na pozícii/v oblastiIT - výhodouPozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnosti• C# - základy sú nevyhnutnou podmienkou
+• analytické a logické myslenie
+• dôslednosť, precíznosť
+• zodpovednosť a spoľahlivosť
+• orientácia na výsledok
+• schopnosť pracovať samostatne ale aj v tíme
+• komunikatívnosť
+• flexibilita
+ skúsenosti:
+• s XML - VÝHODOU
+• v oblasti testovania SW riešení - VÝHODOU
+• práca na IT projektoch - VÝHODOU Inzerujúca spoločnosť Stručná charakteristika spoločnostiNárodné centrum zdravotníckych informácií (NCZI) je štátna príspevková organizácia, ktorej zriaďovateľom je Ministerstvo zdravotníctva Slovenskej republiky.
+NCZI analyzuje zdravotnícke informácie, zároveň je poverené riadením projektu elektronického zdravotníctva (ezdravie). 
+ID: 4507579 
+     Dátum zverejnenia:  17.2.2023 
+    2023-02-17
+lokalita: Bratislava   Pozícia: IT tester, Programátor   Spoločnosť: Národné centrum zdravotníckych informácií   
+Základná zložka mzdy (brutto): 1 500 EUR/mesiac
+                Všetky ponuky

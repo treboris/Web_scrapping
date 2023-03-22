@@ -1,0 +1,64 @@
+ Belépés ›
+Fullstack Java Software Developer (FMCx) (Budapest)
+Fullstack Java Software Developer (FMCx) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+német - középfokú
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Fullstack Java Software Developer (FMCx)
+The Public Cloud Porfolio Unit operates on a national and international level, for medium-sized and large companies. With the new Managed Services Public Cloud, we develop, market and operate agile, cloud-native, forward-looking products and services for the digital world. We see ourselves as innovation drivers and make our customers' business fit for the digital future. Our mission: To be successful in tomorrow, we need to think now about the day after tomorrow - and always together with our customers.
+With this dynamic and agile orientation, we are the anchor point for the Public Cloud business area in the Deutsche Telekom Group.
+Within the Public Cloud Portfolio Unit the orchestration and digital processes team is providing various products and solutions as SaaS (Software as a Service). The respective products are for example Salesforce, Docusign, Akamai but also own developments like Cloud Billing, FMCx, M.A.R.S. (Managed Application Retirement Service) and Vamosa.
+FMCx is an Order Management System build for the telecommunication market. It maps complex product models and enables the configuration of offers for the customer. In addition, the system is responsible for provisioning the purchased products to the responsible backend systems.
+FMCx is based on the SaaS Infonova R6, provided by our partner Beyond.
+The Development process is Scrum. Our customers are in the public, government and telecommunication area.
+We are looking for you to join our team: people who are professionals and evangelists with a great deal of enthusiasm for technology and who will master this challenge together with us.
+Do you like flat hierarchies, and do you have an independent working style?
+Do you like varied challenges in virtual agile teams?
+Then you are the right person for us.
+As “Senior Developer/Expert Developer” you will be one of the persons being responsible for the further development of the FMCx platform. You will be part of an agile SCRUM team and work together with the other team members to reach the sprint goals. You will implement and test new features and setup CI/CD pipelines for demo and production systems.
+Your tasks in detail:
+Experience in software development and software testing
+DevOps and CI/CD are no foreign words for you
+You enjoy working in agile teams
+Your way of working is result-oriented
+Good team and communication skills
+Experience and Qualifications
+Experience with software development
+Proven communications skills: written and verbal
+advanced knowledge of German and English, spoken and written
+Technical Know-How
+Git, GitLab
+Java, Junit, Groovy, Spring Boot
+Javascript, Node.js, Angular
+CSS
+Jira, Xray, Confluence
+PostgreSQL
+Camunda
+Strapi
+Cloud (AWS, OTC)
+REST, JSON, XML
+openAPI
+Scripting language (shell, Python, etc.).
+Docker, Kubernetes
+Prometheus, Grafana, ELK
+Managerial Know-How/ Human Relations Skills
+Proven communications skills: written and verbal
+Collaboration and teamwork, working in an agile team
+Excellent organisational and time management skills
+Emotional intelligence and owning up to errors
+Problem solving and creativity
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Szeged, Pécs
+Jelentkezem az állásra ›
+Neked ajánlott állások

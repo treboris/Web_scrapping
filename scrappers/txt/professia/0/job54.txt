@@ -1,0 +1,29 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceDevOps Engineer 
+Pracovné pozície
+O nás
+Benefity
+Kontakt
+Pracovná ponuka
+DevOps Engineer
+Nitra
+Place of work
+Nitra
+Contract type
+full-time
+Start date
+dohodou
+Information about the position Job description, responsibilities and dutiesIdeal candidates for this position should possess a keen mind for solving tough problems with the ideal solution, partnering effectively with various team members along the way. They should be personable, efficient, flexible and communicative, possess a strong desire to implement change, growth, and maturity, and have a passion and love for what they do. This role comes with the opportunity to be a high performer within a department that’s fast-paced, dynamic, and quickly growing in all areas Wage (gross)From 2 300 EUR/month13 plat, možný 14 plat Employee perks, benefits Flexibilný pracovný čas a príležitostný výkon práce z domu (mobile working) Uvítací balíček pre nového zamestnanca Interné jazykové kurzy nemeckého a anglického jazyka plne hradené zamestnávateľom, vrátane získania jazykového certifikátu Darčekové poukážky Elektronická stravovacia karta (stravná jednotka vo výške 6,80 EUR) Garantovaný 13. plat, 14. plat Príspevok na III. pilier dôchodkového sporenia Podpora odborného vzdelávania Celoročné úrazové zdravotné poistenie Pravidelne organizované podujatia pre zamestnancov ako napr. vianočný večierok, letná slávnosť, športový deň, výlety Rôzne športové aktivity Akcie pre deti zamestnancov – Deň detí, Mikuláš, letné denné tábory a mnoho ďalších benefitov Information about the selection processVaše osobné údaje sú spracované v súlade s Podmienkami ochrany osobných údajov UNIQA Group Service Center Slovakia, spol. s r.o., ktoré sa nachádzajú na našej webstránke.Link: https://www.uniqa-gsc.sk/podmienky-ochrany-osobnych-udajov Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)Driving licenceB Number of years of experience1Personality requirements and skillsYour main responsibilities	Development of IaC (Infrastructure as Code) in Terraform and Ansible	Development of CI/CD pipelines in GitLabCI and Jenkins	Development and operations of services in Azure cloud infrastructure	Iterate on best practices to increase the quality & velocity of deployments	Development and operations of monitoring solutionsHaving one or more of the following is a plus	Java / Maven	ELK / Prometheus / Icinga / Zabbix	Agile Methodology	Docker and Kubernetes Advertiser Brief description of the companyUNIQA Group Service Center Slovakia, spol. s r.o.UNIQA Group Service Center Slovakia, spol. s r.o.,  je dcérskou spoločnosťou rakúskeho poisťovacieho koncernu UNIQA Group Austria. Firma sa člení na úseky Software Service (SWS), Cross-Border Service (CBS) a Back Office Service (BOS).Prioritnou činnosťou úseku SWS je vývoj a údržba softvéru pre komerčné poisťovne patriace do skupiny UNIQA. Koncentruje sa najmä na systém INAS, ktorý je určený pre správu portfólia poistných produktov, poistných zmlúv a poistných udalostí, klientských, partnerských a účtovných údajov. V posledných rokoch sa dostáva do popredia vývoj moderných webových aplikácií nadväzujúcich na systém INAS.Úsek CBS, ktorý vznikol v roku 2006, sa zaoberá správou poistných zmlúv a likvidáciou poistných udalostí klientov rakúskeho poisťovacieho koncernu. Number of employees500-999 employees ContactContact person: Ing.  Simona JanekE-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4444798 
+     Dátum zverejnenia:  20.2.2023 
+    2023-02-20
+lokalita: Nitra   Pozícia: DevOps Engineer, Programmer   Spoločnosť: UNIQA Group Service Center Slovakia, spol. s r.o.   
+Základná zložka mzdy (brutto): 2 300 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

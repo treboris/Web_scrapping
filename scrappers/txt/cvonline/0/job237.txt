@@ -1,0 +1,28 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our prestigious German client operates as an unique electronic and software developer competence center, specialized in the field of electronic steering systems, they are one of the leading multinational companies in the automotive industry, whose main focus is to create and provide high-tech development solutions to its partners.
+Implement ETL and streaming processes to bring local production and other data to their Cloud Platform using Azure Functions, Azure Data Factory, machine learning and analytic services
+Leverage the insights to their data using data analytics tools, image pattern recognition and other data processing functions
+Working together in an international team with web application developers, data engineers and DevOps engineers
+                Elvárások / Requirements
+Education in Computer Science, Mathematics, Information Technology or Information Systems (bachelor, high school or comparable experience)
+2+ years experience in one or more object-oriented languages (Javascript, Typescript, Python, Java, etc.)
+Experience with git version control, CI/CD Pipelines with GitHub or Azure DevOps
+Knowledge and experience about database design
+Experience in cloud environments is a plus (Microsoft Azure, AWS, functions as a service, Docker, …)
+Fluent English in spoken and written
+Personality:
+Think and act in the sense of the enterprise, analytical intellectual power
+Make decisions in his/her field of activity, be an organizational talent
+Efficient, independent and team oriented form of work
+Good communication and problem solving skills
+Integrated personality and organizational skills
+                Amit nyújtunk / Benefits
+A modern office in the 11th district is waiting for you to support your creativity with fun community places, cafe rooms, an own cinema and a skybar
+You can be part of a successful and growing company in the field of technology
+They support you with flexible working hours and home office opportunity (60 % of the working time in many of their positions)
+Competitive salary and wide range of other benefits (cafeteria & bonus) are provided to you
+You can learn new languages in small groups, selecting from 5 languages
+They organize leisure time activities (board games, sport activities)
+Cloud Data Engineer 
+Jelentkezem

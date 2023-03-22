@@ -1,0 +1,601 @@
+ Belépés ›
+hirdetés
+Keresési feltételek
+Budapest
+Debrecen
+Pécs
+Szeged
+database administrator
+rendszermérnök
+projektmenedzser (IT / telekommunikáció)
+projektmenedzser (minőségbiztosítás)
+IT help desk leader
+IT security specialist
+service delivery manager
+biztonsági szakember
+Állások száma: 
+166
+Minden keresési feltétel törlése
+Szakterület
+Adminisztráció, asszisztencia
+99
+Bank, biztosítás
+32
+Egészségügy, gyógyszeripar
+26
+Építőipar, épületüzemeltetés
+86
+Értékesítés, kereskedelem
+205
+Gyártás, műszaki terület
+240
+Humán erőforrások, munkaügy
+119
+IT, telekommunikáció
+631
+Jog, közigazgatás, társadalom, politika
+6
+Karbantartás, szerviz
+72
+Kutatás, fejlesztés
+3
+Logisztika, beszerzés
+156
+Marketing, PR, média
+69
+Menedzsment, felsővezetés
+6
+Mezőgazdaság, környezetvédelem
+7
+Minőségbiztosítás
+43
+Oktatás, képzés
+6
+Pénzügy, számvitel
+298
+SSC (Shared Service Center)
+139
+Szakmunka, fizikai munka
+196
+Újságírás, szerkesztőség
+4
+Ügyfélszolgálat, call center
+46
+Vendéglátóipar, idegenforgalom
+5
+IT, telekommunikáció
+szoftverfejlesztő
+137
+rendszermérnök
+63
+IT helpdesk
+57
+szoftvermérnök
+54
+IT security specialist
+46
+Java developer
+35
+software test engineer
+31
+system administrator
+30
+business analyst (IT)
+29
+IT manager
+28
+gyakornok (IT / telekommunikáció)
+26
+projektmenedzser (IT / telekommunikáció)
+23
+development team lead
+21
+tesztmérnök (IT/Telekommunikáció)
+17
+SAP consultant
+16
+database administrator
+12
+SAP szakértő
+11
+business intelligence ( BI ) specialist
+10
+web developer
+10
+reporting specialist
+9
+C++ developer
+8
+C# developer
+7
+telekommunikációs szakember
+7
+.NET developer
+6
+Scrum Master
+6
+Python developer
+5
+ERP / CRM specialist
+4
+embedded developer
+3
+hardware developer
+3
+SAP developer
+3
+mobile developer
+2
+PL / SQL fejlesztő
+2
+project manager
+2
+technical writer
+2
+Access Support Specialist
+1
+C developer
+1
+gazdasági informatikus
+1
+gyártásinformatikus
+1
+IT sales manager
+1
+user interface developer
+1
+Minőségbiztosítás
+minőségbiztosítási mérnök
+14
+minőségellenőr
+8
+minőségbiztosítási csoportvezető
+4
+minőségbiztosítási munkatárs
+4
+minőségbiztosítási vezető
+4
+beszállítói minőségbiztosítási mérnök
+3
+vevői minőségbiztosítási mérnök
+3
+minőségbiztosítási technikus
+2
+minőségbiztosítási asszisztens
+1
+SSC (Shared Service Center)
+customer service representative
+44
+service delivery manager
+27
+accounts payable
+18
+accounting
+9
+collection
+9
+pricing
+7
+accounts receivable
+6
+SSC egyéb leader
+6
+IT help desk
+5
+accounting leader
+3
+HR support
+2
+IT help desk leader
+2
+procurement
+2
+accounts payable leader
+1
+collection leader
+1
+payroll
+1
+payroll leader
+1
+recruiting
+1
+recruiting leader
+1
+Gyártás, műszaki terület
+villamosmérnök
+26
+tervezőmérnök
+25
+gépészmérnök
+22
+technikus
+12
+folyamatmérnök
+10
+projektmenedzser (gyártás / termelés / műszaki terület)
+10
+projektmérnök
+10
+tesztmérnök
+10
+automatizálási mérnök
+9
+gyakornok (gyártás / termelés / műszaki terület)
+9
+munkavédelmi munkatárs
+8
+ajánlatadó mérnök
+7
+elektroműszerész
+7
+gyártástámogató mérnök
+7
+termeléstervező
+7
+közlekedésmérnök
+6
+termelési vezető
+6
+egyéb (gyártás / termelés / műszaki terület)
+4
+energetikus
+4
+fejlesztőmérnök (gépészmérnök)
+4
+fejlesztőmérnök (villamosmérnök)
+4
+mechanikai műszerész
+4
+műszaki igazgató
+4
+vegyészmérnök
+4
+vegyésztechnikus
+4
+applikációs mérnök
+3
+automatizálási technikus
+3
+biztonsági szakember
+3
+fejlesztőmérnök
+3
+mérnökségvezető
+3
+műszakvezető
+3
+PLC programozó
+3
+projektkoordinátor
+3
+folyamatfejlesztő mérnök
+2
+hibaanalizáló műszerész
+2
+ipari mérnök
+2
+laboráns
+2
+termékmérnök
+2
+teszt technikus
+2
+CNC technológus
+1
+dokumentációs mérnök
+1
+gyártáselőkészítő mérnök
+1
+munkavédelmi vezető
+1
+műszaki asszisztens
+1
+műszaki koordinátor
+1
+műszaki munkatárs
+1
+műszaki tréner
+1
+project manager (műszaki)
+1
+szimulációs mérnök
+1
+technológus
+1
+termelésirányító
+1
+Hely
+Budapest
+140
+Baranya megye
+47
+Csongrád megye
+44
+Hajdú-Bihar megye
+56
+Hajdú-Bihar megye
+Debrecen
+56
+Baranya megye
+Pécs
+47
+Csongrád megye
+Szeged
+44
+Nyelvismeret
+nem igényel nyelvtudást
+6
+angol
+155
+német
+42
+francia
+3
+Munkatapasztalat
+pályakezdő /tapasztalat nélkül
+5
+1 - 2 év tapasztalat
+98
+3 - 5 év tapasztalat
+75
+5+ év tapasztalat
+23
+Végzettség
+Középfokú végzettség
+43
+Felsőfokú végzettség
+145
+Munka jellege
+teljes munkaidő
+162
+projektmunka
+4
+távmunka, home office
+24
+Hirdető
+közvetlen munkaadó
+70
+közvetítő cég
+96
+Bérsáv
+ - 
+Ft
+EUR
+GBP
+USD
+ A maximum nem lehet kisebb a minimum értéknél!
+Fizetés típusa
+bruttó
+nettó
+Fizetés gyakorisága
+óra
+hónap
+ALKALMAZ ›
+hirdetés
+?
+Állásposta
+Hibás e-mail cím!
+Feliratkozás ›
+Sikeres regisztráció!
+Kérjük, aktiváld a felhasználói fiókodat: A megadott e-mail címre elküldtük a megerősítő linket.
+Ezt követően feltöltheted az önéletrajzodat és beállíthatod, hogy milyen állásokról szeretnél értesítést kapni.
+Sikeres álláskeresést kívánunk!
+Sikeres regisztráció!
+Köszönjük, hogy regisztráltál! Még aktiválnod kell a kiküldött e-mail-ben szereplő linkre kattintva! 
+A nyereménysorsolásban csak aktivált fiókkal veszel részt. (Ha a beérkező levelek között nem találod, nézd meg a „Levélszemét” mappát is.)
+Sikeres álláskeresést kívánunk!
+Sikeres aktiválás!
+Köszönjük, hogy aktiváltad Jobline fiókodat és Álláspostádat! Részt veszel a nyereménysorsolásban.
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Új Állásposta beállítva!
+Köszönjük, hogy új Álláspostát állítottál be, ezzel részt veszel a nyereménysorsoláson. A nyerteseket e-mailben értesítjük. 
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Új Állásposta beállítva!
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Budapest - Debrecen - Pécs - Szeged - database administrator - rendszermérnök - projektmenedzser (IT / telekommunikáció) - projektmenedzser (minőségbiztosítás) - IT help desk leader - IT security specialist - service delivery manager - biztonsági szakember állások, állásajánlatok
+?
+Állásposta
+Hibás e-mail cím!
+Feliratkozás ›
+166 állás
+Nemzetbiztonsági Szakszolgálat
+Projektmenedzser (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Nemzetbiztonsági Szakszolgálat
+Incidenskezelő munkatárs (Budapest)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+5+ év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+Nemzetbiztonsági Szakszolgálat
+Etikus hacker (Budapest)
+3 - 5 év tapasztalat
+pályakezdő /tapasztalat nélkül
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - alapfokú
+hirdetés
+Vöröskő Kft.
+IT projekt menedzser és minőségbiztosítási szakértő (Budapest)
+pályakezdő /tapasztalat nélkül
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Technical Incident Manager (REF936B) (Debrecen)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Deutsche Telekom IT Solutions
+Service Chain Operations Manager (REF1549H) (Budapest)
+1 - 2 év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - felsőfokú
+német - felsőfokú
+Deutsche Telekom IT Solutions
+Senior Security Consultant (REF1365Q) (Budapest)
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Operations Manager - Experienced (REF1362F) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+német - felsőfokú
+angol - középfokú
+Deutsche Telekom IT Solutions
+People Lead (Facilitator Chapter) (REF544B) (Budapest)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Incident responder (cert) ref68o (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+német - középfokú
+angol - középfokú
+Deutsche Telekom IT Solutions
+Security Analyst (REF92A) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Deutsche Telekom IT Solutions
+Service Chain Operations Manager (REF1566A) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+német - felsőfokú
+angol - középfokú
+Thyssenkrupp
+FMEA Moderator (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - felsőfokú
+Deutsche Telekom IT Solutions
+German speaking Senior Service Delivery Manager(REF1518X) (Budapest)
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+német - középfokú
+angol - középfokú
+Deutsche Telekom IT Solutions
+Technical Prozess Spezialist (incident) (REF1412M) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Deutsche Telekom IT Solutions
+Technical Process Specialist (REF705I) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Deutsche Telekom IT Solutions
+Senior Project Manager (REF1450G) (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Senior Network Architect (Open Telekom Cloud) - REF482J (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Deutsche Telekom IT Solutions
+Senior Engineer Security and Forensics (OTC) - REF761L (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Deutsche Telekom IT Solutions
+SC OPM (Service Chain Operation Manager) (REF919J) (Budapest)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+166 állás
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Tűnj ki a tömegből letölthető önéletrajz mintáinkkal
+Ne csak a tartalom legyen kiemelkedő
+Önéletrajzminta letöltése ›
+Önéletrajzminta letöltése ›
+Önéletrajzminta letöltése ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Miskolc
+Kecskemét
+Székesfehérvár
+Tatabánya
+Ezekkel a beállításokkal már vettél fel Álláspostát.
+Biztos, hogy el akarod menteni?
+Mégsem
+Mentés ›
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

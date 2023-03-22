@@ -1,59 +1,48 @@
  Belépés ›
-IT kontroller (Budapest)
-IT kontroller (Budapest)
+Etikus hacker (Budapest)
+Etikus hacker (Budapest)
 Jelentkezem az állásra ›
-BKV Zrt.
+Nemzetbiztonsági Szakszolgálat
 Alapvető elvárások
 IT, telekommunikáció
 3 - 5 év tapasztalat
+pályakezdő /tapasztalat nélkül
+1 - 2 év tapasztalat
 beosztott
-Felsőfokú végzettség
+Középfokú végzettség
 teljes munkaidő
-BUDAPESTI KÖZLEKEDÉSI ZÁRTKÖRŰEN MŰKÖDŐ RÉSZVÉNYTÁRSASÁG
-IT kontroller
-munkakörbe munkatársat keres
-A BKV Zrt. egy nagy múlttal rendelkező, stabil nagyvállalat. Informatikai Főosztálya dinamikusan változó és a piaci igényeknek megfelelő infrastruktúrával, technológiával rendelkezik. Folyamatosan bővülő csapatunkba keresünk informatikai kontrolleri feladatok ellátására kollégát. Ha fontos számodra a stabil, biztos háttér, a kiszámítható munkakörnyezet, a vidám és támogató munkahelyi légkör, ugyanakkor nyitott vagy a technikai, technológiai újdonságokra, jelentkezz csapatunkba!
-Főbb feladatok:
-Informatikai rendszerek támogatása a belső üzleti területek igényeinek elemzésével, tervezésével és dokumentálásával.
-Az informatikai beruházások és informatikai üzemi költségek tervezése, nyomon követése (eszközök, licencek, szakértői díjak, fejlesztések, üzemeltetési és karbantartási költségek, oktatási díjak).
-Az informatika kontrolling feladatainak ellátása az SAP CO modulban.
-Üzleti igényekhez kapcsolódóan üzleti esettanulmány és gazdaságossági számítások készítése.
-Fejlesztési dokumentumok véleményezése.
-A társaság informatikai rendszereinek és rendszerkapcsolatainak tervezésével összefüggő feladatok ellátása.
-Informatikai beszerzési igények szakmai tartalmának előkészítése, támogatása.
-Versenyeztetési anyagok és tender anyagok előkészítése, szerkesztése, véleményezése, versenyeztetés lefolytatásában való közreműködés.
-Szállítói számlák, szerződések, teljesítés igazolások jóváhagyási, kontrolling feladatainak ellátása, koordinációja.
-Egyedi kalkulációk és operatív gazdasági elemzési feladatok elvégzése a költség-felhasználás hatékonyságának növelése a vezetői döntéstámogatás érdekében.
-a területéhez tartozó fejlesztési és beruházási igények koordinációjában való közreműködés.
-Működési és hatékonyságjavító projektek irányítása, döntés-előkészítő tevékenység folyamatos ellátása.
-Feladataival összefüggő adatszolgáltatási, véleményezési feladatok ellátása, döntés előkészítő javaslatok készítése.
-A munkakörének ellátásával összefüggő adminisztratív és nyilvántartási feladatok teljes körű elvégzése, dokumentumok előírás szerinti kezelése.
-Követelmények:
-informatikai vagy gazdasági területen szerzett felsőfokú végzettség
-legalább 3 év munkatapasztalat
-Elvárt tulajdonságok:
-nagyvállalati gondolkodásmód
-kommunikációs készség
-határozott, meggyőző fellépés
-precíz, pontos munkavégzés
-jó problémamegoldó készség
-diplomatikus hozzáállás
-jó fogalmazókészség
+angol - alapfokú
+Kíváncsi vagy, milyen mély a nyúl ürege? Jelentkezz hozzánk, és megmutatjuk! Nálunk megismerheted a legújabb fejlesztéseket, és olyan rendszerekkel dolgozhatsz, amelyek egyedülállóak az országban! A Nemzetbiztonsági Szakszolgálat IT szakterületre keres munkatársakat – akár pályakezdőket is!
+Etikus hacker
+Elvárások:
+operációs rendszerek mélyebb ismerete
+sérülékenységvizsgálatban szerzett tapasztalat
+különböző területeken szerzett tapasztalat: webapplikáció biztonság, mobileszköz biztonság, hálózatbiztonság
+CEH, vagy CHFI vagy ezekkel egyenértékű minősítés
+legalább egy szkript nyelv magabiztos ismerete
+angol nyelv minimum társalgási szintű ismerete
+Előnyt jelent:
+felsőfokú informatikai végzettség
+OSCP minősítés
+malware elemzésben szerzett tapasztalat
+assembly nyelvben szerzett tapasztalat
 Amit kínálunk:
-versenyképes juttatási csomag
+kezdő havi bér bruttó 1.000.000 Ft
+évi bruttó 200.000 Ft cafeteria juttatás
+ruházati illetmény
+versenyképes jövedelem
+karrierlehetőség
+munkába járási támogatás
+kedvezményes üdülési lehetőség
 hosszú távú munkalehetőség
-a speciális ágazatból adódóan egyedülálló tapasztalatokat adó munkakör
-szakmai fejlődési lehetőség, továbbképzéseken történő részvétel biztosítása
-cafeteria
-üdülési lehetőségek
-munkavállalói kedvezmények a BKV Zrt. szerződött partnereinél
-ingyenes utazási lehetőség a BKV Zrt. járatain a munkavállaló, házastársa és az összes, egy háztartásban élő iskolás gyermeke részére
+komplex, kiemelt projektekben részvétel
+kihívásokkal teli, felelős szakmai munka
+széleskörű tapasztalatszerzési lehetőség
+szakirányú továbbképzéseken való részvétel
+nemzetközi konferenciákon, szakmai kiutazásokon való részvétel
 Munkavégzés helye:
-A BKV Zrt. budapesti központja, esetenként budapesti telephelyei
-Jelentkezési határidő: 2023. március 14.
-A jelentkezés során csatolni kérünk:
-részletes szakmai önéletrajzot,
-motivációs levelet.
-A munkakör betölthető: a kiválasztást követően azonnal
+Budapest
+Jelentkezés módja:
+Online jelentkezés lap kitöltésével és ezzel párhuzamosan egy magyar nyelvű önéletrajz és motivációs levél megküldésével lehet, a tárgyrovatban kérjük megjeleníteni az „Etikus hacker 2023” jeligét.
 Jelentkezem az állásra ›
 Neked ajánlott állások

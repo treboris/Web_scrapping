@@ -1,0 +1,58 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJavaScript programátor 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyJavaScript programátorBOOTIQ SK s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 1 900 EUR/mesiacZačíname od 1900 €. Platové podmienky sa pohybujú v závislosti od znalostí, kvalifikácie a motivácie kandidáta. Možnosť spolupráce na IČO.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiPre spoločnosť EEA, part of Big Group, momentálne hľadáme JS programátora.
+Si proaktívny, nadšený pre technológie a nové výzvy, máš zmysel pre detail a chuť vzdelávať sa? Chceš byť viac ako len „another brick in the wall“? V tom prípade je EEA  ako Software House a zároveň úspešný slovensko – český integrátor vhodnou alternatívou práve pre Teba. Pre tím v Bratislave, hľadáme programátorov, ktorí sa neboja prijať zodpovednosť podieľať sa na vývoji našich produktov, Atlassian addonov .
+Naše produkty sú rozmanité. Niektoré sú green-field, iné prechádzajú do nových fáz v cloude. Sme partnerom jednej z najprogresívnejších IT spoločností súčasnosti - Atlassian. V našej firme využívame Atlassian produkty a poskytujeme ich zákazníkom už od roku 2005. 
+U nás môžeš získať príležitosť  pracovať v seniornom a stabilnom tíme, ktorý spoločne pracuje na rôznorodých projektoch. Máme príjemnú kultúru založenú na otvorenosti, transparentnosti, zdieľaní informácií a know-how.
+Pre nás je kľúčové, aby si:
+- mal HTML/CSS znalosti
+- mal už niečo odkódené v JavaScripte (príp. TypeScript)
+- poznal a ešte lepšie pracoval s Node.js
+- sa zaujímal o nové technológie, trendy, frameworky, API..
+- bol team-player, ale vedel pracovať i samostatne
+- zapadol do našej príjemnej, otvorenej kultúry založenej na transparentnosti a zdieľaní know how
+U nás môžeš prísť do kontaktu s nasledovnými technológiami a postupne sa zoznámiť s:
+- React.js
+- Vue.js
+- Atlassian nástrojmi: Jira, Confluence kt. využívame na spoluprácu
+- automatizácia procesov s CI/CD pipelinami od Atlassian: Bamboo, Bitbucket, Jenkins.. Zamestnanecké výhody, benefity- Možnosť podieľať sa na nových trendoch a učiť sa od top architektov na trhu
+- Hodiny anglického jazyka 2x týždenne s lektorom priamo vo firme
+- Skúšanie nových technológií a metodológii, frameworky, portály, aplikácie, apiny... - dostaneš sa ku všetkému.
+- Remote práca alebo zázemie v jednej z 11 poboček v ČR a SR
+- V prípade potreby dodáme aj notebook. 
+- Môžeš s nami športovať (účasť na rôznych behoch, bicyklovačkách,volejbale, turistike) Máme k dispozícii pre cyklistov sprchu, aj bezpečné miesto na bicykle.
+- Mať skvelú komunitu kolegov (chaty, party, hackathony, konferencie, grilovačky, firemné raňajky, interný bufet, cyklodieľňu )
+- Utužovanie kolektívu pri stolnom futbale, EBENICA kávičke alebo na našej terase pri pestovaní byliniek, či spoločnom varení. Informácie o výberovom konaníAk zvažuješ spoluprácu s nami, stačí nám kontakt a stručný popis alebo link na projekty, ktoré považuješ za najdôležitejšie. 
+V prípade reakcie bez tejto referencie, ti zašleme technické zadanie a po jeho vyriešení sa dohodneme na termíne stretnutia buď naživo alebo na TEAMS meetingu, kde bude pre obe strany príležitosť spoznať sa, zodpovedať konkrétne otázky a ujasnenie  možností spolupráce. 
+Ak máš, čo ponúknúť a tento profil ti úplne nesedí , neváhaj sa nám ozvať a možno Ti vytvoríme pozíciu na mieru. 
+Viac na https://www.bootiq.io/kariera/ Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímštudent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboretechnické odbory – informačné technológie a príbuzné smeryJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Prax na pozícii/v oblasti2Počet rokov praxe2Osobnostné predpoklady a zručnostiNaše tímy v Bratislave, Trenčíne alebo remote chcú samostatných ľudí, ktorí sa neboja prijať zodpovednosť.
+Hľadáme kompetentného programátora, ktorý dokáže pracovať nielen na vývoji nových riešení na zelenej lúke s využitím najmodernejších technológií, ale aj na rozvoji už existujúcich a prispôsobovaní funkcionality podľa požiadaviek zákazníkov.
+To všetko vyžaduje nie len schopnosť transformovať biznisové požiadavky do kódu, ale aj vidieť veci v širších súvislostiach, či mať schopnosti optimalizovať a meniť už existujúci kód.
+Očakávaná je zručnosť vzdelávať sa a naštudovať si nové technológie. Inzerujúca spoločnosť Stručná charakteristika spoločnostiBOOTIQ je členom INTEFI CAPITAL, lokálnej skupiny s medzinárodnou pôsobnosťou.
+Vyvíjame software pro firmy,  ktoré hľadajú individualizované  riešenie pre svoju internetovú budúcnosť vo svete BI, financií, e-commerce alebo IoT.
+Akvizíciou EEA s.r.o. narástol BOOTIQ tím v rámci celej skupiny na viac ako 400 vývojárov a ročné tržby skupiny presiahnu 16 miliónov eur. Skupina tak dosiahla veľkosť, pri ktorej dokáže realizovať rozsiahle IT projekty pre klientov nielen v Českej a Slovenskej republike, ale aj v celej strednej Európe.
+Postupne sa k skupine pridala pražská digitálna agentúra Blueberry alebo spoločnosť Novasoft, ktorá v Česku patrí k lídrom v dodávke SAP technológií. Akvizíciami softvérových spoločností rozširuje spoločnosť portfólio svojich služieb a v súčasnosti obsluhuje viac ako 200 klientov.
+KLIENTI:
+Medzi spokojných zákazníkov patria aj velkí hráči na trhu ako T-Mobile, Plzeňský Prazdroj, GTS Alive - ISIC, Škoda, Unipetrol, Zoot, Raiffeisenbank, Allianz, Telco, či projekty pre štátnu správu.
+Firemná kultúra v BOOTIQ SK je neformálna a uvoľnená tzv. garážového typu, čím chceme podporiť kreativitu, tímovost a odvahu, aby kolegovia prirodzene spolupracovali, vzájomne sa rozvíjali a posúvali ďalej. Pri hľadaní nového člena do partie sa u nás hľadí nielen na skúsenosti, ale aj vášeň pre danú technológiu, chuť pracovať na unikátnych projektoch a rozvíjať sa. Dôležité je, či kandidát zapadne do našej kultúry ako tímový hráč a či mu vyhovuje dynamický spôsob práce a rôznorodosť.
+https://www.eea.sk/kariera/
+https://www.bootiq.io/sk/kariera/ Počet zamestnancov25-49 zamestnancov 
+ID: 4109036 
+     Dátum zverejnenia:  1.2.2023 
+    2023-02-01
+lokalita: Bratislava   Pozícia: Javascript programátor, Programátor   Spoločnosť: BOOTIQ SK s.r.o.   
+Základná zložka mzdy (brutto): 1 900 EUR/mesiac
+                Všetky ponuky

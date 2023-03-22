@@ -1,0 +1,35 @@
+ Belépés ›
+Azure DevOps Engineer (Budapest)
+Azure DevOps Engineer (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Azure DevOps Engineer
+About Our Partner:
+Our partner is a multinational company with a mission to create financial safety for their clients. Now, they are looking for a talented professional to join their team as a Senior DevOps engineer with focus on Azure CI/CD automation, support the company’s IT projects with DevOps and ML/Ops governance and focusing long term, sustainable, transparent way automation of software delivery.
+Tasks:
+Implement strategies for collaboration, code, infrastructure, source control, security, compliance, continuous integration,
+Work with Azure technologies from every aspect of the DevOps,
+Ecosystem from development through deployment to operations and monitoring,
+Comfortable usage of SQL,
+Work experience with CI/CD technologies - Azure DevOps preferred,
+Familiar with database, data analytic platforms and data pipeline technologies (Azure Data Factory, Databricks),
+Hands-on experience with monitoring of cloud-based systems and processes (Log analytics workspace, Sentinel)
+Requirements:
+College/university degree,
+min. 2 years relevant experience,
+Fluency in English
+Advantages:
+Azure knowledge,
+ML/Ops knowledge,
+Azure data background
+Munkavégzés helye
+Budapest, Pest
+Jelentkezem az állásra ›
+Neked ajánlott állások

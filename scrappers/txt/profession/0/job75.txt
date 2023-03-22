@@ -1,0 +1,144 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Budapest
+Következő 
+Tesztkörnyezet üzemeltető
+FX SOFTWARE ZRt.
+Budapest
+ Elvárt technológiák
+WINDOWS
+SQL
+ACTIVE DIRECTORY
+IIS
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Nyelvtanulás támogatása
+Sport támogatás
+ Elvárt technológiák
+WINDOWS
+SQL
+ACTIVE DIRECTORY
+IIS
+Egyre több az izgalmas projektünk, az új ügyfelünk, a szakmai kihívásunk – de ahhoz, hogy ebben helyt álljunk RÁD van szükségünk!
+Tesztkörnyezet üzemeltetőt
+keresünk csapatunkba!
+Kik vagyunk mi?
+Pénzügyi szoftvereket fejlesztünk ügyfeleknek. Fő termékünk egy integrált Treasury rendszer, melyet hazai és nemzetközi szinten, központi-, kereskedelmi banki és nagyvállalati partnereink egyaránt használnak.Szeretjük összetartó és életvidám csapatunkat. Minden bevezetésünk egyedi, ahhoz viszont, hogy ezek kiemelkedően magas színvonalúak legyenek, szükségünk van professzionális szakértelemre is, amelyet Te is képviselnél csapatunkban!
+Amiben szükségünk lesz Rád....
+Tesztkörnyezetek telepítése, üzemeltetése:Belső tesztkörnyezetek paraméterezése, telepítése, felügyelete, dokumentálása. Futó projektekben aktív résztvétel mint belső implementátor.Üzemeltetéshez szükséges dokumentációk elkészítéseTechnikai dokumentációkban, üzemeltetési leírások készítésében és frissítésében, valamint környezetek specifikálásában, dokumentálásában is részt veszel nálunk.Szoftver üzemeltetés támogatásaNemcsak éles, hanem teszt környezetben is.Telepítés menedzseléseA belső tesztek, a paraméterezés, miután már kellő tapasztalatot szereztél nálunk, mind hozzád fognak tartozni, egészen odáig, hogy az ügyfél oldalán telepítés megvalósul. Kapcsolatban leszel a rendszer üzemeltetőkkel és az ügyfeleket is heti szinten fogod látogatni. Te támogatod az elkészült vagy fejlesztés alatt lévő szoftver megoldások implementálását.
+Akkor fogod jól érezni magad nálunk, ha...
+Microsoft szoftver üzemeltetési tapasztalatod vanLeginkább Windows Server, Desktop, IIS, SQL Server tudásodra fogsz tudni támaszkodni.Windows alapú hálózatok ismereteAz Active Directory-t nálunk gyakran fogod használni.Virtualizációs ismeretA virtualizációs ismeret a virtuális gépek, virtuális környezetek létrehozásához és üzemeltetéséhez kell.Hardver architektúrális ismeretImplementációs szakértőként ez egy fontos része lesz munkádnak, melyben rengeteg fejlődést biztosítunk.
+Mire számíthatsz tőlünk:
+Szakmai fejlődési és előremeneteli lehetőség,Kedvezményes angol nyelvtanulási lehetőségÖsszetartó és támogató csapatBelvárosi iroda és Home Office lehetőségKözös céges rendezvények, csapatépítő eseményekHome Office költségtérítésBéren kívüli juttatások: cafeteria rendszer (SZÉP kártya, közösségi autómegosztó szolgáltatás, AYCM sportpass) mental health program;Teljesítmény alapján elérhető prémium
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Jelentkezés
+ Jelentkezésed után legfeljebb két napon belül felvesszük veled a kapcsolatot és magát a kiválasztást is 1-2 hét alatt lebonyolítjuk.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Nyelvtanulás támogatása
+Sport támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+FX SOFTWARE Számítástechnikai, Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+50-100 munkavállaló
+2000
+1066
+Budapest,
+Weiner Leó utca 16. 7. em.
+Munkahelyi extrák
+Céges rendezvények
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Tesztkörnyezet üzemeltetőt
+FX SOFTWARE ZRt.
+Budapest
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

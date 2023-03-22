@@ -1,0 +1,53 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+Experienced Data Engineer (for a unique project)IBM12.03.2023Job informationPlace of work
+Bratislava
+Bratislava, SlovakiaPosition / industry
+Information Technologies - Software; Database Analyst, ProgrammerJob description, information about job
+Your Role and Responsibilities: 
+As a team member of the Data Engineering team, you will have significant responsibility and influence in shaping its future direction. This role is inherently cross-functional and the ideal candidate will work across disciplines. We are looking for someone with a love for data and ability to iterate quickly on all stages of data pipeline. This position involves working on a small team to develop large scale data pipelines and analytical solutions using Big Data technologies. Successful candidates will have strong engineering skills and communication, as well as, a belief that data driven processes lead to phenomenal products. You will need to have a passion for quality and an ability to understand sophisticated systems.
+ This job opportunity is for a unique partnership between IBM and Apple, related to the direct work with Apple Team in the Analytics area, with focus on Apple Music store. 
+What do you need to success?  
+• Experience in high level programming languages such as Java, Scala.
+• Proficiency with databases and SQL is required.
+• Proficiency in data processing using technologies like Spark Streaming, Spark SQL, or Map/Reduce.
+• Expertise in Hadoop related technologies such as HDFS, Azkaban, Oozie, Impala, Hive, and Pig.
+•  Expertise in developing big data pipelines using technologies like Kafka, Flume, or Storm.
+• Experience with large scale data warehousing, mining or analytic systems.
+• Ability to work with analysts to gather requirements and translate them into data engineering tasks
+• Aptitude to independently learn new technologies.
+Education & Experience  
+Bachelor's degree or equivalent work experience in Engineering, Computer Science, Business Information Systems. IBM is an Equal Opportunity Employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other legally protected characteristics.Offered salary
+3500 EUR
+Benefits and other advantages
+What can you expect of us? 
+• Salary starting from 3500 EUR gross, depending on relevant experience and language proficiency
+• Stable job in a reputable and well-performing company
+• Almost endless learning & growth opportunities (classroom based trainings and 5000 e-learning courses)
+• Annual performance bonus payment
+• Performance and salary evaluation on regular basis
+• Subsidized meal-tickets
+• Flexible working time and home office with option to borrow assets (monitor, chair)
+• Three additional vacation days
+• Up to three self-recovery days
+• 100% sick leave compensation
+• Life insurance and supplementary pension savings program
+• Private medical sanatorium
+• Long term career development and possibility of internal rotation
+• Recommend-a-Friend – get a bonus in the employee referral program
+• Special IBM discounts, MultiSport card etc.Start date
+from 1.11.2021 Type of employment
+full-timeEmployee requirementsMinimum required education
+First Level University Education (Bachelor's Degree)Language skills
+English (upper-intermediate - B2)Company informationCompany characteristics
+Spoločnosť IBM je jednou z najväčších IT spoločností na svete a pod názvom International Business Machines poskytuje klientom svoje služby už viac ako 100 rokov. Celosvetovo pôsobí vo vyše 160 krajinách sveta. Poslaním spoločnosti IBM je pomocou integrovaných, flexibilných a efektívnych riešení pomáhať svojim zákazníkom redukovať ich náklady a zvýšiť tak ich konkurencieschopnosť na trhu. Samostatná pobočka IBM Slovensko s.r.o. bola založená 7. decembra 1992. V roku 2003 založila IBM na Slovensku druhú pobočku IBM International Services Centre s.r.o. (ISC). Spoločnosť IBM je najväčší zamestnávateľ v oblasti IT na Slovensku.Adress
+IBMMlynské nivy 49Bratislava - mestská časť RužinovSlovak Republic10062200,2190,209030084003,4002,4001Respond to offer
+Be a part of something great at IBM
+Imagine a world where inspired ideas and innovative technology combine to create a smarter, more sustainable future. Welcome to the world of IBM.
+https://ibm.com/jobs/sk
+                Connect with us:
+Do your best work ever.
+SK
+EN
+    		Do your best work ever.
+Respond to offer
+Späť na pracovné ponuky

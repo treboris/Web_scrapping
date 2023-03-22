@@ -1,0 +1,47 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFrontEnd Developer  
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+FrontEnd Developer Informácie o pracovnom miesteMiesto práce: Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)Mzdové podmienky (brutto): Od 2 300 EUR/mesiacfinálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*Termín nástupu: dohodouDruh pracovného pomeru: plný úväzok, živnosťNáplň práce, právomoci a zodpovednosti-	analýza, vývoj a implementácia  moderného informačného systému pre rôzne oblasti
+-	vývoj nového riešenia a jeho rozširovanie podľa potreby spoločnosti využitím najnovších technológií: react.js., angular.js, vue.js (vieme Vás zaradiť na projekt podľa preferovaného frameworku) umbrella.js, node.js, ember.js (aspoň jeden z nich)
+- 	návrh aplikácie, front-end vývoj v Javascript, react.js/angular.js/vue.js (preferencia na vue.js), HTML5, CSS3
+-	Unit testing 
+-	zabezpečenie prístupových práv do aplikácie,
+-	deployment aplikácie 
+-	tvorba technickej dokumentácie Iné výhody- podpora v oblasti školenia a vzdelávania
+- podpora športových a kultúrnych aktivít
+- stabilné prostredie a dobré medziľudské vzťahy Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieStabilná IT spoločnosť. Požiadavky na zamestnanca Požadované vzdelaniestredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiJavaScript - PokročilýVue.js - PokročilýPožadovaná praxfront-end vývoj Javascript1Osobnostné predpoklady a zručnosti-	stredoškolské vzdelanie s maturitou alebo univerzitné vzdelanie (technické, IT, ekonomické,..)
+-	znalosť anglického jazyka na mierne pokročilej úrovni
+-	minimálne 1 rok praxe v oblasti front-end vývoja v Javascript (skúsenosti s komerčnými projektmi)
+-	skúsenosti so Scrum
+Technické znalosti:
+•	JavaScript (ES6) - pokročilý, znalosť vue.js, alebo Angular/React
+•	HTML5, CSS3, JQuery - pokročilý
+•	GraphQL, node.js, PHP - výhoda
+•	znalosť iných nových web technológií - veľká výhoda
+•	UML
+-	komunikačné zručnosti, schopnosť práce v tíme i samostatne, flexibilita, analytické myslenie, kreativita Inzerujúca spoločnosť Stručná charakteristika spoločnostiPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)Spoločnosť je držiteľ povolenia na sprostredkovanie práce. (AA/2009/4810/4232/OISS) Hlavná oblasť pôsobenia spoločnostiSprostredkovanie práce a personálne poradenstvo Počet zamestnancov10-19 zamestnancov Informácie o výberovom konaní* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: [email protected]KontaktKontaktná osoba: Ing.  Anna TkáčováTel.: +421911247080E-mail: poslať životopis
+ Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 3236250 
+     Dátum zverejnenia:  17.2.2023 
+    2023-02-17
+lokalita: Bratislava   Pozícia: Frontend programátor, IT tester, Javascript programátor, Programátor   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 2 300 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

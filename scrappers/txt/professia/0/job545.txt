@@ -1,0 +1,51 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSoftware Architect .NET/SQL Server 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukySoftware Architect .NET/SQL ServerPŘEDVÝBĚR.CZ s.r.o.
+Place of work
+Bratislava
+Contract type
+full-time
+Wage (gross)
+From 2 800 EUR/month
+Information about the position Job description, responsibilities and dutiesJob description:
+•	Focus on the system as a whole rather than on specific areas of implementation
+•	Drive architecture/technology decisions in light of as-is and to be scenarios
+•	Evaluate the impact of technical alternatives in respect to business needs
+•	Drive non-functional requirements (reliability, performance, supportability, security)
+•	Drive the team software development process and practices
+•	Focus on agility and change management while using the specific CRIF tools and methodologies and standard programming practices, and to contribute to their improvements
+•	Have a good business domain knowledge and use it to aid decision making on technical/architecture issues
+•	Have a good understanding of business organization and culture
+•	Build trusting relationships with business
+•	Have a good knowledge of market landscape in terms of available solutions and tools, and use it to propose integrated solutions
+•	Be a technical team leader and hierarchical manager of development teams.
+•	Act as mentor and/or coach for his colleagues
+•	Focus on learning new emerging technologies and extending the technical skills both broadly and deeply
+•	Create a migration path to cloud native solutions Employee perks, benefitsEmployee benefits:
+•	5 extra vacation days
+•	Full - time contract
+•	Possibility of occasional home office work
+•	Sickness-leave allowance during the first 10 days of sickness
+•	Health and life insurance contribution
+•	Contribution to pension fund
+•	Extra meal-voucher allowance
+•	Non-stop license on pluralsight.com and MSDN and others
+•	Location - Bratislava Company on whose behalf the position is being filledInformation technology, computer programming, web portalsFor our client, a company specializing in the development and management of credit registry services, business information systems and credit solutions, we are looking for suitable candidates for Software Architect .NET/SQL Server. Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Intermediate (B1)Personality requirements and skillsJob requirements:
+•	Bachelor’s degree in computer science or information systems (possibility of high school education + sufficient experience)
+•	Solid technical knowledge (Microsoft.NET, Elastic Search, React, C#, Microsoft SQL)
+•	Customer oriented (with good communication skills)
+•	Experience in application development and design or delivery projects in an international environment
+•	Relationship-building and negotiation skills
+•	English language skills – optional B1-B2 level Advertiser Brief description of the companyHR consulting, job brokerage.The company is a holder of a licence to offer recruitment services. 
+ID: 4469629 
+     Dátum zverejnenia:  6.2.2023 
+    2023-02-06
+lokalita: Bratislava   Pozícia: .NET Programmer, C# Programmer, Programmer, Software Engineer   Spoločnosť: PŘEDVÝBĚR.CZ s.r.o.   
+Základná zložka mzdy (brutto): 2 800 EUR/month
+                Všetky ponuky
