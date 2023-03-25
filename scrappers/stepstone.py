@@ -4,7 +4,6 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 
-
 from bs4 import BeautifulSoup
 from datetime import datetime
 from Data import Save
@@ -17,6 +16,11 @@ import re
 #hostname = socket.gethostname()
 #my_ip = socket.gethostbyname(hostname)
 #print(f'{hostname},{my_ip}')
+
+
+
+#https://github.com/ultrafunkamsterdam/undetected-chromedriver
+
 
 
 options = Options()
@@ -46,33 +50,29 @@ def conn(limit):
 
 
 #REKURZIV FUGGVENY
-def scrape():
+def scrape(x):
     try:
         article = driver.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]')
         href_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/div[2]/a')
-        #print(href_tag.get_attribute('href'))
-        href.append(href_tag.get_attribute('href'))
-
+        to_str = href_tag.get_attribute('href')
+        href.append(to_str)
         main_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/div[2]/a/div/div/div')
         main.append(main_tag.text)
         corp_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/div[3]/span')
         corp.append(corp_tag.text)
         location_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/div[4]/div[1]/div[1]/span/span')
-        location.append(location_tag)
-        save_data = Save(f'stepstone1' , ("Main" , main) ,("Location" , location), ("Corporation" , corp), ("Href" , href) )
-
+        location.append(location_tag.text)
     except (NoSuchElementException):
         print('Reconnecting...')
         conn(limit)
         time.sleep(2)
-        scrape()
-
-
+        scrape(x)
+print("star")
 for limit in tqdm(range(page_number())):
     conn(limit)
     time.sleep(2)
     for x in range(1,26):
-        scrape()
+        scrape(x)
 
 #ID DATE
 list_size = len(main)
@@ -86,8 +86,8 @@ for y in range(0, list_size):
 
 
 
-print(f'{len(corp)},{len(main)},{len(location)},{len(href)}')
 
+save_data = Save(f'stepstone0' ,('ID' , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp), ("Href" , href),('Date' , datee) )
 
 
 
