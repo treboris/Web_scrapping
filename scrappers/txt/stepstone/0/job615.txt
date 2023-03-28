@@ -1,0 +1,47 @@
+Jobs by email
+Ecologic Institut gemeinnützige GmbH
+Linux System Administrator
+Berlin
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+Einleitung
+Ecologic Institute is a private and independent academic think tank dedicated to the task of working on relevant policy issues in the field of sustainability research and introducing new findings to environmental policy. Founded in 1995, Ecologic Institute is closely linked to European and international networks and part of the Ecological Research Network (Ecornet) and Think Sustainable Europe. Today, more than 100 staff members work in international and interdisciplinary project teams.
+In order to strengthen our IT team in Berlin, we are looking for a
+Linux System Administrator
+As the Ecologic Institute's IT team, we take care of day-to-day operations, introduce new technologies and design the digital working environment of the Institute's staff. We are responsible for the stability and availability of services and applications as well as for equipping the institute with desktops, notebooks and VoIP. We love Linux and open source software, but we are realists and rely on a harmonious cooperation of Linux and Windows.
+Ihre Aufgaben
+Your core responsibilities:
+Supervision of the full Linux backend lifecycle
+2nd- and 3rd- level contact person in Application Support
+Operation, maintenance and documentation of the applications supported by you, as well as the holding of user training courses
+Consulting and energetic support in the establishment and adaptation of internal work processes and their promotion with IT resources
+Ihr Profil
+Must haves:
+Completed degree in computer science or comparable or training as an IT specialist for system integration
+At least 3 years practical knowledge in the use of the automation solution Ansible and in the professional operation of Linux system environments in interaction with Windows clients
+Extensive experience in Linux system development under Debian/Ubuntu
+Practical know-how in planning and setting up system architectures and virtualized IT infrastructures
+Professional level of English, German is an asset
+Nice to have:
+Atlassian Confluence – Bacula/Bareos – Icinga2 – OneLogin – Postfix/Dovecot/Mailman – Projektron BCS – Proxmox
+Wir bieten
+What we offer:
+Flexible working hours - fair overtime regulations - no on-call duty - no travel - family-friendly - job ticket - restaurant vouchers - company notebook for private use - small team - high personal responsibility - versatility - flat hierarchies - dedicated colleagues - sensible contributions to relevant environmental projects - fun at work - permanent contract
+Kontakt
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Ecologic Institut gemeinnützige GmbH
+Berlin, Deutschland

@@ -1,0 +1,173 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Következő 
+Hungarian Search Developer (ElasticSearch)
+Online Comparison Shopping Kft.
+Flexible workplace - Budapest
+Biztosított eszközök
+Laptop
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok és
+Magyar anyanyelvi szint
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Sport támogatás
+Biztosított eszközök
+Laptop
+Online Comparison Shopping Kft.
+Hungarian Search Developer (ElasticSearch)
+About usHey! We are Heureka Group, the biggest e-commerce platform, used by more than 20 million users. Our ultimate goal is to become the largest marketplace in our 9 European countries. Our team's purpose is to help our users find what they are looking for fast and easy!Our company focuses a lot on providing the best search experience, because it is the shortest journey for the users to their desired product. Our team is working together from Prague (CZ), Budapest (HU) and Ljubljana (SL) offices, so we’re communicating in English and we’re looking for our Hungarian Search developer.
+Task:
+What you will do:Search is mainly about backend services that deliver hundreds of millions of products to millions of users. To achieve this, we utilize a massive Elastic Cluster and Machine Learning algorithms. But we also manage the frontend of the Full-text SERP page and Suggester.It is important to say that we are an international remote team. We don't require your personal presence but if you would like to meet sometime, we'll be glad to welcome you to our offices.     Technologies, we use and we would help you get to know them:PythonElasticSearchTerraformKubernetesRabbitMQGoogle Cloud Platform
+Expectation:
+What do we expect from you:Strong knowledge of Hungarian and English language - you will communicate in English on daily basis, as our team is international;Basic understanding of common development tools: working in a terminal, GIT, HTTP protocol, API concept;You should have good knowledge of Python or similar language (for example: PHP, nodeJS, or Java);Database awareness - experience with a NoSQL database is ideal;Ability to work as part of a team - speak your mind, respect the opinion of others. But also the ability to complete tasks independently;Open minded approach to learn new technologies and practices.
+Other:
+What we appreciate:Knowledge of ElasticSearch;Knowledge of tools and technologies such as GitLab CI, Docker, Kubernetes, Grafana;Knowledge of data structures, algorithms and design patterns (don't  worry, we're not looking for a graph algorithm expert, but we'd love to talk to you about it).
+What we offer:
+What you’ll get:Opportunity to participate in the development of a product that is currently used by four million unique users per month in 9 countries. We offer unique technical challenges that you just can't get anywhere else;Great company culture and open mindset;Extensive help in onboarding from our Search team and opportunity to learn a lot from the huge shared know-how we have in Heureka Group;Support in improving your skills, including self-development days and participation in trainings and conferences;Agile environment: we are working in tribes and teams which consist of developers, product manager and scrum master;Flexible working hours, working from home, and a lot of other benefits such as cafeteria, additional days off, loyalty reward etc.…
+Sector(s):
+IT Development
+Programmer, Developer
+How to apply/ contact information:
+If you are interested in the job, send us your CV and we will contact you with the next steps within 5 working days.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok és
+Magyar anyanyelvi szint
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Sport támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Online Comparison Shopping Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Világháló-portál szolgáltatás
+100-250 munkavállaló
+2014
+1074
+Budapest,
+Rákóczi út 70-72.
+Értékelések a(z) Online Comparison Shopping Kft. cégről
+4,3
+8 értékelés alapján 
+Értékelések kategória szerint 
+3,6
+Bérezés és juttatások 
+4,4
+Munkaidő és munkarend 
+4,5
+Főnökök 
+4,6
+Munka és magánélet egyensúlya 
+4,4
+Kollégák és céges hangulat 
+4,9
+Megközelíthetőség 
+4,4
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+88%
+Ajánlaná ismerőseinek 
+Biztosítják a munkaeszközöket 
+Vállalják a betanítást 
+Családbarát hely 
+Támogatják a képzéseket 
+Környezettudatos hely 
+További előnyök  
+További vélemények 
+Munkahelyi extrák
+Zuhanyzási lehetőség
+Céges rendezvények
+Parkoló
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Hungarian Search Developer (ElasticSearch)
+Online Comparison Shopping Kft.
+Flexible workplace - Budapest
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

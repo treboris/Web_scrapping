@@ -1,0 +1,61 @@
+Jobs by email
+ZEISS
+Master thesis: Trajectory Planning for Surgical Robots using Imitation Learning
+Eggenstein-Leopoldshafen
+Bachelor dissertation / Master thesis
+Full Time
+Published: 5 days ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+Ihre Rolle
+Turning today’s research into tomorrow’s applications – together
+With a clear focus on user needs, the ZEISS Innovation Hub @ KIT explores new technology and application fields, enabling the transformation of ideas into innovations. Here, students, researchers, entrepreneurs, and ZEISS employees meet at eye level and practice an open-innovation culture.
+For our team of researchers and engineers, we seek a master student supporting our research and experiments for robot trajectory planning and tool-soft-tissue interactions using Imitation Learning based on pre-recorded and annotated trajectories for a surgical task.
+Your role
+review literature in the field of IL-based trajectory prediction and planning
+work with pre-annotated surgical trajectories (both robotic and human)
+design and implement an Imitation-Learning framework for soft-tissue trajectory planning
+evaluate your approaches with existing simulations, phantom models, and post-mortem tissue
+work with researchers and engineers in a collaborative environment at the newly built ZEISS Innovation Hub Karlsruhe, right on site of the KIT-campus north
+Ihr Profil
+a study place in the field of informatics
+programming knowledge in at least one of the following: Python, C++
+knowledge of Pytorch / Tensorflow is a plus
+knowledge in one or more of the following fields: Tissue modelling, Imitation Learning, Dynamic Movement Primitives
+excellent organization, problem-solving & communication (English and/or German)
+a collaborative working style, which is essential to conduct this project
+If you would like to know more about this role kindly contact studenten@zeiss.com.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+ZEISS
+76344 Eggenstein-Leopoldshafen, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

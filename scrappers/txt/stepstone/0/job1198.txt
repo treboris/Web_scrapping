@@ -1,0 +1,55 @@
+Jobs by email
+Samsung Electronics GmbH
+Working Student (m/f/d) Software & Mobile Devices Testing
+Schwalbach am Taunus
+Student job, Industrial placement student
+Part time
+Published: 2 weeks ago
+No cover letter required
+Save
+Warsaw and Cracow. This is where Samsung Electronics’ highest-quality software is created. The work of our engineers influences the future operation of our flagship mobile device and television models, mobile networks, multimedia installations, robots, intelligent buildings and more.
+Our team is composed of experts who specialize in a variety of fields. We cooperate to create an environment in which we can share knowledge and experience. We allow space for independent work which also helps in the creation of original solutions. Together, we look for non-standard answers that help us to truly innovate.
+If you share our belief that the power of technology can change the world, you are passionate about your work, naturally curious and eager to learn, then this is the right place for you. We know how to provide you with the exact conditions you will need to be able to develop. We’re looking for people who can translate bold visions of the future into real projects and products.
+For our team, we are looking for a
+Working Student (m/f/d) Software & Mobile Devices Testing
+Location: Schwalbach/Taunus near Frankfurt/Main
+Start Date: 01.05.2023
+Key Responsibilities:
+Project support: support time-sensitive projects by analyzing risks and prioritizing tasks, also support numerous projects throughout the course of the software development until the technical acceptance and shipping release approval
+Communicate with internal R&D, customers like mobile network carriers and third-party developers to stay up-to-date with the risk level and defect resolution progress, also create and update existing test cases to improve product test coverage and effectiveness with evaluating test metrics to measure project exit criteria
+Automation test: Set up and lead automation test support; design, develop and review automation test scripts (Python) based on UI object and Android low level system functions
+Agile/Scrum(GitLab/Bamboo) work with Samsung HQ and other European countries to increase automation test rate and maintain OS upgrade compatibilities
+Bixby 2.0 (digital assistant): Test process set-up, UX document/test case review, defect review, classification and handling with R&D, test progress and status, test team performance evaluation, workload balancing
+Self-certification network operator customized software: in charge of GSM/WCDMA/5G/5G-SA operator requirement verification and UE function in IMS architecture protocol verification with Vo5G, VoWiFi, RCSe
+Coordinate Samsung local office in different European countries to verify local operator network requirement and gather results for final report
+5G: Lead 5G test hardware performance tests for 5G/5G-SA
+Set up 5G test process including test environment, precondition, reference compare and PASS/FAIL criteria for static/mobility 5G performance and protocol verification
+Provide customer service for user trial OS Android
+Verify customer feedback of defect report/suggestion and forward to dedicated R&D team
+Requirements:
+Enrolled student within Computer Science, Electronics, Engineering or any related discipline
+Experience in the area of Software verification and testing
+Technical Know-how in the area of mobile communications and mobile-tech business
+Fluency in German and English, both spoken and written
+High level of flexibility
+Good problem-solving skills, ability to prioritize, critical thinking and hypothesis development skills
+Proactive business mindset, driving business opportunities through to completion
+Outstanding multitasking and teamwork capabilities
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Samsung Electronics GmbH
+Am Kronberger Hang 6, 65824 Schwalbach am Taunus, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

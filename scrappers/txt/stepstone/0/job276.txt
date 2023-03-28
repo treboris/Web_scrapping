@@ -1,0 +1,53 @@
+Jobs by email
+MED-EL Medical Electronics
+System Engineer, Cloud Infrastructure and Platforms (m/f/d)
+Innsbruck
+Permanent contract
+Full Time
+Published: 29 minutes ago
+Save
+About MED-EL
+MED-EL is a leading manufacturer of innovative medical devices for the treatment of various types and degrees of hearing loss. Our unique portfolio of implantable hearing solutions benefits thousands of individuals in more than 130 countries worldwide. With headquarters in Innsbruck, Austria, MED-EL has over 2,500 employees around the world.
+System Engineer, Cloud Infrastructure and Platforms (m/f/d)
+Information Technology
+Innsbruck, Austria
+Professionals / Full-Time / Permanent
+Your Tasks
+Work directly with stakeholders across the company on internal and customer facing projects
+Develop and implement new IaaS and PaaS deployments, mechanisms, and procedures for high-availability environments in the cloud; build and maintain infrastructure on Azure, AWS and GCP using automation tools like Terraform; migrate internal workloads and business applications from on-prem into cloud
+Implement controls to ensure security and compliance of our cloud infrastructure and services
+Coordinate deployments, changes and operations with our internal departments and external partners
+Contribute your ideas and take responsibility for the implementation of cloud deployments in coordination with the IT cloud architect
+Your Profile
+Passion for cloud and innovative technologies, IT, innovation and cloud technologies should be part of your DNA
+At least two years of experience with Microsoft Azure or AWS; certifications and experience in an enterprise environment are a plus
+Practical knowledge of Linux and Windows servers as well as scripting languages
+Experience with Windows, Linux, virtualization, containers, Infrastructure as Code, automation, and deployment pipelines
+Excellent command of written and spoken English, German is a plus
+Your Benefits
+Central Location
+Employee Discounts
+Flexible Hours
+International Environment
+Onboarding
+Workplace Well-Being
+Minimum Salary
+Salary will be determined based on professional experience; the formal minimum salary according to Collective Bargaining Agreement is € 41,691.44.
+Further information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+MED-EL Medical Electronics
+Fürstenweg 77a, 6020 Innsbruck, Österreich
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

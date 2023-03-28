@@ -1,0 +1,76 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
+Ehhez hasonló állások
+Javasolt állások
+További állások a Randstad Hungary Kft. hirdetőtől
+TESZTRENDSZERFEJLESZTÉSI CSOPORTVEZETŐ (PROJEKTVEZETÉS, TESZTRENDSZEREK, ANGOL)
+                  25.03.2023,               
+IMPC Personnel Hungária Kft. 
+Veszprém 
+      IT / Informatika    
+Elmentem az állást
+Elmentem az állást
+PROJECT MANAGER (System Validation)
+                  25.03.2023,               
+IMPC Personnel Hungária Kft. 
+Veszprém 
+      IT / Informatika    
+Elmentem az állást
+Elmentem az állást
+Cyber security specialist
+                  24.03.2023,               
+Hire-One Kft. 
+Veszprém 
+      IT / Informatika | Gyártás / Termelés    
+Elmentem az állást
+Elmentem az állást
+További állások
+Pozíció leírása / Job description
+Partnerünk, a világ egyik vezető autóipari technológiai nagyvállalata számára keresünk Beágyazott szoftverfejlesztő mérnök kollégát veszprémi központjába. A veszprémi gyár a világ valamennyi autógyártója részére állít elő gépjármű menetbiztonsági rendszerekhez magas minőségű  szenzorokat. 
+Hardverközeli szoftver modulok tervezése és fejlesztése intelligens akkumulátor szenzorokhoz
+Memória menedzsment, időzítők, megszakítások és SPI
+Az elkészült hardverközeli modulok fejlesztői tesztelése a céleszközön (Development board, PCB, kész termék)
+A felfedezett hibák analizálása, debuggolása és javítása
+Programozható tápok, debuggerek, logikai analizátorok, oszcilloszkóp, függvénygenerátor aktív használata a fejlesztés/fejlesztői tesztelés során
+Hatékony megoldások keresése, az erőforrások optimális kihasználásának érdekében
+Meglévő szoftver komponensek optimalizálása
+Az elkészült szoftver fejlesztés dokumentációja a belső folyamatok szerint 
+                Elvárások / Requirements
+Felsőfokú iskolai végzettség
+C programozási ismeretek
+Szakmai tapasztalat beágyazott rendszerek fejlesztésében (pl.: mikrovezérlőkkel szerzett tapasztalat)
+Analitikus gondolkodás és jó problémamegoldási készség
+Középfokú angol nyelvű írásbeli és szóbeli kommunikációs készség
+Előnyt jelent, ha rendelkezel az alábbi ismeretekkel:
+ARM, Assembly vagy
+GIT/GitHub Rhapsody vagy
+ASIL, ASPICE vagy
+CANoe és CAPL-el
+                Amit nyújtunk / Benefits
+Rugalmas munkaidő, home office lehetőséggel
+Munkavégzéshez szükséges céges laptop és mobiltelefon biztosítása
+Egészségbiztosítás, cafeteria és bónuszrendszer
+Pénzügyi támogatások (munkába járás ill. hétvégi hazautazás támogatása, iskolakezdési támogatás és lakáscélú támogatás)
+Coaching lehetőség igénybevétele
+Változatos vállalati eseményeken való részvétel
+Irodai étterem és kávézó
+Parkoló és biciklitároló biztosítása
+Beágyazott szoftverfejlesztő mérnök (junior) 
+Elmentem az állást
+Randstad Hungary Kft. 
+Veszprém 
+Teljes munkaidős 
+Frissítés dátuma: 25.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Készletellenőr 
+ Hegyeshalom  
+ Folyamatmérnök - Tát 
+ Tát  
+ Fémmegmunkáló gépkezelő 
+ Csesztreg  
+ Control System Engineer (Debrecen) 
+ Debrecen  
+ Senior Quality Assurance Lead 
+ Budapest  

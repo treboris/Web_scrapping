@@ -1,0 +1,57 @@
+Jobs by email
+MED-EL Medical Electronics
+System Engineer, Digital Workplace (m/f/d)
+Innsbruck
+Permanent contract
+Full Time
+Published: 1 week ago
+Save
+About MED-EL
+MED-EL is a leading manufacturer of innovative medical devices for the treatment of various types and degrees of hearing loss. Our unique portfolio of implantable hearing solutions benefits thousands of individuals in more than 130 countries worldwide. With headquarters in Innsbruck, Austria, MED-EL has over 2,500 employees around the world.
+IT_12303
+System Engineer, Digital Workplace (m/f/d)
+Information Technology
+Innsbruck, Austria
+Professionals Full-Time 38.5 h Permanent
+Your Tasks
+Manage the automated installation and configuration of our endpoints for colleagues around the globe via Intune and SCCM
+Manage VDI environments based on VMware Horizon (on-premises) and Azure Virtual Desktop (Cloud) to stream business applications and desktops to our colleagues around the globe
+Implement controls and automation to ensure the reliability, security and compliance of our digital workplace
+Monitor the digital user experience and take proactive actions to improve it
+Contribute your ideas and take responsibility for the implementation of cloud deployments in coordination with the IT cloud architect
+Your Profile
+Passion for IT, innovation and innovative technologies should be part of your DNA
+At least two years of experience with Intune or SCCM
+Practical knowledge of Windows client operating systems, knowledge for Apple Mac OS X or Ubuntu is a plus
+Motivation to improve own skills and drive change to stay innovative and provide our colleagues the greatest user experience possible
+Excellent command of written and spoken English, German is a plus
+Your Benefits
+Central Location
+Employee Discounts
+Flexible Hours
+International Environment
+Onboarding
+Workplace Well-Being
+Minimum Salary
+Salary will be determined based on professional experience; the formal minimum salary according to Collective Bargaining Agreement is
+€ 41,691.44.
+Earliest Entry Date
+This position is to be filled immediately.
+Further information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+MED-EL Medical Electronics
+Fürstenweg 77a, 6020 Innsbruck, Österreich
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

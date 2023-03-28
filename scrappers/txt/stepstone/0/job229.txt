@@ -1,0 +1,36 @@
+Jobs by email
+Würth Elektronik eiSos GmbH & Co. KG
+Intern in the area of embedded software development (m/f/d)
+München, Trier
+Internship
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Your future. Pump it up!
+The Würth Elektronik Group with more than 8200 Mitarbeitenden in 50 countries manufactures and sells electronic and electromechanical components, circuit boards and intelligent power and control systems. The business unit Würth Elektronik eiSos with Headquarters in Waldenburg, Germany, is specialized on electronic and electromechanical components and one of the most successful in the Würth Group.
+What to expect
+Gaining valuable hands-on experience in our Wireless Connectivity business area and taking on the following tasks:
+Creation of communication bridge in-between sensors, a µC and a remote unit
+Developing the embedded software for the µC (ARM Cortex M based) in C
+Implementing the communication over I²C and UART with the µC as bridge
+Testing the project with different sensors
+Documenting the source code, communication protocol and test
+What you bring
+Studies in electrical engineering, computer science, information technology or a comparable field of study
+First experience in embedded Software development and good skills in C programming language
+First experiences with sensors and I²C communication
+Very good knowledge of English and good knowledge of German
+Your strengths: independence, initiative, ability to work in a team
+What we offer
+Outstanding corporate culture that puts a high value on mutual esteem and team spirit
+Extensive orientation training and numerous learning and development opportunities
+Diverse benefits such as our WEtality health and sports programme, a subsidized company canteen, corporate events, commuting allowance
+We live and value diversity
+Possibility to write the final thesis in the company
+Ready for your future?
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Certificates

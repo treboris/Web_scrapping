@@ -1,0 +1,131 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Baranya megye
+Pécs
+Következő 
+VR Játékfejlesztő
+AXIS Flight Training Systems GmbH
+7621 Pécs
+ Elvárt technológiák
+C++
+JAVASCRIPT
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Szakmai tréningek
+ Elvárt technológiák
+C++
+JAVASCRIPT
+AXIS Flight Training Systems GmbH
+Bővülő csapatunkba
+VR Játékfejlesztő
+munkatársat keresünk.
+Az AXIS Flight Simulation tehetséges és tapasztalt játékfejlesztőket keres izgalmas új VR repülőgép és repülés szimulációs oktató termékéhez.Az elmúlt közel 20 év alatt az osztrák lebringi székhelyű AXIS Flight Training Systems vállalat a repülőgép-szimulátorok fejlesztésére specializálódva az egyik legjelentősebb iparági szereplővé vált.A mintegy 70 fős központon túl, a vállalat dinamikusan fejlődő pécsi irodájába keres további kollégákat, akiknek lehetőségük lesz a repülés izgalmas világába bepillantani és kihívásokkal teli új projekteken és technológiákon dolgozni.
+Főbb feladatok, munkák:
+3D-s modellek létrehozása és implementálása VR környezetben.Modellek optimalizálása, animálása real-time VR alkalmazásra.Level design: 3D-s környezetek létrehozása és módosítása a különböző tréning szenáriókhoz.Dizájnötletek és különböző tréning szenáriók funkcionális játékkódokká alakítása.Részvétel az átfogó koncepciók és storyboard-ok létrehozásában.Szoros együttműködés a csapat többi tagjával, törekedve a vizuális konzisztenciára és projekt folyamatok gördülékenységére.Hozzájárulás hang- és animációtervezéshezBiztosítani a projekt esztétikai és vizuális megjelenésének magas minőségét.A felmerülő technikai problémák azonosítása, megbeszélése és megoldása a csapattal.Hiba javítások elvégzése (bug fixing).
+Az álláshoz tartozó elvárások:
+Felsőfokú informatikai vagy programozói végzettség, vagy más egyenértékű végzettség, tapasztalat.Erős 3D modellező ismeretek olyan szoftverekkel mint, Maya, 3Ds Max vagy Blender.Jó művészi és esztétikai érzék.Unreal Engine vagy Unity ismeret.C++ és JavaScript programozási nyelvek ismerete.Textúrázási és árnyékolási szakértelem a 3D modellek valósághű megjelenéséhez.Fényelési és renderelési jártasság végső képek vagy animációk készítéséhez.A játékfejlesztés iparági szabványainak és folyamatainak ismerete, rendszer és folyamatszemlélet.Jó probléma megoldó és hibakereső képesség.Rugalmasság és alkalmazkodóképesség a különféle 3D-s komponenseken való munkavégzéshez.Hatékony kommunikációs képesség, csapatban történő munkavégzés.Jó szóbeli és írásbeli kommunikáció angol nyelvenSzenvedély a szoftverfejlesztés és a repülés iránt.
+Az állás betöltéséhez előnyt jelent:
+Hasonló munkakörben, projektekben szerzett tapasztalat.
+Amit kínálunk:
+Egy motivált fiatalos csapat tagja lehetsz, amelyben nagyra értékelik elkötelezettségedet.Érdekes és innovatív technologiákkal foglalkozó projektekben való részvétel. Rugalmas flexitime modell és home office lehetőség.Modern iroda Pécs belvárosában jó tömegközlekedési kapcsolattal.Ingyenes kávé, tea és szezonális gyümölcs.Csapatrendezvények és továbbképzési lehetőségek.Versenyképes fizetés
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezés módja:
+A "Jelentkezés" gombra kattintás után csatolja és küldje el nekünk angol nyelvű önéletrajzát.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Szakmai tréningek
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahelyi extrák
+Céges rendezvények
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+VR Játékfejlesztő
+AXIS Flight Training Systems GmbH
+7621 Pécs
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

@@ -12,3 +12,6 @@ https://www.stepstone.de/work/it?page=1&fdl=en
 jobline
 cv online
 profession
+
+javascript doesnt read data
+https://stackoverflow.com/questions/40255128/how-to-parse-the-website-using-beautifulsoup

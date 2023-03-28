@@ -1,0 +1,29 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Test Engineer (Jira) 
+A thyssenkrupp egy nemzetközi vállalatcsoport, amely nagyrészt független ipari és technológiai üzletágakból tevődik össze, és világszerte 96 000 embert foglalkoztat. A 2021/22-es pénzügyi évben 48 országban 41 milliárd eurós árbevételt ért el. A széleskörű technológiai know-how-ra támaszkodva az üzletágak költséghatékony és erőforrás-kímélő megoldásokat fejlesztenek a jövő kihívásaira, különösen az éghajlatvédelem, az energetikai transzformáció, az ipar digitális átalakulása és a jövő mobilitása terén.
+Magyarországi kompetencia központunkban közel 1000 fős mérnökcsapatunkkal innovatív partnerként vagyunk jelen az autóipar egyik leggyorsabban és legizgalmasabban fejlődő szegmensében, az elektromechanikus kormányrendszerek területén. Kiemelkedő minőségű, high-tech fejlesztéseinkkel neves autógyárak igényeit elégítjük ki, fejlesztéseink pedig a világszerte autóba szerelt kormányrendszerek 25 százalékában megtalálhatóak. Mérnökeink olyan ma még nem létező megoldásokon is dolgoznak, amelyek megváltoztathatják az autóipar jövőjét.
+ Tasks / Feladatok
+Tool-fejlesztő csapatunkba keresünk Test Engineer kollégát manuális- és automatizált tesztelési területre! A csapat új alapokra helyezte a JIRA-t, mint project management eszközt. Ehhez a szoftverhez fejlesztünk plugin-t a beérkező igények alapján. Csapaton belül nagy hangsúlyt helyezünk a kreatív problémamegoldásra, közös gondolkodásra a beérkező igények megvalósításának módjáról. Ha csatlakozol hozzánk, egy összetartó csapat részeseként felelnél a projekt tesztelési tevékenységeiért, ami magában foglalja a manuális és az automatizált tesztelési területeket is.
+Feladatok:
+Tesztesetek írása és karbantartása fejlesztési specifikáció és dokumentáció alapján
+Egyedi fejlesztések funkcionális tesztelése manuálisan
+Backend és frontend funkciók tesztautomatizációja
+Tesztek kiértékelése, bugok jelentése, javítások validálása dokumentációja
+Teszt-lefedettség nyomonkövetése
+Terheléses és teljesítmény-tesztek írása, futtatása és kiértékelése
+ Requirements / Elvárások
+Felsőfokú végzettség IT területen
+Legalább 2 év tapasztalat tesztautomatizálásban, vagy manuális tesztelésben és programozásban
+Jó kommunikációs készség
+Önálló munkavégzés, proaktív személyiség
+Középfokú angolnyelv-tudás (írás, olvasás)
+Előnyök
+Cypress, Karate, Jira ismerete
+ Offer / Ajánlatunk
+A XI. kerületben található modern irodaházunkban kreatív környezetben dolgozhatsz, ahol sok színes közösségi tér, saját moziterem és egy skybar is vár
+Rugalmas munkaidővel és home office lehetőséggel támogatunk (a legtöbb területen a havi munkaidő 60%-a)
+Versenyképes fizetést és széleskörű juttatásokat (cafeteria és bónusz) biztosítunk számodra
+Részese lehetsz egy sikeres, gyorsan növekvő technológiai vállalatnak
+Új nyelveket tanulhatsz nálunk (5 nyelv közül választhatsz)
+Szabadidős programokon kapcsolódhatsz ki (társasjátékok, sportolási lehetőség)
+Jelentkezem

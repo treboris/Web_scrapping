@@ -1,0 +1,76 @@
+Jobs by email
+Mercedes - Benz AG
+MB.OS Connectivity Architect (f/m/x)
+Sindelfingen
+Permanent contract
+Full Time
+Published: 2 weeks ago
+I'm interested
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER0002BCW
+Tasks
+Inside Mercedes-Benz Cars Research & Development (RD) we shape the future of upcoming Mercedes-Benz vehicle generations. We stand for most innovative products of superior quality and aspire to be the leader in the fields of electric mobility and vehicle software. Therefore, it is our daily business to work on the technologies and vehicles of tomorrow.
+Description:
+Data, AI and connected vehicles play a central role in the digital transformation of Mercedes-Benz Research and Development. The focus of our department is on data and connectivity. A wide variety of rich data sources including data from our test and endurance vehicle fleets, our customer vehicle fleet, from test benches, workshops and production lines defines substantial potential for our product development as well as business.
+Within Mercedes-Benz Operating System (MB.OS) we are re-defining the way how the car communicates with the cloud. To increase the focus on the connectivity topic within MB.OS a new team is being established in our department and we are looking forward to welcome you as our new team member.
+Our Connectivity Team is a product centric team, responsible to implement 'vehicle to cloud connectivity solutions' and establish a new Connectivity Strategy within our company. We develop solutions that satisfy the needs of MB.OS applications, abstract the communication complexity from them and let them focus on their business case. When developing new communication solutions, we work with agile methods and use state-of-the-art technologies in cooperation with internal and international project partners, e.g., in India, USA and China.
+We offer:
+We are a highly motivated, open-minded, international team of in-house (software) developers and engineers, bringing vehicle to cloud connectivity to the next level. Within an innovative project environment, we offer room for you to bring in and realize your own ideas.
+These challenges await you:
+You are responsible for the end-to-end design & further development of a secure, robust IoT (Internet of Things) connectivity architecture for the interaction of vehicle applications with services in the cloud, e.g., to be able to offer autonomous driving functions
+You are responsible for the solution design of connectivity products for vehicle and cloud applications with focus on easy usability for the MB.OS application developers and short time to market for new applications
+You develop a cross-domain technology and sustainable solutions, that range from embedded systems (based on AUTOSAR) to cloud native systems (Kubernetes, IoT products of the respective cloud providers, ...)
+You drive detailed analysis and you have a deep understanding of subsystems (embedded, network, cloud application, customer frontend) and provide the overall system requirements
+You shape the connectivity product in the cloud with our international in-house development teams to build highly available services in the cloud
+You coordinate the onboard, backend and frontend teams to ensure the best possible end-to-end experience to customers
+You work in an agile development environment while continuously evaluate and improve engineering processes
+You cooperate and collaborate with international teams in order to develop state of the art solutions
+You are willing to travel internationally
+#mbos
+Qualifications
+What you bring to the table:
+Degree in Computer Science, Information Technology, Electrical Engineering, or a comparable qualification
+Very good knowledge of existing network protocols, architectures, and the specific purposes
+Very good knowledge of architecture and design patterns for communication in distributed systems
+Several years of experience with highly scalable communication networks and architectures for IoT applications
+Knowledge of cloud technologies and IoT products from major cloud providers
+Ideally having knowledge of CI/CD toolchains and having worked with tools such Atlassian Toolchain, GitHub or others for progress tracking and project documentation is a plus
+Business fluent English and German skills and the passion to drive transformational changes in the organization using agile methodologies
+Soft Skills:
+Excellent communication and teamwork skills
+Ability to prioritize tasks, set yourself goals and work self-organized to achieve them
+Ability to clearly describe and communicate complex problems and elaborate solution
+Openness and self-motivation to learn, give and receive feedback and develop yourself further
+Ability and flexibility to work in intercultural and international teams
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: s bv-sindelfingen@mercedes-benz.com
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+Mercedes - Benz AG
+71063 Sindelfingen, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

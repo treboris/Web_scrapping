@@ -1,0 +1,50 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Python Software Engineer  
+Your new company
+Are you intrigued by using the newest technologies in the area of machine-learning, advanced optimizations and simulations? We are looking for a Software Engineer who will apply software engineering best practices in the area of optimization and develop a set of tools that resolve the issues concerning fleet, ground services and network in the case of travel disruption. At our business platforms Flight or Ground, you will work shoulder to shoulder with other engineers, data scientists, operations research experts and frontline staff to shape the future of the aviation industry.
+Your new role
+As Software Engineer you will be working at one of our business platforms; Flight or Ground, with the aim to make airline the most data-driven airline in the world. We build applications and models to support decision making and operations in the complex airline operation.  You can look forward to co-create with gate agents, flight attendants and operations experts at the airline. Close coordination with data scientists, operations research experts and other engineers in an agile product team way of working is an integral part of your work. 
+You will also coach your (Data Scientist) teammates in the intricacies and best practices of software engineering, CI/CD, API design, and more.  As part of your job, you’ll also design the right architecture together with senior software engineers and you’ll evaluate technology choices to solve the problem at hand. For us, engineering and architecture go hand in hand. 
+Last but not least, you are encouraged and expected to spend 10% of your time with us learning new things, doing research and developing yourself. You can do this by doing courses, reading papers, or doing cool hack-projects with your colleagues. The projects you do in your 10% time have to be related to your role, but don’t have to be related to the project you normally work on with your team.
+What you'll need to succeed
+We are looking for passionate and talented software engineers, for curious builders who are biased towards action, communication and are thriving in a fast-paced and international environment.  We have found that people who match the following requirements are the ones who fit us best:
+5 years prior experience with Python and it’s ecosystem (e.g. MyPy, FastAPI, Django, Flask, SQLAlchemy)
+Experience with databases and SQL
+Experience with building APIs and knowledge of REST API best practices
+Knowledge of continuous integration/continuous deployment techniques 
+Proficient with automated testing 
+Experience with bringing (data science and/or operations research) models to production and supporting data scientists in industrializing their code 
+Experience in coaching and knowledge sharing to familiarize teams with software engineering best practices
+Great communication skills, written and spoken (English) and team spirit
+This role requires participation in our on-call support rotation
+Available to come to the office, there are no formal rules about work from home yet, but most teams have a hybrid way of working.
+ In addition, the following requirements are considered nice to have:
+Preferably Bachelor degree or higher in Computer Science, Software Engineering or other relevant fields 
+Experience with architecture design
+Experience with other general purpose programming languages (e.g., Scala, Java, TypeScript)
+Experience with Docker and Kubernetes
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+Senior Python Software Engineer  
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 25.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Embedded Software Engineer 
+ Budapest  
+ Software Engineer Front-end 
+ Budapest  
+ Senior Software Engineer 
+ Budapest  
+ Software Engineer - Senior 
+ Budapest  
+ DevOps Engineer 
+ Budapest  

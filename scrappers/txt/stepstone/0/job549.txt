@@ -1,0 +1,73 @@
+Jobs by email
+Flaconi GmbH
+Senior Full-Stack Engineer (m/f/d)
+Berlin
+Permanent contract
+Full Time
+Published: 1 day ago
+Show salary
+Save
+flaconi is one of Germany’s leading online beauty retailers. Our online shop’s portfolio offers more than 850 international brands and 55.000 products in the categories of perfume, skin care, make-up, hair care, natural cosmetics and accessories, covering from drugstore to organic to premium products.
+flaconi was founded in 2011 and has a team of over 700 employees working from three locations: Our HQ in Berlin-Charlottenburg, our logistics center in Halle and our concept store in Berlin-Mitte. We are also represented in Austria and Poland.
+What you can expect
+You work collaboratively with Product, UX/UI Designers and Engineers to scope, design, and implement user-facing features with high complexity that go beyond conventional eCommerce
+In addition, you implement product features that have a direct impact on user engagement, experience, and eventually monetization
+You take ownership of the whole development cycle - from architectural design to implementation, testing, deployment and maintenance
+Therefore, you own your individual code base, write appropriate unit and integration tests, and continuously deploy accepted features
+You write elegant, maintainable and scalable in JavaScript/HTML/CSS
+Furthermore, you coach and mentor your engineering team on frontend guidelines (e.g. Atomic Design), best practices and frameworks that help us create amazing products
+You actively participate in product & feature discovery sessions with our Product Managers
+Beyond this you boost our Engineering culture that encourages knowledge sharing and mutual development, respect and transparency
+Your essential experience and education
+Highly proficient in JavaScript, HTML, CSS and the ecosystem around it / PHP is a plus
+Experience in design and development on a highly distributed cloud system
+Good understanding and knowledge of programming for back-end application as well as understanding of UX design principles
+Working experience with different levels of test automation - especially Unit tests (Jest, PHPUnit, pytest) or E2E tests (selenium)
+Desirable would be the experience with serverless architecture, AWS services (Lambda, SQS, SNS and DynamoDB) or infrastructure as code (Terraform or Cloudformation)
+Experience building web applications using modern JS libraries/frameworks e.g. React, Redux, TypeScript
+Experience in building/automating CI/CD pipelines
+English language fluency
+What's in it for you?
+Full transparency: For this role, we have a salary band between 52,000€ and 74,000€ gross per year as a Mid-Level and between 62,000€ and 90,000€ as a Senior. The salary that we will offer you will always be within this span and is based on the skills and experience that you show during the recruitment process
+Our employees matter to us: We offer you a permanent contract, a BVG ticket and relocation support for international applicants moving to Germany
+Work-life balance: 29 Vacation days, flexible working hours, up to three days of homeoffice a week and the possibility of a paid sabbatical
+flaconi Academy: Actively shape your own career path by taking advantage of our internal and external training opportunities
+We care about your well being: We want to support you also during the difficult times. For this, we offer you and your close relatives counseling sessions with mental health professionals
+flaconi Fitness: A wide range of sports options & discounts on memberships
+Family first: Our "emergency-daycare" is there for you in out-of-the-ordinary situations to look after your child on site at our office
+Thinking about tomorrow together: flaconi subsidizes your savings contribution to the company pension scheme with an additional 20%
+A comfortable working space with everything you need: HIgh end technical equipment, fruits and drinks, no dress code and dogs are welcome in our office!
+Other perks: Great discounts in our online shop as well with our partner companies, cool team events & company parties!
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Flaconi GmbH
+10587 Berlin, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Employee discount
+Sabbatical
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Extra day off
+Public transport ticket
+Car/Travel allowance
+Dogs allowed
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

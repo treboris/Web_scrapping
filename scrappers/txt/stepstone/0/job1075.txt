@@ -1,0 +1,70 @@
+Jobs by email
+BioNTech SE
+UI Software Engineer*
+Mainz
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+Show salary
+I'm interested
+Save
+Become a member of the BioNTech Family!
+As a part of our team of more than 4.000 pioneers, you will play a key role in developing solutions for some of the most crucial scientific challenges of our age. Within less than a year, we were able to develop our COVID-19 mRNA vaccine following the highest scientific and ethical standards - writing medical history.
+We aim to reduce the suffering of people with life-changing therapies by harnessing the potential of the immune system to develop novel therapies against cancer and infectious diseases. While doing so, we are guided by our three company values: united, innovative, passionate. Get in touch with us if you are looking to be a part of creating hope for a healthy future in many people's lives.
+Your tasks
+Your main responsibilities are:
+* Cooperate on the conception and development of UI software libraries and standards for Web-, Cloud-, and desktop applications. First and foremost with egui for Rust, WebAssembly, Javascript and Typescript
+* Design, implementation and integration of User Interface in concrete software development projects
+* Actively participate in, and promote, a global standardization of UI elements
+* Support and enable agile software development teams in creating user interfaces
+Your profile
+What you have to offer:
+* Bachelor's and/or master's degree in Computer Science, Computer Engineering, or related technical discipline
+* Several years experience in front-end or UI development with system languages such as C# or rust (with WebAssembly and egui)
+* Good knowledge in JavaScript and JavaScript Frameworks (such as React, Vue.js)
+* Knowledge of professional software engineering and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and CI/CD
+* Excellent verbal and written communication skills especially for technical content
+* Team player with ability to work without supervision
+What we offer
+Benefits for you.
+Company Pension Scheme
+Childcare
+Jobticket
+Company Bike
+Leave Account
+Fitness Courses
+Mobile Office
+Special Vacation
+... and much more.
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+BioNTech SE
+55131 Mainz, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Home office
+Public transport ticket
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

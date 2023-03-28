@@ -1,0 +1,90 @@
+Jobs by email
+MBition GmbH
+Engineering Lead in-vehicle infotainment System Analysis Team (all genders) - Berlin
+Berlin
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: P0142V556
+Aufgaben
+At MBition, we are bringing digital luxury to mobility users around the world. To accomplish this, we are redefining how software is developed within the automotive field as part of an international Mercedes-Benz software development network. As a 100% subsidiary of Mercedes-Benz AG, we develop and integrate the next generation of Mercedes-Benz in-car infotainment systems that are based on the Mercedes-Benz Operating System (MBOS). In addition, we are responsible for the Mercedes me companion app, we provide seamless & connected mobility experiences and we contribute to Advanced Driver Assistance Systems (ADAS) platform development.
+Your Mission
+As Engineering Lead of System Analysis Team Reactive you will:
+Collaborate and coordinate with project stakeholders, external partners, other engineering leads 
+Lead, develop and empower your system analysis team 
+Be responsible for hiring and professional development of a system analysis team
+Remove the most important obstacles, make sure that your team is able to work
+Provide guidance and concrete support for your team by backtracking the sneakiest cross-domain issues and finding appropriate solutions
+Work with different systems and technologies, maintain the heat-map of challenging areas and ensure state of the art technical implementations in coordination with other engineering leads
+Qualifikationen
+Your Profile 
+Education
+Degree in Computer Science, Information Technology, Communication Technology or a comparable qualification
+Experience 
+Minimum 2 years of leadership experience in an agile organization
+Extensive hands-on experience of embedded software development 
+Minimum 3 years of system analysis management experience
+Understanding of agile and classic development processes and tools
+Solid knowledge of C/C++, Python, Shell
+Fluency in Linux based analysis tools
+Nice to have
+Experience in automotive and/or infotainment products
+Experience with large-scale Agile frameworks (SAFe, LeSS, Scrum@Scale)
+Understanding of challenges and constraints within automotive domain and processes
+Experience with Yocto build system, QNX, AUTOSAR classic/adaptive
+Knowledge with automation frameworks and CI/CD
+Personal skills:
+Pronounced team spirit, well-developed teamwork and communication skills
+High degree of independence, creativity, ability to cooperate, personal initiative, perseverance and resilience
+Solution and goal-oriented way of working, strong analytical and problem-solving skills
+Excellent organizational, time management, prioritization and multi-tasking skills
+Ability to handle multiple competing priorities in a fast-paced environment
+High level of commitment, willingness to learn and quick comprehension
+Strong project and stakeholder management skills
+Language skills:
+Proficient in English, German is a plus
+Zusätzliche Informationen
+Why us?
+What we offer 
+A chance to work on a new generation of infotainment systems, which will power millions of cars
+An international, interdisciplinary innovation lab, which is part of the Mercedes-Benz AG
+Agile working methods and open feedback culture
+A brand new modern and fully accessible office facing the Spree
+Flexible working hours
+Mobility Budget, Healthcare Budget & more benefits 
+ Interested?
+We look forward to receiving your complete application, including CV (in English) and relevant references with the following information:
+• Job title and reference number
+• Salary expectations
+• Earliest start date
+You don't bring everything with you? Don't worry, MBition is proud of our diverse workforce and passionate about having MBitioneers from all backgrounds and perspectives. MBition is and always will be an equal opportunity employer. We are looking for employees who convince us above all with their personality and passionately motivated to join the team!
+You are welcome to contact our representative for severely disabled employees, Anna Schade (anna.schade@mercedes-benz.com), who will support you in the further application process
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+MBition GmbH
+10587 Berlin, Germany
+Company Benefits
+Additional medical services
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Coaching
+Home office
+Company car
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

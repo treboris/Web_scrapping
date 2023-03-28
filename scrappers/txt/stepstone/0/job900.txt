@@ -1,0 +1,75 @@
+Jobs by email
+E.ON Digital Technology GmbH
+Senior Agile Engineer (f/m/d)
+Essen, Hannover, München, Würzburg, Berlin
+Permanent contract
+Full Time, Part time
+Published: 1 week ago
+Show salary
+No cover letter required
+Save
+About us
+E.ON Digital Technology GmbH | Permanent | Part or Full time
+E.ON Digital Technology (EDT) manages and implements with around 2,200 employees the digital transformation of E.ON. EDT is headquartered in Hanover, Germany and is internationally present across all E.ON locations.
+E.ON is one of the strongest operators of European energy networks and energy-related infrastructure, as well as a provider of advanced customer solutions for more than 50 million customers. With a total of over 75,000 employees we are represented in 15 countries. By focusing on two sustainable growth areas and with the acquisition of innogy, we are ideally positioned to drive the energy transition in Germany and Europe.
+At E.ON diversity matters. We welcome all people and are convinced that differences make us stronger. Become part of our inclusive and diverse company culture!
+We are looking for a Senior Agile Engineer (f/m/d) to join our E.ON Digital Technology GmbH team. This role can be filled at any EDT site within Germany.
+Your task
+Responsibilities
+You act as a lead engineer for Agile Platform based on tools such as Atlassian Jira, Atlassian Confluence, Atlassian Trello, Slack, Mattermost, Miro
+You act as Subject Matter Expert for Jira and Confluence administration (workflows, screens, issue types...)
+You consult groupwide project teams and implement agile processes on our Agile Platform
+You migrate Jira & Confluence instances to our central Agile Platform
+You mentor and support project teams on Agile practices and provide trainings to product teams
+You design and present brownbag sessions for our Agile Platform (Plugins, Integrations, Implementations)
+You ensure compliance to enterprise architecture, global information security policies and engineering strategy by applying standard methodologies, processes and tools
+Your profile
+Qualifications
+Deep understanding of Agile Methodology (Scrum /Kanban/Scaled Agile)
+Several years of experience in design and implementation of processes in Jira
+Deep understanding of standard Agile tools such as Jira, Confluence
+Ideally experience with Groovy Scripting, Trello, Slack, Mattermost, Miro
+Solid conceptual and analytical skills
+Openness to new topics and challenges combined with out-of-the-box thinking
+Independent and self-responsible way of working paired with the ability to work in a team
+Strong communication and presentation skills
+High degree of energy drive and enthusiasm
+Fluent in German and English
+Willingness to travel
+Our benefits
+Benefits
+We provide full flexibility: Do your work from wherever you want in Germany; of course including all our great offices (from Hamburg to Munich). You want even more? Go on workation for up to 20 days per year within Europe.
+Recharge your energy: You have 30 holidays per year (Christmas and New Year's Eve are always free days). Your battery still needs charging? You can exchange parts of your salary for more holidays or you take a sabbatical.
+Your development: We grow - and we want you to grow with us! We support you with individual trainings and push your personal and professional development to the next level.
+We elevate your mobility: From car and bike leasing schemes to job tickets for most of our locations- your way is our way.
+We also think ahead: With our company retirements scheme and a great insurance package we take care of your future.
+This is by far not all: We are looking forward to speaking with you about further benefits during the recruiting process.
+Get in touch
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Stock options
+Coaching
+Home office
+Company car
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,83 @@
+Jobs by email
+MBition GmbH
+Software Delivery Lead - Berlin
+Berlin
+Permanent contract
+Full Time
+Published: 1 day ago
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: P0142V715
+Aufgaben
+About us
+At MBition, we are bringing digital luxury to mobility users around the world. To accomplish this, we are redefining how software is developed within the automotive field as part of an international Mercedes-Benz software development network. As a 100% subsidiary of Mercedes-Benz Group AG, we develop and integrate the next generation of Mercedes-Benz in-car infotainment systems that are based on the Mercedes-Benz Operating System (MBOS). In addition, we are responsible for the Mercedes me companion app, we provide seamless & connected mobility experiences and we contribute to Advanced Driver Assistance Systems (ADAS) platform development. With offices in Berlin and Sofia, we are aiming to bring new generation of innovative infotainment systems across the globe.
+Your Mission 
+The Software Delivery Team leads the integration, verification and delivery of the latest infotainment software for Mercedes-Benz cars. Building upon a state-of-the-art set of infotainment technology, the team builds custom-made solutions for specific car lines and markets. It bridges the on-cadence development of reusable platform technology with the on-demand software releases to in-market vehicles. As the Software Delivery Lead for Infotainment Software Development (all genders), you will manage a cross-functional software delivery team in a mix of line and project management responsibilities. Based on daily interaction with the customer, you will collaborate with project managers and product owners to secure the deliverables and remove impediments on project level. You will be one of the key contact persons to bring various stakeholders and their demands together. We are looking for a colleague with a relentless can-do attitude who is excited to solve challenging problems by collaborating with many cross-functional teams. We ask for your creativity to tackle problems, and offer you the freedom to develop yourself. 
+Sneak preview of your future tasks
+You ensure the team is able to deliver software releases from the development project to the customer car lines on time and at high quality. The software becomes part of luxury vehicles manufactured to the highest standards, so the focus is on quality and customer satisfaction.
+Your team consists of experts across all functions necessary for software delivery. You will schedule their work to match the roadmap deliveries, plan short, medium and long term availability for multiple parallel release processes and ensure the well-being and development of the team in the process.
+To ensure the best possible software quality, your team is responsible for integrating functionality into target system specific configurations, verify those on test benches and vehicles as well as documenting and delivering the software versions. This includes steering the development teams to resolve defects and integrate bug fixes upstream.
+You will coordinate these activities in a large-scale, complex software project with multiple stages of integration. Good collaboration with upstream Open Source component and platform development as well as with downstream end-to-end integration into the vehicle is essential. Deep understanding of large-scale software development processes and methods is required.
+Transparency is key to project coordination. You will ensure continuous awareness in the project and in management of the planned and actual status of the software deliveries at the necessary granularity.
+ Qualifikationen
+Your Profile 
+Experience: 
+At least 2 years of experience leading complex software delivery processes
+At least 3 years of hands-on software development expertise, demonstrated for example in upstream Open Source contributions or concrete product deliveries
+Understanding of agile and classic development processes and tools
+High degree of expertise and technical understanding for hardware and software architecture, preferably for automotive infotainment systems
+Skills and abilities:
+Hands-on software development background with a good understanding of complex software integration and modern CI/CD tools
+Collaboration in a large, diverse network of internal and external teams and with business stakeholders
+Consensus-building and decision making in a result-oriented fashion in a team of experts on cross-functional, cross-department and cross-organization topics
+Nice to have:
+A degree in computer science, technology management, information technology, automotive engineering, electrical engineering, or in a similar field
+Experience in delivering products into the market in the automotive, consumer electronics, infotainment or similar industry vertical
+Good written and oral communication skills in documents and presentations
+ Language skills:
+Proficient in English. German is a plus.
+ Zusätzliche Informationen
+Why us? 
+An international, interdisciplinary innovation hub, which is part of the Mercedes-Benz Group AG 
+Be part of a new generation Mercedes-Benz Operating System (MB.OS) and work in with internal colleagues to deliver the best software
+Agile working methods and open feedback culture 
+Flexible working hours 
+Mobility, Healthcare budget & Personal development budget
+Berlin transportation ticket (BVG)
+Relocation support 
+Company pension after the probation period
+In our close collaboration with “inklupreneur.de” we support people with disabilities and welcome everyone. 
+Interested?
+We look forward to receiving your complete application, including CV (in English) and relevant references with the following information:
+Job title and reference number
+Salary expectations
+Earliest start date
+You don't bring everything with you? Don't worry, MBition is proud of our diverse workforce and passionate about having MBitioneers from all backgrounds and perspectives. MBition is and always will be an equal opportunity employer. We are looking for employees who convince us above all with their personality and passionately motivated to join the team!     
+You are welcome to contact our representative for severely disabled employees, Anna Schade (anna.schade@mercedes-benz.com), who will support you in the further application process. 
+  Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+MBition GmbH
+10587 Berlin, Deutschland
+Company Benefits
+Additional medical services
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Coaching
+Home office
+Company car
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

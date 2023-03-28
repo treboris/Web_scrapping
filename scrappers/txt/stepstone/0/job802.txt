@@ -1,0 +1,62 @@
+Jobs by email
+About You SE & Co. KG
+Senior Backend PHP Developer
+Hamburg
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+ABOUT YOU, with headquarter in Hamburg, is one of the fastest growing eCommerce companies in Europe with its headquarter in Hamburg. As a fashion and technology corporation, along with our strong team, our ambition is to make online shopping experiences more inspiring and more personal.
+We are looking for a skilled Senior Backend PHP Developer to join one of our Tech Teams at ABOUT YOU. Our Tech Department is the heart of ABOUT YOU, driven by the passion to develop the best infrastructure & applications. You will work on high-scalable products on a cloud-based infrastructure and collaborate with developers who constantly challenge themselves to raise the bar of what is “state of the art” technology.
+Leap to the next level in your career and shape the online shopping experience of millions of customers by building the best shop infrastructure.
+What you will do
+Work on high-scalable products with PHP7 hosted on a cloud-based infrastructure
+Build and provide internal & external RESTful APIs that ensure a fast & frictionless updating of our products
+Develop multiple platforms ranging from high throughput to maximum faultlessness
+Constantly challenge and expand your knowledge of reliable software architecture, programming and new technologies
+Work with agile processes that are adapted to the team’s and project’s needs
+Exchange your knowledge with other developers and be part of our ABOUT YOU TECH community
+Who you are
+Excellent & MVP-focused coding skills in PHP7 of minimum 5 years
+Practical & recent experience with MVC Frameworks like Laravel, Symfony, Zend or Yii2
+Deep technical understanding of RESTful API’s
+Solid background in building scalable distributed products and practical experience with Caching
+Previous experience with handling & querying relational databases (e.g. , MariaDB or PostgreSQL)
+Passionate about writing well-structured, efficient and maintainable code, actively keeping the quality of the code base in check
+Comfortable working in an English-speaking & agile environment
+Benefits
+Grow together with one of the fastest growing eCommerce companie in Europe
+Flexible working times
+40% discount on our online shop
+Fresh fruits + drinks everywhere in the office
+Language courses (German & English)
+Free sport courses & reduced prices for gym membership
+Subsidized public transportation ticket
+Free choice of hardware and operating system (Mac, Windows or Linux) also for private usage
+State-of-the-art tech stack running on AWS
+Modern office in the city center of Hamburg
+International working environment and English as a company language
+Company flats (subject to availability)
+Agile work environment (MOVE) and cross-functional teams
+Free access to Germany's greatest developer conference code.talks
+Company pension scheme
+Free Laracasts and Egghead account
+Help in relocation and VISA process
+YOU ARE THE CORE OF ABOUT YOU.
+We take responsibility for creating an inclusive and exceptional environment where all genders, nationalities and ethnicities feel welcomed and accepted exactly as they are. We believe that a diverse workforce essentially contributes to the ABOUT YOU culture. In order to maintain talent and diversity, we emphasize the care for physical health, mental health and overall well-being. Our values and work ethics essentially contribute to our brand mission: empower acceptance and shape an inclusive, fair and circular fashion culture.
+We are looking forward to receiving your application – preferably via our online application portal! Thus, we can ensure a faster process and for you it is very easy to upload your application documents.
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+About You SE & Co. KG
+20095 Hamburg, Deutschland

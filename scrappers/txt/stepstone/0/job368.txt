@@ -1,0 +1,63 @@
+Jobs by email
+Mercedes - Benz AG
+Working Student Connectivity MB.OS starting April/May 2023 (f/m/x)
+Sindelfingen
+Student job, Industrial placement student
+Part time
+Published: 1 week ago
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER0002FFD
+Tasks
+Inside Mercedes-Benz Cars Research & Development (RD) we shape the future of upcoming Mercedes-Benz vehicle generations. We stand for most innovative products of superior quality and aspire to be the leader in the fields of electric mobility and vehicle software. Therefore, it is our daily business to work on the technologies and vehicles of tomorrow.
+Description:
+Data, AI and connected vehicles play a central role in the digital transformation of Mercedes-Benz Research and Development. The focus of our department is on data and connectivity. A wide variety of rich data sources including data from our test and endurance vehicle fleets, our customer vehicle fleet, from test benches, workshops and production lines defines substantial potential for our product development as well as business.
+Within Mercedes-Benz Operating System (MB.OS) we are re-defining the way how the car communicates with the cloud. To increase the focus on the connectivity topic within MB.OS a new team is being established in our department and we are looking forward to welcome you as our new team member.
+Our Connectivity Team is looking for your support to create something big. We are a product centric team, responsible to implement 'vehicle to cloud connectivity solutions' and define a new Connectivity Strategy.
+You support the elaboration of a secure, robust Internet of Thing (IoT) connectivity architecture for the interaction of vehicle applications with services in the cloud, e.g., to be able to offer autonomous driving functions
+Ideally, you have a good understanding of subsystems (embedded, network, cloud application, customer frontend) and become acquainted with the overall system requirements
+You prepare project related documents and strategy presentations
+You work in an agile development environment
+You cooperate and collaborate with international teams in order to develop state of the art solutions
+Qualifications
+You are studying Computer Science, Information Technology, Electrical Engineering, or a comparable qualification
+Ideally you have knowledge of cloud technologies and IoT products
+Ideally you have knowledge of existing network protocols, architectures, and the specific purposes
+Business fluent German and English
+You like to work independently but also in a team
+You have an analytical way of thinking and a strategic way of working You are interested in learning new things and developing yourself further
+Excellent communication and teamwork skills
+Ability to prioritize tasks, set yourself goals and work self-organized to achieve them
+Openness and self-motivation to learn, give and receive feedback and develop yourself further
+Ability and flexibility to work in intercultural and international teams
+Additional information:
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, certificate of enrollment, current performance record, relevant certificates, if applicable proof of mandatory internship and the standard period of study (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+Please find the criteria of employment here.
+Citizens of countries outside the European Trade Union please send, if applicable, your residence / work permit.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: sbv-sindelfingen@mercedes-benz.com
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the Chat-Bot on our career page via the plus symbol.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Mercedes - Benz AG
+71063 Sindelfingen, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

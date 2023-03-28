@@ -1,0 +1,43 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Műszaki szakértő (IP) 
+Érdekel a távközlési berendezések világa? Szeretnél részt venni a vasúti fejlesztési projektek által megvalósított rendszerek üzemeltetésében és  felügyeletében? Ha úgy érzed, ötleteiddel hozzá tudnál járulni a vasút népszerűsítéséhez, várjuk jelentkezésed!
+Új munkatársunk feladatai lesznek
+- Nokia és Cisco MPLS átviteltechnikai hálózatának központi üzemeltetése, karbantartásának, zavar- és hibaelhárításának irányítása, elvégzése,
+- Cisco Meeting Server, ISE, IP telefónia, WLC rendszergazdai, rendszeradminisztrációs feladatok elvégzése. Változáskezelési, megelőző karbantartási, tervezett üzemeltetési és fejlesztési tevékenységek műszaki előkészítésének, operatív központi háttértámogatásának megszervezése és elvégzése,
+- Külső rendszertámogatóval együttműködés a távoli és a helyszíni hibaelhárítás érdekében, a szoftver javítások és frissítések installálásának elvégzése a berendezésekben,
+- Új IP hálózati rendszerelemek, megoldások, berendezések, szoftver javítások és frissítések tervezése, előzetes tesztelése, installálása (patch, update, upgrade), üzemeltetésre történő átvétele,
+- Szakterületéhez kapcsolódó műszaki nyilvántartások vezetése, adatgazdai feladatok ellátása,
+- Szakterületére vonatkozó dokumentációk, mérési jegyzőkönyvek, vizsgálati anyagok, műszaki elemzések, jelentések, javaslatok készítése,
+- Szakterületére vonatkozó javítási, karbantartási, felújítási, beruházási, építési, bontási és selejtezési munkák tervezése, koordinálása és felügyelete,
+- A MÁV Zrt. döntéshozóival és üzemeltetőivel, valamint az érintett külső felekkel kapcsolattartás,
+- Projekt feladatokban való közreműködés.
+Amire a munkakör betöltéséhez szükség van
+- felsőfokú műszaki szakirányú állami végzettség (villamosmérnök, mérnök informatikus, távközlési mérnök),
+- felsőfokú – a szakterületre előírt – vasúti szakvizsga (amelynek megszerzéséhez a munkáltató képzést biztosít munkabér folyósítása mellett),
+- 3-5 év szakterületen szerzett gyakorlat,
+- 19/2011. NFM. rendelet szerinti egyszerűsített forgalmi vizsga (amelynek megszerzéséhez a munkáltató képzést biztosít munkabér folyósítása mellett),
+- szakterületre vonatkozó utasítások, szabályok, rendeletek ismerete,
+- felhasználói szintű számítástechnikai ismeretek (MS Word, MS Excel),
+- orvosi alkalmasság.
+Tulajdonságok, melyek számunkra fontosak
+- határozottság,
+- szervező és irányító készség,
+- elemző-, problémamegoldó-, kommunikációs készség.
+Előnyként értékeljük
+- angol műszaki szakmai nyelvismeret,
+- B kategóriás járművezetői engedély,
+- CCNP (Cisco certified network professional) vagy azzal egyenértékű ismeret,
+- Linux/Unix ismeret,
+- hálózatüzemeltetésben, hálózattervezésben szerzett gyakorlat,
+- projektmunkában való korábbi részvétel.
+Munkavégzés helye
+Budapest
+Munkaidő
+Teljes munkaidő
+Foglalkoztatás formája
+Határozatlan idejű
+Jelentkezés határideje
+2023-03-27
+Vállalati bemutatkozó
+A MÁV Zrt. a magyarországi közforgalmú vasúti pályahálózat nagy részének  üzemeltetőjeként mintegy 7000 kilométernyi vaspálya és az ahhoz kapcsolódó  infrastruktúra működtetéséről gondoskodik.  Teljes körűen látja el az üzemeltetési, forgalomirányítási és  karbantartási, valamint részben a felújítási feladatokat.
+Jelentkezem

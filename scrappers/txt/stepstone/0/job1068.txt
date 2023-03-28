@@ -1,0 +1,51 @@
+Jobs by email
+1&1 Mail & Media
+Agile Testautomation Engineer (f/m/d) - onsite or remote / home office
+Karlsruhe, deutschlandweit, Home-Office
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+Show salary
+Save
+About us
+With our strong brands GMX, WEB.DE and mail.com and over 42 million active users, we are the leading email and communications platform in Germany, Austria and Switzerland. From this strong market position, services and apps are developed that simplify users' digital lives - from office tools and cloud solutions to personal ID management.
+Your tasks
+You prefer a cross-functional team which consists of Software Developers, Operations- and QA Engineers? You like flat hierarchies, and want to build the test automation for business-critical B2B and B2C applications? Then we're exactly looking for you!
+Let's build and test online shops, web applications and backend services for our strong brands GMX, WEB.DE and mail.com, which are used by tens of thousands of customers each day, and which contribute significantly to the company's success.
+You are responsible for the product quality and test automation in an agile, cross-functional team.
+You analyze the test results and implement automated tests that execute reliably and efficiently in continuous integration environments.
+You design the test strategy and you develop and maintain the testing tools.
+You benefit from very good working conditions (e.g. remote work, free choice of hardware, professional tooling) in a technology leading company.
+We appreciate
+You have completed a technical degree or comparable work experience? You welcome challenges, you're keen to learn new things and you're a strong teamplayer? Furthermore, automated testing is your passion? Then we're looking forward to your application!
+You're familiar with selenium-based test automation.
+You are also familiar with API testing using tools like REST Assured or Karate.
+You have practical knowledge of continuous integration technologies like Jenkins or Gitlab CI.
+You have good knowledge of internet technologies such as HTTP and HTML.
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Company pension
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.
+Certificates

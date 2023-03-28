@@ -1,0 +1,72 @@
+Jobs by email
+Bosch Gruppe
+Data Engineer – Analytics (f/m/div.) for Solid Oxide Fuel Cells (SOFC)
+Stuttgart
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 2 weeks ago
+Show salary
+Easy apply
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Robert Bosch GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Stuttgart
+Your tasks
+Help shape the future: We are developing the solid oxide fuel cell (SOFC) as an IoT device and are implementing a digital twin for it. You will be involved in shaping this innovative Bosch product, which will help to reduce the CO2 emissions with hydrogen-based power generation, and to transform the future of green energy.
+Take responsibility: As a Data Engineer you are responsible for end-to-end development of SOFC Analytics Data Platform: from its conception, design and implementation to optimization and operations. You will integrate data along the complete product lifecycle of SOFC systems, such as manufacturing, operations, or service. You will design and implement data models and Extract-Load-Transform (ELT) pipelines across the data lakehouse. You will create end-user data and reporting solutions to bring further value to our business.
+Implement holistically: SOFC Analytics Data Platform that you build will be used by data scientists and engineers to continuously improve the product, optimize, and grow the business. You will work with modern data tech stack (Spark, Databricks, Airflow) to build effective, scalable, highly automated cloud solutions.
+Live cooperation: You will be part of a diverse team of software engineers, data engineers and data scientists that jointly bring data-driven solutions and machine-learning applications into production.
+Your profile
+Education: Successfully completed Master's degree in computer science, information technology, engineering with a strong IT background or comparable qualification.
+Experience & Knowledge: You have several years of experience in developing and maintaining complex data lake and data warehouse solutions. You have built CI/CD pipelines and have a DevOps mindset. You are skilled in Spark, Python and SQL, and have experience with modern data infrastructure on the cloud (Azure, Databricks, Airflow). Experience in developing infrastructure as code (Terraform) is a plus.
+Personality and working practice: You are a self-motivated team player, driven to deliver high quality and innovative solutions with impactful results. You can communicate effectively, have automation first mind set and are passionate for modern data infrastructure.
+Languages: Fluent in English (written & spoken), good knowledge of German is a plus.
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Borsigstraße, 70469 Stuttgart, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

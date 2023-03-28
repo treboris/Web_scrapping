@@ -1,0 +1,93 @@
+Jobs by email
+MBition GmbH
+Software Test Engineer - Embedded Linux
+Berlin
+Permanent contract
+Full Time
+Published: 4 days ago
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: P0142V725
+Aufgaben
+About us
+At MBition, we are bringing digital luxury to mobility users around the world. To accomplish this, we are redefining how software is developed within the automotive field as part of an international Mercedes-Benz software development network. As a 100% subsidiary of Mercedes-Benz Group AG, we develop and integrate the next generation of Mercedes-Benz in-car infotainment systems that are based on the Mercedes-Benz Operating System (MBOS). In addition, we are responsible for the Mercedes me companion app, we provide seamless & connected mobility experiences and we contribute to Advanced Driver Assistance Systems (ADAS) platform development. With offices in Berlin and Sofia, we are aiming to bring new generation of innovative infotainment systems across the globe.
+ Your Mission 
+MBition, Mercedes–Benz is bringing the automotive industry into the future! How?
+ We are working on a software-defined architecture, that allows us to create state-of-the-art customer functions that span one or more domain controllers with significant processing power. One of these high-performance domain controllers is used for automated driving functions (e.g. automated driving on highways).
+ We do this in Berlin and Sindelfingen as a 100% subsidiary of Mercedes-Benz AG, which has been perfecting the art of moving people, products and services from A to B for more than 120 years.
+ With an international team of 500 employees, we want to integrate people who appreciate quality, creativity and teamwork just as much as we do. Together we create passionate technology on exciting topics like: automated and autonomous driving, infotainment systems or mobile APPs. And we need YOU to help us shape the future!
+Responsibilities:
+Design, implementation and documentation of a test automation system with a focus on applications based on embedded Linux and real-time operating systems.
+Support development team to reproduce bugs and verify bug fixes.
+Analysis of logs, test specs and test scripts.
+Vehicle Logs Analysis like DLT logs, Ethernet/CAN logs.
+Analyze issues detected during your tests or reported by others and work closely with developers to resolve issues and validate software changes.
+Drive automation, e.g., testing, monitoring, deployments, CI/CD pipelines, etc.
+ Qualifikationen
+Your Profile 
+Education
+Degree in automotive engineering, computer science, electrical engineering or a comparable field of study.
+Requirements
+Minimum 3+ years of experience in Automotive
+Embedded Linux Experience.
+Familiarity with programming languages such as C++,  shell scripts, and Python.
+Hands-on experience with version control and build tools (CMake, git)
+Expertise in testing (e.g. TDD) and CI/CD.
+Good Knowledge in Vehicle Log Analysis and Hands-on experience with Canoe.
+Experience with Linux configuration, debugging and performance analysis tools (e.g. systemd, gdb, valgrind, perf)
+Added Advantage: 
+Experience with ECU extract ARXML, IPC/RPC frameworks and API design (e.g. Thrift, gRPC).
+Valid drivers License for EU and clean driving record.
+Experience in Test Framework development.
+Few years of experience working with agile teams (e.g. Scrum, Kanban)
+Personal Skills
+Proactive and taking responsibility.
+Team-player having very good communication skills
+Self-organized and highly collaborative
+Open and outgoing personality
+DevOps and Hands-on mentality
+Continuous learning attitude
+Language Skills
+Proficient in English, German is a plus!
+ Zusätzliche Informationen
+Why us?
+Great company values that we are passionate about and live by every day at work.
+A chance to work on a new generation of Infotainment Systems, which will power millions of cars
+An international, interdisciplinary innovation lab, which is part of the Daimler AG
+Agile working methods and open feedback culture
+A brand new modern and fully accessible office facing the Spree
+Flexible working hours
+Transportation and health benefits, discounts on cars, free coffee, fruits and more.
+Interested?
+We look forward to receiving your complete application, including CV (in English or German) and cover letter with the following information:
+Job title and reference number
+Salary expectations
+Earliest start date
+We would like to encourage people with health impairments to apply to our jobs! Our building and work places offer the possibilities to adjust to different employee requirements.
+  Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+MBition GmbH
+10587 Berlin, Deutschland
+Company Benefits
+Additional medical services
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Coaching
+Home office
+Company car
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

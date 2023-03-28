@@ -1,0 +1,30 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Java Developer 
+Our client offers full remote work opportunity for those who prefer.
+Office location: Budapest
+What you will do:
+Participate in the architecture, design, documentation, development, coding, and debugging of embedded MFP (multi-function printer) software solutions in either new software products or enhancements to existing software, under the general direction of his or her direct supervisor (team lead).
+Conducting research, where appropriate and needed, to solve specific design problems
+Work independently, or in a group under the direction of a team lead, creating modules, design documentation, subsystems or applications in Java, JavaScript, and HTML/CSS, but occasionally also using other development tools
+Work with various operating platforms and third-party SDKs in the production of embedded systems meeting high performance, security, and scalability expectations.
+Positive attitude and ability to work in a fast-paced environment
+Support production users
+Document his/her work in English
+Participate regular team meetings and/or conference calls
+Effective communication and relationships with other developers and the QA team
+What you need to have:
+3-5 years of professional experience as a Java Developer
+Fluent language skills in both Hungarian and English
+Demonstrated OOD experience
+Working knowledge of version control systems (Git, SVN)
+Firsthand experience with a combination of various other technologies and platforms, such as, TCP/IP, SOAP, XML, AJAX, JavaScript, AWT, Spring, WEB servers (Tomcat, Jetty), WEB browsers (Edge, Firefox, Chrome) is also required
+Experience in multi-threaded and networked software development on embedded systems
+Experience with Java for embedded environments, JUnit, Ant, Maven and Gradle is a definite asset
+Ability to work both independently and in a team environment
+Strong troubleshooting and debugging skills
+Experience with virtualisation technologies, VMWare is preferred
+Solid understanding of Azure and other technologies like Docker, Kubernetes and Kafka is a plus
+Are you interested?
+Please apply and send us your CV and we will contact you soon for a discussion!
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem

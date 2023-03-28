@@ -1,0 +1,46 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our Business Service Center is a German family-owned automotive company, and they would like to represent themselves also in the Hungarian market. They are planning to hire 350 new employees, and they will have a brand new office in Budapest. New colleagues will have a chance to join a new company and to make decisions on professional topics. These employees who add their own ideas would be prioritized by the management of the company. Fluent English is necessary to use for everyday work.
+As an IT specialist various enhancements and optimizations will be customized in SAP WM/M to support our logistics departments in their daily work. The main focus of this position is the interface to our automatic warehouses and the setup and optimization of these processes as well.
+Main tasks, roles, and responsibilities:
+Detailing the solution design in close cooperation with our logistics solution architects
+Customizing in SAP to fulfill business requirements
+Contact to the business for automatic warehouses
+Steering of external consultants
+Creation of programming requests for our internal development team or for external programmers
+Testing
+Special Tasks/Key challenges:
+Support of processes in the area of automatic warehouses and the interface to SAP ERP
+Participation in the S/4 rollout
+                Elvárások / Requirements
+University degree with a focus on IT or similar qualification/training
+3 or more years of experience
+Experienced working in an international, virtual team
+Deep SAP knowledge in the area of SAP-WM/IM and in the surrounding SAP modules
+Knowledge about automatic warehouses and interface technology via IDOCs
+Good English skills (spoken and written)
+                Amit nyújtunk / Benefits
+Professional development opportunities
+Competitive salary
+Dynamic atmosphere
+Home-office possibility
+IT Expert SAP WM/IM and warehousing 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 24.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SAP Ariba Expert 
+ Budapest  
+ SAP Consultant (PP) 
+ Budapest  
+ SAP ABAP Developer - Specialist 
+ Budapest  
+ SAP FI-CO Supporter 
+ Budapest  
+ Python Developer for Engineering Expert 
+ Budapest  

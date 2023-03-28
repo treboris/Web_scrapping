@@ -1,0 +1,46 @@
+Jobs by email
+Dassault Systemes 3DExcite GmbH
+Software Engineer Distributed Systems (m/f/d)
+München
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+Show salary
+Save
+Imagine new horizons…
+Dassault Systèmes is the second largest software manufacturer in Europe and has been a dynamically growing, innovative company since 1981.
+You have dreams? You enjoy a challenge? Here at Dassault Systèmes, we empower people with passion to change the world and create the future. Let’s open new horizons together with the power of 3DEXPERIENCE virtual universes!
+Shape your career with 3DS! #WeAre3DS
+Your role:
+Dassault Systèmes (3DS) is an innovative technology company providing software for designing, manufacturing and maintaining products based on virtual twins. As Developer Distributed Rendering (m/f/d) you will be part of the Stellar Physically Correct team. You will contribute to this by developing the 3DS global illumination renderer, which provides highest quality renderings of virtual twins of products interactively or offline, on a single machine or in compute clusters. You will evolve and maintain the in-house distribution library used to render on high performance clusters (HPC) as well as on cloud environments.
+#Rendering #DistributedSystems #3DExcite
+Your responsibilities:
+Work as a developer in an agile team, in close collaboration with other teams developing the rendering library and integrating it into 3DS applications
+Maintain and evolve the in-house distribution library used for distributed rendering by analyzing requirements, devising and implementing new features and performance optimizations, writing automatic tests and developer documentation for new features, and fixing bugs
+Suggest improvements to the distributed renderer on your own
+Work in collaboration with your teammates, actively sharing knowledge via code and design reviews
+Your qualifications:
+Computer Science degree or equivalent, ideally with a focus on distributed systems and networks
+At least 4 years of experience as a Software Engineer working on complex systems, with significant experience working on the performance critical, foundational aspects of distributed systems (focus on system scalability and latency)
+Good programming skills: C++, multithreaded programming, multiprocess communication via MPI/RPC, experience with continuous delivery and writing effective automatic tests. Extra: experience with boost ASIO, network programming, and Python
+Significant experience designing software systems (requirements engineering, software architecture design and documentation)
+You are a team player, who is able to work independently in a Scrum team
+Fascination for efficient distributed computing (special interest in distributed rendering is a clear plus)
+What's in it for you?
+Contribute to state-of-the-art rendering technology used by all Dassault Systèmes brands
+Friendly, open, collaborative teammates
+Opportunity to shape the architecture and future of the distribution library and beyond
+Have we sparked your interest?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Dassault Systemes 3DExcite GmbH
+München, Deutschland

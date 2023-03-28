@@ -1,0 +1,40 @@
+Jobs by email
+Apple Distribution International ULC
+Circuit Designer - Standard Cell (m/f/d)
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+Summary
+Do you want to utilize your engineering background to make big things happen? Can you influence, connect, get results and communicate effectively? Can you deliver on a predictable and dynamic schedule? Do you have a passion for crafting entirely new solutions? Do you love building without precedent? As part of our Digital Design Engineering group, you’ll take imaginative and revolutionary ideas and determine how to turn them into reality. You and your team will apply engineering fundamentals and start from scratch if needed, bringing visionary ideas to the real world. Your efforts will be groundbreaking, often literally. Join us, and you’ll help design the tools that allow us to bring customers experiences they’ve never before envisioned. You will be part of an exciting silicon design group that is responsible for designing state-of-the-art ASICs. We have an extraordinary opportunity for Standard Cell Design Engineers. In this highly visible role, you will be at the heart of a processor design effort, working with the custom digital circuits team and library development, making a critical impact delivering products to market quickly.
+Description
+Imagine yourself at the center of our SOC design effort, collaborating with all disciplines, playing a strategic role in getting functional products to millions of customers quickly. You will have the opportunity to integrate and come up with new ideas, as well as work with a team of highly talented engineers. As a Standard Cell Circuit Design Engineer, you will perform the following:
+Develop standard cells to improve design PPA
+Develop optimal power switch, retention flops, level shifters, etc that cater to today’s Low Power Design Requirements
+Engage with CPU, SOC and GPU digital design teams on chip level integration requirements
+Handle Virtuoso and digital library releases
+Qualifications
+Key Qualifications
+Experience in digital circuit designs such as high performance flip-flop, clock gater, power switch, etc
+Knowledge of standard cell Schematic and layout co-optimization for PPA and yield
+Experience in Hspice circuit robustness and spice monte carlo analysis.
+Design experience in deep submicron technologies
+Experience in SKILL coding is nice to have
+Familiarity with characterization tool and Liberty format and other Standard Cell deliverables
+Silicon debug experience for Standard Cells
+Communication Skills with internal and external contacts
+Education and Experience
+Bachelor’s degree in Electrical Engineering or Computer Science is required.
+Why Apple?
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

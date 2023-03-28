@@ -30,3 +30,23 @@ https://pypi.org/project/tqdm/
 
 EU
 https://ec.europa.eu/eures/portal/jv-se/jv-details/MjExNzcxMSAxOQ?jvDisplayLanguage=hr&lang=en
+
+python standard library
+https://docs.python.org/3/library/
+
+webpage to scrape
+http://books.toscrape.com/catalogue/category/books/fiction_10/index.html
+
+
+statistics
+https://www.w3schools.com/python/module_statistics.asp
+
+indian help
+https://www.youtube.com/watch?v=CmDwYHRDzks
+
+
+thread live
+https://docs.python.org/3/library/concurrent.futures.html
+
+
+requests qxception

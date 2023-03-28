@@ -1,0 +1,65 @@
+Jobs by email
+Publicis Sapient GmbH
+Senior Associate Data Engineering
+Be an early applicant
+Berlin, Düsseldorf, Köln, München, Frankfurt, Hamburg
+Permanent contract
+Full Time, Home office possible
+Published: 2 days ago
+Show salary
+Easy apply
+Save
+Company Description
+ Publicis Sapient is a digital transformation partner helping established organizations get digitally enabled, both in the way they work and how they serve their customers. We help unlock value through a start-up mindset and modern methods, fusing strategy, consulting, and customer experience with agile engineering and problem-solving creativity. As digital pioneers with 20,000 people and 53 offices worldwide, our experience spanning technology, data sciences, consulting, and customer obsession – combined with our culture of curiosity and relentlessness – enables us to accelerate our clients' businesses through designing the products and services their customers truly value. Publicis Sapient is the digital business transformation hub of Publicis Groupe. For more information, visit publicissapient.com
+Job Description
+As a Senior Associate within our Data Engineering team, you will be responsible for the design and implementation of high-end software products/services that enable the digital transformation of many of the biggest companies in the world. 
+Your role will be focused on delivering solutions that leverage large scale data ingestion, processing, storage/querying, in-stream & batch analytics. As part of a team, you will build and deliver world-class solutions designed by our senior architects by estimating, designing, coding, testing, deploying and ensuring scalability and performance using the latest frameworks and platforms. 
+You will also be involved in building technology prototypes for validation and assess technical designs for functional & non-functional completeness. 
+As a hands-on technologist with a programming background, you will join an exciting, talented and supportive community of Data Engineers who are passionate about building the best possible solutions for our clients and endorse a culture of life-long learning and collaboration.
+Qualifications
+Hands-on experience with at least one of the leading public cloud data platforms (Amazon Web Services, Azure or Google Cloud) 
+Experience in implementing data pipelines for both streaming and batch integrations using tools/frameworks like Airflow, Spark, Glue and other cloud native services
+Advanced skills in Python or Java/Scala, SQL Server, PostgreSQL, MySQL
+Experience in data modelling, warehouse design and fact/dimension implementations
+Experience working with code repositories and continuous integration
+Demonstrable experience in data platforms involving implementation of end-to-end data pipelines
+Experience in OpenStack
+Proven experience in Databricks
+Good communication and willingness to work as a team
+Willingness to occasional travelling is required
+  Benefits of working here
+We work with cutting-edge technology which has always been part of our DNA and we want our employees to define what technologies our clients use next
+We provide many learning opportunities to deepen your skillset and to support your professional growth
+We offer numerous discounts on travel, cultural and leisure activities.
+We put the well-being of our people first and organize various health initiatives
+We offer you a vibrant workplace culture with many different community events throughout the year
+  As part of our dedication to an inclusive and diverse workforce, Publicis Sapient is committed to Equal Employment Opportunity without regard for race, colour, national origin, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity, or religion.
+Weitere Informationen
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Sabbatical
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Terrace
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

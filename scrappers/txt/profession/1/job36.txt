@@ -1,0 +1,180 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+Következő 
+Szenior Szoftverfejlesztő
+Kulcs-Soft Nyrt.
+1016 Budapest, Mészáros utca
+ Elvárt technológiák
+DEVOPS
+C
+WEB API
+JAVASCRIPT
+REACT
+API
+SQL
+GIT
+AZURE
+NOSQL
+DOCKER
+ Módszertanok és szoftverek
+Clean code
+Rest
+Git
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+DEVOPS
+C
+WEB API
+JAVASCRIPT
+REACT
+API
+SQL
+GIT
+AZURE
+NOSQL
+DOCKER
+ Módszertanok és szoftverek
+Clean code
+Rest
+Git
+Kulcs-Soft Nyrt.
+Munkatársat keresünk
+Szenior Szoftverfejlesztő
+pozícióba.
+A Kulcs-Soft Nyrt több mint 30 éve kezdte meg működését. Napjainkra a Kulcs-Soft neve egyet jelent a kis- és középvállalkozások ügyviteli (számlázás, készletkezelés, vállalkozásirányítás, bérszámfejtés, könyvelés…) támogatását biztosító szoftverek fejlesztésével, értékesítésével, támogatásával.   A Kulcs-Soft Nyrt. az elmúlt években a hibrid (cloud & on-premise) kis -és középvállalati működést támogató rendszerek legkomplexebb szolgáltatójává vált Magyarországon. Az összetett vállalati működés kiszolgálása érdekében a telepített rendszerek, felhő alapú termékekkel és szolgáltatásokkal kerültek kiegészítésre, így biztosítva a céges folyamatok teljes lefedését. 
+Főbb feladatok, munkák:
+Felhős és hibrid alkalmazások tervezése, fejlesztése, telepítése és karbantartása Aktív részvétel a tervezési megbeszéléseken, ezek vezetése Együttműködés a product ownerrel, product managerrel Code Review, visszajelzés a fejlesztőknek A platform és az architektúra ismerete, annak biztosítása, hogy az új szolgáltatások ennek megfelelően legyenek megvalósítva A tervezés és a fejlesztés során a karbantarthatóság, felhasználhatóság, skálázhatóság, teljesítmény és költséghatékonyság felügyelete A sprintben a fejlesztői feladatok meghatározása (Story taskosítás) Clean Code, SOLID Principles alkalmazása és betartatása DevOps szemlélet alkalmazása, CI/CD pipeline-ok készítése, karbantartása, együttműködés a DevOps/SRE csapattal 
+Az álláshoz tartozó elvárások:
+3+ éves tapasztalat felhasználói szoftverek fejlesztésében, C#, .NET Core, Web API esetleg Javascript és React használatában szerzett gyakorlati tapasztalat, REST webszolgáltatások és API-k létrehozásában és felhasználásában szerzett gyakorlati tapasztalat Unit és integrációs tesztek készítésében tapasztalat, SQL lekérdezések írásában, adatbázisok tervezésében tapasztalat Git branch/merge, workflow tapasztalat, Felhős fejlesztési tapasztalat CI/CD tapasztalat 
+Az állás betöltéséhez előnyt jelent:
+Azure szolgáltatások használatában szerzett tapasztalat SQL és NoSQL adatbázisok ismerete Azure DevOps tapasztalat Microservice patternek ismerete Docker, Kubernetes ismerete 
+Amit kínálunk:
+Modern fejlesztői környezet, lehetőség a legújabb technológiák tanulására és használatára, tudásod folyamatos fejlesztésének lehetőségeA munkavállaló szaktudásának szintjéhez szabott versenyképes bércsomagBarátságos, támogató légkörTőzsdén 10 éve jegyzett, 33 éves múlttal rendelkező cég biztonsága a „multinacionális vállalat” attitűd nélkülJó csapatszellem Érdekes, változatos projekttípusok Rugalmas munkaidő, home-office lehetőség 
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Kulcs-Soft Nyilvánosan Működő Részvénytársaság
+Információ, kommunikáció
+●
+Egyéb szoftverkiadás
+50-100 munkavállaló
+2006
+1016
+Budapest,
+Mészáros utca 13.
+Értékelések a(z) Kulcs-Soft Nyrt. cégről
+3,8
+12 értékelés alapján 
+Értékelések kategória szerint 
+4,0
+Bérezés és juttatások 
+3,9
+Munkaidő és munkarend 
+3,8
+Főnökök 
+3,6
+Fejlődési, előrelépési lehetőség 
+3,8
+Kollégák és céges hangulat 
+4,0
+Megközelíthetőség 
+4,2
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+75%
+Ajánlaná ismerőseinek 
+Biztosítják a munkaeszközöket 
+Vállalják a betanítást 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Szenior Szoftverfejlesztő
+Kulcs-Soft Nyrt.
+1016 Budapest, Mészáros utca
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

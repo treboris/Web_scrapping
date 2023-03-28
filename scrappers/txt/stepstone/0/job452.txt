@@ -1,0 +1,76 @@
+Jobs by email
+Exyte Management GmbH
+Enterprise Architect (m/f/d)
+Stuttgart
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+Your vision is ambitious. Just like ours.
+Exyte is a global leader in the design, engineering, and delivery of ultra-clean and sustainable facilities for high-tech industries. With cutting-edge expertise developed over more than a century, we serve clients in the sophisticated markets of semiconductors, battery cells, pharmaceuticals, biotechnology, and data centers. Exyte offers a full range of services from consulting to managing the implementation of turnkey solutions with the highest standards in safety and quality to our customers worldwide. We create a better future by enabling key industries to enhance the quality of modern life. In 2021, Exyte generated sales of EUR 4.9 billion with around 7,400 employees worldwide.
+Our people are our success. As one of us, you will contribute to engineering excellence for the high-tech markets of the future, including semiconductors, batteries, pharmaceuticals, biotechnology, and data centers. At Exyte, you will be part of a global community of challenge seekers who are ambitious and passionate about innovation. Together, we will build on our company’s long history and keep on leading the way to a better world.
+Discover your exciting role
+The Enterprise Architect is responsible for globally documenting the Exyte Enterprise Architecture Landscape, designing the Target Architecture Landscape, and creating the Migration Plan including the identification, design of relevant transition architectures. The Enterprise Architect is also responsible for ensuring the completeness (fitness-for-purpose) of the architecture, in terms of adequately addressing all the pertinent concerns of its stakeholders. He is responsible for the integrity of the architecture, in terms of connecting all the various views to each other, satisfactorily reconciling the conflicting concerns of different stakeholders, and showing the trade-offs made in doing so.
+Explore your tasks and responsibilities
+Ensure IT delivering business value and driving business outcomes
+Document the Enterprise architecture models to reflect the current architecture landscape
+Permanently analyze and design the target architecture landscape in respect to business applications landscape and technology landscape by considering Exyte’s business goals, strategy, business processes
+Work in a Matrix Organization with Business Owners, Application Owners, Technology Owners and Domain and communicate effectively in obtaining and synthesizing requirements
+Facilitate business conversations and moderate the definition of design principles in order to govern the incoming demands
+Assess demands from different stakeholders on architectural fit
+Evaluate and link business strategic, tactical and operational demand with IT capacity
+Evaluate internal functions, business development strategies, and IT processes and suggesting improvements
+Collaborate with a diverse workforce within a matrix environment and communicate effectively in obtaining and synthesizing requirements
+Work with the application, technology, product, and domain owners to ensure that roadmaps are present & maintained for their respective entries in the Enterprise Architecture Repository
+Provide leadership, coaching and mentorship to the architecture community and stakeholders
+Show your expertise
+Master’s degree in computer science, information-technology, engineering, system analysis or a related study, or equivalent experience
+Certification in TOGAF 9.2
+10+ years of experience in architecture development
+Experience as an enterprise architect and in the introduction of enterprise architecture management
+Hands-on experience of EAM tools
+Track record in successful architecture and design
+Experience in the definition and introduction of EA governance including the necessary change management
+Experience in the preparation and presentation of documents for all stakeholders on all levels
+Experience in the facilitation and moderation of workshops and facilitation between different departments and stakeholders with different requirements
+Strong communication skills on all levels, ability to multi-task, and thrive in a fast-paced environment
+Adept at interfacing with and aligning multiple stakeholders with diplomacy; Skilled at influencing, guiding and facilitating stakeholders and peers with decision making.
+Be capable of enjoying the work and keeping a positive attitude in a challenging environment
+Deep understanding of both worlds, Exyte Architecture Landscape, supporting Exyte’s business and Landscape for IT supporting the Exyte Architecture Landscape (IT4IT)
+Knowledgeable and productive in the Enterprise Architecture Management work environment
+Broad Understanding of Exyte’s main functional building blocks and ability to analyze EA building blocks (skills, processes, applications, IT components)
+Demonstrable proficiency with Enterprise Architecture Management Software; Knowledge of different modeling languages
+Organizationally savvy, with the ability to navigate organizational politics.
+Trusted and respected as a thought leader who can influence and persuade business and IT leaders and IT development teams.
+Get more than just a job
+Engineer World Changing Facilities
+Health & Well-being
+Environment of Excellence
+Career Growth
+Commitment to an Incident-Free Workplace (IFW)
+Global Opportunities
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Exyte Management GmbH
+Löwentorbogen 9b, 70376 Stuttgart, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

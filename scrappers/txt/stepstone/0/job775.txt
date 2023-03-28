@@ -1,0 +1,65 @@
+Jobs by email
+ZEISS
+Software Test Automation Engineer - Microscopy (f/m/x)
+, München
+Permanent contract
+Full Time
+Published: 1 week ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+Ihre Rolle
+ZEISS Microscopy is the world's only one-stop manufacturer of light, electron, X-ray microscope systems and offers solutions for correlative microscopy. Our portfolio comprises of products and services for life sciences, materials and industrial research, as well as education and clinical practice.
+As a Software Test Automation Engineer - Microscopy at Carl Zeiss Microscopy you will be working in an international, highly-motivated team on exciting and meaningful products (e.g. high-end light microscopy applications for cutting-edge biomedical research, or dynamic in-situ electron microscopy for battery research)
+Your Role
+Ensure the quality of our microscopy software platform "ZEN", which already supports many innovative ZEISS microscope systems. With "ZEN" we inspire our customers worldwide in both research and industry.
+Implement automated test cases based on requirements, features, manual test cases or directly from the existing functionality.
+Analyze test results and work with software developers to troubleshoot issues.
+Support the development and maintenance of a company-wide and cross-site test automation framework and help to shape new standards and processes for test automation.
+Support the system specialists in their manually performed tests by providing suitable semi-automated test tools.
+Raise quality awareness in an interdisciplinary team of experts in an international environment in close cooperation with product managers, project managers, developers and architects.
+Ihr Profil
+University degree in computer science/informatics or a comparable qualification.
+Extensive experience with Python and C#.
+Solid experience with test automation for complex systems consisting of hard ware and software in an industrial environment would be highly advantageous.
+Prior experience with GUI Testing (e.g. Selenium) is desirable.
+Familiarity with Gherkin (Cucumber or similar), CI/CD Tools (Jenkins, Azure DevOps) and Git.
+Proficiency in English and preferably fluency in German or the willingness to learn German.
+Strong quality awareness, great communication and analytical skills.
+Agile mindset and the ability to work in international teams.
+Your ZEISS Recruiting Team:
+Joseph Taroni-Luxton, Mrs. Riya Mukundan, Sayem Chowdhury
+What we offer
+  Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+ZEISS
+81379 München, Germany
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

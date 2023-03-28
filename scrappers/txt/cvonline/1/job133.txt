@@ -1,0 +1,30 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Test Engineer - Tatabánya 
+Munkavégzés helye: 
+Tatabánya
+            Pozíció területei: 
+IT: IT állások
+        Nyelvtudás:
+Angol Középfok szóban és írásban
+              Pozíciószint:
+Beosztott / Alkalmazott
+                    Elvárt végzettség: 
+Felsőfokú végzettség
+Main duties:
+		Initial set up
+		Test integration to SW platform
+		HW+SW debugging
+		Test sequence programming and adjusting based on customers feedback
+		Test log management
+		Sample testing
+		Technician trainingsExperienses:
+Experiences:
+		IT or Electronical degree
+		Programming/coding (C#)
+		Automation test scripts, experience in manual testing
+		Basics of networking
+		RF design circuitry skills, log analysis, time management
+		Spoken English with knowledge of  technical terms
+		Test plans and automation scripts from scratch as per the business requirements
+		Precision, datamining
+Jelentkezem

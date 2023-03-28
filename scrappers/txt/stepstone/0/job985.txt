@@ -1,0 +1,63 @@
+Jobs by email
+E.ON Business Solutions GmbH
+Digital Platform Owner (f/m/d)
+Essen
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Save
+About us
+E.ON Infrastructure Solutions | Permanent | Part or Full time
+Do you want to actively shape and drive the digital future of E.ON...? And to be part of an innovative, dynamic, and international project team? We are looking for you!
+Energy Infrastructure Solutions
+E.ON's Energy Infrastructure Solutions (EIS) segment provides sustainable heating, cooling and power solutions to industrial and commercial customers, property developers and local authorities. EIS designs, builds, finances, and operates innovative energy systems at our customers' facilities that help to meet ambitious decarbonization targets and realize significant cost saving targets. Our solutions build on decentralized energy systems, circular energy flows and digitalization.
+EIS serves more than 1.5m customers, employs 4,000 people and operates more than 4,100 plants with 5,000km of heat, chill, and steam grids. Building on our strong finance profile and ambitious growth targets we are recognized as the change agent for the sustainable transition of cities and industries.
+In the EIS Digital Transformation program for EIS our mandate is to build a technology backbone consisting of common digital enablers and to ensure efficient scaling of digital applications across the EIS Regions. To achieve this, we collaborate with lighthouse digital initiatives of various units helping those to develop or reuse common components and achieve technical scalability. Our technology focus lies on asset connectivity, IoT data processing, unified data modelling and storage; our scaling ambitions refer to digital applications in the areas of energy system optimization, smart asset management and meter-to-cash. We work in mixed teams of business experts and developers from E.ON's digital technology function or other technology partners.
+And this is where you come in! As part of the central EIS team, you will drive digital transformation as a Digital Platform Owner (f/m/d) responsible for the design and steering of all Digital/IT services required to ensure the smooth operation.
+At EIS diversity matters. We welcome all people and are convinced that differences make us stronger. Become part of our inclusive and diverse company culture!
+Your Responsibilities
+You are accountable for the strategic design, development and scaling of EIS (E.ON Infrastructure Solutions) Digital Enablers and drive their evolvement into a common digital platform (focus lies on asset connectivity, IoT data processing, unified data modelling and storage)
+You take responsibility for an end-to-end platform ownership, focusing on platform strategy, senior stakeholder management, and the governance of development and operations processes
+You act as an interface between the EIS Regions and E.ON's Digital Technology function to coordinate the design and development of EIS-specific digital enablers in adherence to the technology solutions provided by E.ON Digital Technology (EDT)and/or other partners
+You act as a business owner for the platform and coordinate the development of EIS digital enablers, ensuring that both digital technology standards and functional requirements, esp. in terms of cross-regional scalability, are met
+You drive the development and implementation of service level agreements (SLA) for the EIS digital enablers, monitor the adherence to those service agreements and drive continuous improvement in the collaboration with business and technology partners
+You work in tandem with enterprise architects, and the individual IT service owners and make sure that architecturally approved technologies and standards are implemented across the EIS digital enablers
+You support the individual IT service owners within the planning processes regarding budget, technology, risk, and user experience in a proactive and strategic manner, both in the early lifecycle phases like service design / enablement but also in ongoing operations.
+You drive the realization of synergies within the service and support model for EIS digital platform
+You take over the responsibility to transform the current project model to a Business DevOps model for operations
+Your Profile
+You have an extensive track record in the setup and steering of complex IT / digital transformation programs, with the ability to reach out to and convince senior stakeholders
+You are a value-driven collaborator who lives the agile mindset and has a strong customer orientation
+You have excellent organizational and analytical skills, which help you to approach topics in a structured way and thus achieve reliable results
+You hold a master's degree (or equivalent) in IT or engineering discipline and bring operative experience in process IT/OT, software engineering and cloud-based solution architecture.
+You enjoy working in multi-disciplinary international teams, and love acting as an intermediary to align the views of various stakeholders and/ or solve complex problems
+Ideally, you have experience in the energy industry or a comparable asset-heavy industry
+Ideally, you have experience in the service and operation of SaaS and cloud-native applications.
+You are fluent in German and English
+Even if you don't meet all the requirements right away, we would be happy to get to know you
+Our Benefits
+Flexibility: hybrid work model, flexible working times, sabbatical or additional vacation opportunities allowing great work-life balance
+Working from abroad: up to 20 days in the European economic area
+Flat hierarchies: interdisciplinary and very cooperative working style providing room for own ideas
+Modern work environment: workplace according to digital and ergonomic standards
+Personal growth: life-long independent learning making use of a broad range of opportunities working with the newest technology and state of the art trainings
+Family service support: services in the areas of childcare, holiday care, nursing support or everyday assistance
+Nutrition & Health: wide selection of fresh meals and drinks in our subsidized bistro and canteen as well as various health offers (e.g. physiotherapy, flu vaccinations, mental health)
+Corporate Benefits: employee share program, pension scheme, employee discounts, special insurances (and much more)
+A central location: very good public transport connection, free parking and charging points for e-vehicles
+Individual mobility: from private car and bicycle leasing to subsidized job ticket
+Our Contact Details
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+E.ON Business Solutions GmbH
+45131 Essen, Deutschland

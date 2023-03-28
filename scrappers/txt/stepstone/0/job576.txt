@@ -1,0 +1,66 @@
+Jobs by email
+Mercedes-Benz Connectivity Services GmbH
+Site Reliability Engineer (m/f/d)
+Stuttgart
+Permanent contract
+Full Time
+Published: 2 days ago
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER0002FC9
+Tasks
+Since 2016, Mercedes-Benz Connectivity Services GmbH has been connecting the automotive and digital world around the connected vehicle: With innovative data-based solutions, the subsidiary of Mercedes-Benz AG enables its B2B customers to make business processes more efficient, improve customer experiences or develop new business models.
+Mercedes-Benz Connectivity Services creates digital solutions of the future that help B2B customers to increase their process quality and efficiency, improve customer experiences, act more sustainably or develop new business models. It is based on real-time data from more than 100 measuring points and signals inside and outside of more than 14 million connected Mercedes-Benz vehicles worldwide. This data is used to generate added value for products and processes in companies from a wide range of industries. The Stuttgart-based company has about 60 employees working on the development, operation and sales of digital data-based products.
+We are the Engineering & Technology Team and we are looking for a Site Reliability Engineer (m/f/d). We are an experienced and passionate team being in charge to develop and operate data-driven, award-winning digital products and innovative IOT services with cloud native microservices for business customers of Mercedes-Benz. We are working agile, delivering new features to our customers with every sprint using our automated CI/CD pipeline.
+These exciting tasks are waiting for you:
+Assure high availability of our digital products for our customers
+Run and monitor our digital products in the cloud
+Maintain and enhance our CI/CD pipeline
+Shape and enhance the platform base of our digital products
+Analyse and solve problems arising during development and production
+Contribute to reviews and share your knowledge with the team
+The position is to be filled several times as soon as possible on a full-time basis.
+Qualifications
+Your profile:
+You are breathing an agile, cloud native and DevOps mindset
+You have a good IT Security and cryptography understanding
+You know how to run solutions 24/7
+You are familiar with microservice and event driven architectures as well as distributed systems
+You have experience with Azure, Kubernetes, K8s Operators and Containers
+You are familiar with modern technologies, such as Flink, Nifi and Kafka, and you know how to use and tweak tools like Grafana, Kibana, Prometheus, Opsgenie and Datadog
+You have experience in Gitops and running a CI/CD pipeline
+You are eager to learn new methods and technologies
+You are fluent in English, German is a plus
+We offer more than just an employment relationship. In addition, you can expect the following:
+Shaping the future in a mix of corporate and start-up culture with a highly motivated and experienced team
+Independent work and freedom to contribute with your own ideas
+Special benefits such as accident insurance, company pension scheme allowance, employee discounts, fitness membership, canteen, fruit basket in the office and much more
+Very good infrastructural connections (close to the motorway, multi-storey car park, underground and suburban railway stations)
+Please apply online only and include a CV, a cover letter and relevant certificates (max. total size of attachments 6 MB).
+We are particularly pleased to receive online applications from disabled persons and persons with equivalent disabilities directly in response to this advertisement.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Mercedes-Benz Connectivity Services GmbH
+70565 Stuttgart, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

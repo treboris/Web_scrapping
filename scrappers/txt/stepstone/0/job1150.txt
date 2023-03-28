@@ -1,0 +1,40 @@
+Jobs by email
+Apple Distribution International ULC
+FPGA Design Engineer
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+Summary
+Apple designs consumer electronics that have touched millions and changed the way people interact with electronic devices around the world. Our organization - Instrumentation R&D - plays a key role in keeping up the quality standards at Apple and making sure that our customers are happy with the quality and experience of the hardware that they use. Our group is looking for a senior hardware engineer who will directly be responsible for definition, design/ development and implementation of instrumentation systems which carry out calibration & performance validation of the various sensors and technologies. The engineer will be in charge of developing FPGA based instrumentation solutions to verify the performance of Apple devices on some exciting new technologies.
+Description
+You will design, develop, optimize and debug FPGA based instrumentation used in interaction between host in a MacOS environment, device in an iOS/ embedded FW and other custom designed embedded systems. You will lead and own the architecture, design and deployment of calibration and testing methodologies around a new technology. Your role will involve working with HW design and SW teams to define and implement test coverage and calibration procedures using complex automated precision instrumentation. These instruments are used to calibrate and verify performance on Apple’s new products/ technologies.You will be working with our mechanical design team to specify and validate the required mechanical instrument design & automation systems for measuring and calibrating devices/components
+Qualifications
+Key Qualifications
+Hands on experience with FPGA architecture, tool chain, techniques and design flow:
+Modern versions of Quartus/Vivado software
+Intel 10 series FPGA devices: Arria 10 and Stratix 10, Xilinx Kintex Ultrascale
+Thorough understanding of data bus interface and Transceivers
+Modelsim or equivalent for logic simulation
+FPGA based Soft MCU programming and IPs: PCIE, DMA, Memory Controller, etc.
+SystemVerilog/Verilog for design and verification
+Solid general electrical engineering knowledge: Signal and Power Integrity Principles.
+Practical lab debugging skills to bring-up FPGA designs on actual PCBs
+**Preferred Knowledge***
+Experience in integrating large scale 3rd party video IPs into FPGA
+SOC FPGA design experience: uboot,Linux device tree/driver,FPGA/HPS communication
+Education and Experience
+Bachelors degree in Electrical Engineering or Telecommunication Engineering, we highly value Master degrees and PhD/Doctorate.
+Additional Requirements
+3+ years of relevant EE & FPGA Design experience
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

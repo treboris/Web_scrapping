@@ -1,0 +1,45 @@
+Jobs by email
+Apple Distribution International ULC
+Software Engineer - Full Stack - Technology Development Group
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+Summary
+Apple’s Technology Development Group is looking for a highly motivated software engineer to develop internal tools and services for a wide range of critical product technology teams.
+You will provide a key function in shaping the success of Apple’s current and future products, and help deliver exciting new software features while maintaining Apple’s world class quality.
+Tasks
+TDG tools engineers are responsible for empowering engineers with tools that help automate software development workflows across the organization. In addition, you will work with our team to create and maintain tools and services supporting a set of diverse teams across the fields of Software Engineering and Integration, Product Management, Quality Assurance and Performance.
+The responsibilities of the job include:
+Contributing to and building UX vision and strategy for internal tools and services.
+Designing, developing, testing, and managing web front end applications and REST APIs.
+Finding opportunities to improve and automate workflows for multi-disciplinary teams at Apple.
+Prototyping new tools and demonstrating their value to the organization.
+Collaborating with teams across Apple to leverage and extend existing tools.
+Writing new tools in concise and easy to understand code. Continually assessing and improving performance and security.
+Investigating and resolving issues in a timely manner.
+Setting up automated integration, testing and deployment.
+Qualifications
+Key Qualifications
+Strong analytical skills.
+Excellent written and verbal communication skills.
+Consistent record of being proactive, self-motivated, and detail-oriented.
+A strong desire to understand customer needs and create great user experiences.
+Skilled in creating sketches, wireframes, and UI mockups using modern design and prototyping tools.
+Experience with modern microservice based designs, container technologies such as docker and automated deployments.
+Experience with web development stacks such as Angular, Flask, Node, Pyramid, Django, Jinja2, Bootstrap etc..
+Proficiency in scripting languages such as Python, Javascript, Ruby or Bash.
+Proficiency in Git, REST API’s, SQL and NoSQL databases.
+Education and Experience
+Bachelor's degree in an engineering related field, or equivalent experience.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

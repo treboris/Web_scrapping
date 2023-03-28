@@ -1,0 +1,74 @@
+Jobs by email
+Flaconi GmbH
+Senior Data Scientist (m/f/d)
+Berlin
+Permanent contract
+Full Time, Home office possible
+Published: 3 days ago
+Show salary
+Save
+flaconi is one of Germany’s leading online beauty retailers. Our online shop’s portfolio offers more than 850 international brands and 55.000 products in the categories of perfume, skin care, make-up, hair care, natural cosmetics and accessories, covering from drugstore to organic to premium products.
+flaconi was founded in 2011 and has a team of over 700 employees working from three locations: Our HQ in Berlin-Charlottenburg, our logistics center in Halle and our concept store in Berlin-Mitte. We are also represented in Austria and Poland.
+What you can expect
+What you can expect in this role
+In your role, you are part of the Data Science team to run dedicated Data Science projects with E2E ownership
+Your tasks are covering Data Models and automated decisions solutions mainly in Machine Learning, Forecasting and Product Recommenders
+Besides this, you pick (and test) suitable data science methods and relevant data sources
+You drive whole projects from features gathering, through model testing and development, down to deployment into production
+Furthermore, you present demos and version upgrades to stakeholders, collect and incorporate feedback on working prototypes from business and other Data and Tech teams
+Other responsibilities are designing and maintaining thorough documentation of the solution, permanently monitoring performance of the solutions, as well as cooperating on designing the ML Ops pipelines
+You explore and evaluate further development of Data Science products within flaconi, scan the cutting-edge, present in team meetings and (internal) Data Meet-ups the possible way forward in solutions
+As a Senior Data Science member, you provide peer review and guidance to junior team members and focus on transfer of knowledge and quality assurance of their work for the Data Science Team
+Your essential experience and education
+A degree in Information systems, Computer Science, Math/Physics, Engineering, or a related field
+Proven experience of several years with building Machine Learning or Deep Learning solutions supporting business in Sales, Marketing, Supply chain management or E-commerce
+Proficiency in Python, Spark and SQL
+Experience working in an agile team environment
+Code versioning habits, automated testing experience is welcomed
+Knowledge of cloud database products and their configuration (preferably in AWS), as well as work experience in Data Lakehouse environment, ideally of Databricks or similar platform
+Experience from supporting at least 2 of the following business domains: Marketing, Customer intelligence, Pricing, Assortment, Supply chain management or Logistics
+Good written and verbal English. German is a plus
+What's in it for you?
+Full transparency: For this role, we have a salary band between 65000€ and 85000€ gross per year. The salary that we will offer you will always be within this span and is based on the skills that you show during the recruitment process
+Our employees matter to us: We offer you a permanent contract, a BVG ticket and relocation support for international applicants moving to Germany
+Work-life balance: 29 Vacation days, flexible working hours, up to three days of homeoffice a week and the possibility of a paid sabbatical
+flaconi Academy: Actively shape your own career path by taking advantage of our internal and external training opportunities
+We care about your well being: We want to support you also during the difficult times. For this, we offer you and your close relatives counseling sessions with mental health professionals
+flaconi Fitness: A wide range of sports options & discounts on memberships
+Family first: Our "emergency-daycare" is there for you in out-of-the-ordinary situations to look after your child on site at our office
+Thinking about tomorrow together: flaconi subsidizes your savings contribution to the company pension scheme with an additional 20%
+A comfortable working space with everything you need: HIgh end technical equipment, fruits and drinks, no dress code and dogs are welcome in our office!
+Other perks: Great discounts in our online shop as well with our partner companies, cool team events & company parties!
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Flaconi GmbH
+10587 Berlin, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Employee discount
+Sabbatical
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Extra day off
+Public transport ticket
+Car/Travel allowance
+Dogs allowed
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

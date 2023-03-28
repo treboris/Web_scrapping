@@ -1,0 +1,76 @@
+Jobs by email
+Mercedes - Benz AG
+Data Engineer - Data Driven Offers (f/m/x)
+Stuttgart
+Permanent contract
+Full Time, Home office possible
+Published: 3 days ago
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER0002FLO_EN
+Tasks
+Who we are
+The Mercedes-Benz Group is one of the most successful automotive companies of the world. With Mercedes-Benz AG, the car manufacturer is one of the largest providers of premium and luxury cars and vans.
+Our department “Marketing & Sales / Data Driven Offers” supports sales of Mercedes-Benz products as well as the strategic decision making of the company by using AI and Big Data Analytics. We are dedicated to data-driven innovation in order to strengthen our position at the top of the automotive industry. Building up and making use of our customer data are one of our key strategic priorities. With our agile, diverse, and vibrant culture, we provide the ideal work environment for fostering creativity and innovation in data.
+For our team “Data Driven Offers”, we are currently looking for a Data Engineer for our vehicle data platform. This platform enables us to collect and analyze personalized vehicle usage data in order to provide our customers tailor-made information and offers based on their individual vehicle usage behavior. If you enjoy developing machine learning products in an automotive context together with a team of experts from data science, data engineering, IT and the business side, apply here now!
+Your responsibilities will be:
+Design, build, deploy, and maintain scalable and reliable databases and data pipelines on the Azure cloud platform
+Collaborate with our data scientists and domain experts on developing and operationalizing new machine learning-driven use cases
+Integrate new use cases into our code base and continuously refine this code base to ensure maintainability and manage complexity
+Manage our code repositories and CI/CD pipelines
+Implement and improve processes and systems to monitor data quality to minimize data losses and ensure the accuracy of our production data
+You will contribute towards shaping the long-term strategy for our vehicle data platform
+Qualifications
+What you will ideally bring:
+Completed Bachelor’s or Master’s degree in computer science, engineering or a related area
+3 years+ working experience in a similar role, for example as a data engineer, data scientist, or software developer
+Advanced knowledge in at least one object-oriented programming language – ideally Python – and SQL
+Familiarity with software design best practices like SOLID
+Experience with big data frameworks like Spark and Kafka for both batch and stream processing
+Experience in building and optimizing data pipelines and databases, ideally on Azure with services like Databricks, Data Factory, Data Lake, Event Hubs, etc.
+Familiarity with Git as well as CI/CD and DevOps principles and tools
+Knowledge of containerization technologies like Docker
+Experience with MLOps tools like mlflow would be a plus
+Be a team player with the ability to share your knowledge in a pragmatic way with both technical and non-technical audiences
+An agile mindset and strong analytical skills to identify and solve complex problems in a systematic and pragmatic manner
+Good English skills, German is a plus
+What we will offer:
+Contribute towards building & selling sophisticated vehicles
+Play a part in the transformation of Mercedes-Benz towards digital and electrified vehicles for more sustainable, greener mobility
+Work in team with talented data engineers, data scientists, and developers with state-of-the-art technologies
+Many growth opportunities with both technical and management career paths
+35 hour work week
+30 vacation days
+Inclusive, respectful work environment where you can talk with managers on equal footing
+Work in a hybrid setting in Stuttgart on a modern campus with good access to public transport and motorways as well as an excellent cantina
+For your planning, we would like to make the process transparent to you. The application phase runs for about 4 weeks, i.e. until April 2023. The selection interviews will then take place in April, so that a decision for the right candidate will be made by the end of April.
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: sbv-zentrale@mercedes-benz.com
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Mercedes - Benz AG
+70565 Stuttgart, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

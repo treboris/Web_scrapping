@@ -1,0 +1,66 @@
+Jobs by email
+Deutsche Lufthansa AG
+Solution Architect (m/w/divers)
+Frankfurt am Main
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 6 days ago
+Show salary
+Save
+Deutsche Lufthansa AG is a globally operating aviation group. In the financial year 2021, it generated annual revenue of EUR 16,811bn with an average of 105,290 employees. Deutsche Lufthansa AG is organized into the business segments Network Airlines, Point-to-Point Airlines, the Aviation Services segment with the business segments Logistics, MRO and Catering, and the other companies and Group functions.
+Tasks
+Do you have passion to disrupt an entire industry? This is a once in a lifetime chance to redefine airline retailing. You will be part of the Order Management team working in the strategic program CORE and implement customer centric retailing capabilities for the entire Lufthansa Group.
+You shape LHG capabilities based on IATA OneOrder, analyse business requirements with stakeholders and translate them into solution designs compliant with the LHG architecture target picture.
+Defining requirements & concepts for the accounting layer for the transitional and future offer & order management architecture
+Driving the change of processes, mindsets and systems to achieve a real-time order-based accounting
+Design solution architectures, evaluate the technical feasibility, lead discussions about design trade-offs, drive conflict resolution and align with Finance IT domain architects
+Contribute to the OneOrder target architecture and oversee adherence to it
+Create Solution & Security Architecture Documents hand-in-hand with IT Security and present them at the Architecture Boards
+Shape infrastructure and technology stack in close collaboration with Software Engineering, IT Security and IT Operations
+Be the technical leader for innovation & infrastructure topics
+Requirements
+Degree in computer science or equivalent
+Min. 5 years of experience as architect
+Excellent knowledge of solution architecture design, software engineering, enterprise architecture design patterns and project management
+Broad technical background, ability to quickly familiarize with new technologies and curiosity to continuously learn
+Profound knowledge of current airline settlement and accounting processes/systems and the global airline accounting eco-system (e.g. tools, players, legal requirements, trends etc.)
+Highly innovative mindset, empowerment and ability to find pragmatic solutions
+Ability to represent complex facts precisely and high abstraction ability
+Very good spoken and written English skills
+Benefits
+13. Salary / holiday allowance
+Old-age provision / employee retirement
+Profit sharing / LVV (bonus)
+Free parking
+Flight privileges
+Canteen (subsidized by employer)
+Jobticket
+Service phone
+Support for relocation
+Discounts / shopping
+Hybrid working possible
+Flexible working hours
+Fitness studio / sports facilities / company football etc.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Deutsche Lufthansa AG
+Airportring 1, 60546 Frankfurt am Main, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

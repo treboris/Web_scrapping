@@ -1,0 +1,55 @@
+Jobs by email
+Mercedes-AMG GmbH
+AMG software developer for functional safety of HV battery (BEV) (m/f/d)
+Affalterbach
+Permanent contract
+Full Time
+Published: 4 days ago
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: P0009V2776_EN
+Tasks
+You transform vehicle requirements and your own ideas into elegant and performant code (runtime& vehicle performance) and thus contribute to an outstanding driving experience with future electric vehicles
+Your software meets all functional safety requirements (functional safety)
+You are part of the software development team for battery management software and coordinate the implementation of the requirements from the central functional safety team with it
+Your field of action extends from the detailed specification to the implementation of the functions in C-code
+You review code with your colleagues regarding functional safety conformity
+You will find a way to reconcile system performance with functional safety limits and ensure safe operation at all times
+This includes occasionally participation in test drives in Germany and abroad as well as careful documentation of all work results
+Qualifications
+Degree in computer science, electrical engineering/information technology, mechatronics or a comparable qualification
+Very good knowledge of software development of embedded systems with C code for control units in automotive environments or environments with comparable safety requirements (aviation, medical, etc.)
+Several years of professional experience in the area of safety critical software/functional safety
+Very good knowledge of AUTOSAR standards and ASPICE processes as well as experience with DaVinci Developer and Vector PreeVision desirable
+Knowledge of the functioning of battery systems and battery-electric vehicles desirable
+Assertiveness, analytical thinking and process understanding, systematic approach to work
+Fluent spoken and written German and English
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Mercedes-AMG GmbH
+71563 Affalterbach, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Stock options
+Coaching
+Home office
+Public transport ticket
+Study allowance
+The benefits listed are applicable to the company and can differ depending on the position or department.

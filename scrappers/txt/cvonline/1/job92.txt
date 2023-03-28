@@ -1,0 +1,19 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our client - provides innovative Cloud-based Contact Center solutions that empower companies to provide the best customer experience - is looking for a DevOps Manager. With their software, contact centers can handle a full spectrum of incoming and outgoing communications – through Phone, Email, SMS, Chat, and Social Media.
+As an operative leader you will be responsible for:
+Creating an annual strategy for the department and approving it with management.Defining goals for the implementation of the strategy, elaborating a quarterly action plan, implementing, communicating, and reporting on them.Develop, implement and continuously report action plans to the management to achieve the resulting metrics and KPIs.Establishment of the operational framework and processes related to the department (task management, used tools, priorities).Growing and leading a team of 8 Systems / DevOps Engineers.Develop recruitment, onboarding, training, and mentor system for positions, related to the department in line with the company expectations and systems.Continuous monitoring and measurement of the work of colleagues under your responsibility, ensuring their professional and personal development, giving regular feedback.Liaison with external partners (e.g. hosting), escalation, preparation of draft contracts.
+As a technical leader you will be responsible for:
+As the last escalation point of the department, you will be responsible for thevalidation, analysis, and development of the escalated cases.Active role in the elimination of critical errors.Ensure that the system meets current security requirements.Act as a project manager and product owner.Ensuring communication with stakeholders, follow-up case analyzes.Effective communication with key clients. 
+                Elvárások / Requirements
+They are looking for you, if :
+You have strong experience in people management for at least 5 years, e.g. building and leading an operation/devops team (min. 3 people).You have experience developing new processes and managing the team’s work (e.g. feedback, coaching, cost planning).You have project management or product owner experience in infrastructure-related development.You have SYS / OPS / DEVOPS past, especially in the Linux environments.Experienced with diversified technologies in private or public cloud solutions (AWS, GCP, Azure, etc.).You have worked with wide experience in analyzing and implementing the infrastructure as a code (Ansible, Puppet, Docker) environment.Experience in telecommunication systems is an advantage.You have an excellent analytical and systems approach, and outstanding problem-solving ability.You are continuously improving yourself, and have a helpful attitude.Conversational level English (both written and spoken)Fluent/Native Hungarian 
+                Amit nyújtunk / Benefits
+Our client commits to investing in your personal growth in the long run (attractive salary package, benefits, and career opportunities). 
+The opportunity to work at a financially stable, growing company with a strong international presence and market positions in Europe, America, and East Asia. 
+A healthy work-life balance with flexible work options. 
+A company with regular team building, sports events, charity programs, and fun events.
+Mentorship and training opportunities from the start. We create your career path together to help you reach your maximum potential. 
+Internal training sessions, school programs, language courses, as well as the chance to travel the world to meet end-users and clients at conferences and meetings.
+DevOps Manager 
+Jelentkezem

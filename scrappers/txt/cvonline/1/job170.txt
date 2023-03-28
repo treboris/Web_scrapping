@@ -1,0 +1,35 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Test Automation Engineer  
+Application Development Center of the client, they create next generation automotive software solutions which make automated driving safe and affordable. They work towards Vision Zero, a goal to eliminate fatal accidents happening every day on the world’s roads. They are looking for creative minds who are passionate to shape the future of automated driving by delivering software solutions for ADAS customer projects.
+YOUR TASK
+As a member of the Test and Validation team, you will be working on developing virtual testing solutions to enable fully automated testing of our sensor and driving functions in the vehicle as well as in Hardware in the Loop (HiL) and Software in the Loop (SiL) test environments for our European customers. You will be responsible for:
+- Ensuring the roll-out of new test methods and tools for the next generation ADAS systems (sensors, sensor systems and functions) across testing levels as well as test domains
+- Responsible for implementation and adoption of test automation and test evaluation scripts for pilot and application projects
+- Ensuring the successful roll-out and continuous optimization of current and new test scripting methods
+- Full validation and documentation of test automation and test evaluation scripts
+- Development of smart validation strategies for test evaluation and test automation scripts
+- Interface to central engineering, product lines, base projects, and test community worldwide on test development, test methods and test tool chain
+What they offer:
+- Participation in exciting, highly innovative projects
+- Personal career development and a challenging role with end-to-end responsibility
+- Ability to directly deliver software into real products
+- Access to cutting-edge technologies and to one of Europe’s largest in-house GPU clusters
+- Opportunity to see your ideas turn into reality with our test vehicle
+- Continous development with access to numerous trainings, including technical skills, soft skills and language skills
+- A friendly, respectful and collaborative work environment that encourages creativity and innovation
+- Competitive compensation and a wide range of benefits, including:
+> Private health insurance
+> Bonus system
+> Employee discounts
+> Sport pass support
+- Flexible work-from-home arrangements during and after the COVID-19 pandemic
+- Easily accessible office location in downtown Budapest (near Kálvin square)  Qualifications  - University degree (BSc, MSc, PhD) in a technical area: Computer Science, Electronics, Electrical Engineering or related.
+- Good programming skills in Python (and C/C++ advantage)
+- Experience with automotive development and test processes (ASPICE, ISO26262, ISTQB)
+- Knowledge of driver assistance systems, electrical vehicle architecture and bus systems preferred
+- Capability to take initiative, make decisions and deliver results
+- Passion and commitment
+- Good command of the English language
+- Good communication skills
+- Collaborative, open-minded, team player attitude  Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods.
+Jelentkezem

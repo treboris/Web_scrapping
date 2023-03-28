@@ -1,0 +1,148 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+Következő 
+Full Stack Developer
+OTP Bank Nyrt.
+Budapest XIII. kerület
+ Módszertanok és szoftverek
+Bpmn
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+ Módszertanok és szoftverek
+Bpmn
+Full Stack Developer
+Az OTP Bankcsoportban a lakossági hitelezési területen egy olyan nemzetközi csapatban dolgozhatsz, melynek feladata az OTP legjobb hitelezési gyakorlatát leképező csoportszintű informatikai megoldás kialakítása, ami az OTP régiós bankjai számára kerül bevezetésre. A munkavégzés az OTP Madarász utcai díjnyertes irodaházában, modern informatikai technológiák felhasználásával történik, beleértve felhő- és konténerizációs technológiákat, modern integrációs, back-end és front-end keretrendszereket és programozási nyelveket is (pl. API gateway, Kafka, Vue.js, Angular, Kotlin, Swift, Pyhon, java).
+Full Stack fejlesztőként egy nemzetközi csapat tagja lehetsz, amely a teljes szoftverfejlesztési életciklusért felelős, a koncepciótól a telepítésig. Fejlesztőként magabiztosan mozogsz majd a fenti back-end és front-end keretrendszerek és programozási nyelvek világában, az UX/UI csapat által meghatározott standardoknak megfelelő képernyőket,  hatékony és biztonságos integrációs megoldásokat fejlesztesz, és támogatod majd a DevOps folyamatokat is.
+Feladatok:
+Részvétel skálázható szoftverek tervezésében és létrehozásábanSzoros együttműködés a fejlesztőcsapatokkal és rendszermérnökökkel a szoftvermegoldások kidolgozásábanVonzó és jól használható front-end alkalmazások, reszponzív illetve natív mobil applikációk fejlesztéseTiszta és hatékony kód írása (beleértve az API-kat is) és azok automata teszteléseHatékonyan működő adatbázisok és alkalmazások fejlesztése és fenntartásaA vonatkozó műszaki dokumentációk elkészítéseA csoportmegoldás fejlesztési feladatain felül az egyes országokban futó bevezetési projektek támogatása
+Aminek örülünk:
+Tapasztalat Full Stack fejlesztőként vagy hasonló munkakörbenBöngészőben futó és mobil alkalmazások fejlesztésében szerzett tapasztalatTöbb front-end nyelv és könyvtár ismerete (böngészős és mobil keretrendszerekben egyaránt)Több háttérnyelv ismerete (pl. C#, Java, Python)Adatbázisok (pl. PostgreSQL, MongoDB), webszerverek és UI/UX tervezés ismereteKiváló kommunikációs és csapatmunka készségekNagy odafigyelés a részletekreFelsőfokú informatikai / számítástechnika vagy megfelelő szakirányú végzettségA szakmai angol nyelvtudás elengedhetetlen
+Amit kínálunk:
+Modern munkakörnyezet, nemzetközi projektekben való részvételBelső karrierútHome Office lehetőségIngyenes parkolási lehetőségSzakmai, nyelvi tréningekLendületes, összetartó csapatPróbaidő után vonzó cafetéria csomagTámogató vezetői hozzáállás Munkavégzés helye: Budapest XIII. kerület
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezés módja
+Jelentkezni lehet a lenti "Jelentkezem" gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+OTP Bank Nyrt.
+Pénzügy, biztosítás
+●
+Egyéb monetáris közvetítés
+1000+ munkavállaló
+1990
+1051
+Budapest,
+Nádor u.16.
+Értékelések a(z) cégről
+Értékelések kategória szerint 
+3,6
+Munkaidő és munkarend 
+4,3
+Megközelíthetőség 
+3,7
+Munkakörnyezet 
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahelyi extrák
+Parkoló
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Full Stack Developer
+OTP Bank Nyrt.
+Budapest XIII. kerület
+Jelentkezem
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

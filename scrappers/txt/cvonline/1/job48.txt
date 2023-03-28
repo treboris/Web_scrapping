@@ -1,0 +1,38 @@
+ÁLLÁSHIRDETÉS FELADÁS
+.NET FEJLESZTŐ, SZAKMAI VEZETŐ 
+Mik lesznek a feladataid?
+		Új rendszerek fejlesztése
+		Alkalmazások kialakítása, kódolása
+		Tervezési, fejlesztési feladatok
+		Junior, Senior fejlesztők szakmai vezetése és ellenőrzése, támogatása
+ Fontos technológiai ismeretek, tapasztalatok:
+.NET 7.0
+ASP.NET, MVC 5
+ASP.NET, Core WebApi
+		CSS 3/HTML5/Boostrap
+		JavaScript/jQuery
+		Visual Studio / Team Foundation Server (TFS)
+		MSSQL
+		Többrétegű/nagy rendelkezésre állású/elosztott alkalmazások fejlesztése 
+		Objektum-orientált szemléletmód 
+Vezető fejlesztői szintű tapasztalat
+ Előnyként ha van ismereted az alábbi technológiákban:
+		Azure/ AWS
+		Microsoft SQL Server
+		Verziókezelő rendszer ismerete (pl.: GIT)
+		WCF, Entity Framework (vagy más ORM) használatában szerzett tapasztalat
+		Fullstack fejlesztőként: HTML, CSS, JavaScript, TypeScript, Angular ismeret
+ Amit a cég kínál:
+		Az alapbéren felül piacképes kompenzációs csomag: cafetéria, év végi teljesítmény alapú bónusz
+Angol nyelvi fejlesztő program
+Home office lehetőség és rugalmas törzsidő
+Munkaeszközeidet te választhatod meg
+		Mini konditerem és szauna az iroda tetőterében
+		Kerékpár és kutya barát munkahely
+Évente orvosi menedzser szűrés vehető igénybe
+Fejlődés lehetősége, oktatások
+		Önálló, felelősségteljes munkakör
+ Munkavégzés helye:
+		Budapest 11. kerület vagy remote
+ Amennyiben szívesen járulnál hozzá egy fejlesztő csapat szakmai támogatásához, várjuk CV-det a "Jelentkezés" gombra kattintva!
+Jelentkezem

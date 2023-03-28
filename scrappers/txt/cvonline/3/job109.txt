@@ -1,0 +1,80 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
+Ehhez hasonló állások
+Javasolt állások
+További állások a Randstad Hungary Kft. hirdetőtől
+Qlik Sense/ Qlik View Developer (REF1602F)
+                  25.03.2023,               
+Deutsche Telekom IT Solutions 
+Budapest, Debrecen, Pécs, Szeged 
+      IT / Informatika    
+Elmentem az állást
+Elmentem az állást
+Experienced/Senior Data Engineer (REF1603Y)
+                  25.03.2023,               
+Deutsche Telekom IT Solutions 
+Budapest, Debrecen, Pécs, Szeged 
+      IT / Informatika    
+Elmentem az állást
+Elmentem az állást
+Junior Data Engineer (REF1600P)
+                  25.03.2023,               
+Deutsche Telekom IT Solutions 
+Budapest, Debrecen, Pécs, Szeged 
+      IT / Informatika    
+Elmentem az állást
+Elmentem az állást
+További állások
+Pozíció leírása / Job description
+Because of the rapidly changing environment, our Partner has set its aim to become the most data & technology-driven airline in the world. We are looking for a software engineer specialist in Python to their fast growing team. As a software engineer, you will work shoulder to shoulder with other software engineers, like backend specialists, front-end specialists, domain experts, and frontline staff to shape the future of the firm and the aviation industry.
+As a Senior Python Specialist, you will apply your skills to change the way our Partner works, driving innovation and transforming into a truly data-driven organization. Both technical expertise (analysis, design & architecture, engineering, quality assurance and DevSecOps) as well as the interpersonal parts of the job (coaching, consulting, coordination, and support) are valued.
+As a Senior Python software engineer, your key result areas are:- Make use of right technology and govern architecture for products in line with the organizational objectives,
+- Ensuring that the right technologies are chosen to strike an optimal balance between achieving business goals,
+- Realizing functional and technical requirements, and managing technical debt, development costs and continuity costs,
+- Design and implement the overall architecture aligned with other optimizers for the product to deliver,
+- Translate business needs into compelling products and deliver them to end users so that business value is created, 
+- Take care of specification, design, engineering, testing, delivery, maintenance, monitoring, and support of digital products,
+- Foster a culture where state-of-the-art approaches, tooling and technologies are applied as fits with the mission of the department, the KPI’s and desired business impact.
+                Elvárások / Requirements
+- Preferably Bachelor degree or higher in Computer Science, Software Engineering or other relevant fields
+- Prior experience with Python and it’s ecosystem (e.g. MyPy, FastAPI, Django, Flask, SQLAlchemy)
+- Experience with databases (e.g., design) and SQL
+- Experience with consuming APIs and knowledge of REST API best practices
+- Knowledge of continuous integration/continuous deployment techniques and tools (Kubernetes, GitHub Actions, Bamboo)
+- Proficient with automated testing (e.g., Unit tests, End-2-End tests)
+- Experience with bringing (data science and/or operations research) models to production and supporting data scientists in industrializing their code
+- Experience in coaching and knowledge sharing to familiarize teams with software engineering best practices
+- Knowledge with and experience in agile way of working (e.g., SAFe, Scrum, Agile)
+- Great communication skills, written and spoken (English) and team spirit
+- This role requires participation in our on-call support rotation every six weeks
+- All our teams have a hybrid way of working, we do ask you to come to the office every so often to meet your colleagues, to participate in trainings or team events.
+In addition, the following requirements are considered nice to have:
+- Affinity with Operations Research and/or Machine Learning concepts
+- Experience with architecture design
+- Experience with other general purpose programming languages (e.g., Scala, Java, TypeScript)
+- Experience with Docker and Kubernetes
+                Amit nyújtunk / Benefits
+Our Partners offer a dynamic and challenging position in the heart of the firm's Operation department. The role provides opportunities to apply leading edge craftsmanship and enable impact across our organization. You will be working with talented, driven people within and outside your field, on cutting-edge technology and with top-level equipment. You will be part of the broader community, information sessions, hackathons and more.
+Our partners is an international European corporate looking to grow in Hungary. This means you will be able to rely on the resources of their Amsterdam HQ, and they will invite you every three months to the Netherlands for their quarterly planning events.
+They offer a clear career path with ample opportunity for growth: You will have a hierarchical and a functional manager, your functional manager will also have a software engineering background and therefore we will be able to truly help you develop both your soft and hard skills. In your further development you can choose to either grow into a Principal Engineer, or transition to an Engineering Leader (a partially managerial role).
+Additionally, we offer:
+- A competitive salary depending on your level and experience- 10% of your time set aside for personal learning and development- An excellent pension scheme, profit sharing, and yearly bonus- Substantial discounts on flight tickets (after 6 months of employment)- A travel allowance- Discount on health insurance- A learning budget
+Senior Python developer 
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 08.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Irodai asszisztens 
+ Budapest  
+ Villamos karbantató/Szerelő - Szerencs 
+ Szerencs  
+ Szemcseszóró gépkezelő - Veszprém 
+ Veszprém  
+ Shopfloor Manager 
+ Debrecen  
+ SZERELDEI FOLYAMATMÉRNÖK 
+ Budapest  

@@ -1,0 +1,41 @@
+Jobs by email
+Apple Distribution International ULC
+Platform Engineering / FPGA Engineer (m/f/d)
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+Summary
+At Apple, we believe our products begin with our people. By hiring a team with dynamic strengths, we drive creative thought. By giving that team everything they need, we drive innovation. By hiring incredible engineers, we drive precision. And through our process, we build memorable experiences for our customers. These elements come together to make Apple an amazing environment for motivated people to do the greatest work of their lives. You will become part of a hands-on development team that cultivates perfection, creativity and innovation. Will you help us design the next generation of revolutionary Apple products?
+Do you love working on challenges that no one has solved yet? As a member of our dynamic group, you will have the unique and rewarding opportunity to craft upcoming products that will delight and inspire millions of Apple’s customers every single day.
+As part of the prototyping team, you will develop and bring-up pre-Silicon prototypes of complex SOCs.
+Description
+Partnering closely with design & micro-architecture teams to understand the functional & performance goals of the SOC design.
+You will review SOC specifications, develop prototyping plans and create prototype specifications together with your colleagues.
+Working on synthesis, place & route, timing optimization and develop plans for custom hardware.
+Supporting multi-functional engineering efforts from hardware to software development.
+Qualifications
+Key Qualifications
+Advanced knowledge of CPU & SOC architecture/design and industry standard interfaces
+Strong knowledge of FPGA tool flows for synthesis, partitioning and place & route (e.g. Certify, Synplify, Identify, ISE, Vivado, etc.)
+Experience with multi-FPGA partitioning and constraining of synthesis as well as design optimization with respect to FPGA limitations
+You are experienced in scripting/programming - ideally Unix, perl, python, Tcl, C, C++ including low-level programming (firmware) of complex computer systems
+Excellent interpersonal skills, a creative approach and the desire to tackle diverse challenges
+Hardware/system design, tools, debug, lab experience and vendor interfaces would be beneficial
+Experience with pioneering FPGA devices such as Xilinx UltraScale is beneficial
+Solid knowledge of Verilog, system-Verilog, test-benches, simulation, automation and debug would be a plus
+Education and Experience
+Master’s or PhD degree in Electrical Engineering or Computer Science (or related) is required.
+Wir bieten
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

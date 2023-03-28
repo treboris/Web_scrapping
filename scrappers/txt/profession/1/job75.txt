@@ -1,0 +1,181 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Csongrád-Csanád megye
+Szeged
+Következő 
+Szoftverfejlesztő
+SpinInvest Kft.
+6720 Szeged
+ Elvárt technológiák
+PHP
+FRONTEND
+BACKEND
+HTML5
+CSS
+ANDROID
+JAVASCRIPT
+C++
+LINUX
+HTML
+GIT
+JQUERY
+MYSQL
+SQL
+DOCKER
+ Módszertanok és szoftverek
+Git
+Jira
+Confluence
+Jenkins
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+Juttatások
+Lakhatási támogatás
+ Elvárt technológiák
+PHP
+FRONTEND
+BACKEND
+HTML5
+CSS
+ANDROID
+JAVASCRIPT
+C++
+LINUX
+HTML
+GIT
+JQUERY
+MYSQL
+SQL
+DOCKER
+ Módszertanok és szoftverek
+Git
+Jira
+Confluence
+Jenkins
+SpinInvest Kft.
+Bővülő csapatunkba
+Szoftverfejlesztő
+munkatársat keresünk.
+Cégünk programozókat keres szegedi belvárosi irodaházába. A több, mint 10 éve fejlesztett termékeink rendszeres szereplői nemzetközi kiállításoknak, tanárok és diákok a világ számos országából használják megoldásainkat.Szoftverünk a gyorsan fejlődő digitális piac egyik legkedveltebb eszköze. Sikerének és további fejlesztéseinek most Te is aktív részese lehetsz.Nyugodt munkakörnyezetet ajánlunk. Munkahelyünk csapatmunkát, valamint egyéni munkát is igényel, ezért mindenképp mondd el nekünk, hogyan tudnád önállóságodat és kreativitásodat alkalmazni ilyen szituációkban.
+Főbb feladatok, munkák:
+Az alábbiak közül egy vagy több kompetenciával rendelkező fejlesztőt keresünk:Linux rendszerüzemeltető - Webalkalmazás és szerver üzemeltetési feladatokPHP Junior/Senior fejlesztő - Frontend és backend fejlesztési feladatok, HTML5/CSS/JavascriptAndroid fejlesztő - Natív és cross-platform mobil app fejlesztésWebAssembly fejlesztői tapasztalat - Meglévő C++ komponensek integrálása böngészős környezetbe
+Az álláshoz tartozó elvárások:
+HTML, CSS és JavaScript ismereteOOP szemléletGit verziókezelő ismereteÚj technológiák iránti folyamatos érdeklődésKommunikációs szintű angol nyelvtudás
+Az állás betöltéséhez előnyt jelent:
+Valamilyen PHP template rendszer ismerete,jQuery ismeretek,MySQL ismeretek; önálló SQL-ek írása,Jira, Confluence, Jenkins rendszerek ismereteDocker, Docker-compose ismeretAngol nyelvtudás (alap írás/olvasás)
+Amit kínálunk:
+Főállású, határozatlan idejű munkaviszony,Előrelépési lehetőség,Versenyképes fizetés, cafeteria,Változatos fejlesztési feladatok,Szakmai fejlődésed előtérbe helyezéseCéges albérlet, kedvező feltételekkel,Modern, reprezentatív munkakörnyezet egy több mint 30 éves cégnél
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Tesztelő, Tesztmérnök
+Jelentkezés módja:
+Önéletrajzodat a "Jelentkezem" gombra kattintva várjuk, a pozíció és a fizetési igény megjelölésével.Reméljük, hogy hamarosan találkozunk!
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+Juttatások
+Lakhatási támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+SpinInvest Korlátolt Felelősségű Társaság
+Tudományos, műszaki tevékenység
+●
+Üzletviteli, egyéb vezetési tanácsadás
+0-10 munkavállaló
+2010
+6720
+Szeged,
+Somogyi utca 19.
+Munkahelyi extrák
+Céges étkező
+Céges rendezvények
+Kerékpártároló
+Ingyen kávé, üdítő
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Szoftverfejlesztő
+SpinInvest Kft.
+6720 Szeged
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

@@ -1,0 +1,46 @@
+Jobs by email
+ProSiebenSat.1 Careers
+Senior Software Engineer - Java (m/f/d)
+München, Berlin
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+Let’s #CreateMomentsThatMatter together! As a digital group, ProSiebenSat.1 combines leading Entertainment brands with a with a strong Dating and Commerce & Ventures portfolio under one roof. We are consistently digitizing our TV business and at the same time using our entertainment strength to further expand our digital business areas. With this Group set-up, the company is continuously driving forward its diversification using its own strength. Behind ProSiebenSat.1 there are around 8,000 employees, who delight our audience and customers with great passion day by day. With courage. Uniqueness. And great commitment! Success stories start here. Yours too?
+What you can expect
+We are a closely-knit team of highly experienced individuals organized in several agile product teams with deep competences in cutting-edge media technologies, cloud tools, product management, software development and IT operations. We are looking for engineers with "application-owner" mindset, who are excited to take end-to-end responsibility for the systems that they are developing - "you build it, you own it, you run it".
+In this position, you work within our hybrid model "Flexible". You will be one or two fixed or flexible days on site, the other days remotely.
+What you can expect in this role
+You are part of engineering culture that emphasizes Clean Code, Test-Driven-Development (TDD) and continuous refactoring
+You contribute to creating large software systems that are extendible and you apply Domain-Driven-Design (DDD), Clean Architecture and various Object-Oriented Enterprise Design Patterns to keep code modular and readable
+You interact directly with end-users and deliver solutions to their business problems from start to finish: requirements, coding, testing, releasing, monitoring and prod operations
+Our tech stack
+Java 11+ | Spring Framework | JUnit | Mockito | AWS DynamoDB | PostgreSQL | React.JS | Node.js | Jest | Playwright | Docker | AWS ECS | GitLabCI | maven | Terraform | DataDog | Jira | Confluence
+Your essential experience and education
+You have extensive experience designing and developing large software applications in Java using Spring Framework
+Ideally you bring with you experience developing cloud execution platforms and deploying software solutions and infrastructure into production - Such as with AWS, Terraform and Monitoring & Alerting solutions
+Experience with UI Frameworks (such as React.js, Vue.js) is a plus
+You can coach others in a team around how to build production-quality software in teams, with a focus on automation and good testing quality
+You possess very good English skills. German is a plus
+What's in it for you?
+Take advantage of our wide range of training and development opportunities at the ProSiebenSat.1 Academy
+Benefit from a great flexibility and the possibility of mobile working thanks to our hybrid working model "NWOW" (New Ways of Working) as well as 30 days of vacation per year
+Make use of our international mobile working agreement from currently eleven EU countries - for up to 30 days within twelve months
+Benefit from a highly discounted, Germany-wide membership at Urban Sports Club as well as numerous other special discounts of our partners
+Receive support in all situations of life, e.g. with our campus-owned daycare center, a childcare allowance or the BUK Family Service with free advice, for example on the topic of care. With our regular "Mental Health Days", we also send a clear signal for more awareness on the topic of mental health in everyday work life
+Use our wide range of campus services at our headquarter including a canteen with fair prices, different coffee bars or our massage service
+Enjoy an open corporate culture without a dress code
+Join our P7S1 employee networks and get engaged in a topic you are passionate about, e.g. PROUD, Greenteam, fempowerment, language buddies
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

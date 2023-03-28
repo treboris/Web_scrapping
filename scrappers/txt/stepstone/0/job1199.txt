@@ -1,0 +1,56 @@
+Jobs by email
+Valeo eAutomotive Germany GmbH
+Low-Level Software Developer (m/f/d)
+Erlangen bei Nürnberg
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Show salary
+Save
+We will electrify you – become part of an innovative team
+Thanks to its strategy focused on innovation, Valeo is at the heart of the three revolutions which are disrupting the automotive sector: electrification, autonomous and connected cars, and digital mobility. These are revolutions that Valeo has been able to anticipate and which today provide amazing career opportunities, including internationally! At Valeo, innovation is driven by the diversity, authenticity and energy of its talent. Are you looking for new technological and human adventures? Join Valeo and its 103,300 employees across 31 countries!
+State-of-the-art powertrain technology for an electric future of mobility – that is our goal at Valeo eAutomotive Germany GmbH. In the Powertrain Electrified Mobility (PEM) business unit, more than 1,500 employees at the Erlangen, Herzogenaurach and Bad Neustadt sites are currently researching, developing and testing everything that drives an e-vehicle – in particular e-motors, e-axles and other HV components of the latest performance class.
+Valeo eAutomotive is looking for a Low-Level Software Developer (m/f/d) at the Erlangen site with immediate effect.
+Your new task – thrilling and future-oriented
+Technical responsibility for one or more related SW modules from concept phase to implementation and testing
+Coordination of the requirements with the SW architects and the product owners
+Implementation of the requirements in our requirements engineering tool (e.g. Doors, Teamcenter, Polarion)
+Creation of detailed design specifications and reviews with the responsible product owner
+Your qualifications – sound and specific
+Successfully completed studies in automotive engineering or electrical engineering or a comparable field of study
+About 4 years of professional experience in SW development for the control of electrical automotive drives
+Very good programming skills in C or embedded microcontroller programming
+Good knowledge in the use of common debugging tools (e.g. Lauterbach Trace32)
+Experience in model-based unit testing and software validation
+Your advantage with us – sustainable and international
+MONEY. Our collective bargaining agreement is more attractive than you might think.
+RELIABILITY. Our order intake is in the billions worldwide.
+E-FUTURE. Together we are working on the mega issue of the automotive industry.
+DEVELOPMENT. We offer and promote career opportunities worldwide.
+FLEXIBILITY. Work models that harmonize their professional and private lives.
+PARTICIPATION. Allowances for sports, health, retirement benefits, canteen and much more.
+ELECTRICITY. Recharge your e-vehicle for free at our 80 charging stations on site.
+This is how you get in contact with us – simply and directly
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Valeo eAutomotive Germany GmbH
+Frauenauracher Straße 85, 91056 Erlangen, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

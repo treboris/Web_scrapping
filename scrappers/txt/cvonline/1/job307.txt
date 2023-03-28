@@ -1,0 +1,36 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Who is our partner?
+Our partner's mission is to provide a tool that makes urban commuting more convenient and contributes to building a sustainable future. Their main product is a mobile application for parking and electric vehicle charging. Furthermore they work closely with big corporations, providing software and hardware related to parking and charging. 
+Right now they are looking for their new Software Test Engineer colleague.
+The following challenges await the Software Test Engineer:
+Designing test scripts and test cases based on given specifications
+Conducting functional and user tests
+Error analysis, defect tracking and documentation
+Taking part in the development and implementaton of new testing methods and principles
+Working closely with the software engineer and sales teams
+                Elvárások / Requirements
+The requirements you should fulfill:
+Completed technical education in the field of IT or engineering
+At least 3-5 years of experience in software testing
+Familiarity with SQL
+Reliable English knowledge
+Soft skills we are looking for:
+Analytical thinking
+Proactivity, good communication skills
+Ability to work well as part of a team
+It is a PLUS if you have:
+ISTQB
+Some programming knowledge (preferably in Java or JavaScript)
+Familiarity with some testing tools and methodologies (Postman / SoapUI /Selenium / Appium / JMeter)
+Experience with an issue tracking system (Jira / Redmine / Testlink / Spira)
+User level familiarity with Linux
+                Amit nyújtunk / Benefits
+What our partner offers you:
+Partial home office opportunity
+Competitive renumeration package with stock options and education support
+Diverse tasks using modern technologies
+A friendly team of young professionals
+A chance to join a growing project in an emerging industry
+Software Test Engineer 
+Jelentkezem

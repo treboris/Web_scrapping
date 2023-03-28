@@ -1,0 +1,88 @@
+Jobs by email
+Mercedes-Benz Mobility AG
+IT Solution Architect OneHouse (f/m/x)
+Stuttgart
+Permanent contract
+Full Time
+Published: 1 week ago
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER00028JY
+Tasks
+Mercedes-Benz Mobility at a Glance
+With around 10,000 employees, Mercedes-Benz Mobility AG specialises in financial and mobility services. The products range from financing, leasing, vehicle subscriptions, rental and fleet management to digital services for charging and payments, as well as insurance and innovative mobility services.
+Mercedes-Benz Mobility is a division of Mercedes-Benz Group AG, which also includes the vehicle manufacturer Mercedes-Benz AG, one of the largest suppliers of premium and luxury passenger cars and vans. As a financial services provider, Mercedes-Benz Mobility supports sales of the Mercedes-Benz Group's automotive brands worldwide. In Germany, Mercedes-Benz Bank AG, as part of Mercedes-Benz Mobility AG is one of the leading vehicle financing banks and offers around one million customers financial flexibility as well as deposit business and fixed-interest-rate accounts in the direct banking business.
+Flexible mobility offers such as Mercedes-Benz Rent or EQ subscriptions, enable an uncomplicated and flexible entry into e-mobility, complementing the service portfolio. With its subsidiary Athlon, Mercedes-Benz Mobility is present in Europe in operational fleet management and vehicle leasing and is responsible for around 400,000 vehicles.
+Mercedes-Benz Mobility lives diversity and inclusion
+Diversity and inclusion are not only a concern of ours, we actively shape them. Employees from 100 different nations enrich our culture. Through numerous initiatives, we promote intercultural understanding, respect for one another, openness and willingness to change within the company, as well as non-profit organizations that are committed to this.
+We are part of the organization that is responsible to plan, build and run the future European IT landscape ("OneHouse"). This consists of more than 30 systems, which we are responsible for integrating. This standardization lays the foundation for a seamless customer journey online and in retail when purchasing our leasing and financing products.
+Our Team "Architecture & Infrastructure" is mainly responsible for the OneHouse-Architecture. One important part of our job is the integration of OneHouse. That is to make sure that all applications work together and the interfaces are well designed and implemented and use state of the art technologies. You will join a newly founded team with already 4 motivated colleagues and we are right now looking for 3 further members in our team.
+As an solution architect for OneHouse the following is waiting for you:
+An international working environment
+New and further development of software projects with regard to the overall architecture of OneHouse
+Cooperation with international, agile software development teams (Dev-Ops)
+Design of new features/applications/functions together with our partners and development teams regarding the overall architecture
+Development and conception of solution and system architectures and integration of these into existing IT infrastructures in a cross-functional team
+Support for the integration of all systems into the overall architecture
+Ensuring that the integration of the systems is working by driving the specification and implementation of the interfaces together with the relevant Productowners and their team
+Introduction and quality assurance of a cross-system software architecture based on Microservices & APIs
+Building a new system landscape based on a modern technology environment, e.g. Microsoft Azure, K8s, Containerization (Docker), data streaming technologies, IaC/ Terraform, Helm, Harbor
+Close cooperation with and coordination of all solution architects of the individual applications and the other architects in OneHouse
+Tech moves us, does it move you?
+You prefer working from home? Our flexible hybrid working model will enable you to do so!
+Qualifications
+What you bring to the table:
+Completed degree in computer science, information technology or similar
+Very good knowledge and experience in software architecture
+Good project management know-how
+High Experience in systems integration
+Experience in various interface technologies (APIs, Queues, Messages, file tranfers, etc.)
+Experience with agile software development and Dev-Ops approach
+Practical experience with Azure or AWS
+Several years of experience and knowledge in the field of microservices, API design incl. API-Gateways (best case One-API), cloud architectures
+Fluency in English
+Personal skills:
+You are eager in familiarizing yourself with new tasks and technologies
+Enthusiasm for complex systems and interdisciplinary tasks
+Analytical thinking ability and independent work
+Ability to work in a team and problem-solving skills
+Very good communication skills and political sensitivity
+Open to change and constantly looking for improvement
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: sbv@mercedes-benz.com
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Mercedes-Benz Mobility AG
+70469 Stuttgart, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Petrol card
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Stock options
+Coaching
+Home office
+Company car
+Public transport ticket
+Study allowance
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

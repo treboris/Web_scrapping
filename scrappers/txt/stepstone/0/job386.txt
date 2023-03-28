@@ -1,0 +1,69 @@
+Jobs by email
+CARIAD
+(Senior) System Development Engineer – Audio/Video (m/f/d)
+Wolfsburg, Ingolstadt, Mönsheim/Stuttgart, München
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+At CARIAD, it’s our mission to transform automotive mobility for everyone, everywhere, making it safer, more sustainable, and more comfortable in every way. To deliver on that promise, we’re building a unified technology and software platform, including a vehicle OS and cloud platform, as well as a unified architecture. As a 100% subsidiary of the Volkswagen Group, we’re developing solutions for all of its brands, including Volkswagen, Audi, and Porsche, and will bring our software to over 40 million vehicles by 2030.
+Is this an easy task? Not at all! To tackle such a huge challenge, we need a great team. And that’s where you come in. You’ll join more than 5,000 CARIDIANS already working on the latest vehicle features and functions like automated driving, state-of-the-art charging technology, as well as a new digital ecosystem. Together, we’re bringing sustainable change to one of the largest companies in the world.
+YOUR TEAM
+We are developing the technical heart of the car, and this consists of the highly integrated computing platforms for different domains like Infotainment, Cockpit, Body, Connected Vehicle and more.
+Our team is a specific unit within the architecture and development Department, responsible for all communication-relevant aspects such as ECU internal communication as well as communication from our computer towards the rest of the vehicle, typically via Ethernet or CAN-FD. Our responsibility spans from the support of the selection of the needed Hardware, throughout the specification, implementation and verification of all relevant system enablers for the communication over Ethernet and CAN-FD.&nbsp;Moreover, our team is responsible for OS-level features such as IP-stack, firewall and communication protocols (e.g SOME/IP, ViWi).
+In order to connect and synchronize various audio and video devices like sound appliances, cameras and displays within the vehicle, we utilize audio- and video transmission over Ethernet RTP including data encryption and high efficient video compression.&nbsp;Based on Ethernet RTP, Audio- and Video transmission including data encryption and high efficient video compression is used to connect and synchronize various audio and video devices like sound devices, cameras and displays within the vehicle.
+#OneInfotainment #Infotainment
+WHAT YOU WILL DO
+Design and accompany future proof audio-/video communication features (e.g. compression schemes, profiles, multiplexing, annotation, encryption, signal- and service oriented control communication, time synchronization) through the whole V-model development process to ensure seamless audio/video communication over tightly networked control units in our vehicles
+Drive all development phases (SYS.2 to SYS.5) and liaise closely with multiple parties including internal stakeholders (like architecture, security, system integration and test), suppliers and contractors
+Develop residual bus simulations and mockups for improving system integration and verification activities
+Ensure the implementation and delivery of the infrastructure (e.g. parser, multiplexer, codec) needed for the audio- and video features in future vehicles
+Improve your feature design based on provided test / analysis results and perform hands-on measurements in test benches and vehicles
+Discuss and agree, together with the experts in the team, which SW and HW solutions will have to be adopted, to fulfill the given and future requirements
+WHO YOU ARE
+Completed studies in the field of electrical engineering, mechatronics, computer science, information technology or a comparable field and several years of professional experience
+Experience in system development
+Knowlege in the development with Ethernet based protocols and automotive bus systems. Terms like ISO/OSI-model, IPv6, UDP/TCP, RTP, MPEG-TS, H.264/H.265, HDCP, PTP should be your daily business
+Ideally experience with Linux / Android operation systems and know-how in ASPICE Process
+Tools: CANoe, Wireshark, GStreamer, FFmpeg, Jira, MS-Office, Linux Bash/Shell
+Preferred: practical experiences in tool development using programming/modelling languages such as Python, C/C++, CAPL, UML
+Strong team player and to have a proactive mindset with solid communication skills
+Fluent English and German language skills (both oral and written) required
+NICE TO KNOW
+Remote work options
+Temporary work from abroad in selected countries
+Flextime / optional working hours
+Company pension plan
+Annual professional development
+Sabbatical option up to 6 months
+30 days paid + 10 days unpaid leave
+Possibility for VW Group car leasing
+If you have further questions about the candidate journey at CARIAD, talk to Cari, our CARIAD Chatbot.&nbsp;Can’t see it? Check your settings or visit our&nbsp;FAQ
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

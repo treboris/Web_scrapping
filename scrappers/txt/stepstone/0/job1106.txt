@@ -1,0 +1,68 @@
+Jobs by email
+Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ
+Project manager (f_m_x) in software development and modelling
+Potsdam
+Temporary contract
+Part time
+Published: 1 week ago
+Easy apply
+Save
+The Helmholtz Centre Potsdam – GFZ German Research Centre for Geosciences is the national centre for geosphere research. As a member of the Helmholtz Association of German Research Centres we are part of the largest scientific organization in Germany. With approximately 1,500 employees (including our guests) our key mission is to secure a profound understanding of the systems and processes of solid Earth, to develop strategies and options for action in addressing global change and its impacts on a regional level, to understand natural hazards and to minimize associated risks, to ensure the sustainable provision of energy and raw materials for a high-tech society and to evaluate the influence of human activity on system Earth.
+As a partner in Geo.X, the GFZ has access to an excellent network of other geoscience institutions in Potsdam and Berlin. This largest regional concentration of geoscientific competence in Europe offers first-class cooperation and development opportunities.
+For section 4.4 Hydrology, we are looking for a:
+Project manager (f_m_x) in software development and modelling
+Reference Number 7420
+The section Hydrology develops flood risk models covering the processes from the atmospheric forcing through catchment processes, flood routing and inundation to damage. We develop and apply models to quantify flood risk under current and global change conditions, to evaluate risk reduction measures and to provide near-real time information in case of extreme events.
+The section developed RIM2D, a Fortran-based code for 2D flood simulations, implemented on Graphical Processor Units (GPU). Within a Validation project funded by the Helmholtz Association RIM2D will be further developed, thereby preparing the code for commercial and public use outside the research community. This encompasses technical improvements of RIM2D, the development of a front-end with a Graphical User interface for easier model control, the development of a container for running the model in a cloud environment, as well as a market analysis and user-oriented feature developments. 
+For the coordination of these tasks, we seek a project manager with experience in software development. The coordination encompasses communication with external and internal software developers, stakeholders and potential customers. Furthermore, reporting to the funding agency will be a task of the project manager. Setting up and running flood models and coding are optional tasks.
+The successful candidate should have experience in professional software development, ideally with the management of these projects, and enjoy the work at the interface of science and practice and business.
+Your responsibilities:
+Coordinate the work of software developers, including milestone control and adaptation of the software development to unforeseen obstacles
+Communicate with stakeholders and practitioners to gather feedback on the usability and operability of RIM2D
+Adapt the software development process to market analysis and user requirements
+Set up and test RIM2D in flood modelling test cases
+Report to the funding agency (Helmholtz Association)
+Your qualifications:
+Master's degree (or equivalent) and PhD in Computer Science, Business Informatics, Software Engineering, Geoinformatics, Data Science, Environmental Sciences, Engineering or related fields (e.g. Earth Sciences, Physics, Mathematics)
+Appropriate knowledge of traditional and agile project management as well as experience in the successful implementation and management of software development projects
+Experience with professional software development as a basis for managing developers
+Experience with data management and software version control (Git)
+Experience with executing simulation models and high-performance computing is an asset
+Experience with simulation models for flooding is an asset
+Solid knowledge of programming languages (preferably CUDA Fortran and Python)
+High communicative and social competence in a project context, presentation and moderation skills
+Ability to communicate in English and German fluently
+What we offer:
+Ambitious and varied tasks in a dynamic and international research environment
+State-of-the-art equipment
+Public service benefits
+Extensive training opportunities
+Professional career advice offered by our in-house Career-Centre
+Flexible working hours and conditions
+Support with finding a good work-life balance offered by benefit@work
+Institute day-care centre on site 
+Working at the Albert Einstein science park on the Telegrafenberg in Potsdam
+Work place within walking distance of Potsdam main train station, or just a short ride on the shuttle bus
+Start date: As soon as possible
+Fixed-term: 2 years
+Salary:  The position is classed as salary group 13 according to “TVöD Bund (Tarifgebiet Ost)”. The salary group is determined on the basis of the Collective Wage Agreement and the respective personal qualifications. 
+Working hours: Part-time 80 % (currently 31.20 h/week)
+Place of work: Potsdam
+Have we piqued your interest?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ
+Telegrafenberg 1, 14473 Potsdam, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

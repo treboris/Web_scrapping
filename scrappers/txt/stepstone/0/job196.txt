@@ -1,0 +1,66 @@
+Jobs by email
+IGEL Technology GmbH
+Engineer Linux Security (m/f/d)
+Bremen, Augsburg, Karlsruhe
+Permanent contract
+Full Time, Home office possible
+Published: 3 days ago
+Show salary
+I'm interested
+Save
+Einleitung
+Work is now defined by what we do, not where we go. The widely distributed workforce is here to stay. 
+IGEL allows workers to thrive, regardless of the environment, while organizations retain full management, control, and security of user endpoints. IGEL secures and simplifies digital workspaces in healthcare, finance, retail, higher education, government, and manufacturing organizations around the world. All we’re missing is: YOU 
+Ihre Aufgaben
+With our Linux-based IGEL OS and our central management service, millions of endpoint devices are operated worldwide. Together with 100+ partners such as Citrix, VMware, Microsoft
+or Amazon, we enable a wide range of Virtual Desktop Infrastructure and Desktop as a Service applications. We leverage the full power of endpoints and offer our customers a secure platform.
+Our development department implements the entire software development process and is responsible for the operating system and the integration of the various VDI solutions. To drive technical and content innovation, it integrates new software solutions based on modern technologies in the area of cloud computing and continuously develops the operating system.
+As a Security Engineer (m/f/d) in our Linux development, you will ensure that the products meet the latest security requirements for enterprise use. You will support the team in security issues and work on the implementation of security-critical components yourself. 
+If you are looking for an exciting security task and like to think along with the team, you should consider this role with IGEL. 
+You develop security concepts for our software and implement them with the team
+You will support the teams in re-design, new developments and in the expansion of automated security tests
+You will develop and establish a Secure Software Development Lifecycle (SSDLC) in the Linux development department
+You create secure coding guidelines
+You create and monitor the SonarQube code quality rules
+You create AppArmor profiles
+Ihr Profil
+You have a degree in computer science, mathematics or relevant professional experience with qualified technical education
+You are proficient in C and C++ programming and you are familiar with scripting languages such as Bash and Python
+You have experience with software development under Linux
+You are familiar with the structure and functionality of Linux operating systems
+You are familiar with common development tools (Git, Bitbucket, TeamCity)
+You are familiar with secure coding guidelines
+You have experience with measures that increase security in software development such as static code analysis, code review and automated tests
+You have the ability to grasp complex contexts and to work out content independently   
+Wir bieten
+A thorough induction into the company and our products
+A workplace run on trust, empowerment, and feedback with a positive, inspiring working atmosphere
+Competitive salary and great IT equipment
+Individual further training opportunities for your career
+Flexible working times, so that you can combine your demanding work with your private goals and requirements.
+Free beverages and fruits, diverse sports offerings, co-financed company pension plan and much more benefits
+Light-flooded and ultra-modern new offices in Bremen, Augsburg and Karlsruhe
+A highly motivated team that is already looking forward to your support and to developing strategies and achieving common goals together with you 
+... and much more! 
+Weitere Informationen
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Company pension
+Flexible working hours
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Meal coupons
+Home office
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

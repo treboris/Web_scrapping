@@ -1,0 +1,66 @@
+Jobs by email
+INSYS TEST SOLUTIONS GmbH
+Software Developer (f/m/d)
+Regensburg
+Permanent contract
+Full Time, Home office possible
+Published: 2 weeks ago
+Show salary
+Save
+For our location in Regensburg we are looking for a full-time (40h / week) position for the next possible date:
+Software Developer (f/m/d)
+Reference code: 500-02-23
+At INSYS test we build test systems which match our customer specific requirements.
+To do so, we can either use our own technologies to build a customised test bench or integrate together purchased equipment with customized software (or mix of both).
+Example of the latest test systems developed are Life Time Tester, Electrical Tester for LV124 norm, High Voltage tester and many more.
+Your tasks – diverse and varied:
+New and further development of the existing tools and customer software
+Integration of interfaces for automotive bus systems and measurement data acquisition
+Working in a structured software development including version management and programming guidelines
+Start up for specific projects and validating of the quality
+Responsibility to get and set up IT components
+Coordination with customers on system integration
+Documentation of all modules and software structures
+Familiarization with new systems and techniques
+We expect from you - enthusiasm and passion:
+Bachelor’s degree in computer science or comparable training
+Several years experience in C# required
+Good knowledge of GUI design with WPF
+Knowledge of electronic circuit technology would be an advantage
+Independent and structured working style
+Open to learn new technologies and methods
+Communication skills, openness, initiative and flexibility
+Very good knowledge of English, good knowledge of German is an advantage
+We offer you - fair pay and trust:
+Flat hierarchies
+Permanent employment
+Flexible working hours
+Mobile work
+Dynamic team
+Corporate events
+Mobility offers
+Employer-funded pension
+We look forward to receiving your application!
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+INSYS TEST SOLUTIONS GmbH
+Wernerwerkstr. 4, 93049 Regensburg, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

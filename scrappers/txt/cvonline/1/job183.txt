@@ -1,0 +1,33 @@
+ÁLLÁSHIRDETÉS FELADÁS
+C ++ developer 
+MAIN TASKS
+Actively participate in the development process (design, estimation, implementation, development testing, debugging and patching),
+Development of firmware for blood analysis equipment, refactoring,
+Preparation of development related documentation,
+Administration in version tracking system,
+Developing new development proposals,
+Administration in a bug tracking system,
+Collaboration with members of the development team,
+Working with testers to test the product.
+REQUIREMENTS:
+University degree (electrical engineer, computer scientist),
+C language skills,
+C++ programming language (C++11, STL),
+Openness to learn new skills,
+Good problem solving and analytical skills.
+Communication skills in English
+ADVANTAGE FOR THIS POSITION:
+Knowledge of Git or SVN version tracking systems,
+networking skills (TCP, HL7),
+TCP/TSL (TCP/GLS, TCP/S7), knowledge of TCP/GLS (TCP/GLS), knowledge of USB protocols at a deeper level,
+Knowledge of Microchip PIC microcontrollers (8/16/32 bit),
+Hands-on experience with ARM Cortex M3 microcontrollers,
+Experience with real-time operating systems (RTOS),
+Experience in developing medical devices.
+WHAT WE OFFER:
+Professional development opportunities
+Modern working environment
+Language training (English/German)
+New working environment
+Cafeteria
+Jelentkezem

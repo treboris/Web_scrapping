@@ -1,0 +1,87 @@
+Jobs by email
+Synatec GmbH - Part of the Atlas Copco Group
+Test Automation Engineer (m/f/d)
+Leinfelden-Echterdingen bei Stuttgart
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+No cover letter required
+Save
+Synatec GmbH is part of the Atlas Copco Group and therefore part of a team of around 43.000 employees. Atlas Copco is a global industrial company with a leading position in technology and engineering. With our market-leading products, solutions, and services, we deliver sustainable productivity to our customers in over 180 countries and therefore creating a better tomorrow.
+Within this, Industrial Technique Business Area manufactures and delivers innovative tools, industrial assembly solutions, quality assurance products, as well as software solutions and services. Here, Synatec plays a central role in the field of process control. Our expertise: futuristic software solutions and industrial PCs (HMIs) for industrial assembly and error-proofing.
+Would you like to be part of securing the highest quality of our worldwide leading software for customers like Boeing, BMW, Rolls Royce and Samsung?
+Then you are just right with us! We are currently looking for a
+Test Automation Engineer (m/f/d)
+at our office in Leinfelden-Echterdingen starting as soon as possible.
+The Role
+You will participate in a SCRUM team during sprint planning, review, retrospective and grooming
+Understanding the requirements, you develop the automated test scripts and run them using a Continuous Integration system
+You will plan security tests activities, create and execute test scripts for performance / stability testing
+You will maintain the test scripts and adapt them for new or changing requirements. In case of failures, you will create error reports and retest the fixes afterward
+Monitoring regularly the test automation coverage level and clearly highlighting automated or manual features is also part of your job
+You will assist to enable faster to market and improve our quality assurance processes
+What we expect of you?
+You have an university degree with focus on software quality assurance or software engineering or a similar background
+You bring minimum 3 years of professional experience in test automation
+You have experience in the creation and implementation of test automation - Strategy, Concept and Framework
+You are able to create, execute and maintain automated tests and continuous integration (integration, system, interfaces and UI test using tools like Ranorex, Jenkins) as well as to monitor and control the automation progress & track test coverage
+Experience in performance tests implementation and exposure to test management systems (e.g. TestRail) is also required
+Vulnerability analysis; plan Security test activities based on the scope and in line with compliance requirements
+You can use defect tracking and version control systems (e.g. Jira, svn, git)
+It would be great if you own an ISTQB certification (Test Automation Engineer CT-TAE)
+Knowledge of the programming languages (C++, C# and JavaScript) and experience with virtualization, Docker and Kubernetes is a plus
+You have a high degree of personal responsibility, quality awareness, assertiveness & an attitude to ‘test to break’
+You have very good communication skills in English and German
+What you can expect from us?
+You will be part of an international, innovative company
+You experience an open, diverse and family-friendly company culture with flat hierarchies and regular employee events (summer party, kick-off event)
+We support your work-life balance through opportunities such as mobile work-possibility, flexible working time models and leisure time compensation. You will also receive 30 days of annual leave plus special leave for important events
+You will go through a structured orientation training and will be supported by an onboarding buddy
+Your personal development is important to us: you can educate yourself through our digital learning platform, our own learning programs, our company academy and the use of external training opportunities. We also offer you development perspectives and qualification programs within the Atlas Copco Group
+We offer you a variety of other benefits such as public transport subsidy, meal allowance, JobRad, company pension scheme, corporate benefits, company health offers, modern technical equipment, height-adjustable desks, free beverages, and good transport connections
+If you like, you can contribute to Atlas Copco's employee initiative "Water for All" to support social projects that give people access to clean drinking water
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Synatec GmbH - Part of the Atlas Copco Group
+Brühlhofstraße 4, 70771 Leinfelden-Echterdingen, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Employee discount
+Meal coupons
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Terrace
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

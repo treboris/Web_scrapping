@@ -1,0 +1,44 @@
+Jobs by email
+Apple Distribution International ULC
+Software Engineer- Integration Secrecy
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+Summary
+Apple’s Technology Development Group is looking for a Software Integration Engineer to help us build and deliver incredible software products. We’re seeking an excellent communicator who can coordinate our software submission process between development engineering, quality assurance, and project managers. Additionally, you would be instrumental in helping us maintain Apple’s culture of secrecy for future products.
+If you want to be part of the team that is crafting the future of augmented reality technology in Apple product platforms, we want to hear from you!
+Description
+The Integration team is part of the Engineering Operations organization within TDG. We are primarily responsible for helping to keep all projects building and testing successfully and handling all code submissions to our supported platforms.
+Above all else, a successful integration engineer is expected to reliably and consistently work collaboratively between many cross functional teams to ensure we can safely build our code alongside all of Apple's operating systems. This includes being able to investigate and resolve complex software integration issues including build failures, handling build dependency relationships, and assisting with triaging runtime regressions.
+We're looking for someone who can collaborate with our cross functional partner teams to improve our build and release process. The ideal candidate is someone who is constantly curious, and able to keep a close attention to detail while facing daunting engineering challenges.
+KEY RESPONSIBILITIES INCLUDE:
+Coordinating a submission process for several key projects
+Investigate and triage both build and runtime failures in our code bases
+Contribute to our automated scripts and tools library to support engineering and QA teams
+Inspect our beta seed builds to ensure we're compliant with Apple's secrecy guideline
+Qualifications
+Key Qualifications
+Proficiency in scripting languages such as Python and Bash, as well as SCM tools, preferably Git
+Excellent verbal, written and interpersonal skills
+A willingness and record of taking ownership of projects and driving them to completion
+Creative thinking and strong problem solving skills with meticulous attention to detail
+Process oriented and able to divide large workloads into smaller, more manageable tasks
+Experience investigating and triaging software build failures
+Education and Experience
+Experience reverse engineering software or reviewing large code diffs is a plus.
+Additional Requirements
+Experience reverse engineering software or reviewing large code diffs is a plus.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

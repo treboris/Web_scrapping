@@ -1,0 +1,70 @@
+Jobs by email
+Airbus Group
+Simulation Lead Architect (d/f/m)
+Manching
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+We develop top notch, high fidelity Engineering and Training Simulations for a variety of aircrafts, supporting the entire development lifecycle. We are looking for a Lead Architect for the EF Full Flight Simulator and future Training Simulator developments in Manching. You will be responsible for defining and implementing complex simulation architectures for our training and engineering simulators. Most of our projects are being run within an international environment and require close collaboration and coordination with colleagues from other countries and partner companies.
+Your tasks and responsibilities shall be:
+Technical authority for the System
+Design and implement complex architectures for training simulation solutions
+Develop suitable system and software architectures that support high-level operational and system requirements from various stakeholders
+Develop suitable system design on system and sub-system level
+Develop and maintain software architectures of existing products
+Define work break down structures and individual work packages
+Design and agree interfaces with the programs
+Interface with other stakeholders and agree interfaces to them
+Support Systems Engineers in translating the architectures into requirements
+Support issue solving processes through reviews of proposed solutions and implementations
+Lead the bid process for simulation work packages
+Support Bid/noBid processes and proposals
+Main Activities:
+Preparation of System Requirements Manuals.
+Production of formal requirements specification for the System of Interest, as well as the artefacts to document such specifications.
+Be responsible for Tools Setup & Training.
+Derive, from requirements defined from the surrounding system and high-level architectural principles, the technical requirements that will be the basis for designing the system parts (the complete solution, a system or an element).
+The Lead Technical Activities involves regularly communicating expectations to the team, assessing and coordinating team activity towards these expectations and then considering any management activity necessary in refinement and progression of the plan. 
+The purpose of the Define and Analyse Design process is to provide sufficient detailed data and information about the system and its elements to enable the implementation consistent with architectural entities as defined in models and views of the system architecture.
+Required Skills:
+Bachelor or higher degree in software development, aeronautical engineering or a similar discipline
+Overall more than 10 years of experience within Engineering
+More than 5 years of experience as a systems architect
+More than 5 years of  experience in software development
+Hands-on proven simulation & software architecture track record
+Experience in military training systems/simulators engineering and design
+Experience in System Integration Verification & Validation
+Experience in the aviation / simulation / defence industry would be beneficial
+Experience in Airbus defence aircraft programs (Eurofighter, A400M, Eurodrone, ...) would be beneficial
+Excellent English (negotiation level)
+Excellent German (negotiation level)
+Related Products & Technologies:
+Hardware / Software in the Loop (HILS/SILS)
+Virtual Engineering
+Training Simulators
+Test Support Systems and Simulation Frameworks
+Synthetic Environments
+Distributed Systems
+Visual Display Systems / Image Generation
+Sound systems
+Architecture design software
+Programming languages: C++, C, python
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company's success, reputation and sustainable growth
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Airbus Group
+Manching, Deutschland

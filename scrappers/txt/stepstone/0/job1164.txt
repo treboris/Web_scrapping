@@ -1,0 +1,55 @@
+Jobs by email
+Pfeifer & Langen GmbH & Co. KG
+Technology Owner Edge Technology (m/f/d)
+bundesweit
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+I'm interested
+Save
+Pfeifer & Langen: Sugar is our passion.
+When our employees say “sugar is sticky”, what they mean is that they enjoy working with us so much that they are happy to stick around. Why? Because we are one of Europe’s leading sugar companies and offer our over 2,500 members of staff a wide range of career opportunities. A pinch of courage, a dash of innovative spirit and an extra helping of passion: that’s the recipe for success that our family business has been following for over 150 years. We are looking for people who believe that sustainability matters. And who share our mission: to produce natural sugar of the highest quality.
+  In this poisition as a Group Technology Owner you will support and shape the automation / digitalisation of our company by adapting, implementing and supporting edge devices as an interface between the OT world and the IIoT world. 
+Your role:
+Central point of contact for all EDGE Devices of the group
+Administration of current edge technology and continuous development of our IoT infrastructure
+Configuration and further development of alarm and operation monitoring interfaces to controllers using MQTT/Kafka brokers, etc.
+Install and configure applications in Docker containers
+Accompanying the network integration of the edge devices into the respective local OT network infrastructure
+Observation of the market with regard to the further development of edge technology as well as possible applications
+Your task:
+Several years of experience with Internet-enabled components, industrial PCs, embedded PCs, LTE routers
+Extensive experience with the OT world, PLC, DCS, etc. and especially their connection to higher-level systems using OPC-UA / DA, MQTT, Modbus, REST, among others
+Deep understanding of the integration of network-enabled components into network architectures and their protocols
+Ideally knowledge of using Docker containers, basic knowledge of Python and Git, as well as NodeRed
+Strong hands-on mentality; a high level of team orientation
+Fluent in English; willingness to travel up to 50% to our plants in Germany and Poland
+What we offer:
+great scope for action and design
+37 hours per week
+30 days of vacation plus additional days off
+advantages of a collective agreement
+employer-financed retirement provision
+attractive employee offers from well-known providers
+individual training opportunities
+flexible working hours
+mobile working
+Interessiert?
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Company Benefits
+Additional medical services
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Company medical officer
+Coaching
+Company car
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

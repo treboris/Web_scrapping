@@ -1,0 +1,89 @@
+Jobs by email
+MBition GmbH
+(Senior) Test Lead for System Verification of In-car Infotainment (all genders) - Berlin
+Berlin
+Permanent contract
+Full Time
+Published: 6 days ago
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: P0142V573
+Aufgaben
+Your Mission
+MBition is bringing the automotive industry into the future by building a new generation of infotainment platform that is reusable and hardware agnostic, as well as its implementation into our actual car lines. By implementing interfaces that future drivers will engage with, from sitting in their cars, planning their journey to choosing their favorite music and many more.
+To fuel this mission, we are looking for ambitious, enthusiastic and driven minds to help build the state of the art software that pushes our innovation further.
+As a 100% subsidiary of Mercedes-Benz AG that has been perfecting the art of moving people, products and services from point A to point B, for more than 120 years. With an international team of over 500 Employees, who value quality, creativity and believe in teamwork. Together we create passionate technology on exciting topics that include navigation, infotainment systems, location-based services, user experience and interaction. Let’s shape the future!
+As Team lead for In-car infotainment in the System Verification Team you will:
+Lead, develop and empower a group of software engineers in the System Verification Team for In-car Infotainment
+Lead team to excellence and to become self-directed
+Empower software engineers by providing best tools for their work
+Contribute to the architectural evaluation of the project
+Continuous improvement of people and project in the team
+Hiring and being responsible for the professional development of software engineers
+Provide meaningful career development path for engineers
+Collaborate and coordinate with project stakeholders and multiple feature development teams
+Qualifikationen
+Your Profile
+Education:
+Successfully completed studies with a focus on electrical engineering or computer science or comparable
+Experience: 
+Minimum one year of leadership experience in an agile organization
+Several years of development experience in automotive software development using agile methods
+First-hand experience in state-of-the-art development practices (CI/CD, end-to-end testing, etc.)
+Knowledge and working experience in the field of diagnostics, communication protocols, measurement techniques etc.
+Professional experience with classic and/or adaptive AUTOSAR is a strong plus
+First-hand experience with QNX is a plus
+International/intercultural work experience desirable
+Personal skills:
+Pronounced team spirit, well-developed teamwork and communication skills
+High degree of independence, creativity, ability to cooperate, personal initiative, perseverance and resilience
+Solution and goal-oriented way of working, strong analytical and problem-solving skills
+Excellent organizational, time management, prioritization and multi-tasking skills
+Ability to handle multiple competing priorities in a fast-paced environment
+High level of commitment, willingness to learn and quick comprehension
+Strong project- and stakeholder management skills
+Excellent interpersonal skills
+Language skills:
+Proficient in English, German is a high plus
+Zusätzliche Informationen
+Why us?
+A chance to work on a new generation of infotainment systems, which will power millions of cars
+An international, interdisciplinary innovation lab, which is part of the Mercedes-Benz AG
+Agile working methods and open feedback culture
+A brand new modern and fully accessible office facing the Spree
+Flexible working hours
+Mobility Budget, Healthcare Budget & more benefits 
+Interested?
+We look forward to receiving your complete application, including CV (in English) and relevant references with the following information:
+• Job title and reference number
+• Salary expectations
+• Earliest start date
+You don't bring everything with you? Don't worry, MBition is proud of our diverse workforce and passionate about having MBitioneers from all backgrounds and perspectives. MBition is and always will be an equal opportunity employer. We are looking for employees who convince us above all with their personality and passionately motivated to join the team!
+You are welcome to contact our representative for severely disabled employees, Anna Schade (anna.schade@mercedes-benz.com), who will support you in the further application process
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+MBition GmbH
+10587 Berlin, Germany
+Company Benefits
+Additional medical services
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Coaching
+Home office
+Company car
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.
