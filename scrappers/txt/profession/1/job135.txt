@@ -1,0 +1,71 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Regionális 
+Következő 
+Senior Cloud DevOps mérnök
+Bónusz
+Profession Services
+Otthonról végezhető
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Távmunka, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol felsőfok
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Egészségbiztosítás
+IT szolgáltatásokat nyújtó amerikai multi partnerünk megbízásából keresünk új kollégákat egy német ügyfelük projektjére, budapesti irodáikba a Cloud DevOps csapatok bővítésére
+Senior Cloud DevOps mérnök
+pozícióba.
+Amit kínálunk:
+Versenyképes bérezés, szenioritás alapjánCafeteria, éves bónusz, egészségbiztosítás, home office hozzájárulás és egyéb juttatásokÁllandó szakmai fejlődés, kihívások, és izgalmas projektek egy stabil, fejlődő európai cégnélRugalmas munkaidőRemote, otthonról való munkavégzés lehetősége (bejárás is biztosított budapesti irodákkal)
+Feladataid lesznek:
+Funkcionális rendszerek kiépítése, amelyek javítják az ügyfélélményt, elsősorban a cloud és a micro-services területén.A felhőplatform-infrastruktúrával kapcsolatos módosítások alkalmazása, a meglévő kód karbantartása, problémák azonosítása és a szükséges módosítások elvégzése.Frissítések és javítások üzembe helyezése a felhőplatformhoz és a mögöttes szolgáltatásokhoz.Gondoskodj arról, hogy a rendszerek biztonságosak legyenek a kiberbiztonsági fenyegetésekkel szemben (Prisma Cloud, a TerraScan és a Checkov használatával)Szkriptek fejlesztése a Datadog-vizualizáció automatizálásáhozTeszteld és vizsgáld meg mások kódjait, és elemezd az eredményeket a SonarQube segítségével3. szintű technikai támogatás nyújtásaHibák kiváltó okainak elemzése, technikai problémák kivizsgálása és megoldása
+Az álláshoz tartozó elvárások:
+2+ év tapasztalat DevOps mérnök / szoftvermérnök / automatizálási mérnök pozícióbanCI / CD eszközök használatában tapasztalatGyakorlati tapasztalat a public cloud infrastruktúrában (AWS és/vagy Azure)GitlabValamilyen IaC tapasztalatErős beszélt és írott angol
+Az állás betöltéséhez előnyt jelent:
+Terraform, HashiCorp Vault ismeretA RedHat / Centos Linux rendszerek ismereteKubernetes-tapasztalatYAML tapasztalatBármely adattár / bináris kezelő ismerete, mint például az Artifactory, Nexus
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Távmunka, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol felsőfok
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Egészségbiztosítás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+profession.hu Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Világháló-portál szolgáltatás
+100-250 munkavállaló
+2014
+1123
+Budapest,
+Nagyenyed utca 8-14. 4. em.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

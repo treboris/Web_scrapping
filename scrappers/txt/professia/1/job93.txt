@@ -1,0 +1,95 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFull-stack programátor - Laravel  Можливість для людей з України
+Full-stack programátor - LaravelSVK media s.r.o.
+Miesto práce
+Vilová, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 700 - 4 000 EUR/mesiacMzda sa odvíja od skúseností kandidáta
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo tímu hľadáme kolegu/kolegyňu, ktorý/á nám pomôže s realizáciou projektov. Projekty sú veľmi rôznorodé a väčšinou sú pre zahraničných klientov. Dôležitá je chuť učiť sa nové veci, byť samostatný a zodpovedný.
+Aktuálne pracujeme na projektoch:
+- webová aplikácia - online editor pre tvorbu letiskových značiek
+- webová aplikácia - monitorovanie kamiónov v automatizovaných umývarkach
+- webová a natívna aplikácia - monitorovanie poľnohospodárskych strojov
+Väčšinu projektov staviame na vlastnom CMS systéme (Laravel + Vue), ktorý neustále vylepšujeme. Na frontende používame Vue a jQuery, štýly píšeme v SASS/LESS a celé to kompilujeme s webpackom (Laravel mix). Backend beží na PHP frameworku Laravel a dáta ukladáme do MySQL databáz + Redis cache. Natívne aplikácie staviame v React Native.
+Baví ťa viac frontend? Budeš na ňom pracovať. Potrebuješ zmenu, môžeš pracovať na backende, je to na tebe. Väčšina projektov začína na "zelenej lúke", takže si budeš môcť sám navrhnúť architektúru a technológiu, v ktorej chceš pracovať. Novým technológiám sa vôbec nebránime. Zamestnanecké výhody, benefity- variabilná pracovná doba
+- možnosť práce z domu / homeoffice 
+- prístup k online kurzom learn2code.sk a laracasts.com
+- práca na zaujímavých projektoch pre zahraničných klientov
+- veľa priestoru pre vlastné nápady a inovácie
+- pohodový mladý tím
+- káva a pitný režim Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiHTML 5 - PokročilýCSS3 - PokročilýJavaScript - PokročilýPHP - PokročilýMySQL - PokročilýLaravel / Symfony (PHP framework) - ZákladyVue.js / React - ZákladyGIT - ZákladyPočet rokov praxe2Pozícia je vhodná pre absolventaÁno Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme firma zaoberajúca sa tvorbou web stránok, e-commerce a aplikácií pre klientov po celom svete. Snažíme sa veci robiť "inak", preto kladieme dôraz na použitelnosť, rýchlosť a unikátny dizajn. KontaktKontaktná osoba: Tomáš BartalskýTel.: +421904177561E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4542195 
+     Dátum zverejnenia:  20.3.2023 
+    2023-03-20
+lokalita: Bratislava   Pozícia: Programátor   Spoločnosť: SVK media s.r.o.   
+Základná zložka mzdy (brutto): 2 700 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,98 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava developer - Bratislava / Banská Bystrica / remote 
+Java developer - Bratislava / Banská Bystrica / remoteSCR technologies s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+3 000 - 6 000 EUR/mesiacOdmena je uvedená pri spolupráci na kontrakt.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiV SCR hľadáme Java developerov pre svoje aktuálne projekty. Pošli nám info o sebe a oslovíme ťa s projektom, ktorý ti bude šitý na mieru !
+U nás budeš pracovať s najnovšími technológiami a dostaneš šancu profesijne a technologicky rásť. Zamestnanecké výhody, benefity- remote spolupráca alebo možnosť pracovať z našich officov v Bratislave a Banskej Bystrici
+- nástupný bonus až do 3.000 €
+- príležitosť pracovať s najnovšími technológiami 
+- agilný tím a etablované CI / CD (GitLab, Docker, Portainer, JIRA,...)
+- osobný a profesionálny rast
+- technologicky veľmi zaujímavé projekty Informácie o výberovom konaníAk si práve teraz na inom projekte, ale vieš o niekom, kto by mohol mať záujem, odporuč nám ho a my ti dáme referral bonus až 500 € !
+V prípade, že poznáš fullstack developera, ktorý má skúsenosti s Reactom , prípadne si ním ty sám, aktuálne máme projekt, pri ktorom by si mohol využiť všetky svoje skúsenosti. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreinformačné technológieOstatné znalostiJava - PokročilýJava EE - PokročilýSpring Boot  - PokročilýAmazon Web Services (AWS) - PokročilýSpring - PokročilýMaven - PokročilýGradle - PokročilýSwagger API - PokročilýRest API - PokročilýElasticSearch - PokročilýJavaServer Pages (JSP) - PokročilýPočet rokov praxe3Osobnostné predpoklady a zručnosti- prax aspoň 3-5 rokov ako Java developer
+- nutná znalosť Javy 8+ a technológií Spring / Spring Boot
+- nutná znalosť automatizovaných buildovacích nástrojov Maven alebo Gradle
+- skúsenosti s tvorbou REST API rozhraní a nástrojom Swagger
+- skusenosti s Elasticsearch, Kafka, Docker, Spring Cloud, AWS sú veľkou výhodou
+- skúsenosti s BPM nástrojmi (napr. Camunda, Flowable, …) sú veľkou výhodou
+- nutnosť neustáleho vzdelávania sa v oblasti nových technológií
+- vývoj aplikácií a aplikačných modulov na základe technickej špecifikácie
+- spolupodieľanie sa na tvorbe technického návrhu a architektúre riešenia webových a enterprise aplikácií podľa požiadaviek zákazníkov, vrátane zapojenia do odhadovania časovej náročnosti ich implementácie (vývojové / technické úlohy)
+- netradičné technologické výzvy (pokročilé messaging architektúry, dôraz na performance, analýza dát) Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme moderná technologická spoločnosť dodávajúca inovatívne a progresívne IT riešenia. Zaoberáme sa vývojom custom riešení na mieru a sourcingom širokého spektra technológií. Za viac ako 10 rokov pôsobenia sme sa podieľali na stovkách riešení v segmente e-commerce, e-learning, vývoja softwaru, vývoja mobilných a webových aplikácia a v segmente e-Governmentu.
+Sme členom skupiny SCR®, čo nám prináša zdieľanie know-how z oblasti technológií, marketingu a designu. Počet zamestnancov25-49 zamestnancov KontaktKontaktná osoba: Ivona ĎuricováE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4527922 
+     Dátum zverejnenia:  28.3.2023 
+    2023-03-28
+lokalita: Práca z domu   Pozícia: Backend programátor, Java programátor, Programátor   Spoločnosť: SCR technologies s.r.o.   
+Základná zložka mzdy (brutto): 3 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

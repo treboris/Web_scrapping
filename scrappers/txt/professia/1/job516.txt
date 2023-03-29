@@ -1,0 +1,113 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceAutomation Tester + Java - remote 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyAutomation Tester + Java - remoteSTENGL a.s.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+01.05.2023
+Mzdové podmienky (brutto)
+Od 30 EUR/hod.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiNa projekte bude Tvojou úlohou:
+Tvorba testovacích prípadov a scenárov, ako aj automatizovaných testovacích skriptov
+Spracovanie chýb a analýzy základných príčin
+Podieľanie sa na pláne testovania a testovacieho prístupu 
+Automatizácia a vykonávanie integračných a unit testov
+Čiastočne sa budú vykonávať aj accessibility testy
+Test reporting (progress, defect, forecast, atď.)
+API Back-end testy bežia na technologickom stacku: 
+Java, maven, Springboot, RestAssured, Docker
+Front-end testy bežia na technologickom stacku: 
+Java, maven,  Springboot, Selenium, Cucumber, Docker, AWS
+V kontajneroch beží databáza aj aplikácia, a Selenium grid beží cez Docker
+Nasadzovanie testov - deployment sa rieši cez Maven
+Poznámka
+Full REMOTE projekt,
+denné stand-up, agilný prístup
+na projekte participuje náš 13 členný Team
+java, angular, AWS administrácia, automatizovaní testeri, test manager
+potrebujeme doplniť tím o ďalšieho automatizovaného testera so znalosťou java programovania
+nemčina je potrebná aspoň B1 na úrovni čítania, ideálne aj B1 sprechen :) Zamestnanecké výhody, benefity- Dlhodobá spolupráca
+- Zaujímavé projekty
+- Možnosť pracovať v stabilnej firme
+- Pestré spoločenské a športové firemné akcie
+- Možnosť sa zapájať do medzinárodných projektov Informácie o výberovom konaníV prípade záujmu o spoluprácu s našou spoločnosťou nám zašlite prosím Vaše profesné CV v slovenskom a nemeckom jazyku, aj s Vašou predstavou o platových podmienkach, ako aj možným nástupom na projekt. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňaVzdelanie v odbore, ITJazykové znalostiAnglický jazyk - Stredne pokročilý (B2) a Nemecký jazyk - Stredne pokročilý (B2)Ostatné znalostiJava - PokročilýREST - PokročilýJUnit - PokročilýSelenium - PokročilýTosca - PokročilýJira - PokročilýDocker - PokročilýCucumber - PokročilýPrax na pozícii/v oblastitechnické zameranie Počet rokov praxe5Osobnostné predpoklady a zručnostiHands-on skúsenosti s programovaním v prostredí Java
+Znalosť REST, ideál RestAssured
+Testing framework pre Java programovací jazyk (JUnit/TestNG)
+Silná znalosť v oblasti automatizovaného testovania
+Selenium 
+Skúsenosť v oblasti test automation tools, frameworks (Selenium WebDriver alebo TOSCA)
+Full defect lifecycle skúsenosť
+Nice-to-have:
+Skúsenosť s test management tools (JIRA, ALM etc.)
+Znalosť Docker
+Cucumber
+Schopnosť určovať priority, organizovať a monitorovať úlohy / činnosti projektu,
+analytické myslenie, nezávislý v rozhodovaní
+Angličtina - plynule 
+Nemčina - aspoň  B1 na úrovni čítania, ideálne aj B1 sprechen :) Inzerujúca spoločnosť Stručná charakteristika spoločnostiSTENGL je IT konzultačná spoločnosť a súčasne softvérový dom, ktorý realizuje vlastné interné projekty ako aj projekty u zákazníkov, prostredníctvom skúsených IT expertov a odborníkov z rôznych doménových oblastí.
+STENGL je spoločnosť, ktorá má viac ako 22 ročné skúsenosti na slovenskom a českom trhu, ako aj v nemecky hovoriacich krajinách. Máme za sebou desiatky tisíc konzultačných a vývojových hodín pre našich klientov naprieč všetkými sektormi národného hospodárstva. Na Slovensku sme historicky jeden z najväčších poskytovateľov IT služieb pre klientov z nemecky hovoriacich krajín. Počet zamestnancov100-149 zamestnancov 
+ID: 4533129 
+     Dátum zverejnenia:  6.3.2023 
+    2023-03-06
+lokalita: Práca z domu   Pozícia: IT tester, Java programátor, Programátor   Spoločnosť: STENGL a.s.   
+Základná zložka mzdy (brutto): 30 EUR/hod.
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

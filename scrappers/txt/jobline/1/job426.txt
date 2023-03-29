@@ -1,0 +1,108 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Rendszerszervező (Magyarország)
+Rendszerszervező (Magyarország)
+A hirdetés már lejárt!
+Karrier Hungária
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+Rendszerszervező
+Partnerünk telematika területén a leginnovatívabb magyar vállalat. Számtalan izgalmas hazai és nemzetközi projekten dolgoznak, amelyekhez most új munkatársat keresnek.
+Feladatok:
+Szakértői erőforrásbecslés és a feladat leszállítható egységekre bontása
+Átfogó tervdokumentációk készítése
+Követelmény specifikáció (PRD) készítése, valamint funkcionális (FSD) specifikáció készítése a vezető fejlesztőkkel közösen
+Fejlesztés koordinálása - scrum masterrel és fejlesztői csapattal való együttműködés
+Release folyamat koordinálása szoros együttműködésben az üzemeltetőkkel és fejlesztőkkel
+Rendszerarchitektúra tervezésének támogatása
+Eredmény dokumentációk készítése
+Éles rendszerek folyamatos üzleti- és technikai támogatása
+Elvárások:
+Felsőfokú végzettség
+Legalább 5 éves IT szervezői tapasztalat
+UML vagy BPMN - folyamat modellezésben és rendszertervek készítésében szerzett több éves tapasztalat
+Integrált, nagy rendelkezésre állású, nagy terhelésű rendszerek tervezésében szerzett tapasztalat
+API teszteszközök ismerete (pl: SoapUI; Postman)
+Ticketing rendszer ismerete (pl. Jira)
+Verziókezelők ismerete (pl. SVN, Git)
+SQL nyelv magas szintű ismerete, valamelyik SQL fejlesztőeszköz készség szintű ismerete (pl. SQL Developer, Toad)
+Adatbázis, interfész és UI felület tervezésében tapasztalat
+Kiváló problémafelismerő és megoldó készség
+Eredményorientált üzleti gondolkodás
+Rendszerszintű gondolkodásmód
+Önálló és csapatban való munkavégzés
+Ajánlatunk:
+Változatos hazai és nemzetközi projektek a legmodernebb technológiákra alapozva (Enterprise környezet)
+Üzletileg kritikus, magas rendelkezésre állású IT rendszerek fejlesztése (és üzemeltetése)
+Komplex, felelősségteljes munka a rendszerek fejlesztésében
+Szakmai képzéseken, konferenciákon való részvételi lehetőség
+Stabil vállalat, fiatalos munkahely
+Dinamikus, szakmailag tapasztalt, széles látókörű kollégák, csapat, vezetőség
+Jól megközelíthető, felszerelt modern iroda
+Versenyképes bérezés
+Előnyök:
+Felsőfokú végzettség informatikai vagy gazdaságinformatikai területen
+Agilis módszerek és folyamatok aktív használata
+Tervezési tapasztalat kapcsolódva az alábbi rétegekhez: 
+Oracle vagy más RDBMS adatbázis 
+Java EE backend 
+XML/JSON alapú kommunikációban szerzett tapasztalat 
+Angular frontend 
+Alábbi eszközök ismerete: 
+EA 
+XMLSpy vagy hasonló eszköz 
+Confluence 
+IDE eszközök (Pl.: Eclipse, IntelliJ) 
+Egyéb tapasztalatok: 
+rendszer architektúrák ismerete (monolit, SOA, microservice) 
+NoSQL adatbázisok ismerete (pl. MongoDB, etcd) 
+Automata tesztelési eszközök ismerete (pl. JMeter) 
+Logok elemzésében szerzett tapasztalat Linux környezetben (pl. less, tail, grep…) 
+CI toolok és folyamat tapasztalat (pl. Jenkins, GO) 
+Virtualizációval, konténerizációval kapcsolatos tapasztalatok 
+Kód olvasás valamilyen objektum orientált, vagy script nyelven 
+Munkavégzés helye:
+Magyarország
+- 
+Neked ajánlott állások
+Neked ajánlott állások
+Thyssenkrupp -
+Rendszertervező mérnök (Veszprém)
+Deutsche Telekom IT Solutions -
+Security Analyst (REF92A)
+Thyssenkrupp -
+Control System Engineer (Debrecen)
+HumanField Kft. -
+MINŐSÉGÜGYI RENDSZERMÉRNÖK
+Best Hunters Tanácsadó Iroda -
+GYENGEÁRAMÚ HÁLÓZATTELEPITŐ 
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Szeged
+Győr
+Pécs
+Kecskemét
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

@@ -1,26 +1,3 @@
-Profession
-Belépés
-Regisztráció
- Álláskeresés
-Részletes keresés
-Állásértesítő készítése
-Állások
-Önéletrajzom
- Önéletrajz feltöltése
-Önéletrajz minták
-Önéletrajz készítő
-Cégek
-Cégek keresése Új
-Munkahely értékelése
-Álláskeresési tippek
-Cikkek, hírek
-Kalkulátorok
-Ügyfélszolgálat
-Munkaadóknak
-Profession
-Munkaadóknak
-Hirdetésfeladás
-Regisztráció
 Belépésálláskeresőknek
 IT Development
 Programmer, Developer
@@ -136,38 +113,3 @@ Ingyen kávé, üdítő
 Munkahely értékelése 
 Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
 Értékelem
-Önnek ajánljuk
-Hasonló állások megtekintése 
-Hungarian Search Developer (ElasticSearch)
-Online Comparison Shopping Kft.
-Flexible workplace - Budapest
-JELENTKEZEM
-Mentés
-Kövessen bennünket! 
-Rólunk
-Magyar
-English
-Site language 
-Magyar
-English
-Rólunk
-Töltse le mobil alkalmazásunkat!
-Profession
-Ajánlatok munkaadóknak
-Impresszum
-Nemzetközi szolgáltatások
-Kérdése van? 
-Ügyfélszolgálat
-Kapcsolat
-Feltételek 
-ÁSZF
-Felhasználási feltételek
-Adatvédelem
-Profession 2023 © Minden Jog Fenntartva.
-Belépés Állásmentéshez
-Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
-Elfelejtette jelszavát?
-Belépés
-Elküldöm magamnak
-Belépés Facebookkal
-Belépés Google fiókkal

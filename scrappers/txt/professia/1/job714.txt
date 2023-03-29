@@ -1,0 +1,80 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceExperienced / Senior Python Software Engineer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Experienced / Senior Python Software EngineerInfobip
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+2 000 EUR/month*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. Final offered salary varies based on relevant skills and experience.
+Information about the position Job description, responsibilities and dutiesAt Infobip we dream big. We value creativity, persistence and innovation, passionately believing that it is through teamwork that we can all reach greater heights. Since 2006,  we have been innovating at the edge of technological possibilities and are now shaping global communications of the future. Through 60+ offices on six continents, Infobip’s platform is used by almost 70% of the population, making it the largest network of its kind and the only full-stack cloud communication platform (cPaaS) globally. Join us on our mission to create life-changing interactions between humans and online services with new and unseen solutions. Join our development forces in deploying the code that powers the performance of the Infobip platform.If you want to learn more about life in Infobip, read our Infobip Engineering Handbook!Being a part of Infobip Engineering Powerhouse means working on an in-house developed product and delivering solutions on a global level.  As a Software Engineer you will be dedicated to your microservices and deal with challenges of large architecture that is scalable, balanced, sends over 500 million messages daily and helps our clients to grow their business.In general, you would be working in the IaaS area, developing internal tools and services that greatly impact and improve our infrastructure.What you will do at Infobip? Develop, maintain, monitor and troubleshoot your team services Use mostly Python and Javascript as your primary languages Have full ownership of the code you produce Write well designed, testable and scalable code in accordance with clean code principles Have a general overview and understanding of the interactions and dependencies in the entire system Participate with your team in agile practices such as sprint planning and retrospectives Expand and improve your knowledge both internally and externally and be a part of engineering communityRequired qualifications: Good knowledge and understanding of data structures and algorithms Strong skills and experience in at least one object-oriented language (preferably Python) Experience with Frontend development (React/Vue/Angular) Recognizing the value of code-review and experience with code testing (unit, integration) Good understanding of RESTful servicesNice to have qualifications: Experience with Java, Spring and Spring Boot development   Familiar with CI/CD tools such as Jenkins, Git, Maven, Canary or similar  Familiarity with SQL/NoSQL databases and their declarative query languages Some knowledge of Linux systems and/or Docker Ready to adopt, implement or propose new technologies Employee perks, benefitsOur benefit package includes: Linux / Mac / Windows workstations as per employee preference Latest versions of programming languages Educational budget Multisport card covered fully by the company Business cell phone for personal use English lessons Referral program 27 vacation days per year Extra days off (wedding, child birth,..) Competitive annual bonus system Dedicated time to self-study (12 days per year) Flexible working hours Annual DevDays & Shift Conference in Croatia Company events and teambuildings Employee Stock Ownership Plan... and many othersWhy our employees choose us (and stay)?  Big and complex infrastructure – When we talk about a large system, we really mean it. We have datacentres all over the world, from Washington to Hong Kong, and they include around 200 physical and 2000+ virtual servers. Be a part of a system that is live 24/7 and generates traffic that measures in millions of messages every minute.Never a dull moment – We work with powerful companies with strong impact, which pushes us to work on the highest possible level. Work on uncharted challenges and push boundaries on a daily basis.Opportunity Knocks. Often. – Being a part of a growing company in a growing industry – we challenge you not to grow! Lots of opportunities for development; whether it’s horizontal, vertical, or angular, we want to support the path that you want to carve.Grow your knowledge – Learn as you go, starting from the internal education and onboarding from your colleagues, to our 3-day Dev conference, e-learning to attending conferences. Knowledge is for sharing, and learning is a path to growth. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Educational SpecializationITLanguage skillsEnglish - Upper intermediate (B2) Advertiser Brief description of the companyAt Infobip we dream big. We value creativity, persistence and innovation, passionately believing that it is through teamwork that we can all reach greater heights. Since 2006,  we have been innovating at the edge of technological possibilities and are now shaping global communications of the future. Through 60+ offices on six continents, Infobip’s platform is used by almost 70% of the population, making it the largest network of its kind and the only full-stack cloud communication platform (cPaaS) globally. Join us on our mission to create life-changing interactions between humans and online services with new and unseen solutions. Join our development forces in deploying the code that powers the performance of the Infobip platform. Number of employees1000 and more employees 
+ ContactContact person: Barbora PohančaníkováE-mail: send CV
+All company jobs
+ID: 4508795 
+     Dátum zverejnenia:  27.2.2023 
+    2023-02-27
+lokalita: Remote work   Pozícia: Python Programmer, Software Engineer   Spoločnosť: Infobip   
+Základná zložka mzdy (brutto): 2 000 EUR/month
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

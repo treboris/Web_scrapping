@@ -1,0 +1,81 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Software Engineer for Patient Examination and CT Scanner Tuning (C#/C++) 
+Senior Software Engineer for Patient Examination and CT Scanner Tuning (C#/C++)
+Place of work
+Košice region, Slovak Republic (Job with occasional home office)
+Contract type
+full-time
+Salary
+2 700 EUR/monthFrom 2700 EUR + VAR*
+Job description, responsibilities and dutiesAbout the project:Focus is on high quality software, which enables physicians to examine human body and make fast and precise diagnosis. Development of software for Computed Tomography (CT) in various fields: patient examination, CT scanner tuning, CT configuration, scanner and image simulation, and 3D camera. Continuous innovation of software design (architecture). CT scanner hardware is available in the office lab – used for learning & experimenting, prototyping as well as software verification. More about the Computed Tomography and the scanners: https://www.siemens-healthineers.com/computed-tomographyResponsibilities: Contribution to project planning, analysis of the features, communication with other development teamsInvolvement in requirement definition and writing project documentationDevelopment and testing of software features in an international teamContribution to test automationDevelopment of software verification applicationsStudying of the CT tuning, Quality assurance algorithms – for SW development purposesLeading and contribution to innovation activitiesPrototypingMentoring and coaching of other team membersTechnologies used on project level: Visual Studio 2019, Azure DevOps, .NET Framework 4.8, .NET 6, WCF, nUnit, Moq, HTML5, XMLWe value: Proactivity, creativity, open minded thinkingFocus on details and qualityExcellent communication skillsOwnership (of software features)Diversity - enriches the team and complements itWe expect: Good knowledge of one the programming languages: C#, C++, Java, PythonClean Code principles and software craftsmanship Analytical thinking with a focus on problem solvingTeam playerUniversity education (Master's degree or higher)Advanced spoken and written EnglishWhat we offer:Variable and Christmas bonusHybrid type of work – combination of telework and work from officeFlexible Working HoursBridge days – free extra paid leave 6 days per year  3 sick days per year (no doctor’s permit needed) In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for offamily careAdditional pension plan300 EUR for regeneration of work force via cafeteria system Wellbeing program – Psychological, Legal and Financial CouncellingFamily care program (subsidy for newborns, maternity leave, kindergardens, summer camps)Retention program (work anniversary, life anniversary, employee loans)Training and development program (business and product trainings, e-learning, language courses,soft skills trainings,…)Adjustable standing desk as a standardParticipation on world famous IT conferences like Microsoft IGNITE for best employeesWide project portfolio in healthcare domain and job rotation within company (Cybersecurity,Artificial Intelligence, Healthcare IT services, …)Basic wage component (gross) and other rewards: starting from 2700 EUR brutto /month + VAR**We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions.Our goal is to pay our employee's fairly, regarding the market situation and we are ready to welcome high-quality candidates in our team.Contact:e-mail: [email protected]
+Required education, skills and personality requirements
+Required educationUniversity education (Bachelor's degree)Language skillsEnglish - Upper intermediate (B2)Other knowledgeC# - AdvancedC++ - Advanced
+Send CV
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+viac informácií
+ID: 4529404 
+     Dátum zverejnenia:  1.3.2023 
+    2023-03-01
+lokalita: Košice region   Pozícia: C# Programmer, C++ Programmer   Spoločnosť: Siemens Slovensko   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 700 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

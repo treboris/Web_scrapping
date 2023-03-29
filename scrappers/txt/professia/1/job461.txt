@@ -1,0 +1,86 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceNode.js developer - poď vyvíjať nový Pokec.sk na zelenej lúke! 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Node.js developer - poď vyvíjať nový Pokec.sk na zelenej lúke!Ringier Slovakia Media, s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 000 EUR/mesiaczákladná zložka pri senior pozícií začína od 2000€ brutto + osobné ohodnotenie podľa skillsov + možný 13ty plat. 
+Vieme sa dohodnúť aj na fakturovaní.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiPoď s nami tvoriť nový Pokec.sk! Vyvíjame novú platformu postavenú na mikroservisovej architektúre, kde všetky funkcionality sú postupne implementované nanovo. Buduj s nami produkt, ktorý používa stotisíce ľudí.Potrebuješ podrobnejšie info?  Tu ho máš: Riešenie bude postavené na mikroservisovej architektúre, servisy budú primárne implementované pomocou NestJS frameworku a TypeScript, budú dokerizované, nasadené v Kubernetes Od senior developerov sa taktiež očakáva participácia pri návrhu architektúry, výbere a otestovaní technológií Ako Git repozitár a CI/CD nástroj bude využívaný GitLab a súčasťou Gitflowu sú merge requesty a code review Kód bude pokrytý testami – očakávame TDD resp. BDD Nástroj pre project managment používame Jira a ako komunikačný nástroj využívame MS TeamsKto vytvára novú platformu? Produktový tím (ProductOwner, ux/ui) Project manager, Solution Architect Frontend tím –  web developeri a  app developeri Backend tím - sem budeš patriť aj ty Test tímPožadujeme Znalosť mikroservisovej architektúry Znalosť NodeJS a TypeScript Znalosť Kafka a RabbitMQ Znalosť niektorej z relačných databáz (MySql, PostgreSql, MariaDB...) Znalosť Redis Znalosť niektorých ďalších NoSql technológií (Cassandra, HBase, MongoDB... ) Znalosť niektorého z full text search enginov (ElasticSearch, Solr ...) Znalosť Rest, GraphQL, WebSocket,  gRPC Znalosť Docker, Git Zamestnanecké výhody, benefityČo ponúkame? Plné preplatenie dovolenky, preplatený 2xsick day a lekári – v prípade fakturácie, pri HPP je to samozrejmosť Ročná odmena po skončení kalendárneho roku – v prípade priaznivého hospodárskeho výsledku firmy V prípade služobnej cesty do ZA preplatíme náklady spojené s dopravou + prípadným ubytovaním Vzdelávanie zamestnancov - naši kolegovia sa zúčastňujú školení a konferencii, napr. We are developers, WebSummit, Codecon, Pycon, Hackerfest, ReactiveConf atď Možnosť využiť UDEMY kurzy spoločnosti Soft skillové vzdelávanie Výučba angličtiny Multisport Karta Interné  hackathony  - Hackathon 2019 so zaujímavými výhrami (finančné + vecné) Možnosť vybrať si pracovný HW (win vs mac) Príspevok ku svadbe alebo narodeniu dieťaťa Náborový bonus pri odporúčaní zamestnanca Ako spoločnosť radi podporujeme akcie ako Girls day, Naše mesto, Darovanie krvi,  Deň zdravia, robíme vo firme Office masáže, pomáhame ľuďom v núdzi, v lete si doprajeme na ochladenie zmrzlinu a v zime vianočné darčeky Spolupracujeme s Unionom, preto máme pre zamestnancov výhodnejšie poistenia Spoluprácu máme aj s datartom, vďaka čomu máme výhodnejšie ceny nákupov Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaOstatné znalostiCSS - PokročilýHTML - PokročilýJavaScript - PokročilýNODE.JS - PokročilýGIT - PokročilýSQL - PokročilýOsobnostné predpoklady a zručnostiZnalosť mikroservisovej architektúryZnalosť NodeJS a TypeScriptZnalosť Kafka a RabbitMQZnalosť niektorej z relačných databáz (MySql, PostgreSql, MariaDB...)Znalosť RedisZnalosť niektorých ďalších NoSql technológií (Cassandra, HBase, MongoDB... )Znalosť niektorého z full text search enginov (ElasticSearch, Solr ...)Znalosť Rest, GraphQL, WebSocket,  gRPCZnalosť Docker, Git Inzerujúca spoločnosť Stručná charakteristika spoločnostiRINGIER SLOVAKIA MEDIA, s. r. o, je multimediálny vydavateľský dom, ktorý je jednotkou slovenského internetu.
+Drvivá väčšina jeho online portfólia si dlhodobo udržuje pozíciu najnavštevovanejších slovenských internetových portálov, ktoré sú jednotkami vo svojich segmentoch. Do portfólia patrí spravodajsko – investigatívny portál Aktuality.sk, ženský magazín Diva.sk, mamičkovský portál Najmama.sk, technologický magazín Živé.sk, športový portál Šport.sk a európsky urban hub Noizz.sk. Súčasťou vydavateľstva sú aj ďalšie významné produkty ako Azet.sk či komunitný portál Pokec.
+Prostredníctvom svojej dcérskej spoločnosti United Classifieds, ktorá združuje portály ako Autobazar.eu, Autobazár.sk, Nehnuteľnosti.sk či TopReality.sk, je tiež najväčším prevádzkovateľom online inzertných portálov na Slovensku. 
+RINGIER SLOVAKIA MEDIA s.r.o zamestnáva viac ako 350 ľudí v Bratislave, v Žiline, v Novom Meste nad Váhom  a Košiciach. Je súčasťou švajčiarskej vydavateľskej skupiny Ringier. Počet zamestnancov250-499 zamestnancov 
+ KontaktKontaktná osoba: Michaela StískalováE-mail: poslať životopis
+Všetky ponuky spoločnosti
+ID: 4061475 
+     Dátum zverejnenia:  8.3.2023 
+    2023-03-08
+lokalita: Práca z domu   Pozícia: Programátor   Spoločnosť: Ringier Slovakia Media, s. r. o.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

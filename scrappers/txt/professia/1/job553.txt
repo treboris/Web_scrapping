@@ -1,0 +1,100 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceETL Engineer (SQL, Hadoop) 
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+ETL Engineer (SQL, Hadoop)Informácie o pracovnom miesteMiesto práce: Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)Mzdové podmienky (brutto): Od 2 500 EUR/mesiac*finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidátaTermín nástupu: dohodouDruh pracovného pomeru: plný úväzokNáplň práce, právomoci a zodpovednostiETL Engineer pôsobí na projekte návrhu a vývoja DWH /BI/reporting riešení, na Oracle/MS SQL platforme, využíva najmä nástroje SQL a Hadoop.
+-  komunikuje s interným klientom, spracuje požiadavky a navrhuje nové technické riešenie 
+- analyzuje dáta z rôznych zdrojov (štruktúrované a neštruktúrované dáta), participuje s analytikmi na tvorbe nového dátového modelu, navrhuje nové ETL procedúry
+- zodpovedá  za vývoj SW riešenia, vývoj ETL, vývoj sa realizuje na  rôznych platformách MS SQL, Oracle, cloud (T-SQL, PL/SQL, Oracle Data Integration, store procedures),
+- návrhy v oblasti databázy, vývoj databázy, správa databázy
+- využíva Big data  nástroje -  hadoop ecosystem, Hive, Sqoop, NiFi, Kafka
+- tvorí technickú dokumentáciu
+- spolupráca s ostatnými inžiniermi (JAVA, FE, Python) Iné výhody- stabilná medzinárodná spoločnosť 
+- široká škála benefitov v oblasti zdravotnej starostlivosti, športu, kultúry voliteľných podľa vašich vlastných preferencií
+- vzdelávanie, školenia Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieStabilná medzinárodná IT spoločnosť. Požiadavky na zamestnanca Požadované vzdelanievysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiSQL - PokročilýPython - ZákladyHadoop Distributed File System (HDFS) - ZákladyPožadovaná praxAnalýza a vývoj ETL2Osobnostné predpoklady a zručnosti- vysokoškolské vzdelanie 
+- minimálne 2 roky skúsenosti s vývoj v SQL
+- skúsenosti s analýzou dát, data modelling, ETL procedúry
+- skúsenosti s cloudami veľkou výhodou
+- technické znalosti:
+•	BI/DWH
+•	Oracle DB, MS SQL DB
+•	PL/SQL, T-SQL
+•	znalosť Hadoop, Big Data - veľkou výhodou
+- analytické a logické myslenie, flexibilita, komunikatívnosť, samostatnosť i schopnosť práce v tíme Inzerujúca spoločnosť Stručná charakteristika spoločnostiPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)Spoločnosť je držiteľ povolenia na sprostredkovanie práce. (AA/2009/4810/4232/OISS) Hlavná oblasť pôsobenia spoločnostiSprostredkovanie práce a personálne poradenstvo Počet zamestnancov10-19 zamestnancov Informácie o výberovom konaní* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: [email protected]KontaktKontaktná osoba: Mgr.  Andrea OmelkováTel.: +421911 755 569E-mail: 
+ Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4531881 
+     Dátum zverejnenia:  3.3.2023 
+    2023-03-03
+lokalita: Bratislava   Pozícia: Business Intelligence Specialist, Databázový analytik, Programátor, Python programátor, Softvérový inžinier   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

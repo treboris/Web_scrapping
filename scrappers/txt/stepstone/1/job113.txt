@@ -1,0 +1,55 @@
+Jobs by email
+Deutsches Elektronen-Synchrotron DESY
+Data Scientist for the Rock IT Projekt
+Hamburg
+Temporary contract
+Full Time, Part time, Home office possible
+Published: 1 week ago
+Save
+For our location in Hamburg we are seeking:
+Data Scientist for the Rock IT Projekt
+Remuneration Group 13 | Limited: 31.12.2025 | Starting date: 01.05.2023 | ID: FSMA024/2023 | Deadline: 09.04.2023 | Full-time/Part-time | Remote work possible
+DESY, with more than 2700 employees at its two locations in Hamburg and Zeuthen, is one of the world's leading research centres. Its research focuses on decoding the structure and function of matter, from the smallest particles of the universe to the building blocks of life. In this way, DESY contributes to solving the major questions and urgent challenges facing science, society and industry. With its ultramodern research infrastructure, its interdisciplinary research platforms and its international networks, DESY offers a highly attractive working environment in the fields of science, technology and administration as well as for the education of highly qualified young scientists.
+Catalysis experiments are not automated when compared to other fields such as macromolecular crystallography, where the potential of automation and digitization of measurements is already successfully exploited. ROCK-IT (remote, operando controlled, knowledge-driven, IT-based), addresses these challenges by the intention to provide solutions to improve the efficiency of catalysis research, tailor-made, yet composed of generic building blocks portable enough to be applicable to a wide range of measurements. The building blocks-partly interfacing formats, standardised metadata collection, interfaces to electronic lab books, sample tracking and handling, Al-based experiment control and data evaluation, and automation of experiments under remote control.
+About your role:
+Design, development and implementation of hard- and software solutions addressing the data lifecycle of automated experiments at e.g. synchrotrons
+Evaluation and definition of a concept for data lifecycle management focussing on metadata in context of experiment automatization at large scale synchrotron facilities and its implementation
+Definition of requirements and metadata indexing
+Development, implementation and operation of services for data exchange/interoperability
+Evaluation and implementation of metadata coupling/exchange to an electronic logbook
+Information coordination and documentation
+Support of the different work packages in realisation/implementation of feedback for automated data acquisition, visualization etc. with respect to data lifecycle management
+Collaboration with other groups and institutes within the project
+Conceptual design, adaption and optimisation of DESY infrastructure for use by internal and external scientists
+About you:
+Completed master's degree in computer science, physics, materials science or equivalent experience and education
+Profound knowledge in databases and their application, operation and data exchange
+Knowledge/experience with distributed systems
+Knowledge in and experience with computer-controlled experiments, metadata and digital data acquisition and logging (experience in conducting experiments at large scale facilities, e.g. synchrotrons, is of advantage)
+Good English communication skills, team player
+Knowledge on filesystems, ACLs and interoperability
+Knowledge about network, storage systems and protocols
+Target-oriented work habit and organisational skills
+Advisory services
+Programming skills are of benefit (00, parallelisation)
+Interest to work in a scientific environment
+Good reasons to join:
+Look forward to a unique working environment on our international research campus. We attach particular importance to appreciative cooperation and the well-being of our DESY employees. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a job ticket at both locations.
+Contact:
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Deutsches Elektronen-Synchrotron DESY
+Notkestr. 85, 22607 Hamburg, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

@@ -1,0 +1,118 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Data Engineer | Greenfield projekt v oblasti predaja áut | Azure & Databricks 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukySenior Data Engineer | Greenfield projekt v oblasti predaja áut | Azure & DatabricksCN Group CZ a.s., organizačná zložka SK
+Miesto práce
+Obchodná 2, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+5-6/2023 alebo dohodou
+Mzdové podmienky (brutto)
+2 700 EUR/mesiacMzda začína od 2700 Eur brutto. Finálna výška mzdy závisí od doterajších skúseností a odborných vedomostí kandidáta.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiPredstavte si, že ovplyvníte budúcnosť online predaja áut s využitím sily dát. V projekte na zelenej lúke s moderným tech stackom (Azure & Databricks) budete tvoriť novú dátovú platformu a v spolupráci s lídrom v oblasti obchodu s ojazdenými autami prispejete k technologickým inováciám predaja cez web.
+Vašou úlohou bude: 
+• nastavenie dátovej architektúry spolu s hlavným architektom (80 % času)
+• návrh a tvorba nových reportov (20 % času)
+Čo v CN Group získate? 
+• Prostredie, ktoré intenzívne podporuje vzdelávanie a odborný rast (interné a externé školenia, workshopy, konferencie, hackathony, codingdojo, prednášky) 
+• Kolegov, ktorí sú ochotní Vám kedykoľvek pomôcť a radi zdieľajú svoje znalosti 
+• Nadriadených, ktorí svojim ľuďom rozumejú - sami bývali vývojármi, takže vedia, čo ich ľudia potrebujú 
+• Firemnú kultúru, ktorá je založená na priateľskom a neformálnom prostredí. Nechávame kolegom voľnosť a všetko staviame na dôvere. 
+• Prácu na rôznorodých zahraničných IT projektoch bez potreby sa niekam sťahovať, bez nutnosti zmeny firmy a kolegov. Nezamrznete tak na dlhšiu dobu len na jednom projekte. 
+• Výhodu produktovej firmy (stálych kolegov, Scrum Mastrov, šéfa aj svoj stôl...) s meniacimi sa projektmi od našich stálych aj nových zahraničných zákazníkov Zamestnanecké výhody, benefityAké benefity pre Vás máme? 
++ Podporujeme work-life balance (home-office, flexibilná pracovná doba, dovolenka navyše)
++ Možnosť práce z domu - či už na jednorazové udalosti alebo ak bývate ďaleko na denné dochádzanie
++ Každý týždeň organizujeme spoločné raňajky, kde preberieme novinky pri dobrom jedle a káve
++ 5 týždňov dovolenky pre všetkých zamestnancov
++ 2 dni Sickdays
++ Možnosť neplatenej dovolenky môžete využiť napríklad na cestovanie
++ Preferujete MacBook alebo Dell? U nás máte možnosť výberu
++ Ak sa potrebujete odreagovať, môžete si zahrať PlayStation, Xbox, stolný futbal alebo relaxovať v našom Social roome
++ Program pre duševné zdravie Soulmio (prevencia duševného zdravia, živé prenosy alebo videá so psychológmi, články o duševnej pohode, osobné stretnutia so psychológom atď.)
++ Cvičenie jogy priamo na pracovisku
++ Možnosť jazykového vzdelávania - online angličtina a nemčina
++ Pekný office v centre Bratislavy so super dopravnou dostupnosťou a so skvelou kávou
++ Môžete si užiť spoločné akcie, ktoré už majú tradíciu (Outdoor, Vianočný večierok, lyžovačka atď.) Informácie o výberovom konaníSme radi, že Vás pri hľadaní práce zaujala naša ponuka. Ak sú dáta Vašou srdcovkou, pošlite nám, prosím, Váš životopis na: [email protected] Radi sa s Vami porozprávame a predstavíme Vám našu spoločnosť a projekty.
+Výberový proces v CN Group (krátke video): 
+https://bit.ly/3lIYR11 
+CN Group Slovensko:
+https://www.youtube.com/watch?v=XWktKo-_XMw Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Osobnostné predpoklady a zručnostiDo nášho tímu radi prijmeme Data Engineera zanieteného pre autá, ktorý má skúsenosti s: 
+- programovaním v Python-e
+- cloudovým prostredím, ideálne Azure
+- Data modelling, Data processing, Data historization
+- pokročilou angličtinou – s našimi medzinárodnými klientmi bude prebiehať každodenná komunikácia v angličtine
+Navyše radi privítame: 
+- znalosť Databricks
+- skúsenosti s SQL aj NoSQL databázou
+- skúsenosti s dátovými platformami - Hadoop, Hive, Spark
+- skúsenosti s klasickým DWH
+- Power BI Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme software house, ktorý sa primárne venuje vývoju softwaru na mieru pre našich zahraničných zákazníkov (Nemecko, Švajčiarsko, Rakúsko, Švédsko, UK atď.), avšak vývoj zvládame z Prahy, Zlína, Bratislavy a Bukurešti. Našimi hlavnými vývojovými platformami sú Node.js, React, Angular, Vue.js, Java, .NET, Drupal, C++. Zameriavame sa aj na mobilný vývoj.
+Prečo pre nás pracovať?
+• Väčšina našich projektov je medzinárodných - pre krajiny západnej a severnej Európy
+• Využívame agilné metodiky vývoja – SCRUM, Kanban
+• Naši zákazníci sú zo všetkých možných oblastí businessu – médiá, logistika, bezpečnosť, medicína, telekomunikácie atď. Počet zamestnancov100-149 zamestnancov 
+ID: 4525710 
+     Dátum zverejnenia:  23.2.2023 
+    2023-02-23
+lokalita: Bratislava   Pozícia: Databázový analytik, Programátor   Spoločnosť: CN Group CZ a.s., organizačná zložka SK   
+Základná zložka mzdy (brutto): 2 700 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

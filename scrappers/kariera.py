@@ -83,9 +83,6 @@ for y in range(0, list_size):
 
 
 
-
-
-
 save_data = Save(f'kariera1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
 
 print("--- %s seconds ---" % (time.time() - start_time))

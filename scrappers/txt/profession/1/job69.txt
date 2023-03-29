@@ -1,148 +1,416 @@
-Profession
-Belépés
-Regisztráció
- Álláskeresés
-Részletes keresés
-Állásértesítő készítése
-Állások
-Önéletrajzom
- Önéletrajz feltöltése
-Önéletrajz minták
-Önéletrajz készítő
-Cégek
-Cégek keresése Új
-Munkahely értékelése
-Álláskeresési tippek
-Cikkek, hírek
-Kalkulátorok
-Ügyfélszolgálat
-Munkaadóknak
-Profession
-Munkaadóknak
-Hirdetésfeladás
-Regisztráció
 Belépésálláskeresőknek
-IT programozás, Fejlesztés
+Állások
+Önéletrajz feltöltése
+Állásértesítő készítése
+CV készítő
+Cégek Új
+Részletes keresés
+Programozó, fejlesztő állások, munkák
+291 db találat 
+Szűrés
+Conversational Ai Bot Developer
+Vodafone Magyarország Zrt.
+Budapest
+Develop virtual assistant that understand what humans say and respond appropriately Assist with application prototyping and recommend solutions around implementation Develop & refine business requirements through user stories to drive the development of Virtual Assistants that de...
+Bónusz
+Extra juttatások
 Programozó, Fejlesztő
-Budapest
-Budapest
-Következő 
-Full Stack Developer
-OTP Bank Nyrt.
-Budapest XIII. kerület
- Módszertanok és szoftverek
-Bpmn
-Jelentkezem
-Mentés
-Az állásról
-Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Alkalmazotti
 Általános munkarend
-Elvárások:
-Angol középfok
-1-3 év szakmai tapasztalat
-Főiskola
-Juttatások
+Angol - felsőfok
+Mar. 23.
+Állás megtekintése
+ Mentés 
+March 23.
+Test Engineer
+Profession Services
+Budapest IX. kerület
+A szoftverfejlesztési terület tesztelési tevékenységének ellenőrzése, tervezése, nyomonkövetése Ügyfelek és a projektcsapatok közötti kapcsolattartás, a projektek rendszeres áttekintése Reagálás a projektek változásaira, és szükség esetén intézkedések tétele a projekt céljainak e...
+Bruttó 850e Ft/hó
 Cafeteria
 Szakmai tréningek
-Nyelvtanulás támogatása
- Módszertanok és szoftverek
-Bpmn
-Full Stack Developer
-Az OTP Bankcsoportban a lakossági hitelezési területen egy olyan nemzetközi csapatban dolgozhatsz, melynek feladata az OTP legjobb hitelezési gyakorlatát leképező csoportszintű informatikai megoldás kialakítása, ami az OTP régiós bankjai számára kerül bevezetésre. A munkavégzés az OTP Madarász utcai díjnyertes irodaházában, modern informatikai technológiák felhasználásával történik, beleértve felhő- és konténerizációs technológiákat, modern integrációs, back-end és front-end keretrendszereket és programozási nyelveket is (pl. API gateway, Kafka, Vue.js, Angular, Kotlin, Swift, Pyhon, java).
-Full Stack fejlesztőként egy nemzetközi csapat tagja lehetsz, amely a teljes szoftverfejlesztési életciklusért felelős, a koncepciótól a telepítésig. Fejlesztőként magabiztosan mozogsz majd a fenti back-end és front-end keretrendszerek és programozási nyelvek világában, az UX/UI csapat által meghatározott standardoknak megfelelő képernyőket,  hatékony és biztonságos integrációs megoldásokat fejlesztesz, és támogatod majd a DevOps folyamatokat is.
-Feladatok:
-Részvétel skálázható szoftverek tervezésében és létrehozásábanSzoros együttműködés a fejlesztőcsapatokkal és rendszermérnökökkel a szoftvermegoldások kidolgozásábanVonzó és jól használható front-end alkalmazások, reszponzív illetve natív mobil applikációk fejlesztéseTiszta és hatékony kód írása (beleértve az API-kat is) és azok automata teszteléseHatékonyan működő adatbázisok és alkalmazások fejlesztése és fenntartásaA vonatkozó műszaki dokumentációk elkészítéseA csoportmegoldás fejlesztési feladatain felül az egyes országokban futó bevezetési projektek támogatása
-Aminek örülünk:
-Tapasztalat Full Stack fejlesztőként vagy hasonló munkakörbenBöngészőben futó és mobil alkalmazások fejlesztésében szerzett tapasztalatTöbb front-end nyelv és könyvtár ismerete (böngészős és mobil keretrendszerekben egyaránt)Több háttérnyelv ismerete (pl. C#, Java, Python)Adatbázisok (pl. PostgreSQL, MongoDB), webszerverek és UI/UX tervezés ismereteKiváló kommunikációs és csapatmunka készségekNagy odafigyelés a részletekreFelsőfokú informatikai / számítástechnika vagy megfelelő szakirányú végzettségA szakmai angol nyelvtudás elengedhetetlen
-Amit kínálunk:
-Modern munkakörnyezet, nemzetközi projektekben való részvételBelső karrierútHome Office lehetőségIngyenes parkolási lehetőségSzakmai, nyelvi tréningekLendületes, összetartó csapatPróbaidő után vonzó cafetéria csomagTámogató vezetői hozzáállás Munkavégzés helye: Budapest XIII. kerület
-Állás, munka területe(i):
-IT programozás, Fejlesztés
+Tech stack
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+Német - középfok
+Mar. 27.
+Állás megtekintése
+ Mentés 
+March 27.
+Mobilfejlesztő
+ShiwaForce.com Zrt.
+Budapest
+Android és/vagy iOS mobilalkalmazások tervezése és fejlesztése az ügyféligények felmérését követően Meglévő alkalmazások karbantartása frissítése és új programrészek fejlesztése Hibák keresése, javítása és szoros együttműködés a tesztelőkkel Legmodernebb mobil technológiák és int...
+Extra juttatások
 Programozó, Fejlesztő
-Jelentkezés módja
-Jelentkezni lehet a lenti "Jelentkezem" gombra kattintva.
-Jelentkezem
-MENTÉS
-Elküldöm magamnak a hirdetést
+Home office
+Alkalmazotti
+Általános munkarend
+Friss
+Állás megtekintése
+ Mentés 
+Friss
+Medior Frontend Fejlesztő
+ShiwaForce.com Zrt.
+Budapest
+modern framework-ök rutinos használata, pl. Vue 3 vagy Node.js legkorszerűbb fejlesztői környezet használata: Docker, Kubernetes, CI/CD nagy rendelkezésre állású, kiemelt presztízsű nagyvállalati frontend alkalmazások, portálok: pl. OTP Bank és Magyar Telekom portáljai mellett sa...
+Extra juttatások
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+Friss
+Állás megtekintése
+ Mentés 
+Friss
+Spóroljon időt!
+Böngéssze a kimondottan Önre szabott, átlag jelentkezői bérigényt is feltüntető álláslistát a Profession Prémium segítségével!
+Kipróbálom díjmentesen
+Kiberbiztonsági mérnök beágyazott rendszerekhez
+KNORR-BREMSE Hungária Kft.
+1238 Budapest, Helsinki út 105.
+Cybersecurity stratégia menedzselése és végrehajtása a fékvezérlő-elektronikai termékek teljes életciklusa során A rendszer- és szoftverarchitektúra kialakításában való részvétel A megfelelő védelmek implementációjának biztosítása a hardver- és szoftverarchitektúra szintjén Termé...
+Tech stack
+Programozó, Fejlesztő
+Általános munkarend
+Angol - felsőfok
+Friss
+Állás megtekintése
+ Mentés 
+Friss
+Node.Js/JavaScript Fejlesztő
+Új Világ Nonprofit Szolgáltató Kft.
+Budapest
+Egyedi informatikai rendszerek fejlesztése Pályázatkezelő rendszerek tervezése
+Extra juttatások
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+ma 15:32
+Állás megtekintése
+ Mentés 
+ma 15:32
+Delphi fejlesztő
+Kulcs-Soft Nyrt.
+1016 Budapest, Mészáros utca 13.
+Delphi 10.3 és Delphi 2010 fejlesztőkörnyezetben írt forráskódok karbantartása Új funkciók tervezése, a fejlesztés elvégzése Felmerülő problémák kapcsán hibakeresés Fejlesztői tesztek elvégzése Fejlesztői dokumentációk készítése Adatbázis vizsgálat Szakértői támogatás...
+Programozó, Fejlesztő
+Általános munkarend
+ma 14:33
+Állás megtekintése
+ Mentés 
+ma 14:33
+Junior/Medior Full stack .NET developer
+DasModel Kft.
+1137 Budapest, Újpesti rakpart 3.
+Hosszú távra keresünk full-stack.NET fejlesztőt, egyedi fejlesztésű üzleti alkalmazásainkhoz. Területek: gázipar, szállítmányozás, dohányipar. Magyar, de nemzetközi kapcsolatokkal rendelkező, stabil ügyfélkör. Feladat: 4-5 fős csapattal együttműködve, webes üzleti alkalmazásokho...
+Bruttó 700e - 1,1M Ft/hó
+Programozó, Fejlesztő
+Távmunka
+Vállalkozói
+Kötetlen munkaidő
+Magyar - anyanyelvi szint
+ma 09:25
+Állás megtekintése
+ Mentés 
+ma 09:25
+Full-Stack fejlesztő (Angular, Java)
+UNIQA Raiffeisen Software Service Kft.
+1053 Budapest, Szép utca 2.
+Web alapú megoldások fejlesztése és karbantartása Frontend és backend fejlesztése Felelősségvállalás a szoftver megvalósításáért és minőségéért Részvétel agilis szoftverfejlesztői csapatmunkában Együttműködés, napi kommunikáció az osztrák anyacég munkatársaival...
+Tech stack
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Német - középfok
+ma 00:00
+Állás megtekintése
+ Mentés 
+ma 00:00
+PHP fejlesztő
+EnergyHub Kft.
+Budapest, XI. kerület
+Tech stack
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+tegnap 16:37
+Állás megtekintése
+ Mentés 
+tegnap 16:37
 Hasonló állásokat szeretne kapni e-mailben?
 Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
-Állásértesítőt kérek
-Jelentkezem
-MentésMentés kedvencnek
- Vissza a listára
-Az állásról
-Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Állásértesítőt kérek!
+.NET Fejlesztő
+Capgemini Magyarország Kft.
+Budapest
+agilis csapat tagjaként design és fejlesztési feladatok megvalósítása.net CORE 3.0 MVC technológiával, Blazor and Syncfusion FE megoldással (SQL adatbázis háttérrel) full-stack fejlesztés, a te feladatod a backend és frontend kialakítása is microservice alapú architectúra kialak...
+Extra juttatások
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - középfok
+tegnap 16:29
+Állás megtekintése
+ Mentés 
+tegnap 16:29
+Rendszerszervező
+Capgemini Magyarország Kft.
+Budapest
+Üzleti igények megértése és lefordítása rendszerkövetelményekké, folyamatábrákká Logikai rendszertervek elkészítése, ehhez szükséges dokumentációkkal együtt Fejlesztői csapattal szoros együttműködés (fejlesztői feladatok megértése és átadása, a fejlesztés folyamatos támogatása, n...
+Extra juttatások
+Rendszertervező
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+tegnap 16:29
+Állás megtekintése
+ Mentés 
+tegnap 16:29
+SAP Application Developer
+ZF Hungária Kft.
+Országosan bárhonnan pályázható
+Proactively gather, understand and manage requirements and expectations Contributing to the entire cycle of product development, from first ideas and brainstorming sessions over creation of functional and technical specifications to continuously delivering solutions in an agile a...
+Mozgóbér
+Bónusz
+Extra juttatások
+Tech stack
+Vállalatirányítási rendszer, SAP
+Alkalmazotti
 Általános munkarend
-Elvárások:
-Angol középfok
-1-3 év szakmai tapasztalat
-Főiskola
-Juttatások
+Angol - felsőfok
+tegnap 15:22
+Állás megtekintése
+ Mentés 
+tegnap 15:22
+Műszaki informatikus
+Schaeffler Savaria Kft.
+Szombathely
+- Mérő-, felügyeleti- és adatgyűjtő szoftverek fejlesztése, követése - Gyártóberendezések számítógépeinek felügyelete, karbantartása - Új mérő- / gyártóberendezések felépítése, integrációja - Ipari képfeldolgozó rendszerek üzemeltetése, fejlesztése - Termeléstámogatás, napi szint...
+Cafeteria
+Tech stack
+Programozó, Fejlesztő
+Általános munkarend
+Angol - középfok
+Német - középfok
+tegnap 15:06
+Állás megtekintése
+ Mentés 
+tegnap 15:06
+Tesztautomatizáló mérnök
+Lightware Visual Engineering
+Budapest, VII. kerület
+a cég által fejlesztett prémium videotechnikai berendezések vezérlőszoftverének automatizált tesztelése; meeting room-ok vagy akár teljes irodaházak automatizált vezérlését lehetővé tevő komplex szoftverek automatizált tesztelése; a tesztelési stratégiához kapcsolódóan az automat...
+Tech stack
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 09:14
+Állás megtekintése
+ Mentés 
+tegnap 09:14
+Szoftver architect
+Pharma Cloud Kft.
+1119 Budapest, Fehérvári út 84a.
+Fejlesztések előkészítésében való részvétel, különböző szakterületeinkkel együttműködésben Meglévő termék felmérése, javaslatok megfogalmazása a tökéletesítésre Alkalmazásaink továbbfejlesztésének megtervezése, végrehajtásának nyomon követése Folyamatos minőségbiztosítás a fejles...
+Extra juttatások
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+tegnap 06:22
+Állás megtekintése
+ Mentés 
+tegnap 06:22
+Embedded Software Architect for IoT Device Management
+KNORR-BREMSE Hungária Kft.
+1238 Budapest, Helsinki út 105.
+Define scalable architecture elements with capsulated software artifacts, elements on cloud and edge side Working out concepts and definitions in strong cooperation and alignment with the lead architects. Coordinate the implementation, handle technical problems, make technical de...
+Tech stack
+Programozó, Fejlesztő
+Általános munkarend
+Angol - középfok
+tegnap 05:04
+Állás megtekintése
+ Mentés 
+tegnap 05:04
+BI and SAP Analytics Cloud developer
+MOL GBS Magyarország Kft.
+Budapest, XI. district
+Understand business requirements Interact with developers, BAs and end-users Translate requirement into functional and technical specifications for SAC solutions Design and implement dashboards and reports Build unit test plans and unit test objects as part of sprint increment ac...
 Cafeteria
 Szakmai tréningek
-Nyelvtanulás támogatása
- Elküldöm magamnak
- Értesítést kérek
-A cégről
-OTP Bank Nyrt.
-Pénzügy, biztosítás
-●
-Egyéb monetáris közvetítés
-1000+ munkavállaló
-1990
-1051
-Budapest,
-Nádor u.16.
-Értékelések a(z) cégről
-Értékelések kategória szerint 
-3,6
-Munkaidő és munkarend 
-4,3
-Megközelíthetőség 
-3,7
-Munkakörnyezet 
-A munkahely előnyei 
-Biztosítják a munkaeszközöket 
-További vélemények 
-Munkahelyi extrák
-Parkoló
-Munkahely értékelése 
-Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
-Értékelem
-Önnek ajánljuk
-Hasonló állások megtekintése 
-Full Stack Developer
-OTP Bank Nyrt.
-Budapest XIII. kerület
-Jelentkezem
-Mentés
-Kövessen bennünket! 
-Rólunk
-Magyar
-English
-Site language 
-Magyar
-English
-Rólunk
-Töltse le mobil alkalmazásunkat!
-Profession
-Ajánlatok munkaadóknak
-Impresszum
-Nemzetközi szolgáltatások
-Kérdése van? 
-Ügyfélszolgálat
-Kapcsolat
-Feltételek 
-ÁSZF
-Felhasználási feltételek
-Adatvédelem
-Profession 2023 © Minden Jog Fenntartva.
-Belépés Állásmentéshez
-Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
-Elfelejtette jelszavát?
-Belépés
-Elküldöm magamnak
-Belépés Facebookkal
-Belépés Google fiókkal
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+Friss
+Állás megtekintése
+ Mentés 
+Friss
+Szoftverfejlesztő
+CTDI Kft.
+Budapest, XVIII. Kerület
+Javascript, SQL, PHP és C#/.NET fejlesztésekben való részvétel Szoftver tesztelés, dokumentálás Modulok fejlesztése/dizájnja Részmunkák definíciója és implementálása
+Tech stack
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+Angol - alapfok
+ma 15:55
+Állás megtekintése
+ Mentés 
+ma 15:55
+Senior szoftverfejlesztő
+Legyen az első 5 jelentkező között!
+Magyar Államkincstár
+Budapest
+Az ASP Adó szakrendszeri és egyéb Kincstári fejlesztések feladatainak ellátása, a fejlesztés önálló részeinek meghatározása és végrehajtása, a kapcsolódó fejlesztések irányítása.
+Extra juttatások
+Tech stack
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+ma 14:35
+Állás megtekintése
+ Mentés 
+ma 14:35
+Szoftvertesztelő gyakornok - Diákmunka
+Legyen az első 5 jelentkező között!
+Mind-Diák Szövetkezet
+Budapest V.
+Részvétel a banki rendszerek felhasználói, üzleti tesztek és az azokhoz kapcsolódó tevékenységek lebonyolításának előkészítésében, összehangolásában, végrehajtásában és dokumentálásában Eredmények dokumentálása ALM rendszerben A teszt során feltárt problémás esetek, hibák dokumen...
+Bruttó 1 900 /óra
+Tech stack
+Programozó, Fejlesztő
+Diákmunka
+Általános munkarend
+ma 14:20
+Állás megtekintése
+ Mentés 
+ma 14:20
+Senior IOS fejlesztő - kontraktor (JK)
+Tech People Hungary Kft.
+Budapest, XI kerület 
+Meglévő mobil alkalmazás új funkciókkal/modullal bővítése Új technológiák kipróbálása, demo, prototípus jellegű alkalmazások fejlesztése Az alkalmazások működése során felmerült hibák feltárása, javítása. Meglévő mobilalkalmazások karbantartása Szakmai döntés előkészítő anyagok e...
+Programozó, Fejlesztő
+Vállalkozói
+Home office
+Általános munkarend
+Angol - középfok
+ma 14:14
+Állás megtekintése
+ Mentés 
+ma 14:14
+1
+2
+3
+4
+5
+...
+Következő
+Utolsó
+Állásértesítő készítése
+Keresés mentése
+)
+Figyelem!
+A lakhatási támogatást nyújtó ajánlatokat területi szűrés nélkül listázzuk.
+A területi beállítás csak a lakhatási támogatás paraméter kikapcsolása után változtatható meg újra!
+Keresés finomítása
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Beállított szűrők
+Beállított szűrők törlése 
+Kategória 
+IT programozás, Fejlesztés
+Adatbázisszakértő  (41) 
+IT tanácsadó, Elemző, Auditor  (104) 
+IT, fejlesztési vezető  (21) 
+Product owner, -manager  (6) 
+Programozó, Fejlesztő
+Projektmenedzsment  (127) 
+Rendszerintegrátor  (13) 
+Rendszertervező  (57) 
+Scrum master  (3) 
+Tesztelő, Tesztmérnök  (90) 
+Lakóhely (Megye, Város)
+Budapest  (245) 
+Bács-Kiskun megye  (15) 
+Baranya megye  (27) 
+Békés megye  (15) 
+Borsod-Abaúj-Zemplén megye  (16) 
+Csongrád-Csanád megye  (19) 
+Fejér megye  (22) 
+Győr-Moson-Sopron megye  (21) 
+Hajdú-Bihar megye  (23) 
+Heves megye  (15) 
+Jász-Nagykun-Szolnok megye  (16) 
+Komárom-Esztergom megye  (19) 
+Nógrád megye  (16) 
+Pest megye  (23) 
+Somogy megye  (15) 
+Szabolcs-Szatmár-Bereg megye  (15) 
+Tolna megye  (15) 
+Vas megye  (19) 
+Veszprém megye  (19) 
+Zala megye  (16) 
+Svájc  (1) 
+Egyéb külföld  (3) 
+Az Ön végzettsége 
+Általános iskola  (15) 
+Szakiskola / szakmunkás képző  (1) 
+Középiskola  (136) 
+Főiskola  (107) 
+Egyetem  (23) 
+Az ön nyelvismerete 
+Nincs nyelvismeretem  (66) 
+Angol  (216) 
+Magyar  (24) 
+Német  (15) 
+Az Ön tapasztalata 
+Nincs tapasztalatom  (6) 
+1-3 év szakmai tapasztalat  (124) 
+3-5 év szakmai tapasztalat  (74) 
+5-10 év szakmai tapasztalat  (27) 
+>10 év szakmai tapasztalat  (2) 
+Foglalkoztatás jellege 
+Teljes munkaidő  (257) 
+Részmunkaidő  (10) 
+Távmunka  (25) 
+Megváltozott munkaképességű  (2) 
+Szakmai gyakorlat  (7) 
+Vállalkozói  (10) 
+Diákmunka  (31) 
+Home office  (131) 
+Alkalmazotti jogviszony  (200) 
+Munkarend 
+Általános munkarend  (271) 
+Rugalmas munkaidő  (14) 
+Kötetlen munkaidő  (4) 
+Cégméret 
+0-10 fő  (33) 
+10-25 fő  (89) 
+100-250 fő  (41) 
+1000+ fő  (68) 
+25-50 fő  (17) 
+250-500 fő  (15) 
+50-100 fő  (16) 
+500-1000 fő  (9) 
+Beállítások 
+Személyzeti tanácsadók hirdetései nélkül  (112) 
+Munkahely értékelése
+Munkahely értékelése
+Értékelje és mondja el véleményét korábbi vagy jelenlegi munkahelyéről. Értékelése név nélkül történik, és segítséget nyújt a munkakeresőknek ahhoz, hogy
+ideális munkahelyet találjanak. A kitöltés pár percet vesz igénybe.
+Értékelem 

@@ -1,0 +1,68 @@
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Rendszergazda
+Budapest
+Következő 
+Data Engineer (100-16-42733/PR)
+Grafton Recruitment
+Budapest
+ Elvárt technológiák
+CLOUD
+AZURE+
+DATABASES
+BI
+SQL
+DATABASE
+ANALYTICS
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok
+Nem igényel tapasztalatot
+Középiskola
+ Elvárt technológiák
+CLOUD
+AZURE+
+DATABASES
+BI
+SQL
+DATABASE
+ANALYTICS
+Grafton Recruitment
+Data Engineer (100-16-42733/PR)
+Feladatok:
+Our partner is a leading global provider of mission critical air and gas handling products providing service and support to customers around the world.To manage user service desk requests, both automated and user generated, within defined SLA’s and to provide initial triage and routing for all incidents and requests. To be the first point of contact for the end users and the “face” of IT.Responsibilities:- Develop of the new cloud based Global Data Platform (Azure+Snowflake)-Develops and maintains ETL/ELT pipelines and design, development of databases/data warehouses- Participates in digital/data transformational projectsWorks closely with BI developers/data analysts/data scientist and supports them in data ingestion/data preparation
+Elvárások:
+- min.3 year experience in the field of Data Engineering- Data pipeline creation, implementation - Experience in working with Cloud based DWH solutions and strong knowledge of SQL and database/data-warehouse development- Experience building ETL processes with Data Factory or with other ETL tools- ETL tool integration within established analytic tools - Proficient with dealing with and organising large volumes of data and automating data pipelines for use in data analytics- Passion for developing customer-oriented solutions to complex engineering problems- Strong analytical and problem solving skills- Fluent in English- BSc in Data Engineering/IT / Computer Sciences
+Amit a megbízónk kínál:
+Company offers real challenges, benefits package, good career development possibilities in an international environment, they can offer fun and fully contribute to the success of young, dynamic and competent team members.
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+IT support, Helpdesk
+Rendszergazda
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok
+Nem igényel tapasztalatot
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

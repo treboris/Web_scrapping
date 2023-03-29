@@ -1,0 +1,97 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior .NET/C# Programátor 
+Senior .NET/C# ProgramátorDescartes Systems (Slovakia) s.r.o.
+Miesto práce
+Poštová, Žilina-Vlčince, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 2 700 EUR/mesiacpodľa skúseností,
+vieme ponúknuť konkurencieschopný plat
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiChceš byť aj Ty súčasťou jednej z najväčších spoločností zameraných na logistiku na svete?Descartes poskytuje inovatívne, strategické a transformačné technológie, ktoré vyvíja softvérový vývojový tím pôsobiaci po celom svete. Využívame najmä Microsoft riešenia – Azure Cloud, .net/C#, Visual Studio, Azure DevOps ale aj Amazon Web Services, Oracle, Java, Android, iOS.Hľadáme skúseného .NET (C#) programátora, ktorý bude v spolupráci s medzinárodným tímom pracovať na softvérových aplikáciách s použitím niektorých z nasledovných technológíí v závislosti od projektu: ASP.NET, .NET, MS SQL, MongoDB, Angular, Azure Cloud a podobne. Pri práci používame Visual Studio a Azure DevOps (GIT).Projekt pomáha našim zákazníkom efektívne využívať logistiku.Ponúkame možnosť pracovať z domu a keďže máme kancelárie v Žiline, v Námestove a aj v Ostrave ponuka je otvorená aj pre záujemcov z Čiech.Chceme Ti dať príležitosť využiť všetky Tvoje skúsenosti a efektívne vyvíjať naše riešenia s použitím najnovších technologických postupov a nástrojov.Sme stabilná spoločnosť s produktami, ktoré používajú veľkí zákazníci ako DHL, American Airlines, Maersk či Coca Cola a mnoho ďaľších. U nás máš šancu sa neustále rozvíjať. Zamestnanecké výhody, benefityČo ponúkame?• Príjemné neformálne pracovné prostredie s bezproblémovým parkovaním priamo pri budove• Flexibilná pracovná doba a 7,5 hodinový pracovný čas• Mladý, profesionálny a priateľský pracovný tím• Notebook pre každého zamestnanca a služobný mobilný telefón s možnosťou výberu (1x za dva roky s príspevkom zamestnávateľa)• Skúsenostiam zodpovedajúce a konkurenčné platové ohodnotenie• Príspevky na regeneráciu, bonusy pri pracovných a životných výročiach• Dni voľna a príspevok pri svadbe či narodení dieťaťa• Stravné lístky aj počas čerpania dovolenky• Home office a Sick days• Široké možnosti profesijného vzdelávania – hodiny angličtiny, účasť na školeniach a konferenciách (momentálne online podľa výberu)• Firemné teambuildingové akcie• Zabezpečené občerstvenie na pracovisku – káva, čaj, 1x do týždňa čerstvé ovocie• Visual Studio Subscription pre každého developera s prístupom na Azure Cloud, Pluralsight Informácie o výberovom konaníAk Ťa naša ponuka zaujala, neváhaj a zašli nám svoj životopis.Chceš zvýšiť svoje šance? Napíš nám o sebe viac. Doplň, s akými technológiami si pracoval a ako dlho, príp. na akých zaujímavých projektoch si sa podieľal.Ďakujeme všetkým kandidátom za záujem pracovať pre spoločnosť Descartes Systems (Slovakia), kontaktovaní však budú iba vhodní uchádzači. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiC# - PokročilýPočet rokov praxe4Osobnostné predpoklady a zručnosti znalosť .net/C# (BackEnd alebo FrontEnd) chuť pracovať a vzdelávať sa schopnosť komunikovať v angličtine skúsenosti s Cloudom (Amazon, Azure) sú vítané Inzerujúca spoločnosť Stručná charakteristika spoločnostiDescartes Systems Group je globálnym lídrom v oblasti vývoja softvéru a poskytovania služieb pre logistiku s viac ako 40 ročnou históriou pôsobenia.
+Descartes spája ľudí s technológiami, ktoré hýbu svetom.
+Logistické technológie vyvinuté našou spoločnosťou sú základom riešení, ktoré umožňujú viac ako 24 000 našich zákazníkov zabezpečiť efektívnu dopravu tovaru medzi kontinentami, partnermi alebo pobočkami bez ohľadu na to či sa jedná o dopravu leteckú, námornú, železničnú alebo cestnú.
+Medzi hlavné oblasti, ktorým sa venujeme patria:
+•	Efektívna správa vozového parku - Plánovanie trás, mobilné aplikácie, telematika
+•	Správa dodávateľského reťazca - Správa dopravcov a dopravných zmlúv, plánovanie, optimalizácia a sledovanie zásielok
+•	Colné aplikácie - colné deklarácie, podpora colných skladov
+Firma má celosvetovo vyše 1900 zamestnancov v pobočkách po celom svete (predovšetkým v Severnej Amerike a Európe) a centrálu v meste Waterloo (Kanada).
+Akcie firmy sú obchodované na americkej (NASDAQ) a kanadskej (TSX) burze.
+Našimi zákazníkmi sú aj najväčšie svetové firmy v oblasti logistiky ako napríklad:
+•	DHL, Kuehne-Nagel, Panalpina, Schenker, ... (špedícia)
+•	Delta, American Airlines, Virgin Atlantic, Air Canada, British Airway ,... (letecká doprava)
+•	Maersk, Mol, ... (lodná doprava)
+•	Home Depot, Basf, Coca Cola, Hasbro, SAB Miller, ... (výroba a predaj)
+Pre viac informácií navštívte našu stránku www.descartes.com. Počet zamestnancov100-149 zamestnancov 
+ KontaktKontaktná osoba: Zuzana KotmanováE-mail: poslať životopis
+Všetky ponuky spoločnosti
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4525088 
+     Dátum zverejnenia:  15.3.2023 
+    2023-03-15
+lokalita: Žilina   Pozícia: .NET programátor, C# programátor, Javascript programátor, Programátor, Softvérový inžinier   Spoločnosť: Descartes Systems (Slovakia) s.r.o.   
+Základná zložka mzdy (brutto): 2 700 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

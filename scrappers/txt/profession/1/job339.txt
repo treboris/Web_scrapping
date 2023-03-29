@@ -1,0 +1,114 @@
+Belépésálláskeresőknek
+IT Development
+Tester, Test Engineer
+Budapest
+Következő 
+DevOps Engineer - Networking field (REF222U)
+Deutsche Telekom IT Solutions
+Budapest, Hungary
+ Elvárt technológiák
+DEVOPS
+NETWORK
+CISCO
+JAVA
+JAVASCRIPT
+DOCKER
+SQL
+DATABASE
+VMWARE
+TEST AUTOMATION
+CUCUMBER
+ Módszertanok és szoftverek
+Jira
+Agile
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elvárt technológiák
+DEVOPS
+NETWORK
+CISCO
+JAVA
+JAVASCRIPT
+DOCKER
+SQL
+DATABASE
+VMWARE
+TEST AUTOMATION
+CUCUMBER
+ Módszertanok és szoftverek
+Jira
+Agile
+Deutsche Telekom IT Solutions
+DevOps Engineer - Networking field (REF222U)
+Company DescriptionThe largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Tasks:
+Job DescriptionFull definition, preparation (High and low level lab design), follow-up, validation and documentation of test resultsTest and measuring devices and lab infrastructure requirements and test automation by scriptsUsing of Network Domain Orchestratorrel AutomationGradual involvement in network planning, Review design documents from Planning or Engineering, modify and improve for lab architecture Configuration, customizing, and implementation of customized solutions for projectsAnalysis of functional and technical requirements for software, platforms, and infrastructure Technical support of test projects Maintenance of planning and design documentation Participation in projects for the whole life cycle of the projects Description/Creation/Revision of test cases Automation of test cases Specification of product features environment ( Phython)FTTB, BNG based L2/L3 based mass market and individual products (Skills: Gherkin/Cucumber) 
+Expectation:
+QualificationsSkills (minimum 4 from these):Cisco CCNP exam or equivalent knowledge and relevant experienceJuniper exam or experienceEnglish intermediate levelOpenness to new network technologiesGherkin and Cucumber knowhowPhython, Java , Javascript knowhowBasic knowhow about Test Automation Framework (TAF)Accurate and thorough work, inclination to learn, teamwork Jira, Gitlab, Docker knowhow or relevant experienceCI/CD knowhowJason/ Kubernetes knowhow or relevant experienceSQL database knowhowVmware experience Advantages:Experience in agile methodologyGerman (B2 level) or willingness to learn germanAdditional Information* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Sector(s):
+IT Development
+Tester, Test Engineer
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Deutsche Telekom Systems Solutions Hungary Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+1000+ munkavállaló
+2006
+1097
+Budapest,
+Tóth Kálmán utca 2. B. ép.
+Értékelések a(z) Deutsche Telekom Systems Solutions Hungary Kft. cégről
+3,8
+77 értékelés alapján 
+Értékelések kategória szerint 
+4,3
+Munkaidő és munkarend 
+3,7
+Főnökök 
+4,0
+Munka és magánélet egyensúlya 
+4,0
+Kollégák és céges hangulat 
+4,3
+Megközelíthetőség 
+4,2
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+Támogatják a képzéseket 
+Vállalják a betanítást 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

@@ -1,0 +1,105 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práce.NET Backend developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky.NET Backend developerAsseco Solutions, a.s.
+Miesto práce
+Galvaniho, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 400 EUR/mesiacmzda bude závislá od seniority, skúseností a schopností kandidáta.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiSi developer, ktorý má rád výzvy v nových technológiách, v pretavovaní požiadaviek zákazníkov a produktových manažerov do software, prekonávaní pomyselných limitov?
+Chceš sa stať súčasťou vytvárania pridanej hodnoty pre našich zákazníkov a seba samého? Pomôžeš nám tvoriť naše systémy zamerané na spracovanie veľkého množstva dát, ktoré sú určené na riadenie a vyhodnocovanie stredne veľkých a veľkých firiem.
+Čo budeš u nás robiť?
+Vo veľkej miere budeš vytvárať, rozvíjať a rozširovať systémy, založené na Microservice architecture v najnovších technológiách.
+Budeš analyzovať problémy, rozbiješ ich na hypotézy a navrhneš riešenia. Sám budeš pátrať a loviť chyby, ktoré sú niekedy schované v kóde a inokedy medzi klávesnicou a okolím. Toto všetko budeš robiť bok po boku s vynikajúcimi profesionálmi a mentormi, otvoreným tvojím podnetom, novým veciam a trendom.
+Budeš zodpovedný za:
+-Návrh, vývoj, a riešenie softvéru v rôznych oblastiach zo sveta business a ERP.
+-Spolupráca s ďalšími vývojovými tímami
+-Návrh riešenia microservices vo svete microservice architektúry.
+-Dodržiavanie štandardov agile prostredia pri plánovani, vývoji, testoví a implementácii biznis požiadaviek.
+-Domain driven a test driven chápanie vývoja.
+-Optimalizácia štandardných riešení a automatizácia testovania.
+-Práca s najnovšými technológiami (.NET 6, Azure, Kubernetes, Kafka, …), riešenie komplexných problémov, inovácií a technologických aktualizácií, zamerané na .NET a high tech vývoj.
+-Dokumentácia vývojového dizajnu/návrhu a samotného kódu. Zamestnanecké výhody, benefityflexibilný pracovný čas
+home office
+neustále vzdelávanie
+odmena za odporučenie kolegu
+odmena za odpracované roky
+chill-out v práci
+bezproblémový parking
+príspevok na kultúru a šport
+teambuildingy a firmné športové aktivity Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboretechnické, informačné technológieJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiC# - Pokročilý.NET - PokročilýSQL - PokročilýPočet rokov praxe3Osobnostné predpoklady a zručnosti-C#, .NET pokročilý
+-SQL – pokročilý
+-Zručnosti zamerané na najnovšie technológie, RESTful API, Microservices
+ -Web development skúsenosti sú výhodou
+-AKS skúsenosti výhodou
+-Uprednostňujú sa skúsenosti z práce vo vývojovom prostredí, ktoré využíva metodiku Agile / Scrum Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme [:soft}férová nadnárodná spoločnosť. 
+Špecializujeme sa na vývoj a dodávku komplexných informačných systémov. 
+V ERP sme trojka na trhu, v segmente HORECA jednotka. 
+Sme tu 30 rokov. A budeme tu ešte dlho. Počet zamestnancov150-199 zamestnancov 
+ID: 4528477 
+     Dátum zverejnenia:  28.2.2023 
+    2023-02-28
+lokalita: Bratislava   Pozícia: .NET programátor, C# programátor, Programátor   Spoločnosť: Asseco Solutions, a.s.   
+Základná zložka mzdy (brutto): 2 400 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

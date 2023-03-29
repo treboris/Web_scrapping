@@ -1,0 +1,108 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Következő 
+Experienced/Senior Data Engineer (REF1603Y)
+Deutsche Telekom IT Solutions
+Budapest, Debrecen, Pécs, Szeged, Hungary
+ Elvárt technológiák
+SPARK
+AZURE
+AWS
+DEVOPS
+GIT
+JAVA
+PYTHON
+ Módszertanok és szoftverek
+Agilis
+Git
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elvárt technológiák
+SPARK
+AZURE
+AWS
+DEVOPS
+GIT
+JAVA
+PYTHON
+ Módszertanok és szoftverek
+Agilis
+Git
+Deutsche Telekom IT Solutions
+Experienced/Senior Data Engineer (REF1603Y)
+A cég leírása A Deutsche Telekom IT Solutions (korábban IT Services Hungary, ITSH) Magyarország legnagyobb IKT-munkaadója, a Deutsche Telekom Csoport tagja. A 2006-ban alakult, több mint 5000 fős cég az informatikai és telekommunikációs szolgáltatások széles körét nyújtja. A vállalat 2019-ben elnyerte a Nemzeti Befektetési Ügynökség (HIPA) legjobb oktatási együttműködésért járó díját, a PwC Magyarország független felmérése alapján a legvonzóbb magyarországi munkahelyek közé tartozik, és a legetikusabb multinacionális vállalat címét is megkapta. A cég folyamatosan fejleszti négy – budapesti, debreceni, pécsi és szegedi – telephelyét, és várja képzett informatikai szakemberek jelentkezését a csapatába.
+Feladatok:
+Az állás leírása Tegnaptól keresünk egy tapasztalt Data Engineert, aki a nagy adatmennyiségek hatékony feldolgozásában érzi otthon magát!Ha már bizonyítottál korszerü Data Plattformokon, néhéz kihívásokkal is megbírkoztál SPARK-ban és tovább szeretnél fejlődni új technológiákban egy nemzetközi Projekten, akkor beszéljünk egymással. A Projekteinkben a Data Engineer pozicióban agilis módszertan alapján egy nemzetközi Projektcsapatban széleskörü feladatok várnak rád:Data Pipeline-ok fejlesztése.Job Monitoring.Adatminőség ellenőrzéseHibaanalizis, hibás transformációk javitásaTámogatás architekturális döntésekben
+Elvárások:
+Képzettség Tapasztalat Big Data fejlesztés területén (Min. 3 év).Tapasztalat min. egy Hyperscaler-Platformon (pl. Azure, AWS vagy GCP)Spark keretrendszer alapos ismereteKorszerü fájlformátumok ismerete (pl. ORC, AVRO, Parquet / Delta-Parquet)Tapasztalat CI/CD ezközökkel előnyös (pl. Azure DevOps, Git)Tapasztalat IAC ezközökkel előnyös (pl. Pulumi, Terraform)Java vagy Scala vagy Python ismeretangol vagy német nyelvtudásügyfél- és minőségorientált munkavégzés További információk    * Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Adatbázisszakértő
+Üzleti támogató központok
+Informatikai támogatás
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Deutsche Telekom Systems Solutions Hungary Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+1000+ munkavállaló
+2006
+1097
+Budapest,
+Tóth Kálmán utca 2. B. ép.
+Értékelések a(z) Deutsche Telekom Systems Solutions Hungary Kft. cégről
+3,8
+77 értékelés alapján 
+Értékelések kategória szerint 
+4,3
+Munkaidő és munkarend 
+3,7
+Főnökök 
+4,0
+Munka és magánélet egyensúlya 
+4,0
+Kollégák és céges hangulat 
+4,3
+Megközelíthetőség 
+4,2
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+Támogatják a képzéseket 
+Vállalják a betanítást 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

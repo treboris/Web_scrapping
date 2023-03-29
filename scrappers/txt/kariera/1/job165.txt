@@ -1,0 +1,76 @@
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+DomovVytvor si CVPonuky mailomPrihlásiť
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+Späť na pracovné ponuky
+Senior/Lead Software Engineer
+			EPAM Systems s.r.o.			
+ Miesto práce: 
+Bratislava
+Ponúkaný plat (základná mzda):
+4400 EUR
+Zobraziť viac
+ Druh pracovného pomeru: 
+ plný úväzok 
+Informácie o pracovnom mieste
+ 2512002 - Softvérový architekt, dizajnérPracovná oblasť: IT a telekomunikáciePočet voľných miest: 1Náplň práce: Navrhovanie, kódovanie, testovanie, nasadenie a podpora riešení, ktoré sú v súlade s požiadavkami/podmienkami zákazníka. • Zodpovednosť za vývoj a včasnú dostupnosť nových vlastností a funkcií, ako aj vylepšení, základných systémov. • Komunikácia so zúčastnenými stranami v rámci pochopenia problémov/spätnej väzby a ich zakomponovanie do vývoja riešení. • Poskytnutie telefonickej podpory, ak je potrebná. • Udržanie kroku s novými technológiami, metodológiami a technikami a snaha o zlepšenie odborných znalostí. • Účasť na ostatných činnostiach súvisiacich s projektom, podľa pokynov jeho/jej priameho vedúceho. 
+ Informácie pre uchádzača: 
+	Pracovný a mimopracovný pomer: Pracovný pomer na neurčitý časNočná práca: NieSezónna práca: NieZákladná zložka mzdy v eurách (v hrubom):  4 400  € mesačne Druh voľnej pracovnej pozície: Voľné pracovné miesto v podnikateľskej sféreZdroj: Pracovná ponuka je prevzatá zo stránky Úradov práce. 
+ Všeobecne požadované znalosti: 
+ Požadovaný stupeň vzdelania:  Vysokoškolské vzdelanie prvého stupňa Prax: aspoň 5 rokovZnalosť slovenského jazyka je nevyhnutná:  Nie Cudzí jazyk:   anglický   vysoká – vysoká C1 a C2 Počítačové zručnosti:  Java 11-17  
+- 
+ Java 11-17   Kotlin/Scala  
+- 
+ Kotlin/Scala   JavaScript/Python  
+- 
+ JavaScript/Python   Spring stack  
+- 
+ Spring stack   Docker  
+- 
+ Docker   Kubernetes 
+- 
+ Kubernetes  Cloud: AWS  
+- 
+ Cloud: AWS   Azure  
+- 
+ Azure   GCP  
+- 
+ GCP   Kafka 
+- 
+ Kafka  AKKA CI/CD experience (Jenkins, TeamCity, Ansible, Chef, Terraform)  
+- 
+ AKKA CI/CD experience (Jenkins, TeamCity, Ansible, Chef, Terraform)  Vodičské oprávnenie:  Skupina   B Všeobecné spôsobilosti:  analyzovanie a riešenie problémov  komunikácia (jednanie s ľuďmi)  komunikácia v cudzom jazyku  organizovanie a plánovanie práce  vedenie ľudí Osobnostné predpoklady:  analytické myslenie  komunikatívnosť  pozornosť  spoľahlivosť  technický talent  
+Požiadavky na zamestnanca
+ Vhodné pre absolventov: 
+						Nie
+Informácie o spoločnosti
+ Kontaktné údaje: 
+ EPAM Systems s.r.o. 
+Reaguj na ponukuZdieľajDaj vedieť firme, že sa ti ponuka páči
+ Pozícia / odvetvie: 
+Telekomunikácie / Softvérový inžinier
+ Dátum zverejnenia: 27.02.2023		
+Iné možnosti práceTelekomunikácie BratislavaSoftvérový inžinier BratislavaBratislava plný úväzok
+Podobné pracovné ponuky
+Špecialista sieťovej bezpečnosti (Ref. č.: 131-16-41820)
+Grafton Slovakia s.r.o.
+Network Security Consultant – Check Point, F5 - TPP/freelance (Ref. č.: 1-15-40955)
+Grafton Slovakia s.r.o.
+IT Administrátor|BA (Ref. č.: 1-16-41639)
+Grafton Slovakia s.r.o.
+IT projektový manažér (Ref. č.: 1-15-41603)
+Grafton Slovakia s.r.o.
+SLA Manager (Ref. č.: 1-15-41602)
+Grafton Slovakia s.r.o.
+Kariéra Magazín
+Kariéra EXPO
+Kariéra Podcast
+Kariéra Raňajky
+Sleduj nás
+O násCenník služiebZoznam pozíciíObchodné podmienkyPodmienky spracovania osobných údajovKalkulačka mzdyKariérne poradenstvoTlačové správyNapíšte nám Cookies
+Nastavenie súkromia
+skenua 
+			© 2023 Zoznam, s.r.o. Všetky práva vyhradené.

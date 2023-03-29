@@ -1,0 +1,76 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Budapest
+Következő 
+Aws cloud migration enginner (JD)
+Tech People Hungary Kft.
+Budapest, XI. district 
+ Elvárt technológiák
+AWS
+CLOUD
+CLOUD.
+NETWORK
+DATABASE
+POWERSHELL
+BASH
+PYTHON
+ Módszertanok és szoftverek
+Agile
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Középiskola
+ Elvárt technológiák
+AWS
+CLOUD
+CLOUD.
+NETWORK
+DATABASE
+POWERSHELL
+BASH
+PYTHON
+ Módszertanok és szoftverek
+Agile
+Tech People is a European provider of technical skills permanent recruitment and temporary contracting services for multiple industries.
+Currently we are looking for
+AWS CLOUD MIGRATION ENGINEER (JD)
+Location: Budapest, IX district (partly home office)
+Salary: competitive
+Type of employment: employee
+TASKS:
+As the AWS Migration Engineer, you will be executing the migration & transformation strategy for our customers as part of an agile migration team, headed by the AWS Migration Architect. Among your main responsibilities will be performing migrations from On-Premises Cloud and Cloud to Cloud, utilizing the most efficient tools available. You will be also consulted for relevant documentation, defining, and improving migration plans and processes, performing landscape deployments (both manual and automated) and validations. You will be part of an international team, where you’ll be managing tasks and working closely together with the Architect for Migration teams during the migrations.Perform various migrations between Clouds or from premises to Cloud based on customers’ requirements and needs, focusing on AWSOptimize all onboarding scenarios for customers on public cloud together with 3rd party products for migrationWork in highly dynamic, international environment and with customer representatives in the team, while serving as the technology expertCollaborate with T-systems partners such as AWS and othersDirectly communicate with end customers to discuss possibilities of migration, transformation, and their optimal designs
+QUALIFICATIONS:
+We are looking for someone with an entrepreneurial spirit who is keen to make a positive impact for our customers. You are a team player always ready to learn technologies and ready to support enterprises to adopt public cloud. In addition, you ideally bring the following with you:2+ years of relevant work experience on AWS with basic certificationUnderstanding of migration concepts and migration tooling (the ex. AWS Application Migration Service, etc.)  Understanding of Infrastructure as Code and automation possibilities (ex. Terraform)Experience in Continuous Deployment tools and Version control tools (GitLab)Very high motivation and the ability to thrive in a dynamic environmentGeneral ICT skills (Network, OS, Storage, Database etc.)Basic Scripting & Coding knowledge (PowerShell, Bash, Python)Some experience with Agile tooling and processes
+Sector(s):
+IT Development
+Programmer, Developer
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

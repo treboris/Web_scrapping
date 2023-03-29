@@ -1,0 +1,129 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceCloud Migration Engineer - Oracle 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Open Positions
+Company
+Education Programs
+Benefits
+Cloud Migration Engineer - OracleDeutsche Telekom IT Solutions Slovakia
+                                Place of work
+                            Košice, Slovakia (Job with occasional home office)
+                                Contract type
+                            full-time
+                                Wage (gross)
+From 2 600 EUR/monthFinal salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2600 € /brutto.
+Information about the position Job description, responsibilities and dutiesPurpose
+Senior DevOps Engineer is responsible for entire lifecycle of Continuous Integration/Continuous Deployment pipelines and Infrastructure as Code approaches. Takes account and defines automated configuration management, release management, build, test and deployment activities. Provides prototypes and concepts for further automation of assigned technology.
+Key accountabilities
+•	As the Cloud Migration Engineer, you will be executing the migration & transformation strategy for our customers as part of an agile migration team, headed by the Migration Architect. Among your main responsibilities will be performing migrations from On-Premises > Cloud and Cloud > Cloud (Azure, AWS, GCP, vmWare), utilizing the most efficient tools available.
+•	You will be also creating relevant documentation, defining and improving migration plans and processes, performing landscape deployments (both manual and automated) and validations.
+•	You will be part of an international team, where you’ll be coordinating tasks and teams during the migrations.
+•	Perform various migrations between Clouds or from premises to Cloud based on customers’ requirements and needs, focusing on Azure, AWS, GCP, vmWare
+•	Create, define and improve processes and plans related to migration
+•	Optimize all onboarding scenarios for customers on private & public cloud together with 3rd party products for migration
+•	Work in highly dynamic, international environment and with customer representatives in the team, while serving as the technology expert
+•	Collaborate with T-systems partners such as Microsoft. Amazon and others
+•	 Participate in the roadmap implementation and feedback to the product team
+•	Directly communicate with end customers to discuss possibilities of migration, transformation and their optimal designs;
+•	Analysis of current setup and following that, definition of requirements
+•	Oracle DB design/configuration on GCP (VM) incl. HA and DR setups
+•	Oracle DB migration strategies and approaches
+•	Oracle migration solution design on GCP (VM)
+•	Migration support and troubleshooting additionally, but not must-have transformation Oracle DB to GCP PaaS services Wage (gross)From 2 600 EUR/monthFinal salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2600 € /brutto.  Employee perks, benefits
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work – life balance
+Other benefits *
+        For more information about our benefits click to Benefits
+Benefits with * are applicable also to part-time positions.This information may be subject to changes and other internal rules. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)Language skillsEnglish - Upper intermediate (B2)Number of years of experience2Personality requirements and skillsExperience
+•	2+ years of relevant work experience with public cloud technologies (preferably GCP)
+IT Technical Skills
+•	Oracle - Expert
+•	GCP - Basics 
+•	Understanding of migration concepts and migration tooling
+•	Understanding of Infrastructure as Code and automation possibilities (Terraform, ARM templates, Ansible, SaltStack)
+•	Some experience with Agile tooling and processes (Jira, Kanban, Scrum methodology)
+•	Scripting (Bash, Python) - Expert
+•	Ansible / Terraform / Puppet - Advanced
+Soft skills
+•	Communication skills
+•	Analytical thinking
+•	Team cooperation
+•	Presentation skills
+Other Skills
+•	Agile Methodology
+Languages
+•	English - Upper intermediate (B2)
+•	German (Advantage) Advertiser Brief description of the companyOur brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services. Number of employees1000 and more employees ContactContact person: Ing.  Lívia TomečkováE-mail: send CV
+Apply Online
+                        Deutsche Telekom IT Solutions Slovakia
+                        Žriedlová 13, 040 01 Košice
+www.deutschetelekomitsolutions.sk
+055/7853566
+ID: 4528711 
+     Dátum zverejnenia:  28.2.2023 
+    2023-02-28
+lokalita: Košice   Pozícia: Oracle Programmer   Spoločnosť: Deutsche Telekom IT Solutions Slovakia   
+Základná zložka mzdy (brutto): 2 600 EUR/month
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -14,11 +14,11 @@ import os
 options = Options()
 options.headless = True
 driver = webdriver.Firefox(options = options)
-initial = 0
+initial = 1
 text = ''
 
 
-data = pd.read_csv('../data/stepstone0.csv')
+data = pd.read_csv(f'../data/stepstone/stepstone{initial}.csv')
 data_size = (data['ID'].size) -1
 href = data['Href'].to_list()
 
@@ -46,7 +46,7 @@ def scrape():
 
 
 
-for x in tqdm(range(0,data_size)):
+for x in tqdm(range(132,data_size)):
     conn(href[x])
     full_page = scrape()
 
@@ -63,4 +63,4 @@ for x in tqdm(range(0,data_size)):
         fil.write(text)
     text = ""
     os.remove(f"../txt/stepstone/{initial}/temp.txt")
-print("--- %s seconds ---" % (time.time() - start_time))
+print('\a')

@@ -1,0 +1,70 @@
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+DomovVytvor si CVPonuky mailomPrihlásiť
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+Späť na pracovné ponuky
+Senior Data Architect
+			HighChem s.r.o.			
+ Miesto práce: 
+Bratislava
+Ponúkaný plat (základná mzda):
+3000 EUR
+Zobraziť viac
+ Druh pracovného pomeru: 
+ plný úväzok 
+Informácie o pracovnom mieste
+ 2512002 - Softvérový architekt, dizajnérPracovná oblasť: IT a telekomunikáciePočet voľných miest: 3Náplň práce: •	Lead specification, design, and implementation of distributed data systems•	Recommend solutions to improve new and existing data systems•	Model Cost/Benefit and create compelling business cases for migration•	Create high-level product specifications and design documents•	Provide development teams with architectural blueprints to follow•	Share business and technical learnings with the broader engineering and product organization, while adapting approach for different audiences•	Confidently and professionally present and defend recommended solution, approach, timeline•	Identify opportunities for different or new technologies techniques and evaluate which are best•	Stay up to date with new technologies and determine how to incorporate these into future platform capabilities•	Build strong relationships with cross-functional team members and business stakeholders•	Work collaboratively across the Technology, UX, and Product organizations to ensure alignment towards business goals 
+ Informácie pre uchádzača: 
+	Pracovný a mimopracovný pomer: Pracovný pomer na neurčitý časPracovný čas:  08:00  -  16:30 Zmennosť:  jednozmenná Nočná práca: NieSezónna práca: NieZákladná zložka mzdy v eurách (v hrubom):  3 000  € mesačne Druh voľnej pracovnej pozície: Voľné pracovné miesto v podnikateľskej sféreZdroj: Pracovná ponuka je prevzatá zo stránky Úradov práce. 
+ Všeobecne požadované znalosti: 
+ Požadovaný stupeň vzdelania:  Vyššie odborné vzdelanie  Vysokoškolské vzdelanie prvého stupňa  Vysokoškolské vzdelanie druhého stupňa Prax: 6 alebo viac rokovZnalosť slovenského jazyka je nevyhnutná:  Nie Cudzí jazyk:   anglický   stredná - pokročilá B1 a B2 Všeobecné spôsobilosti:  analyzovanie a riešenie problémov Osobnostné predpoklady:  analytické myslenie Ďalšie požiadavky•	10+ years in Data Architecture role
+•	Demonstrated ability to think strategically about business, product, and technical challenges
+•	Demonstrated experience with SQL, NoSQL, RDF, Graph databases and database management systems
+•	Demonstrated experience with Distributed Data Architectures
+•	Experience with large-scale consumer-facing production software and cloud deployment strategies.
+•	Experience with Data Warehouse, Data Lake architecture, design and solutions
+•	Experience with Hadoop ecosystem: HDFS, Hive, Thrift
+•	Experience in Machine Learning, Statistical approaches and large-scale data processing technologies such as Apache spark
+•	Proven Experience with AWS, integrating and distributing data environments with the Cloud
+•	Proficiency with .NET and C#
+•	Deep understanding of data API design, including versioning, isolation and micro-services. Experience developing REST and GraphQL APIs
+•	Experience designing and documenting internal and external (commercial) data APIs using API documentation frameworks (e.g. Apiary, Swagger)
+•	Experience collaborating with cross functional teams
+•	Proven experience with software development life cycle (SDLC) and agile/iterative methodologies
+We will be excited if you also have:
+•	Life Science experience preferred, but not required
+•	BS degree in software engineering or related field with Master preferred 
+Požiadavky na zamestnanca
+ Vhodné pre absolventov: 
+						Nie
+Informácie o spoločnosti
+ Kontaktné údaje: 
+ HighChem s.r.o. 
+Reaguj na ponukuZdieľajDaj vedieť firme, že sa ti ponuka páči
+ Pozícia / odvetvie: 
+Telekomunikácie / Softvérový inžinier
+ Dátum zverejnenia: 21.02.2023		
+Iné možnosti práceTelekomunikácie BratislavaSoftvérový inžinier BratislavaBratislava plný úväzok
+Podobné pracovné ponuky
+Compliance Engineer (Ref. č.: 131-15-42008)
+Grafton Slovakia s.r.o.
+IT Architect (Ref. č.: 1-16-41598)
+Grafton Slovakia s.r.o.
+App IT Tester|REMOTE|aj ABSOLVENTI (Ref. č.: 1-16-41605)
+Grafton Slovakia s.r.o.
+IT test konzultant s nemeckým jazykom (Ref. č.: 1-16-41366)
+Grafton Slovakia s.r.o.
+Java Expert- TPP/živnosť & REMOTE (Ref. č.: 1-16-41375)
+Grafton Slovakia s.r.o.
+Kariéra Magazín
+Kariéra EXPO
+Kariéra Podcast
+Kariéra Raňajky
+Sleduj nás
+O násCenník služiebZoznam pozíciíObchodné podmienkyPodmienky spracovania osobných údajovKalkulačka mzdyKariérne poradenstvoTlačové správyNapíšte nám Cookies
+Nastavenie súkromia
+skenua 
+			© 2023 Zoznam, s.r.o. Všetky práva vyhradené.

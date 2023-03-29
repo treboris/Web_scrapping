@@ -1,0 +1,158 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePHP Backend vývojár/ka v e-commerce 
+PHP Backend vývojár/ka v e-commerceBlueweb s.r.o.
+Miesto práce
+Blueweb s.r.o., M. R. Štefánika, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ihneď, dohodou
+Mzdové podmienky (brutto)
+Od 1 800 EUR/mesiacod 1800 EUR medior, od 2500 EUR senior + pravidelné prehodnocovanie a odmeny na základe výsledkov firmy
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme backend vývojára/vývojárku, ktorý ovláda PHP, MySQL a niektorý z MVC/MVP frameworkov. Ak ešte neovládaš, naučíme ťa aj mnoho ďalších technológií - napr. Redis, Elasticsearch, RabbitMQ či Docker, ktoré pri práci bežne používame.
+Budeš pracovať na konkrétnych projektoch našich dlhodobých klientov ako je GATE, Isadore, Klenoty Aurum, Namaximum či Pneusvet (a mnoho ďalších) a okrem klientskej práce budeš prispievať k rozvoju nášho popredného e-commerce systému Venalio. Zároveň na svojej pozícii budeš mať možnosť tvoriť úplne nové projekty, v ktorých si prejdeš celým procesom návrhu e-shopu, od výskumu, realizáciu až po spustenie, správu a ďalší vývoj.
+Súčasťou tejto pozície sú tiež pravidelné tímové porady celého backend tímu, na ktorých diskutujeme o novinkách, zdieľame svoje know how či riešime prekážky. Takto vieme posúvať backend efektívne stále vpred. Zamestnanecké výhody, benefityČo získaš?
+✅ vlastný stroj (Macbook) a budget na hardvér (monitor, sluchadlá...)
+✅ priestor na presadzovanie svojich nápadov - u nás môžeš byť reálne súčasťou zmien a vylepšení
+✅ stabilnú pozíciu s možnosťou rastu
+✅ rozlet - po čase si sám môžeš vybrať, čo ťa viac baví, k čomu inklinuješ
+✅ veľký priestor na učenie sa
+✅ dobrý kolektív – snažíme sa, aby to tu fungovalo v dobrej a otvorenej atmosfére
+✅ kamošov, nie len kolegov
+✅ možnosť HO - viac menej kedykoľvek potrebuješ, ale sme radi, keď sa občas vidíme a pokecáme zoči-voči
+✅ spoločné obedy
+✅ pravidelné teambuildingy
+✅ pekný modrý office a chillovňu s vynikajúcou kávou z pákového kávovaru
+✅ prakticky neobmedzené možnosti na vzdelávanie:
+          ● môžeš si vypýtať kurz, knihu, školenie, skrátka čokoľvek, čo si myslíš, že ťa može profesne/ľudsky posunúť
+          ● Gallup CliftonStrengths
+          ● samozrejme interné zdieľanie vedomostí
+S kým budeš pracovať:
+● aktívne budeš komunikovať priamo s našimi klientami
+● takisto budeš spolupracovať s frontend tímom pri skĺbení backendu a frontendu na projektoch
+● konzultovať budeš s ostatnými členmi tímu (projekťáci, vývojári, UX, dizajnéri), ale aj s externými dodávateľmi (správcami serverov, inými firmami, špecialistami)
+● a do kontaktu prídeš určite aj s markeťákmi či obchodom. Informácie o výberovom konaníČo by si nám mal poslať spolu s CV?
+✅ krátke intro o sebe a prečo by si s nami chcel pracovať
+✅ pošli aj odkazy na svoje práce, github link, linkedin profil, či referencie, prípadne aspoň zbežne popíš, na akých projektoch si pracoval a čo si tam riešil
+Čo bude nasledovať, keď nás kontaktuješ?
+✅ mrkneme sa na podklady, ktoré si nám poslal a následne ťa budeme informovať, či ťa pozveme na pohovor alebo nie (budeme sa snažiť dať ti vedieť aj v prípade negatívnej odpovede)
+✅ následne si dohodneme pohovor, kde v užšom kruhu pokecáme o tvojich skúsenostiach... ty sa môžeš pýtať nás a my sa budeme pýtať teba tak, aby sme si o sebe spravili lepší obrázok
+✅ ak všetko klapne a povieme si, že to spolu skúsime, doladíme technické detaily a už si náš Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské bez maturity
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaOstatné znalostiPHP - PokročilýPočet rokov praxe2Pozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnostiAko správny „backenďák“ by si mal:
+● písať kvalitný a udržateľný OOP kód + dodržiavať DRY princíp
+● vedieť navrhovať nové riešenia nielen pre klientov, ale aj pre naše procesy
+● učiť sa rýchlo, inovovať, skúšať nové veci, mať drive a chuť napredovať
+● samozrejme myslieť analyticky 
+Ako si ťa predstavujeme:
+● zodpovedný, organizovaný, cieľavedomý
+komunikatívny, resp. vieš dobre komunikovať svoje myšlienky
+● otvorený a priateľský
+● vieš prijať kritiku a nie si prehnane tvrdohlavý
+● máš skutočne rád svoju prácu, nechodíš si to tu len odklepkať, ale tvoríš spoločne s tímom reálnu hodnotu pre klientov
+● vieš povedať svoj názor, nie sme neomylní a chceme vedieť, keď sa ti niečo nepáči
+● si empatický, vieš sa vcítiť do kože používateľov (aj kolegov)
+● si dobrý človek
+Aké nástroje používame, resp. čo by si mohol ovládať:
+● PHP programovací jazyk (aktuálne pracujeme s PHP 7.4, čoskoro prejdeme na PHP 8.1 a 8.2)
+● niektorý MVC/MVP framework, my používame Nette
+● základy HTML a CSS (ak poznáš aj TailwindCSS si náš človek)
+● MySQL, príp. prácu s databázami (používame MariaDB 10)
+●niektorý z VCS, ideálne Git
+●Výhodou môže byť:
+          ● Rest API
+          ● JavaScript
+          ● Elasticsearch + Kibana
+          ● Redis
+          ● RabbitMQ
+          ● ovládanie UNIX príkazov (práca v Termináli)
+Okrem toho (Žiadny z týchto nástrojov však nemusíš ovládať. Všetky ti radi ukážeme a vysvetlíme):
+● kód píšeme v PhpStorm a balíky inštalujeme cez Composerrm
+● lokálny vývoj robíme vo vlastných Docker kontajneroch naštartovaných na one-click
+● verzujeme v Gite a kód máme uložený na GitLab-e
+● používame feature branch workflow
+● testujeme pomocou Codeception a PHPUnit
+● pred nasadením kódu si navzájom robíme code reviews v merge requestoch
+● aplikácie za nás nasadzuje automatizované CI/CD v GitLab-e
+● stav aplikácií nám monitoruje NewRelic
+● na našich serveroch máme 500 CPU jadier a 1960 GiB RAM
+● používame Notion na poznámky, wiki a plánovanie väčších projektov
+● na dennú komunikáciu s tímom používame Slack
+● máme vlastný interný systém Orchestra, kde komunikujeme s klientami, plánujeme prácu, riešime tasky atď.
+„Buddy"
+Žiadny strach! Možno sa ti zdá, že je toho príliš, aj si sa trochu stratil a možno si si nie úplne istý, či všetko z toho dokážeš hneď na prvýkrát riešiť. My sme tu na to, aby sme ti pomohli, ako sa len bude dať. Vždy budeš mať po ruke niekoho, na koho sa môžeš obrátiť, keď si nebudeš istý.
+Tvoj „buddy“ na najbližšie obdobie môže byť Miňo, Mário, Lukáš, Dávid, Patrik či Kosťo - podľa toho, na ktorom projekte budeš pracovať. Inzerujúca spoločnosť Stručná charakteristika spoločnostiŽilinskí e-commerce tvorcovia Blueweb. Momentálne nás je 20 a tvoríme úspešné e-commerce projekty prevažne pre slovenské značky, ktoré sú celosvetovo úspešné. Medzi našich klientov patrí GATE, Isadore, Klenoty Aurum, Namaximum či Pneusvet. Spolupracujeme dlhodobo a s klientami máme dobré vzťahy. Okrem vývoja riešime aj návrh nových e-shopov a optimalizáciu existujúcich projektov a nebojíme sa vyvíjať okrem e-shopov aj interné alebo iné e-commerce aplikácie.
+Ak chceš o nás, našej práci a firemnej kultúre zistiť viac, určite sa pozri na:
+● Instagram: https://www.instagram.com/bluewebsk/
+● Cocuma profil: https://www.cocuma.sk/company/blueweb/
+● Náš blog: https://www.blueweb.sk/blog KontaktKontaktná osoba: Kristína GardianováE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4512747 
+     Dátum zverejnenia:  6.3.2023 
+    2023-03-06
+lokalita: Žilina   Pozícia: PHP programátor   Spoločnosť: Blueweb s.r.o.   
+Základná zložka mzdy (brutto): 1 800 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

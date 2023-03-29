@@ -1,0 +1,100 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceIOS Developer - práca s najnovšími technológiami 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyIOS Developer - práca s najnovšími technológiamiTRIGON Consulting s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP/Dohodou
+Mzdové podmienky (brutto)
+3 200 EUR/mesiacKonečná výška mzdy závisí od Vašich skúseností a zručností, je predmetom dohody.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiPre nášho klienta hľadáme kľúčového člena agilného tímu na pozíciu iOS Developer. Budete technickým vlastníkom novej aplikácie pre klientov v oblasti manažmentu zdravia určenej pre zahraničný trh. 
+Naším klientom je rozrastajúca sa slovenská IT spoločnosť, ktorá pôsobí na IT trhu od roku 2000 ako dodávateľ spoľahlivých riešení informačných systémov založených na najmodernejších technológiách. Spoločnosť momentálne rozbieha zaujímavý dlhodobý projekt pre finančný sektor a zdravotnícky sektor.
+Na tejto pozícii si vieme predstaviť skúseného developera, ktorý vie aktívne spolupracovať so svojim tímom, ale rovnako aj pracovať samostatne a systematicky. Technológie, s ktorými sa na tejto pozícii stretnete, sú napríklad: Swift, XCode a Objective-C, SQLLite/CoreData, Realm, Firebase realtime DB, unit testy a iné.
+Náplňou práce na tejto pozícii je: 
+- definovanie architektúry,
+- usmerňovanie, spolupráca s tímom - externý, interný,
+- budovanie vlastného interného tímu,
+- podieľanie na vývoji natívnej aplikácie,
+- návrh UI komponentov a služieb,
+- integrácie na third-party APIs (zdravotné systémy, zdravotnícke api a služby v rámci celého sveta, backend),
+- vývoj produktov a služieb.
+Klient Vám vie poskytnúť prácu s najnovšími technológiami a priestor na Váš osobný, ale aj profesionálny rozvoj. Máte príležitosť priložiť ruku k dielu a pracovať v tíme profesionálov na veľmi zaujímavom projekte v oblasti zdravotníctva. Zamestnanecké výhody, benefity- motivujúce finančné ohodnotenie,
+- podpora kolektívu profesionálov vo svojom odbore,
+- flexibilný pracovný čas,
+- možnosť home-office (60%), 
+- príjemné moderné priestory,
+- práca na zaujímavom projekte svetového charakteru, 
+- vzdelávania, workshopy, podpora rozvoja. Informácie o výberovom konaníĎakujeme Vám za zaslanie Vášho životopisu. Všetky životopisy starostlivo posudzujeme. Výberový proces pozostáva minimálne z 2 kôl, pričom 2.kolo je realizované u nášho klienta. Vyrozumenie o výsledku výberového konania po jeho ukončení dostane každý uchádzač.Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieTúto pracovnú pozíciu obsadzujeme pre úspešnú slovenskú spoločnosť, ktorá pôsobí na IT trhu od roku 2000 ako dodávateľ spoľahlivých riešení informačných systémov založených na najmodernejších technológiách. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Osobnostné predpoklady a zručnostiIdeálny kandidát má:
+- skúsenosti s iOS developmentom,
+- skúsenosti s: Swift, XCode, Objective-C,
+- ukladanie dát: SQLLite/CoreData, Realm, Firebase,
+- skúsenosti s písaním Unit testov, 
+- skúsenosť s integráciami: URLSession, SOAP, Rest, JSON, Async,
+- nasadzovanie aplikácii do store. Inzerujúca spoločnosť Stručná charakteristika spoločnostiTRIGON Consulting s.r.o. je personálno-poradenská agentúra, ktorá pôsobí na slovenskom trhu už viac ako 15 rokov. Poskytujeme prvotriedne poradenské riešenia a služby pre spoločnosti najmä v oblasti vyhľadávania a výberu zamestnancov. Dokážeme spojiť kvalitných ľudí s kvalitnými firmami a pomáhame vytvárať dlhodobé partnerstvá. Sme tím profesionálov s ľudským prístupom a otvorenou komunikáciou. Spokojný klient je našim cieľom a vizitkou.
+Pre viac informácií kliknite na: https://www.trigon-consulting.sk/o_nas/ Počet zamestnancov5-9 zamestnancov 
+ID: 4464862 
+     Dátum zverejnenia:  27.2.2023 
+    2023-02-27
+lokalita: Bratislava   Pozícia: Backend programátor, Frontend programátor, iOS programátor, Programátor, Softvérový inžinier   Spoločnosť: TRIGON Consulting s.r.o.   
+Základná zložka mzdy (brutto): 3 200 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

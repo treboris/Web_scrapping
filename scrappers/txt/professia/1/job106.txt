@@ -1,0 +1,88 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceHľadáme Java developera s potenciálom stať sa Tímlídrom!  
+Pretvárame informačné technológiena úžitok pre zákazníkov
+O nás
+Prečo my
+Pracovné ponuky
+Hľadáme Java developera s potenciálom stať sa Tímlídrom! 
+                                Miesto práce
+                            Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Mzdové podmienky (brutto)
+Od 2 900 EUR/mesiac(v závislosti od predchádzajúcich skúseností kandidáta)
+                                Termín nástupu
+                            ASAP
+                                Druh pracovného pomeru
+                            plný úväzok, živnosť
+Tvoja príležitosťO nástupe nového člena tímu sa rozhodujeme v 2 krokoch:1. Zistíme mieru našej spoločnej kompatibility (hodnoty, zmýšľanie, očakávania z oboch strán)2. Ak sa zhodneme na pokračovaní dostaneš na vypracovanie test, ktorý overí tvoje technické schopnosti. Zároveň budeš vytvárať review modelového kódu za účasti Technical Leada, s ktorým si spoločne tento code review prejdete.Keď aj po tomto kroku spoločne zhodnotíme, že nám to dáva zmysel odchádzaš, s ponukou nad ktorou si isto nebudeš dlho lámať hlavu :)Čo budeš robiťDo nášho tímu hľadáme skúseného Java developera s potenciálom stať sa Tímlíderom, ktorý je ochotný prispieť svojimi skúsenosťami, ale na druhej strane aj posunúť seba vpred na našich projektoch. Podľa preferencie, budeš buď súčasťou projektu Rozpočtového informačného systému (RIS), pričom okolo seba budeš mať zanietených zákazníkov, spokojných používateľov, ale predovšetkým skvelý realizačný tím. Alebo budeš pracovať na projekte pre zákazníka v oblasti energetiky, kde aj s tvojou pomocou budeme dodávať komplexný systém na platforme overeného existujúceho riešenia workforce management systému využívaného v 9 krajinách, ktorý každomesačne spracuje cca 400 000 výkonov.Tvojou úlohou bude: Programovať komplexné webové aplikácie s dôrazom na znovupoužiteľnosť, robustnosť a udržateľnosť Pripravovať low-level dizajn aj spolupracovať na tvorbe architektúry Tvoriť/udržiavať technickú a softvérovú špecifikáciu Navrhovať riešenia úloh s prihliadnutím na dizajn to cost princípy a maximalizáciu úžitkovej hodnoty Ako Tímlíder budeš: Viesť a osobnostne rozvíjať tím ľudí, s ktorými budeš dielo dodávať Učiť svoj tím ako preberať zodpovednosť za jasne ohraničené a dielčie úlohy (identifikovať a rozvíjať budúcich Tímlídrov) Pomáhať členom tímu zostavovať ich plán vzdelávania Spolupracovať s dedikovaným prevádzkovým tímom pri technickej podpore produkčného systému Spolupracovať so zadávateľmi, analytikom a interným PM za účelom analýzy a upresňovania požiadaviek, rozsahu, cieľov projektu a potrebného času na realizáciu Zručnosti a predpoklady na úspech Máš to v hlave usporiadané a vieš si stanoviť priority Komunikatívnosť a tímový duch sú u teba na prvom mieste Máš chuť posúvať sa a kontinuálne sa vzdelávať Ako Tímlíder si: Schopný motivovať svoj tím k tomu najlepšiemu výkonu Viesť jasne definovať víziu a ciele kam svoj tím chceš viesť a ako to spoločne dokážete dosiahnuť Vieš delegovať právomoci a spätne validovať vykonané úlohy Ísť svojmu tímu príkladom Máš primeranú dávku asertivity a autority Vieš komunikovať, argumentovať a podávať konštruktívnu spätnú väzbu Dokážeš identifikovať a riešiť, tak technické, ako aj koordinačný problémy Si konzistentný, úprimný a otvorený (si človek s chrbtovou kosťou) Si schopný sebareflexie - okrem iných vieš zmeniť aj svoj názor Ak niečo nevieš/nemáš povedz a my ti s tým pomôžeme Technické požiadavky: S Javou sa zobúdzaš a s Javou zaspávaš Vieš si poradiť s náročnými úlohami a kolegovia v tíme za tebou chodia po rady Spring/SpringBoot/Hibernate máš v krvi a aj pri SQL a WS-*/REST sa cítiš ako ryba vo vode Praktické skúsenosti so SCRUM frameworkom Ak si riešil nejaké špeciality (toolset/troubleshooting) je to výhodou - radi sa o tom s tebou porozprávame perf. tooning JVM ... RabbitMQ, Kafka, Consul, Camunda Azure stack, Kubernetes, Docker, Jenkins Čo ponúkame osobnostný a profesný rast v rámci firemnej politiky vzdelávania popri skúsených seniorných kolegoch práca v mladom a kreatívnom tíme so skúsenými expertami práca v dynamickej spoločnosti s najnovšími technológiami inšpiratívne prostredie rôznorodých aplikácií bežiacich v cloude flexibilný pracovný čas, možnosť home office rôzne firemné akcie a teambuildingové aktivity pravidelné firemné raňajky a kvalitná káva zadarmo atraktívny benefitný systém spoločnosti Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreIT (technické zameranie) Inzerujúca spoločnosť Stručná charakteristika spoločnostiPosAm, popredná slovenská IT spoločnosť už vyše 30 rokov úspešne pomáha firmám na Slovensku aj v zahraničí dosahovať ich ciele. 
+Tajomstvo nášho úspechu spočíva v hlbokej znalosti podnikania zákazníkov a schopnosti prinášať im užitočné riešenia a služby. Sústreďujeme sa na lepšie fungovanie kľúčových aj podporných biznis procesov. Našou hlavnou kompetenciou, s najvyššou pridanou hodnotou, sú inovatívne softvérové riešenia. Patríme medzi hŕstku slovenských firiem, ktoré sa špecializujú na veľké projekty realizované na špičkovej úrovni. Pri realizácii softvérových diel prepájame do harmonického celku doménové a technologické znalosti s prvkami umelej inteligencie a tou najlepšou používateľskou skúsenosťou. Výsledkom je vysoká úžitková hodnota našich riešení, ktoré sú pripravené napĺňať súčasné aj budúce potreby našich zákazníkov.
+Softvérové riešenia PosAm ponúka v oblasti workforce manažmentu, poisťovníctva, dopravy a verejnej správy. Našou ambíciou je neustále hľadať nové príležitosti, ako premieňať inovácie, dáta a informačné technológie na úžitok pre zákazníka. Vďaka tomu sa PosAm radí medzi najúspešnejšie slovenské firmy s etablovanou pozíciou na trhu. 
+V PosAm sa držíme myšlienky, že ak má napredovať celá spoločnosť, musia sa o to pričiniť tí najnadanejší. Spoločnosť sa systematicky venuje vzdelávaniu tak v rámci firmy, ako aj podpore mladých talentov a odmeňovaniu osobností, ktoré pozitívne ovplyvňujú rozvoj ďalšej generácie. Nadácia Dionýza Ilkoviča je úspešný projekt, ktorý inšpiruje a zároveň sa konkrétnymi krokmi snaží pomáhať so zlepšením vzdelávacieho systému na Slovensku. Hlavná oblasť pôsobenia spoločnostiInformačné technológie KontaktKontaktná osoba: Mgr.  Petra JandováE-mail: poslať životopis Poslať životopis
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4541798 
+     Dátum zverejnenia:  20.3.2023 
+    2023-03-20
+lokalita: Bratislava   Pozícia: Backend programátor, IT architekt, IT konzultant, Java programátor, Programátor   Spoločnosť: PosAm spol. s r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 900 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

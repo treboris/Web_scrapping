@@ -1,0 +1,118 @@
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Regionális 
+Következő 
+Linux rendszermérnök
+KeP-ICT Solutions Kft.
+Otthonról végezhető
+ Elvárt technológiák
+LINUX
+DEBIAN
+BASH
+PYTHON
+VMWARE
+ANSIBLE
+DNS
+MYSQL
+POSTGRESQL
+APACHE
+GIT
+HARDWARE
+CISCO
+DOCKER
+AZURE
+AWS
+CLOUD
+HP
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Távmunka, Alkalmazotti jogviszony
+Rugalmas munkaidő
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+'B' kategóriás jogosítvány
+Juttatások
+Szakmai tréningek
+ Elvárt technológiák
+LINUX
+DEBIAN
+BASH
+PYTHON
+VMWARE
+ANSIBLE
+DNS
+MYSQL
+POSTGRESQL
+APACHE
+GIT
+HARDWARE
+CISCO
+DOCKER
+AZURE
+AWS
+CLOUD
+HP
+KeP-ICT Solutions Kft.
+Munkatársat keresünk
+Linux rendszermérnök
+pozícióba.
+A KeP-ICT Solutions Kft. telekommunikációval, IT hálózatok üzemeltetésével és egyéb informatikai megoldásokkal foglalkozik. Bár cégünk létszámilag kicsi, de Magyarország egyik vezető informatikai és rendszerintegrátori cégének premier partnerei vagyunk. Így kollégáink együtt élvezhetik egy kis cég rugalmasságát és egy nagyvállalat profizmusát munkájuk során.
+A POZÍCIÓ LEÍRÁSA:
+Partnerünk szolgáltatás portfolióján (IT, SI, Telco) alapuló vállalati megoldások részletes tervezése, felépítése, felkonfigurálása, behangolása a szerződött műszaki tartalomnak megfelelően, ezáltal biztosítva az ügyfél igények teljesítését, az ügyfélelégedettséget.
+A csapat célja a Partnerünk által megvalósított projektek és szolgáltatási konstrukciók keretein belül Linux rendszerek tervezése, telepítése.
+A KÖVETKEZŐ FELADATOKBAN SZÁMÍTUNK RÁD
+Szakmai vezető szerep komplex projektekben, amelyben az egész projektet kell magas szinten átlátni és több terület mérnökeivel kell együtt dolgozni a projekt sikere érdekébenLinux alapú felhő és on-premise projektekben tervezési és implementációs feladatok elvégzése. Ebbe a feladatkörbe tartozikLLD (low level design) tervezésImplementációRendszertesztek elkészítése, elvégzéseMegvalósulási és üzemeltetési dokumentációk összeállításaFelhasználói oktatások megtartásaAktívan részt veszel termékfejlesztési folyamatokbanMagas szintű (Level 3) szakmai támogatást nyújtasz az üzemeltetésben részt vevő kollégák számáraTámogatod a presales területet új ajánlatok, HLD (high level design) összeállítása során felmerülő szakmai kérdésekbenTámogatod az újonnan belépő kollégák fejlődését, mentorként.
+A POZÍCIÓ KÖVETELMÉNYEI:
+Téged várunk a csapatba, ha rendelkezelFelsőfokú végzettséggel,2-4 év releváns szakmai tapasztalattal,Linux ismeretek az alábbi területeken:Linux disztribuciók (RedHat, Debian, SuSe) magas szintű ismerete    Shell script nyelvek (Bash, perl, Python) ismerete  Virtualizációs technológiák (KVM, VMware, Vcenter) haladó szintű ismerete    Konfiguráció menedzsment (Ansible) ismerete    Monitoring és Naplózó rendszerek telepítése, konfigurálása    Alapvető infrastruktúra ismeretek (hálózat, tűzfal, DNS,stb.)    Alapszintű adatbázis( MySQL, PostgreSQL) ismeretek    Webszerverek (Nginx, Apache, Tomcat) ismerete    Verziókövető rendszerek (SVN, Git, GitLab) ismerete    Hibakeresési és problémamegoldási gyakorlat    Számítógépes rendszerek tervezése és üzemeltetés    Rendszerkarbantartások tervezése és végrehajtása    Implementációs rendszer dokumentációk készítéseLegalább egy hardware gyártó (Dell, HP, Lenovo, Cisco, Fujitsu) infrastrukturális megoldásának ismeretévelAngol nyelvtudással a gyártókkal történő kapcsolattartás és oktatásokon való részvétel érdekében,Minőségi munkavégzésre, dokumentálásra való igénnyel,Szolgáltatói szemlélettel,„B” kategóriás jogosítvánnyal
+Előnyt jelent, ha
+Konténerizációs technológiák (Docker, Podman, Kubernetes) ismereteFelhő alapú rendszerek (Azure, Amazon AWS, Google Cloud) ismereteCI/CD folyamatok ismereteMagabiztosan dolgozol csapatban
+MIÉRT JÓ A CSAPATUNKBAN DOLGOZNI?
+A legizgalmasabb szektorban dolgozhatsz, ahol valóban maradandót lehet alkotni, lehetőség van a legújabb technológiák megismerésére, kipróbálásáraKomplex IT projektekben vehetsz részt Magyarország legnagyobb vállalatainál, amelyek során folyamatosan fejlődhetszA munkatársak számára folyamatos képzések állnak rendelkezésreMentori rendszer segíti beilleszkedésed és egyéni szakmai fejlődésed
+MIT VÁRHATSZ TŐLÜNK, MIBEN TUDSZ FEJLŐDNI?
+Folyamatos fejlődési lehetőségek mellett változatos munkát és erős, összetartó csapatot biztosítunkPiacvezető gyártók széles körben használt megoldásaival történő megismerkedés és tapasztalatszerzés lehetőségeSzakmai képzéseken való részvétel (belső és gyártói szervezésben)Lehetőséget biztosítunk termékfejlesztési feladatokban történő részvételhez, a legújabb technológiák megismeréséhezRugalmas munkaidőTávmunka lehetőség
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+IT programozás, Fejlesztés
+Tesztelő, Tesztmérnök
+Rendszertervező
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Távmunka, Alkalmazotti jogviszony
+Rugalmas munkaidő
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+'B' kategóriás jogosítvány
+Juttatások
+Szakmai tréningek
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+KeP-ICT Solutions Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Számítógépes programozás
+10-25 munkavállaló
+2015
+3325
+Noszvaj,
+József A utca 47.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

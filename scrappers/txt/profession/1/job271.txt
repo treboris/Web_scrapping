@@ -1,0 +1,405 @@
+Belépésálláskeresőknek
+Állások
+Önéletrajz feltöltése
+Állásértesítő készítése
+CV készítő
+Cégek Új
+Részletes keresés
+Tesztelő, tesztmérnök állások, munkák
+92 db találat 
+Szűrés
+Adatelemzési munkatárs
+BISZ Központi Hitelinformációs Zrt.
+1205 Budapest, Mártonffy utca 25-27.
+Nagyméretű adatbázisok elemzése, adattisztítási és egyéb fejlesztési projektekben való részvétel Üzleti terület által meghatározott komplex feladatok megértése, algoritmizálása Adattárház fejlesztési projektben való aktív részvétel Adathelyességi vizsgálatok végzése, lekérdező al...
+Cafeteria
+Szakmai tréningek
+Tech stack
+Adatbázisszakértő
+Home office
+Alkalmazotti
+Általános munkarend
+Mar. 27.
+Állás megtekintése
+ Mentés 
+March 27.
+Test Engineer
+Profession Services
+Budapest IX. kerület
+A szoftverfejlesztési terület tesztelési tevékenységének ellenőrzése, tervezése, nyomonkövetése Ügyfelek és a projektcsapatok közötti kapcsolattartás, a projektek rendszeres áttekintése Reagálás a projektek változásaira, és szükség esetén intézkedések tétele a projekt céljainak e...
+Bruttó 850e Ft/hó
+Cafeteria
+Szakmai tréningek
+Tech stack
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+Német - középfok
+Mar. 27.
+Állás megtekintése
+ Mentés 
+March 27.
+Tesztmérnök (f/m/div)
+Infineon Technologies Cegléd Kft.
+Cegléd
+Tesztmérnökként Te biztosítod az elektronikus tesztberendezések, gépek és műszerek folyamatos és zökkenőmentes működését, miközben hozzájárulsz a sikeres karbantartási műveletekhez. Támogatni fogod az új termékek és berendezések tesztelési megoldásainak fejlesztését és javítását,...
+Villamosmérnök
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Videóval
+Friss
+Állás megtekintése
+ Mentés 
+Friss
+Műszaki támogató mérnök
+AXIS Flight Training Systems
+Országosan bárhonnan pályázható
+Szimulátorok üzembe helyezése (változó helyszíneken) Hibakeresés és hibaelhárítás Javítási, karbantartási és szervizelési feladatok ellátása Jelentések és dokumentációk elkészítése Osztályok közötti együttműködés Aktív részvétel a részleg továbbfejlesztésében Készenléti munkabeos...
+Műszaki munkatárs
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 14:08
+Állás megtekintése
+ Mentés 
+ma 14:08
+Spóroljon időt!
+Böngéssze a kimondottan Önre szabott, átlag jelentkezői bérigényt is feltüntető álláslistát a Profession Prémium segítségével!
+Kipróbálom díjmentesen
+Tesztmenedzser
+EURONICS – Vöröskő Kft.
+Budapest
+Tesztelendő rendszer megértése, értelmezése Átadási követelmények részletes összeírása, Tesztelési forgatókönyv elkészítése Tesztek végrehajtása, eredmények elemzése, Hibák javítása, újratesztelés, Technikai megvalósítási tervet javasol (specifikáció), Teszt eset listát készít és...
+Cafeteria
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+ma 12:22
+Állás megtekintése
+ Mentés 
+ma 12:22
+.NET Fejlesztő
+Capgemini Magyarország Kft.
+Budapest
+agilis csapat tagjaként design és fejlesztési feladatok megvalósítása.net CORE 3.0 MVC technológiával, Blazor and Syncfusion FE megoldással (SQL adatbázis háttérrel) full-stack fejlesztés, a te feladatod a backend és frontend kialakítása is microservice alapú architectúra kialak...
+Extra juttatások
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - középfok
+tegnap 16:29
+Állás megtekintése
+ Mentés 
+tegnap 16:29
+Rendszerszervező
+Capgemini Magyarország Kft.
+Budapest
+Üzleti igények megértése és lefordítása rendszerkövetelményekké, folyamatábrákká Logikai rendszertervek elkészítése, ehhez szükséges dokumentációkkal együtt Fejlesztői csapattal szoros együttműködés (fejlesztői feladatok megértése és átadása, a fejlesztés folyamatos támogatása, n...
+Extra juttatások
+Rendszertervező
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+tegnap 16:29
+Állás megtekintése
+ Mentés 
+tegnap 16:29
+Tesztautomatizáló mérnök
+Lightware Visual Engineering
+Budapest, VII. kerület
+a cég által fejlesztett prémium videotechnikai berendezések vezérlőszoftverének automatizált tesztelése; meeting room-ok vagy akár teljes irodaházak automatizált vezérlését lehetővé tevő komplex szoftverek automatizált tesztelése; a tesztelési stratégiához kapcsolódóan az automat...
+Tech stack
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 09:14
+Állás megtekintése
+ Mentés 
+tegnap 09:14
+Beágyazott Szoftverfejlesztő
+Unix Autó Kft.
+1139 Budapest, Frangepán utca 55-57. 
+Saját fejlesztésű raktárautomatizáláshoz kapcsolódó célgépek és intelligens raktári robotok fejlesztésében való aktív részvétel A fejlesztési projektek végig kísérése a koncepciótól a beüzemelésig Innovatív megoldások keresése a beágyazott rendszerek technológiai kihívást jelentő...
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+ma 12:15
+Állás megtekintése
+ Mentés 
+ma 12:15
+Senior Test Engineer
+Legyen az első 5 jelentkező között!
+Huawei Technologies Hungary Kft.
+Páty or Komárom 
+Development and implement the Digital and Automation manufacture solution; Experience on NPI and mass production for Network, Wireless or IT Server product; Design for Process control and quality, efficiency, cost and process improvement EMS manufacturing partner factory on-site...
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 10:25
+Állás megtekintése
+ Mentés 
+ma 10:25
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek!
+Head Of Product Management
+GLS General Log.SystemsHungary Kft.
+2351 Alsónémedi, GLS Európa u. 2.
+Irányítod, koordinálod és felügyeled a regionális produkt menedzsment szervezet tevékenységét. Felelsz a PM szakterületre vonatkozó stratégia kidolgozásáért a vállalati stratégiában megfogalmazott célok teljesülése érdekében. Figyelemmel kíséred területed stratégiájának teljesülé...
+Bónusz
+Extra juttatások
+Tech stack
+Tesztelő, Tesztmérnök
+Home office
+Alkalmazotti
+Általános munkarend
+ma 01:00
+Állás megtekintése
+ Mentés 
+ma 01:00
+Junior tesztautomatizálási mérnök
+ERSTE BANK HUNGARY Zrt.
+Budapest
+Hozzájárulni az Erste Bank manuális tesztelési feladatainak csökkentéséhez, valamint a tesztelési időszakok rövidítéséhez, a következetes tesztelés megvalósítása érdekében; A banki alkalmazások funkcionális és regressziós teszteseteinek fejlesztésére, valamint ezek futtatására eg...
+Tech stack
+Programozó, Fejlesztő
+Általános munkarend
+Angol - középfok
+tegnap 17:58
+Állás megtekintése
+ Mentés 
+tegnap 17:58
+Junior VBA developer
+TMF Magyarország Kft
+Budapest
+A külső és belső stakeholderektől érkező fejlesztési igények technikai kidolgozása a vállalati fejlesztési koncepcióval összhangban; User story megértése mentén fejlesztési feladatok elvégzése; Manuális tesztek elvégzése valamint a QA csapattal való együttműködés; Fejlesztések és...
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - középfok
+tegnap 17:25
+Állás megtekintése
+ Mentés 
+tegnap 17:25
+IT Inhouse Consultant (m/f/d) Test Management
+Dr. Oetker Magyarország Élelmiszer Kft.
+1016 Budapest, Mészáros utca 58/B.
+In your new role you can expect a highly motivated and qualified international team, which works independently and on its own responsibility. This framework offers a wide range of opportunities for intensive exchange and personal development in different subject areas. You will w...
+Tech stack
+IT tanácsadó, Elemző, Auditor
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+tegnap 16:25
+Állás megtekintése
+ Mentés 
+tegnap 16:25
+Manuális szoftvertesztelő
+TRENDENCY ONLINE Zrt.
+1092 Budapest
+Tesztesetek megtervezése/futtatása Hibák felderítése, dokumentálása, jegykezelő rendszerben Hibajavítás nyomon követése, együttműködés a fejlesztőkkel Részvétel a tesztelői tudásbázis építésében Tesztforgatókönyvek és felhasználói kézikönyvek készítése...
+Extra juttatások
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+tegnap 15:50
+Állás megtekintése
+ Mentés 
+tegnap 15:50
+Tesztelési csoportvezető
+TRENDENCY ONLINE Zrt.
+Budapest IX. kerület
+Tesztesetek megtervezése/futtatása Vezeted a QA csapatot és kijelölöd számukra a szakmai irányokat A csoport munkáját felügyeled, koordinálod Mentorálással és oktatással támogatod a csoporttagok fejlődést Lefektetted a sztendereket, dokumentálod a best practice-eket és figyelsz a...
+Extra juttatások
+Tesztelő, Tesztmérnök
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - középfok
+tegnap 15:25
+Állás megtekintése
+ Mentés 
+tegnap 15:25
+Automata Tesztelő
+Prohumán 2004 Kft.
+XIV. kerület
+Java alapú üzleti szoftverek, illetve az újonnan bevezetésre kerülő webes termékek tesztelése Backend és frontend oldali tesztesetek és tesztforgatókönyvek tervezése és fejlesztése Automatizált tesztek megírása és futtatása Meglévő tesztkeretrendszer továbbfejlesztése, valamint ú...
+Cafeteria
+Egészségbiztosítás
+Tech stack
+Tesztelő, Tesztmérnök
+Általános munkarend
+tegnap 15:25
+Állás megtekintése
+ Mentés 
+tegnap 15:25
+Délutános Informatikus
+GLS General Log.SystemsHungary Kft.
+2351 Alsónémedi, GLS Európa u. 2.
+Szortírozó üzem és GLS Depó telephelyek IT működésének biztosítása (hardver, szoftver) Felhasználók támogatása Alap rendszergazdai feladatok ellátása (Windows munkaállomások- hálózat karbantartása, ezek létesítése / beállítása / bővítése, jogosultságok kezelése) Ügyviteli szoftve...
+Bónusz
+Extra juttatások
+Tesztelő, Tesztmérnök
+Home office
+Alkalmazotti
+Általános munkarend
+tegnap 14:55
+Állás megtekintése
+ Mentés 
+tegnap 14:55
+Diákmunka - PLC rendszertesztelő gyakornok
+MŰISZ Szolgáltató Iskolaszövetkezet
+Budapest XI. kerület
+A Siemens S7 PLC termékcsalád fejlesztőkörnyezetének tesztelési támogatása Részvétel a PLC-k teszteléséhez használt szoftverek tervezésében, elkészítésében Részvétel a tesztkörnyezet kiépítésében, automatizálásában
+Tech stack
+Tesztelő, Tesztmérnök
+Diákmunka
+Általános munkarend
+Angol - középfok
+Magyar - anyanyelvi szint
+tegnap 14:19
+Állás megtekintése
+ Mentés 
+tegnap 14:19
+Diákmunka - Junior Test Engineer trainee 362216
+MŰISZ Szolgáltató Iskolaszövetkezet
+Budapest XI. kerület
+Manual Test case execution and creation Support the testers in testing processes Exploratory test creation Defect tracking and investigation Analyzing root causes, and resolving SW problems Participate in Software development incl. testing Active work in an agile scrum team Creat...
+Tech stack
+Tesztelő, Tesztmérnök
+Diákmunka
+Általános munkarend
+Angol - középfok
+Magyar - anyanyelvi szint
+tegnap 14:19
+Állás megtekintése
+ Mentés 
+tegnap 14:19
+PHP/Laravel webfejlesztő
+BECK AND PARTNERS Kft.
+Budapest
+Weboldalak és webes alkalmazások fejlesztése Meglévő rendszerek továbbfejlesztése Részvétel a projektek felmérésében, tervezésében
+Tech stack
+Programozó, Fejlesztő
+Általános munkarend
+tegnap 14:10
+Állás megtekintése
+ Mentés 
+tegnap 14:10
+Software Tester
+Deloitte Zrt.
+Budapest
+you will test our in house developed web based software analyze and help resolving issues create test cases, test cycles and plans you will be trained in test automation with robotics technology – UIPath work in a well refined scrum team, is a structured way
+Bónusz
+Szakmai tréningek
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 09:35
+Állás megtekintése
+ Mentés 
+tegnap 09:35
+1
+2
+3
+4
+5
+...
+Következő
+Utolsó
+Állásértesítő készítése
+Keresés mentése
+)
+Figyelem!
+A lakhatási támogatást nyújtó ajánlatokat területi szűrés nélkül listázzuk.
+A területi beállítás csak a lakhatási támogatás paraméter kikapcsolása után változtatható meg újra!
+Keresés finomítása
+IT programozás, Fejlesztés
+Tesztelő, Tesztmérnök
+Beállított szűrők
+Beállított szűrők törlése 
+Kategória 
+IT programozás, Fejlesztés
+Adatbázisszakértő  (40) 
+IT tanácsadó, Elemző, Auditor  (103) 
+IT, fejlesztési vezető  (21) 
+Product owner, -manager  (6) 
+Programozó, Fejlesztő  (290) 
+Projektmenedzsment  (127) 
+Rendszerintegrátor  (13) 
+Rendszertervező  (57) 
+Scrum master  (3) 
+Tesztelő, Tesztmérnök
+Lakóhely (Megye, Város)
+Budapest  (70) 
+Bács-Kiskun megye  (4) 
+Baranya megye  (4) 
+Békés megye  (4) 
+Borsod-Abaúj-Zemplén megye  (4) 
+Csongrád-Csanád megye  (6) 
+Fejér megye  (6) 
+Győr-Moson-Sopron megye  (6) 
+Hajdú-Bihar megye  (4) 
+Heves megye  (4) 
+Jász-Nagykun-Szolnok megye  (4) 
+Komárom-Esztergom megye  (5) 
+Nógrád megye  (4) 
+Pest megye  (12) 
+Somogy megye  (4) 
+Szabolcs-Szatmár-Bereg megye  (4) 
+Tolna megye  (4) 
+Vas megye  (4) 
+Veszprém megye  (9) 
+Zala megye  (4) 
+Németország  (1) 
+Ausztria  (1) 
+Az Ön végzettsége 
+Középiskola  (44) 
+Főiskola  (32) 
+Egyetem  (13) 
+Az ön nyelvismerete 
+Nincs nyelvismeretem  (25) 
+Angol  (64) 
+Magyar  (9) 
+Német  (4) 
+Az Ön tapasztalata 
+Nincs tapasztalatom  (3) 
+1-3 év szakmai tapasztalat  (51) 
+3-5 év szakmai tapasztalat  (19) 
+5-10 év szakmai tapasztalat  (3) 
+>10 év szakmai tapasztalat  (2) 
+Foglalkoztatás jellege 
+Teljes munkaidő  (82) 
+Távmunka  (6) 
+Szakmai gyakorlat  (2) 
+Diákmunka  (6) 
+Home office  (27) 
+Alkalmazotti jogviszony  (60) 
+Munkarend 
+Általános munkarend  (80) 
+Rugalmas munkaidő  (9) 
+Kötetlen munkaidő  (1) 
+Cégméret 
+0-10 fő  (7) 
+10-25 fő  (22) 
+100-250 fő  (12) 
+1000+ fő  (20) 
+25-50 fő  (7) 
+250-500 fő  (7) 
+50-100 fő  (6) 
+500-1000 fő  (9) 
+Beállítások 
+Személyzeti tanácsadók hirdetései nélkül  (28) 
+Munkahely értékelése
+Munkahely értékelése
+Értékelje és mondja el véleményét korábbi vagy jelenlegi munkahelyéről. Értékelése név nélkül történik, és segítséget nyújt a munkakeresőknek ahhoz, hogy
+ideális munkahelyet találjanak. A kitöltés pár percet vesz igénybe.
+Értékelem 

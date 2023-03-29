@@ -1,124 +1,420 @@
-Profession
-Belépés
-Regisztráció
- Álláskeresés
-Részletes keresés
-Állásértesítő készítése
-Állások
-Önéletrajzom
- Önéletrajz feltöltése
-Önéletrajz minták
-Önéletrajz készítő
-Cégek
-Cégek keresése Új
-Munkahely értékelése
-Álláskeresési tippek
-Cikkek, hírek
-Kalkulátorok
-Ügyfélszolgálat
-Munkaadóknak
-Profession
-Munkaadóknak
-Hirdetésfeladás
-Regisztráció
 Belépésálláskeresőknek
-IT üzemeltetés, Telekommunikáció
-Információbiztonság
+Állások
+Önéletrajz feltöltése
+Állásértesítő készítése
+CV készítő
+Cégek Új
+Részletes keresés
+It support, helpdesk állások, munkák
+151 db találat 
+Szűrés
+Business Continuity & Risk Expert
+Vodafone Magyarország Zrt.
 Budapest
-Következő 
-IT biztonsági elemző
-Bónusz
-Adecco Kft.
-Rugalmas munkavégzési hely - Budapest
- Elvárt technológiák
-IT BIZTONSÁG
-Jelentkezem
-Mentés
-Az állásról
-Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Home office, Alkalmazotti jogviszony
-Általános munkarend
-Elvárások:
-Angol középfok
-1-3 év szakmai tapasztalat
-Főiskola
-Juttatások
-Cafeteria
- Elvárt technológiák
-IT BIZTONSÁG
-Adecco Kft.
-IT biztonsági elemző
-Energiaipari partnerünk keresi új kollégáját IT biztonsági elemző pozícióba a meglévő 3 fős CERT csapatukba. Budapesti (Váci úti) vagy pécsi irodához csatlakozhatsz, hybrid környezetben. Ha határozott vagy és szereted a kihívásokat, a komplex feladatokat, nem jelent gondot delegálni, és dolgoztál már hasonló területen korábban, akkor ez az a lehetőség, amit keresel.
-Főbb feladatok, munkák:
-Reagálás az incidensekre (fogadás, validálás, besorolás, koordináció, kommunikáció stb.)Evidencia gyűjtés, elemzés és kiértékelésUtólagos incidensek kiértékelése, tanulási célból az incidensben érintett területeken a munkatársakoktatásaCERT folyamatokkal kapcsolatos rendszerek kezelése (SIEM, IPS, DLP, ticketing stb.)Sérülékenységek elemzése, érintett rendszerek körének meghatározása, kockázatcsökkentő akciókkoordinálásaFenyegettségek elemzése, jelentéseKapcsolatottartás a fenyegetettség és sérülékenység menedzsment forrásokkal, külső és belsőszervezetekkel, hatóságokkalA kitettségek, kockázatok csökkentésével kapcsolatos akciók támogatása a vállalat szervezetiegységeinélAz összes releváns előírásnak, szabványnak történő megfeleltetéssel kapcsolatos tevékenységektámogatásaISMS csapat támogatása, részvétel az awareness akciókbanA változó támadási technikák, a kártékony kódok, programok működésének folyamatos elemzése
-Az álláshoz tartozó elvárások:
-Felsőfokú végzettségIT / IT biztonság, incidens és sérülékenység menedzsment ismeretek1-3 év munkatapasztalat IT/információbiztonság területenAktív angol nyelvtudás
-Az állás betöltéséhez előnyt jelent:
-Nemzetközi IT biztonsági képesítések megléte előny (pl.: CEH, CISSP, OSCP stb.)
-Amit kínálunk:
-Cafeteria ~500 000 Ft/évBónusz 15%Áramdíj kedvezmény36 nap éves szabadságkeretHeti 2 nap home office lehetőség (próbaidőt követően)Egészségügyi támogatás
-Állás, munka területe(i):
-IT üzemeltetés, Telekommunikáció
-IT support, Helpdesk
+Propose an organisation-wide BC management system aligned with business goals and objectives and prepare the BC programme for management signoff Develop and maintain the business continuity programme and policy Complete critical process BIAs to map potential distruption events E...
+Extra juttatások
 Információbiztonság
-IT programozás, Fejlesztés
-IT, fejlesztési vezető
-Jelentkezem
-MENTÉS
-Elküldöm magamnak a hirdetést
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 08:25
+Állás megtekintése
+ Mentés 
+ma 08:25
+IT Technikus
+VERMONT Hungary Kft.
+Budapest
+Gondoskodik a hardver és szoftver életciklusának teljes körű lebonyolításáról a vásárlástól a selejtezésig. Helyszíni és távoli technikai támogatást nyújt a munkatársaknak minden csatornán (help desk, telefon, e-mail). Kezeli és megoldja a hardverekkel és szoftverekkel kapcsolato...
+IT support, Helpdesk
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Friss
+Állás megtekintése
+ Mentés 
+Friss
+IT application support and lvl1 helpdesk
+Teladoc Hungary Kft.
+1092 Budapest, Köztelek u. 6.
+LVL 1 szintű alkalmazás támogatás (Teams, Office, VoIP, AD, Jogosultságok kezelése és konfiguráció), LVL 1 felhasználó támogatás (Alap hardver és szoftver beállítások, napi rutinfeladatok) kommunikáció az anyavállalat IT csapatával angol nyelven (alapszintű nyelvtudás elegendő),...
+IT support, Helpdesk
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 14:21
+Állás megtekintése
+ Mentés 
+ma 14:21
+Customer Support Manager
+Bit Soft HU Kft.
+1108 Budapest, Bányató utca 13.
+Ensure that SLAs are met and that the support line operates at its best. Manage resources and maintain the support schedule to ensure 24/7 coverage. Assign and manage customer queries and issues to Technical Support Engineers. Handle all customer escalations related to support is...
+Mobiltelefon
+Cafeteria
+IT support, Helpdesk
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+Magyar - felsőfok
+ma 13:36
+Állás megtekintése
+ Mentés 
+ma 13:36
+Spóroljon időt!
+Böngéssze a kimondottan Önre szabott, átlag jelentkezői bérigényt is feltüntető álláslistát a Profession Prémium segítségével!
+Kipróbálom díjmentesen
+IT support- rendszergazda
+TZteam Kft.
+1161 Budapest, Rákóczi út 48.
+Heti 40 órában kell dolgoznod Irodai szoftvereket telepítesz Hálózati hibákat detektálsz Online segítséget nyújtasz Ügyfelekkel beszélgetsz telefonon Hálózati eszközöket, perifériákat állítasz be Vírusvédelmet alakítasz ki Karbantartást és frissítéseket végzel Automatizált adatme...
+Bruttó 420e - 720e Ft/hó
+Bónusz
+Mobiltelefon
+IT support, Helpdesk
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 13:15
+Állás megtekintése
+ Mentés 
+ma 13:15
+Service Delivery Specialist
+HRS - HOSPITALITY AND RETAIL SYSTEMS KFT.
+1138 Budapest, Madarász Viktor utca 47.
+Main responsibilities: Installing, configuring and supporting Hospitality products as well as their associated interfaces. Ensuring that our PMS/POS solutions meet all the unique specifications and functions that are required by our Hospitality clients. Training clients in the us...
+IT support, Helpdesk
+Beosztás szerinti munkarend
+Angol - felsőfok
+Magyar - anyanyelvi szint
+ma 11:41
+Állás megtekintése
+ Mentés 
+ma 11:41
+SeniorTechnical Support Engineer
+Huawei Technologies Hungary Kft.
+Budapest
+Every day will bring new and exciting challenges on the job while you: Learn and use groundbreaking technologies. Engineers will apply advanced troubleshooting techniques to provide unique solutions for our customers and lead customer interactions by thoughtfully working with the...
+Extra juttatások
+IT support, Helpdesk
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 09:15
+Állás megtekintése
+ Mentés 
+ma 09:15
+IT támogató munkatárs
+Várkapitányság Nonprofit Zrt.
+Budapest, XI. kerület
+L1/L2 szintű IT desktop support feladatok ellátása a kollégák informatikai kérdéseivel, problémáival kapcsolatos feladatok megoldása, felhasználótámogatás távoli segítségnyújtás eszközeivel, illetve helyszíni megjelenéssel, budapesti és vidéki telephelyeken IT desktop üzemeltetés...
+Cafeteria
+Tech stack
+IT support, Helpdesk
+Alkalmazotti
+Általános munkarend
+tegnap 19:20
+Állás megtekintése
+ Mentés 
+tegnap 19:20
+Senior Cyber Security Expert
+CETIN Hungary Zrt.
+Törökbálint
+Support in operations with security infrastructure Documenting integration, technical specification, defects and operation of security infrastructure Reporting on cyber-attacks Supporting the resolution of incidents caused by cyber attacks Supporting development of security tools...
+Bónusz
+Extra juttatások
+Információbiztonság
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+tegnap 15:10
+Állás megtekintése
+ Mentés 
+tegnap 15:10
+Customer Service Representative with English
+Danfoss
+Budapest
+As a constantly growing company, Danfoss is looking for motivated employees who want to work with us on our success. We are looking for a Customer Service Representative with English to join our diverse team. The primary function in this role is to provide commercial support such...
+Bónusz
+Cafeteria
+Ügyféltámogatás, Adminisztráció
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 14:39
+Állás megtekintése
+ Mentés 
+tegnap 14:39
 Hasonló állásokat szeretne kapni e-mailben?
 Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
-Állásértesítőt kérek
-Jelentkezem
-MentésMentés kedvencnek
- Vissza a listára
-Az állásról
-Munkaidő, foglalkoztatás jellege
-Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Állásértesítőt kérek!
+Servicedesk operátor TELCO
+Invitech ICT Services Kft.
+Veszprém 
+Ügyféltől beérkező hibajegyek kezelése, adminisztrálása, távolról megoldható feladatok elvégzése; TOP/VIP Felhasználók támogatása; Napi beérkező feladatok elvégzése; Felhasználók informatikai támogatása; Projekt feladatok ellátása, koordinációban való részvétel; Kapcsolattartás a...
+IT support, Helpdesk
+Alkalmazotti
 Általános munkarend
-Elvárások:
-Angol középfok
-1-3 év szakmai tapasztalat
-Főiskola
-Juttatások
+Angol - középfok
+tegnap 10:02
+Állás megtekintése
+ Mentés 
+tegnap 10:02
+DUTCH Speaking Service Desk Representative
+Legyen az első 5 jelentkező között!
+Cognizant Technology Solutions Hungary Kft.
+Rugalmas munkavégzési hely 
+Resolving IT issues of our clients, act as first point of contact for the customer (Level 1 IT support) Handling end-user calls and web queries via tools, phone and email Documentation and precise administration, logging of calls on the ticketing tool Delegation of problems which...
+Bónusz
+Extra juttatások
+IT support, Helpdesk
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Holland - felsőfok
+Friss
+Állás megtekintése
+ Mentés 
+Friss
+Command center operátor
+Invitech ICT Services Kft.
+Budapest
+Szerver monitoring és szerver oldali üzemeltetési feladatokban való részvétel Hibajegyek kezelése, hálózati és kliens oldali hibaelhárítás Szerver oldali hibabehatárolás, elhárítás Implementációs és ütemezett karbantartási feladatok ellátása szerver környezetben Tevékenységek adm...
+Mobiltelefon
+Tech stack
+Rendszerüzemeltető
+Alkalmazotti
+Általános munkarend
+Angol - alapfok
+Friss
+Állás megtekintése
+ Mentés 
+Friss
+First Line Support Engineer / IT Support (m/f/d)
+Dr. Oetker Magyarország Élelmiszer Kft.
+1016 Budapest, Mészáros utca 58/B.
+You are the first point of contact for customers seeking technical assistance by using the self service portal, email or, if necessary, by phone Your task is to qualify and document the problems raised by customers as well as Identify the types, categories, severity, and urgency...
+Tech stack
+IT support, Helpdesk
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 14:40
+Állás megtekintése
+ Mentés 
+ma 14:40
+Szoftvertesztelő gyakornok - Diákmunka
+Legyen az első 5 jelentkező között!
+Mind-Diák Szövetkezet
+Budapest V.
+Részvétel a banki rendszerek felhasználói, üzleti tesztek és az azokhoz kapcsolódó tevékenységek lebonyolításának előkészítésében, összehangolásában, végrehajtásában és dokumentálásában Eredmények dokumentálása ALM rendszerben A teszt során feltárt problémás esetek, hibák dokumen...
+Bruttó 1 900 /óra
+Tech stack
+Programozó, Fejlesztő
+Diákmunka
+Általános munkarend
+ma 14:20
+Állás megtekintése
+ Mentés 
+ma 14:20
+IT Technician / IT Support - Pécs
+Hemmersbach Hungary Kft.
+7636 Pécs
+We are looking for an IT Technician, dealing with IT Desktop Support within a multinational company directly at our customer's premises in Budapest. Main tasks: Install, upgrade, support and troubleshoot Windows and any other authorized desktop software/applications Install, upgr...
+Mobiltelefon
 Cafeteria
- Elküldöm magamnak
- Értesítést kérek
-Munkahely értékelése 
-Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
-Értékelem
-Önnek ajánljuk
-Hasonló állások megtekintése 
-IT biztonsági elemző
-Adecco Kft.
-Rugalmas munkavégzési hely - Budapest
-JELENTKEZEM
-Mentés
-Kövessen bennünket! 
-Rólunk
-Magyar
-English
-Site language 
-Magyar
-English
-Rólunk
-Töltse le mobil alkalmazásunkat!
-Profession
-Ajánlatok munkaadóknak
-Impresszum
-Nemzetközi szolgáltatások
-Kérdése van? 
-Ügyfélszolgálat
-Kapcsolat
-Feltételek 
-ÁSZF
-Felhasználási feltételek
-Adatvédelem
-Profession 2023 © Minden Jog Fenntartva.
-Belépés Állásmentéshez
-Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
-Elfelejtette jelszavát?
-Belépés
-Elküldöm magamnak
-Belépés Facebookkal
-Belépés Google fiókkal
+IT support, Helpdesk
+Alkalmazotti
+Általános munkarend
+Angol - alapfok
+ma 13:05
+Állás megtekintése
+ Mentés 
+ma 13:05
+Senior Network Support Specialist
+Kyndryl
+Budapest
+Provides technical support to field engineers, technicians, and product support personnel in diagnosing, troubleshooting, repairing and debugging complex computer systems, software, or networked and/or wireless systems. Provides technical support in the operation and maintenance...
+Bónusz
+Extra juttatások
+Rendszergazda
+Részmunkaidő
+Home office
+Általános munkarend
+Angol - középfok
+ma 11:40
+Állás megtekintése
+ Mentés 
+ma 11:40
+ServiceNow Administrator
+Legyen az első 5 jelentkező között!
+Unisys
+Budapest
+Ability to work on single and domain separated ServiceNow instances Work on Requests against ServiceNow applications Manage Instance Security - User/Group Access/Access Control Lists Manage Update Set creation and migration Must be a team player and have the ability to collaborat...
+Extra juttatások
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 11:20
+Állás megtekintése
+ Mentés 
+ma 11:20
+Recepciós - Diákmunka
+Legyen az első 5 jelentkező között!
+Mind-Diák Szövetkezet
+Budapest III.
+Vendégek fogadása és támogatása Telefon kezelése Tárgyalótermek kezelése, foglalások gondozása Beérkező és kimenő postai küldemények kezelése Futárral érkező küldemények kezelése
+Bruttó 1 720 /óra
+Tech stack
+Programozó, Fejlesztő
+Diákmunka
+Általános munkarend
+ma 10:20
+Állás megtekintése
+ Mentés 
+ma 10:20
+Technical Support Agent – Level 1
+ASUS Magyarország Kft.
+1077 Budapest, Wesselényi utca 16.
+Technikai kérdések megválaszolása az összes kommunikációs csatornán keresztül (e-mail, telefon, chat) Vásárlói panaszok megoldása, a partnerekkel illetve a marketing és sales kollégákkal együttműködve Vásárlói elégedettség növelésében való aktív részvétel...
+IT support, Helpdesk
+Általános munkarend
+Angol - alapfok
+ma 08:45
+Állás megtekintése
+ Mentés 
+ma 08:45
+Innovation Center Junior Technical Engineer
+Lenovo Global Technology Hungary Kft.
+2225 Üllő
+Lenovo is looking for a Junior Technical Engineer for the Innovation Center facilities located in Ullo – Hungary. The goal of the Innovation Center is to provide the IT infrastructure in terms of servers, storage and networking for customers to run remote Proof of Concepts (POCs)...
+Tech stack
+IT support, Helpdesk
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 17:05
+Állás megtekintése
+ Mentés 
+tegnap 17:05
+1
+2
+3
+4
+5
+...
+Következő
+Utolsó
+Állásértesítő készítése
+Keresés mentése
+)
+Figyelem!
+A lakhatási támogatást nyújtó ajánlatokat területi szűrés nélkül listázzuk.
+A területi beállítás csak a lakhatási támogatás paraméter kikapcsolása után változtatható meg újra!
+Keresés finomítása
+IT üzemeltetés, Telekommunikáció
+IT support, Helpdesk
+Beállított szűrők
+Beállított szűrők törlése 
+Kategória 
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök  (105) 
+Információbiztonság  (50) 
+IT support, Helpdesk
+IT, Telecom vezető  (8) 
+Projektmenedzsment  (79) 
+Rendszergazda  (90) 
+Rendszerüzemeltető  (159) 
+Telekommunikáció  (60) 
+Vállalatirányítási rendszer, SAP  (46) 
+Lakóhely (Megye, Város)
+Budapest  (115) 
+Bács-Kiskun megye  (6) 
+Baranya megye  (11) 
+Békés megye  (5) 
+Borsod-Abaúj-Zemplén megye  (6) 
+Csongrád-Csanád megye  (5) 
+Fejér megye  (11) 
+Győr-Moson-Sopron megye  (8) 
+Hajdú-Bihar megye  (6) 
+Heves megye  (4) 
+Jász-Nagykun-Szolnok megye  (5) 
+Komárom-Esztergom megye  (4) 
+Nógrád megye  (4) 
+Pest megye  (17) 
+Somogy megye  (4) 
+Szabolcs-Szatmár-Bereg megye  (4) 
+Tolna megye  (4) 
+Vas megye  (5) 
+Veszprém megye  (5) 
+Zala megye  (4) 
+Az Ön végzettsége 
+Általános iskola  (13) 
+Szakiskola / szakmunkás képző  (3) 
+Középiskola  (100) 
+Főiskola  (25) 
+Egyetem  (5) 
+Az ön nyelvismerete 
+Nincs nyelvismeretem  (28) 
+Angol  (116) 
+Cseh  (5) 
+Francia  (8) 
+Görög  (1) 
+Holland  (7) 
+Lengyel  (2) 
+Magyar  (11) 
+Német  (23) 
+Olasz  (4) 
+Román  (2) 
+Spanyol  (1) 
+Svéd  (1) 
+Szlovák  (1) 
+Szlovén  (2) 
+Az Ön tapasztalata 
+Nincs tapasztalatom  (4) 
+1-3 év szakmai tapasztalat  (77) 
+3-5 év szakmai tapasztalat  (13) 
+5-10 év szakmai tapasztalat  (4) 
+>10 év szakmai tapasztalat  (2) 
+Foglalkoztatás jellege 
+Teljes munkaidő  (129) 
+Részmunkaidő  (5) 
+Távmunka  (8) 
+Szakmai gyakorlat  (2) 
+Vállalkozói  (3) 
+Diákmunka  (20) 
+Home office  (50) 
+Alkalmazotti jogviszony  (109) 
+Munkarend 
+Általános munkarend  (132) 
+2 műszak  (1) 
+Több műszak  (5) 
+Rugalmas munkaidő  (6) 
+12/24 órás műszak  (2) 
+24/72 készenléti szolgálat  (1) 
+Beosztás szerinti munkarend  (3) 
+Cégméret 
+0-10 fő  (25) 
+10-25 fő  (28) 
+100-250 fő  (17) 
+1000+ fő  (28) 
+25-50 fő  (14) 
+250-500 fő  (15) 
+50-100 fő  (11) 
+500-1000 fő  (12) 
+Beállítások 
+Személyzeti tanácsadók hirdetései nélkül  (45) 
+Munkahely értékelése
+Munkahely értékelése
+Értékelje és mondja el véleményét korábbi vagy jelenlegi munkahelyéről. Értékelése név nélkül történik, és segítséget nyújt a munkakeresőknek ahhoz, hogy
+ideális munkahelyet találjanak. A kitöltés pár percet vesz igénybe.
+Értékelem 

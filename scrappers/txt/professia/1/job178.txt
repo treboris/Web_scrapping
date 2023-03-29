@@ -1,0 +1,112 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceBackend Developer (AWS, TypeScript, Java, C#)  Можливість для людей з України
+Backend Developer (AWS, TypeScript, Java, C#)Arcondis Solutions s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+asap
+Wage (gross)
+2 500 - 3 300 EUR/monthThe salary indicated is a tentative estimation and the final salary will be agreed after an interview, once we find out more about your experience and skills.
+Information about the position Job description, responsibilities and dutiesWe are looking for an experienced AWS Developer responsible for making an app more scalable and reliable. The app is currently running on Google Cloud and we are looking to migrate it to AWS. You would become part of our agile team and play a key role in the migration activities and later in scaling the app further. Your role will be focused on back-end (rare front-end development).
+Responsibilities:
+• Understand the current application infrastructure, at a later stage, suggest changes to it.
+• Help migrate the app with zero downtime to the AWS Cloud.
+• Define and document best practices and strategies regarding application deployment and infrastructure maintenance.
+• Set up a monitoring stack.
+• Define service capacity planning strategies.
+Skills/Requirements:
+• University degree IT, computer science, mathematics, natural science, information technology, or engineering
+• Experience with the core AWS services and TypeScript
+• Experience with the serverless approaches using AWS Lambdas and ability to write Lambdas.
+• Programming skills in Java/JavaScript and/or C#
+• Nice to have: knowledge and experience with Node.js, React Native Employee perks, benefits• Company bonus (based on company financial results)
+• Referral bonus depending on level of person referred
+• Business mobile (also for private calls) and laptop
+• Heath-/Dentalcare costs coverage (up to 250EUR/year)
+• Allowance for foreign languages classes/sport and leisure activities (up to 200EUR/year)
+• 3 sick days per calendar year
+• 2 extra days off for your wedding
+• Social events (team-buildings and team-dinners)
+• Budget for trainings & certifications
+• Monthly events in Kosice (Office)
+• Home Office upon agreement (or possibility to work from our office in Kosice)
+• Flexible working hours
+• Become part of an established company with a start-up mindset (Self-organizing, flat hierarchy)
+• Ice Hockey tickets discount (HC Kosice home games) Information about the selection processPlease submit your application in English.
+Thank you for applying to Arcondis! Requirements for the employee Candidates with education suit the positionFollow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Advanced (C1)Number of years of experience4 Advertiser Brief description of the companyARCONDIS is in the Top 10 of Consulting Companies in Health Care & Life Sciences in Switzerland. We are a global professional services company with an exclusive focus on the healthcare and life science industries, with their particularly demanding requirements on quality and regulatory affairs.
+We have been addressing challenges and solving problems for our clients in the areas of compliance, business processes, information technology, and digital transformation since 2001.
+We create value through cross-functional, sophisticated delivery methodologies and intelligent implementation.
+Our clients love to work with us because of our unique skillsets, our pragmatic approach, and our will to win.
+We make healthcare better.
+www.arcondis.com Number of employees150-199 employees ContactContact person: Solutions ArcondisE-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4539994 
+     Dátum zverejnenia:  17.3.2023 
+    2023-03-17
+lokalita: Remote work   Pozícia: Backend developer, C# Programmer, Java Programmer   Spoločnosť: Arcondis Solutions s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

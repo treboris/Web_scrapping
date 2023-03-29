@@ -1,0 +1,90 @@
+Belépésálláskeresőknek
+IT Operation, Telecommunication
+System operator, Maintenance Staff
+Budapest
+Budapest
+Következő 
+O365 Developer
+KBC Group Magyarországi Fióktelepe
+1095 Budapest, Lechner Ödön fasor 9.
+ Elvárt technológiák
+C
+WEB API’
+CLOUD
+AZURE
+REACT
+API’
+ Módszertanok és szoftverek
+Agile
+Scrum
+Rest
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol felsőfok
+1-3 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+C
+WEB API’
+CLOUD
+AZURE
+REACT
+API’
+ Módszertanok és szoftverek
+Agile
+Scrum
+Rest
+KBC Group Magyarországi Fióktelepe
+O365 Developer
+Csatlakozz jó hangulatú csapatunkhoz!
+KBC Bank, the parent company of the Hungarian K&H Bank, provides banking services in 5 European countries.The international IT solutions of the banking group, covering several European countries, takes place with Hungarian and Belgian colleagues in Hungary and Belgium, therefore not only our services are international, but also our teams.Our responsibilities range from day-to-day operation to application development and its operation.We are constantly expanding the Hungarian side of the team, which is why we are looking for enthusiastic, motivated new employees with junior, medior or possibly senior work experience.  The O365 Integration team will continuously integrates new technology from the O365 suite. We have a team of experienced developers, challenging functional analysts, a business analyst and a cell of application managers to support the products that we deliver. We work in a SAFe Agile framework with a Scrum Master and a Product Owner to facilitate the team and manage the backlog. Our team integrates most of the O365 stuff straight out of the box, but in a big company, you also have a broad range of demands, so sometimes customization is necessary.We have completely customized the main news site of the company, which is been read by more than 10.000 people each day.The general support site has been tweaked by us so that the search displays not only internal articles, but also Microsoft articles concerning the issue.We provide solutions in the Powerplatform (Apps/Automate) for example a seat reservation tool in times of COVID-19 So in short, our internal customer has needs, and we try to fulfill those needs within the O365 package, as broad as you can think!  What you can expect working with us:You can make sure your future career is steady within our companyLife-long learning and plenty of opportunities to challenge yourselfCompetitive salary as well as other benefits such as:10% customizable cafeteria, annual performance-based reward, company phone with mobile internet, that you can use for private purposes as wellemployee discount at the bankYour English language skills won’t be worn out as you can use it on a daily basis Flexible schedule as we don’t use ‘Clock in Clock out’ system As our focus is on teamwork we consider it important to hang out in the "open office" together, but you have the option to spend 3 days per week working from homeWe value your insight and are always open to suggestionsInternational environment with a cheerful work atmosphereGreen office in Millennium Park, equipped with:bicycle storage and showersrestaurant with panoramic views over the Danube and the National Theatrefree coffee and snacks in our community area where we hang out and play darts, and have many other dining options in the surrounding area  What we expect from You:O365 Front-end and Back-end knowledgeSharePoint knowledgeC# knowledgeCSOM and .NET experience to maintain Web API’sCloud development in context of Azure: Web API’s and WebJobs deployed on AzureGood knowledge of SPFx (also known as SharePoint Framework) development, with a very good understanding of react and TypeScriptGood knowledge of oauth authentication, especially in context of SharePoint and Microsoft GraphNice to have: good knowledge of SharePoint REST API’s and Microsoft Graph   What you can expect during the recruitment process:After sending your CV in English, expect a two-round interview process, one at our office in Budapest (in Hungarian), and one online in English with the Belgian team leaderAn efficient selection process is important for both of us, so we try to make it as fast as possible, and even if you are not selected we will give you a detailed feedback.
+Sector(s):
+IT Operation, Telecommunication
+System operator, Maintenance Staff
+Telecommunication
+How to apply/ contact information
+Please click the Apply button to send your application.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol felsőfok
+1-3 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+KBC Global Services NV Magyarországi Fióktelepe
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+50-100 munkavállaló
+2008
+1095
+Budapest,
+Lechner Ödön fasor 9.
+Értékelések a(z) cégről
+Értékelések kategória szerint 
+3,8
+Megközelíthetőség 
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

@@ -1,0 +1,85 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFrontend developer pre Aktuality.sk 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Frontend developer pre Aktuality.skRingier Slovakia Media, s. r. o.
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 000 EUR/mesiacKaždého kandidáta posudzujeme individuálne. Plat sa skladá zo základnej zložky a z osobného ohodnotenia. Výška osobného ohodnotenia závisí od dosiahnutých skúsenosti, vedomostí , zručnosti.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo nášho Aktuality.sk tímu hľadáme skúseného parťáka pre vývoj novej kapitoly Aktuality produktu. Ak sa chceš spolupodieľať na vývoji nového unifikovaného UI kitu a knižnici univerzálnych komponentov do ktorej plánujeme refaktornúť celé naše portfólio, tak si na správnom mieste.Aké technológie používame? Front-end stránok zapracovaný cez Vue.js a jeho nadstavbu Nuxt.js Znalosť css predprocesorov, tailwindcss a stylus Back-end funguje v Node.js s využitím Nest.js frameworku Komunikácia medzi oboma vrstvami je zabezpečená pomocou microservicov Na ukladanie dát používame relačné databázi MySQL ale aj dokumentové Elasticsearch kde vyberáme vhodnú databázu podla potreby konkrétnych featur Všetky služby sú dockerizované v docker swarm clustery Na verzovanie kódu projektov používame GIT a konkrétne repozitáre máme vo vlastnom GITLABe.Hľadáme kolegu, ktorý nemusí dokonale ovládať všetko popísané, no má drive a chuť sa učiť a posúvať, prípadne priniesť niečo nové. Zamestnanecké výhody, benefityČo ti ponúkame? top kolektív. Áno, samochvála smrdí, ale ľudia u nás sú nielen kolegovia, ale aj kamoši a vzťahoch nám naozaj záleží, zdravie kolegov je pre nás dôležité - vitamínový balíček je samozrejmosťou a k dispozícií máme aj pár sick days, výučba anglického jazyka a UDEMY kurzy dostupné pre všetkých, príspevok do 3. dôchodkového piliera, podporujeme športové aktivity rôzneho druhu, napr. vzájomne sa hecujeme vo firemnom bežeckom klube, organizujeme aj  rôzne vzdelávacie aktivity, či už v oblasti hard skills alebo soft skills, prípadne sa snažíme rôznymi drobnými aktivitam kolegom spríjemniť prácu z domu (napr. workshop – Ako sa presadiť a neuraziť, prednáška : Ako sa stravovať počas HO a nepribrať, kurzy varenia, kurz miešania letných drinkov) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaOstatné znalostiVue.js - PokročilýNODE.JS - PokročilýMySQL - PokročilýJavaScript - PokročilýOsobnostné predpoklady a zručnosti• zaujímaš sa o novinky v tejto oblasti• si iniciatívny a sám navrhuješ riešenia Inzerujúca spoločnosť Stručná charakteristika spoločnostiRINGIER SLOVAKIA MEDIA, s. r. o, je multimediálny vydavateľský dom, ktorý je jednotkou slovenského internetu.
+Drvivá väčšina jeho online portfólia si dlhodobo udržuje pozíciu najnavštevovanejších slovenských internetových portálov, ktoré sú jednotkami vo svojich segmentoch. Do portfólia patrí spravodajsko – investigatívny portál Aktuality.sk, ženský magazín Diva.sk, mamičkovský portál Najmama.sk, technologický magazín Živé.sk, športový portál Šport.sk a európsky urban hub Noizz.sk. Súčasťou vydavateľstva sú aj ďalšie významné produkty ako Azet.sk či komunitný portál Pokec.
+Prostredníctvom svojej dcérskej spoločnosti United Classifieds, ktorá združuje portály ako Autobazar.eu, Autobazár.sk, Nehnuteľnosti.sk či TopReality.sk, je tiež najväčším prevádzkovateľom online inzertných portálov na Slovensku. 
+RINGIER SLOVAKIA MEDIA s.r.o zamestnáva viac ako 350 ľudí v Bratislave, v Žiline, v Novom Meste nad Váhom  a Košiciach. Je súčasťou švajčiarskej vydavateľskej skupiny Ringier. Počet zamestnancov250-499 zamestnancov 
+ KontaktKontaktná osoba: Michaela StískalováE-mail: poslať životopis
+Všetky ponuky spoločnosti
+ID: 4537931 
+     Dátum zverejnenia:  14.3.2023 
+    2023-03-14
+lokalita: Žilina   Pozícia: Frontend programátor, PHP programátor, Programátor   Spoločnosť: Ringier Slovakia Media, s. r. o.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

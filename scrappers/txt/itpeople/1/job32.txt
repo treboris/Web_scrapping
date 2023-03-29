@@ -1,0 +1,103 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+DevOps Lead állás Országos
+GIT
+Python
+Java
+Ruby
+AWS
+IT / Dev architect  állások 
+Tisztelt álláskereső!Ez az álláshirdetés lejárt.Azonban oldalunk több ezer egyéb álláshirdetéssel rendelkezik! Találja meg az önnek megfelelő munkát erre a linkre kattintva!
+Cégleírás / Organisation / DepartmentOur international client is looking for a motivated and dynamic DevOps Lead to join their team.
+Our partner is a strategic supplier to all restaurants, deploying in over 120 countries and over 37,500 locations worldwide. They provide software development, testing, deployment and support services for POS (point-of-sale) and related software applications that focus on the overall crew and customer experience, resulting in improved operations in the restaurants.Elvárások / Requirements
+This role is a leadership role but also hands on - both are required
+Must be an expert/have proven high level experience in AWS and all respective components
+Must have proven experience and high expertise in terraform and using AWS as a cloud provider. IAC is a must
+Strong knowledge in containers and container orchestration. Must be very strong in Kubernetes
+Very strong understanding of CI/CD, ideally Jenkins as a tool of choice
+Skilled in one or more programming languages such as Python, Ruby etc
+Understanding of Java preferable but not mandatory
+Thorough understanding of source control, git and trunk based dev
+Experience in monitoring and dashboards, ideally new relic
+Working knowledge of consul and Vault
+Leadership/Softskills:
+Able to lead, coach and mentor engineers of various levels of ability
+Be comfortable presenting and teaching
+Must be able to think about the bigger picture and create a roadmap/vision forimproving the area
+Amit kínálunk / Offer
+The DevOps lead will be responsible for leading and guiding a team of devops engineers across IST, HU and CST timezones
+They must have proven leadership experience and be able to coach and grow their team whilst also being hands on and able to troubleshoot issues, unblock the team andthink about long term vision of the area/what needs to be improved
+Kapcsolattartó / Information
+International team made of young and dynamic people, who like to keep work-life balance in mind
+Remote work opportunity with only a few days a month in the office
+Trainings, conferences, language courses, and sport opportunities
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Jelentkezés
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary Kft													
+Országos
+Nincs meghatározva
+ IT / Dev architect 
+Lejárati dátum: 2023-04-09 12:00:00
+Álláshirdetés részletei
+PozícióDevOps Lead
+Munkavégzés helye
+Országos
+MunkaidőNincs meghatározva
+KategóriaIT / Dev architect 
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

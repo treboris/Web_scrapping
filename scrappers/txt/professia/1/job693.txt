@@ -1,0 +1,102 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJunior Angular Developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Junior Angular DeveloperSOFTEC
+Miesto práce
+Einsteinova 33, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+1 300 EUR/mesiacmin. 1 300,- €/mes. + variabilná zložka mzdy a ďalšie benefity. Výsledné mzdové ohodnotenie závisí od úrovne skúseností a výkonu.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiBaví ťa vývoj a chceš sa zlepšovať v tvorbe webových aplikácií? Máš chuť pracovať o zaujímavými technológiami a sledovať nové trendy? Bavilo by ťa skombinovať prácu na vývoji frontendov s databázami? Potom poď s nami vyvíjať riešenie určené pre našich klientov z dynamickej telco oblasti (spolupracujeme s najväčšími hráčmi na trhu). Do nášho vývojárskeho teamu hľadáme šikovných developerov s otvorenou hlavou, ktorých baví učiť sa a neustále sa zlepšovať v tom, čo robia. Čo budeš robiť? spolupodieľať      sa na vývoji SW riešenia pre našich telco klientov  vyvíjať      pridelenú časť aplikácie podľa zadanej špecifikácie, alebo iného zadania  implementovať      aplikačné funkcie, zmenové požiadavky, testovať vytvorené funkcie,      nasadzovať do produkcie  spolupracovať      a aktívne komunikovať s ostatnými členmi vývojového tímu pri realizácii      riešenia Dávame ti šancu začať odspodu a všetko sa naučiť. Naši skúsení kolegovia ti podajú pomocnú ruku a pomôžu ti posúvať sa krok za krokom. Zamestnanecké výhody, benefityČo ponúkame? super      skúsenosti z vývoja zmysluplných SW riešení  podporu      skúsených mentorov a zaučenie, kariérny rast a rozvoj  prácu v      skvelom ITeame, kde kolegovia sú aj priateľmi  zaujímavý      benefitný systém zohľadňujúci level seniority  množstvo      športových a kultúrnych aktivít, podporu zdravia  nielen      prácou sme živí – spoločné Softecovice, divízovice  flexibilný      pracovný čas s možnosťou home office  možnosť      odreagovať sa v našej oddychovke  Multisport      kartu  Informácie o výberovom konaníAk si sa v inzeráte našiel/našla, neváhaj a pošli nám prosím svoje štruktúrované profesijné CV. Budeme ťa kontaktovať ohľadom ďalšieho postupu :) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformatika, SW vývojOsobnostné predpoklady a zručnostiKoho hľadáme?Máš skúsenosti s niektorou z nasledujúcich technológií?   front-end      vývoj – Angular, React.JS, Node.JS, Javascript  UML  My SQL,      Oracle DB, MS SQL, PL SQL  vítaná,      ale nie nutná je predchádzajúca prax vo vývoji SW riešení Že si neodpovedal/a na všetko ÁNO? Nevadí, čo nevieš, naučíme ťa! Hľadáme človeka, ktorý na sebe dokáže pracovať a chce spoznávať nové technológie. Samostatnosť a proaktivita je preto neodmysliteľnou súčasťou nášho fungovania. Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme softvérovo-konzultačná spoločnosť, spolu nás je už vyše 400 a neustále rastieme. Určite radi privítame do tímu aj teba. Neboj sa, nehodíme ťa do vody, aby si sám plával. 
+Ak si junior, tak ako každý nováčik u nás, budeš aj ty na začiatku zaradený do útvaru Akadémia a bude ti pridelený tútor, ktorý ťa bude viesť a pomáhať ti so zadanými úlohami. Následne, keď budeš na to pripravený, po mesiaci až dvoch, začneš pracovať na reálnom projekte. Mladým talentom vytvárame inšpiratívne podmienky pre profesionálny i osobnostný rozvoj a vzdelávanie. 
+Pri medioroch a senioroch je priebeh zaškoľovania primeraný ich aktuálnym znalostiam a taktiež s podporou prideleného tútora. Pracujeme s technológiami ako napríklad Angular, Java, .NET, React ale aj vlastnými ako napr. JavaTec. 
+Sídlo spoločnosti máme v Bratislave v budove Einpark - najzelenšej kancelárskej budove na Slovensku, ktorá vďaka svojim udržateľným princípom získala viacero certifikátov. Naše ďalšie pobočky máme v Prahe, Prievidzi a v Žiline.
+Od iných firiem sa líšime hlavne tým, že pojmy rodinná a príjemná atmosféra nie sú pre nás iba prázdne slová, ale je to reálny motivátor našich zamestnancov. Dokazujú to aj naše interné prieskumy spokojnosti, fluktuácia nepresahujúca dvojciferné číslo, stabilné tímy, naši dlhoroční kolegovia a nakoniec aj samotné pravidelné umiestnenie medzi najlepšími zamestnávateľmi. Tento rok nás opäť neminulo ocenenie od Profesie a sme medzi top 10 najzamestnávateľmi na Slovensku v oblasti IT. Naša pobočka v Bratislave nedávno získala ocenenie Office roka 2021 – Zdravá kancelária, pričom k tomuto rozhodnutiu, ako uviedla samotná porota, prispela tiež rodinná atmosféra, ktorú v našich officoch cítili.  
+Máme prepracovaný benefitný systém, ktorý ponúka množstvo zaujímavých výhod ako napríklad:
+•	penzijné zabezpečenie/ 3. pilier DDS
+•	dni dovolenky navyše pre všetkých podľa levelu seniority     
+•	Kafetéria       
+•	príspevok na technologickú vychytávku (na pracovné vybavenie)
+•	podpora zdravotnej starostlivosti
+•	finančný príspevok na jazykové vzdelávanie 
+•	pôžička na riešenie bytovej situácie 
+•	referral program
+•	lifestyle aktivity - ranné cvičenia jogy, zdravý chrbát, webináre a pod.
+•	oddychové zóny, cyklomiestnosť
+•	parkovanie, auto na operatívny leasing
+•	home office (napriek tomu chodí mnoho našich kolegov do práce pretože sa chce stretávať s ostantnými) 
+•	letná a zimná Softecovica, divízovice, detský Mikuláš
+•	tematické týždne – nanukový, ovocný, zdravý a pod.
+•	skupinové športové aktivity – maratóny a bežecký klub, florbal, volejbal a ďalšie
+Chceš sa o SOFTEC-u dozvedieť viac? Klikni na našu webstránku a pozri si naše aktuálne otvorené pozície: https://www.softec.sk/pracovne-ponuky/ Počet zamestnancov250-499 zamestnancov 
+ KontaktE-mail: poslať životopis
+Všetky ponuky spoločnosti
+ID: 4528213 
+     Dátum zverejnenia:  27.2.2023 
+    2023-02-27
+lokalita: Bratislava   Pozícia: Frontend programátor, Javascript programátor, Programátor   Spoločnosť: SOFTEC   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 1 300 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

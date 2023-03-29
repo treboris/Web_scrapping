@@ -1,0 +1,471 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+hirdetés
+Keresési feltételek
+Győr
+PLC programozó
+villamosmérnök
+C developer
+embedded developer
+karbantartó villamosmérnök
+szoftverfejlesztő
+gazdasági informatikus
+Ruby developer
+Python developer
+Perl developer
+Állások száma: 
+25
+Minden keresési feltétel törlése
+Szakterület
+Adminisztráció, asszisztencia
+4
+Bank, biztosítás
+4
+Egészségügy, gyógyszeripar
+5
+Építőipar, épületüzemeltetés
+9
+Értékesítés, kereskedelem
+21
+Gyártás, műszaki terület
+59
+Humán erőforrások, munkaügy
+15
+IT, telekommunikáció
+60
+Karbantartás, szerviz
+20
+Logisztika, beszerzés
+30
+Marketing, PR, média
+9
+Menedzsment, felsővezetés
+2
+Minőségbiztosítás
+12
+Oktatás, képzés
+1
+Pénzügy, számvitel
+25
+SSC (Shared Service Center)
+9
+Szakmunka, fizikai munka
+53
+Ügyfélszolgálat, call center
+9
+Vendéglátóipar, idegenforgalom
+1
+Gyártás, műszaki terület
+villamosmérnök
+10
+technikus
+9
+automatizálási mérnök
+5
+gépészmérnök
+4
+gyártástámogató mérnök
+4
+tervezőmérnök
+4
+projektmenedzser (gyártás / termelés / műszaki terület)
+3
+CNC technológus
+2
+egyéb (gyártás / termelés / műszaki terület)
+2
+fejlesztőmérnök
+2
+folyamatfejlesztő mérnök
+2
+mérnökségvezető
+2
+szimulációs mérnök
+2
+termékmérnök
+2
+termeléstervező
+2
+tesztmérnök
+2
+ajánlatadó mérnök
+1
+applikációs mérnök
+1
+fejlesztőmérnök (gépészmérnök)
+1
+folyamatmérnök
+1
+közlekedésmérnök
+1
+laboráns
+1
+NPI mérnök
+1
+prés mérnök
+1
+program manager
+1
+projektkoordinátor
+1
+projektmérnök
+1
+szerszámtervező mérnök
+1
+technológus
+1
+termelési vezető
+1
+termelésirányító
+1
+vegyészmérnök
+1
+IT, telekommunikáció
+szoftverfejlesztő
+14
+IT helpdesk
+8
+rendszermérnök
+6
+tesztmérnök (IT/Telekommunikáció)
+4
+business intelligence ( BI ) specialist
+3
+IT security specialist
+3
+szoftvermérnök
+3
+.NET developer
+2
+business analyst (IT)
+2
+development team lead
+2
+project manager
+2
+projektmenedzser (IT / telekommunikáció)
+2
+reporting specialist
+2
+SAP szakértő
+2
+system administrator
+2
+C developer
+1
+C# developer
+1
+C++ developer
+1
+database administrator
+1
+embedded developer
+1
+ERP / CRM specialist
+1
+gyakornok (IT / telekommunikáció)
+1
+IT manager
+1
+IT sales manager
+1
+java backend developer
+1
+SAP consultant
+1
+software test engineer
+1
+Karbantartás, szerviz
+karbantartó
+7
+elektromos karbantartó
+4
+mechanikus karbantartó
+3
+gépész karbantartó
+2
+karbantartó gépészmérnök
+2
+karbantartó villamosmérnök
+1
+szerszámkarbantartó
+1
+szerviztechnikus
+1
+Hely
+Győr-Moson-Sopron megye
+11
+Győr-Moson-Sopron megye
+Győr
+8
+Nyelvismeret
+nem igényel nyelvtudást
+3
+angol
+22
+német
+3
+Munkatapasztalat
+pályakezdő /tapasztalat nélkül
+4
+1 - 2 év tapasztalat
+18
+3 - 5 év tapasztalat
+11
+5+ év tapasztalat
+1
+Végzettség
+Középfokú végzettség
+4
+Felsőfokú végzettség
+23
+Munka jellege
+teljes munkaidő
+25
+részmunkaidő
+1
+távmunka, home office
+4
+vállalkozó
+1
+Hirdető
+közvetlen munkaadó
+2
+közvetítő cég
+23
+Bérsáv
+ - 
+Ft
+EUR
+GBP
+USD
+ A maximum nem lehet kisebb a minimum értéknél!
+Fizetés típusa
+bruttó
+nettó
+Fizetés gyakorisága
+óra
+hónap
+ALKALMAZ ›
+hirdetés
+?
+Állásposta
+Hibás e-mail cím!
+Feliratkozás ›
+Sikeres regisztráció!
+Kérjük, aktiváld a felhasználói fiókodat: A megadott e-mail címre elküldtük a megerősítő linket.
+Ezt követően feltöltheted az önéletrajzodat és beállíthatod, hogy milyen állásokról szeretnél értesítést kapni.
+Sikeres álláskeresést kívánunk!
+Sikeres regisztráció!
+Köszönjük, hogy regisztráltál! Még aktiválnod kell a kiküldött e-mail-ben szereplő linkre kattintva! 
+A nyereménysorsolásban csak aktivált fiókkal veszel részt. (Ha a beérkező levelek között nem találod, nézd meg a „Levélszemét” mappát is.)
+Sikeres álláskeresést kívánunk!
+Sikeres aktiválás!
+Köszönjük, hogy aktiváltad Jobline fiókodat és Álláspostádat! Részt veszel a nyereménysorsolásban.
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Új Állásposta beállítva!
+Köszönjük, hogy új Álláspostát állítottál be, ezzel részt veszel a nyereménysorsoláson. A nyerteseket e-mailben értesítjük. 
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Új Állásposta beállítva!
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Győr - PLC programozó - villamosmérnök - C developer - embedded developer - karbantartó villamosmérnök - szoftverfejlesztő - gazdasági informatikus - Ruby developer - Python developer - Perl developer állások, állásajánlatok
+?
+Állásposta
+Hibás e-mail cím!
+Feliratkozás ›
+25 állás
+HumanField Kft.
+ROBOTPROGRAMOZÓ (Győr-Moson-Sopron megye)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Thyssenkrupp
+Szoftverfejlesztő mérnök - beágyazott rendszerekhez (Győr)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Thyssenkrupp
+Szoftverfejlesztő mérnök - beágyazott rendszerekhez (Győr)
+pályakezdő /tapasztalat nélkül
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+hirdetés
+EasyHiring Services Kft.
+Power energy engineer (Magyarország)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Trenkwalder Kft.
+THT folyamatmérnök (Győr)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+pályakezdő /tapasztalat nélkül
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+EasyHiring Services Kft.
+Biztonságos programozási módszertan oktatása szoftverfejlesztőknek - Online oktatások - Folyékony angol - Remote munkavégzés - Alkalmazott, vállalkozó, részmunkaidő! (Magyarország)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+részmunkaidő
+teljes munkaidő
+vállalkozó
+Randstad Hungary Kft
+Cloud DevOps Engineer (Magyarország)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Trenkwalder Kft.
+SMT Folyamatmérnök (Győr)
+pályakezdő /tapasztalat nélkül
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+EasyHiring Services Kft.
+Cloud DevOps Engineer (Magyarország)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Hire-One Személyzeti Tanácsadó Kft.
+Mérnökségvezető (Győr)
+3 - 5 év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Trenkwalder Kft.
+Karbantartó mérnök (Győr-Moson-Sopron megye)
+pályakezdő /tapasztalat nélkül
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Hire-One Személyzeti Tanácsadó Kft.
+Karbantartó mérnök (Győr) (Győr)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Trenkwalder Kft.
+PLC technikus (Győr)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - alapfokú
+német - alapfokú
+EasyHiring Services Kft.
+Intermediate/Senior DevOps Engineer (Magyarország)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Hays Hungary Kft.
+Medior Fullstack Developer - Java/Angular (Magyarország)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Hays Hungary Kft.
+Front End engineer (Magyarország)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+EasyHiring Services Kft.
+Szenior Frontend fejlesztő - Typescript/Angular - 3D - építőipari szoftver (Magyarország)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+EasyHiring Services Kft.
+Intermediate Programmer Analyst (Magyarország)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+EasyHiring Services Kft.
+DevOps Lead (Debrecen/Budapest) (Magyarország)
+1 - 2 év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+EasyHiring Services Kft.
+Cloud Platform Engineer (Magyarország)
+3 - 5 év tapasztalat
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+25 állás
+1
+2
+Tűnj ki a tömegből letölthető önéletrajz mintáinkkal
+Ne csak a tartalom legyen kiemelkedő
+Önéletrajzminta letöltése ›
+Önéletrajzminta letöltése ›
+Önéletrajzminta letöltése ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Szeged
+Győr
+Pécs
+Kecskemét
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+Ezekkel a beállításokkal már vettél fel Álláspostát.
+Biztos, hogy el akarod menteni?
+Mégsem
+Mentés ›
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

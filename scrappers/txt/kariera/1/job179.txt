@@ -1,0 +1,86 @@
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+DomovVytvor si CVPonuky mailomPrihlásiť
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+Späť na pracovné ponuky
+Software Test Automation Engineer
+			EPAM Systems s.r.o.			
+ Miesto práce: 
+Bratislava
+Ponúkaný plat (základná mzda):
+2600 EUR
+Zobraziť viac
+ Druh pracovného pomeru: 
+ plný úväzok 
+Informácie o pracovnom mieste
+ 2512002 - Softvérový architekt, dizajnérPracovná oblasť: IT a telekomunikáciePočet voľných miest: 1Náplň práce: RESPONSIBILITIESDefine test scenarios, implement automated test cases, perform non-regression analysis, analyses test results to validate new functionalities in close collaboration with the other team membersMeasure and improve test coverage by providing recommendations and following-up with the team on corrective actionsPerform daily test watching, report failed tests and follow-up with the team to fixParticipate to full system development life cycle per company’s SDLC standardsPrepare and track release micro planningContribute to building, maintaining and reviewing training material on the applicationReview application documentation to ensure smooth hand over to QA and PO’s / PMSet-up any additional quality control and metrics the team might needGenerate quality reports for multiple purposes 
+ Informácie pre uchádzača: 
+	Pracovný a mimopracovný pomer: Pracovný pomer na určitú dobuPočet mesiacov: 24Nočná práca: NieSezónna práca: NieZákladná zložka mzdy v eurách (v hrubom):  2 600  € mesačne Druh voľnej pracovnej pozície: Voľné pracovné miesto v podnikateľskej sféreZdroj: Pracovná ponuka je prevzatá zo stránky Úradov práce. 
+ Všeobecne požadované znalosti: 
+ Požadovaný stupeň vzdelania:  Vysokoškolské vzdelanie prvého stupňa Prax: aspoň 5 rokovZnalosť slovenského jazyka je nevyhnutná:  Nie Znalosť jazyka požaduje:  ovládanie všetkých definovaných jazykov Cudzí jazyk:   anglický   vysoká – vysoká C1 a C2   ruský   vysoká – vysoká C1 a C2 Počítačové zručnosti:  TypeScript 
+- 
+ TypeScript  Protractor 
+- 
+ Protractor  Jasmine/Cucumber 
+- 
+ Jasmine/Cucumber  Selenium 
+- 
+ Selenium  Cypress 
+- 
+ Cypress  Maven 
+- 
+ Maven  JUnit 
+- 
+ JUnit  DbUnit 
+- 
+ DbUnit  Oracle 
+- 
+ Oracle  MSSQL 
+- 
+ MSSQL  REST 
+- 
+ REST  JAVA 
+- 
+ JAVA  TeamCity 
+- 
+ TeamCity  Power Shell 
+- 
+ Power Shell  Sonar 
+- 
+ Sonar  Node 
+- 
+ Node Vodičské oprávnenie:  Skupina   B Všeobecné spôsobilosti:  analyzovanie a riešenie problémov  komunikácia (jednanie s ľuďmi)  komunikácia v cudzom jazyku  matematická gramotnosť  organizovanie a plánovanie práce  vedenie ľudí Osobnostné predpoklady:  analytické myslenie  komunikatívnosť  praktické myslenie  technický talent  
+Požiadavky na zamestnanca
+ Vhodné pre absolventov: 
+						Nie
+Informácie o spoločnosti
+ Kontaktné údaje: 
+ EPAM Systems s.r.o. 
+Reaguj na ponukuZdieľajDaj vedieť firme, že sa ti ponuka páči
+ Pozícia / odvetvie: 
+Telekomunikácie / IT analytik / Softvérový inžinier
+ Dátum zverejnenia: 14.02.2023		
+Iné možnosti práceTelekomunikácie BratislavaIT analytik BratislavaSoftvérový inžinier BratislavaBratislava plný úväzok
+Podobné pracovné ponuky
+Network Security Consultant – Check Point, F5 - TPP/freelance (Ref. č.: 1-15-40955)
+Grafton Slovakia s.r.o.
+JAVA Developer  (m/f)
+Slovak Telekom
+IT Analytik - Team Leader (Ref. č.: 1-15-41609)
+Grafton Slovakia s.r.o.
+Špecialista sieťovej bezpečnosti (Ref. č.: 131-16-41820)
+Grafton Slovakia s.r.o.
+Senior .NET Developer
+EuroView s.r.o.
+Kariéra Magazín
+Kariéra EXPO
+Kariéra Podcast
+Kariéra Raňajky
+Sleduj nás
+O násCenník služiebZoznam pozíciíObchodné podmienkyPodmienky spracovania osobných údajovKalkulačka mzdyKariérne poradenstvoTlačové správyNapíšte nám Cookies
+Nastavenie súkromia
+skenua 
+			© 2023 Zoznam, s.r.o. Všetky práva vyhradené.

@@ -9,7 +9,7 @@ import os
 
 
 
-web_pages = ['cvonline','itpeople' ,'jobline','kariera','professia' , 'profession' ]
+web_pages = ['profession' ]
 initial = 1
 
 
@@ -20,10 +20,10 @@ initial = 1
 #WEBSCRAPING JOBS ONE BY ONE
 
 for x in tqdm(range(0,len(web_pages))):
-    data = pd.read_csv(f'data/{web_pages[x]}{initial}.csv')
+    data = pd.read_csv(f'data/{web_pages[x]}/{web_pages[x]}{initial}.csv')
     href = data['Href'].to_list()
     name = web_pages[x]+str(initial)
-    for y in tqdm(range(0,size(f'{name}.csv'))):
+    for y in tqdm(range(0,size(f'{web_pages[x]}',f'{name}.csv'))):
         file_write(web_pages[x],href[y] ,y,int(initial))
 
 

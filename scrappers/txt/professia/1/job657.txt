@@ -1,0 +1,154 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceGolang Developer for Open Sovereign Cloud 
+Open Positions
+Company
+Education Programs
+Benefits
+Golang Developer for Open Sovereign CloudDeutsche Telekom IT Solutions Slovakia
+                                Place of work
+                            Košice, Slovakia (Job with occasional home office)
+                                Contract type
+                            full-time
+Information about the position Job description, responsibilities and dutiesPurpose
+Sovereign Cloud is T-Systems' cloud offering for clients with high sovereignty needs. Clients in regulated sectors such as healthcare and the public sector are put in complete charge of their data – on an open-source platform, hosted in Europe. Our focus is to build new product – Sovereign Cloud within T-systems international cloud portfolio.
+As a Software Developer in the Open Sovereign Cloud team (OSC) working on Gardener you will help us deliver the mission of helping customers run and use services based on containers with complete data sovereignty anywhere. At OSC, we are building a core set of functionalities that will allow our regulated and sectorial customers to create and use services based on Kubernetes at scale in their choice of regulated and compliant data centers, public clouds or hyperscalers. You will be part of an exceptional team moving the needle towards making containers as the next generation compute platform everywhere. This is an opportunity engineer system on a massive scale, and to gain top-notch experience in distributed systems and cloud computing.
+Senior Software Solution Designer for application development is responsible for end to end solutions for customer’s demand with respect to different options on market, available internal systems, and Deutsche Telekom standards. Holder of the position is responsible to be part of the scrum team as the highest priority to drive business in order to bring value for customer.
+Key accountabilities
+•	• Support and develop software on Open Sovereign Cloud as defined by product management and product owners
+• Lead and work in SAFE methodology
+• Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage and work processes; investigating problem areas; following the software development lifecycle
+• Develop complex cloud secure solutions based on open source technologies (GoLang, Kubernetes) as specified in requirements
+• Document and demonstrate solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code
+• Improve operations by conducting systems analysis; recommending changes in policies and procedures
+• Analyze initial customer demand and existing system architectures to bring value for customer
+• Defines architecture rules and specifications
+• Develop solutions for complex systems with good operability and a good price/performance ratio • Identify different options for fulfillment of customer’s demand to find optimal solution with appropriate ratio effort, price, time, quality
+• Ensures compliance with rules and plans
+• Design integration of solution, application, to existing systems
+• Perform consulting to customer with respect to technical realization to mitigate differences in business vs technical requirements • Communicates effectively as a designer with developers (coders, testers)
+• Creates solution/architecture documentation
+• Design test driver, simulators & automation, logical test cases for test items, test infrastructure, test end & test abort criteria from release & test criteria
+• Implement solution
+• Perform lessons learned Wage (gross)2 500 EUR/monthFinal salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2500 € /brutto.  Employee perks, benefits
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work – life balance
+Other benefits *
+        For more information about our benefits click to Benefits
+Benefits with * are applicable also to part-time positions.This information may be subject to changes and other internal rules. Requirements for the employee Candidates with education suit the positionUniversity education (Master's degree)Language skillsEnglish - Advanced (C1) or German - Advanced (C1)Personality requirements and skillsEducation
+•	Master
+Experience
+•	7 years on similar position
+Certification
+•	LSA and Product certification required in specific cases
+IT Technical Skills
+•	MS Office - Expert
+•	ITIL - Advanced
+•	Solution proposal - Expert
+•	Scrum - Expert
+•	Jira - Advanced
+•	SAFe - Advanced
+•	Product Eexpert - Expert
+Soft Skills
+•	Communication
+•	Presentation
+•	Analytical thinking
+•	Result orientation 
+•	Able to develop colleagues
+•	Conflict management
+Finance Skills
+•	Resource Planing 
+Other skills
+•	Organisational skills
+•	Diplomacy
+•	Project management
+•	Skill 4 
+Languages
+•	English - Advanced (C1)
+•	German/Advantage - Advanced (C1) 
+Other criteria or requirements
+•	Work collaboratively with others to achieve goals
+•	Be a persistent, creative problem -solver
+•	Remain cool and effective in a crisis
+•	Stay on the leading edge of development practices
+•	Passionate about great technologies, especially open source
+•	Understand business needs and know how to create the tools to manage them
+•	Extensive knowledge of business environment and IT, business process, organization, implications of changes
+•	Experience in business analysis, business process design and end-to-end IT solution design
+•	Experience in introducing comprehensive IT solutions in a complex IT application landscape, analyzing and preparing a new solution, testing, participation in roll outs
+•	Experience in creating topic-specific IT guidelines and blueprints and communicating/consulting this content with system users
+•	Clear focus on performance, results and strong communication skills
+•	Analytical abilities and capacity for joined-up thinking
+•	Ability to simplify complex procedures with regard to the customer Advertiser Brief description of the companyOur brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services. Number of employees1000 and more employees ContactContact person: HR Recruitment TeamE-mail: send CV
+Apply Online
+                        Deutsche Telekom IT Solutions Slovakia
+                        Žriedlová 13, 040 01 Košice
+www.deutschetelekomitsolutions.sk
+055/7853566
+ID: 4528956 
+     Dátum zverejnenia:  28.3.2023 
+    2023-03-28
+lokalita: Košice   Pozícia: Android Developer   Spoločnosť: Deutsche Telekom IT Solutions Slovakia   
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

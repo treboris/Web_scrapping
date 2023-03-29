@@ -22,7 +22,7 @@ import re
 #https://github.com/ultrafunkamsterdam/undetected-chromedriver
 
 
-
+initial = 1
 options = Options()
 options.headless = True
 driver = webdriver.Firefox(options = options)
@@ -82,14 +82,6 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-
-
-
-
-
-save_data = Save(f'stepstone0' ,('ID' , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp), ("Href" , href),('Date' , datee) )
-
-
-
-
+save_data = Save('stepstone',f'stepstone{initial}' ,('ID' , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp), ("Href" , href),('Date' , datee) )
 driver.quit()
+print('\a')

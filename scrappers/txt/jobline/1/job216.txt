@@ -1,0 +1,94 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Embedded Penetration Tester (Ethical Hacker) (Budapest)
+Embedded Penetration Tester (Ethical Hacker) (Budapest)
+Jelentkezem az állásra ›
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Embedded Penetration Tester (Ethical Hacker)
+Company
+With over 200 years of experience in industry and cutting-edge technologies our Global Partner is active in automotive engineering, logistics, plant technology, steel production and much more. Our group have more than 106,000 employees in nearly 80 countries and annual sales of €42 billion.
+In the Hungarian development center with our engineering team of 1000 we are present as an innovative and significant partner in one of the fastest growing and most exciting segment of the automotive industry, in the field of electromechanical steering systems. With outstanding quality and high-tech developments we meet the needs of renowned car manufacturers and our developments can be found in 25 % of the manufactured cars all over the world. Our engineers work on new challenges that can change the future of automotive.
+Your responsibilities
+Design and support the design of test framework systems implementing product cybersecurity 
+Perform cybersecurity attacks on the product to evaluate the security level of the system. 
+Perform penetration tests on hardware level (communication protocols, debug interfaces, memories, Hardware Security Modules) 
+Validation of cybersecurity goals and vulnerabilities exploration 
+Support of risk assessment 
+Support risk and vulnerability management 
+Working with management to implement cybersecurity in the product 
+Carrying out and attaining the mission and the goals of the business unit managed 
+Continuous self-development 
+Communicate regularly with other stakeholders 
+KPI and periodic reports about the status of the cybersecurity test projects 
+Establish and maintain relevant controls and feedback systems to monitor the operation of the product cybersecurity project team 
+Your profile
+University degree (BSc, MSc) in a technical field: Electrical Engineering, Computer Science 
+4+ years of professional experience 
+Familiarity with embedded systems. 
+Advanced knowledge of C and assembly programming language 
+Out of the box mindset 
+Ready to learn about new technologies 
+Familiarity with measurement and debugging tools 
+Experience in the field of information security / cybersecurity 
+Ability for teamwork 
+Self-driven to improve continuously 
+The ability to present the work outcome according to the audience 
+Critical thinking 
+Advantages
+Experience in the automotive industry 
+Experience in Reverse Engineering 
+Experience in embedded hardware security 
+Python development 
+Following certificates: CEH, OSCP, OSCE, CISSP ITIL Foundation, PMP certification 
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Hays Hungary Kft. -
+Technical Support Engineer - Junior Java Developer
+EasyHiring Services Kft. -
+Frontend Software Engineer
+EasyHiring Services Kft. -
+Python Software Engineer/Modelling Expert
+Hays Hungary Kft. -
+Software Engineer Front-end
+Cinemo GmbH -
+Embedded Software Engineer C++ (f/m/d)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Szeged
+Győr
+Pécs
+Kecskemét
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

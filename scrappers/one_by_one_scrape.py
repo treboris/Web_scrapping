@@ -6,11 +6,10 @@ import time
 import os
 
 
-def size(csv):
-    data = pd.read_csv(f'data/{csv}')
+def size(folder,csv):
+    data = pd.read_csv(f'data/{folder}/{csv}')
     return (data['ID'].size) -1
 
-print(size('professia1.csv'))
 
 def file_write(name,href,id,initial):
 
@@ -79,8 +78,12 @@ def file_write(name,href,id,initial):
         elif (name == 'profession'):
             for line in f:
                 if(line.strip()):
-                    text += line
-
+                    if ('Belépésálláskeresőknek' in line):
+                        cond = True
+                    if (cond):
+                        text += line
+                    if ('Értékelem' in line):
+                        break
 
         elif(name == 'cvonline'):
             for line in f:

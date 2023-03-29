@@ -1,0 +1,67 @@
+Jobs by email
+ZEISS
+IT Test Manager
+München
+Permanent contract
+Full Time
+Published: 1 day ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+ Ihre Rolle
+You will play a crucial role in defining and implementing test strategy and actively contribute to implementing end-to-end quality assurance to the SAP ERP applications and Digital Solutions developed by ZEISS.
+Working in a central test management team, you will create test strategies and test concepts, support in test design, test case creation, test automation, test execution and reporting on test progress and quality status.
+As a major task of central test management team, you will play an important role in providing test management support to different cross-functional team of product owners, front-/backend developers, SAP developers and UX/UI designers, to the ongoing, newly and/or further developed Digital Solutions. Within an agile DevOps environment, you will plan, coordinate, and control all test activities (strategic and operational).
+Based on your expertise and experience in software quality assurance, you will help the team to identify potential risks and issues, so you as a team can deliver high quality products to our customer.
+Being a test expert, you will also take care of consulting and coaching in the test area to further plan, implement and improve the quality standard processes.
+ Ihr Profil
+Work together in the central Test Management team to define enterprise level SAP test strategies, methodologies, approach to functional and non-functional test automation, adaption to automation
+Develop detail test plan, and execute with focus on the outcome and end goals
+Work closely with Program/Project Managers in managing test scope, budget, risks and periodically report the progress, challenges, possible solutions etc. to the senior management.
+Manage SAP Testing projects and manage Testing as a Services.
+Test data management – work with different stakeholders to co-ordinate and organize test data relevant for different phases of SAP testing.
+Plan, manage and coordinate test management activities for S4 HANA Migration Project across SAP streams – Sales and Distribution, Finance, Purchasing, Manufacturing and Logistics, Security, Demand Chain to a successful completion
+Plan, develop, maintain together working with automation testers to automate scripts to be used for continuous testing
+Plan load and performance test runs activities end to end on S/4 HANA landscape
+Work closely with release manger and change manager and establish quality gates wherever applicable scaling up with automation testing.
+Manage detailed test plans for all test phases in test management tools like SAP Solution Manager or Azure DevOps.
+Apply industry standards, software development, and engineering knowledge to assist teams within the program to define, document, maintain and improve processes.
+Provide oversight and recommendations on improvement for testing tools.
+Demonstrate continuous effort to improve operations, streamline processes, and work cooperatively and jointly to provide quality testing services to various projects.
+Understand SAP testing related challenges and work together with Central Test Management team to build and provide best fit solutions.
+Experienced in working in a multi culture team
+If you would like to know more about the role kindly contact the responsible recruiter: Andre Grunzel (andre.grunzel@zeiss.com).
+What we offer
+  Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+ZEISS
+81379 München, Germany
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

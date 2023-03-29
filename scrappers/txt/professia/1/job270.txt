@@ -1,0 +1,120 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceMedior/Senior Frontend Developer for our Connected Home Team 
+Voľné pozície
+O nás
+Zamestnanecké výhody
+Kontakt
+Medior/Senior Frontend Developer for our Connected Home Team
+                                Place of work
+                            Bratislava, Slovakia (Job with occasional home office)
+                                Contract type
+                            full-time
+                                Wage (gross)
+From 2 300 EUR/monthPerformance bonus 2 times per year up to 16,67% of the basic salary paid for the evaluation period(usually 6 months).*The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+Information about the position Job description, responsibilities and dutiesWe are looking for a Frontend Developer with experiences in SPA & web applications development to join our Connected home team. 
+You will work on consumer projects which consists of ESET HOME portals and multiple backend services / portals that provide functionalities for ESET consumer products.
+We mainly use React to power our largest ESET HOME portals while gradually integrating other existing portals into this ecosystem.
+What does working as Frontend Developer entail?
+- Design and development of SPA & web applications based on React & various Javascript frameworks
+- Participation in code reviews as a member of an agile team
+- Cooperation with multiple development teams Employee perks, benefits• Support in personal and professional development - opportunities to attend various trainings, courses, conferences or meetups 
+• Attractive financial bonus paid twice a year based on your performance
+• Financial support in case of life milestones (wedding, childbirth)
+• Complementary retirement savings contributions
+• Fully covered 7 EUR/per day meal vouchers
+•  Wide range of benefits in sport, healthcare, culture, education and other areas
+• "Refer a friend" benefit - the opportunity to receive a financial bonus when referring a friend for an open vacancy
+• Available home-office days - 12 days per month (in SR)
+• Fully-paid 3 sickdays 
+• Loyalty program - extra vacation days and financial bonus after working at ESET for 5 and more years
+• Mind & Soul program - free helpline and counselling in personal and professional development 
+• Sport activities support – possibility to participate in various races, bike cages, bikes for rent
+• Fresh fruit, tea, coffee, non-alcoholic beverages - you can find them all in every kitchen
+• Casual, friendly, open culture with no dress code
+• Participating in company events
+• Opportunity to use company common areas (terrace, relax zone, library) for a chill time and meetings with colleagues
+• Volunteering and opportunity to participate in various CSR activities Requirements for the employee Candidates with education suit the positionFollow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2)Other knowledgeReact Hooks - BasicThe position is suitable for a fresh graduateYesPersonality requirements and skillsOur Requirements:
+- High School/University education
+- React skills (React Hooks & State management etc) (other UI frameworks acceptable)
+- Javascript, ES6+
+- Typescript / jQuery
+- HTML & CSS
+- Basic knowledge of any major UI design library (Bootstrap/Material UI/AntD)
+- English language
+Nice to have:
+- Experience with Redux/Redux Toolkit
+- Experience with ASP.NET MVC, C#, EF6
+- Experience with OpenId & Oauth2 Advertiser Brief description of the companyThe beginnings of ESET date back to 1987, when two young programming enthusiasts, Peter Paško and Miroslav Trnka, wrote a program for the detection of one of the world’s first computer viruses. They did not know that they had created one of the most successful antivirus programs in the world – dubbing it NOD. In 1992, together with their mutual friend Rudolf Hrubý, they formally established ESET.
+What started as the brainchild of a few friends has evolved into the most valuable international brand of any Slovak company. Today ESET’s NOD32 technology protects over 100 million users across the world.
+This success did not come overnight. The company’s global success and growth was given a boost in 1998 with its first “VB100” award from the prestigious Virus Bulletin magazine. Since then, we’ve received this accolade more than 100 times.
+Today, over 2,100 employees around the world drive the company’s success – a telling increase from 3 in 1987 and 135 in 2006. More than 1200 of them are based in Slovakia, the home of ESET headquarters.
+Throughout the company’s expansion, we have stayed true to the principles on which we were founded, and we remain independent in order to continue to meet new challenges. Number of employees1000 and more employees ContactContact person: Eva Kvasničková VerbichE-mail: send CV
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4520105 
+     Dátum zverejnenia:  15.3.2023 
+    2023-03-15
+lokalita: Bratislava   Pozícia: .NET Programmer, Frontend developer, Javascript Programmer, Programmer, Software Engineer   Spoločnosť: ESET, spol. s r.o.   
+Základná zložka mzdy (brutto): 2 300 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 
