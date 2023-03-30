@@ -1,0 +1,49 @@
+Jobs by email
+Dassault Systemes 3DExcite GmbH
+Software Engineer (m/f/d) - Cloud Services
+München
+Permanent contract
+Full Time, Home office possible
+Published: 3 weeks ago
+Show salary
+Save
+Your role:
+Become part of 3DEXCITE, the Dassault Systèmes Marketing and Sales brand. We provide comprehensive solutions for collaboration and 3D product content creation that enable our customers to evolve their marketing beyond messaging.
+As a Software Engineer - Cloud Services (m/f/d), you join our team responsible for the cloud service 3D Media Rendering located in Munich. The service is one of the corner stones in the 3DEXCITE infrastructure. You will work on the back-end focused on providing content generation capabilities, like high-quality visualization and media publishing on the 3DEXPERIENCE® platform. 
+Your responsibilities:
+Work as a developer in an agile team, in close collaboration with other teams
+Design and coordinate solutions to satisfy functional and non-functional requirements
+Provide reliable estimates to support planning and tracking of releases
+Deliver software implementations in time and quality with automated tests (mainly in C++ and Java)
+Monitor and maintain service operation on test and production environments
+Ideate, prototype and validate new approaches, improvements and technologies
+Your qualifications:
+Bachelor’s or Master’s degree in Computer Science or related field
+At least 5 years’ working experience in software development
+Experience with developing small to medium sized distributed software systems
+Proficiency in coding, debugging and testing in C++, Java, Bash (Extra: Python)
+Competency with Linux, Data Modeling, SQL
+Knowledge about tools and methodologies like CI/CD, GIT, SCRUM, Kanban
+Very good analytical and problem-solving skills, strong communication skills in English. Ability to communicate with stakeholders on different levels.
+Sense of responsibility for the tasks and engineering problems assigned to you
+Motivated for learning new things
+What's in it for you?
+A permanent job in a sustainable, innovative, science-oriented international company
+An open, creative, dynamic work environment in a motivated team
+Varied challenging and rewarding tasks
+Attractive training opportunities, supportive colleagues
+Opportunity to shape the future of our service and beyond
+Have we sparked your interest?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Dassault Systemes 3DExcite GmbH
+München, Deutschland

@@ -1,0 +1,79 @@
+Jobs by email
+MBition GmbH
+(Senior) C++ Software Engineer for Vehicle Network API (all genders) - in Berlin
+Berlin
+Permanent contract
+Full Time
+Published: 5 days ago
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: P0142V520
+Aufgaben
+Your Mission
+As member of the Vehicle Network API team in Berlin, you will develop software connecting the Infotainment System to the other ECUs in the car. As a Software Engineer in an agile team you will design, document, implement, integrate and test features, APIs and system libraries. Development will typically be C++ and Python focused and make use of modern tools, technologies, engineering practices and methodologies.
+Qualifikationen
+Your Profile
+Experience
+Proficiency with modern C++ (C++14/17)
+Deep understanding of Embedded Linux 
+Hands-on experience with software development tools (CMake, git)
+Expertise in testing (e.g. TDD) and CI/CD
+Nice to have
+Good understanding of vehicle network descriptions (e.g. ECU extract ARXML)
+Comprehension of Python
+Familiarity with Some/IP (e.g. Genivi implementation)
+Skills with Adaptive AUTOSAR
+Knowledge of car network simulation
+Experience with IPC/RPC frameworks and API design (e.g. Thrift, gRPC)
+Personal skills
+Excellent organizational, time management, prioritization and multi-tasking skills
+Personal initiative, commitment, sense of ownership and resilience
+Well-developed communication and teamwork skills
+Aspiration to engineering excellence as well as drive to continuously learn and improve
+Education
+Degree in Computer Science or comparable degree
+Language skills
+Proficient in English. German is a plus
+Zusätzliche Informationen
+Why us?
+A chance to work on a new generation of Infotainment Systems, which will power millions of cars
+Great company values that we are passionate about and live by every day at work. Have a look for yourself at mbition.io and scroll down to "The MBition Experience"
+An international, interdisciplinary innovation lab, which is part of the Mercedes Benz AG
+Agile working methods and open feedback culture
+A brand new modern and fully accessible office facing the Spree
+Flexible working hours
+Transportation and health benefits, discounts on cars, fruits and more
+Interested?
+We look forward to receiving your complete application, including CV (in English or German) and relevant references with the following information:
+ Job title and reference number
+ Salary expectations
+ Earliest start date
+You don't bring everything with you? Don't worry, MBition is proud of our diverse workforce and passionate about having MBitioneers from all backgrounds and perspectives. MBition is and always will be an equal opportunity employer. We are looking for employees who convince us above all with their personality and passionately motivated to join the team!
+You are welcome to contact our representative for severely disabled employees, Anna Schade (anna.schade@mercedes-benz.com), who will support you in the further application process.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+MBition GmbH
+10587 Berlin, Germany
+Company Benefits
+Additional medical services
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Coaching
+Home office
+Company car
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

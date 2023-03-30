@@ -1,0 +1,67 @@
+Jobs by email
+Schaeffler Technologies AG & Co. KG
+Machine Learning Ops Engineer (m/f/d) Remote Option
+Nürnberg
+Permanent contract
+Full Time
+Published: 1 week ago
+Save
+Schaeffler is a dynamic global technology company and its success has been a result of its entrepreneurial spirit and long history of private ownership. Does that sound interesting to you? As a partner to all of the major automobile manufacturers, as well as key players in the aerospace and industrial sectors, we offer you many development opportunities.
+Your Key Responsibilities
+We - the Data Science Solutions (DSS) Unit at SCHAEFFLER are looking for you! In close collaboration with our business units, we create user-centric digital solutions on a global scale. In doing so, we use one of the most important assets of our company: data!
+Our agile product teams consist of colleagues from all over the world. What unites them is cutting edge expertise in Data Science, AI and Machine Learning, holistic user experience, cloud computing and software engineering, data engineering & architecture. Award-winning applications speak for our success.
+We are seeking an experienced ML Ops Engineer with deep understanding of Data Science and with a strong background in DevOps practices to join our team in a central position. The successful candidate will be responsible for designing, implementing, and maintaining the infrastructure and tools necessary for deploying and scaling machine learning models in production for Data Science teams across the SCHAEFFLER organization. Furthermore, the candidate will act as an ML OPs though leader and enabler of Data Scientists with different backgrounds and levels of maturity.
+Your Key Responsibilities
+Collaborate with data scientists and engineers to ensure ML models can be integrated seamlessly into the production environment
+Design and implement infrastructure and tooling for deploying and scaling machine learning models in production for Data Science teams - with the final goal of hiding complexity and making ML deployment and OPs as easy as possible for the user
+Develop and maintain automated testing and deployment pipelines to streamline the release process
+Provide guidance and support to Data Science departments on infrastructure and deployment processes
+Establish and enforce best practices and standard operating procedures for infrastructure and deployment processes across the organization
+Conceptualize and implement monitoring of production systems to identify and resolve issues in a timely manner as well as implement and maintain system and application-level security practices
+Continuous quality control and further development of Data Science solutions
+Automate infrastructure provisioning and management using tools such as Terraform and Ansible as well as implement and maintain CI/CD pipeline templates for ML models using tools such as Jenkins
+Develop and maintain documentation and standard operating procedures for infrastructure and deployment processes of Machine Learning applications across the organization
+Be the main driver of Machine Learning Automation within the company
+Your Qualifications
+Your Qualifications
+Completed Bachelor's or Master's degree in Computer Science or a related field or comparable qualification
+Several years of professional experience as ML Ops Engineer, or in fields like Data Science, DevOps Engineering, or Software development, but with profound experience in ML Ops
+Strong knowledge of DevOps practices and tools such as Git, Jenkins, Ansible, Terraform, or Docker
+Excellent communication and collaboration skills, being able to understand and address needs of Data Scientists and to translate those needs into technical ML Ops processes, tools, and infrastructure
+Experience with container orchestration systems such as Kubernetes, Docker Swarm, or AKS as well as with monitoring and logging tools
+Proficient in one or more programming languages such as Python, Java, or Go
+Experience with cloud-based infrastructure and services such as Azure, AWS, or Google Cloud Platform
+Familiarity with machine learning concepts and frameworks such as TensorFlow, PyTorch, or scikit-learn
+Very good English skills, both written and spoke, German beneficial
+Strong troubleshooting and problem-solving skills
+What we offer
+Our Offering
+Flexible working models and attractive remuneration
+A modern, collaborative work environment
+A wide range of personal development opportunities among other things via our own "SCHAEFFLER Academy"
+A competitive company pension scheme
+Numerous employee benefits, such as health and sports offerings and corporate benefits
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Schaeffler Technologies AG & Co. KG
+90425 Nürnberg, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Stock options
+Coaching
+Home office
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

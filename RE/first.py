@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 languages = {'C#' : 0 , 'Python' : 0 , 'SQL' : 0 , 'HTML' : 0 , 'CSS' : 0,
     'cafeteria' : 0 , 'java' :0 , 'Java' : 0 , 'JAVA' : 0 ,'Python' : 0,'angol' :0,'Budapest' :0 ,
-    '' : 0
+    'asd' : 0 , 'C++' : 0
 
             }
 

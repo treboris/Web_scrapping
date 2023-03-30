@@ -1,0 +1,80 @@
+Jobs by email
+Bosch Gruppe
+Senior Android Developer (w/m/div.) eBike Systems
+Kusterdingen
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+Show salary
+Easy apply
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Robert Bosch GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Kusterdingen
+Your tasks
+In the eBike Systems business unit, we develop innovative products and services that make eBiking even more fascinating - from highly efficient drive systems over the first series-produced ABS for pedelecs to smart connectivity solutions. For sustainable mobility that's fun.
+As a Senior Android Developer you will design and build advanced app functionalities for the Android platform.
+In addition, you will write the test code (especially unit tests) to ensure robustness, improve usability and performance.
+You will be part of the future of cycling and help create outstanding mobile offerings.
+Furthermore, you will contribute your ideas to define the mobility of the future and turn these ideas into reality.
+Moreover, you take responsibility for the modules you develop and strive for continuous improvement of the same.
+You'll work with cross-functional teams to define, design, and deliver new features that cyclists love.
+Working as part of a team of developers, designers, researchers, and marketers focused on building, scaling, and operating high-quality digital services in the context of cycling is also part of your role.
+Last but not least, you will continuously discover, evaluate and implement new technologies to maximize development and testing efficiency.
+Your profile
+Education: completed university studies (bachelor's degree/diploma/PhD) in Computer Science, Mathematics or a comparable subject
+Personality and Working Practice: agile, self-motivated, self-organized, team player
+Knowledge: full proficiency in Kotlin; Strong understanding about Android SDK, knowing how to use which API to build optimal apps in terms of runtime performance and memory management
+Experience: with MVVM/MVP, Clean Architecture and Android Jetpack; experience with building adaptive layouts, fluid UI animations and custom views; experience with writing maintainable and readable unit tests
+Qualifications: good problem-solving skills and the ability to navigate complex situations as well as the ability to conduct nice, respectful, constructive yet efficient code reviews
+Enthusiasm: love writing clean code while still being able to understand the need of moving fast
+Languages: very good communication skills in written and spoken English 
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Markwiesenstraße 58 58, 72770 Kusterdingen, Germany
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

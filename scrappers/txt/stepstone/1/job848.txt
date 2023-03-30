@@ -1,0 +1,44 @@
+Jobs by email
+Apple Distribution International ULC
+SOC Digital Design Engineer
+München
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Show salary
+I'm interested
+Save
+Summary
+Imagine what you could do here. At Apple, new insights have a way of becoming phenomenal products very quickly. Do you want to bring passion and dedication to your job? There's no telling what you could accomplish at Apple.
+The people who work here have reinvented entire industries with all Apple Hardware products. The same real passion for innovation that goes into our products also applies to our practices — we continue to strengthen our dedication to leave the world better than we found it.
+By now the industry is accustomed to Apple taping out the SoCs for our various products at a rigorous pace. In order to achieve this, our world-class design processes are driven by our outstanding Digital Design engineers.
+Are you ready to join some of the world's leading engineers, and help us deliver the next generation of ground-breaking Apple products?
+Join us!
+Description
+As a SoC Design engineer you will have responsibilities spanning all aspects of SoC design flow:
+Work with the architecture team to develop the microarchitecture spec. Develop RTL for one or more blocks following established design guidelines based on microarchitecture spec.
+Work on sophisticated design practices (Clock/Voltage domain crossing, DFT and Low Power Design)
+Work with multi-disciplinary groups to make sure designs are delivered on time and with the highest quality by incorporating accurate checks at every stage of the design process
+Qualifications
+Key Qualifications
+You should have proven experience in silicon design:
+Microarchitecture definitions at the unit level;
+RTL coding, block-level simulations, and synthesis;
+Strong Verilog / System Verilog skills;
+Experience with scripting and programming languages with some of the following: Perl, C, C++, TCL is an advantage;
+Strong collaboration skills.
+Education and Experience
+You hold a MSEE or equivalent strong experience.
+Why Apple?
+Apple is an Equal Opportunity Employer committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, and individuals with disabilities.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

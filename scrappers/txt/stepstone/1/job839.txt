@@ -1,0 +1,75 @@
+Jobs by email
+Bosch Gruppe
+Softwarearchitect for Central Gateway and Vehicle Computer (f/m/div.)
+Stuttgart
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Robert Bosch GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Stuttgart
+Your tasks
+Your task is to design and develop the software architecture and implement the embedded software for the next generation Central Gateway, Vehicle Computer and Zone ECUs in a new and rapidly growing business area.
+You will be responsible for "Change Control Board" for software architectural decisions across projects and the coordination of software requirements and concepts is in your area of responsibility.
+Your responsibilities will include evaluating alternative solutions and documenting the resulting decisions and requirements.
+You will develop and implement software solutions while considering the interactions with hardware, security and safety and you are responsible for making relevant design decisions and developing the software architecture for Vehicle Computer and Zone ECU projects.
+You develop variant mechanisms on system and software level for platform solutions and their customer-specific characteristics.
+Interdisciplinary collaboration in cross-functional teams in an international environment is part of the job. Consulting international customers on technical questions regarding architecture and design discussions complete the scope of responsibilities.
+Your profile
+Education: completed studies in the field of information technology, electrical engineering or equivalent
+Personality and Working Practice: team player, good communication skills, committed, flexible and reliable, self-determined, self-reliant, explorative and structured
+Experience and Knowledge: several years of experience in embedded software development, knowledge of software architecture and design, AUTOSAR, adaptive AUTOSAR, experience and knowledge of software development processes or standards for embedded systems, convincing cooperation with developers and suppliers in an international environment
+Enthusiasm: embedded systems, agile methods in software development and collaboration in an international team
+Languages: fluent English, German knowledge is a plus   
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Mittlerer Pfad 9, 70499 Stuttgart, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

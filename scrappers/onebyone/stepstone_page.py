@@ -3,6 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
+import multiprocessing as mp
+
 from tqdm import tqdm
 import time
 import pandas as pd
@@ -39,14 +41,19 @@ def scrape():
         conn(limit)
         time.sleep(2)
         scrape(x)
-
+    except selenium.common.exceptions.WebDriverException:
+        print('Reconnecting...')
+        conn(limit)
+        time.sleep(2)
+        scrape(x)
 
     return body.text
 
 
 
 
-for x in tqdm(range(132,data_size)):
+for x in tqdm(range(1120,data_size)):
+
     conn(href[x])
     full_page = scrape()
 

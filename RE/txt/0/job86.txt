@@ -1,0 +1,42 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Full-Stack Fejlesztő
+a termékek felhasználói élményének javítása
+felhasználóbarát alkalmazás fejlesztése
+szoros együttműködés a Product Ownerrel és az UI/UX csapattal
+visszajelzés a User Storykról
+kollégák mentorálásában való részvétel
+az állandó fejlődés és fejlesztés támogatása
+ötletelés a webalkalmazások fejlesztésére vonatkozóan
+                Elvárások / Requirements
+JavaScript, TypeScript alapos ismerete
+React, Redux, Redux-Saga alapos ismerete
+Webpack, CSS, SASS ismerete
+NodeJS alapos ismerete (NestJS ismerete előnyt jelent)
+Felhő alapú rendszerek tervezésében, fejlesztésében szerzett tapasztalat
+Mikro-szolgáltatás alapú rendszerek tervezésében, fejlesztésében szerzett tapasztalat
+REST és WebSocket alapú kommunikáció ismerete
+Webpack ismerete
+Git ismerete
+Kubernetes, Helm, Redis, RabbitMQ alapvető ismerete előnyt jelent
+Hasonló pozícióban szerzett minimum 4-5 éves szakmai tapasztalat
+Angol nyelvtudás
+Szakirányú végzettség, felsőfokú diploma előnyt jelent
+Igény a rendezett kódra és az átlátható szerkezetekre
+Fejlődés- és eredményorientált gondolkodásmód, proaktivitás, kreativitás
+                Amit nyújtunk / Benefits
+Lendületes, fiatalos csapat, családias légkör
+Kényelmes, modern, jól felszerelt irodai környezet
+Versenyképes alapbér
+Bónuszlehetőség
+Bejárás támogatás
+Heti 1-2 nap HO lehetőség
+Céges angol tanfolyam - ingyen, munkaidőben
+Céges masszázs minden héten
+Folyamatosan elérhető gyümölcstál
+Ingyenes kávé
+Darts és pingpong asztal - szabadidőszoba
+Szemüvegtámogatás
+Évente többszöri csapatépítő rendezvény
+a0t6N000000mp1rQAA
+Senior Full-Stack Fejlesztő 
+Jelentkezem

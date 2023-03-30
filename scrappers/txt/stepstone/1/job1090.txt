@@ -1,0 +1,89 @@
+Jobs by email
+Fresenius Medical Care
+Senior Windows Server Enterprise Systems Engineer (m/f/d)
+Bad Homburg bei Frankfurt
+Permanent contract
+Full Time
+Published: 4 days ago
+Show salary
+Save
+We provide medical engineering for millions. And yet for each individual.
+Fresenius Medical Care is the world’s leading provider of products and services for individuals with renal diseases. As a global health care company, we have  a special goal: provide the best possible care. Join us to improve the quality of life for a growing number of patients around the world and be a vital part of our team.
+#careerswithapurpose at Fresenius
+Over 300,000 people across the globe work at Fresenius to provide better ever medicine for ever more people. Our independent business segments Fresenius Medical Care, Fresenius Kabi, Fresenius Helios and Fresenius Vamed offer a wide spectrum of products and services in the health sector. We offer you the opportunity to make a difference with your career – and to become part of our impressive growth story.
+Fresenius Medical Care – Creating a future worth living. For patients. Worldwide. Every day. More than four decades of experience in dialysis, innovative research, the global leader in dialysis services and products – that is Fresenius Medical Care.
+Your assignments
+Job Description:
+The individual will be responsible for deploying and maintaining applications and environments that utilize automation, orchestration and monitoring tool sets. Oversee aspects of infrastructure integration, including configuration of new and existing systems on multiple platforms.
+Advanced experience implementing, managing, and securing an enterprise Windows Server environment on-prem and cloud (AWS and Azure)
+Strong Active Directory, Azure AD account and group administration
+SCCM / MECM and SCOM experience required
+Automation technology experience is desirable
+Experience in VMware ESX virtualization platform and virtualization concepts in computing required
+Knowledge of privileged identity and access management products
+Windows file permission reporting and remediation
+ VCP and/or Citrix certifications preferred
+Advanced experience installing, configuring, testing and maintaining current Windows Server OS versions
+Proficient with PowerShell scripting
+Detect, diagnose and report problems on Windows systems
+ServiceNow experience required
+Other infrastructure duties as assigned
+Must have strong communication skills
+Participate in on-call-rotation
+Responsible for deploying and maintaining applications and environments that utilize automation, orchestration and monitoring tool sets. Oversee aspects of infrastructure integration, including configuration of new and existing systems on multiple platforms
+Perform the installation, design and tuning of operating system / hypervisor, hardware, and all related peripherals
+Automate, facilitate and manage virtualized workloads in internal and external clouds
+Operate in a small, dedicated, focused team
+Operate in a very entrepreneurial manner with extreme customer focus
+Automate provisioning, deployment and configuration of virtual infrastructure
+Monitor and administer servers in the cloud and on premise
+Your profile
+PHYSICAL DEMANDS AND WORKING CONDITIONS:
+The physical demands and work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions
+Occasionally lifts / carries object and materials weighing +30 pounds
+SUPERVISION:
+None
+EDUCATION:
+Bachelor’s Degree required; Advanced Degree desirable or equivalent work experience in lieu of
+EXPERIENCE AND REQUIRED SKILLS:
+Comprehensive related engineering experience required
+Strong and proven Windows Server management experience on-prem / cloud with AWS / Azure
+Strong Active Directory, Azure AD account and group administration
+SCCM / MECM and SCOM experience required
+Automation technology experience is desirable
+Experience in VMware ESX virtualization platform and virtualization concepts in computing required
+Knowledge of privileged identity and access management products
+Windows file permission reporting and remediation VCP and/or Citrix certifications preferred
+Solid Project Management experience on Infrastructure projects
+Proven experience designing, deploying or operating virtualized applications / infrastructure in a public / private cloud environment
+Experience in applicable operating system / hypervisor, applications, and networking protocols
+Strong understanding of network fundamentals
+Ability to analyze and problem solve under pressure
+Must have excellent troubleshooting skills
+Excellent written and verbal communication skills
+Your contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Fresenius Medical Care
+Bad Homburg, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company medical officer
+Stock options
+Coaching
+The benefits listed are applicable to the company and can differ depending on the position or department.

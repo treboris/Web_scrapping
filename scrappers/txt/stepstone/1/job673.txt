@@ -1,0 +1,52 @@
+Jobs by email
+1&1 Mail & Media
+Security Operations Engineer (f/m/d) - onsite or remote / home office
+Berlin, Karlsruhe, Munich, Home-Office, Bundesweit
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Save
+About us
+With our strong brands GMX, WEB.DE and mail.com and over 42 million active users, we are the leading email and communications platform in Germany, Austria and Switzerland. From this strong market position, services and apps are developed that simplify users' digital lives - from office tools and cloud solutions to personal ID management.
+Your tasks
+WEB.DE and GMX are the leading mail and cloud providers in Germany with over 35 million customers. Do you like to take over responsibility? Are you passionate about operational security / blue team topics like security incident detection and remediation? Do you value an agile environment and a digital company? We're eager to welcome you on board as a Security Engineer to play a key role in secure operations of our products WEB.DE, GMX and mail.com!
+You design processes and tool integration for relevant security operations topics, e.g. SIEM, vulnerability management and forensics. In this way you ensure that we understand our current threat posture at any time.
+You automate processes to detect security incidents using both established systems like SIEM and your own scripts.
+You analyze security events and take over the incident manager role with confirmed security incidents.
+You carry out technical analyses like forensics or log analysis.
+Occasionally you take over the on-call duty.
+We appreciate
+Have you completed a technical degree or do you have comparable education? Are you passionate about IT Security topics and are you experienced in security operations? Have you worked in agile environments and do you like hands-on work? We're eager to get your application!
+You have profound knowledge of common security operations tools and processes, e.g. SIEM, vulnerability management or forensic tools.
+You have a solid technical background with deep knowledge of networks, communication protocols, operating systems and web-based distributed architectures.
+You continuously improve your skill-set and knowledge of IT infrastructure and IT security best practices. You're familiar with topics like DevSecOps, Continuous Delivery or threat modeling.
+You're a hands-on person with solid coding / scripting skills in at least one language, e.g. Python, Ruby or Go.
+You're a team player. You have outstanding communication skills and manage to efficiently steer all kinds of stakeholders even in stressful situations.
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Company pension
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.
+Certificates

@@ -1,0 +1,86 @@
+Linuxnagyvállalati
+rendszeradminisztrátori gyakorlat
+Golang
+
+Python
+Flask
+Java
+
+
+TypeScript
+HTTP protocol
+HTML
+CSS
+JavaScript
+SQL
+backend
+frontend
+
+relational databases
+Git
+GIT
+Vue
+React
+Angular
+NoSQL
+Docker
+Junior Golang Developer
+OOP principles
+OOP
+Laravel
+Symfony
+React
+SAP bázis üzemeltető
+SAP
+Készpénzlogisztika
+Vagyonvédelem
+Informatikai hálózatok
+AutoCAD
+Excel
+CommScope
+Linux Server
+CentOS
+Microsoft Windows Server Systems
+RHCA
+RHCE
+RHEL
+Azure IaaS
+SaaS
+
+Cisco Networking
+VMware vSphere
+IBM BigFix
+SolarWinds Orion
+felhőalapú
+Microsoft ERP
+Microsoft Dynamics NAV/Business Central
+MS Dynamics NAV/BC
+MS Windows Servers
+MS Active Directory
+IIS
+MSSQL
+Windows Office
+
+Docker
+PowerShell
+Visual Studio Code
+C#
+.NET
+ASP.NET
+Spring framework
+DevOps
+CloudOps
+hazelcast
+Vaadin
+LabVIEW
+
+
+ISO 26262
+APIS IQ-RM
+ASPICE
+Polarion
+DFMEA
+Scrum
+Scrum Master
+ISTQB
+Six Sigma

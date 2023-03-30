@@ -1,0 +1,56 @@
+Jobs by email
+QVC
+Senior Data Engineer (m/f/d)
+Düsseldorf, Chiswick Park
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Save
+QVC verbindet die Freude am Entdecken mit der Kraft von Beziehungen und über­trifft dadurch stets die Erwartungen seiner Kunden. Dabei setzt das Handels­unternehmen auf das Beste aus zwei Welten: Einkaufen als persönliches Live-Erlebnis von Mensch zu Mensch und das komfortable, digitale Bestellen – flexibel an 365 Tagen im Jahr über TV-Angebote, das Web, per App – zu Hause und von unter­wegs.
+In Deutschland beschäftigt QVC rund 3.000 Mitarbeiter in Düssel­dorf, Bochum, Kassel und Hückel­hoven.
+Senior Data Engineer (m/f/d)
+As a Senior Data Engineer, you will work with a versatile agile team of data engineers and data scientists to build high quality cloud-based DevOps infra and data pipelines for industrialization of ML models and driving analytics solutions. Solutions derived from this work will produce dashboard visualizations and insights in from the business data, allowing our ML products to promote the data-driven decision-making and add capabilities from forecasting, personalization over to optimization to various use cases like pricing, marketing, supply chain and others.
+The Senior Data Engineer will work as part of an international analytics team. You will report to the QI VP Advanced Analytics. You will be located at our office in Duesseldorf (DE) or Chiswick Park (UK) and would be in the office in a hybrid capacity.
+Your Impact
+Design, develop, optimize, and maintain data architecture, models, APIs, and pipelines that adhere data architecture principles and our goals
+Solve complex data problems to deliver insights that help our business to achieve their goals
+Create data products together with data scientist team members to enhance business productivity
+Lead the evaluation, implementation and deployment of new tools and processes for data engineering to improve our productivity as a team
+Develop and deliver plans on data engineering capabilities, standards, and automation processes
+Partner with data science, EDM and IT team to develop technical architectures for projects
+Keen interest in the connection to the data science team activities such as machine learning, data science, artificial intelligence, statistics, NLP or applied mathematics
+Coach peers on tech team, specifically with code reviews and pair programming
+What You Bring
+Bachelor's degree (Master’s preferred) in Computer Science or relevant field or equivalent business experience required
+Considerable number of years of work experience in software development and design, experience with emphasis on data warehousing concepts, database design patterns, ETL & preprocessing methodologies
+Considerable number of years of hands-on experience developing data engineering processes and SQL. Transform massive quantities of heterogeneous Data, Data cleansing, Data wrangling, and Data quality. Experience in distributed systems and Spark.
+Considerable number of years of hands-on experience using Cloud tools (e.g. Azure Databricks, Azure Delta Lake, Azure Data Factory, SQL Server, Azure Synapse, Azure DevOps, Data Lake (ADLS), Databricks Notebooks)
+Considerable number of years of hands-on experience in DevOps including maintaining containerized services (e.g. Docker), CI/CD pipeline activities using toolsets such as Azure DevOps and Azure Git Repo. Knowledge in Kubernetes is desirable.
+Keen interest in ML product development and automation over the full life- cycle.
+Understanding of the impacts of regulations, laws and company policies, standards and procedures to their role
+Experience with agile methodology (Scrum) and source code management tools. Strong capabilities to manage operational expectations such as delivery methods, timelines and solving issues.
+Mentor mindset, with the goal of growing the team's potential.
+Good communicator to technical and non-technical audience.
+Belief in a culture of trust, positive mindset and complete transparency
+Fluent in English (must have), German language skills (desired)
+Highly desirable: Ecommerce and media / entertainment industry experience
+We ask that you understand data architecture, data engineering, data analysis, modeling, API creation, reporting, and general data science techniques and workflows. You should also be an experienced data/software engineer with experience creating data products supporting analytic solutions.
+What we offer:
+Open and dynamic working atmosphere
+Attractive remuneration model
+Flexible working time model with flexitime regulation to promote work-life balance
+Offers within the framework of company health management
+20 % employee discount on the QVC product range
+Employer-funded pension
+Wide range of training opportunities
+Kontakt
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

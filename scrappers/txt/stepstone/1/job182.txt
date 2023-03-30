@@ -1,0 +1,62 @@
+Jobs by email
+Mercedes-Benz Leasing Deutschland GmbH
+Agile Test Manager (f/m/x)
+Stuttgart
+Permanent contract
+Full Time
+Published: 1 day ago
+Show salary
+I'm interested
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER0002H36
+Tasks
+The newly established Mercedes-Benz Leasing GmbH (MBLD) is determined to become THE digital player for leasing at Mercedes-Benz in Germany. You have the chance to shape the IT setup of this innovative new Company on a greenfield.
+Your tasks will be:
+Ensure the successful delivery of an excellent software solution: The new Contract Management System and its Integration Platform for MBLD
+Run a Testing Center of Excellence for the department Operations and IT Leasing
+Coordinate test activities with internal and external teams
+Select and be responsible for the best tools and approaches for test case management, defect management and test automation
+Define and constantly improve an Agile Test Strategy, striving for Continuous Deployment following BDD approach
+Be part and shape the DevOps team to establish a reliable, scalable and highly automated systems landscape
+Provide the best service for our customers
+We offer:
+A dynamic, innovative and diverse environment with a clear ambition to drive change
+Engagement in the community. We foster your engagement - be it in the form of lectures, workshops, meet ups, hackathons or publications
+A large and well-established company network with software and hardware vendors as well as industry analysts and other innovators
+You will be involved in the development of innovative solutions and apply new technologies. Our approach is to drive innovation ourselves. You are a part of, and decisively influence, a culture in which development and innovation are at the center
+Qualifications
+What you bring to the table:
+Bachelor of Science / Master of Science in Computer Science or related field required or comparable experience
+Several years of test management activities in an agile environment, with Continuous Integration and Continuous Delivery in place
+Experience with Jira, Xray, Behaviour Driven Development (BDD)
+You have a track record of successfully testing and delivering software
+You worked in agile teams and you know that speed matters
+You are interested in creating the best solutions for your customer
+Fluency in written and spoken English required
+German language is an asset
+Nice to haves:
+ISTQB Certified Tester - Advanced Level: Test Manager
+Practical experience in Continuous Deployment
+Experience as a test manager in financial services industry or similar
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: sbv@mercedes-benz.com.
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Mercedes-Benz Leasing Deutschland GmbH
+70469 Stuttgart, Deutschland

@@ -1,0 +1,63 @@
+Jobs by email
+ZEISS
+Senior Fullstack Software Engineer (f/m/x)
+München
+Permanent contract
+Full Time, Home office possible
+Published: 2 days ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+Ihre Rolle
+Thrive on innovation at a global technology leader. Develop exciting customer-centric digital solutions and business models in the diverse, dynamic and stable work environment at ZEISS Digital Partners. Join our inspiring colleagues in a modern workspace and benefit from our open culture. Cooperating closely with our ZEISS businesses around the globe, we enable the digital future @speed and @scale for ZEISS.
+We offer
+Modern technology stack - with room for you to try things out in a high-tech group
+Munich based job with 40-60% hybrid work
+Excellent teammates and a lead to support your development from day one onward.
+Your role at ZEISS Digital Partners
+You will be working with state-of-the-art tech stack, mainly based on JavaScript (TypeScript, React.js), developing and integrating REST & GraphQL APIs, and architecting & developing end-to-end web solutions. With your knowledge and experience, you will also be contributing to further improvements in our development processes and shaping best practices within the team. You will be working closely with your colleagues as an integrated member of a high-performing team with a DevOps – mindset, not only developing backend solutions, but also testing and documenting your product.
+If you want to know more about the role, kindly contact the responsible recruiter: Sandro Phan (sandro.phan@zeiss.com).
+Ihr Profil
+At least 5 years of professional experience in a similar position, where you built a solid background in agile software engineering environment
+Excellent skills in modern JavaScript (i.e. ES6 or later) and GraphQL
+Experience in at least one modern JavaScript-based frontend framework (e.g. React.js) and tools (e.g. Redux, Webpack, Babel, etc.)
+Preferably experience in .NET or Go backend development
+Solid understanding of REST architecture, microservices architecture, common SE design patterns
+Ability to understand business requirements, collaborate with peer engineers and translate the requirements into a truly successful digital product
+Good verbal and written skills in English.
+Your ZEISS Recruiting Team:
+Christian Szopinski, Joseph Taroni-Luxton, Sandro Phan, Sayem Chowdhury
+What we offer
+  Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+ZEISS
+München, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

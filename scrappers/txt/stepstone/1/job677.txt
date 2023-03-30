@@ -1,0 +1,76 @@
+Jobs by email
+TWT GmbH Science & Innovation
+Computer Scientist (m/f/d) Software Development and Software Architecture
+Stuttgart, München, Ingolstadt
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+Show salary
+Easy apply
+Save
+We’re applying to you. You may be surprised by this sentence, since you’re actually the one currently applying! As teaser trailer, here are 5 arguments. You’ll see the blockbuster during the application process, and you’ll get to create the sequels with us once you’re part of the TWT team!
+Topics on the cutting edge. Artificial Intelligence, Autonomous Driving, E-Mobility, Model Based Systems Engineering, and Virtual Experience.
+Our claim. Thanks to our research expertise we score high in our industrial projects.
+We are a TOP team. Highly qualified (PhD/Masters), innovative, cosmopolitan, and with a soft spot for collaborative work.
+Our clients and partners. Mercedes-Benz, Daimler Truck, BMW, Audi, Porsche, CARIAD, IBM, Dassault Systèmes, Samsung, and Microsoft. 
+Remote work. Close cooperation with our clients, either virtually or at one of our locations, depending on the project.
+Your Tasks
+You design and develop software applications within the Container-as-a-Service and Platform-as-a-Service infrastructures of our customers.
+You create stand-alone software tools for very specific purposes from scratch.
+You work on pathbreaking applications of our customers’ development processes in the fields of digital products, connected and automated driving, Internet of Things, Car2Car communication, digital city, virtualized medical technology and digitization.
+You manage and realize industrial and research-driven projects from the ideation to the concept phase and implementation up to the point of validation and rollout with our customer.
+You actively improve our software development process.
+You coordinate our interdisciplinary projects in close cooperation with our customers.
+We are constantly looking for the following software engineering profiles
+You are proficient in desktop application development, either in Java with the Eclipse RCP framework or in C# with the .NET framework.
+OR
+You are skilled in full-stack web application and microservice development with either Java EE, C# or JavaScript/TypeScript in the backend and one of the popular frameworks like Angular, React or Vue in the frontend. Ideally, you have initial experience with the containerized deployment of such applications in cloud environments like Azure, AWS or Cloud Foundry.
+OR
+You are competent in the development of data science and machine learning tools in Python with libraries such as TensorFlow, Keras, Scikit-learn or PyTorch. Ideally, you have initial experience in data visualization, e.g., with D3.js, and with Big Data technologies such as Hadoop, Apache Spark or Kafka.
+Your Profile
+Excellent master’s degree in Computer Science, Informatics, Software Engineering, Mathematics or in a similar discipline, preferably with PhD
+Very good knowledge of a higher programming language, in-depth IT skills and an affinity for programming
+Initial experience in design patterns, coding conventions, version control, build and test automation, REST APIs, relational or NoSQL databases, UML modeling, IT architecture as well as in agile software development (e.g., Scrum) is desirable
+Willingness to work on a wide range of tasks and enthusiasm to learn and employ new frameworks and technologies
+Eagerness to work in a team and good communication skills
+Inquisitiveness, cosmopolitanism, creativity and a good sense of humor
+Very good English skills
+Facts & Benefits
+Work in projects with development and IT departments of premium vehicle manufacturers
+Contact with leading research universities, such as the Massachusetts Institute of Technology
+Share your opinion, participate in decisions, leave your own fingerprint
+Share your expertise in our Training & Knowledge Center
+Simultaneous and collaborative work using modern digital platforms
+Flexible work arrangements, an attractive flextime model, and remote work
+Structured onboarding and an open ear for any and all questions
+Attractive perks like free coffee, tea, and fresh fruits
+Has our application made you curious? Then apply for a job with us!
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Incentives & events
+Employee discount
+Sabbatical
+Company mobile phone
+Coaching
+Company car
+Extra day off
+Public transport ticket
+Terrace
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.
+Certificates

@@ -1,0 +1,58 @@
+Jobs by email
+Emirates Airlines
+Lead Quality Assurance Engineer (m/w/d)
+Dubai
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+I'm interested
+Save
+ENTER THE WORLD OF AVIATION TECH
+Join the Emirates Group IT Team in Dubai
+At Emirates, we know that tech never stands still. Which is why we’re at the forefront of innovation in the aviation world. We are looking for the best IT professionals to help ensure we stay cutting-edge. So bring your talent to the world’s largest international airline and join our IT team as a Lead Quality Assurance Engineer.
+Your tasks
+About The Role
+The Lead Quality Assurance Engineer supports the Principal Quality Assurance Engineer, by coordinating business, technical and quality criteria within the delivery. They not only assist the software engineering team in executing the designed test strategy for their product area, but they also assist the product owner in assuring the most optimal user journey. Their primary focus is to understand the business domain both operationally and technically, to provide context to the tests and QA activities they carry out. As a Lead Quality Assurance Engineer you will be technically skilled in software engineering and testing practices. The role co-ordinates  and executes end-to-end business process tests in a variety of delivery models in support of the portfolio release trains.
+What You’ll Be Expected To Do:
+· Work closely with project members, technical product owners, architects and software engineers to understand the complete context of deliveries to translate complex functional and non-functional requirements.
+· Work with the Core Test Data team to ensure test data is available to support the wide variety of tests that you plan, coordinate and execute at various stages of the SDLC.
+· Liaise with other product teams to manage the testing of cross dependent features.
+· Ensure Test Tools are configured correctly and accurately to support the generation of metrics for enterprise-wide dashboards.
+· Challenge the status-quo where needed with new tools and techniques to continuously raise the bar of quality deliveries.
+· Implement, maintain and adapt automation frameworks and test harnesses to ensure robust CI pipelines, post deployment (CD) tests and smooth execution of end-to-end tests across systems.
+· Influence, support and guide Software Engineers to write and maintain automated functional tests through continuous integration to make quality a team deliverable.
+· Influence and shape enterprise quality roadmaps by running POCs, suggesting tooling improvements and proactively enhancing frameworks for the wider quality community.
+· Lead and influence teams at different levels and scale, to minimise inefficiencies and mitigate any risks for large scale deliveries.
+Your profile
+Experience You’ll Need To Have:
+· 5+ years in quality related roles with increasing responsibility, impact, and scope within a digital or ecommerce environment.
+· 3+ years of experience as a Software Quality Engineering lead or equivalent position looking after multiple products.
+· Experience in providing product input on business process flows and scenario mapping for business solutions.
+· Experience of understanding and applying system thinking to advanced technology solutions for large, complex organisations in a multi-functional environment.
+Skills You’ll Need To Have:
+· Experience with creating and maintaining large scale test data frameworks to support test automation.
+· 3+ years of experience using one or more of the following automation tools: Selenium components (WebDriver, Grid, etc.), Protractor, Jasmin, Cucumber, Gherkin, JUnit, TestNG.
+· Experience using git SCM tools, GitHub or Bitbucket or similar tools.
+· Proficiency in at least 2 different programming languages, preferably JavaScript and Java.
+· Experienced with coding best practices and defining coding guidelines.
+· Highly experienced with developing automation frameworks from scratch built for UI and API testing and integration with CI pipelines.
+· Experience using CI tools like Jenkins, Azure DevOps or equivalent.
+· Strong expertise with context driven and exploratory testing with practical experience of using a number of testing heuristics.
+Skills We’d Like You To Have:
+· Experience working with VMs and containers both on prem and cloud offerings like Amazon and Google cloud.
+· Awareness of the latest testing and technology trends and using them to improve daily practices.
+· Strong oral and written communication skills with demonstrable experience communicating cross-functionally with architects and product owners in formal and informal settings.
+· Experienced with leading a team of engineers to achieve product and business goals.
+· Ability to work effectively within a release train in a fast-paced environment.
+· Strong organisational, planning, and follow-up skills and ability to hold others accountable.
+· Strong people management skills with a proven ability to hire and grow teams of Software Quality Engineers.
+What we offer
+What We Offer
+This is your chance to work on challenging projects across different brands and businesses within the Emirates Group’s global portfolio.
+Based in dynamic Dubai, you can enjoy all the benefits of a cosmopolitan lifestyle and a great work-life balance. That’s on top of a tax-free salary and amazing travel perks.
+Emirates. Fly Better.
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon

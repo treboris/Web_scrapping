@@ -1,0 +1,76 @@
+Jobs by email
+Bosch Gruppe
+DevOps Engineer for Embedded Systems (f/m/div.)
+Kusterdingen
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 3 days ago
+Show salary
+Easy apply
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Bosch Sensortec GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Kusterdingen
+Your tasks
+Join our optical engineering department to advance features in smart glasses, optical environmental sensing and other applications that will boggle your mind. With your expertise in embedded systems and development operations, you will have the opportunity to push the boundaries of what is technically possible.
+As an active part of your agile team you create versatile embedded SW applications by interacting with our experts from various departments - never loosing focus on customer needs. In this role, you are responsible to create, improve and maintain continuous integration, continuous delivery pipelines and test automation - in particular:
+Build automated system test setups, that involve real hardware, maintain and extend Hardware in the Loop setups.
+Support modifications regarding IT infrastructure in laboratories.
+Identify and push further automation potentials in SW integration, tests and delivery.
+Strengthen traceability between several systems (requirements, CI/CD, Jira, testing).
+Act as a Key User / administrator for Jira & confluence instances, support users, apply changes. Coordinate and harmonize DevOps activities with other software departments
+Your profile
+Personality: You convince and inspire others with your ideas and are a positive team player with experience working in multicultural teams. You are curious about innovation and enjoy the dynamics of consumer electronics
+Working Practice: High level of interdisciplinary teamwork, self-driven, dedicated, customer orientation, result-oriented, responsible and entrepreneurial mindset.
+Experience and know-how: Solid knowledge in embedded software systems (bare metal to embedded Linux). Several years of experience with Jenkins, Groovy scripts, Git, Python, C/C++, Atlassian Jira, Confluence, Linux, Shell, Bash, docker container, google test, Artifactory.
+Education: Degree (M.Sc./Dipl.) or PhD in computer science, electrical engineering or similar technology related programs
+Languages: Proficient English language skills (C1), German is a plus
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Gerhard-Kindler-Straße 9, 72770 Kusterdingen, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,41 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Junior Fullstack Developer 
+Helyszín: Budapest, Home Office
+Bérsáv: 9-10000 Ft/ Óra
+Kellemes munkakörnyezetbe, a Graphisoft parkban lévő irodánkba keressük új munkatársunkat!
+Ha szívesen dolgoznál egy 40+ fős, baráti hangulatú társaságban, és változatos munkára vágysz, akkor gyere el hozzánk és ismerkedj meg velünk!
+Az Ixenit Kft. magyar tulajdonosok által alapított IT fejlesztő és üzleti konzultációs cég. Profiljában az üzleti tanácsadás mellett szerepel az Oracle termékek értékesítése és bevezetése, RPA megoldások bevezetése, portál megoldások és egyedi fejlesztések kivitelezése. A cég portfóliójában ezen kívül több saját fejlesztésű termék is helyet kap.
+Ha még többet szeretnél tudni rólunk, jelentkezz most!
+Feladatok:
+specifikáció alapján fejlesztés
+teszt esetek írása
+hibakeresés, hibajavítás
+napi használatú rendszereink megismerése (JIRA, Confluence, Bamboo, Git, stb.)
+alkalmazott módszertanok megismerése (Scrum, Kanban, stb.)
+Must-Have skillek:
+Java alapismeretek
+HTML, CSS, Javascript, React ismeretek
+szakterületnek megfelelő felsőfokú végzettség
+SQL ismeretek
+1-3 év releváns szakmai tapasztalat
+JEE / Spring / Hibernate ismeret
+aktív angol nyelvtudás
+gyors tanulási képesség, tanulási vágy
+pontos, precíz munkavégzés
+Előnyt jelent:
+Unix, Linux és shell programozási tudás
+JIRA plugin fejlesztési tapasztalat
+szoftvertervezési ismeretek
+agilis módszertanok ismerete (Scrum, Kanban)
+Mellettünk szól:
+Kellemes, modern munkakörnyezet a Graphisoft Parkban
+Stabil, megbízható háttér
+Flexibilis vállalati kultúra, ahol a nagyvállalati megoldások és tudás találkoznak a start-up technológiával, gondolkodással és gyorsasággal
+Nyitott, fiatalos csapat
+Változatos feladatok és projektek
+Csapatépítők és szakmai tréningek mellett önszerveződő programok
+Folyamatos szakmai fejlődési lehetőség
+Versenyképes fizetés
+Home office lehetőség
+Online első körös állásinterjú lehetőség!
+Jelentkezem

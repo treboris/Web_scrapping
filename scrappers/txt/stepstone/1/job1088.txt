@@ -1,0 +1,65 @@
+Jobs by email
+ETAS
+Field Application Engineer for Automated Driving / Driver Assistance Competence Team (f/m/d)
+Stuttgart
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+Show salary
+Easy apply
+Save
+Welcome to ETAS
+Founded in 1994, ETAS GmbH is a wholly owned subsidiary of the Robert Bosch GmbH with international sales offices in Europe, North and South America, and Asia. ETAS' portfolio includes vehicle basic software, middleware, and development tools for the realization of software-defined vehicles. „Empowering Tomorrow’s Automotive Software“ – all our product solutions and services are focused on this to enable vehicle manufacturers and suppliers to develop and operate software-defined vehicles with increased efficiency. Holistic cybersecurity solutions in the automotive sector are offered via the ESCRYPT brand.
+The ETAS GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Stuttgart
+Your tasks
+Together with the development team and product management, you are responsible for the successful implementation of the ETAS strategy in the field of data acquisition for driver assistance systems and highly automated driving
+To do this, you and your teammates simulate real customer work processes in order to better understand the needs for our software and hardware products (v)GETK, MHD and RALO
+From this you derive new solutions, help with the prioritization and analysis of requirements and carry out feasibility studies with the team
+Besides that, you act as a technical contact person for sales and take over the technical management of new product launches for our customers
+You have a central role in building up the know-how of the ETAS Field Application Engineers community worldwide
+You represent ETAS at trade fairs and congresses
+Your profile
+You have successfully completed your studies in computer science, electrical engineering or similar and ideally already have a few years of professional experience in the field of embedded systems in the automotive environment
+μP, μC, FPGA, GPU, PCIe and Ethernet are not new terms for you
+You have good experience with C, C++ and Python and know the common bus interfaces in the automotive and video environment
+You are also familiar with real-time operating systems such as Linux and QNX
+Ideally, you have got some experience with service-based architectures and middleware (AOS, DADDY), as well as with the AUTOSAR Adaptive Standard
+With your analytical skills, evaluating measurement data and hardware debugging is not a big challenge for you
+You should preferably have experience in using ETAS or corresponding competitor products
+You have strong analytical thinking, innovative approach to the implementation of problem solutions, good ability to work in a team, customer-oriented thinking and technical enthusiasm
+Excellent written and spoken English skills round off your profile
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+ETAS
+Borsigstraße 24, 70469 Stuttgart, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

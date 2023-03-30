@@ -1,0 +1,67 @@
+Jobs by email
+ASAMBEAUTY GmbH
+Quality Assurance Engineer (Backend) (m/f/d) - Hybrid only -
+Unterföhring
+Permanent contract
+Full Time, Home office possible
+Published: 5 days ago
+Show salary
+Easy apply
+I'm interested
+Save
+The BHI Beauty & Health Investment Group includes M. Asam GmbH, ASAMBEAUTY GmbH, ahuhu GmbH, Inno Beauty GmbH and Asam Betriebs-GmbH.
+We offer you an exciting mix of family business and the membership of a global group. For more than 50 years, we have been developing and producing high-quality cosmetic products for the demanding customer.
+#### Your Tasks
+Review requirements, specifications, and technical design documents to provide timely and meaningful feedback
+Create detailed, comprehensive, and well-structured test cases based on defined acceptance criteria
+Ensure 100% test coverage for new and updated features
+Design, develop and execute automated tests using BDD approach
+Set up Test pipelines in GitLab
+Continuously maintain and update regression tests
+Estimate, prioritize, plan and coordinate testing activities
+Identify, record, document thoroughly and track bugs
+Perform thorough regression testing when bugs are resolved
+Develop and apply testing processes for new and existing products to meet client needs
+Report bugs and errors to development teams
+Help troubleshoot issues and provide steps to reproduce the issue.
+Conduct post-release/ post-implementation testing
+Track quality assurance metrics, like defect densities and open defect counts
+Stay up to date with new testing tools and test strategies
+To join our IT team, it is important to stay in the office twice times a week
+#### What you bring with you
+3+ years experience in Software Testing / Automation
+Test Automation using BDD Framework.
+Hands on experience testing mobile applications for both Android and iOS
+Excellent working knowledge of the following tools and Technologies: Appium, Cucumber, Selenium
+Hands-on experience with Java / JS , GraphQL
+Proven work experience in software quality assurance
+Strong knowledge of software QA methodologies, tools and processes
+Experience in writing clear, concise, and comprehensive test cases
+Hands-on experience with both manual and automation testing
+Hands-on experience with automated testing tools
+Solid knowledge of API Testing, SQL and scripting
+Experience working in an Agile/Scrum development process
+Proven work experience with multiple eCommerce implementations/operations
+#### Your advantages
+You will become a team member in an ambitious family business with a great, steadily growing portfolio and you will contribute to our long-term success and growth
+A performance-related salary with many other benefits such as a subsidy for the MVV ticket, parking spaces, job bike, employee discounts, numerous further training opportunities
+A varied range of tasks with outstanding development opportunities
+Flat hierarchies with plenty of room for initiative, new ideas and independent work
+You can expect a competent, motivated and dynamic team with many innovative ideas and exciting projects
+A positive working atmosphere with a healthy work-life balance is always ensured with our new, modern offices and our friendly and collaborative culture
+Cross-team cooperation is very important to us. We offer you many different opportunities for this (cross-training, team events, monthly get-togethers)
+Home office is also possible
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+ASAMBEAUTY GmbH
+85774 Unterföhring, Deutschland

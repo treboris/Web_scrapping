@@ -1,0 +1,70 @@
+Jobs by email
+Mercedes - Benz AG
+PhD Position in the area „Hybrid Machine-Learning and Model-Based Behavior and Motion Planning“, Automated Driving starting May 2023
+Sindelfingen
+Apprenticeship, Studies
+Full Time, Home office possible
+Published: 12 hours ago
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: MER0002H98
+Aufgaben
+We are committed to shape the future of automotive mobility by developing highly automated driving systems for both highway and urban areas. Our development teams in Germany and California work with state-of-the-art technologies to develop innovative and class-leading systems to provide our customers with the best experience possible. To master this challenge, we are looking for energetic and committed PhD students to conduct research within our Vehicle Intelligence Team in Stuttgart.
+The focus of your PhD will be on the development of a novel, hybrid behavior and motion planning technique for autonomous vehicles, combining data-driven and model-based planning methods.
+The key challenge to be addressed is the integration of a scalable machine learning based method into a model-based planner approach that can provide the required robustness and safety to deal with a wide range of complex urban scenarios.
+You will be expected to make use of the latest machine learning techniques to infer the interactions of the traffic agents with each other, with the infrastructure and with the environment and integrate this information into the model-based planner approach.
+This also includes the development of corresponding training strategies and evaluation metrics.
+Finally, the algorithms developed should be evaluated in simulation environments, on recorded driving data and by deploying them on our test vehicles.
+Responsibilities
+Assessment of the current state-of-the-art in the area of behavior and motion planning.
+Development of behavior and motion planning algorithms using machine learning techniques in combination with classical planning techniques.
+Definition of metrics that describe the quality of a trajectory based on expert knowledge and recorded human driving data.
+vImplementation of a corresponding training and evaluation concept.
+Integration of the developed methods into the AD software.
+Evaluation of the developed methods in simulation, recorded driving data and real vehicles
+The requirement for hiring is the supervision of the PhD project by a university lecturer. The PhD student is responsible for choosing his/her/their own supervisor.
+Qualifikationen
+Qualifications
+Excellent Master’s Degree in engineering, computer science, robotics or any related area
+Excellent programming skills in Python or C++
+Strong knowledge and in-depth understanding of machine learning techniques, especially neural networks, and the corresponding software frameworks. (e.g. pytorch or tensorflow)
+Experience with Linux and development on Linux Systems
+Fluent English skills
+Preferred Qualifications
+Knowledge in the area of robotics and motion planning
+Basic knowledge of ADAS/AD architectures
+Excellent communication skills and desire to work as part of a global team in a multi-cultural environment
+High intrinsic motivation to perform cutting-edge research
+Highly self-organized
+Fluent proficiency in spoken and written German (optional)
+Additional information:
+Would you like to write your doctoral dissertation in cooperation with Mercedes-Benz Group AG? We offer you an international network of experts, research materials, insights into our work and a personal mentor who will serve as your contact partner in addition to your doctoral advisor at your university.
+Please apply exclusively online and mark your application documents as "relevant for this application" in the online form. Please find the criteria of employment here. Citizens of countries outside the European Trade Union please send, if applicable, your residence / work permit.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process:
+SBV-Sindelfingen@mercedes-benz.com Please understand that we do not accept paper applications and that there is no right to get your documents returned.
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or t he Chat-Bot on our career page via the plus symbol.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Mercedes - Benz AG
+71063 Sindelfingen, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

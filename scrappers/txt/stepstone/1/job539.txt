@@ -1,0 +1,74 @@
+Jobs by email
+Bosch Gruppe
+Senior Cloud Software Developer (NDS.live / C++ ) - Map Services for Automated Driving (f/m/div.)
+Hildesheim
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+Show salary
+Easy apply
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Robert Bosch GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Hildesheim
+Your tasks
+As Senior Cloud Software Developer you design & specify the structure and content of the map data stack required for assisted and automated driving according to customer and stakeholder requirements.
+You design and implement scalable algorithms for our map technology stack in a large-scale and distributed map service framework operating on real-world fleet data.
+Thanks to your expertise you optimize the map creation process according to performance metrics.
+You integrate developed algorithms and software modules into the cloud platform processing large amounts of data along the complete data lifecycle.
+To ensure our high quality code-base, you are responsible for regular code reviews and feedback of other software components developed by other team members.
+You are self-motivated and bring fun & joy for technical challenging topics - moreover you shape & live the DevOps spirit.
+Your profile
+Education: M.Sc./Diploma/PhD in the field of Computer Science, Electrical Engineering, Robotics or other related studies, ideally with a focus on navigation & map provisioning
+Personality and Working Practice: self-motivated Teamplayer with professional mindeset of shaping and living the DevOps spirit. Practical experiences in continuous integration and deployment (e.g. Azure DevOps, Azure Pipelines) and Background or professional experience in public cloud technologies (e.g. Microsoft Azure, Kubernetes) is a plus
+Experience and Knowledge: You bring several years of professional experience in the field of Cloud Computing, Data Standards & Data Science, with profound coding skills, preferable in C++ and Python. Having solid and profound skills with clean coding, SW testing and writing maintainable code is a plus. Knowledge in standardization of formats (e.g. NDS.live, NDS, ADASIS, SENSORIS).
+Languages: Fluent command of English
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Robert-Bosch-Straße 200, 31139 Hildesheim, Germany
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

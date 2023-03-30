@@ -1,0 +1,71 @@
+Jobs by email
+adidas AG
+Data Engineer SCM Deployment (m/f/d)
+Herzogenaurach
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Show salary
+Save
+Einleitung
+The European Strategic Deployment department ensures optimal allocation of products across the European DC Network based on capacities and volumes ensuring that the European DC Network is utilized in the most optimal way and ultimately enables European demand to be fulfilled on time and in full (OTIF) according to customer requirements, in the most efficient way. In his role, the Data Engineer - SCM Deployment Europe is key for the efficient allocation strategy of the ranged articles in Europe by. executing the range allocation in the strategic deployment software. The role is responsible for all related processes.
+Key Responsibilities:
+Own, maintain and develop the pre-season allocation model in the optimization software (currently Llamasoft).
+Collect and update the data on SCM before season starts, ensuring the optimization model works according to the latest state of the network and SCM strategy.
+Model pre-season deployment of the range based on forecast, agreed deployment principles and capacities across all European DCs in the optimization software.
+Run different scenarios, provide output, inventory projections and recommendations for SLT on the season’s strategy.
+Execute pre-season deployment of articles based on the model recommendation to secure on-time supply purchasing.
+Build new optimization models to ensure efficient network utilization and the highest level of operational automation for decision making in season.
+Improve and automate operational workflows, using deployment strategic software or similar.
+Work closely with software vendor and internal product owner on the long-term vision for the architectural software set-up and ensuring best practices are used in the market deployment model.
+Enhance data reporting (e.g. in Power BI, MSRT) and communicate deployment state and progress to the key stakeholders. Collect learnings on the deployment strategy performance and translate strategy changes into the model of the next season.
+Maintain excellent relationships with all cross functional partners, support allocation model & purchasing, ensure transparency for the seasonal deployment strategy.
+Key Relationships:
+Europe SCM Functions (Product Supply, Market Operations & Optimization, Omnichannel Operations, DC Operations, Supply Chain Development)
+Europe Demand Planning
+Ihr Profil
+Knowledge Skills and Abilities:
+Proven experience with supply chain optimization industry best practices
+Experience with creation of supply chain network optimization models in Llamasoft or similar optimization industry platforms like Anaplan, Anylogistix, Blue Yonder, IBM Watson/Sterling, etc.
+Strong data analytical skills (experience with Python, R), strong problem-solving skills using a data-driven approach
+Analytical and process thinking, Experience with data visualization tools (Power BI, Tableau)
+Ability to work in a fast-paced environment with different international cultures
+Fluent English (verbal and written)
+Requisite Education and Experience / Minimum Qualifications:
+University degree in Industrial Engineering, Operations Research, Applied Mathematics / Statistics, Data Science, Computer Science, Supply Chain Management or equivalent combination of education and experience
+3+ years of experience working in Supply Chain / IT
+SAP AFS/FMS/S4 MM experience preferred
+Knowledge of MS Access and understanding of relational databases
+Experience with Supply Chain optimization software either as end user or designer
+Experience in working with stakeholders and experts at various organizational levels
+Wir bieten
+- Location Campus North Rieste, Amsterdam or Herzogenaurach -
+Europe Finance
+Global Logistics & Distribution
+Global Product Teams
+Corporate Solutions
+Global IT
+External Vendors
+,Brand: adidas,Location: Herzogenaurach,TEAM: Supply Chain Management,Country/Region: DE
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

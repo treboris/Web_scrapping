@@ -1,0 +1,76 @@
+Jobs by email
+Helmholtz-Zentrum Hereon
+Scientist for the processing and analysis of 4D data from tomography experiments
+Hamburg
+Temporary contract
+Full Time
+Published: 5 hours ago
+Save
+Cutting-edge Researchfor a Changing World
+Helmholtz-Zentrum Hereon
+The Helmholtz-Zentrum Hereon conducts cutting-edge international research for a changing world: Around 1,100 employees contribute to the tackling of climate change, the sustainable use of the world's coastal systems and the resource-compatible enhancement of the quality of life. From fundamental research to practical applications, the interdisciplinary research spectrum covers a unique range.
+Institute of Metallic Biomaterials
+In the Institute of Metallic Biomaterials new titanium and magnesium based implant materials for regenerative medicine are developed, produced and characterized. Researchers investigate the factors influencing the process chain and properties. In addition, the interaction of material and tissue is studied in the laboratory and at the synchrotron.
+Scientist
+Reference code: 50093747_2 – 2023/MB 1
+Commencement date: as soon as possible
+Work location: Hamburg
+Application deadline: 26.04.2023
+Helmholtz-Zentrum Hereon is operating an outstation on the DESY campus in Hamburg, Germany. At the synchrotron radiation source PETRA III at DESY, our Institute of Materials Physics operates imaging beamlines for X-ray tomography (P05 IBL, P07 HEMS) for academic and industrial users. Our Institute of Metallic Biomaterials develops and studies biodegradable magnesium alloys as implant material by making use of the unique characterization techniques available at PETRA III.
+The high X-ray flux density of the X-ray beam at PETRA III enables 4D in situ/operando/vivo tomography to study dynamic processes in 3D over the course of time, e.g. material corrosion or compression/tensile testing. Here, large amounts of 4D data are collected from a wide variety of samples with different spatio-temporal resolutions, noise levels and artifacts, which is challenging to reconstruct and analyze. In addition, the coherence of the X-ray beam provides phase contrast capabilities for weakly attenuating materials or to enhance intensity contrast.
+This project is part of a large German consortium and you will investigate the application of machine learning for data preprocessing (denoising, normalization, artifact reduction), phase retrieval, and digital volume correlation. We are therefore looking for a scientist for the processing and analysis of 4D data from tomography experiments by means of artificial intelligence. The position is initially for 3 years.
+Equal opportunity is an important part of our personnel policy. We would therefore strongly encourage qualified women to apply for the position.
+Your tasks
+Your main responsibilities will be (i) the implementation of a known operator learning approach for phase retrieval for propagation-based phase-contrast experiments using a single-distance measurement, (ii) the implementation of a neural network for digital volume correlation in order to calculate displacement fields in 3D (via optical flow methods), and (iii) the implementation of a neural network for the reduction of artefacts, which are induced by spatial and temporal variations of the X‑ray beam. You will further be responsible for the simulation of 4D time-lapse tomography data sets for our imaging beamlines using the syris framework, the integration of simulated and real data in a database for the training of the neural networks, and the integration of the developed neural network models in a framework for end users. Together with project partners you will explore the application of neural networks for denoising, motion compensation and super-resolution techniques.
+implementation of a neural network for phase retrieval for single-distance phase-contrast experiments
+digital volume correlation of 4D data using neural networks
+machine-learning-based reduction of artefacts induced by spatio-temporal variations of the X-ray beam
+simulation of 4D-CT data sets at our tomography beamlines
+integration of simulated/real data in a database for training
+integration of developed neural networks in a framework for end users
+investigation of denoising, motion compensation and super-resolution techniques
+close cooperation with the project partners to ensure the transfer of knowledge
+implementation and performance evaluation of algorithms at HPC clusters
+application of algorithms to implant data and other user data
+publication and presentation of your scientific results in international journals and at international conferences and workshops
+Your profile
+experience with synchrotron-radiation-based imaging is a benefit
+team spirit as well as excellent communication skills
+University degree (M.Sc., diploma or equivalent) and a doctorate in computer, natural, engineering or data sciences
+experience in machine/deep learning
+experience in the automated processing of X‑ray tomography data
+experience in image processing
+experience with high-performance, parallel, or distributed computing
+strong analytical skills and a sound theoretical background
+excellent programming skills in Pythonication and organizational skills
+excellent written and spoken English skills
+We offer you
+an exciting and varied job in a research centre with more than 1,100 employees from around 50 nations
+a well connected research campus and best networking opportunities
+individual opportunities for further training
+social benefits according to the collective agreement of the public service and remuneration
+an excellent technical infrastructure and modern workplace equipment
+6 weeks holiday per year and company holidays between Christmas and New Year's Day
+very good compatibility private and professional life through offers of mobile and flexible work
+family-friendly company policy with childcare facilities
+free assistance program for employees (EAP)
+corporate Benefits
+Severely disabled persons and those equaling severely disabled persons who are equally suitable for the position will be considered preferentially within the framework of legal requirements.
+Interested?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Helmholtz-Zentrum Hereon
+Notkestraße 85, 22607 Hamburg, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

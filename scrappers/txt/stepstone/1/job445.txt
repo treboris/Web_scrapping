@@ -1,0 +1,80 @@
+Jobs by email
+Fidelity Investments
+Technical Manager Backend - Application Support
+Kronberg im Taunus
+Permanent contract
+Full Time, Home office possible
+Published: 2 weeks ago
+Show salary
+Save
+Einleitung
+Title                 Technical Manager Backend Systems
+Department Technology German Platform and Advisory
+Location          Kronberg Germany
+Reports To       Thomas Scheuring
+  We're proud to have been helping our clients build better financial futures for over 50 years. How have we achieved this? By working together - and supporting each other - all over the world. So, join our German Technology team and feel like you're part of something bigger.
+  About your team :
+The team is responsible for managing three mission critical applications of FIL Fondsbank GmbH. It manages the core banking system where all customer accounts and assets are stored. The creation of all customer outbound correspondence in a highly automated manor is with the team as well. Third aspect of the teams responsibility is to look after the scheduling of all technical interactions amongst all components, forming the technology landscape of FIL Fondsbank GmbH.
+Due to its central role, a key success factor of the team is intense collaboration with business stakeholders, external software vendors and technical service providers to achieve robust and stable operations combined with a high degrade of flexibility requested by our business colleagues and customers.
+  About your role :
+you will be responsible for the management of the core banking system of FIL Fondsbank GmbH. You take care of the permanent enhancements of the application as well as the improvement of the underlying infrastructure. This also includes challenging aspects like performance testing and optimization to meet system scaleability goals and the ambition of our growing business.
+The role covers the main aspects of the software lifecycle starting with test conception and management, production role-outs up to ongoing production support and incident management. For achieving, you will make use of our modern test and release management toolset (JIRA, Confluence and ServiceNOW) as well as our CI/CD toolset (Bitbucket, Jenkins). Besides your day to day "business as usual" tasks, you are also working in projects.
+Key Responsibilities : 
+Technical ownership of core banking system
+Act as central contact point for the business teams, software vendors and technical teams for all aspects within the core banking system
+Ensure stable application operation including production environment as well as non-production systems
+Ensure secure application operation by addressing vulnerability and patch management
+Manage the main aspects of the software development lifecycle (SDLC) from testing, software role-out up to ongoing production operation and incident management
+Please note that role also includes weekend on call duty (usually Saturdays)
+Experience and Qualifications Required 
+About you :
+We look forward for you bringing your skills and qualifications in our team:
+solid experience as application manager of a core banking system or equivalent (mission-critical) applications
+passion for Technology servicing rapidly changing requirements
+good knowledge of Unix and some basic knowledge of container technologies - especially with Docker
+very good analytical and problem resolution skills
+ability to communicate effectively in German and English language (both written and oral)
+Strong Team Player
+passion to learn and continuously grow
+Feel rewarded 
+For starters, we'll offer you a comprehensive benefits package. We'll value your wellbeing and support your development. And we'll be as flexible as we can about where and when you work – finding a balance that works for all of us. It's all part of our commitment to making you feel motivated by the work you do and happy to be part of our team. For more about our work, our approach to dynamic working and how you could build your future here, visit careers.fidelityinternational.com.
+For more about our work, our approach to dynamic working and how you could build your future here, visit careers.fidelityinternational.com 
+Weitere Informationen
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Fidelity Investments
+Kastanienhöhe 1, 61476 Kronberg im Taunus, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

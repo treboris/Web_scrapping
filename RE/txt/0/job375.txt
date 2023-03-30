@@ -1,0 +1,36 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Embedded SW Engineer 
+Our teams develop software solutions for automated parking and safety systems, processing various automotive sensor data and providing a robust, scalable output to driving function modules.
+YOUR TASK
+Our embedded component teams are responsible for various functionality of our perception and fusion stack. These state-of-the-art algorithms are required to run in resource constrained environments. Therefore, you will be responsible for:
+> Implementation of a scalable, maintainable, cross-platform capable embedded software solution
+> Optimization of neural network post-processing and sensor fusion algorithms for multiple hardware platforms
+> Build and deployment of trained neural networks and sensor fusion algorithms into embedded environments
+> Software documentation and verification by means of black-box and white-box testing
+> Transformation of customer and project requirements into deep learning component designs
+> Collaboration with our international agile teams
+QUALIFICATIONS & EXPERIENCE
+> University degree (BSc, MSc, PhD) in a technical area: Computer Science, Electrical Engineering, or related
+> Advanced programming skills in C++
+> Basic programming skills in Python
+> Good command of English language
+> Collaborative, open-minded, team player attitude
+NICE TO HAVE
+> Work history in the automotive industry
+> Experience in CI/CD configuration (Jenkins), and various build systems
+> NoSQL database experiences
+> Knowledge in Computer Vision, Image Processing or Machine Learning
+WHAT WE OFFER
+> Competitive compensation and a wide range of benefits, including:
+> Bonus system
+> Annual flexible benefit (Cafeteria)
+> Private health insurance
+> Employee discounts
+> Sport pass support
+> Flexible work-from-home arrangements during and after the COVID-19 pandemic
+> Continuous development with access to numerous trainings, including technical skills, soft skills and language skills
+> Personal career development and a challenging role with end-to-end responsibility
+> Opportunity to see your ideas turn into reality with our test vehicles
+> Ability to directly deliver software into real, innovative products
+> Easily accessible office location in downtown Budapest (near Kálvin square)
+Jelentkezem

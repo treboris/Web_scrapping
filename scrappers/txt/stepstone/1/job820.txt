@@ -1,0 +1,70 @@
+Jobs by email
+Hilti Entwicklungsgesellschaft mbH
+Battery Software - Technical Project Manager (m/f/d)
+Kaufering nahe München
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+No cover letter required
+Easy apply
+Save
+What's the role?
+Battery Software - Technical Project Manager (m/f/d)
+Kaufering near Munich
+Job reference: WD-0019856
+Become part of our new 22 V battery technology "Nuron". Developed on the basis of Li-Ion battery technology, Nuron batteries are equipped with high-performance cells and a completely redesigned interface between batteries and devices.
+As technical project manager (m/f/d) you will be responsible for the entire development of the software for batteries themselves and also for software parts in the chargers and power tools that are responsible for battery management.
+Together with an international and interdisciplinary embedded SW team you will be in close exchange with related departments (e.g. battery development) and define and realize strategic projects to bring the SW development, test and QA activities to the next level.
+Who is Hilti?
+We develop, manufacture and sell cutting-edge products, technology, software and services for the global construction industry. Hilti stands for innovation, quality and direct customer relationships.
+From the pre-development of our own motors, electronics and firmware, to series-maturity - our intelligent mechatronic systems come from our own research and development laboratories.
+With 32,000 people in more than 120 countries, we're a great place for you to show us your worth, step up to new challenges and grow in your career.
+With a completely redesigned innovative interface between battery and tool, the performance of corded as well as gasoline-powered tools is surpassed - all on the 22 volt Hilti platform. Data-based services help with battery management and easy equipment planning and management.
+What does the role involve?
+You manage the development activities for the battery software in terms of time, scope, budget and quality. Together with your project team, you will translate system-level requirements into SW requirements and take end-to-end responsibility from SW requirements to development and verification.
+In coordination with all stakeholders, you define a functional and release plan and regularly report the status quo to your stakeholders in management meetings.
+With your team consisting of 7 software developers (internal & external), you coordinate resource planning, define work packages and are responsible for deliverables.
+Why should you apply?
+We have highly qualified people working for us who come from a wide variety of backgrounds. We believe that diverse teams work even more innovatively, productively and creatively. We offer a forward-looking growth field with technologically exciting tasks and prospects.
+What you need is:
+At least 7 years of professional experience, ideally first experience in technical team management
+Technical experience with software and agile development processes
+Strong analytical, problem solving, presentation, and stakeholder management skills
+Completed university studies (master's degree, diploma, PhD) in engineering, computer science, mechatronics or related fields
+Structured organizational management and talent for multi-tasking
+Practical and proactive mindset
+Proven ability to complete projects on time and on budget
+Excellent command of English, German is a plus
+What do we offer?
+We offer you a unique place to work, in which you are part of a creative and interdisciplinary team. We will give you a lot of responsibility to develop yourself and we´ll support you in shaping your individual career path.
+In addition, we offer you innovative and personalized Benefits, such as
+- Fitness and health benefits
+- Flexible working arrangements
+- Mobile working
+- Sabbatical
+- DB JobTicket
+- Subsidised Company Bike
+- Subsidised monthly and annual public transport subscriptions
+- Free charging pole for electric cars
+- Company pension scheme (employer-financed)
+- Subsidy for childcare
+- Summer holiday care for children
+Further benefits:
+- Support in relocating and finding a flat
+- Tax advice
+Integrity, courage, teamwork and commitment are essential for Hilti – both today and tomorrow. We are proud to say that we not only talk about our values, but also live them every day.
+Further information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Hilti Entwicklungsgesellschaft mbH
+86916 Kaufering, Deutschland

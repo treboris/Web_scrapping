@@ -1,0 +1,77 @@
+Jobs by email
+Mercedes - Benz AG
+Data Engineer - Communication & Marketing (f/m/x)
+Stuttgart
+Permanent contract
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER0002EX0_EN
+Tasks
+We make the Mercedes-Benz brands desirable and relevant - with enthusiasm and passion!
+The Mercedes-Benz Cars Communications & Marketing unit (MS/C) is responsible for the global conception, implementation and steering of all communication activities and advertising strategies of Mercedes-Benz Cars. We creatively steer our luxury brands across all customer touchpoints and efficiently optimize communication for our customers by means of data-driven and measurable activities. We do all that with the clear goal of creating and deepening our customers’ enthusiasm and desire for the brand.
+If you are motivated to contribute to these exciting and diverse topics, are a strong team player, and enjoy a problem-solving and solution-oriented environment – then you've clearly come to the right place!
+As part of the Digital Innovation & Data Factory team, you will be able to immerse yourself in a wide variety of data projects along the entire customer journey and have the chance to actively drive them forward. You will be part of the first central Data Factory in the Marketing & Communications unit and thus make a valuable and sustainable contribution to the digitization of the division and actively shape its cultural change. Agile working methods in a cross-functional team set-up offer the perfect working environment to drive the development of analytical products and use cases. In doing so, we pursue a clear vision: Through excellent in-house support for data projects, we will contribute to a desirable and data-driven brand presence.
+Your tasks include:
+Responsibility for the development of data products, data pipelines and the architecture for the development of data products in an interdisciplinary Data & Analytics team in the area of Communication & Marketing Mercedes-Benz Cars
+Design, development and implementation of performant and scalable data pipelines (ETL processes) and data models with modern components e.g. from the MS Azure Cloud in close coordination with your data worker teammates as well as various internal and external experts
+Continuous development of further business-relevant data sources as well as optimization of data processing procedures
+Supporting the business unit, on data & analytics relevant topics, with the insights of the available data base
+Documentation of business-relevant events and decisions
+Application of digital/agile methods, such as Design Thinking or Scrum, e.g. also in Discovery Workshops
+Networking with relevant data analytics areas within the company to optimize data analysis processes and practices
+Qualifications
+What you bring to the table:
+Successfully completed studies in computer science, business information systems, mathematics or comparable field with mathematical, statistical or econometric components
+Several years of experience as a data engineer or in a comparable role in a data-driven work environment (e.g. in the automotive industry, management consulting, media agency, software or start-up industry)
+Sound knowledge of SQL, Python, Databricks, Data Lake(house), ETL, GitHub, etc. ideally in combination with the use of cloud solutions such as MS Azure or AWS
+Knowledge and experience in planning and managing complex data analytics projects as well as knowledge of agile methods (Scrum, Kanban, etc.)
+IT understanding to transfer business requirements into the system landscape
+Business fluent English language skills, German as a plus
+Personal competences:
+Passion for data and using it to make sound data-driven business decisions in the digital marketing environment
+Creative drive, creative problem-solving skills and motivation to make a difference
+Strong teamwork skills and a high level of motivation
+Willingness to learn and enjoy learning new areas of responsibility quickly
+High level of technical and digital understanding
+High analytical and conceptual skills
+In a nutshell: Why is the Digital Innovation & Data Factory Team the right fit for you?
+Many exciting projects of the entire marketing and communication area are waiting for you, which can be assigned specifically according to individual skillset and topic enthusiasm
+You will work with state-of-the-art data lake(house), analytics & AI technology with interfaces to cross-functional data teams from neighboring areas
+You can expect a great deal of creative freedom and many development opportunities, in a highly motivated and international team that is currently being built up
+Regular team building measures, e.g. in the form of already established Learn & Teach sessions across the entire MS/C area
+Opportunity for flexible work arrangements (time and place) - We are convinced that a healthy work life balance leads to better work results and strengthens the team spirit
+We are looking forward to your application!
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: sbv-zentrale@mercedes-benz.com
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+Mercedes - Benz AG
+70565 Stuttgart, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

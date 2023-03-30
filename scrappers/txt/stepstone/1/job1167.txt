@@ -1,0 +1,43 @@
+Jobs by email
+Liebherr-Digital Development Center GmbH
+IoT DevOps Engineer/Full Stack Developer (m/f/d)
+Ulm
+Permanent contract
+Full Time
+Published: 1 week ago
+Save
+Liebherr-Digital Development Center GmbH in Ulm develops digital solutions for the entire Liebherr Group. Our passionate team from the areas of software development, engineering and data science works together on various projects from the whole Liebherr product world. Our mission: creating outstanding digital experiences!
+IoT DevOps Engineer/Full Stack Developer (m/f/d)
+Job-ID 63278
+Tasks
+Your responsibilities
+Conceptual design, development and operation of our device management tools & infrastructure (Provisioning, Update, Logging, Remote Analysis, ...)
+Development and setup of our CI/CD and security infrastructure
+Operation & maintenance of our IoT device backend infrastructure (Logging, Tracing, Reporting,...)
+Support embedded software development of modern connectivity systems
+Integration and development of Test, Code & Security analysis systems & tools
+Evaluation and prototyping of the latest tools and trends in software development
+Enforce and implement high-class security concepts in systems and products
+Support system integration and test in an agile team by close cooperation with internal & external developers
+Qualifications
+Your qualifications
+B.Sc. / M.Sc. Computer Science or comparable and at least 3 years experience in software development
+End to End understanding of complex IoT systems (device & backend)
+Creation and operation of containers and deployments (e.g. kubernetes, docker, helm charts)
+Experience in automation and orchestration (e.g. Ansible, Terraform)
+Sound knowledge of various network and encryption protocols & standards
+Experience in C/C++ and modern scripting languages and development environments
+Knowledge in building embedded Linux systems is a plus (Yocto, ...)
+Practical knowledge in continuous delivery and agile methods
+Knowledge of the latest software architecture principles and practices
+Ability to speak, understand and write German and English fluently
+Our offer
+An interesting and ambitious role in a successful international company. We offer a secure work environment with a comprehensive benefits package and competitive salary.
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Liebherr-Digital Development Center GmbH
+Ulm, Deutschland

@@ -1,0 +1,72 @@
+Jobs by email
+Mercedes - Benz AG
+Software Test Engineer - Advanced Driver Assistance Systems (f/m/x)
+Böblingen
+Permanent contract
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER0002DCD
+Tasks
+In RD we are shaping the automobile generations of the future: Innovative products of the highest quality and efficient development processes.
+At Mercedes-Benz, we invented the car and now, we strive for nothing less than taking the lead in car software. We will do this with a proprietary software development approach, strong partners like NVIDIA and our own proprietary MB.OS operating system.
+With an international team, we want to integrate people who appreciate quality, creativity and teamwork just as much as we do. Together we create the world's best cars with passionate technology on exciting topics like: automated and autonomous driving, infotainment systems or mobile apps. And we need YOU to shape the future of Mercedes-Benz!
+In the autonomous driving team, we focus on the development of the future autonomous driving system for Mercedes-Benz cars. We integrate a variety of high-end sensors and the overall ADAS SW stack. The system is developed in-house at Mercedes-Benz and with internal and external partners.
+For this ADAS SW stack, we are looking for you as a test engineer in our software test management team.
+These challenges await you:
+Implementation of the software test processes (SWE.4 – SWE.6) according to the test strategy
+Alignment with the stakeholders and the management
+Steering of multinational testing teams
+Tailoring of individual test processes to various testing needs
+Driving the process automation and efficency
+Monitoring of the test execution, generation of the testing KPIs and continous improvement of the test processes
+Reporting, escalation and documentation according to the release schedule
+#MBOS
+Qualifications
+We would appreciate the following professional skills and qualifications:
+Degree in electrical engineering, computer science, information technology or similar
+Experience with software development, its processes and the tools along the whole development journey
+Experience in software testing and automotive engineering
+Experience in embedded, safety relevant real-time systems
+Experience with CI/CD toolchains and automotive software tools
+Proficient in English and German
+Personal skills
+As a team player, your motivation is the success of the team
+Passion for problem solving and efficient, sustainable solutions for the development community
+Excellent skills in self-organisation, time management, prioritization and multi-tasking in a fast-paced environment
+Personal initiative, commitment, perseverance and resilience
+Precise and appropriate communication
+Aspiration to DevOps principles and engineering excellence
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: sbv-sindelfingen@mercedes.benz.com
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+Mercedes - Benz AG
+71034 Böblingen, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

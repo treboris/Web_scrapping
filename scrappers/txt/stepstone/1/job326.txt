@@ -1,0 +1,60 @@
+Jobs by email
+Risk.Ident GmbH
+Scala Developer (d/f/m) Integration Hub (On-Site or Remote)
+Hamburg, bundesweit (Home-Office)
+Permanent contract
+Full Time, Home office possible
+Published: 6 days ago
+Show salary
+Easy apply
+I'm interested
+Save
+RISK IDENT ist ein junges, schnell wachsendes Softwareunternehmen mit Sitz im Herzen Hamburgs. Im Jahr 2012 gegründet, haben wir uns innerhalb kürzester Zeit zu einem der Marktführer im Bereich der Betrugsprävention entwickelt. Heute können wir eine starke Kundenbasis namhafter Unternehmen vorweisen, von denen die meisten aus den Bereichen E-Commerce, Telekommunikation und Finanzdienstleistungen kommen. Für unsere Kunden sichern wir über 55 Milliarden Euro Umsatz im Jahr gegen Betrug ab. Wir sind ein etabliertes Start-up mit einem innovativen SaaS Business Model. Wir haben eine sehr gute Positionierung am Markt und eine sichere, langfristige Finanzierung. Heute besteht unser Team aus über 70 Kollegen, von denen jeder einzelne für das brennt, was wir tun. Wir suchen ständig nach neuen Herausforderungen und nach smarten Leuten, die uns auf unserem Weg begleiten!
+100% remote possible, but German residential address required.
+Online fraud is organised crime, and on the rise. Every month we have to process over 10 million online transactions. Become the Sherlock Holmes of the web and help us to build software that solves real fraud cases! In this never-ending race, we are fighting the bad guys with technology!
+As the Integration Hub team, we develop and maintain services for our fraud prevention software FRIDA. Our services are responsible for defining the overall workflow and integrating various services owned by other teams. Being a central part, we are also responsible for driving new ideas regarding the underlying software architecture of FRIDA. What we are looking for is a motivated software engineer who is eager to learn and enjoys the entire lifecycle of development from implementation to running and monitoring their software.
+TASKS
+Designing, implementing, testing and operating services in Scala.
+Ensuring successful operation through topics like continuous integration, metrics and logging.
+Dealing with challenges in a distributed environment such as eventual consistency and resiliency.
+Actively taking part in shaping the processes and deciding on the technologies our team works with.
+Become an active, communicative and fun team member of the Integration Hub team. Someone who wants to get involved in actively shaping the future development of the product. The team works independently and owns their services. Be responsible for the whole software lifecycle and decide on your own how to implement requirements. Work together with other service developer teams and product stakeholders to shape the product for the future of our fraud prevention solution. 
+REQUIREMENTS
+You have experience in at least one JVM based language (Scala is a plus) and the related technology stack.
+You have an interest in functional programming (Experience with effects systems such as ZIO are a plus).
+You are familiar with Docker and related technologies (Kubernetes is a plus).
+You have an understanding of distributed systems and the challenges coming with them. You have worked with software architecture designed around services (Experience with messaging such as Kafka is a plus).
+You have hands-on experience with operational environments, or desire to learn how your software runs and what it takes to operate it.
+You like taking responsibility for your software engineering projects.
+You are eager to constantly learn together with the team by doing code reviews, pair programming and feedback sessions.
+You have good English language skills (German is not required but a plus).
+WE OFFER THE FOLLOWING BENEFITS
+The possibility to take over responsibility and to realise your own ideas – from day one
+Collaborative environment in which everyone works on eye-level
+A team of experts and helpful buddies that allows you to learn something new every day
+Very friendly and open environment
+Generous remote work guideline with emphasis on team alignment
+Allocated time to pursue your personal/technical growth
+Internal coaching and training sessions
+Budget for conferences, trainings, etc. and access to an online learning platform
+Sabbatical
+Social Days, i.e. paid time off for volunteer work on a project close to your heart
+Free choice between Linux or MacOS on powerful mobile hardware, and everything else you might need to be able to work efficiently
+Public transport & lunch allowance
+Regular workout sessions at no charge (shower in the office)
+Bike leasing via JobRad with insurance allowance
+Attractive discounts at various partner shops and gyms
+Relocation support: constant contact person, issuing documents, help with public offices, translation support, etc.
+And many more!
+For more information check out our website. If you want help us to take our component Integration Hub to the next level, please send us your documents using the “apply” button. Your contact person is Tram Reichart (Senior POW Manager). We are looking forward to your application!
+Kontakt
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

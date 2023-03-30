@@ -1,0 +1,51 @@
+Jobs by email
+DVS TECHNOLOGY AG
+Full-Stack Developer (m/w/d)
+Aßlar
+Permanent contract
+Full Time
+Published: 5 days ago
+Show salary
+Save
+The DVS TECHNOLOGY GROUP is a mechanical engineering association well-known companies with core competencies in the field of machining technologies Turning, gear cutting, grinding and gear honing. We employ over 1,400 employees worldwide and are one of the most internationally leading system providers for machines, tools, and production solutions for soft and hard machining, especially of components of the drive train. 
+We, the DVS Digital Unit, drive the digital platform setup and digital service innovation of the DVS Technology Group. We are based in Aßlar, central Hessian, with the best proximity to all DVS companies. Our mission is to create a platform for machine connectivity and data management to unleash the potential of digital connectivity, process digitization and machine learning.
+We are looking for a Full-Stack Developer for the development of great User Experience applications in the DVS Digital Ecosystem in the sphere of microservices and cloud technologies.
+Your activities cover:
+design and implement modern web-based software applications
+create single-page front-end applications based on modern frameworks
+work on the vision to create a great customer experience with a high degree of usability
+research the latest technologies to build our platform and develop platform features
+drive the growth of the DVS digital ecosystem across the DVS Connect customer portal and DVS Edge solutions
+be part of our agile team, and push your topics in an open, start-up-like environment
+ensure that the developed software is scalable and can run in the cloud as well as on our edge devices
+Ideally, you should have:
+strong experience using modern Front-End technologies (JavaScript, Node JS, HTML, and CSS)
+experience with cloud-based service implementations, ideally in Java, Python is a plus
+experience with Amazon Web Services as ECS, RDS, S3, and DynamoDB
+agile mindset with an understanding of how to design strategies to deliver value early
+interest in solving real-world problems in the manufacturing industry with a desire for deep involvement in all aspects, from solution design to actual implementation
+working experience or a degree in computer science / relevant studies, graduates are very welcome
+Contact:
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+DVS TECHNOLOGY AG
+Industriestraße 3, 35614 Aßlar, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

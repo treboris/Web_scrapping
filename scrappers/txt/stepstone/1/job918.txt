@@ -1,0 +1,67 @@
+Jobs by email
+B. Braun Melsungen AG
+Embedded/Electronic Developer (f/m/d) – Robotic Surgery
+Freiburg
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+You're an important part of our future. Hopefully, we're also a part of yours!
+At B. Braun, we protect and improve the health of people worldwide. This is also our vision for IT. You see technology as an opportunity, and you develop solutions that secure our business in the long term, we would like to implement the digital transformation of B. Braun with you. With fresh ideas, drive and team spirit, we are working to launch the medical technology of tomorrow and safeguard the healthcare of the future. Together. That's Sharing Expertise.
+Embedded/Electronic Developer (f/m/d) – Robotic Surgery
+Reference Code DE-902023-77543
+B. Braun New Ventures is a Corporate Start-Up based in Freiburg, Germany and takes a lead role in the digital transformation of healthcare. With a young and fast-growing team, we develop solutions to automate medical procedures across various business areas. Our goal is to augment caregivers' eyes, hands and decision making with sensors, robotics, and artificial intelligence. Our cloud platform team is focused on creating corporate-wide solutions that will drive the next generation of B. Braun's digital products and connected devices. The technologies and products we develop create new treatment possibilities, enable sharing of clinical experience, and result in better patient care.
+In this scope we are searching for an Embedded/ Electronic Developer (f/m/d) to work within the robotics platform team.
+Duties and responsibilities
+For a new robotic surgery platform you define sub-system and component requirements
+You develop embedded software based on microcontrollers
+You partner closely with suppliers and develop concepts of electronic circuits, components and embedded systems
+You review code, schematics, layouts and ensure the quality, conformity with standards and its verification
+You partner closely with engineers from other domains such as software, testing, robotics, and mechanics to consider technology needs on a system level
+You ensure timely, complete, and high-quality documentation of sub-system requirements and its integration in our product documentation system
+noch zu definieren durch B.Braun
+Professional competencies
+Profound engineering background in electronics, embedded systems, or mechatronics
+Experience in developing and designing embedded systems, including electronics and software (embedded-C) development
+Experience in working with standards and general requirements engineering, ideally in the field of medical device development (IEC 60601-1, IEC 60601-1-2, IEC 62304)
+Experience with relevant development environments and software tools (FreeRTOS, Linux, Eclipse (IDE), Altium) would be a plus
+Experience in managing suppliers would be a plus
+Personal competencies
+You are a technology enthusiast with high discipline in technical documentation
+You have proven interface and communication competences in interdisciplinary teams
+You are a hands-on executer with a finisher mindset
+You are an excellent team player, encourage collaboration and mutual support
+You speak fluently English and German
+Was wir bieten
+What we offer
+Become part of a corporate culture that actively promotes constructive exchanges between colleagues, customers and partners. Work with us to improve people's lives in the long term. We can offer you interesting, varied tasks and excellent opportunities for advancement, as well as an attractive salary with extensive benefits, all within a dynamic family-owned company.
+Benefits
+Flexible and family oriented working hours and hybrid working between office and home
+A brand-new modern office optimized for concentration and collaboration with an integrated high-tech simulation operating room and generous social areas and creativity zones
+High quality of life in one of Germany's most attractive cities
+Your next step
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+B. Braun Melsungen AG
+Freiburg, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Company laptop
+Employee discount
+Cafeteria
+Company medical officer
+Coaching
+The benefits listed are applicable to the company and can differ depending on the position or department.

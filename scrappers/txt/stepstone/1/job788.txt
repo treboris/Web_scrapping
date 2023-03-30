@@ -1,0 +1,70 @@
+Jobs by email
+CARIAD
+Senior System Analysis Engineer - Intelligent Cockpit (m/f/d)
+Wolfsburg, Ingolstadt, Nürnberg
+Permanent contract
+Full Time, Home office possible
+Published: 6 days ago
+Show salary
+Easy apply
+Save
+At CARIAD, it’s our mission to transform automotive mobility for everyone, everywhere, making it safer, more sustainable, and more comfortable in every way.
+To deliver on that promise, we’re building a unified technology and software platform, including a vehicle OS and cloud platform, as well as a unified architecture. As a 100% subsidiary of the Volkswagen Group, we’re developing solutions for all of its brands, including Volkswagen, Audi, and Porsche, and will bring our software to over 40 million vehicles by 2030.
+Is this an easy task? Not at all! To tackle such a huge challenge, we need a great team. And that’s where you come in. You’ll join more than 5,000 CARIDIANS already working on the latest vehicle features and functions like automated driving, state-of-the-art charging technology, as well as a new digital ecosystem. Together, we’re bringing sustainable change to one of the largest companies in the world.
+YOUR TEAM
+We develop the standardized cockpit electronics and software system for future vehicle E/E architectures. We will provide the base for the Infotainment Platform enabling a rich, simple and comfortable infotainment and digital customer experience across all Volkswagen Group brands.
+The System Base team is a group of experts and technology enthusiasts located in the Architecture Development Area at CARIAD. With deep system knowledge and technological skill, we work on projects from the first minute until the product goes to production. The team is&nbsp;responsible for a broad field of base functions like&nbsp;Operating Systems (Linux, AUTOSAR, Android), Performance, Stability,&nbsp;PowerManagement, Virtualization, Tracing and&nbsp;Logging&nbsp; of the Cockpit Infotainment System. We design, develop, manage system and software requirements together with our partners and suppliers.
+As "Senior Analytical System Engineer for Intelligent Cockpit” you will analyze and optimize the system behaviour, develop tools to automatize the analysis with the goal to launch a performant Infotainment system for all group brands.
+#OneInfotainment #Infotainment
+WHAT YOU WILL DO
+Responsibility as Product Owner: Specify requirements, manage the software suppliers, test and optimize the functions
+Test, modify and optimize software deliveries with focus on performance (Startup/Shutdown/Runtime) and memory footprint and do proactive deep system analysis (Kernel tracing, etc.)
+Develop tools, write scripts to automate the analysis
+Specify and align system technology requirements, assess and consolidate available solutions and alternatives, standards and best-practices across Group Brands
+Work closely with Operations Engineering, software teams across company boarders in supporting infotainment systems optimization and project implementation
+Evaluate alternatives for technical implementations in the case of technical changes or conflict of objectives together with the team
+Assess system hardware and software implementation in terms of system requirement specifications, change requests, system function and system integration
+WHO YOU ARE
+University degree in Engineering, Informatics or comparable course
+Several years of experience in system and/or software development, preferably in the area of instrument cluster or infotainment systems
+Thorough understanding of automotive electronics and software development projects including current and emerging processes and technologies
+Knowledge of functional, vehicle and control unit architectures and SW platforms, operating systems (deep knowledge in AUTOSAR, Linux, Android), programming languages (deep knowledge of C, C++, Java beneficial), software technologies in a virtualized system, and automotive tools (e.g. Vector CANoe)
+In-depth knowledge of technical interrelationships, processes and supplier management and experience in working with agile methods
+Understanding for technically complex content as well as its risks and potential impacts on development efforts and the resulting scheduling track
+Self-motivated, strong personality and dedicated team player with above-average communication, negotiation, problem-solving and decision-making skills
+NICE TO KNOW
+Remote work options
+Temporary work from abroad in selected countries
+Flextime / optional working hours
+Company pension plan
+Annual professional development
+Sabbatical option up to 6 months
+30 days paid + 10 days unpaid leave
+Possibility for VW Group car leasing
+If you have further questions about the candidate journey at Cariad, talk to Cari, our Cariad Chatbot.&nbsp;Can’t see it? Check your settings or visit our&nbsp;FAQ
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,58 @@
+Jobs by email
+ZEISS
+Lead DevOps engineer / developer for machine learning platform (m/f/d)
+Oberkochen (Baden-Württemberg), München
+Permanent contract
+Full Time
+Published: 8 hours ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+ Ihre Rolle
+We are looking for a passionate and talented colleague who want to make an impact by driving the development of our internal web application platform for computer vision applications. Integrated in an agile team at the Corporate Information Technology department. You will have the opportunity to work on the development of a next generation machine learning platform at ZEISS using cutting-edge tools and technologies.
+As a lead DevOps engineer, you will work side by side with your coworkers in an agile team in an environment which will allow you create the ideal conditions for your future career. You will work closely together with the product owner and take ownership of the following topics: technical architecture and DevOps. You will be responsible for defining the architecture and the operation of our Kubernetes based cloud environment. You will extend and define the architecture of our backend services and integrate additional external services. You also will work close together with machine learning experts to integrate the latest machine learning technology in our platform. 
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together. 
+Join us today. Inspire people tomorrow. 
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation, or identity. 
+ Ihr Profil
+· a master's degree in computer science, mathematics, physics, or related fields with an outstanding study record or similar experience 
+· a high motivation, creativity, flexibility, and a structured and independent way of working. 
+good communication and presentation skills 
+· Extensive backend development knowledge (REST API, ideally Python, Django, nodejs) 
+· a deep understanding of cloud infrastructures with Docker containers, Kubernetes cluster and continuous development/integration 
+· Don't be afraid to analyze and solve issues in a production cloud environment. 
+· Assist and guide other DevOps team members. 
+· Experience with the design of micro services architectures 
+· Experience to operate SQL (postgres) and NoSQL (redis) databases inside a containerized environment. 
+· Ideally you also have experience to work with a Hyperscale infrastructure with GPU capabilities and with large datasets (images)
+Your ZEISS Recruiting Team:
+Sally-Sahel Grütte-Pad
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

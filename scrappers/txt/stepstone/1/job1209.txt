@@ -1,0 +1,36 @@
+Jobs by email
+Apple Distribution International ULC
+Software Engineer - ARKit Framework
+München
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Show salary
+I'm interested
+Save
+Summary
+Are you ready to contribute to the development of frameworks used by hundreds of millions of people? Do you want to collaborate with a passionate team to be building greatly designed APIs? Do you thrive on solving hard problems by rapidly and iteratively engineering solutions?
+The ARKit framework team is seeking an ambitious and determined software engineer to play a central role in the delivery of our public framework. You will have the rare and rewarding opportunity to engineer upcoming products that will delight and inspire millions of Apple’s customers every single day.
+Tasks
+You are comfortable working in a dynamic and creative team charged with exploring a rapidly evolving domain.
+You will work in a cross-functional team which is developing innovative computer vision/machine learning systems and advanced visualization applications.
+As a framework engineer on our team, you will have many responsibilities related to designing and implementing the architecture and framework of our developer facing API.
+You will also work closely with internal clients to ensure we’re meeting their requirements as well as create prototype applications throughout the release process.
+Key Qualifications
+Expertise with at least one of Objective-C, Swift or C++
+Strong experience with object-oriented programming
+Experience with iOS development (not essential but preferred)
+Experience with 3D rendering (not essential but preferred)
+Real passion for quality and attention to detail
+Education and Experience
+Bachelor’s Degree in Computer Science or equivalent experience
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

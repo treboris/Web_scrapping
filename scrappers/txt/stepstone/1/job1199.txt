@@ -1,0 +1,36 @@
+Jobs by email
+Apple Distribution International ULC
+Software Engineer, Audio & Music Apps
+Rellingen
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Show salary
+Save
+Summary
+Imagine what you could do here. At Apple, new ideas have a way of becoming great products very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish!
+The Audio & Music Apps group is looking for a senior software engineer. We are an international team with a presence in Rellingen/Germany, Edinburgh and Cupertino. The Rellingen and Edinburgh engineering team works on GarageBand iOS, Logic, GarageBand macOS, and MainStage.
+Responsibilities
+Our team practices fast-paced development that relies heavily on a tight relationship between engineering, QA and product design. This position requires a highly ambitious & creative engineer with strong technical and interpersonal skills. Responsibilities will include working on new features for iOS and/or macOS applications, developing new audio and music related technologies and applications, and supporting the existing features of our apps. Attention to detail and critical thinking skills are required.
+Qualifications
+Key Qualifications
+Strong software development skills with C++, Objective-C, or Swift.
+Proven ability to develop and ship high quality software products
+Strong knowledge of Xcode and related developer tools
+Experience with SCM Systems (e.g. Git, SVN)
+Experience implementing UI's on iOS and/or Mac platforms
+Education and Experience
+Master's Degree in Computer Science, Engineering, or other related field or equivalent professional experience in software development is required.
+Additional Requirements
+Music and audio production skills, understanding musical concepts
+Experience in development of music production software
+Playing an instrument
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

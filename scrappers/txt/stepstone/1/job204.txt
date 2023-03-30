@@ -1,0 +1,60 @@
+Jobs by email
+SMS digital GmbH
+(Senior) DevOps Engineer (m/w/d)
+Düsseldorf
+Permanent contract
+Full Time, Home office possible
+Published: 5 days ago
+Show salary
+Save
+Introduction
+SMS digital GmbH
+SMS digital GmbH is a leading provider of digital solutions in the metal industry. Since 2016 we develop innovative software solutions in the field of cloud computing to push digitalization forward. As a digital subsidiary of SMS group GmbH, the market leader in plant and mechanical engineering, we benefit from state-of-the-art development methods, metallurgical process know-how and technological expertise. Our goal is to optimize the entire value chain sustainable.
+Do you want to revolutionize the metal industry with us? Then this is the right place for you.
+  (Senior) DevOps Engineer (m/w/d)
+YOU ACT
+Definition and development of automation platforms
+Automation and deployment of Kubernetes clusters in cloud and on-prem environments
+Operate Kubernetes cluster (backup, monitoring, cost management)
+Build and maintain CI/CD deployment pipelines using Git, Jenkins, Ansible
+Build and maintain monitoring and alerting systems
+Support our SMS developer teams mainly in BR, DE, LUX, IN, US, CN
+Passion for digital delivery and working in global teams / Deploy and run digital infrastructure services for our customer globally
+YOU KNOW
+University degree with focus on information technology, computer science or a business IT specialist or completed a training as an IT specialist - focus system integration or a comparable qualification and sound practical experience of several years
+Experience working with cloud environments (AWS; Alibaba, Yandex, etc.)
+Practical experience in operation DevOps and CICD
+Knowledge of scripting languages / fundamentals in programming (Groovy/Java, Bash, Shell, Python)
+Solid experience with IT networks is desirable
+Willingness to leave your comfort zone and try new ways
+Fluent English is required, German language skills are desirable 
+WE CONVINCE
+As an innovative and international employer, we offer you a performance-oriented salary package and the opportunity to achieve the ideal family/work life balance, e.g. with our in-house children's daycare center, flexible working hour models, and homeworking options. Click here to learn more about the benefits of working for SMS digital.
+Interested?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+SMS digital GmbH
+Düsseldorf, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Coaching
+Home office
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

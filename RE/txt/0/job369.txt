@@ -1,0 +1,28 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Embedded Software Test Engineer 
+Embedded Software Systems Test Engineer
+Take your career to the next level working with some of the best and brightest in the field of automotive and robotics. Bring your ideas, creativity, and determination to make a difference in solving some of the worlds current challenges when it comes to the knowledge of innovative technology and the impact it will make in our future. If you think on your feet, can adapt, and be innovative, this is your chance to work for a fun and dynamic organisation. We are a global leader in digital control systems for the automotive and industrial sectors. Our products are combinations of software, mechatronics and electronics that can enable level 4/5 automation across a variety of industrial applications. Our people are at the heart of what we do, come join us!
+Due to rapid business growth, we require the services of talented Embedded Software Systems Test Engineers.
+Key responsibilities for this role include:
+Deliver highly reliable embedded software systems for automotive/military spec. hardware, including battery management systems, motor drivers, body control and communications modules;
+Work in a professional cross-functional team environment to develop new products, from prototype through production;
+Take ownership of our state of the art test tools, processes and methods, including traceability matrix and writing documentation;
+Follow the safety-critical testing processes and implement/execute a fully automated test environment for safety critical systems.
+Required Skills and Experience
+A bachelor’s degree or equivalent in Electronics Engineering and/or Computer Science;
+Proficient in Mathworks and Dspace testing;
+Minimum of 5 years experience in embedded software systems testing in the automotive and/or robotics industries;
+Experience with manual and full automation testing;
+Highly skilled in building and executing testing against black-box, white-box, regression, performance, boundary, functional, non-functional, stress and safety requirements;
+Sound experience with the full software development lifecycle (SDLC) through requirements, design, implementation, testing and support;
+Experience with ASPICE/CMMI, ISO26262 are mandatory and experience with ISO14229, IEC61508 are highly regarded;
+Experience with embedded OS such as RTOS or VxWorks highly regarded;
+Embedded software development/coding experience is highly regarded;
+Ability to be a key member of a high performing team;
+Experience working in a fast-paced environment dealing with complex and multiple tasks;
+Ability to analyse problems and come up with innovative solutions;
+Ability to be adaptable and flexible to business needs;
+Excellent communication and organisation skills;
+Fluent written and verbal communication skills in English.
+What is in it for you? It is a rare chance to be involved in something so unique with great reward and the opportunity to gain extraordinary experience working with an amazing team!
+Jelentkezem

@@ -1,0 +1,66 @@
+Jobs by email
+CARIAD
+Lead Technical Integration Engineer - Sub-Project Testinfrastructure and System Test (m/f/d)
+Wolfsburg , Ingolstadt, Nürnberg, Mönsheim/Stuttgart, München
+Permanent contract
+Full Time, Home office possible
+Published: 6 hours ago
+Show salary
+Easy apply
+Save
+At CARIAD, it’s our mission to transform automotive mobility for everyone, everywhere, making it safer, more sustainable, and more comfortable in every way. To deliver on that promise, we’re building a unified technology and software platform, including a vehicle OS and cloud platform, as well as a unified architecture. As a 100% subsidiary of the Volkswagen Group, we’re developing solutions for all of its brands, including Volkswagen, Audi, and Porsche, and will bring our software to over 40 million vehicles by 2030.
+Is this an easy task? Not at all! To tackle such a huge challenge, we need a great team. And that’s where you come in. You’ll join more than 6,000 CARIDIANS already working on the latest vehicle features and functions like automated driving, state-of-the-art charging technology, as well as a new digital ecosystem. Together, we’re bringing sustainable change to one of the largest companies in the world.
+YOUR TEAM
+You will operate within the domain “Vehicle Motion and Energy”. At CARIAD, we are the backbone of driving functions and constitute the interface to the automotive mechatronics within the Volkswagen Group. We develop in (agile) teams powertrain, chassis and energy related functionalities, such as motion manager, steering, damper control or the charging of electric vehicles and many more. Thereby, we enable future innovations and new business models.
+Our team within the T4-1 organization is responsible for the overall system test of the development scopes of the "Vehicle Motion and Energy" domain. We are responsible for providing the test environment, in particular the Hardware-In-The-Loop (HiL) systems, the adaptation of the virtual vehicle models and automation solutions. We are responsible for the planning and execution of the test runs.
+WHAT YOU WILL DO
+Management of the sub-project overall system test on Hardware-In-The-Loop (HiL) test systems
+Technical coordination of a team of experts for test infrastructure and test execution
+Scheduling and resource planning including coordination and tracking of the necessary milestones
+Further development and optimization of the test infrastructure and cooperation models with the departments involved
+Coordination of external partners
+Reporting and participation in the overall project team
+WHO YOU ARE
+Successful completed studies in the field of computer science, information technology, automotive engineering or a comparable course of studies
+Several years of professional experience in the field of technical project management
+Experience in the development of software, applications or tests in the automotive environment
+Experience in test management, development of test guidelines and test concepts preferable
+Proactive, supportive, structured, solution-oriented and able to bring experience and methodological knowledge into this organization
+Ability to motivate teams to create outstanding solutions and products
+Fluent German and English language skills
+NICE TO KNOW
+Remote work options
+Temporary work from abroad in selected countries
+Flextime / optional working hours
+Company pension plan
+Annual professional development
+Sabbatical option up to 6 months
+30 days paid + 10 days unpaid leave
+Possibility for VW Group car leasing
+If you have further questions about the candidate journey at CARIAD, talk to Cari, our CARIAD Chatbot.&nbsp;Can’t see it? Check your settings or visit our&nbsp;FAQ
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

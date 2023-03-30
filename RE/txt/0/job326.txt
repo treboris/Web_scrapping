@@ -1,0 +1,36 @@
+ÁLLÁSHIRDETÉS FELADÁS
+PRODUCTION SYSTEM SPECIALIST/ IT DEVELOPER - Iváncsa 
+Munkavégzés helye: 
+Iváncsa
+            Pozíció területei: 
+IT: IT állások
+        Nyelvtudás:
+Angol Kommunikációs/társalgási szint
+              Pozíciószint:
+Beosztott / Alkalmazott
+                    Elvárt végzettség: 
+Felsőfokú végzettség
+Feladatok:
+		Az üzleti igények azonosítása és elemzése
+		Támogatási követelmények összegyűjtése
+		Az üzleti követelmények alkalmazása gyakorlatban
+		A hatáskör és a célok meghatározásának támogatása
+		Automatizálási technológiai megoldások tervezése a gyártáshoz, logisztikai folyamatok optimalizálásához
+		Automatizálási integráció a gyártási környezetbe
+		Informatikai rendszerek tervezése, fejlesztése és kivitelezése
+		A szoftverkódok áttekintése, ellenőrzése és érvényesítése
+		Frissítések és fejlesztések telepítése (konfigurációkezelő szoftverrel)
+		Problémák elhárítása és a kiváltó okok elemzése
+		Gyártás támogatása (gyártási problémák javítása, forráskód hibakeresése stb.)
+		Automatizált folyamatok karbantartása és kiépítése
+		Az üzleti követelmények összegűjtése és az alkalmazásrendszer összetevői (azaz a végfelhasználók, az üzleti folyamatok, az adatok, az alkalmazások és az eszközök) közötti kapcsolatok dokumentálása.
+Elvárások:
+		Szakirányú felsőfokú végzettség (gazdaságinformatikus, mérnökinformatikus) 
+		Legalább 1 év releváns tapasztalat
+		Kommunikációképes angol nyelvtudás
+		Kiváló problémamegoldó és elemző készség
+		Visual Studio, Oracle, MS SQL, GIT, SVN, Atlassian ismeretek
+		.Net, C#, PL-SQL, TSQL, HTML, CSS, JavaScript ismeretek
+Előnyt jelent:
+		Autóiparban szerzett tapasztalat
+Jelentkezem

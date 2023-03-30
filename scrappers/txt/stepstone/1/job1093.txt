@@ -1,0 +1,51 @@
+Jobs by email
+Deutsches Elektronen-Synchrotron DESY
+2 Software developers for near real-time analysis of experimental photon science data
+Hamburg
+Temporary contract
+Full Time, Part time, Home office possible
+Published: 5 days ago
+Save
+For our location in Hamburg we are seeking:
+2 Software developers for near real-time analysis of experimental photon science data
+Remuneration Group 13 | Limited: 31.12.2025 | Starting date: earliest possible | ID: FSMA021/2023 | Deadline: 10.04.2023 | Full-time/Part-time
+DESY, with more than 2700 employees at its two locations in Hamburg and Zeuthen, is one of the world's leading research centres. Its research focuses on decoding the structure and function of matter, from the smallest particles of the universe to the building blocks of life. In this way, DESY contributes to solving the major questions and urgent challenges facing science, society and industry. With its ultramodern research infrastructure, its interdisciplinary research platforms and its international networks, DESY offers a highly attractive working environment in the fields of science, technology and administration as well as for the education of highly qualified young scientists.
+The scientific computing group in DESY Photon Science (FS-SC) develops algorithms and scientific analysis software for experiments at synchrotron X-ray sources (PETRA III/IV), X-ray lasers (FLASH2020+/EuXFEL), and research groups in the photon sciences at DESY. We work closely with scientists to develop efficient data analysis solutions in an international research environment using state of the art detectors and instrumentation applied to cutting edge science applications. Our role is to efficiently analyze complex multi-terabyte data sets at high data rates to deliver science results using distributed high-performance computing and storage infrastructure, exploiting new algorithms and developing sustainable research software for the science community.
+About your role:
+Develop data-analysis solutions that help world-leading domain scientists to make ground-breaking discoveries at our accelerator-based X-ray sources
+Work closely with the experiment teams to determine real-time analysis needs
+Implement practical solutions for immediate feedback of analysis results to the experimenters using modern streaming data solutions
+Write clean, maintainable high-performance code that runs on our 30000-core HPC infrastructure
+About you:
+A university degree in computer science or physics/mathematics or equivalent qualification; or comparable practical experience
+Enthusiastic, self-motivated and pro-active with good communication skills
+An interest in gaining new technical skills and mastering new problem domains, along with the flexibility and desire to tackle new challenges
+Good knowledge of C++ and/or Python/Cython
+Experience with modern software development practices
+Good command (written and spoken) of English, German knowledge may be useful
+Good reasons to join:
+Look forward to a unique working environment on our international research campus. We attach particular importance to appreciative cooperation and the well-being of our DESY employees. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a job ticket at both locations.
+What we offer:
+Work in a friendly and experienced team that prioritizes supporting each other and getting things done right
+Mentoring through code reviews and pair programming
+Opportunity to present results at workshops and international conferences
+Time for experimentation with exciting new technologies
+Numerous offers for scientific and technological seminars on campus
+Contact:
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Deutsches Elektronen-Synchrotron DESY
+Notkestr. 85, 22607 Hamburg, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

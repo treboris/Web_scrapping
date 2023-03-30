@@ -1,0 +1,60 @@
+Jobs by email
+ZEISS
+Team Lead Global Algorithms Semiconductor Technology (m/f/x)
+Jena
+Permanent contract
+Full Time
+Published: 2 days ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+Ihre Rolle
+Shape the digital future of ZEISS in the Global Algorithms & Software Semiconductor Mask Solutions team! 
+Your sophisticated algorithms evaluate enormous amounts of image data in a highly efficient manner. Only that way we as a team enable the performance of our complex photomask systems - the essential building block to manufacture defect-free microchips. 
+  Our high-tech measurement systems for semiconductor lithography are characterized by extreme demands on measurement performance. This performance is essentially achieved by optical components at the highest level. Nevertheless, remaining manufacturing tolerances lead to almost insurmountable accuracy limits. Breaking through these limits using algorithms is your new challenge at ZEISS. 
+With your team, you will develop highly accurate mathematical-optical models and their numerical solutions in expert teams. Product maturity and value adding algorithms are your success. You continuously expand your network within the company and are in close contact with our research partners. 
+As a disciplinary team lead, you are responsible for the immediate and strategic development of your team in terms of staff, technologies and partnerships. You will shape the algorithm development in our R&D department. You will define algorithm specific roadmaps in alignment with our product roadmaps to specify goals and quality measures. Continuously, you observe existing organizational processes and adapt those towards optimality.  
+You and your colleagues thus create the conditions for excellence.
+Ihr Profil
+Degree in physics, computer science, engineering, or applied mathematics 
+Very good knowledge in at least one of the areas: numerics for PDEs, computational lithography, optimization, or image processing 
+Several years of experience in the development and management of complex algorithm projects or algorithm development groups 
+Experience with classical as well as agile development methods 
+Several years of development experience in algorithmic software projects (FOSS desirable) 
+Proven experience in MATLAB, Python, C#/C++ and HPC 
+You have a strong ability to cooperate and work in a team and can motivate your employees 
+You enjoy organizational and coordination tasks within the framework of the interface function within the entire development area as well as for product management. 
+Kontakt
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+ZEISS
+07745 Jena, Germany
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

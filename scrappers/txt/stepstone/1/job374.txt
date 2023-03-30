@@ -1,0 +1,63 @@
+Jobs by email
+SMS group GmbH
+Frontend / Backend Developer (m/f/d)
+Düsseldorf, Mönchengladbach
+Permanent contract
+Full Time
+Published: 7 hours ago
+Show salary
+I'm interested
+Save
+Introduction
+SMS group GmbH
+SMS group is noted worldwide for its mechanical and plant engineering expertise, its future-oriented technologies and its excellent service for the metals industry. We use our 150 years of experience and our digital know-how to provide the industry continuously with innovative products and processes – even outside our core business. We are the partner for demanding projects, and we support our customers during the complete lifecycle of their plants, enabling profitable and resource-saving value creation chains. We have set ourselves the task of paving the way for a carbon-neutral and sustainable metals industry. As a global player with German roots, we take responsibility for our 14,000 employees and the society.
+Become a part of our future at SMS group GmbH in Düsseldorf or Mönchengladbach, where we're looking for a
+Frontend / Backend Developer (m/f/d)
+YOU ACT
+You are responsible for the development of a web based frontend and a C# based backend. In addition there are the following tasks:
+Improving our CI/CD pipeline
+Following clean code approaches and knowledge of how / when to apply design patterns
+Participation in the design of system architectures and the selection of technologies
+Our tech frontend stack: HTML/CSS, Angular, MaterialUI/DevExtreme, Typescript
+Our tech backend stack: C#, ASP.NET, .NET 6, Rabbit MQ, SQL Server
+Testing and commissioning
+YOU KNOW
+You have a successful completed bachelor degree, master degree or apprenticeship in the area of engineering and you have already gained first professional experiences. It is also important for us:
+Ability to perform code reviews
+Experience with developing UI’s
+Working independently (self-reliant), a high degree of self-organization within the teams
+Hands-on experience with modern VCS and software development and deployment methodologies (Git)
+Experience in building Web applications with Angular
+Willing to take ownership of challenges, propose creative and cost-efficient solutions and deliver such solutions in a teamwork environment
+Quick assumption of responsibility
+Fluent in English (German is plus)
+WE CONVINCE
+As an innovative and international employer, we offer you a performance-oriented salary package and the opportunity to achieve the ideal family/work life balance, e.g. with our in-house children's daycare center, flexible working hour models, and homeworking options. Click here to learn more about the benefits of working for SMS group.
+Interested?
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

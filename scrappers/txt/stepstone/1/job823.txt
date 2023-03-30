@@ -1,0 +1,58 @@
+Jobs by email
+thyssenkrupp Materials Services GmbH
+Program Manager Digital Commerce (m/w/d)
+Essen
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Save
+Unternehmen
+thyssenkrupp is an international group of companies comprising largely independent industrial and technology businesses and employing 96,000 people. Across 48 countries it generated sales of €41 billion in fiscal year 2021/22. Backed by extensive technological know-how, the businesses and all employees develop cost-effective and resource-friendly solutions to the challenges of the future, especially in the fields of climate protection, the energy transition, digital transformation in the industry and mobility of the future. Under the umbrella brand thyssenkrupp, the group creates long-term value with innovative products, technologies and services and helps make life better for future generations.
+thyssenkrupp Materials Services is the biggest mill-independent materials distributor and service provider in the Western world with around 380 locations - including around 260 warehouse sites - in more than 30 countries. The versatile range of services offered by the materials experts allows customers to focus even more strongly on their individual core businesses. As part of its strategic further development "Materials as a Service" the company is focusing on the supply of raw materials and materials as well as products and services in the area of supply chain management. Digital solutions ensure efficient and resource-saving processes for customers and thus provide the basis for sustainable action. Sustainable action is indispensable to enable future generations to have a tomorrow worth living. While the European Union has committed to climate neutrality from 2050, we will achieve this goal as early as 2030. To achieve this, we have firmly anchored sustainability in all its facets in our corporate strategy.
+Aufgaben
+Technical responsibility for managing thyssenkrupp Materials Services' digital commerce landscape including Commerce Solutions (e. g. SAP Cloud Commerce, Shopware), Marketing Automation Solutions (e. g. Marketo) as well as integration with various complementary platforms and service providers.
+Champion best practices and modern software development methods and tools.
+Lead software engineering teams and other stakeholders to set goals for improving code quality, maintainability, security, and scalability. Monitor progress against these goals.
+Implement and manage software development status reporting, metrics, and benchmarks.
+Manage collaboration with other thyssenkrupp Materials Services IT teams to ensure software performs well in production and meets SLAs.
+Work with the security teams to ensure software is effectively secured and that risks are mitigated.
+Responsible for developing short- and long- term strategic plans by collaborating with thyssenkrupp Materials Services' IT teams and Business leaders
+Build strong working relationships with business leadersto ensure Digital Commerce Solutions meets expectations and contributes to achievement of business goals.
+Profil
+Bachelor's degree or equivalent applied experience and 5+ years of experience in software engineering.
+Solid technical background with understanding and experience in Commerce Technologies (SAP Cloud Commerce, Shopware, etc), software development (DevOps), cloud architecture, micro services and web technologies.
+Knowledge of hosted cloud service providers such as AWS, MS Azure.
+Product/Agile mindset
+Significant prior experience managing technical implementations as well as the development operations of running enterprise level eCommerce applications is a must.
+A deep and appreciable understanding of agile principles such a scrum methodology and the practical application of standard work is required.
+Ability to clearly participate in daily bi-directional communication with cross functional teams is required to ensure the continuity of the programs.
+Ability to travel internationally.
+You don't match all criteria in our job profil, but you would like to become part of our #GENERATIONTK? Send us your application! We are looking forward to getting to know you!
+Das bieten wir
+Assumption of responsibility
+Modern open space environment
+Work-life balance (flexible working hours model & partially home office)
+Attractive social benefits, such as an excellent company pension plan
+Participation in group-wide health campaigns
+Very good professional development opportunities within the team, the company and the Group
+Did we spark your interest? We are looking forward to your online application!
+We value diversity
+We value diversity and therefore welcome all applications, irrespective of gender, nationality, ethnic and social background, religion and beliefs, disability, age, or sexual orientation and identity.
+Kontakt
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+thyssenkrupp Materials Services GmbH
+ThyssenKrupp Allee 1, 45143 Essen, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

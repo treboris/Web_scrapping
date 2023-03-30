@@ -1,0 +1,74 @@
+Jobs by email
+BMW Group
+Software Architect - Linux Base System (f/m/x)
+Ulm
+Permanent contract
+Full Time
+Published: 3 days ago
+Show salary
+Save
+About us
+Our brands BMW, MINI, Rolls-Royce and BMW Motorrad have made us one of the world's leading premium manufacturer of cars and motorcycles as well as provider of premium financial and mobility services.
+Our IT-Software Development team in Ulm is currently seeking a
+Software Architect - Linux Base System (f/m/x)
+Tasks
+At BMW Car IT, a wholly owned subsidiary of BMW AG, we live and breathe software. We design and implement embedded software for electronic control units of the BMW cars as well as related tools and frameworks. By delivering software all the way from the idea to the final product we lead BMW into the future of digitalization and mobility.
+We offer you the chance to take up an exciting role in automotive software development. As part of an agile development team you will be developing the Linux-based software platform for our next generation electronic control units (ECUs).
+What awaits you?
+You will design, implement, test and debug a Linux based software platform for several automotive infotainment units.
+Development, integration and testing of software components on virtualized as well as on target hardware will be part of your daily work.
+You will work in a multi-national dynamic team of motivated software engineers.
+Profile
+What should you bring along?
+University degree in Computer Science or a similar field of study at university/FH level.
+Extensive professional experience in working with Yocto and understanding of Linux kernel and Yocto upstream working model in cooperation with their development communities.
+Professional experience with bitbake, systemd and other open source tools.
+Experience re-using SW in a multi-project environment.
+Proven development experience with Linux, C, C++, Python, shell, CMake, git.
+Understanding of Android is beneficial.
+Business-fluent English mandatory, German language skills are a plus.
+You are self-driven and able to work independently as member of an international Scrum team? Apply now!
+Note: Please apply exclusively online via our career portal. Applications via other channels (esp. email) cannot be considered.
+We offer
+What do we offer in Ulm?
+Company car option.
+English speaking teams in an intercultural setting.
+Flexible organization of working times & mobile work arrangements.
+High Work-Life Balance.
+Career development & continuous personal qualification.
+Relocation Services for our new employees.
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are a particular concern for us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. That is why our recruiting decisions are also based on personality, experience and skills.
+Find out more about diversity at the BMW Group at bmwgroup.jobs/diversity
+Earliest starting date: from now on
+Type of employment: unlimited
+Working hours: Full-time
+Job Reference: 50963
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+BMW Group
+89081 Ulm, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Parking space
+Employee discount
+Sabbatical
+Company medical officer
+Stock options
+Coaching
+Home office
+Extra day off
+Study allowance
+Car/Travel allowance
+The benefits listed are applicable to the company and can differ depending on the position or department.
