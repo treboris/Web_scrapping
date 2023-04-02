@@ -5,17 +5,8 @@ import pandas as pd
 import requests
 import os
 
-
-
-
-
 web_pages = ['profession' ]
 initial = 1
-
-
-
-
-
 
 #WEBSCRAPING JOBS ONE BY ONE
 
@@ -25,6 +16,5 @@ for x in tqdm(range(0,len(web_pages))):
     name = web_pages[x]+str(initial)
     for y in tqdm(range(0,size(f'{web_pages[x]}',f'{name}.csv'))):
         file_write(web_pages[x],href[y] ,y,int(initial))
-
 
     href = []

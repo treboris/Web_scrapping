@@ -1,6 +1,7 @@
 Python
 Java
 JAVA
+Javareszt
 Flask
 programozó
 HTTP protocol
@@ -29,3 +30,6 @@ English
 Programozó
 Pandas
 Cyber
+Javareszt
+perl programozó
+Django

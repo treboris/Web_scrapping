@@ -11,6 +11,9 @@ betuk =["Bratislava","Žilina","Košice" , "Remote work","Práce z domu"]
 
 
 
+
+
+
 data_frame = pd.read_csv("data/professia1.csv")
 location = data_frame[["Location"]]
 for loc in location.values:

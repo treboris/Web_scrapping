@@ -11,8 +11,6 @@ import requests
 import time
 import re
 
-
-print("PROFESSIA.SK-scrapper STARTED")
 start_time = time.time()
 date = datetime.today().strftime('%Y-%m-%d')
 
@@ -20,11 +18,7 @@ options = Options()
 options.headless = True
 driver = webdriver.Firefox(options = options)
 
-
-
 limit_txt = "?page_num="
-
-
 
 id = []
 corp = []
@@ -33,7 +27,6 @@ location = []
 href = []
 salary = []
 datee =[]
-
 
 def page_number():
     url = (f"https://www.profesia.sk/praca/programator/{limit_txt}{limit}")
@@ -54,8 +47,6 @@ def conn(limit_txt,limit):
 
 page = round(float(page_number()/20))
 
-
-
 for limit in tqdm(range(page)):
 
     main_block = conn(limit_txt,limit).find('ul', class_='list')
@@ -73,7 +64,6 @@ for limit in tqdm(range(page)):
                 location.append("None")
         for corporation in li.find_all('span',class_='employer'):
             corp.append(corporation.text)
-
 
     for x in range(1,21):
         try:
@@ -101,7 +91,6 @@ for limit in tqdm(range(page)):
             salary.append("None")
 driver.quit()
 
-
 #ID DATE
 list_size = len(main)
 for x in range(0, list_size):
@@ -110,11 +99,4 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-
-
-
 save_data = Save(f'professia1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
-
-
-
-print("--- %s seconds ---" % (time.time() - start_time))

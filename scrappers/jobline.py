@@ -21,14 +21,12 @@ options.headless = True
 driver = webdriver.Firefox(options=options)
 date = datetime.today().strftime('%Y-%m-%d')
 
-
 id = []
 main = []
 href = []
 corp = []
 location = []
 datee = []
-
 
 #CONNECTION
 def conn(limit):
@@ -37,8 +35,6 @@ def conn(limit):
     html = driver.page_source
     soup = BeautifulSoup(html,"html.parser")
     return soup
-
-
 
 #GET-PAGE-NUMBER
 def page_number():
@@ -87,11 +83,4 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-
-
-
 save_data = Save(f'jobline1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
-
-
-
-print("--- %s seconds ---" % (time.time() - start_time))

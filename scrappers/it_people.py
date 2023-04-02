@@ -5,10 +5,7 @@ from Data import Save
 import requests
 import time
 
-print("ITpeople.hu-scrapper STARTED")
-start_time = time.time()
 date = datetime.today().strftime('%Y-%m-%d')
-
 
 #DATA
 id = []
@@ -18,14 +15,11 @@ location = []
 href = []
 datee =[]
 
-
-
 def conn(limit):
     url = (f"https://itpeople.hu/allasok/{limit}")
     page = requests.get(url)
     soup = BeautifulSoup(page.text,"html.parser")
     return soup
-
 
 def page_number():
     url = (f"https://itpeople.hu/allasok/1")
@@ -60,8 +54,4 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-
 save_data = Save(f'itpeople1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
-
-
-print("--- %s seconds ---" % (time.time() - start_time))

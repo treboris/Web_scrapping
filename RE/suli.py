@@ -12,38 +12,43 @@ corpustxt = {}
 matches = {}
 files = []
 
-
+#FILL CORPUSTXT LIST
 def corpus(name):
-    with open(f"CORPUS/{name}.txt", 'r') as file:
+    with open(f"CORPUS/{name}", 'r') as file:
         line = file.read().splitlines()
         for l in line:
-            corpustxt[l] = 0
+            corpustxt[l.casefold()] = 0
 
+#COUNT JOB TXT FILES
 def file_count(path):
     file_count = len(glob.glob1(path,"*.txt"))
     for x in range(0,file_count):
         files.append(f'job{x}.txt')
 
+#LINK FILES
 def link_files():
-    file_count('txt/3')
+    file_count('txt/0')
     with open('data/cvonline/main0.txt','wb') as main:
         for f in files:
             with open(f'txt/0/{f}','rb') as jobtxt:
                 shutil.copyfileobj(jobtxt,main)
 
+#REGEX
 def keyword_search(limit):
-    corpus('sulibantanultak')
-    #link_files()
+    corpus('sulibantanultak.txt')
+    if os.stat(f'data/cvonline/main{limit}.txt').st_size == 0:
+        link_files()
+    else:
+        pass
 
     with open(f'data/cvonline/main{limit}.txt') as main:
         lines = main.read().splitlines()
         for line in lines:
-            print(line.casefold())
             #time.sleep(1)
             for corp in corpustxt.keys():
-                pattern = re.search(f'{re.escape(corp)}',line.casefold())
+
+                pattern = re.search(f'.{re.escape(corp)}',line.casefold())
                 if (pattern):
-                    print('talalt')
                     corpustxt[f'{corp}'] += 1
                 else:
                     pass

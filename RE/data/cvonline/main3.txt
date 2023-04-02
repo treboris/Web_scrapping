@@ -1,8 +1,10 @@
 Duties:
+Javareszt
 • Participation in the creation of the new, state of the art systems user interface
 • Creating new functionalities of the financial systems
 • Write clear, maintainable and testable code that you are proud of
-• Running the mentorship within the Frontend team
-Requirements and skills:
-
+• Running the mentorship within the Frontend teamPerl
+R Perl JavaEnglish
+equirements and skills: Perl programozó
 Javareszt
+Perl

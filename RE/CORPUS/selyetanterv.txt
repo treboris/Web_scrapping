@@ -1,0 +1,15 @@
+C
+C++
+C#
+html
+css
+javascript
+sql
+python
+perl
+tex
+assembly
+sap
+excel
+word
+powerpoint

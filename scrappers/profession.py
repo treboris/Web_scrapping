@@ -9,10 +9,7 @@ import requests
 import time
 import re
 
-print("PROFESSION.hu-scrapper STARTED")
-start_time = time.time()
 date = datetime.today().strftime('%Y-%m-%d')
-
 
 #DATA
 id = []
@@ -21,7 +18,6 @@ main = []
 location = []
 href = []
 datee =[]
-
 
 #PAGE COUNTER
 def page_number():
@@ -96,7 +92,6 @@ for x in range(0, list_size):
 
 for y in range(0, list_size):
     datee.append(date)
-
 
 save_data = Save(f'profession1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
 

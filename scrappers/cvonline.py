@@ -5,17 +5,14 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
 
 from bs4 import BeautifulSoup
-from datetime import datetime
 from datetime import date
 from tqdm import tqdm
 from Data import Save
 import pandas as pd
-import re
-import os
-
 import time
 import requests
-
+import re
+import os
 
 
 
@@ -27,7 +24,6 @@ options = Options()
 options.headless = True
 driver = webdriver.Firefox(options = options)
 
-
 limit_txt = "?page="
 location = []
 href = []
@@ -36,9 +32,6 @@ corp = []
 main = []
 id = []
 
-
-
-
 #CONNECTION
 def conn(limit_txt,limit):
     url = (f"https://www.cvonline.hu/hu/allashirdetesek/it-informatika-0{limit_txt}{limit}")
@@ -46,7 +39,6 @@ def conn(limit_txt,limit):
     html = driver.page_source
     soup = BeautifulSoup(html,"html.parser")
     return soup
-
 
 #GET-PAGE-NUMBER
 def page_number():
@@ -72,7 +64,6 @@ for limit in tqdm(range(max_page_number)):
     for span in fblock.find_all('span', class_='recruiter-company-profile-job-organization'):
         corp.append(span.text)
 
-
     job = fblock.find_all('div' , class_= 'job__content clearfix')
     for element in job:
         loc = element.find('div' , class_= 'location')
@@ -82,9 +73,7 @@ for limit in tqdm(range(max_page_number)):
         except (AttributeError,TypeError):
                 location.append(None)
 
-
 driver.quit()
-
 
 #ID DATE
 list_size = len(main)
@@ -94,21 +83,4 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-
-
-
 save_data = Save(f'cvonline3' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
-
-
-#TO TXT
-
-
-
-
-
-
-
-
-
-
-print("Execution time: %s seconds ---" % (time.time() - start_time))

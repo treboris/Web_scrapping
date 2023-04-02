@@ -1,9 +1,7 @@
 import pandas as pd
 import os
 
-
 class Save:
-
 
     def __init__(self,path ,filename ,  *args):
         self.filename = filename

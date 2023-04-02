@@ -17,10 +17,7 @@ import re
 #my_ip = socket.gethostbyname(hostname)
 #print(f'{hostname},{my_ip}')
 
-
-
 #https://github.com/ultrafunkamsterdam/undetected-chromedriver
-
 
 initial = 1
 options = Options()
