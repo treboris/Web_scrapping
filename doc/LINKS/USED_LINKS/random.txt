@@ -1,0 +1,47 @@
+
+
+
+top python development trends
+https://www.zestminds.com/blog/top-python-development-trends/
+
+
+
+
+
+
+
+scrap all the text
+https://www.geeksforgeeks.org/how-to-scrape-all-the-text-from-body-tag-using-beautifulsoup-in-python/
+
+
+tqdm
+https://pypi.org/project/tqdm/
+
+
+
+javascript doesnt read data
+https://stackoverflow.com/questions/40255128/how-to-parse-the-website-using-beautifulsoup
+
+
+EU
+https://ec.europa.eu/eures/portal/jv-se/jv-details/MjExNzcxMSAxOQ?jvDisplayLanguage=hr&lang=en
+
+python standard library
+https://docs.python.org/3/library/
+
+webpage to scrape
+http://books.toscrape.com/catalogue/category/books/fiction_10/index.html
+
+
+statistics
+https://www.w3schools.com/python/module_statistics.asp
+
+indian help
+https://www.youtube.com/watch?v=CmDwYHRDzks
+
+
+thread live
+https://docs.python.org/3/library/concurrent.futures.html
+
+
+requests qxception
