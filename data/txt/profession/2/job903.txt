@@ -1,0 +1,77 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Rendszertervező
+Budapest
+Budapest
+Következő 
+Java Software Architect- Bank (GYK)
+Tech People Hungary Kft.
+Budapest IX. kerület
+ Elvárt technológiák
+JAVA
+SPRING
+APACHE
+XML
+ORACLE
+DATABASE
+SQL
+ Módszertanok és szoftverek
+Maven
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Vállalkozói
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Középiskola
+ Elvárt technológiák
+JAVA
+SPRING
+APACHE
+XML
+ORACLE
+DATABASE
+SQL
+ Módszertanok és szoftverek
+Maven
+A Tech People egy európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat, valamint kiszervezett technológiai szolgáltatásokat nyújt különböző iparágak számára.
+Jelenleg az alábbi pozícióba keresünk munkatársat:
+JAVA SOTWARE ARCHITECT - BANK (GYK)
+Munkavégzés helye: Budapest IX. kerület heti 1-2 nap bejárással
+Fizetés: versenyképes
+Munkavégzés formája: teljes idős, kontraktor
+FELADATOK
+a bank (mint megbízó) által használt programban lefejlesztett 5 egyedi alkalmazásnak a szállítótól való átvételefejlesztési módszertan megismerésegap analízis az érintett alkalmazások vonatkozásában (debt-ek feltérképezése)továbbfejlesztési javaslatok kialakítása, megvalósításadokumentáció megismerése (minőségi dokumentáció előállíttatása az átvételi szakaszban)kódbázis és az alkalmazások megismerése/feltérképezésefelkészülés az élesítést követő napi BAU működésreaz alkalmazások fejlesztése/karbantartásaegyüttműködés az Enterprise Architecttel, a Business Architecttel és a Solution Architecttel
+TECHNOLÓGIAI ELVÁRÁSOK
+Java 8,11Java EEJMSSpring, Spring BootApache CamelJBoss 7.3+XML, XSLTMavenIBM MQOracle databasePL/SQL
+ELVÁRÁSOK
+5+ éves fejlesztői tapasztalat a felsorolt technológiák terénsw architect tapasztalatoktárgyalási szintű angol nyelvtudás (az átadás-átvétel angolul fog zajlani)
+ELŐNY
+T24 fejlesztői ismeretbanki tapasztalat
+Jelentkezés módja
+Jelentkezzen önéletrajzával a "Jelentkezem" gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Vállalkozói
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

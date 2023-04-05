@@ -1,0 +1,97 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSW Developer – Backend 
+SW Developer – BackendNG Aviation s. r. o.
+Place of work
+Bratislava
+Contract type
+full-time, trade licence
+Wage (gross)
+4 000 EUR/monthSalary depends on interview and experience
+Information about the position Job description, responsibilities and dutiesWe are young innovative company that is engaged in software product´s development for the processing and editing aeronautical and navigational digital data according to the AIXM standard. 
+We are looking for a C# and .NET developer, who will be developing user functions in the field of visualization and editing of AIXM data, geographic data and digital NOTAMs. 
+Responsibilities: 
+•	analysis, design and implementation of business requirements and application logic
+•	implementing unit tests and integration tests of developed code
+•	documentation of developed code
+Technologies & Ideologies: 
+•	.NET Framework
+•	ASP.NET Core
+•	Entity Framework Core
+•	Docker / Kubernetes
+•	Azure AD / Keycloak
+•	Cloud native
+•	MS SQL Server Employee perks, benefits• Flexible working hours
+• Home-office Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skills•	bachelor’s or master’s degree in computer science, information technology, or a similar field
+•	creative technical thinking 
+•	precision and design sense
+•	experience in writing software documentation in English 
+•	more than 3 years experience with .NET and C# development
+•	familiarity with code versioning tools (e.g. Git)
+•	familiarity with ALM tools (e.g. Azure DevOps) Advertiser Brief description of the companyWe are an innovative company that develops a unique software product, the only one of its kind, which enable using AIXM 5.1 digital data for air traffic management. Our product contributes significantly to air traffic safety, to reducing emissions and improves air traffic control efficiency, thus increasing transport capacity. ContactContact person: Alexandra KrajmerováE-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4539234 
+     Dátum zverejnenia:  15.3.2023 
+    2023-03-15
+lokalita: Bratislava   Pozícia: Backend developer   Spoločnosť: NG Aviation s. r. o.   
+Základná zložka mzdy (brutto): 4 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,57 @@
+Jobs by email
+Data-Warehouse GmbH
+Oracle Fusion Middleware Administration expert (IT-Administrator/in)
+Freising
+Permanent contract
+Full Time
+Published: 22 hours ago
+Show salary
+Easy apply
+I'm interested
+Save
+Introduction
+We are a growing and expanding company and are looking for our professional services department for Oracle Fusion Middleware Expert(s) in a permanent position (no freelance work) immediately.
+The job is located in the north of Munich (local & not remote, close to the airport) in a highly dynamic environment.
+Your Tasks:
+• Troubleshooting, upgrading and patching infrastructure level skills in the following products:
+Oracle Weblogic Server, Oracle Webcenter Portal, Oracle Webcenter Content (UCM - Universal Content Management), Oracle Business Process Management, Oracle Business Intelligence Enterprise Edition, Oracle SOA Suite (Service Oriented Architecture), Oracle HTTP Server, Oracle Access Manager, Oracle Webgates, Oracle Security Service (SSL/Network), Oracle Internet Directory, Oracle Identity Manager, Oracle Business Intelligence BI Publisher
+• Troubleshoot the various applications installed in OFM to a certain extent
+• Install and update applications in the various OFM products (with instructions)
+• Manage permissions within IDM (creating corporate roles and granting and revoking permissions). In-depth knowledge of IDM would be desirable
+• Logging and
+Your profile
+Due to the specific requirements of the project, German, British, Spanish or Italian nationality is required.
+SRs with support
+Qualifications:
+• General knowledge of the overall OFM architecture to understand how the different products are interconnected
+• General knowledge of Oracle databases to understand, troubleshoot and configure the connection with OFM
+• Ability to run WLST scripts and shell scripts (e.g. for starting and stopping processes).
+• Java knowledge (for performance and tuning requirements)
+• In-depth knowledge of IDM is an advantage
+• Existing certification Oracle Certified Associate, Oracle WebLogic Server 12c Administrator (if not, willingness to certify)
+• Able to perform all tasks described in this knowledge and experience section
+• You will also be able to perform these tasks on a Solaris platform (as well as Linux and Windows)
+• General skills such as writing documentation
+• Fluency in English, basic knowledge of German be desirable
+• Any other experience required to perform all tasks is welcome
+Profile/Skills:
+• High team spirit, reliability, punctuality
+• Safety check (Ü2)
+or willing to
+it done
+• Nationality: German, British, Spanish, Italian
+Our Offer:
+• We offer a safe, trustful and long term working environment with very good working conditions in an exciting working environment
+• Company fitness and other company events
+• Clear and open internal communications
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

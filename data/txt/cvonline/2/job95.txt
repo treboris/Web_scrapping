@@ -1,0 +1,52 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Data Scientist 
+Your new company
+Market leading automotive company is looking for aspiring Data Scientist to work on international projects, on the field of advanced analytics and machine learning models.
+Your new role
+► Analyse big datasets acquired during the development and production of automotive sensors, choose the proper machine learning algorithm to produce smart solutions and to improve decision making considering customer specifications, reliability theory, automotive standards and legal regulations
+► Design and optimize both data acquisition process and data analytics workflows
+► Initiate open discussions, provide clear communication and answers with your data, deliver results according to project timelines and quality expectations, and create reports in English
+► Continuous improvement of analytic workflows regarding performance based on user feedback
+► Collaborate and share methodologies actively with your internal and external partners in manufacturing, and sensor development (e.g. validation and reliability engineers, data engineers/analysts). Cooperate in an international team.
+► Perform root cause analysis and support corrective measure implementation using 8D, problem solving methods and LL
+What you'll need to succeed
+► BSc or MSc in computer science, mechatronics, electrical engineering, physics or comparable
+► Strong programming skills in Python (pandas, numpy, scikit-learn, tensorflow, keras) and SQL
+► Strong background and experience in data mining workflow and development of machine learning algorithms
+► Good communication and presentation skills
+► Excellent statistical, analytical and problem solving skills
+► Version control knowledge (git)
+► Precise working style, good planning, time management and organizational skills, active tracking of tasks
+► Ability to work individually and in international teams, sharing ideas
+► Be self-initiative, open, innovative and have a growth mindset
+► Very good command of English
+What you'll get in return
+► Competitive salary
+► Cafeteria
+► Annual bonus
+► Felxible home office
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+Data Scientist 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 01.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Data Scientist 
+ Budapest  
+ Junior Data Scientist 
+ Budapest  
+ Data Scientist & AI Engineer 
+ Budapest  
+ Data Engineer 
+ Budapest  
+ Data Architect 
+ Budapest  

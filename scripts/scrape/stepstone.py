@@ -3,11 +3,11 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
-
 from bs4 import BeautifulSoup
 from datetime import datetime
-from Data import Save
+from modules.Data import Save
 from tqdm import tqdm
+import modules.tools as tools
 import requests
 import socket
 import time
@@ -17,7 +17,10 @@ import re
 #my_ip = socket.gethostbyname(hostname)
 #print(f'{hostname},{my_ip}')
 
-#https://github.com/ultrafunkamsterdam/undetected-chromedriver
+
+
+initial = tools.initial()
+exists = tools.f_exists('stepstone',initial)
 
 initial = 1
 options = Options()
@@ -32,6 +35,8 @@ location = []
 href = []
 datee =[]
 
+with open('initial.txt','r') as file:
+    initial = file.read()
 
 def page_number():
     url = (f"https://www.stepstone.de/work/it?page=1&fdl=en")

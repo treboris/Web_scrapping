@@ -1,0 +1,108 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePython developer - more projects to choose from (Bratislava or remote) 
+    Reagujte bez životopisu
+Python developer - more projects to choose from (Bratislava or remote)Infinit, s.r.o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Wage (gross)
+2 500 - 5 000 EUR/monthtrade licence (junior up to 2.500 EUR, medior 2.500 - 5.000 EUR, senior 5.000+ EUR) employment contract starting at 1.800 EUR
+Information about the position Job description, responsibilities and dutiesWe offer positions to developers with 2+ years of programming experience on a commercial project. Our projects and assignments are long term. We make sure to participate only in projects which are great for developers in these ways:
+   - Developer friendly technologies and processes, your effort has a significant, visible impact on the project
+   - Opportunity to grow via challenging tasks, cooperation with excellent colleagues, taking responsibility for a component or a team
+   - Software solving real need, large user base
+   - Relaxed, friendly atmosphere
+   - Significant effort to keep the code base maintainable
+REQUIREMENTS
+   - Strong programming skills
+   - Experience or willingness to learn the project tech stack (Python or Python + 
+     React/Vue.js)
+   - English at least upper intermediate / level B2+
+BONUS REQUIREMENTS 
+   - Understanding of web development paradigms and concepts
+   - Python and/or JavaScript development experience
+   - Experience writing automated unit tests, using unit testing frameworks
+   - Experience with Computer Science fundamentals (data representation, data structures, algorithms)
+CURRENTLY OPEN POSITIONS
+TESTMON
+Testmon is a product which accelerates test suite execution by selecting only tests affected by recent code changes. 
+At the moment we’re developing execution data sharing across the CI and the whole team
+   - A lot of of intellectual and technical challenges - caching is one of the hardest CS problems
+   - Opportunity to think about fundamentals of programming language and the process of creating software within teams
+   - Work on a global product which can forever improve the work of fellow developers, almost from inception.
+SCANDINAVIAN MOBILE OPERATOR 
+We develop key internal and customer facing web applications and APIs for a mobile operator. The technologies were chosen by the programmers themselves, taking into account the joy of work and productivity. The result is a stack built on Python, Django, Vue.js and Typescript. Other important technologies you will encounter are Docker, GraphQL, SQL, noSQL databases and many more. The project offers an interesting combination of stability and scale while using productive, enjoyable technologies and practices. Employee perks, benefits- develop your skills
+- a relaxed, young, professional and diverse work community.
+- freedom, flexibility, autonomy and responsibility.
+- an office in Bratislava where, after corona, you’ll have the chance to interact with your colleague on the project and 8 other Python developers on different projects. Requirements for the employee Candidates with education suit the positionFollow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)Other knowledgePython - Advanced Advertiser Brief description of the companySince 2007 we have been a mainly Python oriented company working on interesting international projects. We also work on our own internal project called Testmon. We concentrate the best local talent in Bratislava. Most of us meet daily in our office with a fun, creative and productive atmosphere. ContactContact person: Vladimir SchmidtE-mail: send CV You can react to this job without sending your CV. It is sufficient to send a request to the company.Send a request to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4145556 
+     Dátum zverejnenia:  17.3.2023 
+    2023-03-17
+lokalita: Remote work   Pozícia: Javascript Programmer, Programmer, Python Programmer, Software Engineer   Spoločnosť: Infinit, s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať žiadosť spoločnostiOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

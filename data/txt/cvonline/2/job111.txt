@@ -1,0 +1,64 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Service Delivery Manager 
+General purpose of the job 
+Service Delivery Manager plans, implements, leads, supports of all Payment Processing service delivery initiatives.  
+measurement of BPC fact based services against customers
+implement ITIL based service management
+provide numbers and statistics. 
+Collect of billable naturals for PMs and sales,
+identify and implement services efficiencies,
+ensure security processes are created and followed, 
+manage and measure of customer SLAs and reporting 
+maintain accurate policies and service procedures, 
+ The Manager of Service Delivery is also responsible for management of vendors for customer related projects and coordination of customer delivery projects where it is applicable.     
+Job description Duties & Responsibilities:    
+Supervise day-to-day operations in the customer service department
+General oversight of Service Desk function, including performance trending and ticket analysis, handling escalated support issues, identifying, and quantifying improvement opportunities, and allocating staff accordingly to meet business objectives.
+Other customer related based duties as required
+General planning, implementation, operation and maintenance of the following ITIL processes
+incident management
+problem management
+change management
+acces management of internal and external entities
+customer request fulfilment
+resource capacity plannind and management
+SLA management and reporting
+Knowledge, skill and abilities   
+Demonstrated experience and knowledge in payment and card processing, and /or banking front or back office, application or systems administration and maintenance 
+Demonstrated experience and knowledge of IT systems/data security like PCI DSS or ISO 27001, as it relates to financial institutions or other industries that must comply with federal regulations.
+Strong English communication skills with specific ability to translate detailed technical details to a non-technical audience.
+Proven leadership experience and the ability to interface with all levels (executive to entry level).
+Demonstrated knowledge and experience in regulations and best practices for technical deployments in a financial industry.
+Excellent analytical skills.
+Proficient with the Microsoft Office Suite of products (Word, Excel, PowerPoint, Microsoft Project, and Visio).
+ITIL v3/4 knowledge and skills
+Requirements 
+6+ years’ combined IT experience in payment processing and/or banking and/or telecommunications
+3+ years’ experience leading technical staff in support, maintenance, or project activities and 2+ years’ experience developing and documenting procedures.
+(Preferred) 2+ years’ Financial Institution employment.
+ITIL cert is an advantage
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+Service Delivery Manager 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 01.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Technical Product Delivery Manager 
+ Budapest  
+ Multilingual Service Desk Analyst 
+ Budapest  
+ Cybersecurity Project Manager 
+ Budapest  
+ DevOps Manager 
+ Budapest  
+ Project Security & Privacy Manager 
+ Budapest  

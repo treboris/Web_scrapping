@@ -1,0 +1,31 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our international Australian partner is focused on the future of mobility on the field of autonomous and electric vehicles. They are looking for an experienced Embedded Software Systems Test Engineer to join to their growing team. 
+The following challenges await our new Embedded Software Systems Test Engineer:
+- Deliver highly reliable embedded software systems for automotive spec hardware, including battery management systems, motor drivers, body control and communications modules- Work in a professional cross-functional team environment to develop new products, from prototype through production- Take ownership of our state of the art test tools, processes and methods, including traceability matrix and writing documentation- Follow the safety-critical testing processes and implement/execute a fully automated test environment for safety critical systems
+                Elvárások / Requirements
+The requirements you should fulfill:
+- An Electrical Engineering or Computer Science degree, or equivalent experience- Minimum of 5 years experience in embedded software systems testing in the automotive and/or robotics industries- Experience with manual and full automation testing- Highly skilled in building and executing testing against black-box, white-box, regression, performance, boundary, functional, non-functional, stress and safety requirements- Sound experience with the full software development lifecycle (SDLC) through requirements, design, implementation, testing and support- Experience with ASPICE/CMMI, ISO26262- Experience working in a fast-paced environment dealing with complex and multiple tasks- Experience with analogue and digital measurement techniques- Ability to analyse problems and come up with innovative solutions- Ability to be adaptable and flexible to business needs- Excellent communication and organisation skills- Fluent written and verbal communication skills in English
+                Amit nyújtunk / Benefits
+What our partner offers:
+- Work at an exciting technology company within Hungary delivering globally in a multi-national group- Enjoy a clear sense of ownership in your field, with the satisfaction of working on developments that create the future of a new category of autonomous vehicles- Work alongside a friendly and passionate team on cutting edge technology- Have the opportunity to travel to other company offices including Australia and the UK- Enjoy modern office space and great work environment
+Embedded Software Systems Test Engineer 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 30.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Embedded Software Test Engineer 
+ Budapest  
+ Embedded Software Engineer 
+ Budapest  
+ Senior Embedded Software Engineer 
+ Budapest  
+ Software Test Engineer 
+ Budapest  
+ Embedded SW Engineer 
+ Budapest  

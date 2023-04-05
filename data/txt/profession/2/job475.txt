@@ -1,0 +1,112 @@
+Belépésálláskeresőknek
+IT Operation, Telecommunication
+Network and System Engineer
+Budapest
+Következő 
+Network Automation Engineer (REF1561J)
+Deutsche Telekom IT Solutions
+Budapest, Szeged, Pécs, Debrecen, Hungary
+ Elvárt technológiák
+NETWORK
+PYTHON
+API’
+GIT
+WAN
+LAN
+ITIL
+JSON
+DEVOPS
+ Módszertanok és szoftverek
+Git
+Itil
+Bpmn
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elvárt technológiák
+NETWORK
+PYTHON
+API’
+GIT
+WAN
+LAN
+ITIL
+JSON
+DEVOPS
+ Módszertanok és szoftverek
+Git
+Itil
+Bpmn
+Deutsche Telekom IT Solutions
+Network Automation Engineer (REF1561J)
+Company DescriptionThe largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Tasks:
+Job DescriptionDNA (Drive Network Automation) is an initiative which unites several projects which are building a technology-savvy platform used across different instances and domains intended for automation and orchestration of network elements, services and network functions. MDO stands for MultiDomain Orchestrator - the platform that orchestrates networks across various domains.We are looking for Network Engineers with different level of telecommunication experience from juniors to architects, who are interested in joining the team of leading industry experts driving Network Automation and Orchestration initiatives within Deutsche Telekom and its subsidiary national telecom operators
+Expectation:
+QualificationsExperience in defining and maintaining complex data modelsExperience in object-oriented programming with Python or similar languagesExperience in developing of restful API’s (e.g. TMF…)Version management of software and configuration artifacts (e.g. GIT, MCICD…)Good knowledge of the conception and development of automation technologies and solutions (orchestration, service modelling).Basic knowledge of networking (e.g. WAN / LAN / routing / 5G slicing)Application (software packages and configurations)Container (software packages and configurations)Knowledge of operational processes in a telco: in fulfillment, assurance, operation support & readiness, ITIL processesTechnical understanding of telecommunications infrastructureService & Resource Lifecycle ManagementEnglish spoken and written (Level B2)Advantages:Data and status models according to e.g. TMF-SIDMarkup languages such as YAML, JSONDescription standards such as TOSCA, YANG Experience in configuration of key telecommunication service processes: OSR, assurance and fulfilment in modern transport networksTest-Driven development (TDD)Model based AutomationWorkflow (e.g. BPMN, CAMUNDA)DevOps mindsetGerman languageAdditional Information* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Sector(s):
+IT Operation, Telecommunication
+Network and System Engineer
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Deutsche Telekom TSI Hungary Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+1000+ munkavállaló
+2006
+1097
+Budapest,
+Tóth Kálmán utca 2. B. ép.
+Értékelések a(z) Deutsche Telekom TSI Hungary Kft. cégről
+3,8
+76 értékelés alapján 
+Értékelések kategória szerint 
+4,3
+Munkaidő és munkarend 
+3,7
+Főnökök 
+4,0
+Munka és magánélet egyensúlya 
+4,0
+Kollégák és céges hangulat 
+4,3
+Megközelíthetőség 
+4,2
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+Támogatják a képzéseket 
+Vállalják a betanítást 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

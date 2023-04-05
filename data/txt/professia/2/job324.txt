@@ -1,0 +1,104 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceC/C++ Engineer 
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+C/C++ EngineerInformácie o pracovnom miesteMiesto práce: Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)Mzdové podmienky (brutto): Od 2 500 EUR/mesiac* finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidátaTermín nástupu: dohodouDruh pracovného pomeru: plný úväzokNáplň práce, právomoci a zodpovednostiC/C++ Engineer pracuje ako súčasť tímu, ktorý vyvíja SW aplikácie s prepojením na HW zariadenia.
+Úlohy:
+- práca v aplikačnom tíme pri riešení rozsiahlejších projektov a následná údržba existujúcich už implementovaných softvérových aplikácií 
+- návrh aplikácie a jej integrácia do existujúceho systému
+- tvorba technickej špecifikácie
+- dodržiavanie security štandardov v danej oblasti 
+- post-implementačná podpora zákazníkovi
+- komunikácia s manažérom tímu, architektom, business analytikmi, interným testovacím tímom
+Technológie: 
+- programovanie v jazyku C, C++, Qt
+- MS WIN, XML/XSD, OS Linux (Ubuntu) 
+- Jira, Confluence, Jama, SVN, Jenkins, Crucible
+- testing: UNIT tests, gtests, FitNesse, Lettuce (framework tests)
+- kvalita kódu: CodeCheck, Coverity, Valgrind Iné výhody- zázemie stabilnej spoločnosti
+- zaujímavý sociálny program
+- systém benefitov
+- práca na rozsiahlych dlhodobých projektoch
+- lokalita Bratislava, Žilina, Košice, hybrid Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieStabilná medzinárodná spoločnosť pôsobiaca v oblasti informačných technológií. Požiadavky na zamestnanca Požadované vzdelaniestredoškolské s maturitou
+vysokoškolské II. stupňaVzdelanie v odboreInformačné Technológie, TechnickéJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiC++ - PokročilýPožadovaná praxC/C++2Osobnostné predpoklady a zručnosti- vzdelanie vysokoškolské alebo stredoškolské s maturitou technického zamerania /IT, telekomunikácie/
+- minimálne 2 roky skúseností s vývoj SW v C++, C
+- znalosť Linux, Windows 
+- znalosť GIT alebo SVN, JIRA, TFS
+- výhodou sú skúsenosti so SCADA / HMI / PLC
+-  schopnosť riešiť problémy, analytické a logické myslenie, schopnosť práce v tíme
+- znalosť anglického jazyka na pokročilej úrovni Inzerujúca spoločnosť Stručná charakteristika spoločnostiPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)Spoločnosť je držiteľ povolenia na sprostredkovanie práce. (AA/2009/4810/4232/OISS) Hlavná oblasť pôsobenia spoločnostiSprostredkovanie práce a personálne poradenstvo Počet zamestnancov10-19 zamestnancov Informácie o výberovom konaní* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: [email protected]KontaktKontaktná osoba: Mgr.  Andrea OmelkováTel.: +421911 755 569E-mail: 
+ Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4545634 
+     Dátum zverejnenia:  24.3.2023 
+    2023-03-24
+lokalita: Bratislava   Pozícia: Backend programátor, C programátor, C++ programátor, Programátor, Softvérový inžinier   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

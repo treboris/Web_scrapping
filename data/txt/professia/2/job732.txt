@@ -1,0 +1,85 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceStorage Infrastructure Engineer 
+Storage Infrastructure EngineerSeznam.cz Slovensko, s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiČo vás čaká: automatizácia storage systémov, ich správa, zálohovanie, monitoring - prevádzkované v internom cloude aj mimo nehopráca so software define storages ako sú Ceph, Openstack Swift a s technológiami ako sú Linux, Ansible, Terraform, Docker, Kubernetes, OpenStack, Gitlab CI/CD, BIRD, Grafana, Prometheus a mnoho ďalšíchbudete riešiť incidenty v prostredí veľkej dátovej, sieťovej a výpočtovej prevádzky a hľadať spôsoby ako im predchádzaťspoločne s kolegami v tíme zaisťujeme pohotovosť 24/7 nad službami, ktoré vyvíjame, testujeme, nasadzujeme, monitorujeme a prevádzkujeme ( on-call je remote, nikam nejazdíte ). Práca na pohotovosti je dobrovolná pokiaľ o to máte záujem. Na čo sa môžte tešiť: unikátny projekt Seznam Compute Infrastrusture ( SCIF ) - vytvárame univerzálnu platformu pre vývoj a prevádzku našich služieb - privátna cloudová platforma šitá na mieru Seznamu, postavená primárne na OpenSource technológiáchpráca s najmodernejšími technológiami ( software aj hardware )našim spoločným cieľom je platforma na uloženie PB dát cez tisíce serverov a niekoľko dátových centierv Sezname máme neustále možnosť učiť sa nové technológie, postupy a rozvíjať svoje znalosti pri práci na veľkých a zaujímavých projektoch Čo budete potrebovať: praktickú znalosť niektorej zo software define storage ( Ceph, Openstack Swift )skúsenosti s riešením problémov z prevádzky s vysokou dostupnosťou ( HA )znalosť operačného systému GNU/Linux a scriptovanie v shell Bashzákladná znalosť aspoň jedného programovacieho jazyka ( ideálne Python )základná znalosť sietí výhodouchuť učiť sa nové veci Zamestnanecké výhody a benefity:5 týždňov dovolenky a až 5 free daysCafeteriaStabilného zamestnávateľa, najväčšiu internetovú technologickú firmu v Českej republikeMožnosť práce z domu, alebo officu v Bratislave, ŽilineVýber techniky  (MacBook Pro, Dell) a prostredie (macOS, Windows, Linux), dobrý monitorPre nás je dôležitý aj osobný rozvoj. Ponúkame ti interné vzdelávanie a externé konferencie.Možnosť kvartálneho bonusu podľa plnenia cieľov Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou Inzerujúca spoločnosť Stručná charakteristika spoločnostiSeznam.cz hľadá talenty aj na Slovensku
+Sme česká internetová jednotka s viac ako 1500 zamestnancami a tržbami presahujúcimi 200 miliónov eur. Našu domovskú stránku denne navštívi viac ako 3,5 milióna ľudí, ktorí hľadajú informácie aj zábavu. Ako líder trhu zasiahnu naše služby mesačne 95 % českej internetovej populácie.
+Vyvíjame viac ako 30 vlastných produktov a služieb, ktoré používajú milióny ľudí denne. Patrí medzi ne napríklad vlastné Vyhľadávanie ako aj reklamný systém Sklik, kde ako jedna z mála firiem na svete dokážeme konkurovať globálnym službám a neustále ho vylepšujeme, oceňovaná navigácia Mapy.cz, najnavštevovanejší český videoportál Stream s viac ako 4,5 miliónmi videí, porovnávač cien Zboží.cz, ktorý obsahuje takmer 200 miliónov ponúk z 31 tisíc e-shopov, alebo populárny český freemail Seznam Email s bezmála 8 miliónmi aktívnych schránok, do ktorých denne doručíme viac ako 71 miliónov e-mailov.
+Používáme najmodernejšie technológie, spracovávame terabajty dát, staviame si vlastné dátové centrá, vyrábame vlastný hardware a vyvíjame vlastné riešenia na mieru – napríklad cloud infraštruktúru s názvom SCIF.
+Staňte sa súčasťou modernej technologickej firmy s neformálnou atmosférou a partie nadšených profesionálov, vďaka ktorej budete môcť ďalej rásť a učiť sa od skúsených kolegov.
+Pridajte sa do tímu Seznam.cz. 
+ KontaktKontaktná osoba: Tomáš BaranecE-mail: poslať životopis
+Všetky ponuky spoločnosti
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4536189 
+     Dátum zverejnenia:  10.3.2023 
+    2023-03-10
+lokalita: Práca z domu   Pozícia: Python programátor, Servisný inžinier, Správca informačného systému, Systémový administrátor, Systémový inžinier   Spoločnosť: Seznam.cz Slovensko, s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

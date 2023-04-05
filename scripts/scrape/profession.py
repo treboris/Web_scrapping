@@ -1,13 +1,16 @@
 from bs4 import BeautifulSoup
 from datetime import date
-from Data import Save
+from modules.Data import Save
 from datetime import datetime
-
 from tqdm import tqdm
-import pandas as pd
+import modules.tools as tools
 import requests
 import time
 import re
+
+
+initial = tools.initial()
+exists = tools.f_exists('profession',initial)
 
 date = datetime.today().strftime('%Y-%m-%d')
 
@@ -18,6 +21,9 @@ main = []
 location = []
 href = []
 datee =[]
+
+with open('initial.txt','r') as file:
+    initial = file.read()
 
 #PAGE COUNTER
 def page_number():
@@ -93,6 +99,4 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-save_data = Save(f'profession1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
-
-print("--- %s seconds ---" % (time.time() - start_time))
+save_data = Save('profession',f'profession{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )

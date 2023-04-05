@@ -1,0 +1,50 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior PLM / ALM Application Engineer 
+thyssenkrupp is an international group of companies comprising largely independent industrial and technology businesses and employing 96,000 people. Across 48 countries it generated sales of €41 billion in fiscal year 2021/22. Backed by extensive technological know-how, the businesses develop cost-effective and resource-friendly solutions to the challenges of the future, especially in the fields of climate protection, the energy transition, digital transformation in the industry and mobility of the future.
+In the Hungarian development center with our engineering team of 1000 we are present as an innovative and significant partner in one of the fastest growing and most exciting segment of the automotive industry, in the field of electromechanical steering systems. With outstanding quality and high-tech developments we meet the needs of renowned car manufacturers and our developments can be found in 25 % of the manufactured cars all over the world. Our engineers work on new challenges that can change the future of automotive.
+ Tasks / Feladatok
+The development of solutions for our future PLM / ALM landscape based on the Siemens PLM application suite is your primary goal. You will develop concepts and will be responsible for the technical realization. You will also consider migration aspects and take care of the integration in our existing IT infrastructure.
+You will configure our PLM system landscape and adapt it from a technical perspective. Furthermore will you coordinate our external partners as part of the project activities. 
+You will be responsible for the development of concepts and implementation of projects in the SLM context, including PLM, ALM, MBSE (Model Based System Engineering), Big Data and Advanced Analytics, working jointly with other departments.
+You will always keep an eye on technological developments in order to be able to assess the beneficial use of digital technologies in the field of engineering applications.
+ Requirements / Elvárások
+BSc/MSc degree in IT or another relevant field
+Expertise in Siemens Teamcenter or Siemens Polarion or similar (how to configure, adapt and operate)
+Experience in automotive industry
+Passion for new technologies and innovations in the PLM and ALM environment
+Fluent English (both written and spoken)
+Excellent problem solving skills
+Friendly personality and good communication skills
+Enjoy working in a team
+"Can do" attitude
+Willingness to travel (once or twice in a year to Eschen, Liechtenstein)
+ Offer / Ajánlatunk
+A modern office in the 11th district is waiting for you to support your creativity with fun community places, cafe rooms, an own cinema and a skybar
+You can be part of a successful and growing company in the field of technology
+We support you with flexible working hours and home office opportunity (60 % of the working time in many of our positions)
+Competitive salary and wide range of other benefits (cafeteria & bonus) are provided to you
+You can learn new languages in small groups, selecting from 5 languages
+We organize leisure time activities (board games, sport activities)
+Jelentkezem
+Elmentem az állást
+Senior PLM / ALM Application Engineer 
+Jelentkezem
+Elmentem az állást
+thyssenkrupp Components Technology Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Főiskolai végzettség 
+Frissítés dátuma: 31.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Application Support Engineer 
+ Budapest  
+ SAP PP supporter 
+ Budapest  
+ Application Support Engineer 
+ Budapest  
+ Senior JAVA Fejlesztő 
+ Budapest  
+ SAP FI-CO Supporter 
+ Budapest  

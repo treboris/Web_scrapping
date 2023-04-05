@@ -1,0 +1,59 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Szoftverfejlesztő mérnök - beágyazott rendszerekhez 
+A thyssenkrupp egy nemzetközi vállalatcsoport, amely nagyrészt független ipari és technológiai üzletágakból tevődik össze, és világszerte 96 000 embert foglalkoztat. A 2021/22-es pénzügyi évben 48 országban 41 milliárd eurós árbevételt ért el. A széleskörű technológiai know-how-ra támaszkodva az üzletágak költséghatékony és erőforrás-kímélő megoldásokat fejlesztenek a jövő kihívásaira, különösen az éghajlatvédelem, az energetikai transzformáció, az ipar digitális átalakulása és a jövő mobilitása terén.
+Magyarországi kompetencia központunkban közel 1000 fős mérnökcsapatunkkal innovatív partnerként vagyunk jelen az autóipar egyik leggyorsabban és legizgalmasabban fejlődő szegmensében, az elektromechanikus kormányrendszerek területén. Kiemelkedő minőségű, high-tech fejlesztéseinkkel neves autógyárak igényeit elégítjük ki, fejlesztéseink pedig a világszerte autóba szerelt kormányrendszerek 25 százalékában megtalálhatóak. Mérnökeink olyan ma még nem létező megoldásokon is dolgoznak, amelyek megváltoztathatják az autóipar jövőjét.
+ Tasks / Feladatok
+Your responsibilities
+Szoftverfejlesztés V modell szerint, szoftver követelmények implementálása, karbantartása, implementációs design készítése
+Beágyazott mikrokontroller vezérlő programok fejlesztése C nyelven
+Module és unit szintű szoftvertesztek implementálása
+Rendszer analízisek, debug feladatok végrehajtása
+We value diversity
+Nagyra értékeljük a sokszínűséget, így minden jelentkezőt üdvözlünk nemre, nemzetiségre, etnikai és társadalmi háttérre, vallási és egyéb meggyőződésre, fogyatékosságra, életkorra vagy szexuális irányultságra és identitásra való tekintet nélkül.
+Contact details
+Légy részese egy olyan több mint 20 éves sikertörténetnek, amely Budapestről indult és vált nemzetközi szinten is egy meghatározó fejlesztési központtá a thyssenkrupp részeként. Büszkék vagyunk arra, hogy budapesti kompetencia központunk az elhivatott munkatársainak és az innovatív tudásnak köszönheti sikerét.
+Dinamikusan növekvő vállalatunknál megismerkedhetsz az autóipar legújabb kihívásaival és a világ vezető autógyártóival dolgozhatsz együtt.
+Tudj meg többet rólunk és csatlakozz hozzánk!
+Címünk:
+thyssenkrupp Components Technology Hungary Kft.
+9027 Győr, Íves u. 6.
+ Requirements / Elvárások
+Villamosmérnök, mechatronikai mérnök vagy informatikus végzettség
+C programozási ismeret valós idejű beágyazott környezetben
+Hardver közeli programozáshoz szükséges analóg és digitális hardver ismeretek
+Fejlesztéshez, teszteléshez szükséges mérőműszerek ismerete
+Legalább középfokú angol nyelvtudás (szóban és írásban egyaránt)
+Előny:
+Szakmai tapasztalat releváns/ beágyazott területen
+Személyiség:
+Eredményorientált gondolkodás
+Csapatmunkára termettség
+Jó kommunikációs- és kezdeményezőkészség
+ Offer / Ajánlatunk
+Rugalmas munkaidővel és home office lehetőséggel támogatunk (a legtöbb területen a havi munkaidő 60%-a)
+Versenyképes fizetést és széleskörű juttatásokat (cafeteria és bónusz) biztosítunk számodra
+Részese lehetsz egy sikeres, gyorsan növekvő technológiai vállalatnak
+Új nyelveket tanulhatsz nálunk (5 nyelv közül választhatsz)
+Jelentkezem
+Elmentem az állást
+Szoftverfejlesztő mérnök - beágyazott rendszerekhez 
+Jelentkezem
+Elmentem az állást
+thyssenkrupp Components Technology Hungary Kft. 
+Győr 
+Teljes munkaidős 
+Főiskolai végzettség 
+Frissítés dátuma: 29.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Szoftverfejlesztő mérnök - beágyazott rendszerekhez (Veszprém) 
+ Veszprém  
+ Szoftverfejlesztő mérnök - Beágyazott rendszerekhez (Szeged) 
+ Szeged  
+ Applikációs funkciófejlesztő mérnök (MATLAB/Simulink) (Veszprém) 
+ Veszprém  
+ Szoftver architect (Veszprém) 
+ Veszprém  
+ Beágyazott Szoftverfejlesztő Mérnök 
+ Budapest  

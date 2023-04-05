@@ -1,0 +1,86 @@
+Jobs by email
+Mercedes-Benz Mobility AG
+IT Architect (f/m/x)
+Stuttgart
+Permanent contract
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER0002GE9
+Tasks
+Mercedes-Benz Mobility at a Glance
+With around 10,000 employees, Mercedes-Benz Mobility AG specialises in financial and mobility services. The products range from financing, leasing, vehicle subscriptions, rental and fleet management to digital services for charging and payments, as well as insurance and innovative mobility services.
+Mercedes-Benz Mobility is a division of Mercedes-Benz Group AG, which also includes the vehicle manufacturer Mercedes-Benz AG, one of the largest suppliers of premium and luxury passenger cars and vans. As a financial services provider, Mercedes-Benz Mobility supports sales of the Mercedes-Benz Group's automotive brands worldwide. In Germany, Mercedes-Benz Bank AG, as part of Mercedes-Benz Mobility AG is one of the leading vehicle financing banks and offers around one million customers financial flexibility as well as deposit business and fixed-interest-rate accounts in the direct banking business.
+WHO WE ARE
+Our team is responsible to provide modern central solutions to the MBM IT Teams and actively join and train Product Teams to transform them to modern Tech Stacks and Working Models. In this functions we are setting up a central operations platform in Azure, with the target to operate many different software products in this platform. In addition, we organize and moderate the active Tech Community within MBM IT and act as a role model for other IT-Teams. We are looking for a IT Architect (f/m/x) to support these initiatives.
+Your tasks will be:
+Join product teams to improve the development process
+Maintenance and operation of services together with the product teams
+Scaling systems through automation and further development of services for higher reliability and efficiency
+Establish and share best practices that allow the product teams to offer scalable services
+Responsibly for the code base by maintaining and improving code quality and stability
+Design, realize and run a scalable GitOps platform based on Azure with Kubernetes and Flux
+Designing virtual infrastructures with Infrastructure as code (Terraform)
+Contribute content the Developer-Community for tech topics and foster a technology oriented mindset
+Independently work in a part of a product. Design and implementation of tasks such as new functionalities or improvements to existing architecture, solution-oriented work on new tasks without precise specification
+Work and communication in multidisciplinary product teams. Cooperation with members of other product teams throughout the company to improve technical standards, tools and processes
+Qualifications
+Qualifications:
+Degree in computer science, business informatics or comparable qualification
+Experience in one or more backend specific programming languages such as: Java, C#, JavaScript, Python
+Experience with scripts, such as: Python, shell script
+Experience with infrastructure as code
+Experience with Unix/Linux operating systems and networks
+Experience with Git
+Experience in several of the following topics: Test automation, refactoring, test-driven development, cloud infrastructure, optimization of software, debugging, build pipelines and test frameworks.
+Experience in one or more public clouds: Azure, AWS, GCP
+Nice to haves:
+Contributions to Open-Source Projects
+Profound knowledge of Microsoft Azure Cloud
+Experience as a DevOps/Software Engineer in financial services industry or similar
+...You don't bring everything? Don’t worry. We are looking for people who want to move something and to shape our common working environment!
+Languages:
+Fluent in written and spoken English
+German is an asset
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process:
+sbv@mercedes-benz.com
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+Mercedes-Benz Mobility AG
+70469 Stuttgart, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Petrol card
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Stock options
+Coaching
+Home office
+Company car
+Public transport ticket
+Study allowance
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

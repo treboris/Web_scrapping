@@ -1,0 +1,34 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Are you passionate about software and about aviation? Do you love a technical challenge and like to work on multiple platforms to create a consistent experience for the consumers?
+Our partner company has 30.000 employees worldwide. The company has a head office in Paris and Amsterdam and has several daughter companies. The group has over 550 aircraft and they are one of the bigger players in Europe. The developers they are hiring now will be working from Budapest, but fully part of the product teams.
+The company has gone through a major restructuring over the last two years to adjust to the covid crisis. They are now implementing a strategic restructuring program in which one of the pillars is the Data & Technology track. They have expressed the ambition to become the most data and tech-driven accompany in their sector. To do this, they are innovating and expanding and thus looking to attract more experts to the company.
+Specify, design, engineer, test, deliver, deploy, maintain and support digital products in order to optimally enable the improvement of business processes.
+As a software developer, you now have the opportunity to join a new team in our partner company. However, there is already a team of developers working on the airline's internal applications in Amsterdam they are looking to involve those who join the new team in the development of new applications.
+Our partner company is looking for an agile & objective-minded experienced developer with a pro-active mindset that is eager to learn new things.
+                Elvárások / Requirements
+3+ years of experience in Java;Agile Project Management tool such as Jira or GitLab;Git and Online versioning tool such as Bitbucket or GitHub;CI/CD experience;Spring Boot;Relational databases such as PostgreSQL and Oracle
+Preferred:
+Docker, Kubernetes;Microsoft Azure;Redis
+                Amit nyújtunk / Benefits
+Long-term opportunity within a fast growing companyCareer development opportunitiesSupportive cultureCompetitive benefits package, cafeteria
+Software Engineer 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 31.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Frontend Software Engineer 
+ Budapest  
+ Software Engineer 
+ Budapest  
+ Senior Python Software Engineer  
+ Budapest  
+ Software engineer team lead 
+ Budapest  
+ Senior Software Engineer 
+ Budapest  

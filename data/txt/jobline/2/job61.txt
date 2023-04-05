@@ -1,0 +1,65 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+System Validation Engineer (REF1539Z) (Budapest)
+System Validation Engineer (REF1539Z) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+System Validation Engineer (REF1539Z)
+2/3 part of the job:Acceptance of HW/SW in the Intraselect Foundation environment (CPE and Core).Automation of acceptance testsDesign, implementation and deployment of the stable acceptance environment for Intraselect Foundation and SD-WANTransfer of the knowledge gained during the acceptance tests in the classic IP VPN environment to the functional tests in the SD-WAN environmentIntegration of new techniques/technologies into the acceptance (PIU (with Toolchain 2.0), universal CPE (uCPE))Documentation and desing of myWIki articles.1/3 part of job:Coordinating the releases of the featuresquads (especially GCS, VPN), writing the releaseletter on behalf of the featuresquads.Planning release tests based on Cisco Lifecycle Policy as well as the relevant contracts between Telekom and Cisco (especially GFA)Prioritization of the tests based on the inventory (Service Assurance on the side of DTBS (CPE'n), Supersquad PISE (shared Components, Core))
+Skills:Extensive knowledge and several years of experience in the network environment (Cisco) (Layer-1, -2 and -3, DSL, IPv4, IPv6, BGP, OSPF, SNMP, Quality of Service, Class of Service, redundancy concepts (HS, RP, VRRP), STP)Knowledge of testing (ability to create test concepts for Intraselect products and core components)Configuration, use of traffic generators/protocol analyzersGerman and English language, minimum requirement: EnglishAdvantages:Knowledge and application of  Cisco Lifecyclepolicy for the used Cisco product lines.Installation and configuration of Cisco routers and switchesConfiguration and fault clearance of CPE, LER-6/7, IPSec GW, Keyserver, LNS/LTS, MV/STS Router, CCRCreation of test plansExperience with IXIAManagement of Smart/Virtual accounts and licenses (Cisco Smart Licensing)Agile working in a KANBAN teamSoftskills:FlexibilityIndependenceOpenness to learn new things
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Thyssenkrupp -
+Senior PLM / ALM Application Engineer
+Deutsche Telekom IT Solutions -
+Security Analyst (REF92A)
+Thyssenkrupp -
+Control System Engineer (Debrecen)
+Randstad Hungary Kft -
+Hálózatépítő
+Deutsche Telekom IT Solutions -
+IT Security Manager (REF1606M)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Pécs
+Szeged
+Győr
+Kecskemét
+Székesfehérvár
+Miskolc
+Tatabánya
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

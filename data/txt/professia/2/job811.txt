@@ -1,0 +1,106 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Developer (HTML, React, VUE.js, C#, SQL) 
+Senior Developer (HTML, React, VUE.js, C#, SQL)EMIS s.r.o.
+Miesto práce
+Trnava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 000 - 3 000 EUR/mesiacZákladná mzda, ako aj horná hranica mzdy záleží od pracovných skúseností.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiLákajú Ťa nové technológie a rád sa učíš nové veci a chceš sa v nich rozvíjať? Si samostatný a rád hľadáš riešenia problémov?  Máš skúsenosti s tvorbou webových aplikácií  a chceš sa v tejto oblasti rozvíjať? 
+Hľadáme kolegu do tímu, ktorý sa bude podieľať na vývoji mapového klienta a integrácií s inými systémami. Zamestnanecké výhody, benefityKeďže sú u nás spokojní kolegovia na prvom mieste, je pre nás dôležité, ako sa cítia v práci. Preto sa snažíme spríjemniť im čas v práci a zlepšovať pracovné podmienky.
+• Využívanie najnovších technológií a práca pre renomovaných klientov
+• Osobnostný a profesný rast 
+• Sociálne výhody (finančný príspevok pre novomanželov, pri narodení dieťaťa a pod.)
+• Práca v mladom a kreatívnom kolektíve
+• Vzdelávací program zameraný na individuálne odborné certifikácie i kurzy 
+• Flexibilný pracovný čas
+• BridgeDay pri sviatkoch - predĺžené víkendy
+• Široký program firemných akcií
+• Firemné raňajky
+• Mimoriadna dovolenka podľa odpracovaných rokov Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiJavaScript - ExpertjQuery - ExpertHTML5 - ExpertReactJS - PokročilýOpen Web Application Security Project (OWASP) - PokročilýApache Kafka - Mierne pokročilýVue.js - ExpertPostgreSQL - ExpertSQL - ExpertVodičský preukazB Osobnostné predpoklady a zručnostiSkúsenosti v odbore minimálne 5 rokov.
+• JavaScript na vysokej úrovni
+• Znalosti v reaktívnych frameworkoch React a Vue.js
+• Znalosti HTML, CSS, Typescript, UX/UI webových aplikácii
+• Znalosť SOA architektúry
+• Znalosť SQL na vyššej úrovni
+• Znalosť Proxy a web serverov ako Nginx, Apache, IIS
+• Skúsenosti s Sassa Tailwind výhodou
+• Skúsenosti s GIS aplikáciami výhodou
+Technológie, ktoré používame a budú sa ti u nás hodiť:
+• React, VueJS
+• Camunda
+• DB: PostgreSQL, MSSQL, Oracle
+• UML
+• OpenLayers, Tomcat, Jetty, Redis, Mnesia, Kibana, Grafana, ElasticSearch, Vaadin, Websphere, Weblogic, Rancher, Docker, Kafka apache Inzerujúca spoločnosť Stručná charakteristika spoločnostiEMIS je poskytovateľ IT služieb a produktov s vyše 15 ročnou históriou pôsobenia v odvetví informačných technológií. EMIS ponúka svojim klientom komplexné riešenia z oblastí IT služieb, softvérového vývoja a poradenstva. Hlavnou oblasťou sú GIS – geografické informačné systémy a služby v oblastí fotogrametrie, či laserového zberu dát.
+www.emis-online.sk Počet zamestnancov25-49 zamestnancov KontaktKontaktná osoba: Ing.  Miroslav VanekTel.: +421903794193E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4533184 
+     Dátum zverejnenia:  6.3.2023 
+    2023-03-06
+lokalita: Trnava   Pozícia: Backend programátor, Frontend programátor, Javascript programátor, Programátor   Spoločnosť: EMIS s.r.o.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

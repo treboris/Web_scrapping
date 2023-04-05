@@ -1,0 +1,83 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+DevOps Fejlesztő állás Budapest
+Docker
+GIT
+Unity
+C
+C#
+Java
+Linux
+Ruby
+Rendszer / Hálózat, DevOps állások 
+											Multinacionális partnerünk számára keresünk munkatársat az alábbi munkakörbe:DevOps FejlesztőMunkavégzés helye: Budapest, III. kerület.A jelenlegi helyzetben home office lehetőséget biztosítunk!FeladaMultinacionális partnerünk számára keresünk munkatársat az alábbi munkakörbe:DevOps FejlesztőMunkavégzés helye: Budapest, III. kerület.A jelenlegi helyzetben home office lehetőséget biztosítunk!Feladatok és munkakörökA cég által gyártott életmentő illetve életminőséget javító orvosi berendezések megismerése.A vonatkozó gyártmányfejlesztési folyamatok megismerése és technológiák alkalmazása.CI/CD infrastruktúra továbbfejlesztése és üzemeltetése.A szoftverfejlesztési- és tesztelési folyamatok automatizálása/scriptelése hatékonyság növelés céljából.A fejlesztőkörnyezet felügyelete, karbantartása és fejlesztése, egységes Linux platform karbantartása.Együttműködés a külföldi fejlesztőcsapatokkal.Szoftverdokumentáció elkészítése.Szakmai kompetenciákInformatikus/Villamosmérnök végzettség, diploma megléte (BSc, MSc, PhD)Legalább 3 év nagyvállalati környezetben szerzett fejlesztői, tesztautomatizálási vagy DevOps munkatapasztalatScript és programozási nyelvek: Ruby, C#, Batch; opcionálisan: PythonOperációs rendszer ismeretek: Linux, WindowsCI/CD eszközök: JenkinsBuild Automation: RakeVersion Management: SVNELŐNY:Egyéb objektum orientált nyelveken szerzett programozási tapasztalat (C , Java)Egyéb fejlesztéstámogató eszközök ismerete, pl: Nunit, Make, Cmock, Unity, Git, Crucible, Polarion, JIRA, Maven, Artfactory (nexus), GIT, Conteinerization (docker, kubernet).Beágyazott rendszerek fejlesztésében szerzett tapasztalat (C nyelv ismerete)Modern szoftverfejlesztési metódusokkal szerzett tapasztalat (pl. SCRUM, TDD, CleanCode)Orvosi műszer területen szerzett szoftver tervezői, fejlesztői gyakorlatSzemélyes kompetenciákKommunikációképes angol nyelvtudásPontos, precíz munkavégzésIgény a folyamatos fejlődésreEredményorientált, nyitott gondolkodásCsapatszellemAjánlatunkTagja lehetsz egy fiatalos csapatnak, ahol stabil, hosszú távú munkalehetőség és szakmai fejlődés vár rád. A barátságos légkörben és családias hangulatban folyamatos támogatást kapsz munkatársaidtól.Munkádat rugalmas időben végezheted, rendszeres képzések segítenek a fejlődésben, és versenyképes fizetéssel, valamint béren kívüli juttatásokkal ismerjük el a munkádat.Előnyök és juttatásokLegyél részese egy vállalati kultúrának, amely aktívan támogatja a kollégák, az ügyfelek és a partnerek közötti konstruktív párbeszédet. Dolgozz velünk az emberek életminőségének hosszú távú megóvása és javítása érdekében. Érdekes, változatos feladatokat és kiváló előrelépési lehetőségeket kínálunk kiemelt bérezéssel és kiterjedt juttatási csomaggal, mindezt egy dinamikus családi vállalkozás keretein belül. 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+starjobs													
+Budapest
+Nincs meghatározva
+ Rendszer / Hálózat, DevOps
+Lejárati dátum: 2023-05-03 21:17:22
+Álláshirdetés részletei
+PozícióDevOps Fejlesztő
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaRendszer / Hálózat, DevOps
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

@@ -1,0 +1,105 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceC# Developer 
+C# Developer
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Termín nástupu
+ASAP
+Druh pracovného pomeru
+plný úväzok
+Platové ohodnotenie
+1 600 EUR/mesiac+ variabilná odmenaPracovné skúsenosti, prax v odbore a technická odbornosť (seniorita) budú zohľadnené v ponuke.
+O nás
+Siemens MobilitySpoločnosť Siemens Mobility poskytuje riešenia v oblasti integrovanej dopravy a logistiky, ako aj nízkonákladovej a ekologicky šetrnej dopravy.Popis pracovnej pozicie a zodpovednostiČo majú spoločné metrá vo Viedni, v Kodani, v Istanbule či v Buenos Aires?Sme to práve my! Inžinierske centrum Siemens Mobility v Žiline vzniklo v roku 2003 s pár ľuďmi na palube. Dnes nás je už viac ako 700 a každý rok rastieme. Pracujeme na  projektoch po celom svete a za našou prácou môžeme vidieť reálne výsledky – napr. najmodernejšie vlakové linky a metrá v najvyspelejších štátoch sveta. Staňte sa aj Vy súčasťou inovácií v doprave a projektujte s nami pre celý svet!Do nášho svetovo úspešného Inžinierskeho centra v Žiline hľadáme kolegu, ktorý bude pracovať na vývoji riešení v oblasti mobility pre medzinárodných zákazníkov.Ak je Vám blízka téma udržateľnosti a moderných riešení ste našim človekom!Čo bude Vašou úlohou?Na oddelenie softvérového vývoja hľadáme nových kolegov na vývoj aplikácií pre oblasť mobility. Jedná sa najmä o aplikácie a nástroje na grafické spracovanie a analýzu 3D dát, simulátory a emulátory jazdy vlakov na testovacie účely, nástroje na validáciu projekčných údajov a pod.•	Analýza technických požiadaviek na jednotlivé aplikácie•	Podieľanie sa na definovaní návrhu architektúry a použitých technológií pre jednotlivé aplikácie•	Implementácia v programovacom jazyku C# na platforme .NET•	Správa zdrojového kódu v prostredí Gitlab a Git•	Vytváranie programátorskej a technickej dokumentácie•	Spolupráca s členmi tímu a podpora tímu počas celého vývojového cyklu projektu
+            Potrebné vzdelanie, zručnosti a osobnostné predpoklady
+Vzdelaniestredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+                Informatika, softvérové inžinierstvo, elektrotechnika, telekomunikácie, prírodné vedyJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+                Technické znalosti:
+•	Znalosť objektovo orientovaného programovania a SOLID princípov
+•	Znalosť programovacieho jazyka C# a platformy .NET
+•	Znalosť základných Design patterns
+•	Základná znalosť testovania softvéru a znalosť testovania použitím unit testov
+•	Znalosť formátov XML, XSD, JSON
+•	Znalosť agilných metód projektového riadenia je výhodou
+•	Znalosť nemeckého jazyka je výhodou
+Osobnostné predpoklady:
+•	 Analytické a logické myslenie
+•	 Chuť a schopnosť učiť sa nové technológie a postupy
+•	 Schopnosť práce v tíme a spolupráce naprieč viacerými tímami
+•	 Zodpovednosť, samostatnosť a iniciatívnosť
+Čo ponúkame
+                •	Tréningový a rozvojový program (business a produktové školenia, e-learning, jazykové kurzy, soft skills tréningy,…)•	Program pre zdravie (wellness, športové aktivity, fitness, doplatok ušlej mzdy pri PN a OČR)•	Flexibilný pracovný čas - balans medzi pracovným a súkromným životom•	Skvelý team a teambuildingy•	Extra voľné dni (bridge days, sick days)•	Rodinný program (príspevok pri narodení dieťaťa, odchode na materskú dovolenku, príspevok na škôlku a detské tábory)•	Retention program (príspevok pri pracovnom výročí, životnom jubileu, doplnkové dôchodkové sporenie, zamestnanecké pôžičky)Nemáte pripravený životopis? Alebo potrebujete viacej informácií?Napíšte mi na [email protected] alebo sa môžeme spojiť prostredníctvom Linkedinu: https://www.linkedin.com/in/lenka-hudecov%C3%A1-3514a3129/Rada budem s Vami v kontakte pre budúcu spoluprácu. :)
+Poslať životopis
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+viac informácií
+ID: 4118049 
+     Dátum zverejnenia:  21.3.2023 
+    2023-03-21
+lokalita: Žilina   Pozícia: .NET programátor, C programátor, C# programátor, Programátor   Spoločnosť: Siemens Slovensko   
+Základná zložka mzdy (brutto): 1 600 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

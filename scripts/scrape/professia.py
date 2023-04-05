@@ -5,13 +5,17 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 from datetime import datetime
-from Data import Save
+from modules.Data import Save
+import modules.tools as tools
 from tqdm import tqdm
 import requests
 import time
 import re
 
-start_time = time.time()
+
+initial = tools.initial()
+exists = tools.f_exists('professia',initial)
+
 date = datetime.today().strftime('%Y-%m-%d')
 
 options = Options()
@@ -19,7 +23,6 @@ options.headless = True
 driver = webdriver.Firefox(options = options)
 
 limit_txt = "?page_num="
-
 id = []
 corp = []
 main = []
@@ -99,4 +102,4 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-save_data = Save(f'professia1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
+save_data = Save('professia',f'professia{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )

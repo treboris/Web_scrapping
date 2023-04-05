@@ -1,0 +1,123 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceICT architekt - API 
+ICT architekt - APIADECCO Slovakia, s. r. o.
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+Immediately
+Wage (gross)
+2 050 EUR/monthThe published salary is the minimum possible offer. The starting salary may be higher depending on the extent of fulfillment of the employee's requirements (education, language skills, required practice, personality assumptions and skills).
+Information about the position Job description, responsibilities and dutiesIs IT in your blood? You’re an innovative, entrepreneurial thinker, and the prospect of driving digitalization fascinates you? Does international collaboration for the development of custom-fit ITSolutions for the company spark your interest? If so – We want you to help propel the evolution of Magenta IT forward for the best customer satisfaction and a modern Technology transformation in the direction of cloud, DevOps, Network Agnostic services and eCompany. Our motto: Provide Technology leadership and Continuous Integration & Deployment of IT services in the same breath. Yours too, right? So, let’s go!
+Your Domain
+Coming from a monolithic application landscape as baseline, company is applying selected Greenfield approaches and decoupling legacy backend landscape from fast-moving touchpoints with a basic set of German E-APIs, in order to modernize IT. While the foundation of the transition is being laid, the need to accelerate and scale up these initiatives has become 
+obvious to leverage the advantages for the business. IT Software & API Architects are needed to drive the transformation, compared to simply evolving IT Strategy! If you want to work with a great team and challenge yourself - then the Architecture chapter Team of the company is exactly the right work environment for you! 
+Your Responsibilities: 
+Your Assignments & Responsibilities will include 3 Focus areas:
+1. Drive API and decoupling activities as a synergetic effort with all stakeholders.
+2. Create key functionalities as central Digital Services, which can be developed, 
+maintained and optimized independent of other functions, thereby enabling small teams to work quickly, reliably & autonomously to meet dynamic Customer needs
+3. Beside the alignment on API Specifications and central Digital Services, also support development and evolution of central API gateway and API quality services.
+The Software & API Architect defines needed or recommend software optimizations to ensure reliability, availability, robustness, and performance of the software in operations. The Architect may also recommend optimizations based on security requirements and define “HOW” a technical solution can be realized. She/He is responsible for considering non-functional requirements (NFRs) & using automated tools & methods to obtain insight into the software API base as efficiently and quickly as possible.
+Position is being filled for our major client. Employee perks, benefits• Annual bonus
+• Fully paid meal vouchers
+• Phone and notebook for personal use
+• Discounts for selected products
+• Supplementary pension saving contribution
+• Cafeteria system of benefits/Multisport card
+• Personal days
+• Sports club & Health days
+• Teambuildings, summer & Christmas party
+• Opportunities for career growth
+• Referral program
+• Flexible working time
+• Benefits for parents (contribution at the child´s birth, mobile phone during maternity leave) Information about the selection processThis position is being filled for our major client.Company on whose behalf the position is being filledTelecommunicationsAn international telecommunications company. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skillsYour Profile:
+You have a university degree with emphasis in Computer Science or Information Systems; or a comparable qualification and profit from multiple years professional experience in IT architecture. Additionally, you possess the following knowledge and capabilities:
+Primary Technical Skills
+• OIDC & OAuth 2.0
+• API Management
+• Restful API Design (6 constraints: Uniform Interface; Client-Server; Statelessness; 
+Cacheability; Layered(=Proxy & Web Server supported); & optionally Code-on-Demand 
+(transfer executable code to the client))
+• Event-Driven Architecture
+• Java, JS
+• Spring/Springboot
+• Gitlan-CI, Sonarqube
+• AWSn OpenShift
+Additional Relevant Skills: 
+• Team Collaboration & Communication Skills
+• Docker, Kubernetes (containerization)
+• Kafka
+• PostgrSql, MongoDB
+• GOlang
+• OWASP
+• Quarkus, nodeJS
+• Azure Advertiser Brief description of the companyThe Adecco Group is the world’s leading HR solutions partner. We provide more than 700,000 people with permanent and flexible employment every day. With more than 33,000 employees in 60 countries, we transform the world of work one job at a time. Our colleagues serve more than 100,000 organizations with the talent, HR services and cutting-edge technology they need to succeed in an ever-changing global economy. As a Fortune Global 500 company, we lead by example, creating shared value that meets social needs while driving business innovation. Our culture of inclusivity, fairness and teamwork empowers individuals and organizations, fuels economies, and builds better societies.  We make the future work for everyone. Number of employees50-99 employees ContactContact person: Petra SabóováTel.: +421902920990E-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4544274 
+     Dátum zverejnenia:  23.3.2023 
+    2023-03-23
+lokalita: Remote work   Pozícia: Programmer, Software Engineer   Spoločnosť: ADECCO Slovakia, s. r. o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 050 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

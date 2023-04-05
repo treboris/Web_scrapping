@@ -1,0 +1,83 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceC++ Developer 
+C++ DeveloperCertiCon SK s. r. o.
+Miesto práce
+Biznis Centrum Poštová 1, Poštová, Žilina-Vlčince
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 200 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiV spoločnosti CertiCon sme dlhodobo pracovali na vývoji a testovaní terminálu GSM-R, ktorý používajú železniční dispečeri. Jednoducho povedané, je to telefónny prístroj s mnohými špecializovanými funkciami, ktoré uľahčujú riadenie železničnej dopravy. Nami vyvinuté terminály používajú železničné spoločnosti v mnohých krajinách Európy, Ázie a Austrálie.Našou úlohou je navrhnúť, implementovať a otestovať celú aplikáciu - od komunikačných vrstiev (SIP, RTP, HTTP, JSON, REST, WebSockets) cez spracovanie zvuku až po používateľské rozhranie.Náplň práceIde o rozsiahly a dlhodobý projekt využívajúci stabilnú technológiu. Hľadáme niekoho, kto nás každý deň posunie o kúsok ďalej. Ponúkame stabilný projekt, veľmi dobrý tím a možnosť rozvíjať svoje znalosti pod vedením skúsených starších vývojárov.Práca zahŕňa analýzu požiadaviek zákazníka, návrh, implementáciu, testovanie, vytvorenieČo presne budete robiť?Analyzovanie požiadaviek zákazníkov a zisťovanie, ako ich technicky realizovať.V prípade potreby navrhnite zmeny architektúry celkového riešenia.Implementácia nových funkcií vrátane automatizovaných testov.Denne komunikovať so zákazníkom v angličtine v hovorenej aj písomnej forme.Vývojové prostredieVisual StudioPoužité technológieC++ v.11Nástroje SVN, GIT, ANT, JIRA.PožiadavkyZnalosť jazyka C++, dobrá orientácia v kóde.Skúsenosti s vývojom aplikácií.Motivácia pracovať na dlhodobom projekte a ochota učiť sa nové veci.Angličtina aspoň na úrovni B2.Znalosť MFC, SIP a nemeckého jazyka je výhodou. Zamestnanecké výhody, benefityPonúkame 14 skvelých benefitov, o ktorých sa viac dočítate na https://kariera.certicon.sk/#benefity. Vieme, že pohoda pri práci je kľúčová a preto budeš mať flexibilný pracovný čas s možnosťou 3 dní v týždni na home office. V office budeš tráviť čas v atraktívnom, modernom a príjemnom prostredí nového Biznis centra na Poštovej 1. Kancelárske priestory dopĺňa množstvo zelene, poskytujeme aj miesto na parkovanie.Pracujeme na projektoch pre veľké a renomované spoločnosti, ktorí vytvárajú dlhodobé riešenia a produkty, majú dopad na životy miliónov ľudí po celom svete. Neformálna atmosféra, ľudský prístup a skvelý tím. Spoločnost CertiCon mapuje cesty, po ktorých sa zatiaľ nikto nevydal. Vydaj sa s nami za horizont.Ako nás vnímajú tí, ktorí už pre nás pracujú, si môžete prečítať tu: https://kariera.certicon.sk/#tim-certiconVýhody pozri https://kariera.certicon.sk/#benefity Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2) Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme  technologická spoločnosť zaoberajúca sa inováciami a vývojom softvérových a hardvérových riešení pre oblasti zdravotníctva, telekomunikácií či automobilového a leteckého priemyslu. Veľmi úzko spolupracujeme so špičkovými technickými univerzitami a výskumnými laboratóriami v celej Európske únii. 
+Naše projekty realizujeme po celom svete. KontaktKontaktná osoba: Peter BakoTel.: +421918645756E-mail: poslať životopis
+Všetky ponuky spoločnosti
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4477344 
+     Dátum zverejnenia:  21.3.2023 
+    2023-03-21
+lokalita: Žilina   Pozícia: C++ programátor, Programátor   Spoločnosť: CertiCon SK s. r. o.   
+Základná zložka mzdy (brutto): 2 200 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

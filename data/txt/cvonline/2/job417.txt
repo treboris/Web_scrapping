@@ -1,0 +1,43 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Fullstack Developer - REF1621B 
+Description
+Design and implementation of the Angular frontend and the SpringBoot backend
+Design and implementation of REST-APIs
+Mapping of the REST-APIs to the existing Postgres database and other external backend
+Possibility to participate DevOpos related activities (docker/Kubernetes and Jenkins pipelines)
+Long term participation in the project
+Qualifications
+More than 3 years of Angular experience
+More than 1 year experience in Java Spring Boot
+More than 1 year experience in SQL (preferable with Liquibase)
+English B2 level
+Advantages:
+▪ Experience in agile development
+▪ Experience with Client/Server architecture
+▪ Experience with Oracle databases (with JDBC and JPA)
+▪ REST WebServices
+▪ German
+Additional Information
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Jelentkezem
+Elmentem az állást
+Fullstack Developer - REF1621B 
+Jelentkezem
+Elmentem az állást
+Deutsche Telekom IT Solutions 
+BudapestDebrecenPécsSzeged 
+Teljes munkaidős 
+Frissítés dátuma: 04.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Fullstack Sofware Developer 
+ Budapest  
+ Medior Fullstack Developer - Java/Angular 
+ Budapest  
+ Fullstack Application Developer 
+ Budapest  
+ Fullstack Developer (Java,Angular) 
+ Budapest  
+ Senior Fullstack Developer (Java/Angular) 
+ Budapest  

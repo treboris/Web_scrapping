@@ -7,21 +7,20 @@ import requests
 import time
 import os
 
-
-start_time = time.time()
+with open('../initial.txt','r') as file:
+    initial = int(file.read())
 
 text = ''
-initial = 2
 date = datetime.today().strftime('%Y-%m-%d')
-data = pd.read_csv('../data/itpeople/itpeople1.csv')
+data = pd.read_csv(f'../../../data/itpeople/itpeople{initial}.csv')
 
 dataindex = data.index
 data_size = len(dataindex)
 print
 href = data['Href'].to_list()
 
-def lost_data():
-    with open(f"../txt/itpeople/{initial}/job{x}.txt" , "w") as file:
+def lost_data(x):
+    with open(f"../../../data/txt/itpeople/{initial}/job{x}.txt" , "w") as file:
         file.write(text)
 
 for x in tqdm(range(0,data_size)):
@@ -32,33 +31,33 @@ for x in tqdm(range(0,data_size)):
         soup = BeautifulSoup(page.text,"html.parser")
         full_page = soup.body
         try:
-            with open(f"../txt/itpeople/{initial}/temp.txt" , "w") as f: #read&write
+            with open(f"../../../data/txt/itpeople/{initial}/temp.txt" , "w") as f: #read&write
                 f.write(full_page.text)
-            with open(f"../txt/itpeople/{initial}/temp.txt" , "r") as f:
+            with open(f"../../../data/txt/itpeople/{initial}/temp.txt" , "r") as f:
                 for line in f:
                     if(line.strip()):
                         text += line
-            with open(f"../txt/itpeople/{initial}/job{x}.txt" , "w") as file:
+            with open(f"../../../data/txt/itpeople/{initial}/job{x}.txt" , "w") as file:
                 file.write(text)
             text = ''
-            os.remove(f"../txt/itpeople/{initial}/temp.txt")
+            os.remove(f"../../../data/txt/itpeople/{initial}/temp.txt")
 
         except (AttributeError):
-            lost_data()
+            lost_data(x)
             text = ''
     #TIMEOUT NO INTERNET CONNECTION
     except requests.exceptions.Timeout:
-        lost_data()
+        lost_data(x)
         text = ''
     #CAN'T CONNECT BAD URL
     except requests.exceptions.ConnectionError:
-        lost_data()
+        lost_data(x)
         text = ''
     #TIMEOUT NO INTERNET CONNECTION OR BAD URL
     except requests.exceptions.ReadTimeout:
-        lost_data()
+        lost_data(x)
         text = ''
     #TIMEOUT NO INTERNET CONNECTION OR BAD URL
     except requests.exceptions.ConnectTimeout:
-        lost_data()
+        lost_data(x)
         text = ''

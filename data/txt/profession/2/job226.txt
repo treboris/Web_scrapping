@@ -1,0 +1,116 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Budapest
+Következő 
+Senior Java Developer (With Devops Background)
+Bruttó 5 000 - 6 000 USD havi bér
+Innovecs Hungary Kft.
+1052 Budapest
+ Elvárt technológiák
+WINDOWS
+C
+SECURITY
+PC
+VPN
+DNS
+ANTIVIRUS
+HARDWARE
+AWS
+ISTQB
+ Módszertanok és szoftverek
+Istqb
+Scrum
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Középiskola
+Bruttó fizetés
+5 000 - 6 000 USD havi bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Juttatások
+Szakmai tréningek
+Nyelvtanulás támogatása
+Egészségbiztosítás
+ Elvárt technológiák
+WINDOWS
+C
+SECURITY
+PC
+VPN
+DNS
+ANTIVIRUS
+HARDWARE
+AWS
+ISTQB
+ Módszertanok és szoftverek
+Istqb
+Scrum
+Innovecs Hungary Kft.
+We are looking for a Senior Java Developer with DevOps background, who will be responsible for developing global cloud service of the SaaS product, and will join our team as a Service Operations Java Developer.
+SENIOR JAVA DEVELOPER (WITH DEVOPS BACKGROUND)
+ABOUT INNOVECS Innovecs is a global digital transformation tech company with presence in the U.S., Europe, UK, Australia, LATAM, and Israel. With 10 years on the market and 850+ team members, we focus on long-term cooperation with our people providing them with the opportunity to learn, grow, develop, and stand out not only in their profession but also outside of it. We are one of the fastest-growing private companies in America by Inc. 5000, and on the list of 100 Best Global Outsourcing Providers by IAOP, have TikTok with over 10m views, and 10+ lifestyle communities by interests. Get on board and unlock your potential with us!
+REQUIREMENTS:
+At least 5 years of experience in Java serverside.Experience with reactive programming.Background or experience with DevOps practices and tools.Experience with CQRS/ES systems.Experience with major cloud platforms AWS/Azure/GoogleCloud and baremetal environments.Experience with Kubernetes / EKS.Experience with Helm.Experience with HashiCorp technologies such as Consul, Vault, Terraform and Vagrantadvantage.Understanding of software release process.Experience with Security standards and practices.At least Upper-intermediate (verbal and written) English.
+RESPONSIBILITIES:
+We are looking for a Senior Java Developer with DevOps background, who will be responsible for developing global cloud service of the SaaS product and will join our team as a Service Operations Java Developer.As a Service Operations Java Developer you will be responsible for developing global cloud service of the product. Our global delivery service is responsible to provision and monetize products anywhere globally so they can meet the customer SLA. That includes automate workflows and software processes that makes service a SaaS. You will work closely with DevOps and R&D teams to discover improve service by implementing process automation. This involves creating and applying technology to monitor or control the production and delivery of the products and services.Be part of the service operations team that is responsible to deliver, operate and monetize managed service across clouds and tenents.Design and implement company's` SaaS service.Work with internal and external stakeholders to build accurate service delivery models.Work closely with software development teams to support their infrastructure needs, and provision and maintain all needed development, testing, and production environments.Build tools to enable our customers to provision, deploy, deliver monetize and monitor their usage of company`s service.Enable safe change management across all tenets.Design plan and develop new features to enhance global service delivery.Identifying opportunities for automation within software processes.Identifying bugs and quality issues in development or business processes.Collaborating with other business units to understand how you can use automation to improve workflow.
+Other:
+Background with the FinTech industry.Experience building tools for DevOps teams.Self-learning enthusiasm.Taking ownership and responsibility.Communicative, transparent, team player.
+ABOUT INNOVECS:
+Innovecs is a global digital transformation tech company with presence in the U.S., Europe, UK, Australia, LATAM, and Israel. With 10 years on the market and 850+ team members, we focus on long-term cooperation with our people providing them with the opportunity to learn, grow, develop, and stand out not only in their profession but also outside of it. We are one of the fastest-growing private companies in America by Inc. 5000, and on the list of 100 Best Global Outsourcing Providers by IAOP, have TikTok with over 10m views, and 10+ lifestyle communities by interests. Get on board and unlock your potential with us!
+WHAT MAKES THE PROJECT STAND OUT
+WHAT MAKES THE PROJECT STAND OUT You will take part in building and automating our SaaS infrastructure, continue improving developers and operations productivity and reduce time to deliver, by building self-service tools and using industry standard and company`s core technology.Our vision is to offer end-to-end exchange infrastructure that extends upstream and downstream to integrate with EMSs and OMSs, engage risk and reg tech firms, and also flows down into post trade, custody and settlement irrespective of asset class.WHAT WILL YOU GETAttractive compensation pegged to the U.S. dollar with full benefits package.Modern hardware setup.Individual development plan, career coaching, and Mentorship Program.Investment in your professional growth: workshops, webinars, training platform, and edutainment events.Global certification preparation program (AWS, ISTQB, Unity, Scrum, etc.), and comprehensive online courses on Udemy, Educative, Pluralsight, edX.Flexible working mode in hybrid teams with high-skilled peers.Opportunity to work from home or from anywhere with our Relocation Support Program.Open-door culture, simplified processes, transparent communication, and top management at a handshake distance.Private health insurance, paid maternity/paternity leave, sick leaves, vacation, and holidays.Online workouts with fitness coaches & community enrollment in activities such as sports, yoga, chess, mindfulness, etc..English classes and public speaking club to boost your language and presenting skills.Virtual team buildings, social activities and occasional gifts to celebrate Innovecs lifestyle.Here at Innovecs, we promote equal opportunities and embrace diversity in our teams in terms of work experience, area of expertise, culture, religion, gender, and ethnicity. We are committed to building a tight-knit, team tradition-loving community that represents a variety of backgrounds, perspectives, and skills.There are no limitations, no barriers when the right people are on your way — apply for the vacancy and succeed with us!
+Sector(s):
+IT Development
+Programmer, Developer
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Középiskola
+Bruttó fizetés
+5 000 - 6 000 USD havi bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Juttatások
+Szakmai tréningek
+Nyelvtanulás támogatása
+Egészségbiztosítás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Innovecs Hungary Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Számítógépes programozás
+0-10 munkavállaló
+2022
+1134
+Budapest,
+Váci út 45. F. ép. 7. em.
+Munkahelyi extrák
+Céges rendezvények
+Sportolási lehetőség
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

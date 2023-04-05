@@ -1,0 +1,59 @@
+ÁLLÁSHIRDETÉS FELADÁS
+SOFTWARE FEJLESZTŐ 
+Feladatok:
+		Szoftverfejlesztés és szoftverdizájn,
+		Új szoftverfunkciók fejlesztése,
+		Szoftver hibák rögzítése és javítása,
+		Ügyfél specifikációk elemzése,
+		Szoftver specifikációk kidolgozásában való részvétel,
+		Modul és integrációs tesztek végrehajtása,
+		Szoftverfejlesztéshez kapcsolódó dokumentáció elkészítése,
+		Felhasználási esetek kidolgozása és modellezése a fejlesztő csapattal együttműködve.
+Elvárások:
+		Főiskolai vagy egyetemi végzettség (elsősorban IT, Közlekedésmérnöki vagy Villamosmérnöki területről),
+		Legalább 1-3 év fejlesztői gyakorlat objektumorientált programozási nyelven (preferáltan C programnyelv),
+		Use case elkészítésében szerzett tapasztalat,
+		Hagyományos (Waterfall, V-modell, CMMI) és/vagy agilis fejlesztési módszertanok ismerete,
+		Hajlandóság procedurális, erősen típusos nyelveken való fejlesztésre,
+		Szoftverminőség biztosítási eszközök ismerete,
+		Verziókezelő rendszerek ismerete,
+		Hibakezelő rendszerek ismerete,
+		Szisztematikus megközelítés a tesztesetek írásánál, átfogó és nem eseti probléma analízis,
+		Kommunikációképes angol nyelvtudás szóban és írásban egyaránt.
+Előnyök:
+		Legalább alapszintű vasúti ismeretek, tapasztalatok biztosító- és jelzőberendezések terén,
+		Programozási nyelvek (CHILL vagy PASCAL),
+		Szoftverminőség biztosítási eszközök ismerete (Checkstyle, GCov),
+		Verziókezelő rendszerek ismerete (ClearCase),
+		Hibakezelő rendszerek ismerete (JIRA),
+		Német nyelvtudás.
+Juttatások:
+		Megbízható, stabil vállalati háttér,
+		Dinamikus, összetartó csapat,
+		Izgalmas projektek,
+		Folyamatos szakmai fejlődés lehetősége,
+		Kiegyensúlyozott munkakörnyezet.
+ Munkavégzés ideje: Hétfőtől – péntekig rugalmas munkarend (heti 40ó)
+ Munkavégzés helye: Győr
+ Amennyiben a pozíció felkeltette érdeklődését, a JELENTKEZÉS gombra kattintva adhatja le jelentkezését, angol és magyar nyelvű önéletrajz csatolásával.
+Jelentkezem
+Elmentem az állást
+SOFTWARE FEJLESZTŐ 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Győr-Moson-Sopron 
+Teljes munkaidős 
+Frissítés dátuma: 04.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ JAVA FEJLESZTŐ 
+ Győr-Moson-Sopron megye  
+ Frontend fejlesztő 
+ Budapest  
+ SENIOR SOFTWARE ENGINEER 
+ Senior JAVA Fejlesztő 
+ Budapest  
+ .NET FEJLESZTŐ 
+ Pest megye  

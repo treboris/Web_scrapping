@@ -1,0 +1,78 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+TEST AUTOMATION ENGINEER WITH PYTEST állás Budapest
+C++
+Python
+Java
+Szoftverfejlesztő állások 
+Partnerünk a világ egyik vezető IT szolgáltató vállalata, amely támogatja ügyfelei üzleti, működési és technológiai modelljeit. A cég bővülés miatt most új, izgalmas lehetőséget kínál egy IT tapasztalattal rendelkező jelölt számára az alábbi munkakörben:Test Automation Engineer with PytestFeladatok:- Automatizált teszt script ciklusok tervezése, fejlesztése, végrehajtása és karbantartása, valamint jól strukturált teszttervek készítése.- Software product requirements felülvizsgálata és finomítása, valamint tesztesetek tervezése, fejlesztése és végrehajtása, nagy hangsúlyt fektetve a teszt scriptek automatizálására a tesztelési ciklus lerövidítése érdekében.- Automatizált tesztesetek készleteinek létrehozása, javítása és végrehajtása az újonnan integrált funkciókhoz, automatizálva az eszközök és böngészők között.- A tesztelési hibák elemzése, hibaelhárítása és dokumentálása, valamint a fejlesztőkkel való együttműködés a problémák elhárítása/megoldása érdekében.Elvárások-Legalább 1 év gyakorlati tapasztalat a Pytesttel.-A szoftvertesztelési módszerek és tesztelési technikák (Grey Box és Black Box) alapos ismerete.-Programozási készség Python (Pytest), Java vagy kapcsolódó objektumorientált nyelvek használatában, automatizált tesztelési scriptek fejlesztéséhez.- A Selenium és az Appium ismerete.- CI/CD pipeline fejlesztése.Amit a vállalat kínál:-Multinacionális környezet-Versenyképes fizetés és cafeteria csomag-Karrier lehetőségek: feljebb lépési lehetőség, új területek megismerése-Magán egészségbiztosítás-Széles körű képzések, több mint 1000 tréning-lehetőség-Szabadidőszoba-Ingyenes edzőtermi bérlet és közösségi rendezvények 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Jelentkezés
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Fox HR Consulting Ltd. 													
+Budapest
+Teljes Munkaidő
+ Szoftverfejlesztő
+Lejárati dátum: 2023-05-03
+Álláshirdetés részletei
+PozícióTEST AUTOMATION ENGINEER WITH PYTEST
+Munkavégzés helye
+Budapest
+MunkaidőTeljes Munkaidő
+KategóriaSzoftverfejlesztő
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

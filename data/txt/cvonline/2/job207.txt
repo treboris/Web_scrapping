@@ -1,0 +1,59 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Fullstack Developer (Java,Angular) 
+Scientific Games Kft. has more than 40 years of research and development in the field of lottery systems made our company a worldwide leading supplier of lottery products.
+As a global lottery company, Scientific Games is an exciting place to work. We drive innovation, champion groundbreaking ideas and bring meaning to work every day. With more than 190 employees in Budapest, currently serves more than 400 customers on six continents today. We have opportunities for everyone.
+If you want to:
+participate in developing the new generation lottery software system in Java/JavaScript
+support our cross-platform front-end application
+further develop your Angular knowledge
+come to us as our new Software Developer
+The following CHALLENGES await You:
+Development of our Lottery and Retailer Management Platform ‘gem | Suite’ in Java, JavaScript, OutSystems or Crystal Reports
+Architecture, design, implementation and testing in an agile environment (Scrum, Kanban, SAFe)
+Implementation of new architecture principles in the new software generation
+JOIN US, if:
+You have completed education in computer science or IT
+You can share us some details about your knowledge in either Angular, JavaScript, Java, OutSystems or with CrystalReports and you can prove it with experience of minimum 3 years
+You have knowledge of best practices (security, design patterns, responsive design, test frameworks, continuous integration and deployment)
+You have the following strengths: personal initiative and engagement, high level of quality awareness, accuracy and team spirit in a distributed, international team
+You would like to use your excellent English on a daily basis as part of a remote team
+Advantageous for the position:
+experience in DevOps or with MS-SQL Databases
+experience with Crystal Reports
+experience with Test Automation in a Web Environment
+If you CHOOSE US, we can offer:
+Competitive payment package (13. and 14. months salaries, Home Office package)
+Cafeteria and Health insurance
+Mentoring Program, Trainings
+Flexible work schedule
+Downtown office, in the heart of Budapest, at the foot of Buda castle (easily accessible by public transport)
+Indoor bike and motorcycle storage
+Recreation room: table soccer, darts and sauna
+Team buildings
+Excellent working atmosphere
+Open company culture
+Economically stable and growing enterprise
+Non-conventional domain: lottery and sports games
+Scientific Games Kft.
+Jelentkezem
+Elmentem az állást
+Fullstack Developer (Java,Angular) 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 31.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Java, Angular Developer 
+ Budapest  
+ Software Engineer (Angular/JS/Java) 
+ Budapest  
+ Java/Angular Developer 
+ Budapest  
+ Medior Fullstack Developer - Java/Angular 
+ Budapest  
+ Senior Fullstack Developer (Java/Angular) 
+ Budapest  

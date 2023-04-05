@@ -1,0 +1,48 @@
+ÁLLÁSHIRDETÉS FELADÁS
+.Net developer 
+Legalább 3-5 éves tapasztalattal rendelkező .NET fejlesztőt keresünk meglévő rendszerek továbbfejlesztéséhez, valamint új rendszerek fejlesztéséhez.
+Feladatok: 
+Meglévő alkalmazások támogatása, továbbfejlesztése
+Új rendszerek fejlesztése
+Elvárások: 
+Legalább 3-5 éves .NET/C# tapasztalat 
+ASP.NET/.NET Core, SQL ismeretek
+Többrétegű/nagy rendelkezésre állású/elosztott alkalmazások fejlesztése 
+Objektum-orientált szemléletmód 
+Önálló munkavégzés 
+Jó problémamegoldó képesség
+Csapatmunka
+Előny: 
+Microsoft SQL Server ismerete 
+Verziókezelő rendszer ismerete (pl.: GIT)
+WCF, Entity Framework (vagy más ORM) használatában szerzett tapasztalat
+Fullstack fejlesztő: HTML, CSS, JavaScript, TypeScript, Angular használatában szerzett tapasztalat
+Amit kínálnak:
+Biztos hazai tulajdonosi háttér
+Versenyképes kompenzációs csomag
+Támogató kollégák, jó hangulatú csapat, fejlődés lehetősége
+Home office lehetőség
+Önálló, felelősségteljes munkakör
+Változatos projektek
+Jelentkezem
+Elmentem az állást
+.Net developer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 01.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Junior .NET developer 
+ Budapest  
+ C# Developer 
+ Szeged  
+ C ++ developer 
+ Budapest  
+ .NET DEVELOPER 
+ Pest megye  
+ IT Architect (.NET) 
+ Budapest  

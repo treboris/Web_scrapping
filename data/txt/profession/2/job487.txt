@@ -1,0 +1,99 @@
+Belépésálláskeresőknek
+IT Operation, Telecommunication
+Network and System Engineer
+Budapest
+Következő 
+MLOps Engineer
+Bónusz
+aiMotive Kft.
+Budapest
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+aiMotive Kft.
+MLOps Engineer
+Our automated driving SW stack aiDrive will be deployed to millions of production vehicles in the upcoming years, thanks to our recently announced OEM partnership. In the course of this development journey, you will be able to impact and witness the creation of state-of-the-art automated driving applications on highways, interurban and urban areas, as well as parking situations, using the latest automotive sensor technologies and advanced machine learning algorithms. All this will be supported by fleet data at scale, paired with our unique data pipeline and infrastructure as provided by aiMotive’s aiData. 
+Development of automated driving perception systems requires training and validation of neural networks on large-scale datasets containing millions of recording snippets using petabytes of storage. As an MLOps engineer you will work closely with AI research scientists to help them perform experiments quicker and more efficiently. You will design and maintain systems for the machine learning pipeline from data processing to experimentation, model training, and deployment of models to the vehicles running on multiple continents. 
+Job Summary
+Automate and deploy the training and evaluation of machine learning models on local workstations, local cluster, or cloud solutions Monitor and optimize the entire ML development lifecycle (data management, training progress, model version control, etc) Maintain internal tools that help the development Cooperation with researcher and developer colleagues 
+Key Requirements
+BS, MS, or PhD in Computer Science, Software engineering, or related field  Strong Python programming and software design skills  Good understanding of networking, storage, and authentication concepts Experience with building Docker images  Experience with building and maintaining applications and services in Jenkins / Kubernetes  Ability to work independently and systematically 
+Considered as a plus
+Programming in C++ Experience in Linux  Experience with public cloud providers (e.g.: AWS, Azure) Experience in machine learning and data analysis  Experience in deep learning frameworks (Pytorch/Tensorflow) Experience with data visualization 
+What We Offer
+Competitive salary and long-term bonus systemFitness opportunities Free lunch every workday at one of the best all-you-can-eat restaurants in Budapest Work on the hottest applied research problem in an agile working culture, backed by a strong, stable and future-proof industrial partnership Develop solutions for one of the largest car manufacturer with a global reach Test your solution in realistic simulated scenarios and a fleet of cars across multiple continents every day Be proud of seeing the impact of your solution on the road Visit relevant international conferences, submit patents of new solutions We believe: people over process, we are keen to maintain a work-life balance 
+Sector(s):
+IT Operation, Telecommunication
+Network and System Engineer
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+aiMotive Informatikai Korlátolt Felelősségű Társaság
+Tudományos, műszaki tevékenység
+●
+Egyéb természettudományi, műszaki kutatás, fejlesztés
+100-250 munkavállaló
+2015
+1025
+Budapest,
+Szépvölgyi út 22.
+Értékelések a(z) aiMotive Kft. cégről
+4,3
+12 értékelés alapján 
+Értékelések kategória szerint 
+4,4
+Bérezés és juttatások 
+4,3
+Munkaidő és munkarend 
+3,9
+Főnökök 
+3,8
+Fejlődési, előrelépési lehetőség 
+4,3
+Munka és magánélet egyensúlya 
+4,5
+Kollégák és céges hangulat 
+4,4
+Megközelíthetőség 
+4,8
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+92%
+Ajánlaná ismerőseinek 
+Biztosítják a munkaeszközöket 
+Változatos, izgalmas 
+Jó célért dolgozni 
+Összetartó csapat 
+További előnyök  
+További vélemények 
+Munkahelyi extrák
+Sportolási lehetőség
+Ingyen ebéd
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

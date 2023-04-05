@@ -1,0 +1,84 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Java developer (Budapest)
+Java developer (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+projektmunka
+angol - középfokú
+ Java developer
+As a Java Developer you will evelop and maintain applications and enterprise solutions for our clients located in Germany and globally. You will develop applications from scratch, implement change request fixes for bugs and new enhancements, and develop enterprise delivery pipelines. Would a position in DevOps and Full-Stack sound appealing to you? 
+Feladatok:
+You will be part of our international team and will make contributions that will build customer value by creating modern, state-of-the-art end-user experiences. The teamwork is agile so there will be a lot of direct interactions. You will be in touch not only with your other team members locally but also with representatives of the customer and a variety of external teams globally. 
+Our client is launching several new projects in Hungary focusing on delivering solutions to their clients. 
+They are among the largest IT and business consulting services firms in the world. They are insights-driven and outcome-based to help accelerate returns on IT and business investments.
+In all they do, their goal is to build trusted relationships through client proximity, providing industry and technology expertise to help meet the needs of customers and citizens. 
+Elvárások:
+Java, JEE, Spring Framework;
+Architecture Styles: Micro Services, SOA;
+Communication Technologies: Rest, Swagger, SOAP, JMS, Kafka;
+Databases: Oracle DB, Hibernate, JPA;
+Testing: Junit, Mockito, AssertJ, Selenium;
+CI/CD: Jenkins, Git, Gitlab, Jira;
+Modeling: UML;
+Monitoring: Splunk, Prometheus, Elastic Search;
+IDE: Eclipse;
+Cloud: AWS, EC2, Docker, Openshift
+Amit kínálunk:
+Long-term opportunity within a fast growing company
+Supportive culture
+Home office 
+Competitive salary
+Munkavégzés helye: 
+Budapest 
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+EasyHiring Services Kft. -
+Java full-stack developer (with DevOps)
+EasyHiring Services Kft. -
+Mobilfejlesztő
+EasyHiring Services Kft. -
+PHP backend fejlesztő - Telco szektor - 11. ker, Remote munkavégzés!
+Randstad Hungary Kft -
+Java Developer
+Deutsche Telekom IT Solutions -
+Web application developer (REF1266O)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Pécs
+Szeged
+Győr
+Kecskemét
+Székesfehérvár
+Miskolc
+Tatabánya
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

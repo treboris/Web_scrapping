@@ -1,0 +1,76 @@
+Jobs by email
+Bosch Gruppe
+DevOps Engineer for AI Technologies (f/m/div.)
+Stuttgart
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 22 hours ago
+Show salary
+Easy apply
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Robert Bosch GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Stuttgart
+Your tasks
+As DevOps Engineer you design, build and run new systems and services in the area of AI Technology and Engineering, as well as design, set up and maintain monitoring, metrics and reporting systems for fine-grained observability and actionable alerting.
+While working embedded in a team or support in short-term consulting engagements and applying core SRE principals and practices, you support the program lead in shaping the strategic portfolio of CI services.
+Part of your work entails organizing / leading technical Readiness Reviews for an IT product or solution; designing and realizing monitoring / dashboard visualizations (e.g., Error Budgets) and, as needed, conducting Blameless Postmortems.
+You design and help realize Technical Automation and Support Distributed IT Systems with advanced, technical troubleshooting skills and further coach teams on a variety of SRE practices.
+Lastly, you influence architectural decisions to improve solution reliability, scalability, performance, and security and provide go/no-go authority for deployments proceeding into production.
+Your profile
+Education: completed university degree in Computer Science, Information Technology, Engineering, Natural Science or related fields
+Personality: resilient, team-oriented
+Working Practice: initiative, goal-oriented
+Experience: experience in modern IT service deployment tools and/or Infrastructure-as-code approaches (e.g. Terraform, Ansible), in public cloud technologies (e.g. Azure DevOps pipelines) and containerization (e.g. Docker, OpenShift, Kubernetes); experience in software development in at least one major programming language (e.g. Python)
+Knowledge: knowledge of foundational SRE practices; good understanding of approaches and challenges in AI development and MLOps; basic understanding of ITIL/IT Business Process Management; technical understanding of core infrastructure components; knowledge of pipeline developments (CI/CD)
+Enthusiasm: high-level software programming as well as general scripting skills; personal and technical leadership skills that can reach across teams to organize postmortems and achieve long-term resolutions
+Languages: good English and German
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Borsigstraße 4, 70469 Stuttgart, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

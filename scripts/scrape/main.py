@@ -1,12 +1,15 @@
-from one_by_one_scrape import *
+from modules.one_by_one_scrape import *
+import modules.tools as tools
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 import pandas as pd
 import requests
 import os
 
-web_pages = ['profession' ]
-initial = 1
+web_pages = ['cvonline','itpeople','jobline','professia','profession','stepstone']
+initial = tools.initial()
+
+
 
 #WEBSCRAPING JOBS ONE BY ONE
 

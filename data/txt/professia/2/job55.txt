@@ -1,0 +1,107 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceWeb Apps Developer 
+Web Apps DeveloperKROS a.s.
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+1 400 - 3 000 EUR/mesiacReálna odmena je na dohode na základe tvojich skúseností a schopností. U vývojárov na seniorskej úrovni aj možnosť práce na živnosť.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiRád kódiš a si telom i dušou vývojár? Chceš vyvíjať novú generáciu krosáckych appiek v top webových technológiách? Púšťame sa do prechodu našich aplikácií na web, je to výzva, no v našom tíme určite aj zábava :-).
+Čaká ťa:
+•	Angular, .NET core, Azure Cloud, DevOps
+•	zaujímavé webové projekty
+•	databázy na MS SQL serveri5 ovplyvňovať veci
+•	podieľanie sa na návrhu a realizácii riešení
+•	štúdium a zlepšovanie sa v tom, čo ťa baví priamo počas pracovnej doby – sám si vyberieš školenia, kurzy či konferencie, ktoré ťa budú posúvať vpred
+Krosáci vývojári o svojej práci hovoria:
+"Robíme softvér a softvér je fajn :). Aktuálne (v minulosti to tak nebolo) robím 90% vecí, ktoré ma bavia. Aj systém práce s možnosťou home ofisu mi veľmi vyhovuje, šetrí mi neskutočné množstvo času a stresu (cestovanie do ZA) a uľahčuje mi súkromný/rodinný život." Zamestnanecké výhody, benefityPýtaš sa, čo (okrem výplaty) za to?
+•	flexibilný pracovný čas, ktorý poteší, najmä ak nie si ranné vtáča
+•	možnosť časť týždňa pracovať z domu
+•	firemná kultúra, kde platia dohody a zamestnanci sú na prvom mieste
+•	super kolektív a práca, do ktorej budeš chodiť fakt rád
+•	možnosť prinášať inovácie, stať sa členom tímu na zaujímavých projektoch a rotovať v rámci firmy
+•	možnosť vydýchnuť si aj počas pracovnej doby – poleňošíš si v hojdacej sieti v našom RELAX ROOM-e, prebehneš sa na firemnej kolobežke alebo dáš zápas s kolegami v kalčete
+•	teambuildingy, párty, chaty, lyžovačky a iné super akcie so skvelými ľuďmi
+•	sociálny program s reálnymi výhodami a benefitmi (SICK DAY, zdravotná starostlivosť, príspevky na kultúrne a športové vyžitie a mnoho ďalšieho)
+Krosáci o prostredí v práci hovoria:
+"Mám možnosť robiť to čo ma baví - programovať. Pracujem so skvelými ľuďmi, výborným tímom a viem, že sa môžem s akýmkoľvek problémom (aj mimopracovným) obrátiť nielen na najbližších spolupracovníkov, ale aj nadriadených, príp. i vedenie firmy. Som vďačný za flexibilný pracovný čas ako i možnosť HomeOffice. V KROSe som šťastný :-)." Informácie o výberovom konaníAk máš záujem uchádzať sa o pracovnú pozíciu, pošli nám svoj životopis. Budeme radi, ak pripojíš aj motivačný list, prípadne video.
+Na termíne nástupu sa vieme dohodnúť. Po nástupe dostaneš od nás plnú podporu a zaškolenie, nebudeš na to sám. Ak na sebe budeš pracovať, firma ti to vráti ;)
+Všetkým uchádzačom ďakujeme za prejavený záujem! Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreinformačné technológie, vývoj softvéruJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiC# - Základy.NET - ZákladyJavaScript - ZákladySQL - PokročilýPozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnostiAko správny kóder by si mal mať:
+•	programovanie v krvi
+•	poriadnu dávku analytického a algoritmického myslenia 
+•	tímového ducha – samostatná práca sa síce cení, ale spoločne toho zvládneme viac
+•	skúsenosti s vývojom webových aplikácií v ASP.NET, angular2+  (sú pre Teba plusom, ale nie nevyhnutnosťou) Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme firma plná priateľských vzťahov pretkaných vzájomným rešpektom, dôverou, chuťou posúvať svet vpred a spolupracovať. Dlhé roky sme lídrom v oblasti ekonomického, stavebného a znaleckého softvéru na Slovensku. Od roku 1995 nám dôveruje viac ako 95 000 zákazníkov. 
+Vo "firemnej rodine" nás je cez 250 a stále máme rovnakých slovenských majiteľov, ktorí sú s nami od začiatku. Kros nikdy nespí. Neustále hľadáme nové biznisové príležitosti na trhu, modernizujeme technológie a agilný prístup, presúvame produkty do cloudu a mobilných zariadení. Spolu s majiteľmi chceme vytvoriť 100 ročnú “happiness driven company”.
+Žijeme hodnotami: Práca nás baví, Sme KROS family, Máme výnimočné výsledky. Počet zamestnancov200-249 zamestnancov KontaktKontaktná osoba: Ing.  Monika SchestágováTel.: +421915983441E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4086308 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Žilina   Pozícia: .NET programátor, C# programátor, Javascript programátor, Programátor, Softvérový inžinier   Spoločnosť: KROS a.s.   
+Základná zložka mzdy (brutto): 1 400 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,76 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Frontend Architect 
+Your new company
+Our Partner is an industry-leading cheminformatics software company helping early-stage drug discovery and chemistry research for more than 20 years. Our clients are top pharmaceutical companies, innovative biotech startups, and leading academic institutions. 
+We are agile, innovative and friendly, offering compelling opportunities for frequent collaboration and cross-training with teammates and stakeholders. We operate internationally, with regional teams based in Budapest (HQ), Prague, Boston, San Diego and Basel (Switzerland), along with distributors in the Asia Pacific. We are in an exciting time of organizational and business growth, so now is the perfect time to join our team! 
+Your new role
+We are looking for a Frontend Architect who is a senior technology expert and can be a great addition to our Architect team. You would be a key contributor of Platform Architecture and Technology Vision specialized in front-end technologies. By the time you are going to be the expert of the cheminformatics domain and you will gain a deep and wide knowledge of frontend technology used at our partner, so your scope will be a broad and impactful one.
+Designing the architecture of a modular, extensible front-end framework to realize the consistent UI and UX of x platform applications.
+Close collaboration with the UX team on defining requirements and goals
+Architectural supervision of the teams developing components or products with front-end elements to ensure consistency and alignment with the common architecture.
+Technology alignment of development teams in line with the company standards and goals. Execute common technical decisions
+Ensure the alignment with company security standards
+Defining architecture and technical guidelines in accordance with and technology strategy
+Give technical advice or guidance to the development teams
+Represent the front-end aspects in technical discussions, in particular, raise awareness of technical needs of the front-end development
+Contribute to company-level technology strategy
+Giving or organizing training, presentations and other knowledge sharing events
+Create technical specifications, white papers and other technical material that can be used to help sales or improve customer experience
+Research difficult problems and evaluate emerging technologies to shape the long-term technology roadmap
+Partner Product Managers and Product Directors with technical advice
+Promote a strong, positive engineering culture within the group
+To be a role model of Developers, demonstrating x values
+What you'll need to succeed
+Deep understanding of software craftsmanship, hands on experience in software development
+Solid understanding of software architecture concepts In particular, knowledge of:
+UI and frontend development
+UI, frontend and related technologies (JavaScript, TypeScript, CSS, HTML, XML, Angular, React, NodeJS etc.)
+Microservice architecture
+Micro-frontend architecture
+Cloud computing
+Web services
+Web applications
+Asynchronous architectures
+High availability and scalability concepts
+Multi-tenant applications
+Infrastructure as code
+Strong English language skills (both written and spoken)
+Bonus skills that will help you hit the ground running
+Strong communication and presentation skills
+Strong interpersonal skills
+Strong leadership skill, the ability to influence people
+Ability to coach and mentor others
+Analytical skills, system thinking
+What you'll get in return
+Hybrid-way of working (8 days/month home office)
+Private health insurance (Medicover)
+Generous annual training budget supporting your professional development (off-site training, international conferences, e-books)
+We work with global Top500 companies (R&D) and leading academic institutions, giving you a chance to gain insights into these dynamically evolving industries.
+Inspiring working environment - leisure and recreation area, playing corner for children, English lessons, yearly user conference with social programs, innovation days 
+You will be a valued member of a creative and supportive agile team 
+Everyday use of English in a multicultural environment
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+Frontend Architect 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 04.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Frontend Software Engineer 
+ Budapest  
+ Frontend Developer 
+ Budapest  
+ Solution Architect 
+ Budapest  
+ DWH (MicroStrategy) Architect 
+ Budapest  
+ Data Architect 
+ Budapest  

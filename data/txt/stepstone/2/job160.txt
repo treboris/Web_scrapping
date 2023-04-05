@@ -1,0 +1,50 @@
+Jobs by email
+MediaMarktSaturn Technology
+Cyber Security Engineer (m/f/d) Network Security
+Stuttgart, Düsseldorf, Ingolstadt, Frankfurt, Leipzig, Hamburg, Berlin, Köln, München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+About us
+At MediaMarktSaturn, "Let's Go!" is not just a slogan, it is an attitude. We love technology and we want to excite. We have fun and want to inspire. Our customers and our teams. That's why we are looking for people who share this spirit. People who are passionate about creating the shopping experience of the future together with 50.000 colleagues across Europe.
+MediaMarktSaturn Technology is working to make Europe's number-one consumer electronics retailer the technology leader in its industry. To this end, several hundred developers, UX designers and system architects using state-of-the-art technology work hand in hand with business owners in agile teams to develop customer-focused technology solutions for more than 6 million customers every day in 13 countries. 
+The Network Engineer / Security Engineer (m/f/d) will support the implementation, maintenance, and integration of the corporate WAN, LAN and server architecture. He will also be responsible for implementation and administration of the network security hardware and software, enforcing the network security policy and complying with requirements of external security audits and recommendations. 
+Your tasks
+Performing analysis of network security needs and contributes to design, integration, and installation of hardware and software
+Maintaining and administering perimeter security systems such as firewalls and intrusion detection systems
+Maintaining LAN, WLAN and Security architecture as per the business policy
+As a precautionary measure, analyze and implement new security protocols for greater efficiency against any threat or malfunctions
+Resolving the existing security issues in terms of Networks
+Reporting the security analysis of findings
+Investigations of Security breach alert
+Maintaining & implementation of the SOP for Network security
+E-Mail Security
+Status reports of hardware and software products as per designated policies
+Recommend modifications in legal, technical and regulatory areas that affect IT security
+Knowledge of performing routing protocols (MPLS, HAIPE/IP, QOS and WAN)
+Monitoring of web security gateways, perimeter security, network access controls
+Requirements
+Must display Enthusiasm and interest in Information Security and draw recommendations based on real world experience
+Several years of experience in Network Security, including experience with security principles, role-based security approach
+Bachelors' degree or equivalent work experience and/or certifications like, Cisco CCIE Security, Juniper Networks JNCIE Security, Palo Alto Networks Certified Network Security Engineer (PCNSE)
+Hands on experience designing, building, deploying, and administering complex networks in terms of security
+Strong security experience related to concepts of least privilege, network access controls and network segmentation
+Ability to communicate and collaborate effectively with other team members in a geographic and culturally diverse workforce
+Strong sense of professionalism and ethics
+Benefits
+Passion for Technology in Retail! As part of open and dynamic teams, you are developing solutions for Europe's largest consumer electronics retailer. Alongside challenging tasks with latest technologies, we are offering various benefits as well as flexible working time and possibilities for personal development. As part of the Future Technology Lab you are building the future of retail and services.
+You want to be part of an innovative, dynamic environment in Consumer Electronics Retail? Join our agile teams! Thanks to our flexible workplace models, you have the opportunity to work in one of our locations in Ingolstadt / Munich and remotely. At the same time, we are building up our ""Regional Tech Offices"" in the metropolitan regions of Berlin, Düsseldorf,  Frankfurt, Hamburg, Cologne, Leipzig and Stuttgart.
+Are you interested? We are looking forward to your application including the location where you would like to work!
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

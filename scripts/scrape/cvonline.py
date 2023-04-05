@@ -3,21 +3,20 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
-
 from bs4 import BeautifulSoup
-from datetime import date
+from datetime import datetime
 from tqdm import tqdm
-from Data import Save
+from modules.Data import Save
+import modules.tools as tools
 import pandas as pd
 import time
 import requests
 import re
 import os
 
+initial = tools.initial()
+exists = tools.f_exists('cvonline',initial)
 
-
-print("CVONLINE.hu-scrapper STARTED")
-start_time = time.time()
 date = datetime.today().strftime('%Y-%m-%d')
 
 options = Options()
@@ -31,6 +30,7 @@ datee =[]
 corp = []
 main = []
 id = []
+
 
 #CONNECTION
 def conn(limit_txt,limit):
@@ -65,15 +65,17 @@ for limit in tqdm(range(max_page_number)):
         corp.append(span.text)
 
     job = fblock.find_all('div' , class_= 'job__content clearfix')
+
     for element in job:
-        loc = element.find('div' , class_= 'location')
         try:
+            loc = element.find('div' , class_= 'location')
             for l in loc.find('span'):
                 location.append(l.text)
         except (AttributeError,TypeError):
-                location.append(None)
+            location.append(None)
 
 driver.quit()
+
 
 #ID DATE
 list_size = len(main)
@@ -83,4 +85,6 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-save_data = Save(f'cvonline3' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+#print(f'{len(location)}, {len(href)}, {len(datee)}, {len(corp)}, {len(main)}, {len(id)}')
+
+save_data = Save('cvonline', f'cvonline{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )

@@ -1,0 +1,54 @@
+ÁLLÁSHIRDETÉS FELADÁS
+.NET DEVELOPER 
+Rád váró feladatok:
+		Szoftver termékek- és rendszermegoldások fejlesztése
+		Követelmények, specifikációk kidolgozása
+		Együttműködés a Frontend és Backend fejlesztőkkel, valamint a tesztelőkkel
+		A SCRUM megbeszéléseken elvállalt feladatok elvégzése
+		Meglévő rendszerek működésének feltérképezése és hibajavítása
+		A fejlesztéshez kapcsolódó dokumentációk elkészítése angol nyelven, illetve ezek review-ja
+		Szükség esetén együttműködés a svájci fejlesztő és a menedzsment csapatokkal
+ Téged keresnek, ha ezeket hozod magaddal:
+		Felsőfokú szakirányú végzettség vagy annak megfelelő tudás
+Minimum 3 - 5 éves .NET/C# tapasztalat
+		Webes technológiák ismerete: .NET Core, C#, Entity, ASP.NET
+		Agilis módszertanban szerzett jártasság
+Jó írásbeli angol nyelvtudás
+		Proaktív, megbízható, csapatjátékos személyiség
+ Előnyt jelent:
+		Cloud fejlesztésben szerzett tapasztalat
+		Jártasság a felsoroltak bármelyikében: .NET 5, .NET 6, MS SQL, ASP.NET, REST
+ Mire számíthatsz náluk?
+		Változatos feladatok
+		Nagyfokú önállóság, kreatív alkotás, ötletelés
+Rugalmas munkaidő
+Alkalmazotti munkaviszony
+		Stabil, biztonságos munkahely a gyógyszeriparban
+Képzési lehetőségek
+ Munkaidő:
+		Rugalmas(heti 40 óra)
+ Munkavégzés helye:
+		13. Kerület: Capital Square Irodaház
+ Kattints az alábbi "JELENTKEZÉS" gombra és küldd el szakmai önéletrajzodat!
+Jelentkezem
+Elmentem az állást
+.NET DEVELOPER 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Pest 
+Teljes munkaidős 
+Frissítés dátuma: 04.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Medior .NET developer - Remote 
+ Budapest  
+ .NET FEJLESZTŐ 
+ Pest megye  
+ Mid .NET Full-stack Developer - Hybrid 
+ Budapest  
+ Medior .NET Full-Stack Developer (Budapest II./Hybrid) 
+ Budapest  
+ Senior Software Developer (C# /.NET ) (Remote/Budapest) 
+ Budapest  

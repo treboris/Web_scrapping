@@ -1,0 +1,56 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior DevOps Engineer (AWS) 
+Your new company
+In the IT Services area, they implement the best in class solutions in the Business 4.0 era to enable strong digital foundations for our customers worldwide. We are working with a wide range of technologies and programming languages. 
+Your new role
+Manage incidents on the core platform where other applications are running. Stability is key. 
+Depending on the nature of problems, you propose and implement solutions in collaboration with other teams. 
+You guide other teams so that they can be autonomous in the DevOps part of their applications.
+Scope of applications, some examples:
+>Orchestration and interfacing, including all object conversions, between a mathematical kernel and electrical vehicle charging stations, including the scheduling of processing tasks, monitoring, error handling, communication with other web services, communication with embedded devices
+>Industrial IoT data collection system, with monitoring, alerting and dashboarding features.
+>Industrialization end-to-end of an existing prototype, including a mathematical kernel and in collaboration with a math colleague, e.g., the estimation of the mechanical stress of a boiler based on historical data. 
+What you'll need to succeed
+AWS Cloud solution: AWS S3, CloudFront, EC2, EKS, KMS, EBS, EFS, RDS, SNS, SES, ELB, Route53 
+Ansible, Kubernetes, Docker 
+Redis, Kafka, MongoDB, InfluxDB, Elastic search, Nginx 
+NewRelic, Fluentd, Vagrant 
+Linux, Git, Gitlab, Gitlab CI
+Nice to have:  
+Knowledge of VirtualBox 
+Experience with OAuth2, OpenIDConnect 
+Knowledge of Python development is a plus 
+Familiarity with PyCharm, Conda 
+What you'll get in return
+Delivering services from Hungary since 2001, making us a perfect choice if you’re looking for stability. 
+We provide a wide range of benefits, including a market leading comprehensive private health care package. 
+We offer extensive self-development opportunities: our colleagues have a multitude of training possibilities for personal and professional growth. 
+There are both vertical and horizontal career options for those who like to challenge themselves and try out different areas and positions. 
+You will be part of a global and diverse working environment with relaxation areas, terraces, and a friendly atmosphere. 
+You can seize the day with us at our company events, hobby clubs, and sporting initiatives. 
+An attractive compensation package. 
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+Senior DevOps Engineer (AWS) 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 04.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Devops Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  
+ Devops Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  

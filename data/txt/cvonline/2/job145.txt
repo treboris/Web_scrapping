@@ -1,0 +1,47 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Teszt automatizáló gyakornok 
+A Jaguar Land Rover hosszú múltra visszatekintő, prémium autógyártó cég, melynek központja Nagy-Britanniában található. Meghatározó tagja a nemzetközi es a hazai autó piacnak, termekéivel egytől egyig a legmagasabb vevői igények kielégítésére fókuszál. A budapesti mérnöki iroda 2018 végén nyílt meg a belvárosban, csapata és portfoliója azóta is töretlen lendülettel bővül. Feladatok:
+ A teszteseteket definiáló mérnökök munkájának segítése web alapú tool fejlesztésével és karbantartásával 
+ A tesztelést végző mérnökök munkájának segítése különböző tesztautomatizációs tool-ok fejlesztésével és karbantartásával 
+ A csapat által használt verziókövető szoftverek rendeltetésszerű használata (Git)
+ Elvárások:
+ Aktív vagy passzív nappali tagozatos hallgatói jogviszony
+ Felsőfokú, aktív angol nyelvtudás (napi szinten kell majd használni)
+ MS Office ismeret (Word, PowerPoint és főként Excel)
+ Programozási alapismeretek (Főként Python programozási nyelv)
+  Munkaidő
+ Heti 20 órás munkavégzés
+ Hétfőtől péntekig rugalmasan
+  Amit kínálunk
+ Br. 2300 Ft/óra
+ Hosszú távú diákmunka
+ Szakmai fejlődési lehetőség
+ Multinacionális munkakörnyezet
+ Modern iroda
+ Hibrid munkavégzés
+ Előnyt jelent:
+ Verziókövető szoftverek alapszintű ismerete (pl. Git)
+ Bármilyen ismert tesztelés tesztautomatizálás területről (pl. Kyword Driven Testing)
+  Jelentkezés  Töltsd ki a lenti rövid űrlapot! Jelöld a profilodban a "Munkaidő" alatt, mikor tudsz dolgozni! Ha kérdésed lenne, keress a megadott email címen!
+Jelentkezem
+Elmentem az állást
+Teszt automatizáló gyakornok 
+Jelentkezem
+Elmentem az állást
+Mind-Diák Szövetkezet 
+Budapest 
+Szakmai gyakorlat, diákmunka 
+Frissítés dátuma: 01.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Kvalifikálási gyakornok 
+ Miskolc  
+ IT Biztonsági gyakornok 
+ Budapest  
+ Szoftvertesztelő gyakornok 
+ Budapest  
+ Tervező gyakornok 
+ Budapest  
+ Szoftverfejlesztő gyakornok 
+ Budapest  

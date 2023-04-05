@@ -1,0 +1,58 @@
+ÁLLÁSHIRDETÉS FELADÁS
+IoT BACKEND DEVELOPER 
+Feladatok:
+Innovatív, adatvezérelt alkalmazások fejlesztése Microsoft Azure-ben
+		A szolgáltatások teljesítményének és skálázhatóságának optimalizálása
+		Unit tesztek és integrációs tesztek fejlesztése
+		Együttműködés az adattudósokkal, és az általuk készített ML-modellek rendszerbe való integrációja
+		Sprint értekezleteken való részvétel és szoros csapatmunka
+ Módszertan: Scrum
+ Elvárások:
+		Min. középfokú végzettség informatikai területen
+2+ éves szakmai tapasztalat szolgáltatások tervezésében és fejlesztésében cloud platformokon, mint például a Microsoft Azure
+Tapasztalat a következő technológiák egyikében: Java, Kotlin, C#, Go
+		MQTT/Kafka és HTTPS fájlátvitel ismerete
+		A REST szoftverarchitektúra ismerete
+		Tapasztalat olyan fejlesztői platformokon, mint a GitHub és a GitLab
+		A következő Azure technológiák ismerete: Azure Functions, App Service, Event Hubs, IoT Hub, Azure Data Explorer, Application Insights
+		Tapasztalat a cloud platformok biztonságának és teljesítményének optimalizálása terén
+		Tárgyalóképes angol nyelvtudás szóban és írásban egyaránt (külföldi kollégákkal való napi együttműködéshez)
+ A pozíció betöltéséhez előnyt jelent, de nem feltétel:
+		Főiskolai vagy egyetemi végzettség informatikai területen
+		Német nyelvtudás (szóban és írásban)
+ Juttatások:
+		Pozícióhoz illeszkedő fizetés, teljesítményhez igazodó bónusz
+		Cafeteria
+Home Office lehetőség
+		Továbbképzési program, nyelvtanfolyamok
+		Stabil céges háttér és hosszú távú munkalehetőség
+		Kihívásokkal teli magas szintű szakmai tevékenység egy nemzetközi vállalatnál
+		Részvétel nemzetközi projektekben
+		Iskolakezdési támogatás
+		Céges óvoda lehetőség biztosítása
+A munkavégzés részletei: 
+		Munkavégzés helye: Budapest, XI. kerület
+		Munkaidő: Hétfőtől - péntekig, napi 8 óra (6.00 órától - 20.00 óráig rugalmasan alakítható, törzsidő: 9.00 és 15.00 között) (Hybrid - 3 nap home office hetente)
+ Amennyiben érdekli a meghirdetett pozíció, küldje el számunkra magyar és angol nyelvű önéletrajzát a JELENTKEZÉS gombra kattintva!
+Jelentkezem
+Elmentem az állást
+IoT BACKEND DEVELOPER 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 03.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ .NET DEVELOPER 
+ Pest megye  
+ Go Developer - Hibrid 
+ Budapest  
+ IoT Backend Developer 
+ Budapest  
+ ABAP Developer 
+ Budapest  
+ Mid .NET Full-stack Developer - Hybrid 
+ Budapest  

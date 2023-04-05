@@ -8,22 +8,22 @@ import time
 import os
 
 
-start_time = time.time()
+with open('../initial.txt','r') as file:
+    initial = int(file.read())
 
 text = ""
-initial = 1
 date = datetime.today().strftime('%Y-%m-%d')
-data = pd.read_csv(f'../data/profession/profession{initial}.csv')
+data = pd.read_csv(f'../../../data/profession/profession{initial}.csv')
 
 dataindex = data.index
 data_size = len(dataindex)
 href = data['Href'].to_list()
 
-def lost_data():
-    with open(f"../txt/itpeople/{initial}/job{x}.txt" , "w") as file:
+def lost_data(x):
+    with open(f"../../../data/txt/profession/{initial}/job{x}.txt" , "w") as file:
         file.write(text)
 
-for x in tqdm(range(85,data_size)):
+for x in tqdm(range(0,data_size)):
     cond = False
     url_piece = href[x]
     url = (f"{url_piece}")
@@ -32,9 +32,9 @@ for x in tqdm(range(85,data_size)):
         soup = BeautifulSoup(page.text,"html.parser")
         full_page = soup.body
         try:
-            with open(f"../txt/profession/{initial}/temp.txt" , "w") as f: #read&write
+            with open(f"../../../data/txt/profession/{initial}/temp.txt" , "w") as f: #read&write
                 f.write(full_page.text)
-            with open(f"../txt/profession/{initial}/temp.txt" , "r") as f:
+            with open(f"../../../data/txt/profession/{initial}/temp.txt" , "r") as f:
                 for line in f:
                     if(line.strip()):
                         if ('Belépésálláskeresőknek' in line):
@@ -44,29 +44,28 @@ for x in tqdm(range(85,data_size)):
                         if ('Értékelem' in line):
                             break
 
-
-
-            with open(f"../txt/profession/{initial}/job{x}.txt" , "w") as file:
+            with open(f"../../../data/txt/profession/{initial}/job{x}.txt" , "w") as file:
                 file.write(text)
             text = ''
-            os.remove(f"../txt/profession/{initial}/temp.txt")
+            os.remove(f"../../../data/txt/profession/{initial}/temp.txt")
 
         except (AttributeError):
-            lost_data()
+            lost_data(x)
             text = ''
     #TIMEOUT NO INTERNET CONNECTION
     except requests.exceptions.Timeout:
-        lost_data()
+        lost_data(x)
         text = ''
     #CAN'T CONNECT BAD URL
     except requests.exceptions.ConnectionError:
-        lost_data()
+        lost_data(x)
         text = ''
     #TIMEOUT NO INTERNET CONNECTION OR BAD URL
     except requests.exceptions.ReadTimeout:
-        lost_data()
+        lost_data(x)
         text = ''
     #TIMEOUT NO INTERNET CONNECTION OR BAD URL
     except requests.exceptions.ConnectTimeout:
-        lost_data()
+        lost_data(x)
         text = ''
+print('\a')

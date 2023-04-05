@@ -1,0 +1,76 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior DevOps Engineer 
+Senior DevOps EngineerKistler Bratislava, s.r.o.Place of work: Bratislava, Slovak RepublicWage (gross): 3 500 EUR/monthThis is a minimal guaranteed salary. The salary can be higher, it would depend on relevant skills and experience.Contract type: full-timeInformation about the position Job description, responsibilities and dutiesPurpose of the PositionThe DevOps manager acts as the right hand of the Head of Software Quality Assurance and supports the design of theKistler DevOps transformation. He is functionallyleading DevOps engineers, coordinating ongoing activities, and advocating DevOps principles at Kistlers main Software Hub in Slovakia and throughout the whole Kistler group. Main Tasks•    Support the design and maintenance of Kistler DevOps transformation strategy and roadmap•    Design and document infrastructure to be used by software development teams•    Design and document continuous monitoring concepts and leading its implementation•    Design and document infrastructure as code concept and consult its implementation•    Support and contribute to the implementation and maintenance of infrastructure used by software development teams•    Contribute to the implementation and maintenance of generic build pipeline stages and blocks•    Coordinate integration of quality and security aspects into build process and pipelines•    Advocate DevOps practices within Kistler and with its partners•    Provide guidance and consultancy for SW development teams in DevOps area•    Perform periodic DevOps adoption audits•    Coordinate DevOps related activities with internal ICT•    Implement and configure the tools to collect SW development metrics•    Continuously evaluate industry standards, tools and best practices in SW Development and DevOps area•    Participate on hiring new DevOps engineers   Employee perks, benefitsWhat you can expect from us   The way we work  Hybrid working model – home office up to 60% a week (based on the agreement with your team lead). We trust that you know how to organize your time to stay productive Regular performance review and career growth possibilities  Health & Well-being  Electric stand-up desk and ergonomic chair 100% salary reimbursement for 10 days of sick leave/caring for a family member  25 days of vacation for everybody  Recognition  Compensation of overtimes Compensation of travelling time in case of business trip (extra allowance) Flexible Benefit System - starting from 1000€ per year in the Benefit Plus portal - platform with thousands of suppliers of your choice, including Kistler specific offerings Attractive referral bonus     Extra contribution in significant life events – weddings and childbirths, rehousing Relocation bonus for employees who are moving because of Kistler (over 100 km)  Career & Development  Budget for education, certificates, trainings - 500 EUR/year Online English & German language courses Library, Online Educational Portals: Pluralsight, Safari books, LeanPub, Egghead Technology “sharing” groups, Coding Days  Social life  Team-buildings, Company breakfast, Christmas Party, Grill Party, Family/Kid’s day, Pizza Thursdays etc. Football table and board games in the office  Extra benefits  Special offers and discounts (Metro cards, SND, Curaprox etc.) On-site Joga or Pilates classes Great coffee, tea, fresh fruit  Information about the selection processInformation about the selection process Do you like it so far? Let us know, send us your CV. After receiving and reviewing your CV we will contact you for short telephone pre-screen. Following this, if successful, we will set up meeting with your future team leader and one of our technical specialist for more detailed discussion about your experience and motivation and to answer your questions about company and project itself. The final stage of the hiring process is meeting with head of Kistler Bratislava to get to know you better and align on the personal and position expectations. Our HR colleagues will be informing and guiding you through every step of this process. Good luck. We are looking forward to meeting you.Expected date of completion of the selection process8 April 2023 (there are still 4 more days) Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)Language skillsEnglish - Upper intermediate (B2)Number of years of experience5Personality requirements and skillsWhat we expect from you   Must have•    Extensive experience in field of DevOps, SW testing, SW development•    Experience with Git•    Experience with CI/CD (Jenkins, GitLab CI)•    Scripting in Python and BashNice to have•    Experience with Ansible, Terraform•    Experience with KubernetesPersonal qualities and soft skills•    Organized, good time management skills•    Fast learner, analytical and strategic thinking•    Good listening and requirement engineering skills•    Flexible, proactive and goal oriented  
+Kistler Bratislava, s.r.o.
+                                Ševčenkova 3770/34
+                                851 01 Bratislava – Petržalka
++421 2 32 272 653, Martina Helbichova, Recruiter
+Kistler Holding AG
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4535661 
+     Dátum zverejnenia:  9.3.2023 
+    2023-03-09
+lokalita: Bratislava   Pozícia: IT Tester, Process Engineer, Programmer, Software Engineer, Technical Manager   Spoločnosť: Kistler Bratislava, s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 3 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

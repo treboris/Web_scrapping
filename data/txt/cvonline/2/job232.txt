@@ -1,0 +1,41 @@
+ÁLLÁSHIRDETÉS FELADÁS
+SAP Hana Developer 
+Our partner offers end-to-end services from Business and Application Consulting, Architecture and Development Services, UI/UX Design and Implementation, Support and Maintenance to actual Service Outsourcing. With its proven track record of industry experience, they provides best practices on business process and application solutions. 
+Currently, We are looking for an SAP Hana Developer!
+Skills / Experience:
+Good working experience in SAP S4HANA systems Handson experience on SAP ABAP RICEFW, CDS and AMDP
+Hands on experience on SAP Fiori applications, including custom extension development and configuration for user roles, catalogs, and groups.
+Hand on experience in building interfaces to Non-SAP Applications leveraging RFCs, BAPIs, ALE/IDOC,ODATA and Web Services
+Hands on experience on SAP Enhancement techniques like EXITS, BADIS and new enhancement framework techniques
+Ability to articulate and clearly communicate complex problems and solutions in a simple, logical and impactful manner
+Responsible for delivering from offshore on time, on schedule, within scope and adopting industry best practice and quality
+Transform business function requirements into technical program specs to code, test and debug programs.
+Requirement:
+3+ years of experience required.
+The ABAP on HANA Application Developers would possess the knowledge of the following topics and apply them to bring in value and innovation to client engagements: SAP HANA Technical Concept and Architecture, Data Modelling using HANA Studio, ABAP Development Tools (ADT), Code Performance Rules and Guidelines for SAP HANA, ADBC, Native SQL, ABAP Core data Services, Data Base Procedures, Text Search, ALV on HANA, and HANA Live models consumption.
+Designing and developing, data dictionary objects, data elements, domains, structures, views, lock objects, search helps and in formatting the output of SAP documents with multiple options.
+Modifying standard layout sets in SAP Scripts, Smart forms & Adobe Forms
+Knowledge on ABAP Object Oriented Programming.
+Development experience in RICEF (Reports, Interfaces, Conversions, Enhancements, Forms and Reports)
+Jelentkezem
+Elmentem az állást
+SAP Hana Developer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 30.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SAP ABAP Developer - Specialist 
+ Budapest  
+ SAP developer 
+ Debrecen  
+ SAP PP supporter 
+ Budapest  
+ SAP BW/4HANA supporter 
+ Budapest  
+ Java Developer ( SAP-Commerce Back-end) 
+ Budapest  

@@ -1,0 +1,70 @@
+Jobs by email
+Airbus Group
+IT System Administrator (Linux)
+Manching bei München
+Permanent contract
+Full Time
+Published: 3 days ago
+Show salary
+Save
+A vacancy for an IT Administator (d/f/m) has arisen within Airbus Defence and Space in Manching.
+In Manching we develop high fidelity Aircraft Simulators. Our simulations are basically distributed realtime systems. For the development and operation we rely on a powerful, Linux based, self managed IT infrastructure. In order to take our Infrastructure to the next level, we are currently looking for an additional experienced IT Administrator. You will work in an international team of passionate Infrastructre Engineers at our site in Manching, Germany.
+You have the chance to directly shape the evolution of our infrastructure and our products. Being part of our Infrastructure Team means that you fully buy into a "Service Ownership" culture. You empower our Software and DevOps Engineers to take our products to the next level.
+Your location
+Located about an hour's drive north of Munich, Manching is an up-and-coming market town that offers a wide range of  leisure and cultural activities. Here, you can enjoy the quality of life in the countryside while the pleasures of near-by cities are still within easy reach.
+Your benefits
+- Attractive salary including holiday pay, Christmas bonus and profit sharing
+- 30 days holidays and extra days-off for special occasions
+- Excellent upskilling opportunities and great development prospects
+- Special benefits: employer-funded pension, employee stock options, discounted car leasing, special conditions for insurances, public transport subsidy, discounts at local businesses
+- On-site-facilities: Medical officer for check-ups and other health-related services, canteen and cafeteria, kindergarten nearby
+Your tasks consists of
+- Ensure the smooth operation of our IT Infrastructure (normal business hours)
+- Continuously revise and improve the reliability of our IT infrastructure
+- Take an active role in implementing an Infrastructure-as-Code paradigm across all our services
+- Maintain our internal IaaS Services and the underlying technologies (e.g. Proxmox, oVirt, Kubernetes)
+- Maintain our internal PaaS Services (e.g. Jenkins, Nexus)
+- Define together with our software developers innovative IT Infrastructure concepts for our next generation of Simulators
+- Coordinate closely with corporate IT services like ITSec, Networking
+We are looking for a candidate with the following skills and mindset:
+- Bachelor degree (or equivalent) in Computer Science or a related discipline
+- At least 5 years of professional experience in the operation and design of Enterprise IT Infrastructure
+- High Level of expertise in at least one or more related fields (e.g. virtualization, storage, automation...)
+- The urge to automate as much as possible
+- Experience with dynamic Povisioning and Immutable Systems
+- Solid Multi-Distro Linux Skills
+- Experience in one or more Scripting / programming languages (Python, Bash, C++, Go...)
+- Excellent English (negotiation level)
+- Proactivity is key
+Related Technologies
+- Virtualization (Proxmox, oVirt, KVM)
+- Infrastructure provisioning Tools (Ansible, Puppet)
+- The Hashicorp Toolstack (Terraform, Packer, Vault)
+- Container based Infrastucture (Docker, Kubernetes)
+- Storage Solutions (Ceph, GlusterFS, ZFS, Samba)
+- Monitoring (checkMK, Icinga, Prometheus)
+- Webserver (Apache, Nginx, HAProxy / Taefik)
+- Continuous Integration (Jenkins)
+- Authentication (LDAP, Active Directory, Kerberos)
+- Networking (VLANs, Cisco IOS, DNS, DHCP, PXE)
+- Version Control Management (Git)
+Not a 100% match? No worries! Airbus supports your personal growth with customized development solutions.
+Take your career to a new level and apply online now!
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company's success, reputation and sustainable growth
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Airbus Group
+85077 Manching, Deutschland

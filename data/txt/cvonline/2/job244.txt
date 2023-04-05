@@ -1,0 +1,61 @@
+ÁLLÁSHIRDETÉS FELADÁS
+C# Developer
+Mérnöki rendszer projektgenerátor asztali eszközének és a hozzá tartozó API fejlesztése Windows platformon,
+Az alkalmazás új szolgáltatásainak tervezése, fejlesztése és egységtesztelése C#, .NET Framework használatával,
+A fejlesztőcsapat támogatása műszaki döntésekben, a terméktulajdonos támogatása,
+Részvétel a kódellenőrzésben és a funkciók érvényesítési folyamatában,
+Tesztautomatizálási keretrendszer fejlesztésének támogatása,
+Új funkciók tervezésének támogatása,
+Agilis scrum csapattal szoros együttműködés,
+Kapcsolattartás fejlesztőkkel, tesztelőkkell és ügyfelekkel.
+                Elvárások / Requirements
+Szoftverfejlesztő végzettség,
+Legalább 4 éves C# programozásban szerzett jártasság,
+Mentorálásban szerzett tapasztalat,
+Szoftvertervezési gyakorlat, tervezési minták ismerete,
+Kommunikációképes angol nyelvismeret,
+Proaktív hozzáállás,
+Agilis (scrum) tudás,
+Nyitottság az SW fejlesztési technológiák megismerésére,
+Csapatszellem, tolerancia,
+Jó kommunikációs és problémamegoldó készség.
+ Előnyök:
+Német tudás,
+Visual Studio IDE-ben szerzett tapasztalat,
+Tapasztalat az Azure DevOps Server és Git verziókezelés terén,
+WPF fejlesztésben szerzett tapasztalat,
+Agile, Scrum területén szerzett tapasztalat,
+Visual Studio bővítmények fejlesztésében szerzett tapasztalat,
+Nemzetközi projektekben részvétel.
+                Amit nyújtunk / Benefits
+Vonzó kompenzációs csomag,
+Magán egészségbiztosítás a Medicovernél,
+Home office lehetőség és rugalmas munkaidő,
+Parkolási bérlet,
+Fiatal, dinamikus, támogató csapat mentorral,
+Modern munkakörnyezet,
+Nemzetközi projektekben való részvétel lehetősége,
+200+ képzési lehetőség: Nyelvi, soft-skill és technikai tréningek,
+Karrierlehetőségek,
+Családbarát munkahely.
+a0t6N000000nHabQAE
+C# Developer 
+Jelentkezem
+Elmentem az állást
+Trenkwalder Kft 
+Szeged 
+Teljes munkaidős 
+Frissítés dátuma: 30.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ C++ Software Developer 
+ Szeged  
+ C ++ developer 
+ Budapest  
+ .Net developer 
+ Budapest  
+ iOS Developer 
+ Budapest  
+ Fullstack Developer - REF1621B 
+ Budapest  

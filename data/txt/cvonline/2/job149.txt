@@ -1,0 +1,47 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Ügyfelünk fő profilja videotechnikai berendezések tervezése és gyártása. Részt vesznek többek között rendezvények, koncertek vizuális támogatásában, de foglalkoznak modernizált tárgyalók kialakításától kezdve a sorozatgyártáson át, az orvos technikáig, számtalan izgalmas projekttel. 
+a cég által fejlesztett videotechnikai berendezések vezérlőszoftverének fejlesztése
+meeting room-ok vagy akár teljes irodaházak automatizált vezérlését lehetővé tevő komplex szoftverek fejlesztése
+felületek és funkciók kialakítása a terveknek megfelelően
+fejlesztési folyamatok kidolgozása és javítása
+jól strukturált, igényes kód írása
+                Elvárások / Requirements
+legalább 3-4 év fejlesztői tapasztalat
+magabiztos node.js, Javascript, HTML, CSS tudás
+Responsive Web Design fejlesztési ismeret
+verziókövető rendszer ismeret
+középfokú angol nyelvtudás
+Előny:
+NPM ismeret
+hálózati alapismeret: TCP/IP, Telnet, SSH, Http(s), Websocket
+használtál már Express framework-öt, esetleg valamilyen templating engine-t (pl. EJS, Jade, Pug)
+rendelkezel SCSS, jQuery, Bootstrap ismeretekkel
+dolgoztál már CI rendszerekkel (pl. Jenkins)
+                Amit nyújtunk / Benefits
+széleskörű szakmai fejlődési lehetőség
+betanulás után heti 2 nap home office lehetőség
+dinamikusan fejlődő szervezet és stabil háttér
+emberközpontú szemlélet
+belvárosi, jól megközelíthető iroda
+magas színvonalú csapatépítő tréningek és egyéb közösségépítő programok
+Full-stack developer (node.js) 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 31.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Full Stack Developer 
+ Budapest  
+ Senior Full-stack developer C#/Angular 
+ Budapest  
+ FULL STACK DEVELOPER (ANGULAR / NODE.JS) 
+ Budapest  
+ C ++ developer 
+ Budapest  
+ Full-stack C#/Angular 
+ Budapest  

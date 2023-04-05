@@ -1,0 +1,87 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceC++ Developer (ABIS product) 
+Pozícia
+C++ Developer (ABIS product)
+Späť na pozície
+                                Place of work
+                            Lakeside Park 02, Tomášikova, Nové Mesto, Slovakia, Bratislava (Job with occasional home office)
+                                Contract
+                            full-time, trade licence
+                                Salary
+2 500 EUR/month
+A specific job offer will be depending on the offered job level, your professional and technical skills and knowledge, education and work experience.
+                                Team
+                            ABIS
+Information about the position Job description, responsibilities and dutiesOur team of experts is looking for an ambitious C++ Developer who is technologically capable, able to work with a wider code base, express their own opinion and share their knowledge with others. If you are eager for new technologies, are motivated by challenges and want to cooperate on complex biometric products used in national-scale projects, our role is the perfect match for you.Responsibilities●	Development and maintenance of the existing product in the field of biometrics●	Integration of existing inference engines (e.g. Tensor RT, ONNX Runtime, Caffe2) for neural network models●	Experimenting with various performance optimizations to overcome limitations of edge and embedded platforms (e.g. CPUcache and overall memory utilization)●	Maintenance and improvement of existing solution for various platforms – Windows, Linux, Android and Embedded Linux●	Automation of continuous build / test / release processes●	Refactoring and code cleanup●	Cooperation on API design●	Responsibility for the resulting SW package (library, wrappers, samples, demos, documentation, installer) Employee perks, benefits	Working at a unique Slovak company, a global leader in biometric software solutions	Interesting work with state-of-art technologies & the opportunity to influence the final solution both technically and functionally	Individual approach to personal development, internal education, English courses, external courses paid by company	13th / 14th salaries (based on successfully reached product and company goals)	Loyalty bonus – additional day of paid leave for every year you will work with us (up to 5 days)	Referral bonus – motivational financial reward if we hire a new employee based on your referral	Sick days	Hybrid working model (more than 40% of Home Office)	Flexible working hours	Possibility to take full two weeks of remote work twice a year	Possibility to choose from different type of contracts	Multiple regular company team-buildings and spontaneous team events a year	MultiSport card	Foosball, table tennis & darts available in our playroom	Fresh fruits, snack bar, monthly company breakfast Information about the selection process- Hello and thank you for choosing to apply for a job at Innovatrics. We are happy that you are interested in us!After receiving your CV, we will closely review your application and see if you're the right fit for us. If so, we will reach out to learn more about you.We wish you good luck in our hiring process!Prior to sending your response to the present job offer, please read the Personal Data Processing Information. You are sending your data to Innovatrics, s.r.o., Pri vinohradoch 82, 831 06 Bratislava, Company ID: 36 280 712 which will process your personal data at your request as referred to in Article 6 (1) (b) of the General Data Protection Regulation (GDPR) for the purposes of performing and assessing a particular selection procedure and pursuant to Act no. 18/2018 Z.z. on the personal data protection. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2)Other knowledgeC++ - SkillfulPersonality requirements and skills●	C++ language knowledge (C++ 98 - C ++ 11)●	Knowledge of CI/CD technologies (Git, CMake, Docker, Jenkins, Conan, Gitlab CI, …)●	Knowledge of Linux based development●	Experience with automated testing (integration tests, accuracy tests, performance tests) on various platforms●	Knowledge of C++ libraries Boost, STL●	Strong debugging skills●	Knowledge of Git, Conan, Docker, CI, CD, Jenkins/Gitlab CI●	Experience with Java / C# interop is advantageous●	Experience with neural networks optimization, image processing (OpenCV), edge computing or HW acceleration (GPU - CUDA, VPU, NPU) are a big plus
+About the product
+ABIS - Automated Biometrics Identification System - is a biometric identity management system supporting fingerprint, iris, and facial recognition. With our ABIS modules, our clients can easily build an identity management solution tailored to their needs.  From identifying people on crime scenes to voter registrations, our ABIS covers a whole scale of use cases.Advertiser Brief description of the companyInnovatrics is a Slovak company and a global leader in SW biometric technology and solutions for identity management. With our innovative and award-winning algorithms for fingerprint matching and facial recognition, we empower all types of organizations around the world to build powerful biometric identification solutions quickly and easily. Innovatrics has won awards IT company of the year 2015, IT product of the year 2016 and Diamond of Slovak business in 2017. Number of employees150-199 employees ContactContact person: Ján FedorTel.: +421907661451E-mail: send CV
+Zaujala vás táto pozícia?
+Pošlite nám svoje CV. Hľadáme tých najlepších z najlepších.
+ Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4517589 
+     Dátum zverejnenia:  13.3.2023 
+    2023-03-13
+lokalita: Bratislava   Pozícia: C++ Programmer, Programmer   Spoločnosť: Innovatrics, s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

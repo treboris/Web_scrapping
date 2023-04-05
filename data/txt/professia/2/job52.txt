@@ -1,0 +1,111 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSWIFT developer (m/ž) 
+SWIFT developer (m/ž)TRIGON Consulting s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiacfinálna výška mzdy závisí od skúseností kandidáta
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiJednou z najlepších ciest ako vytvoriť niečo nové, úspešné a užitočné je vnímať, čo Vám chýba. Kúsok skladačky, možnosti, funkcionalita, či pomerne veľké kusisko celku. A presne takto začal aj príbeh nenápadnej slovenskej firmy, ktorá dosiahla celosvetový úspech. Viac ako pätnásť rokov funguje, tvorí a rozvíja produkt, s ktorým dobyla svet. Ak by ste výsledky ich práce hľadali na bežných zariadeniach bežných užívateľov, nenájdete ich. Nájdete ich však na iPadoch úspešných režisérov ako Steven Spielberg, James Cameron alebo Peter Jackson. Rovnako ich nájdete v titulkoch filmov a seriálov ako Avatar, Spider-man, Stranger things, Pán prsteňov, Bohemian Rapsody či mnohých ďalších. 
+Malý tím profesionálov aktuálne hľadá posilu. Pre nášho klienta hľadáme človeka, ktorý okrem odborných zručností ponúka zanietenie pre prácu. Rád pracuje na projektoch, na ktorých mu záleží, vie odovzdať časť seba, svoje zanietenie, má motiváciu. 
+Okrem plnenia úloh a riešenia problémov zákazníkov o práci rád premýšľa aj mimo pracovnej doby. Vymýšľa inovácie a tvorí, chce sa podieľať na vzniku niečoho nového. Chce patriť do tímu, ale je schopný pracovať aj samostatne. 
+Náš klient vidí priestor kam by sa chcel posunúť, čakajú ho menšie aj väčšie výzvy a hľadá ich realizátorov. Ani dennodenná práca nie je stereotypná. Vyvíja sa, menia sa činnosti aj požiadavky klientov. 
+Hľadáme skúseného senior developera, ktorý hľadá dlhodobú, stabilnú prácu, s perspektívou kariérneho rastu. Človeka so skúsenosťou s programovacím jazykom Swift, v ideálnom prípade aj Objective-C, či C++. Profesionálneho programátora zameraného na riešenie problémov, schopného analýzy aj syntézy, ktorý sa neustále a rád rozvíja.  
+V prípade potreby komunikovať s klientom, komunikácia prebieha iba v anglickom jazyku. Jeho znalosť minimálne na úrovni C1 je teda podmienkou. 
+Ak Vás naša ponuka oslovila a disponujete odbornými zručnosťami, ktoré sú pre nášho klienta nevyhnutné, kontaktujte nás. Radi sa s Vami zoznámime. Zamestnanecké výhody, benefity- práca v stabilnej a prosperujúcej spoločnosti
+- možnosť získať skúsenosti na zaujímavých projektoch, so zaujímavými ľuďmi
+- podpora a vzdelávanie
+- motivujúce finančné ohodnotenie adekvátne ponuke trhu 
+- koncoročné odmeny
+- práca na najmodernejších audio/video zariadeniach
+- work/life balance
+- možnosť práce z domu
+- flexibilný pracovný čas
+- aktívna podpora kolegov počas prvých mesiacov zaškoľovania
+- pracovné miesto v Bratislave alebo v Bernolákove, resp. home office
+- príjemné open-space prostredie v počte maximálne 5 ľudí na pracovisku
+- ochota vyjsť v ústrety požiadavkám kandidáta, povedzte nám čo by ste si želali/potrebovali Informácie o výberovom konaníĎakujeme za zaslanie Vášho životopisu. Výberový proces pozostáva z 2 kôl, pričom 1.kolo je realizované personálnou agentúrou a ďalšie kolo je u klienta. Vyrozumenie o výsledku výberového procesu dostane každý uchádzač najneskôr po ukončení výberu.Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieSpoločnosť vyvíjajúca software a hardware pre profesionálov filmového priemyslu. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformačné technológieJazykové znalostiAnglický jazyk - Pokročilý (C1)Ostatné znalostiSwift - ExpertObjective-C - ExpertPrax na pozícii/v oblastiprogramátorPočet rokov praxe5Osobnostné predpoklady a zručnostiKandidát na tejto pozícii má preukázateľné vzdelanie a skúsenosti v odbore. Preferovaný kandidát  disponuje skúsenosťou s programovacím jazykom Swift či Objective-C. Kandidát je dynamický, so zdravým sebavedomím, tímový hráč s vnútornou motiváciou, ochotou a zvedavosťou. Odborne aj komunikačne zdatný.
+Požiadavky na kandidáta:
+*Swift alebo Objective-C - pokročilá úroveň
+*Foundation, Cocoa - pokročilá úroveň
+*VCS (Git) – mierne pokročilý
+*Audio/video framework – základná znalosť
+*Anglický jazyk – pokročilá znalosť
+Výhodou:
+*Server-Side Swift
+*C++
+*OpenGL, Metal Inzerujúca spoločnosť Stručná charakteristika spoločnostiTRIGON Consulting s.r.o. je personálno-poradenská agentúra, ktorá pôsobí na slovenskom trhu už viac ako 15 rokov. Poskytujeme prvotriedne poradenské riešenia a služby pre spoločnosti najmä v oblasti vyhľadávania a výberu zamestnancov. Dokážeme spojiť kvalitných ľudí s kvalitnými firmami a pomáhame vytvárať dlhodobé partnerstvá. Sme tím profesionálov s ľudským prístupom a otvorenou komunikáciou. Spokojný klient je našim cieľom a vizitkou.
+Pre viac informácií kliknite na: https://www.trigon-consulting.sk/o_nas/ Počet zamestnancov5-9 zamestnancov KontaktKontaktná osoba: Mgr.  Simona TatliakE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4545993 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Práca z domu   Pozícia: iOS programátor, IT konzultant, Objective-C programátor   Spoločnosť: TRIGON Consulting s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

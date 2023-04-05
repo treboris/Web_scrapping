@@ -6,15 +6,18 @@ from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 from datetime import datetime
 from tqdm import tqdm
-from Data import Save
+from modules.Data import Save
+import modules.tools as tools
 import pandas as pd
 import time
 import requests
 
-print("JOBLINE-scrapper STARTED")
-start_time = time.time()
 
-#BF-EL CSAK A DOM VEGET JELENITI MEG szoval marad a SELENIUM
+
+
+initial = tools.initial()
+exists = tools.f_exists('jobline',initial)
+
 options = Options()
 options.headless = True
 
@@ -72,7 +75,6 @@ for limit in tqdm(range(0,page_number())):
             for link in div.find_all('article'):
                 for a in link.find_all('a' , class_='l-cta_button open job-material-click'):
                     href.append(a.get('href'))
-
 driver.close()
 
 #ID
@@ -83,4 +85,4 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-save_data = Save(f'jobline1' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+save_data = Save('jobline',f'jobline{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )

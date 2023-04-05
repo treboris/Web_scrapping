@@ -1,0 +1,101 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceDevSecOps Engineer 
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+DevSecOps EngineerInformation about the positionPlace of work: Remote workWage (gross): From 3 700 EUR/monthfinal monthly basic salary is based on candidate´s professional experience, skills and knowledge *Contract type: full-timeJob description, responsibilities and duties- Implementing patch management for Linux/Windows servers and Docker images across multiple environments (testing/production)
+- Close cooperation with security team on the implementation of security procedures and processes
+- Implementation of server hardening, vulnerability remediation in line with IT security requirements
+- Monitoring security on operating systems and applications
+- Participation in managing multiple environments
+- Working with system administrators and developers on automation and providing security feedback during project design and implementation
+- Evaluate and recommend technologies and tools related to IT security, auditing and patch management in line with company’s IT security requirements Company on whose behalf the position is being filledBanking, financeStable international company, more information will be provided via phone. Requirements for the employee Required educationSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2) and Slovak - Advanced (C1)Other knowledgeLinux - AdvancedAnsible - AdvancedKubernetes - AdvancedPersonality requirements and skills- 3+ years of experience as a system administrator with direct security role experience
+- Welcomed experience in SIEM, cyber security, scanning vulnerabilities, 
+- Interest in IT security topics and proactive approach to work
+- Past experience in design and implementation of patch management solutions
+- Experience with testing procedures on OS and Application levels
+- Working with configuration management tools - preferably Ansible
+- Experience in scripting (bash, python) and passion for automation
+- Knowledge of SELinux configuration welcome
+- Any experience with OpenShift/Kubernetes and Docker is welcome
+- Experience in Linux/Windows administration
+- Experience Web server configuration, load balancing, DDOS mitigation
+- Solid knowledge of networking (switching, routing, firewalls…) Advertiser Brief description of the companyPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)The company is a holder of a licence to offer recruitment services.  (AA/2009/4810/4232/OISS) Main focus of the company's activitiesEmployment placement and personal consultancy Number of employees10-19 employees Information about the selection process* We are required by law to disclose basic wage component (minimum salary) for the advertised positions. Your actual final salary is based on your professional competencies, skills, qualifications and experience matching the position.
+If you are interested in our offer, send your CV in Slovak or English to [email protected] Please, specify the position of your interest in the subject of message.ContactContact person: Ing.  Anna TkáčováTel.: +421911247080E-mail: send CV
+ Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4334191 
+     Dátum zverejnenia:  7.3.2023 
+    2023-03-07
+lokalita: Remote work   Pozícia: DevOps Engineer, IT Security Specialist, Python Programmer, Systems Administrator, Systems Engineer   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 3 700 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

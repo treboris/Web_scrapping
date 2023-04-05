@@ -1,0 +1,106 @@
+Belépésálláskeresőknek
+IT Operation, Telecommunication
+System operator, Maintenance Staff
+Budapest
+Budapest
+Következő 
+Java Developer
+KBC Group Magyarországi Fióktelepe
+1095 Budapest, Lechner Ödön fasor 9.
+ Elvárt technológiák
+JAVA
+SPRING
+CLOUD
+DATABASES
+POSTGRESQL
+MYSQL
+NOSQL
+JSON
+GIT
+SECURITY
+ Módszertanok és szoftverek
+Rest
+Maven
+Jenkins
+Git
+Agile
+Scrum
+Kanban
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol felsőfok
+1-3 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+JAVA
+SPRING
+CLOUD
+DATABASES
+POSTGRESQL
+MYSQL
+NOSQL
+JSON
+GIT
+SECURITY
+ Módszertanok és szoftverek
+Rest
+Maven
+Jenkins
+Git
+Agile
+Scrum
+Kanban
+KBC Group Magyarországi Fióktelepe
+Java Developer
+Csatlakozz jó hangulatú csapatunkhoz!
+KBC Bank, the parent company of the Hungarian K&H Bank, provides banking services in 5 European countries.The international IT solutions of the banking group, covering several European countries, takes place with Hungarian and Belgian colleagues in Hungary and Belgium, therefore not only our services are international, but also our teams.Our responsibilities range from day-to-day operation to application development and its operation.We are constantly expanding the Hungarian side of the team, which is why we are looking for enthusiastic, motivated new employees with junior, medior or possibly senior work experience. The BlueCAP team is part of the Services & Infrastructure department and provides services to the delivery teams that develop KBC apps. Together with your fellow developers you continue to build the Pallas framework which is not only kept up-to-date, but the growing group of users also constantly asks for additional functionalities. The job consists of new development, bug fixing and maintenance, writing and updating documentation. There is also a rotation system to answer questions of less experienced delivery developers. This framework is Java / Spring Boot based and consists of libraries, reusable components, archetypes, a CI/CD pipeline and some runtime services. What you can expect working with us:You can make sure your future career is steady within our companyLife-long learning and plenty of opportunities to challenge yourselfCompetitive salary as well as other benefits such as:10% customizable cafeteria,annual performance-based reward,company phone with mobile internet, that you can use for private purposes as wellemployee discount at the bankYour English language skills won’t be worn out as you can use it on a daily basisFlexible schedule as we don’t use ‘Clock in Clock out’ system As our focus is on teamwork we consider it important to hang out in the "open office" together, but you have the option to spend 3 days per week working from homeWe value your insight and are always open to suggestionsInternational environment with a cheerful work atmosphereGreen office in Millennium Park, equipped with:bicycle storage and showersrestaurant with panoramic views over the Danube and the National Theatrefree offee and snacks in our community area where we hang out and play darts, and have many other dining options in the surrounding area What we expect from You:You have solid experience with:JavaSpringSpring Boot ConfidentialVery good knowledge of software development best practicesPreferably you also have experience withMicroservicesREST APIsExperience with PAAS/IAAS platforms and cloud infrastructureExperience with knowledge of the components listed below is a plus:Databases: PostgreSQL, MySQL, NoSQLDevelopment of front-end applications and RESTful web services, JSON, ...Maven, Jenkins, Git, ...Knowledge of encryption, security and authentication protocols (oAuth, ...)Agile development environment (Scrum, Kanban, SAFeStrong communication skills in English What you can expect during the recruitment process:After sending your CV in English, expect a two-round interview process, one at our office in Budapest (in Hungarian), and one online in English with the Belgian team leaderAn efficient selection process is important for both of us, so we try to make it as fast as possible, and even if you are not selected we will give you a detailed feedback
+Sector(s):
+IT Operation, Telecommunication
+System operator, Maintenance Staff
+Telecommunication
+How to apply/ contact information
+Please click the Apply button to send your application.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol felsőfok
+1-3 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+KBC Global Services NV Magyarországi Fióktelepe
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+50-100 munkavállaló
+2008
+1095
+Budapest,
+Lechner Ödön fasor 9.
+Értékelések a(z) cégről
+Értékelések kategória szerint 
+3,8
+Megközelíthetőség 
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

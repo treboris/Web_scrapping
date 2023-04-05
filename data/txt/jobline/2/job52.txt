@@ -1,0 +1,63 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Lead Designer in Test & Operations automation (REF1534Q) (Budapest)
+Lead Designer in Test & Operations automation (REF1534Q) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Would you like to join to a team, where you can contribute with your experiences to an end to end procedure in testing, automation and operations activities of innovative network technologies?This is your turn now! Come and join us and be the part of an exciting journey towards Magenta world!Join our international company and help us to create value for one of the biggest and most important projects in Deutsche Telekom Group. Being part of our team, you will have an impact on our 30 million Customers, who will use our products and services. 
+Lead Designer in Test & Operations automation (REF1534Q)
+In EMS Team of DTT we are continuing, expanding, and developing the first automation steps and adapting them in order to increase quality in validation, rollout and operation.Collecting and understanding the client needs and translate them into technical languageDevelop strategy, architecture, concept and design of automation (operations, tests of EMS of one of major network vendors + reusable for others)Organize, structure, plan and prioritize their implementation stepsCreate sustainable, maintainable and modular solutionThe implementation and development should be actively accompanied, and these should also be used in parts, e.g. in the active participation in the test environmentSupplementation, expansion and automation of existing processes / mechanisms not automated by the manufacturerGoals:Increase quality in validation, rollout and operationShorten lead timesImprove software quality through higher test coverageIncrease transparencyCreate reusable solution
+Ability to develop sustainable and well maintainable design approaches and criteriaSecurity-by-design - very strong awareness of data protection and security in general and, in particular, in the automation environmentFrameworks: Postman, Ansible, ReadyAPI, Behave, VS Code, etcProgramming languages YAML, Python, Gherkin, json, bash, etc.Jira, GitLinuxEnglish and German knowledge communication levelStrong communication skills with a distributed team (in Germany) using various technical means, but also willingness to communicate personally with team membersGood to have:Experience as “fixed access” network engineer, to have clear understanding of the subject area
+Senior
+open to new thingsself-starterwants to develop her/himselfgood communicator* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Hays Hungary Kft. -
+Software Engineering Manager
+Deutsche Telekom IT Solutions -
+People Lead - Devops (REF1105J)
+EasyHiring Services Kft. -
+Software engineer team lead
+Deutsche Telekom IT Solutions -
+Head of Team - Hyperscaler (REF1557F)
+Randstad Hungary Kft -
+DevOps Lead (Debrecen/Budapest)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Pécs
+Szeged
+Győr
+Kecskemét
+Székesfehérvár
+Miskolc
+Tatabánya
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

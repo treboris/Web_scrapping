@@ -9,21 +9,13 @@ import seaborn as sns
 df = sns.load_dataset("penguins")
 sns.pairplot(df, hue="species")
 
-
-
-
-
-
 graph_data = pd.read_csv('test.csv')
 # Here we use a column with categorical data
 fig = px.histogram(graph_data, x="loc")
 fig.show()
 
-
-
 data = pd.read_csv('../data/kariera0.csv')
 locations = data['Location'].to_list()
-
 
 def remote_works():
     main = data['Main'].to_list()

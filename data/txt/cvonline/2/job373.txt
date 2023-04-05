@@ -1,0 +1,48 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our client who provides innovative Cloud-based Contact Center solutions that empower companies to provide the best customer experience is looking for Back End Developers. With their software, and contact centers they can handle a full spectrum of incoming and outgoing communications through Phone, Email, SMS, Chat, and Social Media.
+Your mission is to deliver value with software and solve technical problems and help the team meet its goals.
+Our client expects you to write the best quality code you can according to the best industry standards, using best practices, and the best patterns you know.
+Be able to help the team with any technical challenges, code review, and pair programming.
+Participate in quality processes, like manual and automated testing
+                Elvárások / Requirements
+Have at least 3 years of professional experience in PHP
+You are willing to learn and develop (or have some experience) in GO or C
+Nice to have:
+RDBMS: MySQL or similar
+Git
+VoIP (SIP/RTP/WebRTC) experience
+Microservices
+Container technology: Docker / Swarm
+Agile frameworks (Scrum, Kanban)
+NoSQL technology: MongoDB or similar
+Observability frameworks (Grafana, VictoriaMetrics)
+                Amit nyújtunk / Benefits
+A healthy work-life balance with flexible work options including plenty of home office days.
+Additional vacation days and fully paid paternity benefits.
+The opportunity to work at a financially stable, growing company with a strong international presence and market position in Europe, America, and East Asia.
+They commit to investing in your personal growth in the long run (attractive salary package, benefits, and career opportunities).
+A multicultural work environment in their office that was awarded “The Most Loveable Workplaces” prize.
+A company with regular team buildings, sports events, charity programs, birthday celebrations, and sweets days!
+Mentorship and training opportunities from the start. They create your career path together to help you reach your maximum potential.
+Internal training sessions, school programs, and language courses.
+Back end developer 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 04.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Java Developer ( SAP-Commerce Back-end) 
+ Budapest  
+ Front End engineer  
+ Budapest  
+ Full Stack Developer 
+ Budapest  
+ Software Engineer Front-end 
+ Budapest  
+ Embedded developer 
+ Budapest  

@@ -6,14 +6,12 @@ import requests
 import time
 import os
 
-
-print("KARIERA.SK-page STARTED")
-start_time = time.time()
+with open('../initial.txt','r') as file:
+    initial = int(file.read())
 
 text = ""
-initial = 1
 date = datetime.today().strftime('%Y-%m-%d')
-data = pd.read_csv(f'../data/kariera/kariera{initial}.csv')
+data = pd.read_csv(f'../../../data/kariera/kariera{initial}.csv')
 
 data_size = data.size
 href = data['Href'].to_list()
@@ -26,16 +24,16 @@ for x in range(0 , data_size):
         soup = BeautifulSoup(page.text,"html.parser")
         full_page = soup.body
         try:
-            with open(f"../txt/kariera/{initial}/temp.txt" , "w") as f: #read&write
+            with open(f"../../../data/txt/kariera/{initial}/temp.txt" , "w") as f: #read&write
                 f.write(full_page.text)
-            with open(f"../txt/kariera/{initial}/temp.txt" , "r") as f:
+            with open(f"../../../data/txt/kariera/{initial}/temp.txt" , "r") as f:
                 for line in f:
                     if(line.strip()):
                         text += line
-            with open(f"../txt/kariera/{initial}/job{x}.txt" , "w") as file:
+            with open(f"../../../data/txt/kariera/{initial}/job{x}.txt" , "w") as file:
                 file.write(text)
             text = ''
-            os.remove(f"../txt/kariera/{initial}/temp.txt")
+            os.remove(f"../../../data/txt/kariera/{initial}/temp.txt")
 
         except (AttributeError):
             lost_data()

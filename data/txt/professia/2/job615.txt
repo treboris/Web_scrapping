@@ -1,0 +1,96 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Frontend Developer 
+Senior Frontend DeveloperSYNOT Games, s.r.o.
+Place of work
+Miletičova, Bratislava
+Contract type
+full-time
+Wage (gross)
+From 3 000 EUR/month
+Information about the position Job description, responsibilities and dutiespublic static FrontendGamesDeveloper hireNewColleagues(){
+  while (TeamVacancy.isNotEmplty()){
+     SYNOT.GAMES.isLookingFor(Individuals.class)
+          .whoAreMostOf(ENTHUSIASTIC, CLEAN_CODE_LOVER, 
+                                              OPEN_MINDED, SOLUTION_ORIENTED, TEAMPLAYER)
+          .withJobExperience(2,YEARS)
+          .whoAreNot(JOB_HOPPER,LONER)
+          .haveExperienceWith(HTML, XML, CSS, PHOTOSHOP, JAVASCRIPT, TYPESCRIPT2)
+          .toolExperience(WEBSTORM,VISUAL_STUDIO,TEXTURE_PACKER)
+          .kowledgeOf(WEBGL,PIXIJS)
+          .like (INNOVATION, RESPONSIBLE_POSITION, VARIETY, FLATHIERARCHY)
+          .withBenefits (FLEXIBLE_WORKING_HOURS, HOMEOFFICE,
+                              2_ADDITIONAL_VACATION_DAYS, FRUIT_DAYS, INFORMAL_WORKING_ATHMOSPHERE)
+          .placeOfWork (BRATISLAVA_SK, BRNO_CZ, VELKÉ_MEZIŘÍČÍ_CZ)
+          .contractType (FULL_TIME)
+We are looking for a developer , here in Bratislava, 
+that will join our ranks and be part of Games Development Team!
+Working in friendly dynamic easy-going and nurturing athmosphere - responsible for developing online video slot games on multiple platforms. 
+Main duties would be - tending to the product of course - cooperation with other colleagues - all chiping into the broad online Game Development Process, working with various virtual assets, aiming towards our common goal as SYNOT motto goes - to deliver games to true players. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Intermediate (B1) Advertiser Brief description of the companySYNOT Games is a Bratislava-based team of gaming enthusiasts, constantly keeping in touch with innovation and striving for perfection. With more than 30 years of previous experience in gaming, we create exciting new casino slots with remarkable visuals and state-of-the-art technological attributes. We are striving to always provide top-level quality to keep the players thrilled and entertained.
+As part of SYNOT Group we blend the tradition and experience with fresh and innovative approaches, together providing a full portfolio for both online and land-based operations. Our games are easy to integrate, infinitely engaging and available on multiple devices, platforms or languages. ContactContact person: Petra BubeníkováTel.: +421901714199E-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4145038 
+     Dátum zverejnenia:  15.3.2023 
+    2023-03-15
+lokalita: Bratislava   Pozícia: Frontend developer   Spoločnosť: SYNOT Games, s.r.o.   
+Základná zložka mzdy (brutto): 3 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

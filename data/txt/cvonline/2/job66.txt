@@ -1,0 +1,46 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Fullstack Sofware Developer 
+Budapest (1 on-site / hét)
+10.000-12.000 HUF / óra
+| Fullstack szoftverfejlesztés backend fókusszal pénzügyi partnernél
+Az új munkahelyed
+Hazai pénzügyi partnerünk hosszú távú projekthez keres senior Fullstack fejlesztőt Backend fókusszal egy új customer master data management felépítéséhez. Izgalmas és kreatív hosszútávú projektet kínálnak tapasztalt fejlesztőknek.
+Az új pozíciód
+● Friss, fiatal csapatban, heti 1 bejárással történő munkavégzés
+● Biztosított laptop a munkavégzéshez
+● Backend fejlesztés NodeJS keretrendszerben
+● Frontend fejlesztés Angular keretrendszerben
+● AWS felhőben fut az alkalmazás, amit fejleszteni kell
+Tech stack
+JavaScript, NodeJS, Angular, AWS, PostgreSQL 
+Mire van szükséged
+● Legalább 3 év backend fejlesztési tapasztalat NodeJS környezetben
+● Releváns tapasztalat frontend fejlesztésben, Angular keretrendszerben
+Előnyök:
+● Tapasztalat AWS-ben
+● Tapasztalat PostgreSQL-ben
+● Tapasztalat banki / pénzügyi projektekben
+Lépj kapcsolatba velünk a további részletekért!
+#haystechnology #hayshungary #softwaredevelopment #szoftverfejlesztés #fullstack #nodejs #angular #aws #postgresql
+Jelentkezem
+Elmentem az állást
+Senior Fullstack Sofware Developer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 03.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Fullstack Developer (Java/Angular) 
+ Budapest  
+ Fullstack Developer - REF1621B 
+ Budapest  
+ Fullstack Application Developer 
+ Budapest  
+ Senior Full-stack developer C#/Angular 
+ Budapest  
+ Senior Backend Developer  
+ Budapest  

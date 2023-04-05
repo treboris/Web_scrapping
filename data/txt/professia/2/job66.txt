@@ -1,0 +1,118 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceEmbedded C++ softvérový/-á vývojár/-ka 
+O nás
+Aktuálne ponuky práce
+Embedded C++ softvérový/-á vývojár/-ka
+                                Miesto práce
+                            Galvaniho, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Druh pracovného pomeru
+                            plný úväzok
+                                Termín nástupu
+                            dohodou
+                                Mzdové podmienky (brutto)
+Od 2 200 EUR/mesiac* Pri ponuke individuálne zvážime Vaše profesionálne skúsenosti a kvalifikáciu, aby bola finálna dohoda férová vzhľadom na Vaše zručnosti a skúsenosti.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiTeší vás, keď sa z neživej dosky stane funkčné zariadenie? Chcete byť tvorcom riešenia, nie len programátorom? Je pre vás dôležitá kvalita a spoľahlivosť kódu? Aj pre nás!
+Sme pevne etablovaná a dynamicky sa rozvíjajúca slovenská spoločnosť pôsobiaca v oblasti priemyselnej automatizácie v koľajovej doprave. Vývojom vlastných zariadení a systémov zvyšujeme prevádzkovú bezpečnosť a efektivitu riadenia rušňov na koľajach.
+Činnosti a zodpovednosti EMBEDDED C++ SOFTVÉROVÉHO VÝVOJÁRA:
+• Návrh a vývoj softvérového vybavenia embedded zariadení.
+• Návrh, budovanie a udržiavanie bázy efektívneho, opakovane použiteľného a spoľahlivého kódu primárne v jazyku C++.
+• Zabezpečenie výkonu a kvality softvéru.
+• Identifikáciu úzkych miesta, chýb a návrh protiopatrení a riešení.
+• Udržiavanie kvality a dokumentácie kódu. Zamestnanecké výhody, benefity✓ Zázemie etablovanej slovenskej technologickej spoločnosti s vlastným originálnym vývojom a produktom.
+✓ Flexibilný pracovný čas.
+✓ Čiastočný home office (20% pracovného času).
+✓ Vzdelávanie a rozvoj - dôraz kladený na úvodnú adaptáciu, interné produktové a procesné školenia, odborné vzdelávanie, jazykové kurzy, účasť na veľtrhoch, ale aj rozvoj mäkkých zručností.
+✓ Flexibilný benefitný systém - príspevok na aktivity podľa vlastného výberu (kultúra, MultiSport karta, individuálna zdravotná starostlivosť a pod.).
+✓ Zaujímavé ročné finančné odmeny na základe výsledkov (spoločnosti a osobných).
+✓ Spoločné akcie 2x ročne, príspevok na tímové aktivity.
+✓ Vernostný program - extra dni voľna a rozširovanie benefitov pri spolupráci 5 a viac rokov. Informácie o výberovom konaníV prípade, že Vás ponuka zaujala, pošlite svoj štruktúrovaný životopis so stručným popisom projektov, na ktorých ste pracovali.
+V HMH si ceníme čas a energiu, ktoré vložíte do reakcie na naše pracovné ponuky a podklady, ktoré nám poskytnete si dôsledne preštudujeme. Každému kandidátovi poskytneme v rámci výberového procesu spätnú väzbu. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odborePreferovaná elektrotechnika / ITJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiEmbedded C++ - PokročilýSTM32 High Performance MCUs - Mierne pokročilýMicrosoft Office 365 - PokročilýGIT - Mierne pokročilýMISRA C - ZákladyPrax na pozícii/v oblastiProgramovanie embedded aplikácií pre priemyselné použitie.Počet rokov praxe3Osobnostné predpoklady a zručnosti* Analytické myslenie a schopnosť riešiť komplexné zadania.
+* Skúsenosti s platformou STM32.
+* Základná znalosť HW zapojenia číslicových obvodov aj analógových obvodov.
+* Znalosť nástrojov a princípov na správu verzií kódu (preferovaný Git).
+* Skúsenosť s tvorbou čistého, čitateľného a zdokumentovaného kódu.
+* Odborná spôsobilosť v súlade s vyhláškou 508/2009 z.z. (min. §21).
+* Ochota sa neustále vzdelávať a rozvíjať.
+* Samostatnosť, ale aj schopnosť spolupracovať v tíme. Inzerujúca spoločnosť Stručná charakteristika spoločnostiTakmer každá lokomotíva na Slovensku má inštalované naše zariadenia, vďaka ktorým môže bezpečne jazdiť. Naše systému však nenájdete len vo vlakoch na Slovensku. Sme lídrom vlakovej bezpečnosti v krajinách strednej Európy. 
+Sme vysoko špecializovaná technologická firma zo Slovenska s históriou od roku 1993. Zabezpečujeme komplexné technologické riešenia pre spoľahlivú a bezpečnú jazdu na železnici. Naše produkty chránia život, znižujú náklady a šetria čas. Sme dôveryhodným partnerom pre lídrov európskej železničnej dopravy. 
+Za 30 rokov na trhu sme narástli na profesionálny tím s vyše 80 členmi. Staviame na vysokej odbornosti, špecifickom know-how a dlhoročných skúsenostiach v našom odbore. Za naším úspechom sa skrýva usilovnosť, vytrvalosť a tímová práca. Vďaka tomu máme v prevádzke viac než 4000 systémov na Slovensku i v zahraničí a ich počet neustále rastie.
+Viac o nás a našej práci sa dozviete na našej stránke www.hmh.sk alebo sa ozvite, radi sa s Vami porozprávame. Počet zamestnancov50-99 zamestnancov KontaktKontaktná osoba: Mgr.  Katarína PrieložnáTel.: +421232332105E-mail: poslať životopis
+HMH s.r.o.
+Galvaniho 7/D
+                    821 04 Bratislava
+                    GPS súradnice:
+                    48°9'55.5"N
+                    017°10'29.8"E
+Kontakt:
+Tel: + 421 2 323 321 01-03
+                    E-mail: [email protected]
+hmh.sk
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4494840 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Bratislava   Pozícia: C++ programátor, IT architekt, Objective-C programátor, Softvérový inžinier   Spoločnosť: HMH s.r.o.   
+Základná zložka mzdy (brutto): 2 200 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

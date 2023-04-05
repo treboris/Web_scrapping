@@ -1,0 +1,48 @@
+ÁLLÁSHIRDETÉS FELADÁS
+2003-as alakulásunk óta működünk sikeresen a személyzeti tanácsadás piacán, több 1000 interjút tudunk magunk mögött, több 100 jelöltünk karrier álmainak megvalósítását mozdítottuk előre. Büszkék vagyunk, hogy sikereinket a családias hangulat megőrzése mellett értük el, ügyfeleink és jelöltjeink érdekeit mindig szem előtt tartva.
+AMIRE NÁLUNK SZÁMÍTHATSZ
+karriercéljaid szem előtt tartó tanácsadás
+számos álláslehetőség
+lehetőség valami új megismerésére
+AMIT MI NYÚJTUNK
+felkészítünk a sikeres pályázatra
+szakértelmünket a kezedbe helyezzük
+kellemes légkörben fogadunk
+GRP pénzügyi partnere csapatába DevOps Engineert keres
+Kódolás, scriptelés, konfigurálás, automatizálás. 
+Szoftverek futtatókörnyezeteinek kialakítása (jellemzően valamelyik cloud szolgáltatón, pl. Azure, AWS). 
+Konténerizációhoz kapcsolódó feladatok (pl. image management, repository karbantartás)
+Fejlesztők támogatása, hogy a lehető leggyorsabb, leghatékonyabb módon tudjanak csomagot kiadni (CI/CD), minőségbiztosítási megoldások implementálása és pipeline-ba kötése (pl. Sonar, CVE check, stb.) 
+Magas rendelkezésre állású (HA) megoldások tervezése és kivitelezése  
+Logolási megoldások kialakítása, monitoring és alerting rendszerek építése (pl. Elasticsearch stackkel) 
+Agilis ceremóniákon való részvétel
+Ügyfelekkel kapcsolattartás
+nyitottság, fejlődni akarás, legújabb technológiák iránti érdeklődés 
+csapatmunkára való képesség
+pontosság, precíz munkavégzés 
+Azure / AWS, Docker és Kubernetes, ELK stack, valamilyen CI/CD ismeretet és bizonyított tapasztalat.
+előnyt jelent minden további DevOps technológiában szerzett tapasztalat, pl. Ansible AWX, build eljárások, “developer experience” megoldások, monitoring és alerting, stb. 
+Magabiztos angol nyelvtudás szóban és írásban egyaránt
+További információért keress minket: IT@getwork.hu .munkaerő-közvetítés engedély száma 10097-1/2012-0100-848
+Jelentkezésemmel elfogadom a Get Work Trend Kft. adatkezelési szabályait. Adatkezelési tájékoztatónk IDE KATTINTVA tekinthető meg.
+ELÉRHETŐSÉGEINK:
+Get Work Trend Kft. 1023 Budapest, Árpád fejedelem útja 31.
+DevOps Engineer - Budapest 
+Jelentkezem
+Elmentem az állást
+Get Work Trend Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 22.03.2022
+További állások keresése
+Állás megosztása
+Hasonló állások
+ DevOps Engineer - Budapest 
+ Budapest  
+ Mid/Senior DevOps Engineer (Budapest/Remote) 
+ Budapest  
+ Cloud Native DevOps Engineer – Budapest IX./ Hybrid 
+ MAC System Engineer – Budapest IX./ Hybrid 
+ Budapest  
+ Mid/Senior DevOps Engineer  - Hybrid 
+ Budapest  
