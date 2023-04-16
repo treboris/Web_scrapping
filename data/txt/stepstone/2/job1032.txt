@@ -1,0 +1,50 @@
+Jobs by email
+Ströer SSP
+Senior Software Developer (m/w/d)
+Berlin
+Permanent contract
+Full Time, Home office possible
+Published: 5 days ago
+Show salary
+Easy apply
+I'm interested
+Save
+Ströer SSP heavily relies on optimized infrastructure to deliver a high volume of real-time programmatic advertising with low latency. Our Engineering competence is at the heart of our success. We constantly strive for technical excellence, efficiency and incorporation of state-of-the-art solutions by combining engineering and science. At the heart of our operation lies the processing and analysis of massive amounts of data, which we approach with a focus on scientific and technological reliability. We are working at the cutting edge of big data, machine learning, real-time technologies and operating large-scale deployments of web services.
+We are currently looking for a Senior Software Developer (m/w/d). Please note that we cannot offer fully remote positions outside of Berlin.
+You will...
+Develop applications in a complex distributed system with low latency and high uptime requirements, processing thousands of requests per second
+Develop applications and business logic in Java, Kotlin, C++, or JavaScript.
+Debug and monitor applications deployed in Docker, Kubernetes, and AWS
+Join the Berlin team, responsible for working on core AdTech components: a Demand Side Platform (DSP) and a Supply Side Platform (SSP)
+Work alongside developers worldwide, in New Zealand, the Czech Republic, and Spain, who also contribute to developing DSP and SSP products
+Collaborate with the data scientists and engineers working in Berlin who provide data processing pipelines and optimization algorithms
+Coach and empower developers to understand and develop the underlying platform with you
+You have...
+Some years of working experience in backend development.
+deep knowledge in developing applications in at least one of the programming languages: Java, Kotlin Closure, Scala, C++ Rust, JavaScript
+Knowledge about message queue systems and various databases and can analyze and debug datasets
+some experience in mentoring or leading small or medium-sized project teams
+At least some basic understanding of DevOps and apprehend best practices, ideally also some practical experience (infrastructure-as-code, GitOps, k8s, CI/CD, Linux)
+A desire to learn modern technologies quickly and work on existing code
+We offer...
+A small and highly passionate team of extraordinary co-workers
+An open, embracing and inclusive culture
+An agile, focused, relaxed atmosphere with flexible working hours
+A high level of freedom and responsibility
+A competitive salary
+An excellent and spacious office right at Rosa-Luxemburg-Platz
+With us you also have the chance to work from home
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Ströer SSP
+Berlin, Deutschland

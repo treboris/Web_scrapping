@@ -1,0 +1,67 @@
+Jobs by email
+ZEISS
+Software developer (m/f/x) for C# - measurement software
+Oberkochen (Baden-Württemberg)
+Permanent contract
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+ Ihre Rolle
+Become a part of Team-ZEISS and enable the production of high-precision lenses through your work to advance the digitization of society and further support Moore's Law!
+As an employee in our agile software development teams, you will:
+jointly develop process software for the manufacturing of innovative products for photo lithography
+thereby provide technical support to the team's product owner in the process and requirements analyses
+develop software designs based on the architecture specifications and estimate implementation efforts
+implement the developed software designs
+transfer the developed software into operation, perform acceptance tests and ensure support.
+Ihr Profil
+a successfully completed university degree in computer science, electrical engineering or a comparable engineering degree program or relevant professional experience based on another degree program
+several years of professional experience in the relevant environment (but we are also happy to give career starters a chance)
+profound knowledge in object-oriented software development with C#, .Net, Windows Forms or WPF
+experience in creating software products for complex instruments or machines
+know-how in the area of integration in a multi-layer software architecture
+Good knowledge of German and English (at least B2), both written and spoken
+Also desirable are:
+Knowledge of C++ (Microsoft Foundation Classes)
+Knowledge in the area of IIoT protocols (such as OPC-UA)
+Know-how in the database area (WCF, Rest, Oracle)
+Experience with software architectures and documentation using Enterprise Architect in UML
+Experience in agile working methods according to Scrum
+Knowledge in the area of software commissioning for complex machines and processes
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+ZEISS
+73447 Oberkochen, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

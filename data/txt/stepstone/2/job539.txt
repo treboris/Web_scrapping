@@ -1,0 +1,52 @@
+Jobs by email
+Revolut Ltd. Zweigniederlassung Deutschland
+Software Engineer (Python)
+Office: Berlin, Remote: Germany
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+About the Role
+Our Technology team isn’t just one of the best in the industry, it’s one of the best in the world. And we’re proud of it. It’s our driving force; our engine.
+From building a new banking backend to creating an award-winning app, there’s nothing (and we mean nothing) our tech team can’t do.
+Our Technology team isn’t here to fix legacy systems – it’s here to build world-class financial products from the ground up.
+Products that will be used by millions of people around the world.
+You may expect our Python Engineers to work on heavily regulated banking systems, but we love the unexpected.
+We’re actually better known internally for writing high-quality code and building complex novel solutions end-to-end.
+These geniuses have created our chatbot – the lovely Rita – and they didn’t stop there 🤯
+They’ve also created automated FinCrime quality controls in a few weeks. Yes, they’re just that good!
+You’ll never work alone, either. As a Python Engineer, you’ll sit within a Product Team – simultaneously working with Data Scientists, Analysts, Engineers, Product Owners and Operations Managers to solve problems and make our rocket ship fly even higher.
+Ready to join?
+What you’ll be doing
+Building APIs making sure they are properly designed and scale according to the business needs
+Creating data pipelines to pull data from production services into our data warehouse - powering reporting, data analytics and data science
+Writing event consumers to build new data models in order to provide this data to new flows and processes
+What you'll need
+5+ years of experience working as a Software Engineer
+3+ years Engineering with Python as your primary language
+An academic background in a STEM subject
+Fluency in Python, SQL and other OOPLs
+Experience with API development & integration
+Practical understanding of distributed systems
+Ability to write concurrent code in IO/CPU bound situations
+Experience with Docker, K8s, Ansible, Teamcity, monitoring and alerting
+Nice to have
+Experience with prototyping and sketching
+Multiple side projects or open source contributions
+Exposure to GCP
+Experience with Django Framework
+About Revolut
+People deserve more from their money. More visibility, more control, more freedom. And since 2015, Revolut has been on a mission to deliver just that. With an arsenal of awesome products that span spending, saving, travel, transfers, investing, exchanging and more, our super app has helped 20+ million customers get more from their money. And we're not done yet.
+As we continue our lightning-fast growth, we believe that two things are essential to continuing our success: our people and our culture. So far, we have 5000+ people working around the world, from our great offices or remotely, on our mission. And we're looking for more. We want brilliant people that love building great products, love redefining success, and love turning the complexity of a chaotic world into the simplicity of a beautiful solution.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

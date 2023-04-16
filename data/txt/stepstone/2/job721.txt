@@ -1,0 +1,70 @@
+Jobs by email
+ChartWorld GmbH
+Linux System Administrator (m/f/d)
+Hamburg
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+I'm interested
+Save
+Teledyne ChartWorld was established in 2002 with the desire to make commercial shipping safer and more efficient. The main areas of activity include the development of concepts for optimized digital route and voyage planning, the equipping of ships with digital navigation systems and charts as well as the installation of supplementary software products.
+Today, Teledyne ChartWorld is the market leader for ECDIS as a service, and a driver of digital navigation and automated voyage planning tools. The company operates from offices in Germany, Singapore, Limassol, Canada and Japan.
+An open-minded and team-oriented workforce keeps us competitive and provides opportunities for Teledyne ChartWorld and its customers. Together we can transform the maritime industry, improve safety and efficiency and foremost a sustainable environment.
+We like to strengthen our team in Hamburg and are now looking for a
+Linux System Administrator (m/f/d)
+This position will be maintaining and supporting critical business Linux systems throughout the Teledyne Chartworld environment globally. There is also an exciting opportunity to be part of the wider Teledyne Enterprise IT team.
+Your Tasks:
+Maintain and configure Linux server environment
+Install and update operating systems and software packages
+Troubleshoot issues and provide technical support for Linux servers
+Develop and implement automation scripts using Bash, Python or other scripting languages
+Setup, configure and update Web server
+Server administration (setup, update and configure Linux and Webserver)
+Network Administration (Routing, Switches, DMZ, VPN, VLAN)
+Virtual Machines (e.g. VMWare or Proxmox)
+Ensure system compliance and security, by analyzing enterprise level audit data and collaborate with other technical resources to provide recommendations and effect sol
+Coordinate the installation, configuration, patching and maintenance of Linux servers, storage and back-up systems in our secured data centers
+Write automation scripts in various languages (Bash, Python, Perl, Ruby)
+Administer, design, and deploy container and OSS virtualization technologies
+Support Linux desktop and laptop users
+Collaborate with other team members to ensure smooth system integration and implementation
+Stay current with industry trends, emerging technologies, and best practices in Linux server administration
+Your Profile:
+Completed Vocational Training IT (Computer Science bachelor’s or master’s degree) or similar education or equivalent work experience
+Experience in Linux system administration
+Experience with operating systems expertise (Linux and Windows), such as installation, configuration, maintenance, patching, triage, and hardening
+Experience Unix/Linux Shell scripting, Bash, Perl, Python or other languages
+Experience with cloud providers
+Experience with High Availability and data replication clusters on Linux
+Experience administering/implementing Configuration Management
+Preferably Apache2 / nginx knowledge
+Ability to work in a team with initiative
+Analytical thinking, planned work and enjoyment of challenges
+Good English skills in speech and writing
+Our Offer:
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+ChartWorld GmbH
+Zirkusweg 1, 20359 Hamburg, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

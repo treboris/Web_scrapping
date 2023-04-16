@@ -1,0 +1,58 @@
+Jobs by email
+Forschungszentrum Jülich GmbH
+Software Developer Position – Cloud Platform Operator / Developer / Administrator
+Jülich bei Köln
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+Show salary
+I'm interested
+Save
+Conducting research for a changing society: This is what drives us at Forschungs­zentrum Jülich. As a member of the Helmholtz Association, we aim to tackle the grand societal challenges of our time and conduct research into the possibilities of a digitized society, a climate-friendly energy system, and a resource-efficient economy. Work together with around 7,250 employees in one of Europe’s biggest research centres and help us to shape change!
+At the Institute of Energy and Climate Research – Energy Systems Engineering (IEK-10) –, we focus on the development of models and algorithms for simulation and optimization of decentralized, integrated energy systems. Such systems are characterized by high spatial and temporal variability of energy supply and demand as well as a high degree of interdependence of material and energy flows. Our research at the IEK-10 aims to provide scalable and faster than real-time capable methods and tools which enable the energy-optimal, cost-efficient, and safe design and operation of future energy systems.
+We are offering an exciting
+Software Developer Position – Cloud Platform Operator / Developer / Administrator
+Your Job:
+In the last few years, a new approach to optimize the generation, distribution, and consumption of energy has gained significant attention. One possible approach is the one of relying on Local Energy Communities (LEC) coordinated over multiple energy carriers. On our campus, the coordination between buildings and various energy system components is conducted by FIWARE, an open-source IoT cloud platform. FIWARE consists of different modules, e.g. context and time-series databases and proprietary REST APIs for data exchange. To achieve our project goals, different algorithms need to be integrated into FIWARE.
+Your job will consist of:
+Deployment and maintenance of the FIWARE platform
+Development of software tools for the integration of third-party components with the FIWARE platform
+Implementation and maintenance of new modules for integration into the FIWARE platform
+Definition of suitable data and metadata models
+Coordination of the work with the team partners within the project
+Your Profile:
+Very well completed master studies in informatics, computer science, or a related field
+Strong programming background (e.g. Python, Java, C, C++)
+Knowledge of container technologies (e.g. Docker and Kubernetes)
+Good knowledge of RESTful API and HTTPS
+Good knowledge of version control with GIT and associated automated workflows
+Excellent ability for cooperative collaboration
+Self-motivated personality with the ability to work within a multi-disciplinary team environment on scientifically challenging problems
+Very good communication skills in English
+Our Offer:
+We work on the very latest issues that impact our society and are offering you the chance to actively help in shaping the change! We support you in your work with:
+A large research campus with green spaces, offering the best possible means for networking with colleagues and pursuing sports alongside work
+A diverse and highly motivated working group of international character within one of the largest research institutions in Europe
+Interdisciplinary work combining physics, mathematics, computer science, and engineering
+An excellent scientific and technical infrastructure
+Participation in project meetings, workshops, and conferences
+Strong support and mentoring for setting up a future career in science and/or the industry
+Flexible working hours in a full-time position with the option of slightly reduced working hours
+Targeted services for international employees, e.g. through our International Advisory Service
+The position is for a fixed term of two years with the possibility of an extension
+Salary and social benefits will conform to the provisions of the Collective Agreement for the Public Service (TVöD-Bund) depending on the applicant’s qualifications and the precise nature of the tasks assigned to them
+Contact:
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Forschungszentrum Jülich GmbH
+52428 Jülich, Deutschland

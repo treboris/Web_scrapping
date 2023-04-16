@@ -76,7 +76,6 @@ for limit in tqdm(range(max_page_number)):
 
 driver.quit()
 
-
 #ID DATE
 list_size = len(main)
 for x in range(0, list_size):

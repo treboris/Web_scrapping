@@ -13,12 +13,6 @@ import socket
 import time
 import re
 
-#hostname = socket.gethostname()
-#my_ip = socket.gethostbyname(hostname)
-#print(f'{hostname},{my_ip}')
-
-
-
 initial = tools.initial()
 exists = tools.f_exists('stepstone',initial)
 
@@ -44,8 +38,6 @@ def page_number():
     number = driver.find_element(By.XPATH,f"/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[3]/div/nav/ul/li[8]/a/span/span/span")
     return int(number.text)
 
-#/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[1]
-
 def conn(limit):
     url = (f"https://www.stepstone.de/work/it?page={limit}&fdl=en")
     return driver.get(url)
@@ -69,7 +61,7 @@ def scrape(x):
         conn(limit)
         time.sleep(2)
         scrape(x)
-print("star")
+
 for limit in tqdm(range(page_number())):
     conn(limit)
     time.sleep(2)

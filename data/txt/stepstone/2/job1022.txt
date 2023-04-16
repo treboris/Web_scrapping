@@ -1,0 +1,74 @@
+Jobs by email
+ETAS
+Java Developer (KMS) (f/m/div.)
+Bochum
+Permanent contract
+Full Time
+Published: 3 days ago
+Show salary
+Easy apply
+I'm interested
+Save
+Welcome to ETAS
+Founded in 1994, ETAS GmbH is a wholly owned subsidiary of the Robert Bosch GmbH with international sales offices in Europe, North and South America, and Asia. ETAS' portfolio includes vehicle basic software, middleware, and development tools for the realization of software-defined vehicles. „Empowering Tomorrow’s Automotive Software“ – all our product solutions and services are focused on this to enable vehicle manufacturers and suppliers to develop and operate software-defined vehicles with increased efficiency. Holistic cybersecurity solutions in the automotive sector are offered via the ESCRYPT brand.
+The ETAS GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Bochum
+Your tasks
+Securing the driving experience of our customers all over the world
+Working on certificate and key management, key transport and derivation and much more
+Contributing to all phases of the development lifecycle
+Supporting our continuous improvement process
+Working in an international team
+Your profile
+You feel comfortable working with
+X.509 certificates
+Public-key infrastructures
+Java and Java EE (at least Java EE 7), application servers (JBoss), Hibernate, JSF 2.x and higher, Primefaces
+Spring Boot, Spring Security
+CI/CD: git, Jenkins, Maven
+Selenium, JUnit 4 & 5, MockitoREST and SOAP services
+IntelliJ, SonarQube and SoapUI
+The occasional other programming language (C/C++, Groovy, Python)
+Scrum
+Understanding the design patterns and/or architectural blueprints of a complex and distributed system
+Proactive, self-organized working style with a pronounced capacity for teamwork
+Challenge the status quo for finding better, more efficient solutions
+Analytical, strategical and critical thinking with a growth mindset for being successful
+Expertise in writing clean, well-designed, testable and human readable code
+Performing different test types (unit test, integration test, system test) and using different test methodologies in your daily work (TDD, BDD, etc.)
+Highly proficient in spoken and written English and basic German communication skills
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+ETAS
+Wittener Straße 45, 44789 Bochum, Germany
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

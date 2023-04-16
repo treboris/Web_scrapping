@@ -1,0 +1,70 @@
+Jobs by email
+Nordex Group
+Operational Data Analyst and Key-User (m/f/d)
+Hamburg
+Permanent contract
+Full Time, Home office possible
+Published: 5 days ago
+Show salary
+No cover letter required
+Save
+The Nordex Group
+Once a pioneer, the Nordex Group is now one of the world's largest manufacturers of wind turbines. Active in more than 30 countries around the world, the #TeamNordex consists of more than 8,300 employees. What unites us is our passion for renewable energies and the common values of how we want to work together as a team - with integrity, respect, collegiality and ownership. We rely on a positive management culture and continuous employee development. Become part of #TeamNordex and shape the future of energy with us. Apply now!
+Your Tasks
+The Service Engineering department takes care of the service life of the wind turbine. The technical competence centres of the multi-level technical support process are part of this area. The Service Fleet Improvement group is responsible for this support process and supervises it on the tool side. In close cooperation, the work is coordinated between the different levels from the field to Engineering. If there is a need for retrofitting or corrective measures in the field, these are centrally rolled-out by the Service Fleet Improvement group into the field and their implementation is monitored. For this purpose, there is a close exchange with Engineering and the local support structures. In addition, smaller optimisation projects are managed from within the group, as well as the coordination of the creation of service-relevant documents.
+Develop, deploy and maintain PowerBI dashboards that are broadly used across business units
+Be an internal consultant that provides transparency for business decisions and processes
+As business key user maintain existing applications and drive, develop and implement projects in the area of technical support (ServiceNow, e.g. Incident Mgt, Problem Mgt. Knowledge Mgt.)
+As process owner manage key stakeholders and interfaces (Service Regions, ITO, etc.)
+Your Profile
+Degree in engineering (mechanical / electrical / software engineering) or computer science
+Proven experience in data analysis (PowerBi (incl. M & DAX), Tableau, or similar)
+Proficiency to read Java Script and write complex SQL queries (MSSQL & Databricks) and understand APIs (REST API)
+Knowledge of ITIL framework or working experience in agile projects is a plus
+Experience in ServiceNow is a plus
+Fluent in English, both written and spoken; ability to speak Spanish or German is a plus
+Very good knowledge of MS Office, SAP experience is a plus
+Experience working in industries where heavy machinery operate is a plus
+Strong communication skills, sociability and persuasiveness in cooperation with interdisciplinary project participants
+We offer
+The opportunity to make a real contribution to a sustainable world
+An international and collegial corporate culture
+Attractive conditions such as flexible working hours, mobile working, profit-sharing as well as 30 days annual vacation and special leave
+An employer's allowance of 80% for the public transport ticket in Hamburg and Rostock
+The opportunity to play an active part in shaping processes and thus contribute real added value to the success of the Nordex Group
+Health days, company sports groups and office yoga
+A company restaurant with discounted meals
+Interested?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Nordex Group
+22419 Hamburg, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company medical officer
+Stock options
+Home office
+Extra day off
+Public transport ticket
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -12,9 +12,6 @@ import pandas as pd
 import time
 import requests
 
-
-
-
 initial = tools.initial()
 exists = tools.f_exists('jobline',initial)
 

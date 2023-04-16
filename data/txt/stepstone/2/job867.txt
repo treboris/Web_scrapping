@@ -1,0 +1,66 @@
+Jobs by email
+ZEISS
+Consultant S/4 Analytics (m/f/x)
+Oberkochen (Baden-Württemberg)
+Permanent contract
+Full Time
+Published: 2 weeks ago
+I'm interested
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+Ihre Rolle
+You will play a crucial role in shaping the basis and data fundaments of Data Analytics and actively contribute to the success of the digital transformation at ZEISS. In this challenging function, you will help our business units to analyze requirements for Operational Reporting needs and provide subject matter expertise on SAP S/4 Operational Reporting functionality within a global and ambitious S/4 transformation program.            
+You will manage the activation and customization of Operational Reporting business content in S/4 or design and implement hybrid solutions together with SAP BW and ensuring integrity and validated state during the lifetime of the new applications.
+As a SAP S/4 Senior consultant at the Zeiss Digital Partners, you are part of our Data and Analytics team and join the vibrant Zeiss data analytics and machine learning community.
+Ihr Profil
+Technical or University Degree in computer science, software engineering or similar field
+Solid SAP S4/HANA design, architecture and business requirements gathering experience (2+). BW4/HANA development experience is an added advantage
+Experience of data integrations with SAP SAC / SAP UI5 / SAP Fiori / SAP BW4/HANA and SAP S4/HANA platform
+Experience with design and review of complex data transformations, extract loads in a complex SAP S/4 global instance environment.
+Development skills associated with CDS/BOPF and RAP based programming along with frontend SAPUI5/Fiori development in the perspective of S/4 HANA.
+Experience working on standard CDS views and Fiori apps activation and implementation.
+Skilled in Object Oriented concepts and their implementation in ABAP.
+Knowledge of designing and implementing HANA Calculation views.
+Strong experience with activation and customization of S/4 Operational Reporting business content
+Knowledge on SAP Best Practices with technical implementation experience and working in an Agile setup
+Deep understanding of the SAP S4 core data-model in finance (FICO) data model is a plus
+Ability to review design documents, critique architecture recommendations from other SMEs
+Strong technical and problem-solving skills
+Advanced English language skills
+Good communication with peers, technical teams, and business representatives.
+Experience working within an international environment
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+ZEISS
+73447 Oberkochen, Germany
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

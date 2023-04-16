@@ -1,0 +1,98 @@
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+DomovVytvor si CVPonuky mailomPrihlásiť
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+Späť na pracovné ponuky
+Lead BI Analyst
+			EPAM Systems s.r.o.			
+ Miesto práce: 
+Bratislava
+Ponúkaný plat (základná mzda):
+3930 EUR
+Zobraziť viac
+ Druh pracovného pomeru: 
+ plný úväzok 
+Informácie o pracovnom mieste
+ 2511002 - IT architekt, projektantPracovná oblasť: IT a telekomunikáciePočet voľných miest: 1Náplň práce: RESPONSIBILITIES• Work in collaboration with customer stakeholders / delivery management / technical leads in design phase of the data products that should address the business needs• Plan and execute elicitation/discovery activities to engage both business and IT stakeholders• Design and drive stakeholder workshops/interviews to define and prioritize their business needs• Translate business needs into user and data requirements and work with delivery team through the entire project• Perform data discovery, data assessment, data profiling• Provide data modeling, create source to target mappings• Identify and address data-related issues• Prototype business needs and validate Mockups/Wireframes/Prototypes with business stakeholders• Conduct Sprint review sessions or UAT with customer stakeholders• Prepare post-development / post-production materials to support stakeholders in increasing adoption of deliverables (e.g., trainings / training materials / marketing materials)REQUIREMENTS• Experience as a Business Analyst/Data Analyst on several BI/DWH projects (Big Data projects is a plus)• Upper intermediate English to communicate with cross-country Business and IT teams• Ability to ask ‘Why’ in different ways to understand business need• Excellent communication skills to manage customer expectations, present and explain project deliverables to senior stakeholders• Ability to work individually or in team environment without supervision• Understanding Database/Data lake/Data Warehouse basics• Experience in working with data profiling using SQL• Experience in data modeling and ETL specifications• Knowledge of the data and analytics landscape and recent trends• Ability to use modern data visualization tools for visualizing and prototyping business needsTECHNICAL PREFERENCES• SQL, Python• SAP, Salesforce• MsSQL, Oracle, Hadoop, PostgreSQL, Hive, Snowflake, Amazon Redshift, Teradata, Informatica, Talend, Alteryx, Vertica, Airflow, Kafka• Power BI, Tableau, Qlik Sense, Qlik View, Micro Strategy 
+ Informácie pre uchádzača: 
+	Pracovný a mimopracovný pomer: Pracovný pomer na určitú dobuPočet mesiacov: 24Nočná práca: NieSezónna práca: NieZákladná zložka mzdy v eurách (v hrubom):  3 930  € mesačne Druh voľnej pracovnej pozície: Voľné pracovné miesto v podnikateľskej sféreZdroj: Pracovná ponuka je prevzatá zo stránky Úradov práce. 
+ Všeobecne požadované znalosti: 
+ Požadovaný stupeň vzdelania:  Vysokoškolské vzdelanie druhého stupňa Prax: 6 alebo viac rokovZnalosť slovenského jazyka je nevyhnutná:  Nie Znalosť jazyka požaduje:  ovládanie všetkých definovaných jazykov Cudzí jazyk:   anglický   vysoká – vysoká C1 a C2   ruský   vysoká – vysoká C1 a C2 Počítačové zručnosti:  SQL 
+- 
+ SQL  Python 
+- 
+ Python  SAP 
+- 
+ SAP  Salesforce 
+- 
+ Salesforce  MsSQL 
+- 
+ MsSQL  Oracle 
+- 
+ Oracle  Hadoop 
+- 
+ Hadoop  PostgreSQL 
+- 
+ PostgreSQL  Hive 
+- 
+ Hive  Snowflake 
+- 
+ Snowflake  Amazon Redshift 
+- 
+ Amazon Redshift  Teradata 
+- 
+ Teradata  Talend 
+- 
+ Talend  Alteryx 
+- 
+ Alteryx  Vertica 
+- 
+ Vertica  Airflow 
+- 
+ Airflow  Kafka 
+- 
+ Kafka  Power BI 
+- 
+ Power BI  Tableau 
+- 
+ Tableau  Qlik Sense 
+- 
+ Qlik Sense  Qlik View 
+- 
+ Qlik View  Micro Strategy 
+- 
+ Micro Strategy Vodičské oprávnenie:  Skupina   B Všeobecné spôsobilosti:  analyzovanie a riešenie problémov  komunikácia (jednanie s ľuďmi)  komunikácia v cudzom jazyku  organizovanie a plánovanie práce  vedenie ľudí Osobnostné predpoklady:  analytické myslenie  komunikatívnosť  praktické myslenie  technický talent  
+Požiadavky na zamestnanca
+ Vhodné pre absolventov: 
+						Nie
+Informácie o spoločnosti
+ Kontaktné údaje: 
+ EPAM Systems s.r.o. 
+Reaguj na ponukuZdieľajDaj vedieť firme, že sa ti ponuka páči
+ Pozícia / odvetvie: 
+Telekomunikácie / Architekt / IT architekt / Projektant
+ Dátum zverejnenia: 02.04.2023		
+Iné možnosti práceTelekomunikácie BratislavaArchitekt BratislavaIT architekt BratislavaProjektant BratislavaBratislava plný úväzok
+Podobné pracovné ponuky
+SAP produktový inžinier (Ref. č.: 131-16-42099)
+Grafton Slovakia s.r.o.
+JAVA Developer  (m/f)
+Slovak Telekom
+Špecialista (stavebný inžinier)
+VODOHOSPODÁRSKA VÝSTAVBA, ŠTÁTNY PODNIK
+Sme prvá voľba pri štarte v realitách - realitný maklér junior/senior -1-tka na Slovensku, top marketing, služby, odmeňovanie - ročne predáme vyše 1000 nehnuteľností
+HALO reality, s.r.o.
+Fullstack developer (m/ž)
+Slovak Telekom
+Kariéra Magazín
+Kariéra EXPO
+Kariéra Podcast
+Kariéra Raňajky
+Sleduj nás
+O násCenník služiebZoznam pozíciíObchodné podmienkyPodmienky spracovania osobných údajovKalkulačka mzdyKariérne poradenstvoTlačové správyNapíšte nám Cookies
+Nastavenie súkromia
+skenua 
+			© 2023 Zoznam, s.r.o. Všetky práva vyhradené.

@@ -1,0 +1,79 @@
+Jobs by email
+Bosch Gruppe
+Software Architect for Compiler Development (f/m/div.)
+Kusterdingen
+Permanent contract
+Full Time
+Published: 5 days ago
+Show salary
+Easy apply
+I'm interested
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Bosch Sensortec GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Kusterdingen
+Your tasks
+We support our customers with sensor boards, calibration and fusion libraries, AI and ML functionality, tools to visualize and analyze all signals, and finally cross compilers for our smart sensors. Each component has its own complexity and challenges. For this position focus will be on compiler and deployment topics.
+As software architect, you are responsible for the architecture, design, and operations of the compiler, debugging and profiling software components:
+Design and work on specific compiler backends for the LLVM ecosystem
+Specify the architecture of the integration of the development tools
+Understanding of intermediate representations and their transformation
+Take care of testing, verification, and release aspects of the compiler
+Define together with other architects the future roadmap of build tools
+Work cross functionally with system architects, engineers, and data scientists across multiple domains especially in the field of machine learning and artificial intelligence
+Your profile
+Personality: Fast learner, especially for technical topics, extremely motivated with a sense of ownership. Strong customer focus, active decision driver, entrepreneurial attitude with a high motivation for consumer electronics business
+Working Practice: Independent and creative with the willingness for interdisciplinary and cultural exchanges and close cooperation with all relevant stakeholders, responsible, quality driven
+Experience and Knowledge: 3+ years of experience and a deep understanding of compiler architecture and implementation, especially LLVM. Advanced knowledge of C/C++ and assembler are a must, Python and Javascript are a plus. Understanding of ML/AI frameworks like Tensorflow is important, also knowledge of processor designs and hardware architectures. Alternatively, you have worked with OpenGL/Direct3D shading languages and the GPU driver stack.
+Education: MSc/Diplom in Computer/Software Engineering, Computer Science, Information Systems or similar qualification
+Language: Business fluent English, other languages welcome
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Gerhard-Kindler-Straße 9, 72770 Kusterdingen, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

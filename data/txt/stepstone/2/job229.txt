@@ -1,0 +1,66 @@
+Jobs by email
+Bosch Rexroth
+Senior Software Developer (f/m/div.)
+Ulm
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+I'm interested
+Save
+Welcome to Rexroth
+Economical, precise, safe, and energy efficient: drive and control technology from Bosch Rexroth moves machines and systems of any size. Under the global Rexroth brand innovative components, tailored system solutions and service offerings are marketed for Mobile Applications, Machinery Applications and Engineering and Factory Automation.
+The Bosch Rexroth AG is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Ulm
+Your tasks
+Whether it's an excavator, wheel loader or forestry machine - we are excited about the electrification of drives. Together with our customers, we are helping to make the mobile machinery of tomorrow more efficient and emission-free. In our agile team, we work together on eLION - our electric motors and associated inverters.
+Our goal is to move our customers emission-free and electrically with our eLION product family.
+Do you also want to move more? Welcome to Bosch Rexroth.
+In coordination with our international development partners, you will be responsible for firmware development of hardware-related, safety-relevant functions for our products:
+You are part of the eLION product team for inverter and eMachine and contribute significantly to the development of the inverter firmware.
+The creation of concepts and requirements analyses, including technical evaluation, definition of subtasks and effort estimation are part of your tasks.
+You develop, document and verify software for real-time critical embedded systems in C and accompany application tests and the certification process of the firmware functions.
+With your experience you support the teams in building competence in technology and methodology and in defining procedures to achieve acceptance criteria and "definition of done".
+You will be responsible for aligning development methodology with other sites within the project organization.
+Your profile
+Education: completed university studies in electrical engineering, electrical and information technology, computer science, embedded systems engineering or similar.
+Personality: team player, pronounced result and solution orientation, good communication skills and high willingness to learn
+Experience and Know-How: at least 5 years of experience in embedded software development, ideally in the field of electrical drive and control technology, experience with git, Azure DevOps, Vector CAN tools are an advantage
+Qualifications: modern methods of software development (C, embedded systems, real-time operating systems and programming)
+Languages: good command of German and English, both written and spoken
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Rexroth
+Lise-Meitner-Straße, 89081 Ulm, Germany
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

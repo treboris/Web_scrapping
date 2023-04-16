@@ -1,0 +1,80 @@
+Jobs by email
+Maschinenfabrik Reinhausen GmbH
+Software Architect (f/m/d) Embedded Systems in the field Power Electronic Converters
+Regensburg
+Permanent contract
+Full Time, Home office possible
+Published: 1 day ago
+Show salary
+Easy apply
+Save
+At the world market leader in energy technology, you will help to keep the energy supply stable in the future. With our intelligent digital and analogue solutions, you can help shape the implementation of the energy transition. In a global team of 3,600 committed colleagues, which is characterized by the unique cohesion of our family-run group of companies. Reinhausen - Where power meets passion
+For our Embedded System Team at the Regensburg location, we are looking for you as:
+Software Architect (f/m/d) Embedded Systems in the field Power Electronic Converters
+What challenges can you expect?
+You develop the system and software architecture for control of power electronic converters
+You create requirements documents according to specifications
+You develop embedded C and C++ code for our devices
+You develop Linux user-land applications and kernel drivers
+You mentor some less experience engineers
+You interact with control, tools, backend, frontend, HIL and VHDL colleagues
+You use modern lifecycle management and CI/CD tools
+What do we expect from you?
+MSc degree in the field of embedded systems, computer science or electrical engineering with deep knowledge in software architecture and embedded systems
+5+ years of professional experience
+Deep understanding of software architecture using UML standards
+Deep knowledge in embedded programming in C, C++, RTOS, Linux for AMD/Xilinx FPGA targets and some understanding of power electronics would be helpful. Experience with AMD Xilinx Petalinux or Yocto-based systems is a plus
+Clear understanding on driver, hardware abstraction layers, middleware and application software for power electronics and mechatronics systems
+Good knowledge on microcontrollers and SoC devices, STM32 and Zynq is a plus
+Drivers for peripherals such as UART, SPI, I2C, timers, ADCs, DMA, PWM are well known for you
+This is what we offer. And much more.
+Click through our benefits and learn more about your benefits with us!
+Work environment
+Flexible working time models, mobile working, modern IT equipment, new office work environments & ergonomic workplaces
+Health and prevention
+Regular health days, company doctor, massage services, company sports groups, canteen, free water dispensers
+Culture
+Challenging tasks in a system-relevant industry, freedom to shape and make decisions as well as a high degree of personal responsibility, working in an international and innovative environment
+Benefits and extras
+Discounts at retail stores and various online stores, parking spaces for employees, free WLAN
+Compensation
+Competitive compensation, participation in the company's success, vacation and Christmas bonuses as well as variable bonus payments, company pension plan, private accident insurance
+Interested? Apply now!
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Maschinenfabrik Reinhausen GmbH
+Falkensteinstraße 8, 93059 Regensburg, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Incentives & events
+Sabbatical
+Cafeteria
+Meal coupons
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Public transport ticket
+Study allowance
+The benefits listed are applicable to the company and can differ depending on the position or department.

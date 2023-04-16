@@ -70,21 +70,18 @@ for limit in tqdm(range(pages)):
         try:
             for div4 in bottom.find('div' , class_= 'offer-bottom-left'):
                 if(div4.text == ''):
-                    salary.appen('None')
+                    pass
                 if (div4.text == '\n'):
                     pass
                 else:
-                    print(div4.text)
                     salary.append((div4.text).replace('od',''))
-
         except (AttributeError,TypeError):
-            print('Nemtalalat')
-            location.append(None)
+            salary.append(None)
     print(len(salary))
     paginator += 30
 
 #ID DATE
-list_size = len(main)
+list_size = len(salary)
 for x in range(0, list_size):
     id.append(x)
 
@@ -93,9 +90,9 @@ for y in range(0, list_size):
 
 del location[0]
 del location[0]
-print(salary)
-print(salary[-1])
-print(f'{len(location)}, {len(href)}, {len(datee)}, {len(corp)}, {len(main)}, {len(id)} , {len(salary)}')
+del href[0]
+del main[0]
+del corp[0]
 
-
-#save_data = Save('kariera',f'kariera{initial}',("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
+#print(f'{len(location)}, {len(href)}, {len(datee)}, {len(corp)}, {len(main)}, {len(id)} , {len(salary)}')
+save_data = Save('kariera',f'kariera{initial}',("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )

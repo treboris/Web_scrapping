@@ -1,0 +1,58 @@
+Jobs by email
+ARRI Arnold & Richter Cine Technik GmbH & Co. Betriebs KG
+Senior Software Entwickler Architect embedded Linux - UI and business layers *
+München
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Save
+“Inspiring images. Since 1917.” ARRI is a global player within the motion picture industry and consists of the business units Camera Systems, Lighting, Rental, and Solutions. ARRI digital cameras, lenses, lighting, accessories, and many other products and solutions are behind the scenes on professional, often award-winning film productions and high-end studios around the world.
+“We trust. We listen. We care. We innovate. We are passionate.” These values can be experienced in everything we do at ARRI. While we endeavor to create the best possible products and services for our clients, our focus also lies in fostering the best possible environment for our colleagues. ARRI is a place where talent can grow and be inspired. Let us write the next chapter in ARRI’s success story together.
+Senior Software Entwickler Architect embedded Linux - UI and business layers *
+Job description:
+Translation of requirements into technically sound solution designs for the "upper layers" of our embedded camera S
+Technical guidance and coaching of internal and external developers
+Definition, estimation, and execution of technical work packages with the team
+Conceptual and technical defintion and implementation of user interface applications using Qt
+Close interoperation with Product Management and UX-designers to provide the best experience for our customers
+Contributions of to the continuous improvement of the development and release process.
+Requirements:
+A degree in computer science or a related field of study
+More than 5 years proven experience working in embedded Linux application development
+Experience in C++ 11/14/17 and in the field of Qt/QML
+Routine in dealing with git and experience with code reviews
+A very strong ability to communicate and work in a team
+A convincing appearance towards the product definition and the implementation teams
+Enjoy independent and self-reliant way of working
+Excellent knowledge of English- and advanced skills in German language
+ARRI offers:
+Flexible working hours
+30 annual holiday days as well as extra leave for certain occasions
+Mobile working depending on workplace
+Competitive salary and attractive supplementary services
+Company pension
+Exciting career development opportunities
+Staff events on a regular basis
+Corporate Benefits Programme with discount offers
+We are looking forward to your application!
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+ARRI Arnold & Richter Cine Technik GmbH & Co. Betriebs KG
+80539 München, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Employee discount
+Coaching
+The benefits listed are applicable to the company and can differ depending on the position or department.

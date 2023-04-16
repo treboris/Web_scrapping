@@ -1,0 +1,73 @@
+Jobs by email
+BestSecret Group
+Senior Linux System Administrator (m/f/d)
+Aschheim bei München, remote / Homeoffice, z.B. Berlin, Hamburg, Köln, Frankfurt, Stuttgart, Leipzig
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+About BestSecret Group
+We are a leading European members-only online destination for premium and luxury off-price fashion. Partnering with over 3,000 international brands, our tech-focused mindset and strong commitment to sustainability drives a truly unique experience for our members. With almost 100 years of experience behind us, and a major tech transformation ahead, BestSecret is scaling at pace to become one of Europe’s most exciting ecommerce players. We are proud to have a diverse team of over 1,700 employees from over 80 countries and are committed to further building out our international team with the very best talent based at our various hubs across Europe.
+SENIOR LINUX SYSTEM ADMINISTRATOR (M/F/D)
+Location: Aschheim bei München, remote / Homeoffice, z.B. Berlin, Hamburg, Köln, Frankfurt, Stuttgart, Leipzig
+We are looking for you to join our team of five, who love technical challenges. In cooperation with our colleagues from across the company, you will develop highly available and scalable systems. Our modern concepts enable an ideal mix of on-premises as well as virtualization and cloud solutions.
+YOUR RESPONSIBILITIES
+You are responsible for operational function of our Linux-based platform as well as its technical support and issue management incl. on-call service.
+Monitoring and optimizing of the system performance.
+Together with the team, you will use the infrastructure as code for platform automation.
+You will actively shape up and enable migration of our on-premises services to the cloud.
+Participation in project development with qualified opinions on platform requirements and risks.
+Stay up to date with the latest Linux technologies and trends. 
+YOUR QUALIFICATION
+5+ years of experience in Linux server administration (especially Ubuntu, Debian).
+Experience with cloud-based technologies (specifically in Azure)
+Needed skills:
+Infrastructure as Code (Ansible or Terraform/ Terragrunt (cloud-based))
+Virtualization environments (Proxmox)
+Scripting language (Python or Bash)
+Prometheus with Grafana or Datadog
+GIT
+Elasticsearch and Kibana
+Deploying cloud-based services to Kubernetes
+Ability to work independently and in an easy-going team rather than in formal structures.
+Enthusiasm for new technologies and willingness for continuous improvement of your skills.
+Strong written and verbal communication skills in English, German or Spanish is a nice to have. 
+BENEFITS
+Become part of our success story and work in an innovative working environment
+Individual training for your personal development
+Find an environment where you feel comfortable and can develop fully
+Great employee discounts for your perfect style
+Stay fit and healthy with our corporate memberships at exclusive fitness and wellness clubs in Germany
+Attractive salary package and 30 days of vacation
+Highly motivated colleagues and a thorough induction phase
+Hybrid working gives you a high degree of flexibility
+Interested?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Company car
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

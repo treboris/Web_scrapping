@@ -1,0 +1,68 @@
+Jobs by email
+Taxdoo GmbH
+Senior Staff DevOps Engineer
+Germany
+Permanent contract
+Full Time
+Published: 6 days ago
+Show salary
+Save
+Introduction
+Taxdoo is on a mission to build the financial operating system for e-commerce in Europe - where companies are able to focus on their core business, not bureaucracy. What exactly are we doing? We are making it easy for e-commerce businesses and accountants to handle VAT (sales tax) and other compliance requirements such as managing financial accounting and receiving a comprehensive overview of their financial status. Our products currently power a variety of end-to-end automation solutions for thousands of customers.
+Our team comes from a range of backgrounds and we believe in our core values Diversity, Simplicity, Quality, and Trust. Even if you are not entirely sure whether you tick all the boxes below, please apply - we’d love to hear from you. We’re at least as interested in your potential as we are in your experience.
+What you will do
+You will be joining team DevOptimus and…
+Provide architectural leadership for developing and building DevOps strategies.
+Develop and recommend tools that help improve the efficiency of our team and promote a culture of continuous improvement for technology, and processes.
+Collaborate effectively with Engineering and other key partners to negotiate necessary code changes - you act to resolve issues that stop the team from working effectively.
+You are responsible for driving the improvement of automation and optimization of processes and components within engineering, leveraging CI/CD tools and pipelines.
+You are responsible for the lifecycle of services (conception and design, deployment, operation, monitoring, and securing).
+You help to bring new features and services into production.
+You will measure and monitor availability, and latency as well as scale and evolve our systems to improve their reliability, speed, and overall system health.
+You assist with quickly investigating and responding to problems reported in the QA of projects. 
+What are you good at
+You have 6+ years of experience building applications and setups on AWS using services such as Lambda, API Gateway, Organizations, Cloudfront, and GitLab.
+You bring solid experience in software development (e.g. Java, TypeScript) with relevant methodologies (like CI/CD, A/B Testing, Feature Flags, Canary Release, BlueGreen Deployment, TDD).
+You have an exceptional understanding of agile development processes and methodologies as well as experience in application operations (eg Shell Scripting, PowerShell/CMD Scripting), configuration management, and/or automated deployments as well as in provisioning server systems.
+You have very good knowledge in orchestration platforms (eg Kubernetes or Openshift), infrastructure as code/IT automation (CDK, Terraform, Ansible, Puppet, Chef or similar tools), CI/CD (Jenkins, GitLab CI, Azure DevOps Pipelines), AWS and DevSecOps (Prisma Cloud, Sysdig Falco, WhiteSource, BlackDuck, OWASP ZAP, Docker Image Scanning).
+You have excellent communication, presentation, interpersonal and analytical skills, including the ability to communicate complex, interactive design concepts clearly and persuasively across different audiences and varying levels of the organization.
+You demonstrate the use of metrics and usage data analysis to generate new requirements and analyze defects for cloud-hosted solutions.
+Most of it all, you are passionate about DevOps and the modern DevOps toolset and you will help Taxdoo towards our shared mission - Building the Financial Operating System for e-commerce.
+What we offer
+Check out our full stack here. 
+Learn more about our benefits here.
+At Taxdoo, we are proud to be an equal opportunity employer. In our recruitment process, we consider applicants regardless of sex, gender identity, sexual orientation, race, color, religion, national origin, disability, or age. Diversity is one of the core values that we embrace on different levels within the organization- from our employees to our products and clients.
+Weitere Informationen
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Taxdoo GmbH
+Valentinskamp 70, 20355 Germany, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Flexible working hours
+Incentives & events
+Employee discount
+Coaching
+Extra day off
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

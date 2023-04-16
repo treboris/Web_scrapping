@@ -10,7 +10,6 @@ def size(folder,csv):
     data = pd.read_csv(f'../../../../../data/{folder}/{csv}')
     return (data['ID'].size) -1
 
-
 def file_write(name,href,id,initial):
 
     def conn(href):
@@ -41,7 +40,6 @@ def file_write(name,href,id,initial):
             conn(href)
         except requests.exceptions.TooManyRedirects:
             print("Bad URL")
-
 
     cond = False
     text = ''
@@ -114,8 +112,6 @@ def file_write(name,href,id,initial):
                         text += line
                     if ('Späť na pracovné ponuky' in line):
                         break
-
-
 
     with open(f"txt/{name}/{initial}/job{id}.txt" , "w") as f:
         try:

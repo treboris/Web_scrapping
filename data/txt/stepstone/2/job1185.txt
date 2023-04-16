@@ -1,0 +1,48 @@
+Jobs by email
+Liebherr-Digital Development Center GmbH
+Data Engineer (m/f/d)
+Ulm
+Permanent contract
+Full Time, Home office possible
+Published: 1 day ago
+Show salary
+Save
+Liebherr-Digital Development Center GmbH in Ulm develops digital solutions for the entire Liebherr Group. Our passionate team from the areas of software development, engineering and data science works together on various projects from the whole Liebherr product world. Our mission: creating outstanding digital experiences!
+Data Engineer (m/f/d)
+Job-ID 65955
+Tasks
+Creating passion: your responsibilities
+Consolidate, prepare and stage data
+Improve data reliability, efficiency and quality
+Develop and optimize automated data pipelines
+Define, develop and maintain data analytics cloud infrastructure
+Align infrastructure and applications with business objectives
+Close collaboration with data scientists and cloud backend engineers
+Operationalize data driven digital products and services
+Qualifications
+Contributing your strengths: your qualifications
+M.Sc. Computer Science, Mathematics or related technical field with a focus on Data Engineering
+Proficiency in Data Engineering and the respective tools and technologies (e.g. Apache Spark, Databricks, Apache Airflow, SQL DB, NoSQL DB, data lake)
+Experience with development of distributed systems
+Experience with cloud software frameworks (e.g. Azure, AWS, Docker, Kubernetes)
+Experience with CI/CD (e.g. GitHub Actions) and IaC (e.g. Terraform)
+Excellent programming skills (e.g. Python)
+Basic experience with Data Science or Machine Learning
+Excellent spoken and written communication skills in German & English
+Our offer
+Our commitment to you: your benefits
+In addition to performance-based remuneration, you will of course receive a range of attractive offers and additional benefits. With us, you benefit from flexible working hours and you can also take advantage of the option of mobile working (up to 40%). You will also find a cooperative and fair atmosphere, an appreciative team spirit and people who live their tasks with enthusiasm, team spirit and conviction.
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Liebherr-Digital Development Center GmbH
+89081 Ulm, Deutschland

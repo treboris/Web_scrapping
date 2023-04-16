@@ -1,0 +1,57 @@
+Jobs by email
+N26 GmbH
+Senior Product Security Engineer
+Berlin
+Published: 6 days ago
+Save
+About the opportunity
+We are seeking a Product Security Engineer to enable N26's engineering teams across our different locations to design and write safe software for each product and feature we ship to our customers.
+The Product Security team is part of the global Security Segment, that also consists of Infrastructure Security team, Information Risk Management and Trust&Safety team. The team has launched Product Security Programs to help us reach the security standards and procedures by providing constant guidance to the product team.
+You need to be open to relocate to one of our locations - Berlin, Barcelona or Vienna.
+In this role, you will:
+Use your knowledge of security architecture to help software engineers build secure products and services from the ground up.
+Work closely with engineering teams to understand their application security needs
+Perform application security design reviews, threat modelling and code reviews.
+Use your penetration testing skills to strengthen our internal and external applications and services.
+Build tooling to support SSDLC and other security initiatives.
+Build automation to enable engineering teams to deliver features quickly.
+Educate engineering teams and security champions in secure coding and development practices
+Enable other engineering teams to find flaws before they are introduced into production.
+Perform reactive incident response if a security event occurs.
+Perform proactive research to detect new attack vectors.
+What you need to be successful:
+Software engineering in one or more general purpose programming languages (Python, Go..)
+Previous experience with threat modelling, testing, and analysing applications.
+Previous experience in building automation to support SSDLC
+Previous experience in working closely with engineering teams and supporting them throughout the SDLC.
+Passion for information security.
+Deep technical knowledge in one of the following: cloud and networking security, web application security, mobile security.
+Strong understanding of microservice architecture and working with scalable software in the cloud.
+A knack for finding flaws in software and you can effectively communicate how to fix them.
+Familiarity with static/dynamic code analysis and fuzzing as a way to find security issues.
+Strong knowledge of secure coding best practices, the OWASP top 10.
+Correctly balance security risk and product advancement.
+Hands-on attitude and the ability to drive solutions to completion.
+Excellent communication skills.
+Traits:
+Actively help yourself (and others) be successful.
+Continuously learn and challenge the status quo.
+Think globally, act locally.
+Strong bias for action.
+Give and receive open, direct and timely feedback.
+What’s in it for you:
+Accelerate your career growth by joining one of Europe’s most talked about disruptors 🚀.
+Employee benefits that range from a competitive personal development budget, work from home budget, discounts to fitness & wellness memberships, language apps and public transportation.
+As an N26 employee you will have access to a Premium subscription on your personal N26 bank account. As well as subscriptions for friends and family members.
+Vacation days vary depending on your location of work. Additional day of annual leave for each year of service.
+A high degree of autonomy and access to cutting edge technologies - all while working with a friendly team of peers of diverse nationalities, life experiences and family statuses.
+A relocation package with visa support for those who need it.
+Who we are
+N26 has reimagined banking for today’s digital world. Technology and design empower everything we do and it’s how we are building the global banking platform the world loves to use.
+We've eliminated physical branches, paperwork, and hidden fees for an elegant digital experience and supreme savings. Giving people the power to live and bank their way is what gets us out of bed in the morning and inspires the work that we do.
+Founded in 2013, N26 now has 7 million customers in 24 markets. We employ more than 1,500 employees across 3 office locations in Berlin, Vienna and Barcelona. Besides the main offices, N26 also has local offices in Paris, Madrid, Milan, and São Paulo.
+Sound good? Apply now for this position.
+N26 is an equal opportunity employer and values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status or disability status.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner

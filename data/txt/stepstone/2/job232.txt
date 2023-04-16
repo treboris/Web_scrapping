@@ -1,0 +1,76 @@
+Jobs by email
+Mercedes - Benz AG
+MB.OS Release Train Engineer for UI/UX Software (f/m/x)
+Sindelfingen
+Permanent contract
+Full Time
+Published: 3 days ago
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER000274O_EN
+Tasks
+Mercedes-Benz AG is one of the world's largest manufacturers of luxury passenger cars. The company focuses on the development, production and sales of passenger cars, vans and vehicle-related services. Furthermore, the company aspires to be the leader in the fields of electric mobility and vehicle software.
+Our mission:
+We have a passion for great user experience: We are developing cutting edge UX/UI software for Mercedes-Benz’ next generation infotainment platform. We focus on agile development of user interface software and frameworks to reach highest performance and a truly unique customer experience. We drive connected car innovations by evaluating and implementing latest software technologies and agile development methods. We develop the core of our user interface software in-house and team-up with technology partners to integrate their solutions.
+We are currently seeking a candidate for the position of Release Trains Engineer in our UI/UX Software group. The Release Train Engineer will have the end-to-end responsibility for managing and orchestrating multiple product teams, several release trains, the Agile (Safe) organization, the Scrum masters and the QA for all UI/UX teams.
+You will enrich our team and be responsible for integration topics within the UI software production. The ability to work in an Agile/SAFe and Kanban fashion with the ability to be nimble and adjust to the needs of the larger organization are crucial for this role. You will be partnering with the Senior Management to create a culture of speed and accountability within our development organization. An understanding of how UI/UX in-vehicle applications are built and high-level system architecture capabilities are a plus to bring a product focus to technical conversations.
+Responsibilities:
+Oversee and manage the SAFe and agile processes within the UI/UX Organization consisting of 200+ people. The organization is multi-level, structured in cross-functional Agile “departments” and underlying product teams. The Agile Teams are responsible for product deliverables of the UI/UX organization.
+Ensure the organization is enabled to plan, align and deliver on common roadmap, goals, and create business value.
+Responsible for adjusting and adapting the Agile Department and Team structure to support the evolution of the UI/UX Software Product Portfolio and the growing size of the organization
+Organize and Lead quarterly planning workshops, Portfolio roadmap and prioritization review meetings, and cross functional alignment meetings
+Lead team of Scrum Masters and Quality Assurance Engineers
+Ensure collaboration in the global cross-functional community of Mercedes-Benz Research and Development
+Integrate and align the product development cycles within car line projects
+Build high-performance and highly collaborative teams working with agile and DevOps principles
+Recruit and develop Scrum master and QA talent
+Provide coaching in SAFe, Agile and DevOps
+Plan and own your team’s roadmap, and help set strategic vision
+Align with the Product Owner/Manager Teams to create joint priorities and integrated product and architecture runway roadmap
+#MBOS
+Qualifications
+What you bring to the table:
+University degree or significant practical experience in Computer Science, Information Technology or a comparable qualification
+Profound understanding of Safe and Quality Assurance for digital products
+Proven strategic and big picture thinking
+Experience with DevOps
+Experience with agile methodologies and a rapid development cycle
+Personal skills:
+Pronounced team spirit, well developed communication and team working abilities
+High level of commitment, willingness to learn and quick comprehension
+Personal initiative, commitment, and resilience
+Proven leadership and ownership
+Excellent interpersonal communication and writing skills
+Proficiency in problem solving and troubleshooting
+Ability to handle multiple competing priorities in a fast-paced environment
+Proficient in English, German is a plus!
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: sbv-sindelfingen@mercedes-benz.com
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Mercedes - Benz AG
+71063 Sindelfingen, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

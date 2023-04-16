@@ -1,0 +1,40 @@
+Jobs by email
+Apple Distribution International ULC
+RF Software DevOps Engineer (m/f/d)
+München
+Permanent contract
+Full Time
+Published: 6 days ago
+Show salary
+I'm interested
+Save
+Summary
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Hard-working people and inspiring, innovative technologies are the norm here.
+Do you love working on challenges that no one has solved yet? Are you ready to be part of a team redefining wireless technology?
+Join us to help deliver the next groundbreaking Apple product. In this role, you will be a key member of our team in Munich responsible for a continuous integration and delivery flow enabling validation and delivery for our integrated cellular RF products.
+Description
+You are a self-motivated, energetic individual with excellent interpersonal skills to effectively collaborate with international teams.
+Our team defines and configures the continuous integration environment used by various teams in the RF development community ensuring continuous downstream delivery in high quality.
+The ideal candidate will be aligning requirements of new features with multiple teams, and independently design, implement and roll them out afterwards. We have a collaborative environment with creative, smart people and groundbreaking technologies.
+Qualifications
+Key Qualifications
+Excellent programming skills, primarily Python.
+Excellent knowledge in distributed versioning systems like Git.
+Knowledge with Gitlab, Github, Jenkins.
+Excellent know-how in Unix and shell scripting.
+Problem solving, Analytical and Debugging skills.
+Pays extra attention to detail along with excellent communication skills.
+Education and Experience
+Bachelor or Master in Computer Science, Computer Engineering or equivalent degrees.
+Why Apple?
+Apple is an Equal Opportunity Employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other legally protected characteristics. If you’d like more information about your EEO rights as an applicant. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

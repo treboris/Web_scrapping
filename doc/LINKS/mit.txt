@@ -29,3 +29,7 @@ https://www.webscrapingexpert.com/stepstone-de-job-listings-scraping/
 – Recruiter Name
 – Recruiter Email
 – Recruiter Contact Number
+
+
+matplotlibes stack
+https://stackoverflow.com/questions/16010869/plot-a-bar-using-matplotlib-using-a-dictionary

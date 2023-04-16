@@ -1,0 +1,67 @@
+Jobs by email
+Continental AG
+Consultant MS Dynamics 365 for Sales and Customer Service (m/f/d) REF9013E
+Frankfurt am Main
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+No cover letter required
+Easy apply
+I'm interested
+Save
+Company Description
+Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods. Founded in 1871, the technology company offers safe, efficient, intelligent and affordable solutions for vehicles, machines, traffic and transportation. In 2021, Continental generated sales of €33.8 billion and currently employs more than 190,000 people in 58 countries and markets. On October 8, 2021, the company celebrated its 150th anniversary.
+The Automotive group sector comprises technologies for passive safety, brake, chassis, motion and motion control systems. Innovative solutions for assisted and automated driving, display and operating technologies, as well as audio and camera solutions for the vehicle interior, are also part of the portfolio, as is intelligent information and communication technology for the mobility services of fleet operators and commercial vehicle manufacturers. Comprehensive activities relating to connectivity technologies, vehicle electronics and high-performance computers round off the range of products and services.
+Job Description
+The CRM group within the Automotive IT Competence Center Business Applications is responsible for the MS Dynamics 365 for Sales and Customer Service application. We are currently looking for an experienced consultant to work together with us on the following tasks:
+Support the MS Dynamics 365 implementation project for the OEM Business Areas of Continental Automotive together with a diverse team of internal and external business and IT members
+Consulting business during the phase of definition of requirements
+Customizing of application and development of custom workflows, add-ins, APIs, etc.
+Support testing and global roll-out
+Support the MS Dynamics 365 application including interfaces and further development after the end of the implementation project:
+Be first contact for 3rd level support
+Analyze and correct bugs and customize / develop new functionality
+Responsibility for Systems Operation and Monitoring
+Manage / monitor interfaces to connected systems / applications
+Support release management process and deployment of future system developments
+Qualifications
+Academic degree in computer science or an equivalent qualification
+Many years of experience with MS Dynamics 365 for Sales and Customer Service
+Experience in developing in at least some of the following environments: .NET, C#, JavaScript and HTML
+Knowledge of Webservices, REST/SOAP APIs
+Experience with DevOps and Azure (Logic Apps)
+Good English and German language skills in written and spoken
+Analytical skills
+Structured way of working
+Process oriented thinking
+Customer Orientation
+Applications from severely handicapped people are welcome.
+Additional Information
+We want our employees to do well with us. That's why we offer them not only an exciting job in an international technology group, but also numerous additional offers such as flexible and hybrid working, sabbaticals and other benefits
+Click here to find out more. 
+Ready to drive with Continental? Take the first step and fill in the online application.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Continental AG
+Guerickestraße, Frankfurt am Main, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

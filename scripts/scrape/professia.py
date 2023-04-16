@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup ,NavigableString
 from datetime import datetime
 from modules.Data import Save
 import modules.tools as tools
@@ -50,7 +50,7 @@ def conn(limit_txt,limit):
 
 page = round(float(page_number()/20))
 
-for limit in tqdm(range(page)):
+for limit in tqdm(range(0,page)):
 
     main_block = conn(limit_txt,limit).find('ul', class_='list')
 
@@ -67,31 +67,44 @@ for limit in tqdm(range(page)):
                 location.append("None")
         for corporation in li.find_all('span',class_='employer'):
             corp.append(corporation.text)
-
-    for x in range(1,21):
+    labels = main_block.find_all('li',class_='list-row')
+    if (len(labels) ==21):
+        del labels[1]
+    for l in labels:
         try:
-            label = driver.find_element(By.XPATH,f"//*[@id='content']/div/div/main/div/ul/li[{x}]/span[3]")
-            splitted = (label.text).split()
-            if('Od' in splitted):
-                splitted.remove('Od')
-            if('Можливість' in splitted):
-                splitted.remove('Можливість')
-                splitted.remove('для')
-                splitted.remove('людей')
-                splitted.remove('України')
-            if('Reagujte' in splitted):
-                splitted.remove('Reagujte')
-                splitted.remove('bez')
-                splitted.remove('životopisu')
-            if('Ponuka' in splitted):
-                splitted.remove('Ponuka')
-                splitted.remove('onedlho')
-                splitted.remove('končí!')
-            if('з' in splitted):
-                splitted.remove('з')
-            salary.append(" ".join(splitted))
-        except (NoSuchElementException):
-            salary.append("None")
+            for sal in l.find('span',class_='label-group'):
+                if(isinstance(sal,NavigableString)):
+                    pass
+                else:
+                    splitted = sal.text.split()
+                    if('Kč/mesiac' in splitted):
+                        raise AttributeError
+                    if('Od' in splitted):
+                        splitted.remove('Od')
+                    if('Можливість' in splitted):
+                        splitted.remove('Можливість')
+                        splitted.remove('для')
+                        splitted.remove('людей')
+                        splitted.remove('України')
+                    if('Reagujte' in splitted):
+                        splitted.remove('Reagujte')
+                        splitted.remove('bez')
+                        splitted.remove('životopisu')
+                    if('Ponuka' in splitted):
+                        splitted.remove('Ponuka')
+                        splitted.remove('onedlho')
+                        splitted.remove('končí!')
+                    if('з' in splitted):
+                        splitted.remove('з')
+                    if('Zabezpečená' in splitted):
+                        splitted.remove('Zabezpečená')
+                    if('doprava' in splitted):
+                        splitted.remove('doprava')
+                    if('ubytovanie' in splitted):
+                        splitted.remove('ubytovanie')
+                    salary.append(' '.join(splitted).strip())
+        except(AttributeError,TypeError):
+            salary.append('None')
 driver.quit()
 
 #ID DATE
@@ -102,4 +115,14 @@ for x in range(0, list_size):
 for y in range(0, list_size):
     datee.append(date)
 
-save_data = Save('professia',f'professia{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )
+new_salary = []
+for x in salary:
+    if(x != ''):
+        new_salary.append(x)
+    else:
+        pass
+
+num = int(len(new_salary) - len(main))
+del new_salary[-num:]
+save_data = Save('professia',f'professia{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , new_salary) , ("Href" , href),("Date" , datee) )
+print('\a')
