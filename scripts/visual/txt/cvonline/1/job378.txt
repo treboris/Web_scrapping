@@ -1,0 +1,27 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Security Analyst (REF92A) 
+Description
+You don’t want to cry, when you hear about WannaCry? Loki isn’t only a German firegod to you? You know what Meltdown/Spectre are, maybe you even know what cryptojacking is? Then the following position is for you! 
+If you join us, your daily tasks will be as follows: 
+Detection, analysis and management of security incidents 
+Making and evaluating reports 
+Monitoring the customer’s environment 
+Tracking IT security issues (vulnerabilities, 0day exploits, malware) and making/fitting the rules for    detecting them in the client's environment 
+Change and incident management 
+Analysis of malicious code in sandbox 
+Qualifications
+	Képzettség
+What makes you capable to fulfil this position? 
+If you love to learn and you have a need for continuous development
+If you know network models (OSI, TCP/IP) 
+If you know how operating systems work (Windows, Linux) 
+You speak English or German on business level 
+It's not a problem if you have to spend about one-third of your working hours in shifts
+If above all these...: 
+You have basic knowledge of script languages: python, bash, JS and so on 
+You are familiar with the logs of security systems: proxy, AV, WAF, IDS, Webserver, DNS 
+You've done PCAP analysis 
+...hop in to the T-SEC ship and let's see if we can work together. 
+További információk
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Jelentkezem

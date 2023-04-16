@@ -1,0 +1,78 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceProgramátor/programátorka Senior pre oblasť Integrácií 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Programátor/programátorka Senior pre oblasť Integrácií
+Miesto práce
+Mlynské nivy, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Platové podmienky
+2 800 EUR/mesiacPonúkame diskusiu o mzde začínajúcu na tejto sume. Finálna úroveň mzdy závisí od profesijnej kvalifikácie a skúseností.
+Čo od vás očakávame Rozširujeme náš tím a hľadáme nového kolegu/kolegyňu, ktorý by zabezpečoval vývoj integračnej (ESB) a procesnej (BPM) platformy banky.Platforma je zodpovedná za prepojenie najdôležitejších aplikácií banky a riadenie kľúčových biznis procesov v kontakte s interným a externým zákazníkom.Ako súčasť nášho tímu budete zapojený do rôznych fáz životného cyklu vývoja aplikácií (SDLC): vypracovanie technických analýz a riešenie business požiadaviek na vývoj informačných systémov banky, programovanie komplexných Java EE aplikácií, programovanie v prostredí IBM nástrojov (Integration Bus, AppConnect Enterprise, ESB, BPM, Filenet).Zároveň budete: pracovať s citlivými dátami s vysokými nárokmi na výkonnosť softwaru, poskytovať podporu prechodu prostrediami (z vývojového do testovacieho, predprodukčného prostredia i produkčného prostredia), zabezpečovať technickú podporu produkčného systému: analýza identifikovaných incidentov a problémov v spolupráci s funkčnými analytikmi, analýza dát v databázach, návrh ich riešenia, spolupráca pri odstraňovaní závad. Čo môžete očakávať vy od nás Ako zamestnanec získavaš benefity, ktoré porastú tak, ako budeš rásť spolu s nami. Čím dlhšie u nás budeš pracovať, tým viac výhod získaš! Odmenu za výkon. Raz ročne získaš bonus, ktorého výška závisí od splnenia firemných aj Tvojich individuálnych cieľov. Stravné plne hradené zamestnávateľom bez doplatku zamestnanca. Až do 10 dní plateného voľna nad rámec zákona každý rok (a k tomu rôzne účelové platené voľná ako napríklad na prípravu svadby či pri príchode bábätka do rodiny) Obzvlášť myslíme na osamelých rodičov, ktorí tiež majú dni voľna naviac. Kredit vo VÚB Cafetérii až do výšky 300 eur, ktorý rastie s počtom odpracovaných rokov. Až do 100 eur mesačne ako príspevok na doplnkové dôchodkové sporenie (III. pilier). 275 eur každý rok ako príspevok na rekreáciu na Slovensku. 100 eur mesačne pri dlhodobej práceneschopnosti; Finančný príspevok pri narodení dieťaťa. Sabbatical - 3 mesiace voľna s 50% mzdou. Medzinárodný program zdravotnej starostlivosti zahŕňajúci možnosť získať druhý lekársky posudok od odborníkov a to nielen pre zamestnanca, ale aj jeho najbližšiu rodinu, ako aj plne hradnú liečbu na zahraničnej klinike v prípade vážnych chorôb; MultiSport kartu a s ňou prístup k športoviskám a rekreačným zariadeniam po celom Slovensku a ČR. Od 500 do 800 eur ako odmenu za lojalitu pri okrúhlom výročí. Zvýhodnené produkty a služby VÚB banky – od zvýhodnenej sadzby na naše hypotéky či pôžičky, vyššie úročenie na sporiacich produktoch, lacnejšieho lízingu až po vedenie účtov zdarma či bez poplatkov za investovanie do podielových fondov; Profesionálne poradenstvo osobného bankára pre zamestnancov. Bohaté možnosti pre Tvoj osobný rozvoj a odborné vzdelávanie sa. Podporu pre Tvoju duševnú pohodu a mentálne zdravie. 150 eur príspevok na mobil a k tomu paušál aj na súkromné účely. Ak sa aktívne podieľaš na zlepšovaní života pre svoju komunitu alebo okolie, môžeš od našej Nadácie VÚB získať Zamestnanecký grant.Hľadáš, ale nenašiel/nenašla si medzi našimi benefitmi Home office?Vo VÚB banke Home office nevnímame ako benefit, ale ako bežný spôsob práce. U nás pracujeme SMART! Po dohode s manažérom môžeš pracovať až 80% času z domu a k tomu dostávaš finančný príspevok za „teleprácu“. Koho hľadáme Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Osobnostné predpoklady a zručnosti aspoň 3 roky skúsenosti v oblasti vývoja integračnej platformy, znalosť objektovo-orientovaného programovania a návrhových vzorov, znalosť vývojových nástrojov (IDE, git, JIRA, atď.), orientácia vo svete SOA, Web Services (SOAP, REST), JMS, znalosť Java, Javascript, HTML, Python, Spring, SQL, prípadne NoSQL, skúsenosti s WSDL, XSD, WADL, XSLT. Informácie o výberovom konaníAk Vás tento popis zaujal, pošlite nám svoje CV. Stačí kliknúť na „Poslať spoločnosti životopis" a my sa Vám ozveme. Všetko dôležité o práci vo VÚB si povieme na online/on site stretnutí.Tešíme sa na Vás !
+                        Služba KONTAKT 0850 123 000, zo zahraničia +421 2 4855 59 70 | E-mail: [email protected]
+ID: 4526002 
+     Dátum zverejnenia:  23.2.2023 
+    2023-02-23
+lokalita: Bratislava   Pozícia: IT analytik, Programátor   Spoločnosť: Všeobecná úverová banka, a.s., Intesa Sanpaolo   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 800 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

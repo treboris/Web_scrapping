@@ -1,0 +1,78 @@
+Jobs by email
+Global Legal Entity Identifier Foundation (GLEIF)
+Full Stack Python Developer (m/f/d)
+Frankfurt am Main
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+Organization
+Established by the Financial Stability Board in June 2014, the Global Legal Entity Identifier Foundation (GLEIF) is a not-for-profit organization created to support the implementation and use of the Legal Entity Identifier (LEI). GLEIF manages a network of partners, the LEI issuing organizations, to provide trusted services and open, reliable data for unique legal entity identification worldwide. GLEIF services ensure the operational integrity of the Global LEI System and facilitate making the LEI a broad public good available on our website. As a result, the LEI remains the industry standard best suited to providing open and reliable data for unique legal entity identification management.
+Full Stack Python Developer (m/f/d)
+Position Summary
+The full stack developer role is about both developing the backend functionality and APIs for integrating with client frontend applications as well as developing the front end user applications and administrative applications for the back end. We are looking for engineers with solid analytical, research, and programming skills. Production experience in Python programming is a must. Experience in Rust and JavaScript a bonus. Experience or training in distributed communication protocols, decentralized identity, cryptography, blockchain based systems is preferred.
+Key Responsibilities
+Enhance cloud agent services for vLEI ecosystem based on KERI / ACDC
+Build and maintain ReST APIs
+Build SDKs with Python for vLEI Issuers
+Building unit and functional test systems
+Provide customer facing documentation for SDKs and ReST APIs
+End user application support with JavaScript and Mithril.js
+Experience and competencies for success
+Programing languages: Python, JavaScript, Rust
+BS degree in a engineering or computer discipline or equivalent certification and or experience
+At least 4 years programming experience in production enviroments
+Solid analytical, research and programming skills
+Fluent spoken and written English; additional language skills advantageous
+Team spirit and good communication skills
+Department: IT Development
+Reports into: Software Developer Team Lead
+Management responsibility: No
+Location: Frankfurt
+Scope: Full-time
+All foreign applicants from outside the EU must have a valid Residence/Work Permit or Blue Card to work in Germany.
+What we offer
+This is an opportunity, to make an impact on the transparency of the financial services and other industries in a not-for-profit, stable business that is committed to investing in the foundation, its partner relationships and its employees. You will join a highly motivated team with the mission to successfully implement the Global Legal Entity Identifier system. Compensation and benefits will be of course adequate to the position.
+In addition, we offer
+Professional development
+Join our journey and work with us in a flexible and mobile working environment
+Multicultural organization with the office directly in the city center of Frankfurt
+Open office space that facilitates & encourages collaboration; headphones allowed
+Beverages & fresh fruit
+Subsidized gym membership
+iMac workstation with 2 displays; custom keyboard if required
+Company iPhone & Macbook
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Global Legal Entity Identifier Foundation (GLEIF)
+Bleichstraße 59, 60313 Frankfurt am Main, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Company pension
+Flexible working hours
+Employee discount
+Company mobile phone
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

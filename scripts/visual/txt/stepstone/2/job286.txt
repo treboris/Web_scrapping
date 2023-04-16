@@ -1,0 +1,78 @@
+Jobs by email
+Uniper
+Lead Data Architect and Data Modeler (f/m/d)
+Düsseldorf
+Permanent contract
+Full Time
+Published: 5 days ago
+Show salary
+Easy apply
+Save
+We are Uniper: an international energy company with about 11,000 employees.
+We combine a balanced portfolio of technologically advanced large-scale assets with outstanding technical and commercial expertise.
+These assets and capabilities enable us to deliver flexible, bespoke, competitively priced energy products and services with agility, precision and speed.
+Your tasks
+The COODE organization is driving Uniper´s Digital Evolution for the COO area. The COODE organization ensures effective through life management of the European generation portfolio of digital ideas from initiation to implementation and further rollout. A key building block for this are effective development teams working in an agile methodology with the business. The role of the COODE Lead Data Architect and Modeler is to recognize and own the business data requirements to enable the creation of data models to transform raw data into relevant insights as efficient and effective as possible. To maximize the delivery of use case into the COO area, the COO data model may require tailoring for the individual technologies, Hydro, GT and Steam& Biomass Fleets and Nuclear driving improvements throughout the entire COO area. Close cooperation across the COO area is crucial for the success of the COODE organization.
+Design and develop the data models and architectures we need within the operational business lines in the COO area and support its data analytics and reporting needs
+Collaborate with cross-functional teams to understand data requirements and design solutions that meet those requirements.
+Define and document data standards, data policies, and data governance processes to ensure the accuracy, completeness, and consistency of the data assets in the operational business lines
+Manage the entire data lifecycle, including data modeling, database design, data integration, data quality, and data security
+Ensure that data architectures and models are scalable, maintainable, and extensible to support the current and future portfolio needs and prepare us to
+Provide technical leadership and guidance to the development team to ensure that data architectures and models are implemented correctly
+Ensure that the data governance framework of Uniper is followed in the COO area
+Work closely with stakeholders to understand their needs and provide recommendations on how to optimize data structures and improve data processing and analysis
+Enable data discoverability of the COO data assets. The COO data must be flagged in the Talend Data Catalog, making the data discoverable for the whole Uniper. DAICO, the Data Asset Inventory of COO need to be kept up to date when new data assets are created. It is the responsibility of the Lead Data Architect to make sure that these activities are done by the responsible stakeholders
+Takes ownership of the COO data model & DAICO
+Stay up-to-date with emerging trends and technologies in data architecture, modeling, advanced analytics and AI
+Provide input and recommendations into our learning platform support improving Uniper's data capabilities
+Define key performance indicators (KPIs) with specific objectives and track them regularly for continuous improvement
+Your profile
+A master's degree in Data Science, Computer Science, Information Technology, Economics, Information Systems, Statistics, Applied Math, Business Administration, or any other related field
+At least 7 years of working experience in a data architect or data modeler position, preferably working as a Senior Data architect in a fast-paced and complex business setting
+Demonstrate working according to the Uniper Way
+Demonstrate success leading analytics as well as vast experience working with a wide range of data in order to predict KPIs for a business.
+Demonstrated experience building and leading quantitative analyses as well experience building response , risk and data models for a business.
+Microsoft Certified AI Professional, Power BI Data analyst and will further demonstrate skills in Salesforce, SQL server reporting services, Power BI, analysis services, or any other data visualization tools.
+Candidate must also be highly skilled in the use of SQL, Snowflake, Dimensional Modeling, being able to draw complex queries that ultimately lead to improvements in business performance
+Highly proficient in the workings of data technologies such as Hadoop, Teradata, Databricks and so forth
+Understand A/B testing as well as vast knowledge in the identification of key metrics that measure and drive long-term health of the business.
+Hands-on experience on data modelling at both conceptual and physical level. Experience using some modelling tool such as Oracle modeler or others
+Data analytics/data science skills. Experience with Python (pandas, scikit-learn, Keras, TensorFlow)
+Hardworking, persistent, dependable with ability to get things done
+Ability to influence across hierarchy, technology and country boundaries and managing cultural diversity
+Team player and able to work collaboratively with and through others
+Business fluency in English, other languages advantageous
+We offer
+At Uniper, we believe in rewarding our employees for their hard work. We offer competitive salaries, company pensions and performance related benefits. Our people can also take advantage of our extensive flexible benefits package with discounts on high street vouchers, health and dental care, holidays and more.
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Uniper
+40221 Düsseldorf, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

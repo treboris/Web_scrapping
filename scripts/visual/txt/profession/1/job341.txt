@@ -1,0 +1,116 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Következő 
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Deutsche Telekom IT Solutions
+Budapest, Hungary
+ Elvárt technológiák
+DEVOPS
+NETWORK
+CISCO
+PYTHON
+JSON
+LINUX
+GIT
+DOCKER
+TEST AUTOMATION.
+TEST AUTOMATION
+ Módszertanok és szoftverek
+Rest
+Git
+Agile
+Project management
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elvárt technológiák
+DEVOPS
+NETWORK
+CISCO
+PYTHON
+JSON
+LINUX
+GIT
+DOCKER
+TEST AUTOMATION.
+TEST AUTOMATION
+ Módszertanok és szoftverek
+Rest
+Git
+Agile
+Project management
+Deutsche Telekom IT Solutions
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Company DescriptionPresent in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team. 
+Tasks:
+Job DescriptionScope of NNA_AAC Squad: Development of automation use cases based on the automation tool NDO (Network and Domain Orchestrator) as part of the project "Automation@IP2-MLC", test automation. Tasks: System management, automation and integration of Network related systems within IPCRealization and implementation of automation solutions IP Core by means of SDN Orchestrator (NDO)Test automation (CI/CD) 
+Expectation:
+QualificationsNetwork knowledge and experience Cisco CCNP level or similar level in JuniperExperience with network automation and NetconfIntermediate Python Data modelling (ideally using YANG, but XSD experience translates easily)Knowhow in REST, JSON, YAML, Linux, Git/Gitlab, CI/CD, DockerIdeally experience with KubernetesEnglish  (minimum Intermediate level)Adventages:German knowledgeExperience in agile project managementTeamworkWorking in virtual teamsAdditional Information* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Sector(s):
+IT Development
+Programmer, Developer
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Deutsche Telekom Systems Solutions Hungary Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+1000+ munkavállaló
+2006
+1097
+Budapest,
+Tóth Kálmán utca 2. B. ép.
+Értékelések a(z) Deutsche Telekom Systems Solutions Hungary Kft. cégről
+3,8
+77 értékelés alapján 
+Értékelések kategória szerint 
+4,3
+Munkaidő és munkarend 
+3,7
+Főnökök 
+4,0
+Munka és magánélet egyensúlya 
+4,0
+Kollégák és céges hangulat 
+4,3
+Megközelíthetőség 
+4,2
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+Támogatják a képzéseket 
+Vállalják a betanítást 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

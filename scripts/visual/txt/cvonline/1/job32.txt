@@ -1,0 +1,43 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Security Architect 
+Country: Hungary (+36) • Budapest
+Description:
+We are looking for a Senior Security Architect for a new venture of one of the region's most established multinational company.
+Duties:
+•- Prepare SOC Solution Implementation, as much as possible and resonable on Azure / Microsoft products
+•- Prepare the SOC Conceptual Design (SIEM, SOAR, XDR, etc.) fit to the size, nature and budget of the Company and the IT Landscape
+•- Prepare the Security Strategy for the Enterprise
+•- Prepare the Security Policy for the Enterprise
+•- Define IT Controls related to Security & Risks
+•- Prepare the Physical Security Infrastructure
+•- Prepare the IT Risk Assessment & Mitigation, Disaster Recovery Plan
+•- Prepare mitigations, controls for Data Leak Prevention
+•- Lead and oversee the 3rd Party Penetration and Vulnerability Testing of the fully custom built Marketplace Product
+•- Recommend Security implementations within the Cloud Architecture and ICT domain
+•- Prepare Security Awareness Program and carry out corresponding trainings
+Requirements and skills:
+Knowledge of industry standards (e.g., NIST 800-53, ISO 27001, ISO 27018) and data privacy regulations (e.g., GDPR and regional) like the back of their hand
+•- Able to design a Security Operations Center (SOC), necessary SOC functions and maturity which fits to the Organizations need by leveraging the best of breed technologies, methodologies, processes and controls
+•- History of evaluating and implementing industry standard enterprise-wide security technologies and concepts (think Application Security, Data Loss Prevention, Security Event Management, GRC Tools, Threat and Access Management, among others), web-related technologies (such as, Web applications, Web Services and Service Oriented Architectures), along with network-related protocols
+•- Experience with SOC Tooling including SIEM, SOAR and XDR
+•- Eye for designing the secure deployment and monitoring of applications and infrastructure into public cloud services (like AWS or Microsoft Azure)
+•- Manages Security Operations, Cyberrisk and cyber intelligence, Data loss and fraud prevention
+•- Ensures Cybersecurity awareness and training for the Organization
+•- Responsible for planning, buying, and rolling out security hardware and software, and making sure IT and network infrastructure is designed with best security practices in mind
+•- Experience with Azure Cloud Security is a plus
+•- Experience with Microsoft Sentinel and Defender is a plus
+Command of languages:
+Good command of English
+Client company profile:
+Our client company is a new venture for one of the region's most established multinational company. Strong backing and commitment from the Shareholders
+What they offer:
+•- Competitive Compensation Package and Incentive System (13th and 14th Month salary bonus + Annual financial bonus based on company goals)
+•- 3 days home office/week, flexible working hours
+•- Less Regulation, Fast Moving Agile Organization
+•- State of the Art Technologies and Capabilities relying on in-house developed Products and 3rd Party Cloud SaaS / PaaS
+•- Lots of room for career growth
+•- Efficient Business Operations, lean Processes and low level of Bureaucracy
+•- Regional ambition, potential international expansion ahead
+Further information:
+By submitting an application form or sending your curriculum vitae electronically, you will be giving the employees of PBS International Ltd. the approval and acknowledgement to access, handle and record the personal details you have submitted for application and registration processing. During the course of your application and in the future event that a prospective party expresses professional interest in you, we will only forward your details onto our clients upon your exclusive and prior approval. For a more detailed view of our data security terms and to accept all of our terms and conditions please visit the link here: https://www.pbs-job.hu/?/data-protection/for-employees
+Jelentkezem

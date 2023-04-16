@@ -1,0 +1,61 @@
+Jobs by email
+EXTEDO GmbH
+Senior Java Developer (m/f/d)
+Ottobrunn bei München oder Home-Office
+Permanent contract
+Full Time, Home office possible
+Published: 2 hours ago
+Easy apply
+Save
+Make the world better with us!
+EXTEDO helps health authorities and pharmaceutical companies around the world develop and bring new drugs and vaccines to market faster and more safely.
+As an internationally leading provider of software and services in regulatory information management (RIM), we support life sciences organizations in implementing the requirements of the regulatory authorities for their products. Our solutions thus ensure that medicines and vaccinations reach where they are needed faster and, at the same time, more safely: with the patients. Regulatory authorities around the world also rely on us to review submissions and ensure they meet the highest standards of drug safety.
+For our location in Ottobrunn near Munich or in remote within Germany we are actively seeking a 
+Senior Java Developer (m/f/d)
+Your Tasks - as important as our Software:
+Develop innovative software products for the regulated industry, based on our CARA platform
+Analyze new requirements, create appropriate concepts, and implement them by programming
+Take responsibility for the architecture and for all technical aspects of the application. This includes topics like interfaces, security, performance, deployment and high availability
+Coach your colleagues on best practices, perform code reviews and provide guidance on all technical topics
+Organize your work by using tools like git and Confluence
+You are an integral part of the Scrum team, you advise the Product Owner of all technical questions, you propose technical user stories and provide estimates
+Your Profile - as good as our Solutions:
+You have a university degree in computer science
+You have relevant experience in working with complex software products and very good knowledge (5+ years) of professional software development using Java/Groovy
+You have a high affinity to DevOps and any kind of automation
+You are well organized, and you are a team player
+You do not like technical debts
+What we consider as a Big Plus: 
+You have already gained experience in the regulatory environment, preferably in software development for the pharmaceutical industry and therefore you know its specifics/guidelines
+You have sound knowledge of and practical experience in the field of document management systems (DMS)
+You have good knowledge of the configuration of document management systems (DMS), preferably D2/Documentum or CARA
+Knowledge of regulatory standards like eCTD, HL7, FHIR and IDMP
+Knowledge of Data Science
+Your profile is rounded off by a high degree of analytical and conceptual skills as well as a profound understanding of user needs and solution design.
+What we offer you:
+30 Days Vacation
+Mobile Working
+Personal Development
+Pension Scheme 
+Overtime Regulation
+Flexible Working Hours
+Canteen
+Free Coffee & Tea 
+Further informations
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+EXTEDO GmbH
+Ottobrunn, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Cafeteria
+Meal coupons
+Coaching
+Extra day off
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,82 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Java Software Engineer (REF1589Z) (Budapest)
+Java Software Engineer (REF1589Z) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+német - középfokú
+német - felsőfokú
+A Deutsche Telekom IT Solutions (korábban IT Services Hungary, ITSH) Magyarország legnagyobb ICT-munkaadója, a Deutsche Telekom Csoport tagja. A 2006-ban alakult, több mint 5000 fős cég az informatikai és telekommunikációs szolgáltatások széles körét nyújtja. A vállalat 2019-ben elnyerte a Nemzeti Befektetési Ügynökség (HIPA) legjobb oktatási együttműködésért járó díját, a PwC Magyarország független felmérése alapján a legvonzóbb magyarországi munkahelyek közé tartozik, és a legetikusabb multinacionális vállalat címét is megkapta. A cég folyamatosan fejleszti négy – budapesti, debreceni, pécsi és szegedi – telephelyét, és várja képzett informatikai szakemberek jelentkezését a csapatába.
+Java Software Engineer (REF1589Z)
+Sok éve megbízható partnercégünk, a BARMER német egészségbiztosítóval közös projektünkbe keresünk tapasztalt kollegát, aki a java alapú online ág területén különböző projektekben irányítja a fejlesztőket. Amennyiben szereted a kihívásokkal teli, változatos munkakört, hasonló területen szerzett többéves, magabiztos tapasztalattal rendelkezel, és szívesen használod a nyelvtudásodat a mindennapi kommunikáció során, Te vagy a mi emberünk!
+Feladatok
+Üzleti és termékcélok megértése, alkalmazások felügyelete
+Termékfejlesztési folyamat irányítása
+Optimalizációs javaslatok kidolgozása és megvalósítása
+Szoftveralkalmazások tervezésének és fejlesztésének felügyelete
+Az alkalmazás prototípusainak bemutatása és a felhasználói visszajelzések integrálása
+Hibaanalízis és javítás
+Unit és integrációs tesztek végrehajtásának menedzselése
+Alkalmazásfejlesztési folyamatok dokumentációja
+Elvárások
+Legalább 5 év tapasztalat hasonló munkakörben
+Alapos ismeret a webalkalmazások fejlesztésében és architektúrájában (Java EE, Spring Framework, MySQL, MongoDB, DB2, Java Microservices (opcionális), REST.& SOAP API)
+Magasszintű német nyelvtudás
+VCS (GIT, SVN) ismeretek
+Waterfall&Scrum ismeretek
+Atlassian Toolchain tapasztalat (Jira, Confluence, Bitbucket)
+Nyitottság junior kollegák mentorálására
+Előnynek számít:
+Tapasztalat a felhasználói felület tesztelési keretrendszereivel (pl. Karma, Jasmine, Protractor)
+Gyakorlati tapasztalat szoftverarchitektúrák létrehozásában
+Angol nyelvtudás
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Thyssenkrupp -
+Szoftverfejlesztő mérnök (Indusztrializáció)
+Deutsche Telekom IT Solutions -
+Frontend fejlesztő -német nyelvtudással (REF731J)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Szeged
+Győr
+Pécs
+Kecskemét
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

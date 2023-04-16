@@ -1,0 +1,108 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFront-end Developer /-ka 
+Front-end Developer /-kaENERGO - AQUA a.s.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 000 EUR/mesiacFinálna výška mzdy bude závisieť predovšetkým od Teba :)
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiKoho hľadáme?
+Hľadáme dynamického kolegu, ktorého práca baví. U nás rozumieme tomu, že technológie sú rôzne, rovnako tak každý môže mať rôznu úroveň znalostí. 
+Budeme radi, keď sa zhodneme na znalostiach, v ktorých sa cítiš “doma”, prípadne takých, v ktorých by si chcel byť ešte väčší expert.  Pre nás je potrebný určite TypeScript, Git, Základy HTML, SQL a XML a aspoň 1 z ReactJS/VueJS/NodeJS.
+Výber týchto:  Java, Python, Go, Docker/Kubernetes, a iné ponecháme na Teba. 
+Ak Ti spomínané výrazy nie sú cudzie, čítaj ďalej :)
+Čo bude Tvojou úlohou?
+- Development používateľského rozhrania typu Dashboard/Control panel
+- Dodržiavanie UI/UX princípov s dôrazom na výzorovú atraktivitu
+- Definovanie funkcionalít a aktívna spolupráca s ostatnými tímami vývoja batériového úložiska
+Čo k tomu od Teba potrebujeme?
+- Znalosť metodológie agilného vývoja (SCRUM)
+- Skúsenosti s komunikáciami s API a backend servismi
+- Privítame skúsenosti s Java (Spring, SpringBoot), ale aj Python (Django)
+- MS Excel, Word - pokročilý užívateľ
+- Anglický jazyk - min. B2 (neboj sa, preklady od teba chcieť nebudeme)
+- min. 1 stupeň VŠ
+Čo  Ti ponúkame my?
+- voľba officu je len Tebe :) office máme v Bratislave, ale aj v Dubnici nad Váhom
+- flexibilitu, flexibilný pracovný čas
+- nečakaj striktné štandardy a reporty, u nás je dôležitý výsledok a plnenie cieľov 
+- dobrý kolektív
+- lákavé finančné ohodnotenie
+- home office (min. 1 krát týždenne)
+- sick day (3x ročne)
+- a iné zaujímavé benefity. Informácie o výberovom konaníPre projekt "Second-life battery storage" na ktorom aktuálne pracujeme, hľadáme SW inžinierov pre vývoj riadiaceho systému batériových úložísk z batérií druhej životnosti. Ide o projekt spoločného európskeho záujmu - IPCEI.
+Ako člen tímu SW inžinierov môžeš prispieť nielen k realizácii svetovo unikátneho a inovatívneho projektu, ktorý získal aj pozitívne hodnotenie Európskej komisie a ktorý prispeje k udržateľnosti a energetickej nezávislosti Slovenska, ale taktiež môžeš aj profesijne rásť.
+Tento projekt má rozsiahlu angažovanosť partnerov z podnikateľského sektora a taktiež i viacerých univerzít, najmä aktívne zapojenie študentov z technických smerov do celého procesu vývoja. Vzájomná spolupráca ďalších európskych spoločností, ktoré sú súčasťou IPCEI projektu, zároveň ponúka univerzitám a nádejným kolegom možnosti rastu v medzinárodnom prostredí.
+Spoločným cieľom tímu je vytvoriť Energy Management System /EMS/ pre riadenie batériových úložísk v spolupráci s obnoviteľnými zdrojmi energie, a to použitím moderných technológií a softwarových princípov.
+Nakoľko sa jedná o “greenfield” projekt, ktorý je momentálne vo fáze výskumu, výhodou je, že budeš môcť stáť pri výbere jednotlivých technológií a prispieť tak k ďalšiemu vývoju produktu.
+Ak Ťa stále zaujíma viac, klikaj na náš web: www.energoaqua.sk
+Volaj, píš, čakáme na Teba! :) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňaVzdelanie v odboretechnické zameranieJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Vodičský preukazB Inzerujúca spoločnosť Stručná charakteristika spoločnostiSpoločnosť ENERGO – AQUA a.s. bola založená v roku 2004 a zaoberá sa prípravou, realizáciou a prevádzkovaním malých vodných elektrární. Doposiaľ spustila do prevádzky niekoľko malých vodných elektrární na rieke Hron a na rieke Váh. Spoločnosť ENERGO – AQUA a.s. sa v rámci projektu European Battery Innovation, ktorý patrí medzi dôležité projekty spoločného európskeho záujmu (IPCEI), venuje aj vývoju kontajnerových batériových úložísk z regenerovaných modulov (Second-Life Battery Storage Systems). Počet zamestnancov25-49 zamestnancov KontaktKontaktná osoba: Mgr.  Dominika KlačanskáTel.: +421917291094E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4472953 
+     Dátum zverejnenia:  16.3.2023 
+    2023-03-16
+lokalita: Bratislava   Pozícia: Frontend programátor, Java programátor, Programátor, Scrum Master   Spoločnosť: ENERGO - AQUA a.s.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

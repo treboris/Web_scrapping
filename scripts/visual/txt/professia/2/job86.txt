@@ -1,0 +1,112 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior full-stack developer (.NET Framework/Core  + Angular) 
+Senior full-stack developer (.NET Framework/Core  + Angular)ForesServices, s. r. o.
+Miesto práce
+Prievozská, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiacv závislosti od skúseností daného kandidáta je požiadavka na mzdové ohodnotenie posudzovaná individuálne
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti- .NET6+/.NET Framework/.NET Core – pokročilý. Požadované znalosti hlavne v oblasti webových API, webových klientov a spracovania dát rôznymi procesmi a službami
+- Angular (+ TypeScript) – pokročilý. Nie je nutné poznať všetky nuancy frameworku a vedieť plne založiť aplikáciu, ale pridávanie nových komponentov by nemal byť problém
+- HTML a CSS – stredne pokročilý. Nemusí byť UI guru, ale vytvorenie šablóny pre komponent podľa dodaného návrhu a základných usmernení od UI špecialistu by nemal byť problém
+- GIT – potrebná bežná znalosť branchovania, mergeovania, rebase
+- MS SQLa/alebo PostgreSQL  – stredne pokročilý. Schopnosť vedieť si navrhnúť dátový model aj s dotazmi bez použitia ORM knižníc.
+- Dôslednosť – vyžadujeme poctivé remeslo od návrhu riešenia (niekedy aj analýza) cez implementáciu (dodržiavanie konvencií, štandardov a princípov; unit testy; krokovanie zmeneného kódu…) až po odovzdanie (v požadovanej kvalite a v dohodnutom čase).
+- Otvorenosť – nielen k novým technológiám, ale aj v komunikácii. Ide ruka v ruke s dôslednosťou.
+Skúsenosti s niektorou z nasledujúcich technológií:
+- RabbitMQ
+- Microsoft ServiceFabric
+- Redis
+- ElasticSearch
+- nejakou distribuovanou DB, ako napríklad MongoDB, Cassandra, CockroachDB, PostgreSQL + Citus
+- Skúsenosti v vývojom distribuovaných systémov s (near) real-time spracovaním dát – neriešime požiadavku konkrétnej technológie, skôr schopnosť riešiť problémy vyplývajúce z danej architektúry.
+- Angličtina, s ktorou sa nebude hanbiť komunikovať so zahraničným klientom.
+- Teoretické základy – či už vhodná škola, alebo samoštúdium (najmä literatúra zaoberajúca sa všeobecnými princípmi vývoja softvéru a algoritmami). Zamestnanecké výhody, benefity- stabilná a úspešná slovenská IT spoločnosť založená v roku 1996,
+- zaujímaví komerční zákazníci z celého Slovenska a veľké zahraničné projekty,
+- vzdelávanie a odborná príprava prostredníctvom pravidelných školení, workshopov a firemných meetingov, 
+- radi podporíme akýkoľvek nápad na školenie, certifikáciu a pod.,
+- príspevok 3.pilier DDS,
+- flexibilná pracovná doba,
+- možnosť využitia home office,
+- neformálna, rodinná atmosféra a super kolegovia,
+- nápoje a občerstvenie na pracovisku,
+- teambuildingy. Informácie o výberovom konaníVáš životopis odborne posúdime. V prípade veľkého záujmu zo strany uchádzačov bohužiaľ nebude možné kontaktovať každého kandidáta osobne. Preto uchádzačov o pracovnú pozíciu, ktorí spĺňajú požadované kritériá, budeme kontaktovať do 02.05.2023. Výberové konania prebiehajú štandardne formou individuálneho rozhovoru.Predpokladaný termín ukončenia výberového konania2.5.2023 (ostáva ešte 28 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboretechnického zameraniaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Prax na pozícii/v oblastiánoOsobnostné predpoklady a zručnosti- zrelá osobnosť s rozvinutými komunikačnými schopnosťami,
+- analytické myslenie so zameraním na detaily a súčasným zachovaním celkového pohľadu na problematiku,
+- pripravenosť logicky argumentovať,
+- schopnosť prichádzať s návrhmi,
+- proaktívny a zodpovedný prístup k práci,
+- pro-tímová orientácia. Inzerujúca spoločnosť Stručná charakteristika spoločnostiFores Technology Group je skupina spoločností poskytujúcich komplexné služby v oblasti IT. Zameriavame sa hlavne na inovatívne riešenia pre zákazníkov z komerčnej sféry. Naším cieľom je pomáhať zákazníkom naplniť ich vízie pri vytváraní hodnôt prospešných pre nás všetkých. Dbáme pri tom na transparentný a férový prístup ku všetkým zainteresovaným stranám - zákazníkom, partnerom aj našim zamestnancom.  Aktuálne sú členmi skupiny spoločnosti ForesServices, s.r.o. a ForesApps, s.r.o.
+„Osobné údaje uchádzačov o zamestnanie, ktorí nám zašlú svoj profesijný životopis a súvisiace dokumenty, budeme spracúvať na účely výberového konania. Poskytnutie údajov je nevyhnutné na účasť vo výberovom konaní. Osobné údaje uchádzačov, ktorí nepostúpia do užšieho výberu na ponúkanú voľnú pracovnú pozíciu zlikvidujeme bezodkladne po vyhodnotení životopisu ako nevyhovujúceho. Osobné údaje ostatných uchádzačov (ktorým oznámime, že postupujú do užšieho výberu) v rozsahu údajov uvedených v životopise, motivačnom liste, iných zaslaných prílohách a ďalších údajov získaných v priebehu výberového konania (napr. pri osobnom pohovore) budeme spracúvať na tento účel po dobu do skončenia výberového konania. Spracúvanie údajov uchádzačov o zamestnanie je nevyhnutné, aby sa na základe žiadosti dotknutej osoby vykonali opatrenia pred uzatvorením zmluvy (predzmluvné vzťahy). Bližšie informácie o podmienkach spracúvania Vašich osobných údajov nájdete v sekcii „Spracovanie osobných údajov“ na našej webovej stránke.“ (Detaily GDPR) Počet zamestnancov25-49 zamestnancov KontaktKontaktná osoba: Jana FridmanE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4502865 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Bratislava   Pozícia: .NET programátor, Backend programátor, Frontend programátor, Programátor   Spoločnosť: ForesServices, s. r. o.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

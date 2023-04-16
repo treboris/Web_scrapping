@@ -12,7 +12,7 @@ salary_list = []
 initial = 0
 
 def professia(initial):
-    data_professia = pd.read_csv(f'../data/professia/professia{initial}.csv',keep_default_na=False)
+    data_professia = pd.read_csv(f'../../data/professia/professia{initial}.csv',keep_default_na=False)
     salary_p = data_professia['Salary']
     for p in salary_p:
         if(p != 'nan'):

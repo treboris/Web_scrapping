@@ -1,0 +1,22 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceChief Technology Officer 
+    Reagujte bez životopisu
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyChief Technology OfficerDagital Legal, s.r.o.
+Miesto práce
+Bratislava II, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ihneď 
+Mzdové podmienky (brutto)
+2 500 - 5 000 EUR/mesiacVyššie uvedená mzda je len orientačná, pričom hlavným ekonomickým stimulom CTO budú zamestnanecké opcie / akcie (ESOP), ktorých čerpanie bude naviazané na splnenie stanovených cieľov a fáz vývoja. Celkový balík je kombináciou mesačnej mzdy a ESOP v pomere, ktorý je vecou vzájomnej diskusie a dohody.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiNáš nový CTO bude úzko spolupracovať so CEO a zakladateľom spoločnosti na stanovení strategických technologických cieľov spoločnosti pri vývoji nového SaaS riešenia z existujúcich offline nástrojov a dynamického prechodu do cloudu. CTO bude budovať, viesť a riadiť tím programátorov a bude zodpovedný za spustenie novej SaaS platformy v roku 2023. Náplňou práce je aj programovanie, starostlivosť o kód a vývoj softvéru, ale v potrebnej miere. Projekt a SaaS riešenie bude založené na existujúcich off-line nástrojoch (aktuálne licencovaných vo formáte Excel - makrá) s cieľom vytvorenia SaaS platformy pre viaceré samostatné nástroje. Tieto nástroje sú vyvinuté in-house programátorom. Nástroje slúžia na zabezpečovanie súladu s predpismi na ochranu osobných údajov (ako GDPR, ePrivacy), ako napr. LIA, DPIA, TIA, CPA, audit tool na preverenie dodávateľov, databázové riešenia, vzdelávanie a ďalšie. Koncepty a nástroje sú overené a tvoria nezanedbateľnú časť obratu kancelárie. Projekt preto nie je v začínajúcej fáze a produkt je overený, priebežne vyvíjaný a pre účely ďalšieho vývoja hotový. Požiadavka existujúcich klientov ako aj kancelárie je však prejsť do jednotnej cloud platformy, pričom za týmto účelom bude vytvorená samostatná dcérska spoločnosť, ktorá nebude advokátskou kanceláriou a ktorá bude môcť získavať ďalšie investície pre svoj rast, pričom úvodné investičné kolo je zabezpečené z vlastných zdrojov. Konkurencia: OneTrust. Cieľový trh: každá spoločnosť, ktorá obchoduje s EÚ. USP: unikátne právne know-how špecializovanej privacy & technology kancelárie. Zamestnanecké výhody, benefityFlexibilita vo všetkom + ESOP. Zázemie zabehnutej a veľmi špecifickej advokátskej kancelárie. Informácie o výberovom konaníOčakávame dve kolá rozhovorov. Prvé kolo rozhovorov bude s CEO a zakladateľom projektu (SVK), ktorý nemá technický ale právny background. V prípade postúpenia bude druhé kolo bude prebiehať v ENG so Supervisory Board členom, ktorý je skúsený programátor a open-source software filantrop.Predpokladaný termín ukončenia výberového konania31.3.2023 (ostáva ešte 18 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňaVzdelanie v odboreInformačné technológieJazykové znalostiAnglický jazyk - Pokročilý (C1)Prax na pozícii/v oblastiChief Technology OfficerPočet rokov praxe10Osobnostné predpoklady a zručnostiHľadáme skúseného CTO, ktorý naopak hľadá novú výzvu, príležitosť a nový dlhodobý projekt. Nehľadáme full-time programátora, ale skúseného manažéra a programátora v jednom, ktorý má excelentné komunikačné schopnosti, pretože CTO bude budovať tím technologických expertov. Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme síce advokátska kancelária špecializujúca sa na oblasť ochrany súkromia a technológií, ale nového CTO hľadáme pre úplne nový projekt, ktorý bude SaaS spin-off z našej právnej data protection špecializácie. 
+www.dagital.sk 
+ID: 4511141 
+     Dátum zverejnenia:  31.1.2023 
+    2023-01-31
+lokalita: Bratislava   Pozícia: Programátor   Spoločnosť: Dagital Legal, s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+                Všetky ponuky

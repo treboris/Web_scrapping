@@ -1,0 +1,53 @@
+ Belépés ›
+QA szakterület vezető (Magyarország)
+QA szakterület vezető (Magyarország)
+Jelentkezem az állásra ›
+Karrier Hungária
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+távmunka, home office
+QA szakterület vezető
+Megbízónk sikeresen nyújt komplex megoldásokat olyan területeken, mint mobilfizetés, áruforgalom ellenőrzése, elektronikus számlák kezelése, utcai és zárt téri parkolás, útdíjszedés és intelligens mobilitás koncepció.
+Feladatok:
+QA szakterületi kutatás, fejlesztési feladatok irányítása és végrehajtása.
+tesztelői csoport szakmai támogatása, szakmai mentorálása,
+a csoport folyamatos fejlesztése, részvétel a teljesítmény-értékelésben,
+a tesztelői csoport számára belső oktatások koordinálása, javaslatok a külső oktatásra,
+kiválasztási folyamat IT oldalról való támogatása, a jelöltek szakmai interjúztatása,
+a szervezetépítésben, belső folyamatok javításában való proaktív részvétel,
+technológiai ismeretek és szempontok folyamatos kutatása és bővítése meglévő rendszerekhez,
+QA szakterületi kutatás, fejlesztési feladatok irányítása és végrehajtása,
+vállalati által fejlesztett rendszerek tesztelése,
+projekt előkészítésben való részvétel (tender anyag készítése, véleményezése),
+Elvárások:
+5+ év tesztelői munkakörben eltöltött tapasztalat
+teszt architekt, szenior tesztelő vagy szenior tesztautomatizáló-ként szerzett tapasztalat
+erős API tesztelési tapasztalat, REST standard-ek ismerete
+teszt automatizálási tapasztalat (Back-end mindenképpen, Front-end jól jönne)
+JAVA alapú tesztautomatizálási tapasztalat
+JUnit vagy TestNG ismerete
+magabiztos adatbázis felhasználói ismeretek
+alapszintű UNIX/Linux környezet ismerete
+Maven, GIT használat ismerete
+CI/CD eszközök (pl.: Jenkins), használatában alapszintű ismeret
+Docker alapszintű ismerete
+Ajánlatunk:
+változatos projektek a legmodernebb technológiákra alapozva
+üzletileg kritikus, magas rendelkezésre állású IT rendszerek tesztelésében való részvétel
+szakmai képzéseken, konferenciákon való részvételi lehetőség
+dinamikus, szakmailag tapasztalt, széles látókörű kollégák
+home office lehetőség
+Előnyök:
+Rest Assured teszt automatizálás tapasztalat
+Jmeter tapasztalat
+Kubernetes alapok
+Redis, MongoDB ismeret
+Munkavégzés helye:
+Magyarország
+-
+Jelentkezem az állásra ›
+Neked ajánlott állások

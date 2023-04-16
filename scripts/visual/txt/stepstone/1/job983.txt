@@ -1,0 +1,61 @@
+Jobs by email
+Chromasens GmbH
+Senior Developer Embedded Systems & FPGA (m/w/d)
+Be an early applicant
+Konstanz
+Permanent contract
+Full Time, Home office possible
+Published: 4 weeks ago
+Show salary
+Easy apply
+I'm interested
+Save
+Chromasens GmbH, based in Konstanz at the beautiful Lake Constance, develops and produces image capturing systems, illuminations and line scan cameras for industrial image processing. Since 2004 Chromasens stands for innovative color line scan cameras, line illumination technologies and specific software for numerous machine vision applications. Since 2017, Chromasens GmbH is a part of the TKH Group, which with its members is a technology leader providing smart solutions to the industrial market.
+Within our team you define architectures of hardware platforms using the latest SoC (System on Chip) and FPGA systems. As part of our dynamic embedded team, you will develop Hardware and FPGA logic for our high-end
+camera systems.
+Your tasks:
+Architecture design and development of new hardware platforms
+Circuit design for FPGA / SoC boards
+Development and implementation of image sensor control and interface technologies on FPGA / SoC
+Development of image processing algorithms
+Interfacing function between team members of Hardware and VHDL/FPGA development
+Your profile:
+Professional experience in the development of embedded systems and FPGA based systems
+Profound experience in programming with VHDL / Verilog / C / C++/ HLS with Xilinx VIVADO or Intel Quartus
+Experience with the design tools Altium or Siemens Mentor Graphics are of advantage
+Completed studies in the field of embedded systems, communications engineering, electrical engineering,
+information technology or similar
+Good English and German language skills
+Enthusiasm of working in a diverse multidisciplinary team
+Living – or willing to move to the great region of the Lake Constance
+We offer:
+Company pension scheme
+Flexible working hours / home office
+Catering allowance for canteen at the site
+JobBike
+Good access to public transport
+Have we sparked your interest?
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Chromasens GmbH
+Max-Stromeyer-Str. 116, 78467 Konstanz, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

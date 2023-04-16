@@ -7,7 +7,6 @@ programozó
 HTTP protocol
 HTML
 CSS
-Flutter
 Junior
 Medior
 Senior
@@ -27,7 +26,6 @@ Assembly
 UDEMI
 Microsoft
 English
-Programozó
 Pandas
 Cyber
 Javareszt

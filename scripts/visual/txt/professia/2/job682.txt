@@ -1,0 +1,117 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceProgramátor - medior/senior 
+Programátor - medior/seniorAMCEF s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 000 - 4 000 EUR/mesiacSuma je uvedená v čistom na živnosť (už po uhradení všetkých daní, odvodov, preddavkov, ...)
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo nášho tímu hľadáme šikovných programátorov na zastrešenie vývoja vybraných projektov. Výber konkrétneho projektu / projektov nechávame na tebe - ty vieš lepšie ako my, čo ťa bude baviť. Nechceme, aby si robil projekty, o ktoré nemáš záujem.
+Aktuálne potrebujeme zastrešiť vývoj na týchto projektoch (môžeš si z nich vybrať podľa tvojej preferencie, na jedného človeka by všetko bolo príliš):
+- Webový portál pre transkontinentálne plavby - React
+- Portál nehnuteľností - React, Node.js
+- Softvér na generovanie pekných faktúr - React s presahom do Pythonu
+- Centrálny register zmlúv - PHP Laravel, Vue.JS
+- Bankový softvér - React
+- IS pre správu agiend - Angular
+- CRM na správu sales procesov - Angular, Python
+- a mnoho ďalších…
+Pozície sú vhodné pre skúsenejších developerov (mediori/seniori). Je možný aj part-time.
+Požiadavky:
+- Prax s niektorou z vyššie uvedených technológií min. 2 roky.
+- Skúsenosti s technickým vedením projektov
+- Technické zázemie - absolvent/študent školy zameranej na IT.
+- Znalosť Version Control nástroja.
+- Skúsenosti s Jirou alebo iným nástrojom na manažment.
+- Schopnosť odhadovať náročnosť implementácie.
+- Komunikatívnosť a schopnosť vyjadriť svoj názor.
+- Schopnosť komunikovať technické detaily s projektovým manažérom a v prípade potreby aj priamo s klientom.
+- Ochota robiť code review kolegom.
+- Proaktívny prístup k vzdelávaniu sa a zdieľaniu vedomostí. Zamestnanecké výhody, benefity- Výber projektov a technológií - Každý si u nás môže vybrať, v akých technológiách a na akých projektoch bude pracovať. Najdôležitejšie pre nás je, aby ťa práca v našom tíme bavila. Máme veľké portfólio klientov a radšej odmietneme projekt než aby sme sa navzájom trápili.
+- Top klienti - Pracujeme na zmysluplných projektoch pre známe firmy a zaujímavé startupy. Klientov si vyberáme a udržujeme s nimi veľmi dobré vzťahy založené na dôvere a otvorenej komunikácii.
+- Flexibilita - Pracuj koľko chceš a hlavne kedy chceš. Dôležité je dodržiavať termíny, na ktorých sa dohodneme a dodávať kvalitné výsledky. Podľa toho si nastavíme fungovanie na projektoch. A ty vieš najlepšie, koľko oddychu potrebuješ a ten ti vieme spoločne nastaviť.  
+- Neobmedzený home office - Ak sa vieš doma sústrediť viac než v office a zmenežovať svoj pracovný čas, nemusíš ani nazrieť do kancelárie. Podstatný je výsledok tvojej práce. Ale ak chceš, môžeš prísť aj do officu. Aktuálne máme kancelárie v Bratislave a v Košiciach.
+- Multisport karta - Naša práca je celý čas o sedení. Preto je pre nás dôležitý šport alebo oddych. Kedykoľvek môžeš požiadať o Multisport karty pre teba, tvojich kamošov a rodinu.
+- Odbremenenie od byrokracie - Zabezpečíme ti všetko, čo súvisí s prácou na živnosť, aby si sa mohol plne sústrediť na prácu, ktorá ťa baví.
+- Neobmedzený kariérny rast - Keď si šikovný, schopný a zodpovedný a máme na teba dobré ohlasy od klientov a kolegov, veľmi radi ťa proaktívne odmeníme zvýšením platu a rôznymi odmenami.
+- Vzdelávanie - Preplatíme ti kurzy ako aj 50% času stráveného vzdelávaním sa v IT, aj keď to priamo nesúvisí s aktuálnymi projektami, pretože neustály rozvoj je pre nás veľmi dôležitý. Okrem iného organizujeme spoločné diskusie a školenia na nové technológie a nástroje, pretože doba je rýchla a my musíme s ňou držať krok.
+- Realizácia vlastných nápadov - Dáme ti priestor na objavovanie svojho biznis programátorského JA. Máš zaujímavé nápady na projekty, ktoré podľa teba stoja za pokus? Poďme ich zrealizovať!
+- Legendárne teambuildingy - Komu by sa chcelo celý časť sedieť len za počítačom alebo do aleluja hľadieť na stackoverflow? Nám rozhodne nie a pre zachovanie tvojho duševného zdravia a výkonnosti musíme spolu zažívať nové veci, vidieť nové miesta a spoznávať nových ľudí.
+- Super kolektív - Nás si jednoducho musíš zamilovať. Nemáme prísne dané, kto je boss a kto je podriadený. Všetci sme kolegovia a zároveň priatelia, ktorí si pomáhajú a podporujú sa navzájom.
+- Vytunený paušál - Ak máš záujem o výhodný paušál v O2 či už pre seba alebo aj pre svojich známych, môžeme pridať tvoje číslo, alebo čísla, pod AMCEF, čím získaš veľmi výhodné zľavy (napríklad Titánový paušál za 15 €). Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Prax na pozícii/v oblasti2 roky Inzerujúca spoločnosť Stručná charakteristika spoločnostiFungujeme od roku 2015. Sme mladý 50-členný tím vývojárov so sídlom v Bratislave. Veľa z našich kolegov sú absolventi alebo študenti technickej školy, máme teda spoločný záujem o programovanie. 
+Rozrastáme sa, pracujeme na rozmanitých projektoch a to nám umožňuje ponúknuť ľuďom možnosť vybrať si projekty a technológie na ktorých budú robiť. Je to naša rokmi overená stratégia vedúca ku spokojnosti všetkých. 
+Víziou našej spoločnosti je inovovať. Je pre nás zásadné byť pre klientov aj poradcom, aby ich IT riešenia mali hlavu a pätu, a aby sme my nemuseli pracovať na projekte, ktorý nedáva zmysel. Počet zamestnancov25-49 zamestnancov KontaktKontaktná osoba: Samuel DobšaTel.: +421910126458E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4390535 
+     Dátum zverejnenia:  13.3.2023 
+    2023-03-13
+lokalita: Práca z domu   Pozícia: Backend programátor, Frontend programátor, IT architekt, Programátor, Softvérový inžinier   Spoločnosť: AMCEF s.r.o.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

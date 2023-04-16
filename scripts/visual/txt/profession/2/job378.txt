@@ -1,0 +1,96 @@
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Budapest
+Budapest
+Következő 
+DevOps Engineer
+Semilab Zrt.
+Budapest
+ Elvárt technológiák
+DEVOPS
+AZURE
+CLOUD
+POSTGRESQL
+SQL
+VISUAL STUDIO
+ Módszertanok és szoftverek
+Jira
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+ Elvárt technológiák
+DEVOPS
+AZURE
+CLOUD
+POSTGRESQL
+SQL
+VISUAL STUDIO
+ Módszertanok és szoftverek
+Jira
+Semilab Zrt.
+A SEMILAB a világ vezető mikroelektronikai, napelemipari és kijelző-gyártó cégeinek beszállítója a méréstechnika területén. Termékeinket a világ minden táján használják a gyártási folyamat ellenőrzésére és kutatás-fejlesztésre. A berendezéseket Budapesten fejlesztjük és gyártjuk, ahol saját szakembergárdánk felügyeli a termék teljes életútját, az ötlettől a tervezésen és gyártáson át a felhasználók támogatásáig.
+DevOps Engineer
+Főbb feladatok:
+Azure cloud instrastruktúra tervezése és deploymentje Infrastucutre as Code megoldások segítségévelFelügyelt Kubernetes klaszterekben workloadok telepítése és üzemeltetéseAutomatizált integrációs és telepítési módszerek (CI/CD) kialakítása, monitorozása,Részvétel a szoftver teljesítményének értékelésében,Hibák elhárítása, elemzése és dokumentálása,Disaster Recovery Procedure karbantartása, folyamatok tesztelése,NewRelic observability platform segítésével a szoftverrendszer állapotának monitorozása és felügyeleteHibák és kérések kezelése a JIRA-n keresztülTanácsadás és útmutatás a fejlesztőknek a DevOps-szal kapcsolatban
+Elvárások:
+Felső- vagy középfokú műszaki végzettség (pl.: mérnök informatikus, villamosmérnök)Legalább 3 éves tapasztalat Cloud és XaaS ("X" as a Service) üzemeltetésbenAzure Cloud magas szintű ismereteTapasztalat magas rendelkezésre állású és dinamikus méretezhetőségi megoldások tervezésében és megvalósításában az Azure-banKonténerizációs technológiák és Kubernetes magasszintű ismereteCI/CD pipeline kialakításában szerzet tapasztalat (bármilyen rendszerből)Adatbázis technológiák ismerete – PostgreSQL, MS SQLLegalább középfokú angol nyelvtudás (főleg írásban)Proaktív hozzáállás, strukturált gondolkodásNyitottság az önfejlesztésre / önálló tanulásra
+Előny:
+Jira feladat- és verziókezelő használatában szerzett tapasztalatCKA, CKS, CKD minősítésJártasság Visual Studio Code Server üzemeltetésébenSzóbeli középfokú angol nyelvtudás
+Amit kínálunk
+Versenyképes fizetés, CafeteriaCéges rendezvényekkel, csapatépítő programokkal és sportolási lehetőségekkel (pl. AYCM) törekszünk a jó hangulatraCégünk Újbuda szívében, tömegközlekedéssel is könnyen megközelíthető helyen található, valamit elektromos autó töltésére is van lehetőségA csapat nagyon összetartó, segítőkész, így a beilleszkedéssel nem lesz gondBiciklivel bejárás támogatása, öltözővel, tárolóval és zuhanyzási lehetőséggelSemilab dolgozói kedvezmények (vendéglátó egységek, patika, Green Go e-carsharing szolgáltatás, stb.)10 napos apaszabadság 100%-os térítéseA közigazgatási határon kívülről, tömegközlekedéssel történő bejárás 100%-os támogatása
+Jelentkezés módja
+Jelentkezés
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Üzleti támogató központok
+Informatikai támogatás
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+SEMILAB Félvezető Fizikai Laboratórium Zártkörűen működő Részvénytársaság
+Feldolgozóipar
+●
+Mérőműszergyártás
+1000+ munkavállaló
+1989
+1117
+Budapest,
+Prielle Kornélia utca 4/A.
+Értékelések a(z) SEMILAB zrt cégről
+Értékelések kategória szerint 
+3,8
+Megközelíthetőség 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

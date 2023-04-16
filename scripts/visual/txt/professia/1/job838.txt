@@ -1,0 +1,105 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceCX developer - Dôvera dizajn systém (KE) 
+Pracovné ponuky
+Benefity
+O nás
+Staráme sa o vaše zdravie aj kariéru.
+                                U nás dostanete výhody aj nad rámec zákona.
+Ponuky spoločnostiCX developer - Dôvera dizajn systém (KE)
+                                Miesto práce
+                            Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Mzdové podmienky (brutto)
+2 000 EUR/mesiacUvedená nástupná mzda je len garantované minimum. Je predmetom našej vzájomnej dohody a závisí od vašich odborných znalostí a skúseností. Navyše máte nárok na ročný bonus v závislosti od firemných výsledkov.
+                                Termín nástupu
+                            dohodou
+                                Druh pracovného pomeru
+                            plný úväzok
+Kto smeNový svet, o ktorý sa v Dôvere snažíme už vyše 25 rokov, je transparentné a kvalitné zdravotníctvo. Dobrý pocit z toho, že spolu aktívne, systematicky a zmysluplne meníme nielen našu poisťovňu, ale aj celé zdravotníctvo, budete mať každý deň. Robíme všetko pre to, aby sme boli v očiach verejnosti najlepšia zdravotná poisťovňa na slovenskom trhu a mali čoraz viac spokojných zamestnancov a poistencov. Ak chcete byť aj vy súčasťou modernej a stabilnej spoločnosti, ktorej oblasť inovácií a benefitov pre poistencov ako aj pre lekárov prináša pridanú hodnotu pre celý systém, pridajte sa k nám do Dôvery.Do akého tímu budete patriť?Na našom IT-čku máme skoro 100 interných kolegov a kolegýň, ktorí radi testujú, programujú a analyzujú. Náš tím „oddelenie vývoja aplikácií“ nájdete v Košiciach, ale máme kolegov aj v Bratislave.  Náš tím tvorí 20 programátorov, zložený z Frontend-istov, Backend-istov, SQL špecialistov, Appkových developerov (Android, iOS). Celkovo sa venujeme: .Net 6, MSSQL, ASP.NET, C-Sharp, Kotlin, Swift, ReactJS, TypeScript, Cache, InterSystems. Vy by ste práve pracovali s frontendovymi developermi na našom DDS projekte (Dôvera Dizajn Systém). V DDS sú použité technológie ako: JS, ReactJS, NextJS.Čo vás u nás čaká? Vyvíjate Dôvera Dizajn Systém komponenty na základe analýz funkcionality a scenárov použitia. Spolupracujete s našimi UX dizajnérmi. Tvoríte unit testy, udržiavate kvalitu zdrojového kódu. Konzultujete a pripomienkujte postupy, návrhy riešenia a implementáciu s aplikačným architektom. Zúčastňujete sa pravidelných stretnutí projektového tímu (Stand-Up Meeting) a reportujete riešenia projektovému manažérovi. Pripravujete programové patche pre odstránenie chýb v programovom kóde. Pomáhate juniorným programátorom.Čo by ste mali ovládať? Máte skúsenosti s vývojom a testovaním frontendových aplikácií (JS, ReactJS, NextJS). Máte skúsenosti s agilným developmentom. Radi pracujete v tíme. Máte chuť spolu s dizajnérmi rozširovať náš dizajn systém.Čo sa našim kolegom u nás páči? Predĺžené letné víkendy. Kedy je lepšie podporiť work-life balance ako v lete? Každému zamestnancovi darujeme každý piatok v júli a auguste 2 hodiny voľna, ktorými krátime pracovný čas. Prácu zvládneme odkiaľkoľvek. Každý zamestnanec si môže zvoliť, či chce pracovať v štandardnom režime 60 % home office a 40 % office. Ak niektorý z kolegov uprednostňuje pracovať viac z home officu, povaha práce mu to dovoľuje a jeho nadriadený mu to schváli, môže pracovať aj v režime 70/30 alebo 80/20 alebo dokonca aj 100 % home office. Nie sme korporát a ani malá firma – sme niečo medzi :). Máme tu rozbehnutých veľa dlhodobých projektov, ktoré naši kolegovia úspešne zastrešujú na svojich komplexných pozíciách. Väčšina našich projektov vzniká na „zelenej lúke“ a sami sa môžete presvedčiť, akí sme v nich úspešní.  Stereotyp a nuda vám zaručene nehrozí. Adaptačný proces u nás neznamená hodiť vás do vody a plávať, ale je to obdobie, počas ktorého vás postupne oboznámime so všetkým, čo budete potrebovať, aby ste boli plnohodnotným členom nášho tímu a aby ste sa na pozícií cítili komfortne. Šikovnosť a proaktivita sa u nás cení. A to odmenami za individuálny výkon a navyše, ak sa nám bude dariť, máte možnosť získať aj finančný bonus vo výške 3-násobku hrubej mesačnej mzdy. V Dôvere podporujeme kolegov, ktorí sa chcú vzdelávať. Kedykoľvek môžu absolvovať rôzne kurzy a odborné školenia, zúčastniť sa odborných konferencií alebo inšpiratívnych prednášok, webinárov či prezentácií o zaujímavých projektoch, na ktorých pracujú naši kolegovia. Na zdraví našich kolegov nám záleží, a preto radi realizujeme programy na podporu zdravého životného štýlu ako Rozhýbme sa s Dôverou, podporujeme bežecké podujatia, preplácame masáže na pracovisku, prispievame na MultiSport kartu a psychickú pohodu sa snažíme podporiť aj našou Linkou Dôvery, na ktorú sa môžeme nonstop a anonymne obrátiť pre prípadnú radu od psychológov a odborníkov na financie a právo. Radi občas vypneme a zregenerujeme svoje sily na našich spoločných akciách ako sú športové hry, vianočné večierky, grilovačky, husaciny, alebo odborové teambuildingy.Čo by vás ešte mohlo zaujímať? Miesto výkonu práce: väčšina nášho tímu sedí na Moldavskej v Košiciach, ale pár kolegov nájdete aj v Bratislave na Einsteinovej v Digital parku, odkiaľ máte blízko do Auparku, centra a rovno aj na diaľnicu, von z mesta. Spolupráca: hľadáme kolegu/kolegyňu na TPP so skúšobnou dobou 3 mesiace. Zmluvu s vami uzatvárame zatiaľ na dobu určitú na 1 rok, samozrejme po vzájomnej spokojnosti ju vieme predĺžiť na dobu neurčitú. Onboarding: Začína od momentu, kedy zareagujete na inzerát. A ja vás budem sprevádzať vaším pôsobením v Dôvere od prvého kontaktu. Kedykoľvek sa môžete na mňa obrátiť. 
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreIT Jazykové znalostiAnglický jazyk - Mierne pokročilý (B1) Osobnostné predpoklady a zručnosti Ste samostatný ale viete fungovať aj v tíme. Máte chuť sa vzdelávať a učiť sa nové veci. Ste dôsledný, precízny so snahou o čistý kód. Ste zodpovedný a máte orientáciu na výsledok. Informácie o výberovom konaníInformácie ohľadom spracúvania osobných údajov predovšetkým práva dotknutej osoby, v súlade s Nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) sú prístupné na www.dôvera.sk. Súhlas môžete kedykoľvek odvolať najmä zaslaním písomného odvolania na adresu sídla zdravotnej poisťovne, e-mailom na [email protected], alebo odovzdaním písomného odvolania na ktorejkoľvek pobočke zdravotnej poisťovne.
+Kontakt
+Kontaktná osoba:
+                            Ing.  Adriana Štefíková
+Adresa spoločnosti
+Poslať žiadosť
+Ponuky spoločnosti
+Dôvera
+O Dôvere
+Kontakty a pobočky
+Pre médiá
+Naše ocenenia
+Hlavná cena ITAPA
+2x Strieborná cena ITAPA
+ITAPA eFocus
+IT projekt roka
+facebook Awards
+© 2018 Dôvera
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4489748 
+     Dátum zverejnenia:  22.3.2023 
+    2023-03-22
+lokalita: Košice   Pozícia: Programátor   Spoločnosť: DÔVERA zdravotná poisťovňa, a. s.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

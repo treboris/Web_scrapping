@@ -1,0 +1,44 @@
+Jobs by email
+Apple Distribution International ULC
+Embedded 5G/4G Cellular Physical Layer Firmware Engineer (m/f/d)
+München
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Show salary
+I'm interested
+Save
+Summary
+Do you have a passion for invention and self-challenge? Do you thrive on pushing the limits of what’s considered feasible? As part of a world class modem team, you’ll craft sophisticated leading-edge embedded firmware that deliver more performance in our products than ever before. You’ll work across disciplines to transform improved hardware elements into a single, integrated design. Join us, and you’ll help us innovate new wireless systems technologies that continually outperform the previous iterations. By collaborating with other product development groups across Apple, you’ll push the industry boundaries of what wireless systems can do and improve the product experience for our customers across the world. Do you want to have an impact on every single Apple product? As a Wireless Embedded Physical Layer Firmware Engineer on this team, you will be at the center of the embedded 5G/4G/multimode cellular firmware effort within a silicon design group responsible for designing and productizing state-of-the-art cellular SoCs. This position requires someone comfortable will all aspects of embedded software development, that thrives in a dynamic cross-functional organization, is not afraid to debate ideas openly, and is flexible enough to pivot on constantly evolving requirements.
+Description
+Specify, design, and implement the firmware architecture of a state-of-the-art mobile wireless communications system.
+Implement key protocol, signal processing and numerical algorithms with very tight time, latency and energy budgets by interfacing to specialized cellular ASIC hardware.
+Work with silicon designers to define processor, bus, DMA, accelerator, and memory subsystems.
+Assist in the development of pre-silicon emulation systems/virtual platforms and use them for pre-silicon FW design and HW verification.
+Evaluate and implement leading edge tools for build, formal verification and test.
+Define methodologies and best practices.
+Qualifications
+Key Qualifications
+Experience with hardware control for physical layer 4G/5G data path processing.
+Understanding of 5G and 4G 3GPP protocols.
+Deep understanding of software engineering principles, and core computer science fundamentals.
+Fundamental facility with C and C++, compilers, build and source code control tools.
+Significant experience with memory constrained Real Time Operating Systems (RTOS) and concurrent programming.
+Working knowledge of computer architecture with particular emphasis on the HW/SW interfaces of high speed communication subsystems.
+Experience with silicon prototyping, emulation systems, and virtual platforms.
+Proficiency debugging embedded software systems. Familiarity with UARTs,JTAG, and oscilloscopes.
+Some mainstream OS application level development and Python or Perl scripting experience.
+Education and Experience
+Bachelor’s degree in electrical engineering or computer science is required.
+Why Apple?
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

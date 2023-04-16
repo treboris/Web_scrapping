@@ -1,0 +1,70 @@
+Jobs by email
+CARIAD
+(Senior) System Development Engineer - Communication (m/f/d)
+Wolfsburg, Ingolstadt, Mönsheim, Stuttgart, München
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+At CARIAD, it’s our mission to transform automotive mobility for everyone, everywhere, making it safer, more sustainable, and more comfortable in every way.
+To deliver on that promise, we’re building a unified technology and software platform, including a vehicle OS and cloud platform, as well as a unified architecture. As a 100% subsidiary of the Volkswagen Group, we’re developing solutions for all of its brands, including Volkswagen, Audi, and Porsche, and will bring our software to over 40 million vehicles by 2030.
+Is this an easy task? Not at all! To tackle such a huge challenge, we need a great team. And that’s where you come in. You’ll join more than 5,000 CARIDIANS already working on the latest vehicle features and functions like automated driving, state-of-the-art charging technology, as well as a new digital ecosystem. Together, we’re bringing sustainable change to one of the largest companies in the world.
+YOUR TEAM
+We are developing the technical heart of the car, and this consists of the highly integrated computing platforms for different domains like Infotainment, Cockpit, Body, Connected Vehicle and more.
+The Communication team is a specific unit within the Architecture and Development Department, responsible for all communication-relevant aspects such as ECU internal communication as well as communication from our computer towards the rest of the vehicle, typically via Ethernet or CAN-FD. Our responsibility spans from the selection of the needed Hardware, like Ethernet Switch or CAN-FD Transceiver, of low-level, hardware-based technologies such as Ethernet PHY or EMACs, throughout the specification, implementation and verification of all relevant system enablers for the communication over Ethernet and CAN-FD.&nbsp;
+Moreover, our team is responsible for OS-level features such as IP-Stack and Firewall.
+The service-oriented approach is the communication mechanism we use in our system and in the vehicle platform. It’s implementation in our devices includes service discovery as well as communication protocols such as SOME/IP and ViWi.
+#OneInfotainment #Infotainment
+WHAT YOU WILL DO
+Design and accompany future proof communication features (e.g. Ethernet &amp; service communication, switching, firewall, routing of automotive bus systems) through the whole V-model development process to ensure seamless communication over tightly networked domain control units in our vehicles
+Drive all development phases (SYS.2 to SYS.5) and liaise closely with multiple parties including internal stakeholders (like architecture, security, system integration, test) and suppliers
+Ensure the implementation and delivery of the needed system communication features for future vehicles
+Improve your feature design based on provided test / analysis results and perform hands-on measurements in test benches and vehicles
+Discuss and agree, together with the experts in the team, which SW and HW solutions will have to be adopted, to fulfill the given and future requirements
+WHO YOU ARE
+Completed studies in the field of electrical engineering, mechatronics, computer science, information technology or a comparable field and several years of professional experience
+Experience in System Engineering
+Knowledge in the development with automotive bus systems e.g. Ethernet and Ethernet protocols (SOME / IP)&nbsp;
+Tools: CANoe, Codebeamer, DOORS, Jira, MS-Office, PREEVision, Wireshark
+Ideally experience with Linux operation systems, Classic AUTOSAR and ASPICE
+Preferred: practical experiences in tool development using programming languages such as C/C++, Python, Java
+Strong team player and to have a proactive mindset with solid communication skills
+Fluent English and German language skills (both oral and written) required
+NICE TO KNOW
+Remote work options
+Temporary work from abroad in selected countries
+Flextime / optional working hours
+Company pension plan
+Annual professional development
+Sabbatical option up to 6 months
+30 days paid + 10 days unpaid leave
+Possibility for VW Group car leasing
+If you have further questions about the candidate journey at Cariad, talk to Cari, our Cariad Chatbot.&nbsp;Can’t see it? Check your settings or visit our&nbsp;FAQ
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

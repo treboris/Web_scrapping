@@ -1,0 +1,46 @@
+Jobs by email
+Apple Distribution International ULC
+AMS Analog Layout Engineer (f/m/d)
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+Summary
+As a member of Apple’s Analog Mixed-Signal layout team, you will be working on the newest technology nodes to build world-class custom analog macros, IO's, etc. This is a dynamic work environment with endless learning opportunities working in the AMS design team with members of integration, CAD, circuit and technology engineering. At Apple, we work every single day to craft products that enrich people’s lives. Do you love working on challenges that no one has solved yet? Do you like changing the game? We have an opportunity for a visionary and especially talented Analog Layout Designer. As a member of our dynamic group, you will have the rare and rewarding opportunity to craft upcoming products that will delight and inspire millions of Apple’s customers every day.
+Tasks
+As a member of the AMS layout team you will be responsible to deliver PDV clean layout, this includes the following:
+Crafting complex layout for mixed signal, and analog circuits in deep SubMicron CMOS technologies.
+Reviewing and analyzing floor-plans and complex circuits with circuit designers.
+Running complete set of design verification tools available on AMS blocks.
+Working with the circuit design team to plan/schedule work and negotiate any necessary layout trade-offs as needed.
+Interpreting LVS, DRC and ERC reports to find the fastest way to complete layout.
+Exceeding engineering specifications and expectations by working closely with the circuit design team.
+Utilizing advanced CAD tools and mask design knowledge to deliver correct and robust layout that meet stringent matching performance, area and power requirements.
+Qualifications
+Key Qualifications
+Typically requires 8+ years experience in analog/mixed-signal layout design of deep SubMicron CMOS circuits.
+Experience crafting tight matching, low noise, and low power analog blocks, resistors, capacitors, pad IO's, ESD structures, etc.
+High level of proficiency in custom and standard cell based floor-planning and hierarchical layout assembly.
+Must understand issues of IR drop, RC delay, electro-migration, self heating and cross capacitance.
+Must recognize failure prone circuit and layout structures, have experience with analog and DFM standard methodologies, and enthusiastically work with circuit designer for the best approach to problems.
+High level of proficiency in interpretation of CALIBRE DRC, ERC, LVS, etc., reports.
+Knowledge of MENTOR GRAPHICS or CADENCE layout tools.
+Scripting skills in Perl, Python or SKILL are considered a plus, but not required.
+Excellent interpersonal skills and able to work with multi-functional teams.
+Education and Experience
+BS Degree, or equivalent.
+Why us?
+Apple is an Equal Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

@@ -1,0 +1,64 @@
+Jobs by email
+Mercedes - Benz AG
+Function and Software Developer Keyless Go (f/m/x)
+Sindelfingen
+Permanent contract
+Full Time
+Published: 5 days ago
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: MER0002E90
+Aufgaben
+Mercedes-Benz Cars Research and Development designs the automotive generation of the future. In addition to electrified driving, infotainment, driver assistance and connectivity, body electronics more and more drives the customer experience. Comfort and luxury of the premium brand Mercedes-Benz is clearly determines by its body and comfort systems.
+As part of MB.OS, we are building a new software development organization with the aspiration to bring leading edge software engineering to the soul of the vehicle to accelerate innovation in body and comfort. We want to push boundaries with respect to speed of innovation and software dependability.
+For this mission we are looking for a function & software developer, as part of a powerful team, will help shape the next generation of control unit software in the Body & Comfort area.
+Your tasks include:
+Develop the software function keyless go (including smartphone features) in compliance with applicable standards (A-SPICE, ISO26262 etc.)
+Design the architecture for the software function keyless go
+Implement the software through suitable modeling (model-based) and/or hand code implementation
+Create complete software using CI/CD pipeline to integrate the software on the embedded controller
+Implement automated tests on unit and integrated software level (MiL, SiL, HiL etc.)
+Trace and debug the software function in the test environment and on the embedded target
+Spread your knowledge and experience in the team
+Qualifikationen
+What you bring to the table:
+Experience in embedded software engineering, ideally in the automotive domain throughout all process steps in the V-model
+Experience in AUTOSAR, ideally Vector stack & function and software development (model-based & hand code)
+Experience in functions in the domain body & comfort, especially in keyless go & central locking
+Understand the requirements of ISO26262 on automotive software development
+Passion for state-of-the art software engineering practices such as CI/CD, TDD, Everything-as-Code, DevOps
+Excitement for being part of something new, building a new organization from the scratch
+Readiness to accept challenges and push the boundaries
+Mind-winning personality with enthusiasm to spread her/his knowledge and experience in the team
+Degree in engineering, computer science, information systems or relevant skills acquired in previous occupation
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: SBV-Sindelfingen@mercedes-benz.com
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Mercedes - Benz AG
+71063 Sindelfingen, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

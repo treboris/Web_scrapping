@@ -1,0 +1,55 @@
+Közösség
+Kapcsolat
+Linux Fejlesztőmérnök állás Budapest
+Javascript
+C
+Python
+Linux
+Rendszer / Hálózat, DevOps állások 
+Cégleírás / Organisation / DepartmentÜgyfelünk fő profilja videotechnikai berendezések tervezése és gyártása. Részt vesznek többek között rendezvények, koncertek vizuális támogatásában, de foglalkoznak modernizált tárgyalók kialakításától kezdve a sorozatgyártáson át, az orvos technikáig, számtalan izgalmas projekttel. Elvárások / RequirementsTéged keresnek, ha:
+legalább 3 év Linux alkalmazás fejlesztői tapasztalatod van;
+jó vagy valamilyen script nyelvben (pl. Bash, Shell, Python, JavaScript, nodeJS);
+Git verziókövető ismereted;
+rendszerszemléletű gondolkodásmódod;
+szakmai angol nyelvismerettel rendelkezel.
+Előnyt jelent, ha:
+szereztél már tapasztalatot beágyazott rendszerek fejlesztésében;
+van modern C++ ismereted (C++17);
+van GNU Make, gcc, gdb felhasználói szintű tapasztalatod;
+rendelkezel Continuous Integration tapasztalattal (pl. Jenkins);
+van systemd ismereted;
+vannak hálózati és IT biztonsági ismereteid;
+dolgoztál már agilis fejlesztési környezetben.
+Amit kínálunk / Offer
+a cég által fejlesztett videotechnikai berendezések szoftverének fejlesztése;
+részvétel a termék- és szoftverspecifikálásban, az architektúra tervezésben és a szoftver teljes fejlesztési folyamatában;
+új készülékek belső működtetésének kitalálása, megvalósítása és kipróbálása már a fejlesztési fázisban, amelyek az általad fejlesztett szoftverrel működnek;
+jól strukturált, igényes kód írása.
+Kapcsolattartó / Information
+kijelölt mentor, és rendkívül támogató csapat segíti betanulásod;
+komplex mérnöki problémákkal találkozhatsz, melyek mindig új kihívásokat rejtenek;
+végigkövetheted a teljes fejlesztési folyamatot, és kipróbálhatod a működő eredményt;
+meghallgatják az ötleteidet, legyen szó termékekről vagy akár folyamatokról;
+mindig a legújabb technológiákkal, szabványokkal foglalkoznak az AV területen, így folyamatosan fejlesztheted magad;
+részese lehetsz egy magyar cég sikerének a világpiacon;
+betanulás után heti 2 nap home office lehetőséget;
+belvárosi, jól megközelíthető munkahelyet;
+emberközpontú szemléletet;
+magas színvonalú csapatépítő tréningeket és egyéb közösségépítő programokat.
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary													
+Budapest
+Nincs meghatározva
+ Rendszer / Hálózat, DevOps
+Lejárati dátum: 2023-05-18 08:00:00
+Álláshirdetés részletei
+PozícióLinux Fejlesztőmérnök
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaRendszer / Hálózat, DevOps
+Hasznos linkek

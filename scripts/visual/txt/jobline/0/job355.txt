@@ -1,0 +1,42 @@
+ Belépés ›
+Deep Learning Engineer (Budapest)
+Deep Learning Engineer (Budapest)
+Jelentkezem az állásra ›
+Karrier Hungária
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deep Learning Engineer
+Megbízónk sikeresen nyújt komplex megoldásokat olyan területeken, mint mobilfizetés, áruforgalom ellenőrzése, elektronikus számlák kezelése, utcai és zárt téri parkolás, útdíjszedés és intelligens mobilitás koncepció.
+Feladatok:
+Full stack pénzügyi prediktív gépi tanulás módszereket alkalmazó rendszer fejlesztése
+A rendszer által generált eredmények elemzése és informatív megjelenítése
+Deep Learning pipeline infrastruktúra fejlesztése és feladatok automatizálása
+Új módszerek felkutatása és prezentálása különböző szintű technikai ismeretekkel rendelkező 
+Elvárások:
+Adatvizualizációs eszközök készségszintű használata (pl.: Matplotlib, Seaborn)
+Deep Learning keretrendszerek készségszintű ismerete és használata (Pytorch, Tensorflow)
+Gyakorlati tapasztalat különböző Machine Learning modellek mind Supervised, Unsupervised és Reinforcement Learning terén.
+Data Science alapismeretek
+Machine Learning projektek deployolása
+Fejlesztői eszközök alapos ismerete és készségszintű használata (Git, Docker, Jira)
+Angol nyelvtudás
+Ajánlatunk:
+Változatos hazai és nemzetközi projektek a legmodernebb technológiákra alapozva 
+Üzletileg kritikus, magas rendelkezésre állású IT rendszerek fejlesztése 
+Szakmai képzéseken, konferenciákon való részvételi lehetőség
+Dinamikus, szakmailag tapasztalt, széles látókörű kollégák
+Előnyök:
+Flask tapasztalat
+Tapasztalat idősoros előrejelzésben
+Pénzügyi tapasztatlat
+Munkavégzés helye:
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások

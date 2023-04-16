@@ -1,0 +1,43 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSW Engineer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+SW EngineerInformácie o pracovnom miesteMiesto práce: Práca z domuMzdové podmienky (brutto): Od 2 900 EUR/mesiacfinálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*Termín nástupu: dohodouDruh pracovného pomeru: plný úväzokNáplň práce, právomoci a zodpovednostiSW Engineer je súčasťou tímu, ktorý vyvíja aplikácie v pre oblasť 3D produktov, ktoré sú využívané pre rôzne oblasti (letecký priemysel, výroba, konštrukcia, projekčná činnosť). 
+Náplň práce:
+- návrh nového riešenia , tvorba matematických modelov a ich návrhy, následne naprogramovanie ich výpočtov,  programovanie v jazyku C/C++, Python, alebo ADA, Fortran/Pascal  na  systémoch /Linux CentOS/
+- tvorba pomocných skriptov v Perl, Shell, TCL
+- vývoj SW komponentov v menších tímoch (2-3 ľudí)
+- spolupráca s automatizovanými testermi
+- tvorba technickej dokumentácie a manuálov
+- senior developer má možnosť zúčastniť sa na tvorbe nového produktu spoločnosti
+- komunikácia s interným developerským tímom, vedúcim oddelenia a developerskými tímami v ostatných zahraničných pobočkách Iné výhody•	dovolenka nad rámec zákona
+•	pružný pracovný čas
+•	práca v medzináronom prostredí
+•	vývoj na novom produkte Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieMedzinárodná IT spoločnosť. Požiadavky na zamestnanca Požadované vzdelanievysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiUNIX/Linux - ZákladyC - PokročilýPožadovaná praxprogramovanie C/C++ Linux2Osobnostné predpoklady a zručnosti- vysokoškolské vzdelanie zamerané na informačné technológie 
+- minimálne 1-2 roky skúseností s vývojom softvéru v C/C++ jazyku
+- základná znalosť OS UNIX/Linux (znalosť základných príkazov)
+- znalosť v oblasti skriptovania /Shell
+- veľká výhoda je znalosť Python, alebo staršie jazyky ako Pascal/Fortran 
+- znalosti v oblasti networkingu /protokoly, sieťové prvky, monitorovacie nástroje/ 
+- znalosť anglického jazyka na aktívnej úrovni (písomná a verbálna komunikácia) 
+- logické a analytické myslenie, tímovosť i samostatnosť, záujem o nízkoúrovňové programovanie
+- veľmi dobré matematické myslenie Inzerujúca spoločnosť Stručná charakteristika spoločnostiPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)Spoločnosť je držiteľ povolenia na sprostredkovanie práce. (AA/2009/4810/4232/OISS) Hlavná oblasť pôsobenia spoločnostiSprostredkovanie práce a personálne poradenstvo Počet zamestnancov10-19 zamestnancov Informácie o výberovom konaní* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: [email protected]KontaktKontaktná osoba: Mgr.  Anna SpasováTel.: +421 2 6241 3438, +421 911 525 022E-mail: 
+ID: 4515456 
+     Dátum zverejnenia:  7.2.2023 
+    2023-02-07
+lokalita: Práca z domu   Pozícia: C programátor, C++ programátor, IT tester, Programátor, Softvérový inžinier   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 2 900 EUR/mesiac
+                Všetky ponuky

@@ -1,0 +1,47 @@
+ Belépés ›
+Full Stack Fejlesztő (REF1279D) (Budapest)
+Full Stack Fejlesztő (REF1279D) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+A Deutsche Telekom IT Solutions (korábban IT Services Hungary, ITSH) Magyarország legnagyobb IKT-munkaadója, a Deutsche Telekom Csoport tagja. A 2006-ban alakult, több mint 5000 fős cég az informatikai és telekommunikációs szolgáltatások széles körét nyújtja. A vállalat 2019-ben elnyerte a Nemzeti Befektetési Ügynökség (HIPA) legjobb oktatási együttműködésért járó díját, a PwC Magyarország független felmérése alapján a legvonzóbb magyarországi munkahelyek közé tartozik, és a legetikusabb multinacionális vállalat címét is megkapta. A cég folyamatosan fejleszti négy – budapesti, debreceni, pécsi és szegedi – telephelyét, és várja képzett informatikai szakemberek jelentkezését a csapatába.
+Full Stack Fejlesztő (REF1279D)
+Dolgozz Európa vezető telekommunikációs vállalatánál, légy meghatározó tagja fejlesztő csapatunknak, amely vállalatunk jelenlegi és jövőbeli hálózati megoldásait támogató szoftvereit fejleszti.
+Feladatok:
+SD-WAN fejlesztése Pythonnal
+Toolok és interfészek fejlesztése network orchestration topickhoz
+Intraneten elérhető API-ok implementálása
+Hálózati eszközöket monitorozó és adminisztráló belsős tool fejlesztése
+A cég jelenlegi és jövőbeli hálózati megoldásaihoz kapcsolódó szoftverfejlesztésekben való részvétel
+Szoros együttműködés a német fejlesztő kollegákkal
+Elvárás:
+Haladó ismeretek, tapasztalat az alábbiakból:
+Python programming
+YANG
+Docker
+Gitlab CI
+OpenAPI
+Magabiztos angol nyelvtudás
+Előnyök:
+Netconf/Restconf
+Cisco NSO
+Tardis (telekom internal API handler)
+Német nyelvismeret
+Javascript
+Vue
+Rust
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások

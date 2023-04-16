@@ -1,0 +1,48 @@
+Jobs by email
+N26 GmbH
+Lead Data Engineer
+Berlin, Barcelona, Vienna
+Published: 1 week ago
+Save
+About the opportunity
+We are seeking a pragmatic Lead Data Engineer to join our team and change the way of working with the increasing amount and variety of data at N26.
+Our team builds data processing pipelines for a wide range of use cases to support analytics, machine learning and operations. We consider data engineering to be one of the most interesting specializations of software engineering, where solid engineering can be combined with challenging algorithmic problems to achieve efficient data processing at scale.
+In this role, you will:
+Drive the development and architecture of robust and scalable data processing tools, processes and infrastructure at N26.
+Work closely with data analysts, data scientists and other teams within the company to solve problems that require data.
+Look for opportunities to make internal processes better by leveraging our data infrastructure.
+What you need to be successful:
+Background:
+At least 7 years of experience in Data Engineering, DWH or related fields.
+Experience in a start-up environment is a plus.
+Skills:
+Strong knowledge and experience with some distributed data processing technology like Redshift / BigQuery / Snowflake / Spark or similar.
+Excellent understanding of data warehouse architectures.
+Proven experience in data modeling and data warehouse design.
+Proven experience in ETL data pipelines design, implementation and maintenance.
+Excellent knowledge of SQL and approaches to query optimization.
+Excellent knowledge of software engineering practices and hands-on experience designing production-level Python code.
+Experience working with Cloud-Native technologies (AWS/Azure/GCP).
+Experience with Infrastructure-as-Code tools is a plus (preferable Terraform).
+Experience with Kubernetes is a plus.
+Ability to define new and challenge existing best practices for data processing and architecture.
+Experience in mentoring other data engineers and knowledge sharing.
+Ability to drive tech initiatives independently - from idea to implementation.
+You search for pragmatic solutions to balance the different requirements of data projects, and build robust systems that create synergies instead of legacy.
+Language skills: English full professional proficiency.
+What’s in it for you:
+Accelerate your career growth by joining one of Europe’s most talked about disruptors 🚀.
+Employee benefits that range from a competitive personal development budget, work from home budget, discounts to fitness & wellness memberships, language apps and public transportation.
+As an N26 employee you will have access to a Premium subscription on your personal N26 bank account. As well as subscriptions for friends and family members.
+Vacation days vary depending on your location of work. Additional day of annual leave for each year of service.
+A high degree of autonomy and access to cutting edge technologies - all while working with a friendly team of peers of diverse nationalities, life experiences and family statuses.
+A relocation package with visa support for those who need it.
+Who we are
+N26 has reimagined banking for today’s digital world. Technology and design empower everything we do and it’s how we are building the global banking platform the world loves to use.
+We've eliminated physical branches, paperwork, and hidden fees for an elegant digital experience and supreme savings. Giving people the power to live and bank their way is what gets us out of bed in the morning and inspires the work that we do.
+Founded in 2013, N26 now has 7 million customers in 24 markets. We employ more than 1,500 employees across 3 office locations in Berlin, Vienna and Barcelona. Besides the main offices, N26 also has local offices in Paris, Madrid, Milan, and São Paulo.
+Sound good? Apply now for this position.
+N26 is an equal opportunity employer and values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status or disability status.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner

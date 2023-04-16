@@ -1,0 +1,47 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our partner is a global technology company supplying systems for passenger cars, commercial vehicles and industrial technology, enabling the next generation of mobility. With its comprehensive technology portfolio, the company offers integrated solutions for established vehicle manufacturers, mobility providers and start-up companies in the fields of transportation and mobility.
+The following challenges await our new Software Test Engineer:
+Execution of tests using HIL (Hardware-In-the-Loop) simulators in the field of conventional and hybrid truck transmissions
+Manual and automated evaluation of measurements (using Vector tools such as CANape, CANalyzer; FAMOS)
+Development and execution of automated tests
+Documentation and presentation of test results
+Improvement of tests and testing strategies
+Collaboration in an international team
+                Elvárások / Requirements
+The requirements you should fulfill:
+University/College degree in Vehicle Engineering, Electrical Engineering, Mechatronics, Mechanical Engineering, or Computer Science
+Good command of English and/or German, both written and spoken
+Basic knowledge/understanding of coding, scripting, programming (Python, C, C#, C++ or other)
+It's an advantage if you also have:
+Experience in automotive function or system development
+User-level knowledge of Matlab / Simulink, Vector tools (CANalyzer, CANape development tools)
+Category C driving license
+                Amit nyújtunk / Benefits
+What our partner offers:
+Participation in international projects and missions abroad
+Training programs and language courses opportunities
+Excellent workplace atmosphere and attractive working environment
+Competitive salary, performance-related bonus and cafeteria
+Different sports options
+School start support
+Software Test Engineer 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 03.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Embedded Software Systems Test Engineer 
+ Budapest  
+ Embedded Software Test Engineer 
+ Budapest  
+ Software Test Engineer 
+ Budapest  
+ Software QA Test Engineer 
+ Budapest  
+ Test Automation Engineer  
+ Budapest  

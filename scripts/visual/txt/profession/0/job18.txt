@@ -1,0 +1,133 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Következő 
+Senior szoftverfejlesztő
+Rheinmetall Electronics Hungary Kft.
+Budapest
+ Elvárt technológiák
+C++
+C
+JAVA
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+C++
+C
+JAVA
+Senior Szoftverfejlesztő
+A RHEINMETALL ELECTRONICS HUNGARY KFT.-NÉL BUDAPEST TERÜLETÉN
+Feladatok
+Az átfogó szoftverarchitektúrába ágyazott szoftverkomponensek és alrendszerek tervezése, fejlesztése, tesztelése és bevezetéseA vonatkozó szoftverkomponensek dokumentálása és a rendszerintegráció támogatásaSzoftverprototípusok készítése és kísérletek elvégzése az alternatív tervek értékeléséreElmélyedés a probléma technikai részleteiben, illetve azok értelmezése, továbbá a megoldás érdekében az együttműködés elősegítéseTájékozódás a meglévő és a legmodernebb szoftvertechnológiák területénFiatalabb mérnökök mentorálása
+Elvárások
+Informatika, mérnöki vagy kapcsolódó szakterületen szerzett bsc diplomaSzámítástechnikai alapismeretek az algoritmustervezés, adatszerkezetek, objektumorientált tervezés és komplexitáselemzés területénTöbb mint 5 éves tapasztalat nagy szoftverprojektekben való részvétellel, valamint az architektúrához és a tervezéshez való hozzájárulásban (teljesítmény, méretezés, karbantarthatóság, tesztelhetőség stb.)Nagyon jó programozási és tervezési készségek legalább egy fontos objektumorientált programozási nyelven (C++, C#, Java)Kifejezett előnyt jelent a C# nyelvben szerzett tapasztalatTapasztalat a modern CI/CD automatizálási gyakorlatokbanElőnyt jelent a szoftverfejlesztés technikai irányításában szerzett tapasztalatKiváló angol és magyar nyelvtudás szóban és írásbanEurópán kívüli utazási hajlandóság Kérjük, angol nyelven nyújtsa be jelentkezését erre a pozícióra!A Rheinmetallnál az Ön erősségei és tapasztalatai számítanak. Nagyra értékeljük a jelentkezők sokszínűségét és különös hangsúlyt fektetünk az esélyegyenlőségre. Örömmel vájuk jelentkezését! 
+Amit kínálunk
+Versenyképes kompenzációs csomagKreatív és dinamikus munkakörnyezetRugalmas munkaidő modellekMunka és a magánélet egyensúlyának biztosításaInnovatív megoldások a mobilitás és a biztonság jövőjéért
+Rólunk
+Digitalizáció, hálózatépítés, kiber - a konszern elektronikus megoldások részlege a rendszerhálózat teljes láncát lefedi, az érzékelőktől a platformok és a katonák hálózatba kapcsolásán át az effektorok (részben) automatizált összekapcsolásáig. Ezt egészítik ki a kibertérben használható védelmi megoldások. A Rheinmetall ezen divíziójának további tevékenységi területei közé tartoznak az átfogó képzési és szimulációs megoldások, amelyekhez a vállalat több mint 40 éves tapasztalattal járul hozzá. Ezen kívül üzemeltetői megoldásokat is kínálunk repülőgépek számára. A divízió a Légvédelmi és Radarrendszerek, az Integrált Elektronikai Rendszerek és a Műszaki Kiadványok üzletágakra oszlik.A világszerte több mint 25 000 alkalmazottat foglalkoztató, integrált technológiai csoportként a tőzsdén is jegyzett Rheinmetall AG egy erős anyagi háttérrel, sikeres nemzetközi tevékenységgel rendelkező vállalat, amely különböző piacokon rendkezik innovatív termék- és szolgáltatáskínálattal. A Rheinmetall a globális autóipar elismert fejlesztési partnereként és közvetlen beszállítójaként, valamint a biztonságtechnika vezető nemzetközi rendszerházaként az alaptechnológiák magas szintű szakértelmére támaszkodva foglalkozik a hosszú távú megatrendekkel, azonosítja a nagy növekedési potenciállal rendelkező, életképes új piacokat, és innovatív megoldásokat fejleszt ki a biztonságos és élhető jövő érdekében. A fenntarthatóságra való összpontosítás a Rheinmetall stratégiájának szerves részét képezi. A vállalat célja, hogy 2035-re CO2-semlegességet érjen el.
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Projektmenedzsment
+Tesztelő, Tesztmérnök
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Rheinmetall Hungary Zártkörűen Működő Részvénytársaság
+Feldolgozóipar
+●
+Katonai harcjármű gyártása
+100-250 munkavállaló
+2020
+8900
+Zalaegerszeg,
+Dr. Michelberger Pál út 3.
+Munkahelyi extrák
+Céges rendezvények
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Senior Szoftverfejlesztő
+Rheinmetall Electronics Hungary Kft.
+Budapest
+Jelentkezem
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

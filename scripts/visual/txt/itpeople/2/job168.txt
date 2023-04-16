@@ -1,0 +1,77 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Senior Software Developer állás Budapest
+C
+Tesztelés állások 
+Cégleírás / Organisation / DepartmentOur international Australian partner is focused on the future of mobility on the field of autonomous and electric vehicles. They are looking for an experienced Senior Software Developer to join to their growing team. Elvárások / Requirements- An Engineering or Computer Science degree, or equivalent experience- A passionate interest in electric transport and an interest in developing new generations of electric vehicles- Proven experience in building and releasing production ECU or controller software packages in relevant engineering projects- Proficiency in embedded software development in C/C++, model-based development in Simulink- Proficiency with automotive or industrial communications such as CAN and Ethernet- Experience with the v-model automotive software development lifecycle- Experience with software functional safety implementations and optionally, ISO26262 certifications- Strong understanding of vehicle dynamics, control theory and sensors- Enjoy working in a fast-paced and growing global team environment- Ability to work independently with a strong team ethos- Capable of mentoring junior engineers in the software engineering domain- Minimum of 5 years of experience in software development in industry- Proficient in Hungarian and English
+It's an advantage if you also have:- General knowledge of embedded electronics development and the ability to read schematic diagrams- Understanding of the standards of functional safety ISO26262, IEC61508 and/or ASIL- Technical experience related to electronic systems at a component, sub-system and system level- An ability to analyse test results, highlight abnormalities and present outcomes to an audience with a range of technical expertise- Cross functional knowledge across the disciplines of electronics, mechatronics, and software- Experienced with Microsoft Office suite- Strong interpersonal and communication skillsAmit kínálunk / Offer- Being an experienced senior member in a software team developing safety-critical and mobility-focused embedded software- Design new algorithms and develop adaptions to existing algorithms for vehicle motion control, user interfaces, actuator and energy management with the software development team- Manage implementation of systems tests, debugging and diagnostics and analyse resulting data- Plan, design, and optimize automated test cases and CI/CD pipelines with the software test team- Participate in design and code reviews within our software development lifecycle- Generate and analyze requirements and specifications from stakeholders- Collaborate with other software engineers, electrical, mechanical, systems, and product teams to resolve issuesKapcsolattartó / Information- Work at an exciting technology company within Hungary delivering globally in a multi-national group- Enjoy a clear sense of ownership in your field, with the satisfaction of working on developments that create the future of a new category of autonomous vehicles- Work alongside a friendly and passionate team on cutting edge technology- Have the opportunity to travel to other company offices including Australia and the UK- Enjoy modern office space and great work environment 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Jelentkezés
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary Kft													
+Budapest
+Nincs meghatározva
+ Tesztelés
+Lejárati dátum: 2023-04-26 13:55:00
+Álláshirdetés részletei
+PozícióSenior Software Developer
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaTesztelés
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

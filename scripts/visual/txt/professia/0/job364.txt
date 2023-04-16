@@ -1,0 +1,56 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práce Backend Developer  Можливість для людей з України
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky Backend Developer''PRIMEHOST'' LTD
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 1 200 EUR/month
+Information about the position Job description, responsibilities and dutiesWe are a large international IT company providing a wide range of services: shared hosting, VPSs based on Linux and Windows, dedicated servers, domain name registration, and much more. Our vector of development is the search and development of ready-made products in the hosting market for the SMB/SOHO segments.
+Technical requirements:
+- at least 2 years of commercial experience with PHP and JavaScript;
+strong knowledge of OOP, experience with MVC frameworks, understanding of SOLID principles;
+- ability to test your own and other people's code, write Unit-tests;
+- experience in designing and implementing modules/projects;
+- skills in building and optimizing SQL queries;
+- programming languages:
+Backend: PHP7/PHP8 (knowledge of the programming language itself, plus Laravel 9.x)
+Frontend: JavaScript/TypeScript (Vue3 framework)
+Will be a plus:
+- understanding of Agile principles;
+- experience with Laravel, Symfony, CakePHP;
+- experience in creating and/or maintaining a JS SPA;
+- experience developing and operating REST APIs;
+- ability to write on TDD.
+Used technologies:
+PHP7.x/PHP8.x, MySQL, Laravel 9.x, Vue 3, JavaScript/TypeScript.
+We offer:
+- work in a team of professionals at the international level;
+- system of development and growth in the company;
+- cozy office or remote work without time trackers;
+- medical insurance program.
+Join our team!
+About PrimeHost
+We are a large international IT company providing a wide range of services: shared hosting, VPS based on Linux and Windows, dedicated servers, domain name registration and much more. Our vector of development is the search and development of ready-made products in the hosting market for the SMB/SOHO segments. Employee perks, benefitsWe offer:
+- work in a team of professionals at the international level;
+- system of development and growth in the company;
+- cozy office or remote work without time trackers;
+- medical insurance program. Information about the selection processUsed technologies:
+PHP7.x/PHP8.x, MySQL, Laravel 9.x, Vue 3, JavaScript/TypeScript. Requirements for the employee Candidates with education suit the positionPrimary education
+Secondary without school-leaving examination
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsUkrainian - Proficiency (C2) and English - Intermediate (B1)Other knowledgePHP - SkillfulLaravel (PHP framework) - SkillfulVue.js - SkillfulSymfony (PHP framework) - SkillfulJavaScript - SkillfulTypeScript - SkillfulOOP  - Skillful Advertiser Brief description of the companyAbout PrimeHost
+We are a large international IT company providing a wide range of services: shared hosting, VPS based on Linux and Windows, dedicated servers, domain name registration and much more. Our vector of development is the search and development of ready-made products in the hosting market for the SMB/SOHO segments. 
+ID: 4518279 
+     Dátum zverejnenia:  11.2.2023 
+    2023-02-11
+lokalita: Remote work   Pozícia: Backend developer, PHP Programmer   Spoločnosť: ''PRIMEHOST'' LTD   
+Základná zložka mzdy (brutto): 1 200 EUR/month
+                Všetky ponuky

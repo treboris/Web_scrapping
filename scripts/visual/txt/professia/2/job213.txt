@@ -1,0 +1,117 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJunior Java Engineer  Можливість для людей з України
+About us
+Our benefits
+Students
+Open positions
+Junior Java Engineer
+Place of work
+Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 1 900 EUR/monthOur final offer to you will be set up fairly, considering the skills and experience that you bring to the Swiss Re Group.
+Information about the position Job description, responsibilities and dutiesAbout the Role
+Are you a sharp, ambitious, and open-minded software engineer who is respected by peers, enjoys a challenge, and thrives collaborating in a diverse multi-national team? If so, then this is a superb role where you can demonstrate and broaden your experience, bring forward your ideas and keep learning. As one of our engineers, you will:
+Be part of team of application engineers focusing on Finance applications, helping to embed our culture of continuous improvement and contribute in demanding projects.
+Contribute to the design, implementation and maintenance of new features / components / interfaces / documentation of our platforms, ensuring the delivery of high-quality code focusing on simplicity, performance, maintainability and automation.
+Help us appraise and then deliver new, innovative and creative ideas & technologies to evolve our platforms
+About the Team
+We are a dynamic and international team of experienced specialists that design, build and operate the Group Finance IT landscape in collaboration with our business partners. We follow agile methodologies and apply DevOps practices. We are actively focusing on the Microsoft Azure as a cloud solution for our future landscape. Employee perks, benefitsYou can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card Information about the selection processOur aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder. Requirements for the employee Candidates with education suit the positionFollow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skillsAbout You
+You are a result driven software engineer with a university degree (Masters preferred) in IT, engineering (or similar), comfortable meeting (sometime tight) deadlines.
+You desire to develop your skills and knowledge about the platforms on you will be working on, both the technical aspects and how they are used by our business partners.
+You are willing to working in multi-dimensional agile teams with direct involvement from business SMEs and care about security, quality, user experience, documentation, testing, team spirit and the big picture.
+Finally, you want to put clean code principles into practice on large code bases.
+Requirements to be successful as our new teammate
+Nobody is perfect and meets 100% of requirements. If you however meet some of the criteria below, we will be happy to meet you.
+Necessary criteria to be successful in this role:
+-Core Java skills, ideally with experience with the Spring Framework (especially Spring Boot), Java 11+, JPA
+-Experience with Java tooling and ecosystem: maven, junit, etc.
+-Focus on automated testing and test-driven development.
+Good object-oriented design skills, familiarity with design principles and patterns
+-Good working knowledge of data modelling and SQL
+-Willing to get hands dirty with Cloud Computing
+-Enjoy solving challenging problems, both technical and functional
+-Highly proficient in English (written and verbal)
+Optional skills which will help you to succeed as our new teammate:
+-Building frontend apps with Angular and TypeScript
+-Knowledge of Non-SQL databases
+-Experience with webservices and REST APIs and distributed systems Advertiser Brief description of the companyAs the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders. Number of employees1700 and more employees Company addressLearn more about working in Swiss Re Slovakia. ContactContact person: Jakub Varhol
+Apply here
+ID: 4457949 
+     Dátum zverejnenia:  28.3.2023 
+    2023-03-28
+lokalita: Bratislava   Pozícia: Java Programmer, Service Engineer, Software Engineer   Spoločnosť: Swiss Re   
+Základná zložka mzdy (brutto): 1 900 EUR/month
+Odporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

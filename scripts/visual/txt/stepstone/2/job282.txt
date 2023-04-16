@@ -1,0 +1,108 @@
+Jobs by email
+Edenred Deutschland GmbH
+Data Base Administrator (m/w/d)
+München
+Permanent contract
+Full Time, Home office possible
+Published: 5 days ago
+Show salary
+I'm interested
+Save
+Edenred is a leading digital platform for services and payments and the everyday companion for people at work, connecting over 50 million users and 2 million partner merchants in 46 countries via roughly 900,000 corporate clients.
+Edenred offers specific-purpose payment solutions for food (such as meal benefits), incentives (such as gift cards, employee engagement platforms), mobility (such as multi-energy, maintenance, toll, parking and commuter solutions) and corporate payments (such as virtual cards).
+True to the Group’s purpose, “Enrich connections. For good.”, these solutions enhance users’ well-being and purchasing power. They improve companies’ attractiveness and efficiency, and vitalize the employment market and the local economy. They also foster access to healthier food, more environmentally friendly products and softer mobility.
+Edenred’s 10,000 employees are committed to making the world of work a connected ecosystem that is safer, more efficient and more responsible every day.
+In 2021, thanks to its global technology assets, the Group managed close to €30 billion in business volume, primarily carried out via mobile applications, online platforms and cards.
+Edenred is listed on the Euronext Paris stock exchange and included in the following indices: CACNext 20, CAC Large 60, Euronext 100, FTSE4Good and MSCI Europe.
+We are looking for you as a Data Base Administrator (m/f/d) in full-time at our location in Munich!
+As part of the company’s digital transformation, we are looking for a SQL Server DBA, to be a member of the local Team, responsible for the implementation, configuration, maintenance, and performance review of critical SQL Server RDBMS systems.
+Does that sound exciting to you? Then we are looking for you to strengthen our team and look forward to your application!
+Your tasks:
+Manage on-premise database environments to deliver services that meet the SLA with internal & external customers
+Configure and maintain database servers and processes
+Work with Project Managers, Application, and Architecture teams to plan and implement database improvement projects
+Involve in database migration projects. This includes planning, managing, and updating the respective teams on the status of the projects
+Perform troubleshooting on any SQL related issues
+Support and maintain data and database systems performance to meet business delivery specifications and needs
+Refine and automate regular processes, track issues, and document changes
+Ensure all IT assets comply to corporate security policies
+Leverage industry best practices in IT Service Management (ITIL), promote a quality customer support and service culture to achieve operational excellence and customer satisfaction
+Your profile:
+Bachelor’s degree (or higher) in Computer Science/Information Technology or relevant discipline
+3+ years of experience as a SQL Server DBA in a production environment
+3+ years of experience with databases used in high-volume, On-Premise and/or Cloud-based web solutions
+3+ years of experience with Windows server, including Active Directory
+Hands-on experience in configuring, managing and troubleshooting Windows Cluster, SQL FCI Cluster, SQL Always On Availability Group Cluster
+Hands-on experience in configuring and managing database activities such as backup/restore databases, creating SQL accounts, creating SQL agent jobs and setting up database replications
+Hands-on experience in Azure Cloud is a plus
+Microsoft certification (Azure/Database) is an advantage
+Sound troubleshooting skills, analytical thinking, pro-active mindset, able to work both independently and as part of a global team
+Strong in communication and organization, be able to prioritize task and re-prioritize constantl
+High interest in growing database architecture, design, implementation, and support expertise
+Prior experience or will to learn additional database engines (such as PostgreSQL, MySQL, Cosmos DB, etc.)
+Fluent English and German skills (spoken and written)
+We offer you:
+A virtual welcome week plus a comprehensive and cordial induction by our subject matter experts and HR in compliance with the corresponding COVID-19 hygiene regulations at the Munich office
+An excellent working atmosphere and confidence in your skills
+A range field of experience with creative freedom
+Personal and professional development opportunities
+Access to the online learning opportunities of Edenred Digital University
+Flexible working hours in coordination with your team
+The technical equipment for participating in mobile work
+Colleagues full of ideas, on eyelevel
+Family start-up atmosphere despite continuous growth
+Modern offices with very good accessibility (public transport such as bus and subway)
+Attractive benefits such as:
+Meal allowance
+Monthly benefits in kind
+Occupational retirement provision
+Job Leasing Bike
+30 days’ vacation
+Coffee & Tea flat rate and water dispenser
+Regular employee and team events
+A bike for your lunchbreak
+Apply now and Vibe with Us!
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Edenred Deutschland GmbH
+Claudius-Keller-Straße 3C, 81669 München, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Petrol card
+Parking space
+Employee discount
+Sabbatical
+Meal coupons
+Company mobile phone
+Childcare
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

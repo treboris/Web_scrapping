@@ -1,0 +1,37 @@
+Közösség
+Kapcsolat
+Senior Devops Engineer állás Országos
+AWS
+Rendszer / Hálózat, DevOps állások 
+Cégleírás / Organisation / DepartmentOur international client is looking for a motivated and dynamic Senior Devops Engineer to join their team.
+Our partner is a strategic supplier to all restaurants, deploying in over 120 countries and over 37,500 locations worldwide. They provide software development, testing, deployment and support services for POS (point-of-sale) and related software applications that focus on the overall crew and customer experience, resulting in improved operations in the restaurants.Elvárások / Requirements
+Bachelor’s Degree in computer sciences, Engineering, Physics or other with logical and analytical background
+5+ years of experience in the design, coding and implementation of complex IT systems
+Experience with Agile methodologies - SCRUM or KANBAN
+Advanced English skills (verbal and written)
+Experience in AWS architecture and systems
+Experience in Continuous Integration/Continuous Delivery systems and tools
+Demonstrated ability to adapt to new technologies and learn quickly
+Hands on development experience or full understanding of development pipeline and process
+Amit kínálunk / OfferSupport the quality of deliveries and product maintenance:
+• Design and maintain technical solutions• Identify technical debts and opportunities for technical improvement• Ensure that the defined technical solution is being followed• Accept stories at DoR, and deploy stories at DoD• Act as technical liaison across the squad, solving problems on a daily basis• Enforce best practices in the software development lifecycle• Creates documentation and development guidelinesDay to day activities (this is what we use, knowledge on similar technologies are fine)• Maintain Jenkins pipelines• Maintain Kubernetes clusters• Infrastructure as code (terraform, helm, groovy or similar)• Work with AWS services and help developers• Monitoring tools (Grafana, Prometheus, New Relic)Kapcsolattartó / Information
+International team made of young and dynamic people, who like to keep work-life balance in mind
+Remote work opportunity with only a few days a month in the office
+Trainings, conferences, language courses, and sport opportunities
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary													
+Országos
+Nincs meghatározva
+ Rendszer / Hálózat, DevOps
+Lejárati dátum: 2023-03-26 15:25:00
+Álláshirdetés részletei
+PozícióSenior Devops Engineer
+Munkavégzés helye
+Országos
+MunkaidőNincs meghatározva
+KategóriaRendszer / Hálózat, DevOps
+Hasznos linkek

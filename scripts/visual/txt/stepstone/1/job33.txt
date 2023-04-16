@@ -1,0 +1,76 @@
+Jobs by email
+ING Deutschland
+IT Security Engineer (f/m/x)
+Berlin
+Permanent contract
+Full Time, Home office possible
+Published: 2 days ago
+Show salary
+Save
+The ING is Germany’s third largest retail bank.
+ IT Security Engineer (f/m/x) in Berlin 
+ IT security is your profession and passion at the same time, and you already have the big picture in mind? You appreciate team success as well as transparent communication and would like to develop professionally? Perfect! As an innovative digital bank, we value exactly that: respectful cooperation, personal and professional development, and interactions at eye level. Enrich our Expertise "Platform Engineering" and shape our IT security!
+Your Tasks
+Together with your dynamic and expert-laden team you maintain cloud-based platform services as well as constantly improve them. With a hands-on approach you refine and implement our IT risk standards and requirements for public cloud, networks, and applications, integrate and maintain IT security workflows for our software development lifecycle and IT platform operations and strengthen our platform security posture. Moreover, you expand security events monitoring coverage, create, maintain, and deliver IT security evidence to the second line of defense, and propel us forward with internal as well as external audits. You support the usage of best security practices in product development and QA teams as well as the automation of security scans and the remediation of their findings.
+Your Profile
+In-depth understanding of security concepts of operating system, containers, and orchestration systems (Cloud, Kubernetes)
+Working experience in Microsoft Azure cloud services and security products
+Practice in methods and tools for web and infrastructure penetration testing
+Know-how in identity access management and network security and understanding of Azure DevOps and Terraform
+Fit in Python and/or Bash
+Able to communicate community security concepts to a broad audience
+Fluent in English, written and spoken
+We offer many benefits
+Company pension plan, capital-building offers, regional public transportation ticket & bicycle leasING, company restaurant
+Remote working depending on the position and department and in line with the company, regulatory and legal requirements; individualized work schedule models, sabbatical, subsidization of nursing & childcare costs
+Personal budget for continuing education and development as well as health; plus, a personal budget to set up your mobile working space
+At ING we are colorful and diverse: different personalities with different perspectives - an international culture where we value and appreciate each other. We believe in substance over style, people instead of labels.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+ING Deutschland
+Köpenicker Straße 40-41, 10179 Berlin, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Employee discount
+Sabbatical
+Cafeteria
+Dental care
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Extra day off
+Public transport ticket
+Terrace
+Study allowance
+Car/Travel allowance
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.
+Certificates

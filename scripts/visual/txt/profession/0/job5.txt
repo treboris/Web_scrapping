@@ -1,0 +1,144 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Következő 
+Senior adatmérnök / Java fejlesztő 
+UNIQA Raiffeisen Software Service Kft.
+1053 Budapest, Szép utca 2.
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Középiskola
+Az ausztriai UNIQA Konszern magyarországi szoftverfejlesztő partnereként már több, mint 25 éve végzünk IT szolgáltatásokat anyavállalatunk számára.
+Budapesti csapatunk erősítésére, az UNIQA vállalati adatplatformjának kiépítésére és létrehozására keresünk motivált kollégát "Adatintegráció és Big Data" projektünkhöz az alábbi munkakörbe:
+Senior adatmérnök / Java fejlesztő
+A MUNKAKÖR CÉLJA:
+Vállalati szintű adatintegrációs és adatbeviteli megoldások megvalósítása a Big Data technológiák felhasználásávalKözreműködés egy agilis csapatban, amely elkötelezett a magas minőségű eredmények gyors szállítása iránt az ETL, az adatintegráció és a Big Data eszközcsomag használatával, nemzetközi kollégákkal együttA meglévő adatintegrációs alkalmazások életciklusának támogatásaA meglévő eszközök/keretrendszerek átalakítása holisztikus "Data-as-a-Service" platformmá
+FŐBB FELADATOK:
+Az UNIQA adatmegoldásainak megvalósítása:Adatbeviteli megoldások fejlesztése, karbantartása és tesztelése "alulról felfelé" a forrástól (pl. legacy / mainframe / near real time) a célpontig (fájlok / interfészek / adatmárkák)Change Data Capture folyamatok megvalósítása, amelyek lehetővé teszik az UNIQA számára a valós idejű adatfolyamok használatát  (pl. Kafka).DevOps rutinok és eljárások javításaAdatfeldolgozó rendszereket és ETL-csatornákat épít a Hadoop ökoszisztémában (Spark, Hive, HBase, Impala, Nifi)Hozzájárul az adatkezeléshez az adatvonalak, az adatkatalogizálás és az adatmodellezés lehetővé tétele tekintetébenMotivált, interdiszciplináris csapatban dolgozik együtt különböző üzleti érdekeltekkel, architektekkel, adatmérnökökkel, rendszermérnökökkel és adattudósokkal mind az üzleti, mind az informatikai területről
+ELVÁRÁSAINK:
+Legalább 3 év Java-fejlesztés vállalati környezetbenNagyfokú jártasság a Big Data Hadoop/Spark/Hive/HBase/Impala/Kudu ökoszisztémákban,pl. Cloudera/HortonworksA legmodernebb adatintegrációs és ETL (pl. Nifi, AirFlow, Talend), valamint adatreplikációs és üzenetközvetítő (pl. Kafka) eszközökben való magas szintű jártasságTapasztalat a CICD (Jenkins, Hudson), IaC és DevOps eszköztárakkal (Ansible, Terraform, Kubernetes)Tapasztalat az alkalmazások felhőinfrastruktúra-szolgáltatók használatával történő beállításábanKiváló szóbeli és írásbeli kommunikációs készség német és angol nyelven (német nyelvtudás előny)Kiváló csapatjátékos, aki képes problémamegoldóan, agilis környezetben dolgozni
+ELŐNYT JELENT
+FinTech / biztosítási tapasztalatKülönböző programozási vagy szkriptnyelvek, például SQL (ANSI és dialektusok), Python, R, Perl, Ruby ismereteAz adatkezelési és adatkatalogizálási eszközök ismerete (pl. Apache Atlas / Cloudera Navigator) Munkavégzés helye: 1053 Budapest, Szép utca 2.
+Jelentkezés módja
+Légy tagja egy sikeres és jó hangulatú csapatnak, ahol belvárosi iroda, jó munkakörülmények, modern munkakörnyezet, nyugodt, szakmai légkör vár.Amennyiben szeretnél a biztosítói szféra számára fejlesztési projektekben részt venni, várjuk jelentkezésed magyar és német/angol nyelvű önéletrajzzal és a fizetési igény megjelölésével!
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+UNIQA Raiffeisen Software Service Kft.
+Információ, kommunikáció
+●
+Információ-technológiai szaktanácsadás
+50-100 munkavállaló
+1996
+1053
+Budapest,
+Szép utca 2.
+Értékelések a(z) cégről
+4,0
+3 értékelés alapján 
+Értékelések kategória szerint 
+4,7
+Munkaidő és munkarend 
+4,7
+Munka és magánélet egyensúlya 
+4,0
+Kollégák és céges hangulat 
+5,0
+Megközelíthetőség 
+4,3
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Ajánlaná ismerőseinek 
+Biztosítják a munkaeszközöket 
+Támogatják a képzéseket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Senior adatmérnök / Java fejlesztő
+UNIQA Raiffeisen Software Service Kft.
+1053 Budapest, Szép utca 2.
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

@@ -1,0 +1,44 @@
+Jobs by email
+Apple Distribution International ULC
+RF Validation Engineer (m/f/d)
+München
+Permanent contract
+Full Time
+Published: 6 days ago
+Show salary
+I'm interested
+Save
+Summary
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Dynamic, amazing people and inspiring, innovative technologies are the norm here. The people who work here have reinvented entire industries with all Apple Hardware products. The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it. Join us to help design the next groundbreaking Apple product!
+Description
+You will work within a highly motivated technical team on integration of RF subsystem (RF-Engine) into modem designs.
+Bring-up, functional verification and debugging of RF subsystems/features in modem applications
+Developing corresponding testcases based on Virtual Prototyping as well as on existing Hardware
+Analyze RF content of field test logs
+Derive RF related issues down to specific field of sub-system (Receiver / Transmitter / Power Management / System Engineering / FW)
+Responsibility to drive RF related customer problems to a solution involving all kind of disciplines (System Engineering / FW / System Integration / Base Band / Customer Support)
+Coordinating debugging effort as cross functional lead across disciplines using assigned experts
+Close interaction with Base Band Physical & Layer 1 colleagues
+Improve proper Quality-gate testing for official releases based on found issues
+Release notes meeting industry state of the art
+Training of support teams on RF subsystem features, how to debug and optimize
+Qualifications
+Key Qualifications
+RF 3GPP Expert
+RF-Transceiver/Base Band Physical & Layer 1 control
+Advanced RF System integration / Validation Expert
+Advanced Communication, Networking Expert and Leadership abilities (build community, listen, take decision, follow up)
+Education and Experience
+Master Degree in Electrical Engineering or Computer Science/ Software Engineering or equivalent.
+Why Apple?
+Apple is an Equal Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

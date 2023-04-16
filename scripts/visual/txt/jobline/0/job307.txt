@@ -1,0 +1,435 @@
+ Belépés ›
+hirdetés
+Keresési feltételek
+Magyarország
+szoftverfejlesztő
+gazdasági informatikus
+Ruby developer
+Python developer
+Perl developer
+Állások száma: 
+164
+Minden keresési feltétel törlése
+Szakterület
+Adminisztráció, asszisztencia
+139
+Bank, biztosítás
+40
+Egészségügy, gyógyszeripar
+46
+Építőipar, épületüzemeltetés
+116
+Értékesítés, kereskedelem
+280
+Gyártás, műszaki terület
+782
+Humán erőforrások, munkaügy
+178
+IT, telekommunikáció
+713
+Jog, közigazgatás, társadalom, politika
+11
+Karbantartás, szerviz
+241
+Kutatás, fejlesztés
+4
+Logisztika, beszerzés
+415
+Marketing, PR, média
+80
+Menedzsment, felsővezetés
+13
+Mezőgazdaság, környezetvédelem
+23
+Minőségbiztosítás
+216
+Oktatás, képzés
+6
+Pénzügy, számvitel
+381
+SSC (Shared Service Center)
+146
+Szakmunka, fizikai munka
+760
+Újságírás, szerkesztőség
+4
+Ügyfélszolgálat, call center
+66
+Vendéglátóipar, idegenforgalom
+10
+IT, telekommunikáció
+szoftverfejlesztő
+155
+rendszermérnök
+70
+IT helpdesk
+68
+szoftvermérnök
+61
+IT security specialist
+51
+system administrator
+39
+Java developer
+35
+business analyst (IT)
+32
+software test engineer
+32
+IT manager
+29
+projektmenedzser (IT / telekommunikáció)
+28
+gyakornok (IT / telekommunikáció)
+27
+development team lead
+24
+tesztmérnök (IT/Telekommunikáció)
+23
+SAP consultant
+18
+database administrator
+13
+SAP szakértő
+13
+web developer
+12
+business intelligence ( BI ) specialist
+11
+reporting specialist
+10
+telekommunikációs szakember
+9
+C++ developer
+8
+C# developer
+7
+.NET developer
+6
+ERP / CRM specialist
+6
+Scrum Master
+6
+embedded developer
+5
+Python developer
+5
+hardware developer
+4
+PL / SQL fejlesztő
+3
+project manager
+3
+SAP developer
+3
+mobile developer
+2
+technical writer
+2
+Access Support Specialist
+1
+C developer
+1
+gazdasági informatikus
+1
+gyártásinformatikus
+1
+IT sales manager
+1
+távközlési mérnök
+1
+user interface developer
+1
+Hely
+Budapest
+121
+Bács-Kiskun megye
+1
+Baranya megye
+35
+Békés megye
+1
+Csongrád megye
+34
+Győr-Moson-Sopron megye
+1
+Hajdú-Bihar megye
+36
+Heves megye
+2
+Komárom-Esztergom megye
+3
+Somogy megye
+1
+Szabolcs-Szatmár-Bereg megye
+1
+Veszprém megye
+10
+külföld
+1
+Nyelvismeret
+nem igényel nyelvtudást
+14
+angol
+144
+német
+10
+francia
+1
+Munkatapasztalat
+pályakezdő /tapasztalat nélkül
+4
+1 - 2 év tapasztalat
+96
+3 - 5 év tapasztalat
+76
+5+ év tapasztalat
+23
+Végzettség
+Középfokú végzettség
+37
+Felsőfokú végzettség
+144
+OKJ
+1
+Munka jellege
+teljes munkaidő
+164
+távmunka, home office
+19
+Hirdető
+közvetlen munkaadó
+61
+közvetítő cég
+103
+Bérsáv
+ - 
+Ft
+EUR
+GBP
+USD
+ A maximum nem lehet kisebb a minimum értéknél!
+Fizetés típusa
+bruttó
+nettó
+Fizetés gyakorisága
+óra
+hónap
+ALKALMAZ ›
+hirdetés
+?
+Állásposta
+Hibás e-mail cím!
+Feliratkozás ›
+Sikeres regisztráció!
+Kérjük, aktiváld a felhasználói fiókodat: A megadott e-mail címre elküldtük a megerősítő linket.
+Ezt követően feltöltheted az önéletrajzodat és beállíthatod, hogy milyen állásokról szeretnél értesítést kapni.
+Sikeres álláskeresést kívánunk!
+Sikeres regisztráció!
+Köszönjük, hogy regisztráltál! Még aktiválnod kell a kiküldött e-mail-ben szereplő linkre kattintva! 
+A nyereménysorsolásban csak aktivált fiókkal veszel részt. (Ha a beérkező levelek között nem találod, nézd meg a „Levélszemét” mappát is.)
+Sikeres álláskeresést kívánunk!
+Sikeres aktiválás!
+Köszönjük, hogy aktiváltad Jobline fiókodat és Álláspostádat! Részt veszel a nyereménysorsolásban.
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Új Állásposta beállítva!
+Köszönjük, hogy új Álláspostát állítottál be, ezzel részt veszel a nyereménysorsoláson. A nyerteseket e-mailben értesítjük. 
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Új Állásposta beállítva!
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Magyarország - szoftverfejlesztő - gazdasági informatikus - Ruby developer - Python developer - Perl developer állások, állásajánlatok
+?
+Állásposta
+Hibás e-mail cím!
+Feliratkozás ›
+164 állás
+HVG Kiadó Zrt.
+SENIOR SOFTWARE ARCHITECT (Budapest)
+5+ év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+Boschung Mecatronic 
+Full Stack Software Engineer (Magyarország)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Boschung Mecatronic 
+DevOps Engineer (Magyarország)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+hirdetés
+Deutsche Telekom IT Solutions
+Cloud Application Operation (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+AWS Data Architect - REF339V (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Tapasztalt Frontend Fejlesztő (REF155V) (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+Deutsche Telekom IT Solutions
+Python Developer (REF260N) (Debrecen)
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Deutsche Telekom IT Solutions
+Developer (REF1307I) (Budapest)
+1 - 2 év tapasztalat
+gyakornok
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Thyssenkrupp
+Szoftverfejlesztő mérnök (Indusztrializáció) (Budapest)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Deutsche Telekom IT Solutions
+GCP (Google Cloud Platform) Consultant - REF142Z (Budapest)
+5+ év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Thyssenkrupp
+Applikációs funkciófejlesztő mérnök (MATLAB/Simulink) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+Deutsche Telekom IT Solutions
+Senior DevOps Engineer (REF1536K) (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+német - középfokú
+Deutsche Telekom IT Solutions
+Service Now Developer (REF86R) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Frontend fejlesztő -német nyelvtudással (REF731J) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+távmunka, home office
+német - középfokú
+Deutsche Telekom IT Solutions
+Repl//MS Dynamics 365 Fejlesztő (Budapest)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Azure DevOps Engineer (REF1580B) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+IMPC Personnel Hungária Kft.
+Tesztberendezés fejlesztő szoftvermérnök (labview, angol) (Veszprém)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+DevOps Engineer - Networking field (REF222U) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+AWS Cloud Migration Architect (REF1547Q) (Budapest)
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Java Szoftverfejlesztő (REF732W) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+164 állás
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Tűnj ki a tömegből letölthető önéletrajz mintáinkkal
+Ne csak a tartalom legyen kiemelkedő
+Önéletrajzminta letöltése ›
+Önéletrajzminta letöltése ›
+Önéletrajzminta letöltése ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Pécs
+Szeged
+Veszprém
+Győr
+Miskolc
+Kecskemét
+Székesfehérvár
+Tatabánya
+Ezekkel a beállításokkal már vettél fel Álláspostát.
+Biztos, hogy el akarod menteni?
+Mégsem
+Mentés ›
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

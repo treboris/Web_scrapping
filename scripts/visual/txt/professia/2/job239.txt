@@ -1,0 +1,129 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceApplication Developer - € 1,000 Sign-on Bonus 
+Open Positions
+Company
+Education Programs
+Benefits
+Application Developer - € 1,000 Sign-on BonusDeutsche Telekom IT Solutions Slovakia
+                                Place of work
+                            Košice, Slovakia (Job with occasional home office)
+                                Contract type
+                            full-time
+Information about the position Job description, responsibilities and dutiesPurpose
+Develops new and maintain existing source code of  based applications in programming language like Java, ASP.Net or C#  based on requirements of  internal or external customers. These applications support usually automation of business processes. Works independently or in project team on developing  and building  application for customer usage. Does not necessarily require senior developer’s support , can handle all phases of  software development  lifecycle by himself, especially for small or midsize applications. For junior developers serves as basic mentor.
+General description
+* Develop new and maintain existing source code of applications
+* Works in SCRUM team on developing and building complex application solutions for customer DTAG
+* Serve as professional mentor for junior developers
+For our projects, we are searching for developers within preferred stacks (Front end, Back end or Full stack): • Tech. stack 1: Java, Spring Boot • Tech. stack 2: Angular, React, VueJS • Tech. stack 3: .NET, C# Additional preferred knowledge/experience (as an advantage): any testing tool/framework, Kubernetes, Docker, Microservices, Git, cloud technologies (AWS, Azure..), DB...
+Key accountabilities
+* Listen to user requests, consult with internal /external customers, assist in gathering requirements for preparation of application detailed feature specification as necessary basis of quality and functional application
+* Analyze of customer’s requirements and propose application/framework design of midsize application architecture (incl. interfaces, relation database structure) in order to build application functionality easy for maintenance and future extension according to customer needs
+* Provides project estimates, timeline like total number of development hours, total number of testing hours and bug fixing and report it to customer for budget planning in advance
+* Implements customer’s requirements based on specification in selected object-oriented programming language (JAVA) into functional and user-friendly application to meet customer’s needs
+* Provide testing of programmed functionality before deployment in order to avoid bugs and ensure quality of code
+* Implement security concept according to PSA policy in developed application to ensure accordance with DTAG standards
+* Write and update regularly more complex technical/system documentation (e.g., Authorization concept) for success of penetration tests and also for official handover to operation process
+* Communicate project status and deliverables to managers, customer with efficiency and accuracy of any progress or delays to keep them informed and let them be ready for managerial decision and project’s adjustment in advance
+* Maintain application on 2nd, 3rd level support by fixing bugs and regular check, programming updates of features on customer’s change request to satisfy customer needs and to ensure smooth running of the application with added value
+* Record spent time daily in transparent way to have basis for invoicing for customer and Controlling department purpose
+* Perform deploy on infrastructure, backup and restore procedures, handle release management in order to provide regular upgrades of software to have up to date features implemented according to agreement with customer
+* Other duties and responsibilities as assigned by higher management.
+* Manages partial project tasks assigned to him, timelines and communication
+* Mentor of junior developers
+* Provides technical trainings for basic users, junior developers  (e.g. SharePoint sites administrators workshops)  if required Wage (gross)2 000 EUR/monthFinal salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary, we provide variable part and other financial benefits. Base salary will not be lower than 2000 € /gross. + 1000 Eur sign on bonus. Detail during interview  Employee perks, benefits
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work – life balance
+Other benefits *
+        For more information about our benefits click to Benefits
+Benefits with * are applicable also to part-time positions.This information may be subject to changes and other internal rules. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2) or German - Intermediate (B1)Personality requirements and skillsEducation
+* Information technologies – Bachelor's degree or Master's degree
+Experience
+* Minimum of 3 years of experience in the development of complex solutions 
+* Experience within the field of application programming in object-oriented programming languages, experience with agile software development methodology (e.g., Scrum) 
+IT Technical Skills
+* Programming - Advanced
+* HW/SW Overview - Advanced
+* General IT Overview - Advanced
+* Additional preferred knowledge/experience (as an advantage): any testing tool/framework, Kubernetes, Docker, Microservices, Git, cloud technologies (AWS, Azure..), DB...
+Soft skills
+* Communication
+* Analytical thinking
+* Team Cooperation
+Languages
+* English – Upper intermediate (B2)
+* German - Advantage – Intermediate (B1) (not mandatory) Advertiser Brief description of the companyOur brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services. Number of employees1000 and more employees ContactContact person: Dragomir Catalin-FlorianE-mail: send CV
+Apply Online
+                        Deutsche Telekom IT Solutions Slovakia
+                        Žriedlová 13, 040 01 Košice
+www.deutschetelekomitsolutions.sk
+055/7853566
+ID: 4528933 
+     Dátum zverejnenia:  28.3.2023 
+    2023-03-28
+lokalita: Košice   Pozícia: Android Developer, DevOps Engineer   Spoločnosť: Deutsche Telekom IT Solutions Slovakia   
+Základná zložka mzdy (brutto): 2 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

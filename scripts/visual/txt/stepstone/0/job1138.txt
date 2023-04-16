@@ -1,0 +1,39 @@
+Jobs by email
+Apple Distribution International ULC
+Wireless Network Simulation Engineer
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+Summary
+Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Join us to help deliver the next groundbreaking Apple product. As a member of our dynamic group, you will have the unique and rewarding opportunity to craft upcoming products that will delight and inspire millions of Apple’s customers every single day! Are you ready to join our Wireless Architecture team?
+In this role, you will be a key member to build a state-of-art, high fidelity and high performance wireless system simulation platform. The platform is going to contribute to Apples’s current and future wireless technologies including 5G, WiFi, Bluetooth and beyond.
+Wireless technologies have become a crucial part of all Apple devices that delight our customers. Our devices operate in radio environments with wide range of applications and intertwines different wireless technologies. With the latest developments in cellular, WiFi, and BT, we utilize a sophisticated simulation platform to study performance of our devices in complicated radio and network conditions and gain insights for system design. We are looking for an expert Wireless System Engineer who has a deep understanding of wireless device interactions in a network, different protocol layers, and different technologies within the same device. In this role, you will be a key member of the Platform Architecture team, involved in the development of wireless technologies with a focus in protocol and wireless system design, modeling, and simulations.
+Description
+Build the software architecture for the state of art network simulator for wireless networks, including cellular 4G/5G, WiFi 802.11ac/ax/be, Bluetooth and other emerging technologies. Work together with wireless experts and help them model applications, protocols, transceivers and channel propagation. Provide API design guidance as well as debugging and analysis tools for proper system evaluations and studies. Integrate the simulation platform with other simulation/emulation tools, kernel stacks and hardware. Finally, you will work on optimizing simulation performance and be the go-to person that contributing all aspects of software engineering cycle of the simulation platform.
+Qualifications
+Key Qualifications
+5+ years of software engineering using modern C++ (C++11 or later) and Python
+Understanding in test-driven and API-driven development methodologies
+Strong debugging skills
+Deep understanding of algorithm and data structure design
+In-depth understanding of software performance and optimization
+Experience with large scale code-base and source code repo management
+Excellent verbal and written communication skills
+Experience working with OS kernel to support parallel computing and emulation.
+Preferred Knowledge of network protocols and/or wireless technologies
+Education and Experience
+MS or PhD in EE / CS
+Why Apple?
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

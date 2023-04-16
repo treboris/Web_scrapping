@@ -1,0 +1,37 @@
+ Belépés ›
+API Architect - Java (REF1191K) (Budapest)
+API Architect - Java (REF1191K) (Budapest)
+A hirdetés már lejárt!
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+API Architect - Java (REF1191K)
+The System Architect defines needed or recommend software optimizations to ensure reliability, availability, robustness and performance of the software in operations. The System Architect may also recommend optimizations based on security requirements and define “HOW” a technical solution can be realized.  
+She/He is responsible for considering non-functional requirements (NFRs) & using automated tools & methods to obtain insight into the software API base as efficiently and quickly as possible.  
+The System Architects will support a Technical API Review/Audit in DTIT. 
+Required Technical Skills:  
+OIDC & OAuth 2.0 
+API Management 
+Restful API Design (6 constraints: Uniform Interface; Client-Server; Statelessness; Cacheability; Layered(=Proxy & Web Server supported); & optionally Code-on-Demand (transfer executable code to the client)) 
+Event-Driven Architecture 
+Java, JS 
+Gitlan-CI, Sonarqube 
+AWS. OpenShift 
+Spring/Springboot 
+Additional Relevant Skills:  
+Docker, Kubernetes (containerization) 
+Kafka 
+PostgrSql, MongoDB 
+GOlang 
+OWASP 
+Quarkus, nodeJS 
+Azure 
+Munkavégzés helye
+Budapest, Debrecen, Szeged, Pécs
+Neked ajánlott állások

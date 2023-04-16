@@ -1,0 +1,23 @@
+Közösség
+Kapcsolat
+IT - Systems Engineer állás Budapest
+PostgreSQL
+Tesztelés állások 
+											Our multinational client looks for a new colleague asIT - Systems Engineer - Technical Application ManagementRole The TAM (Technical Application Management) teams, are focusing on the latter: LandingOur multinational client looks for a new colleague asIT - Systems Engineer - Technical Application ManagementRole The TAM (Technical Application Management) teams, are focusing on the latter: Landing actual business applications onto individual (mainly virtualized) servers. This means setting up those servers, maintaining them to adhere to supported OS/software level & secure configuration baselines, deploying business application onto them, setting up monitoring & integration assets, automating/scripting recurring tasks/actions.As a TAM engineer you will often be the ‘face’ of underlying infrastructure services, so a customer-centric mindset, good communication skills and some level of diplomacy is crucial.QualificationsBS in Computer Science or equivalent combination of technical education and work experience.(very) good understanding of English, both spoken & writtenExcellent analytical and troubleshooting skills.You are assertive, convincing and diplomatic at the same time. You have strong organizational and self-management skills. You love taking ownership and you have a high level of autonomyYou also have strong communication skills, both for interacting with your colleagues and with your internal customers/stakeholdersYou are well acquainted with online collaboration tooling & according mindsetTechnical expertiseThe job of a TAM engineer is very diverse, spreading across a wide array of technical skills/expertise. We don’t expect all engineers to master all below aspects in depth (from the start), but as a team we support each other and continuously evolve our individual skills through peer-learning.VMWareBladeLogicNetBackupWindows ServerRed Hat Enterprise LinuxUAC schedulingWebSphere/WebsealConnect:Direct and UDMOracle/PostgreSQL/(Sybase) 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Starjobs Magyarország Kft.													
+Budapest
+Nincs meghatározva
+ Tesztelés
+Lejárati dátum: 2023-03-24 12:13:50
+Álláshirdetés részletei
+PozícióIT - Systems Engineer
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaTesztelés
+Hasznos linkek

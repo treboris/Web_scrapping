@@ -1,0 +1,106 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Full-stack developer (node.js) állás Budapest
+HTML
+CSS
+Javascript
+Jquery
+Node
+Bootstrap
+Full-stack fejlesztő állások 
+Tisztelt álláskereső!Ez az álláshirdetés lejárt.Azonban oldalunk több ezer egyéb álláshirdetéssel rendelkezik! Találja meg az önnek megfelelő munkát erre a linkre kattintva!
+Cégleírás / Organisation / DepartmentÜgyfelünk fő profilja videotechnikai berendezések tervezése és gyártása. Részt vesznek többek között rendezvények, koncertek vizuális támogatásában, de foglalkoznak modernizált tárgyalók kialakításától kezdve a sorozatgyártáson át, az orvos technikáig, számtalan izgalmas projekttel. Elvárások / Requirements
+legalább 3 év fejlesztői tapasztalat
+magabiztos node.js, Javascript, HTML, CSS tudás
+Responsive Web Design fejlesztési ismeret
+verziókövető rendszer ismeret
+középfokú angol nyelvtudás
+Előny:
+NPM ismeret
+hálózati alapismeret: TCP/IP, Telnet, SSH, Http(s), Websocket
+használtál már Express framework-öt, esetleg valamilyen templating engine-t (pl. EJS, Jade, Pug)
+rendelkezel SCSS, jQuery, Bootstrap ismeretekkel
+dolgoztál már CI rendszerekkel (pl. Jenkins)
+Amit kínálunk / Offer
+a cég által fejlesztett videotechnikai berendezések vezérlőszoftverének fejlesztése
+meeting room-ok vagy akár teljes irodaházak automatizált vezérlését lehetővé tevő komplex szoftverek fejlesztése
+felületek és funkciók kialakítása a terveknek megfelelően
+fejlesztési folyamatok kidolgozása és javítása
+jól strukturált, igényes kód írása
+Kapcsolattartó / Information
+széleskörű szakmai fejlődési lehetőség
+betanulás után heti 2 nap home office lehetőség
+dinamikusan fejlődő szervezet és stabil háttér
+emberközpontú szemlélet
+belvárosi, jól megközelíthető iroda
+magas színvonalú csapatépítő tréningek és egyéb közösségépítő programok
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary													
+Budapest
+Nincs meghatározva
+ Full-stack fejlesztő
+Lejárati dátum: 2023-06-26 15:55:00
+Álláshirdetés részletei
+PozícióFull-stack developer (node.js)
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaFull-stack fejlesztő
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

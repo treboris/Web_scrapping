@@ -1,0 +1,121 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Software Engineer (CRM systém) 
+Voľné pozície
+O nás
+Zamestnanecké výhody
+Kontakt
+Senior Software Engineer (CRM systém)
+                                Miesto práce
+                            Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Druh pracovného pomeru
+                            plný úväzok
+                                Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiacBonus: Výkonnostná prémia 2x ročne až do výšky 16,67% zo zákl. mzdy vyplatenej za hodnotené obdobie (spravidla 6 mesiacov)*Finálna suma základnej zložky mzdy môže byť navýšená v závislosti od individuálnych znalostí a skúseností vybraného kandidáta.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo nášho CRM tímu hľadáme novú posilu - developera, ktorý má záujem venovať sa vývoju obchodného systému Salesforce. Pozícia je vhodná aj pre seniornejších kandidátov, ktorí majú záujem rozvíjať sa v CRM systéme. 
+Náplň práce, právomoci a zodpovednosti
+• Zabezpečovať update a vývoj komponentov, automatizáciu business procesov v systéme Salesforce Lightning Cloud na Force.com platforme s využitím programovacích prvkov Lightning components, Apex code, a Visualforce.
+• Zabezpečovať integráciu Salesforce s inými systémami s využitím SOAP API alebo Rest Web Services.
+• Vyvíjať nové funkčnosti, vyhľadávať, využívať a implementovať dostupné riešenia pre danú platformu, navrhovať optimalizácie systému
+• Úzko spolupracovať so Solution Architect a Business Analyst za účelom naplnenia požiadaviek
+• Odstraňovať chyby zistené pri testovaní a chyby z produkčného prostredia
+• Pripravovať a udržiavať developerskú dokumentáciu
+• Pri spracovaní úloh spolupracovať so zahraničnými pobočkami a partnermi a externými dodávateľmi Zamestnanecké výhody, benefity• Podpora tvojho osobného aj profesného rozvoja – možnosť zúčastniť sa rôznych školení, tréningov, konferencií či meetupov
+• Finančné bonusy vyplácané 2 krát ročne na základe tvojho pracovného výkonu
+• Možnosť práce z domu (home-office v SR) – 12 dní mesačne, v prípade potreby väščinového home-office je to na individuálnej dohode
+• Finančná podpora pri dôležitých životných udalostiach (svadba, narodenie dieťaťa)
+• Príspevok na dôchodkové doplnkové sporenie
+• Plne hradené stravné lístky v sume 7 EUR/deň
+• Možnosť výberu širokej škály benefitov v oblasti športu, zdravotnej starostlivosti,  kultúry, vzdelávania a iné
+• Benefit „odporuč kamaráta“ – možnosť získať finančnú odmenu pri odporučení známeho na voľnú pracovnú pozíciu
+• 3 platené dni voľna pri zdravotných problémoch (sickdays)
+• Vernostný program – dovolenka navyše a finančný bonus po odpracovaní 5 a viac rokov
+• Mind & Soul program – bezplatná linka pomoci a poradenstvo v oblasti osobnostného a profesijného rozvoja
+• Podpora športových aktivít –možnosť účasti na rôznych bežeckých podujatiach, disponujeme klietkami na bicykle, požičiavanie bicyklov
+• Čerstvé ovocie, čaj, káva, nealko – to všetko nájdeš v každej kuchynke
+• Neformálna, priateľská a otvorená kultúra bez dresscodu
+• Účasť na firemných podujatiach
+• Možnosť využiť spoločné priestory firmy (terasa, relax zóna, knižnica) na oddych a stretnutia s kolegami
+• Dobrovoľníctvo a možnosť zapájať sa do rôznych CSR aktivít Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Osobnostné predpoklady a zručnostiskúsenosti s vývojom webových služieb, min.5 rokov
+- samostatnosť, kreativita, záujem o programovanie a vývoj systémov
+- vysokoškolské vzdelanie môže byť výhodou, podstatné sú však schopnosti a šikovnosť
+- praktické skúsenosti s cloud / SaaS systémami
+- dobré komunikačné schopnosti v business a technickej angličtine
+- schopnosť učiť sa nové veci
+- flexibilita, spoľahlivosť, samostatnosť
+Výhodou sú:
+- znalosť programovania v Apex code
+- znalosť programovania v Java, SQL, znalosť JavaScript
+- skúsenosti s vývojom funkcionalít v inom CRM systéme, napr. Microsoft Dynamics, Siebel Inzerujúca spoločnosť Stručná charakteristika spoločnostiKeď v roku 1987 dvaja mladí programátori zo Slovenska, Peter Paško a Miroslav Trnka, napísali program na detekciu jedného z prvých počítačových vírusov, ešte netušili, že práve začali písať históriu jedného z najúspešnejších antivírusových programov na svete. Pomenovali ho NOD - "Nemocnica na okraji disku", podľa vtedy populárneho československého seriálu. Pár rokov po nežnej revolúcii založili spoločne s ich priateľom Rudolfom Hrubým spoločnosť ESET.
+To, čo sa pôvodne javilo len ako obývačkový projekt troch kamarátov, je dnes najhodnotnejšia slovenská IT firma, ktorá svojou technológiou NOD32 chráni viac ako 100 miliónov užívateľov po celom svete.
+Prirodzene, nestalo sa tak zo dňa na deň. Globálny úspech spoločnosti a jej rast naštartoval v roku 1998 zisk prvého stopercentného hodnotenia prestížneho britského časopisu Virus Bulletin. V roku 2016 sa spoločnosť ESET stala prvou spoločnosťou, ktorá získala toto ocenenie po 100-krát za ten istý produkt.
+Dnes firma vďačí za svoj úspech viac ako 2100 zamestnancom po celom svete - zviditeľnený nárast z 3 zamestnancov z roku 1987 a 135 zamestnancov z roku 2006. Vyše 1200 z nich má sídlo na Slovensku, v hlavnom sídle ESETu.
+Veľký dôraz kladieme na výskum a vývoj. Okrem regionálnych centier budujeme aj sieť technologických centier po celom svete - v súčasnosti trinásť.
+V priebehu expanzie spoločnosti sme zostali verní zásadám, na ktorých sme boli založení, a zostávame nezávislí aj pri zdolávaní nových výziev. Počet zamestnancov1000 a viac zamestnancov KontaktKontaktná osoba: Zuzana JakubčekováE-mail: 
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4032222 
+     Dátum zverejnenia:  3.3.2023 
+    2023-03-03
+lokalita: Bratislava   Pozícia: CRM špecialista, Java programátor, Javascript programátor, Oracle programátor, Softvérový inžinier   Spoločnosť: ESET, spol. s r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

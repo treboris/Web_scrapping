@@ -1,0 +1,94 @@
+Jobs by email
+Brenntag SE
+Domain Lead Information Security Governance and IT Compliance (m/f/d)
+Essen
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Save
+About Brenntag
+Brenntag is the global market leader in chemical and ingredients distribution. The German based international company manages complex supply chains for both chemical manufacturers and consumers by simplifying market access to thousands of products and services. It combines a global network with outstanding local execution. Therefore, Brenntag is the industry’s most effective and preferred channel to the market for partners.
+Brenntag operates a global network of about 700 locations in 78 countries. With its global workforce of more than 17,000 employees, the company generated sales of around EUR 14.4 billion in 2021.
+Our team in Essen currently has an opening for a Domain Lead Information Security Governance and IT Compliance (m/f/d)
+Your Role & Responsibilities
+In this role you will support the global CISO in designing, building, and operating an adaptive, resilient, and business-enabling Brenntag's Information security management system (BG-ISMS) with a zero-tolerance for internal and external digital risk by adopting and shaping global digital security best practices and standards.
+Key Activities and Responsibilities
+Design and implement Level 1 to 4 information security policies and procedures
+Develop and implement an information security risk management strategy and processes
+Perform a global information security risk assessment  
+Develop and maintain an information security asset inventory and the associated risks ranking
+Track the effectiveness of cyber risk controls measures through regular audits and maturity metrics
+Evolve a strategy for 3rd party cybersecurity assessment  
+Enforce information security governance in all relevant business operations
+Coordinate the information security governance and compliance committee 
+Develop a strategy for IoT/OT and supply-chain security management
+Provide a high impact leadership to the team
+Own and evolve the cloud security control framework that translates the cloud Security directive into a layering of controls related to our CIA Classifications
+Provide leadership to the information Security GRC team
+Understands and enforce the cloud security governance framework
+You ensure the cloud platform adheres to and is embedded in the enterprise security architecture
+You have experience with topics such as security-by-design, privacy-by-design, secure coding
+Your Profile
+Masters or Bachelor’s degree in Computer Science/Information Systems or equivalent experience in Information Systems preferred
+3+ years developing and implementing security operations and technology in large, complex enterprises in multiple industry verticals, across a wide range of technology platforms as well as 3+ years on any Cloud Platform (AWS, Azure, Google, others)
+Deep hands-on experience leading the design, development, and deployment of business software at scale in SaaS, PaaS, and IaaS environment
+Experience with service-oriented architectures, private and public clouds, and web services security
+Strong skills in security principles such as least privilege access, defense in depth, preventative vs. detective controls, Infrastructure and Network Security, Data protection, and Incident response
+Professional experience and good technical knowledge of application security, system security, network security, authentication/authorization protocols, and cryptography
+Experience in industry standards such as PCI DSS, ISO 27xxx, SOC, HIPAA, GDPR, and NIST/DoD frameworks and benchmarks
+Good understanding of Enterprise Networks, Security, and Identity Access Management
+Configuration management using CloudFormation and/or Chef/Puppet
+Experience with agile approaches and Experience in DevOps or DevSecOps and how they impact risk management and compliance
+Hands-on technical expertise in technology automation, implementation, integration, and/or deployment using scripting and/or IaaC
+Nice-to-Haves: AWS/Google Solutions Architect, AWS/Google Security Specialty Certified; CISSP, CCSP, CISM, and/or other comparable certifications; Information security certificates such as: CEH, CISSP, CCSP (Certified Cloud Security Professional) etc.
+Our Offer
+Exciting professional tasks and challenges in a diverse and secure working environment with the world market leader in the chemical distribution industry and DAX listed company
+Arrange your working hours and breaks flexible via your flextime account; Thanks to our company's internal regulation on mobile working, your professional and private life can be combined even better
+Our personalized onboarding program, guarantees that you will be off to a quick start
+A competitive remuneration package, including holiday pay and a Christmas bonus, awaits you
+Take advantage of our company-sponsored pension scheme
+Benefit from free employee parking, convenient transport connections, and a corporate public transport ticket
+Our “House of Elements” offers modern and ergonomic workplaces, an award-winning company restaurant, and a selection of complimentary coffee varieties
+Your well-being is very important to us: Take advantage of our preventive health care offers, running groups, and yoga courses, and enjoy 30 relaxing days of holiday per year
+Stay fit and do your bit for the environment at the same time: Lease your dream bike conveniently via Brenntag
+Interested?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Brenntag SE
+Messeallee 11, 45131 Essen, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Company medical officer
+Home office
+Company car
+Public transport ticket
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

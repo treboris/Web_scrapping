@@ -1,0 +1,75 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Frontend Developer (REF983S) (Budapest)
+Frontend Developer (REF983S) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Frontend Developer (REF983S)
+This position is filled in the Data Intelligence BU in the Digital Solutions portfolio unit of T-Systems International GmbH. The Data Economy chapter focuses on the development of the Telekom Data Intelligence Hub (DIH). We use the full range of data sources, from IoT to social media, to create sustainable innovation/value from the use of data and AI building blocks. Our solutions are both the memory and the brain of digitization. We use state-of-the-art open-source technologies and reference architectures from the IDS and GAIA-X environment. Always with the goal of bringing our customers' digitization strategies to success in the context of data spaces. As Germany's largest digital service provider, we shape the digital world together with our customers in a constantly growing market.
+Main tasks
+Take part in creating software solutions in scaled agile environment (Less, SAFe) as a member of a cross functional team
+Build cloud hosted, cross-brower Javascript web applications considering holistic business requirements and implications along the entire development process
+Write scalable and maintainable code
+Ensure quality in every aspect of your work, from writing and maintaining documentation, doing code reviews or testing 
+Collaborate with other teams in an international environment (Germany, Hungary, Russia, India)
+Skills:
+Bachelor or master's degree in the following areas: Computer science, Engineering or Information Technology or equivalent work experience in IT
+At least 3 years' experience in development of complex software systems
+should be very well conversant in some of the below:
+Cloud know-how and experience (preferably AZURE)
+Experience in writing quality code for production during last few assignments / projects
+Experience with JavaScript, TypeScript and frameworks like vuejs, react, angular
+Experienced
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Thyssenkrupp -
+Szoftverfejlesztő mérnök (Indusztrializáció)
+Deutsche Telekom IT Solutions -
+Frontend fejlesztő -német nyelvtudással (REF731J)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Szeged
+Győr
+Pécs
+Kecskemét
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

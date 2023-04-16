@@ -1,0 +1,72 @@
+Jobs by email
+CARIAD
+(Senior) Hardware Engineer - Sensor Development ADAS & AD (m/f/d)
+Ingolstadt
+Permanent contract
+Full Time, Home office possible
+Published: 6 days ago
+Show salary
+Easy apply
+Save
+At CARIAD, it’s our mission to transform automotive mobility for everyone, everywhere, making it safer, more sustainable, and more comfortable in every way. To deliver on that promise, we’re building a unified technology and software platform, including a vehicle OS and cloud platform, as well as a unified architecture. As a 100% subsidiary of the Volkswagen Group, we’re developing solutions for all of its brands, including Volkswagen, Audi, and Porsche, and will bring our software to over 40 million vehicles by 2030.
+Is this an easy task? Not at all! To tackle such a huge challenge, we need a great team. And that’s where you come in. You’ll join more than 5,000 CARIDIANS already working on the latest vehicle features and functions like automated driving, state-of-the-art charging technology, as well as a new digital ecosystem. Together, we’re bringing sustainable change to one of the largest companies in the world.
+YOUR TEAM
+We are building the leading tech stack across various domains that will enable automotive mobility that is safer, more sustainable and more comfortable for millions of customers globally.
+We are working on one unified tech stack for best-in-class automated driving and parking as well as advanced driver assistance systems. Developing our functions for the biggest vehicle fleet in the market we will make automotive mobility safer and create the new comfort of driving.
+#NextGenDriverAssistance&nbsp;#HardwareDevelopment
+WHAT YOU WILL DO
+Responsibility of electrical integration of sensors (required power, connector, electrical interfaces)
+Coordination, moderation and execution of hardware reviews and communication interface reviews (layout, schematics, power supply stability, oscillator design, communication transceivers, etc.)
+Creation of specifications for partner ECUs, which have an electrical interface to the sensor
+Specification, development and validation of sensor heating, cleaning and thermal concepts
+Coordination and moderation of design FMEAs
+Planning and coordination of sensor sample generations (A-sample, B-sample, C-sample, PPAP) including the planning of the validation of hardware in the different stages (EMC, Design Verification Tests, Product Verification Tests)
+Design, specification and coordination of the measurement / debug interface hardware for different sensors
+WHO YOU ARE
+Degree in electronics engineering or similar
+Several years of professional experience in automotive
+Excitement about innovation and hardware
+Expert knowledge in electronics, circuit design, electrical design, electrical concepts, sensors, actuators and thermal design
+Knowledge in EDA software, scripting languages (e.g. Python) and simulation software (e.g. ANSYS)
+Good soft skills, assertive behavior, managing suppliers and third parties
+Fluent in German and English
+NICE TO KNOW
+Remote work options
+Temporary work from abroad in selected countries
+Flextime / optional working hours
+Company pension plan
+Annual professional development
+Sabbatical option up to 6 months
+30 days paid + 10 days unpaid leave
+Possibility for VW Group car leasing
+If you have further questions about the candidate journey at Cariad, talk to Cari, our Cariad Chatbot.&nbsp;Can’t see it? Check your settings or visit our&nbsp;FAQ
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+CARIAD
+Ingolstadt, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,114 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceAnalytics Solutions Engineer with JAVA 
+About us
+Our benefits
+Students
+Open positions
+Analytics Solutions Engineer with JAVA
+Place of work
+Mlynské nivy 12, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 000 EUR/monthMinimum base salary for this job is from 2000 EUR gross/month/full time. Our final offer to you will be set up fairly, considering the skills and experience that you bring to the Swiss Re Group. You can look forward to extra rewards and benefits including an attractive performance-based bonus.
+Information about the position Job description, responsibilities and dutiesGDS (Group Data Services) leads Swiss Re's ambition to be a truly data-driven company. It brings expertise covering all aspects of data and analytics to enable Swiss Re in its vision to make the world more resilient! The Data Platform Engineering & Operations product area runs and enhances data & analytics platforms to support the creation of innovative solutions.
+About the team
+To extend our existing Group Data Services (GDS) Analytics Solutions team, we are looking for a motivated Software and Platform Engineer with a strong focus on data to build and own scalable platforms, end-to-end solutions, and services in information retrieval, text mining, predictive analytics, and natural language processing.
+Our new colleague will work in an Agile environment in a tight collaboration with internal and external experts, as well as business clients to support, organize and manage various activities within the team.
+In your role, you will…
+- Lead smaller projects and contribute to the end to end solution implementation
+- Design solution architectures embedded in the wider enterprise context to meet the business needs
+- Proactively identify potential for continuous improvement of existing solutions
+- Ensure timely customer communication and coordination of follow-up activities
+- Apply and implement Agile Scrum and DevOps best practices while driving the project forward
+- Build up sustainable relationships with key business and IT stakeholders to become a trusted partner in the field of information retrieval and big data/document analytics Information about the selection processThis job offer is suitable for people who have been impacted by the invasion of Ukraine.
+What we offer:
+- Attractive annual bonus
+- Additional days of vacations
+- Company stock options
+- Space for professional growth incl. e.g. leadership and language trainings
+- Flexible working hours - you own the way you work - and home office
+- Fully paid lunch allowance
+- Sick leave compensation
+- Employee pension contribution
+- Medical service contribution
+- and many more!
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder. Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skillsAbout You
+Your qualifications
+What we need from you:
+- Professional experience in software development in an enterprise environment, with strong Java programming skills
+- Understanding of enterprise software landscape: microservices, message-oriented architecture, distributed systems, and security concepts
+- Knowledge of developing software using spring boot and spring frameworks
+Nice-to-have:
+- Experience with Microsoft Azure cloud or similar cloud providers
+- Knowledge about some of the following technologies: message queues, AMQP, API programming, docker, Kubernetes, git, CI/CD
+- Previous exposure to agile methodologies (e.g., Kanban, Scrum, Scaled Agile Framework, etc.)
+- Bachelor's or master's degree in computer science or equivalent Advertiser Brief description of the companyAs the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders. Number of employees1700 and more employees Company addressLearn more about working in Swiss Re Slovakia. ContactContact person: Lucia Vargova
+Apply here
+ID: 4472388 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Bratislava   Pozícia: IT System Administrator, Java Programmer, Software Engineer, Systems Engineer   Spoločnosť: Swiss Re   
+Základná zložka mzdy (brutto): 2 000 EUR/month
+Odporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

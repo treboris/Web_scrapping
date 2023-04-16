@@ -1,0 +1,77 @@
+Jobs by email
+BMW Group
+Software Architect Autonomous Driving - Parking (f/m/x)
+München
+Permanent contract
+Full Time, Home office possible
+Published: 5 days ago
+Show salary
+Save
+About us
+Our brands BMW, MINI, Rolls-Royce and BMW Motorrad have made us one of the world's leading premium manufacturer of cars and motorcycles as well as provider of premium financial and mobility services.
+Our IT-Software Development team in München is currently seeking a
+Software Architect Autonomous Driving - Parking (f/m/x)
+Tasks
+THESE DAYS, AUTOMOTIVE HISTORY IS WRITTEN IN CODE.
+SHARE YOUR PASSION.
+Revolutionising the future of mobility means setting standards today. Our vehicles already use intelligent technologies that are increasingly taking over driving tasks and providing greater safety and comfort. Increasing our lead in autonomous driving requires visionary thinkers and creative developers. Specialists in the fields of machine learning, artificial intelligence, sensor technology and software development will work in expert teams in centres of excellence networked around the world to redefine the limits of what is possible.
+Join our SW-architecture team that works alongside our agile feature teams to develop sophisticated functions, to present the most advanced autonomous driving functionalities to the driver of BMW vehicles. As part of our project team for the next generation integration platform you will frame and optimize the Software architecture of this platform that enables both drivers control and autonomous driving for the future generation of cars of the BMW Group.
+What awaits you?
+Being a passionate C/C++ developer with a faible for clear, efficient, and pioneering SW architectures, you care about designing the SW-architecture for our high-performance POSIX Software Plattform.
+With your expert knowledge you ensure that the behavior of the platform meets the requirements from the customer function and integration perspective, incl. the management of platform resources (Runtime, Memory, etc.), lifecycle management, degradation, etc.
+As an expert you will furthermore support the feature teams in defining, documenting, and delivering SW-components to the vehicle projects.
+In your daily work, you will find yourself in an international and interdisciplinary environment and collaborate intensively with our high-tech industry partners.
+Our brand-new Autonomous Driving Campus offers the infrastructure you need to work productively and focus on the software for the automobile of the future.
+Profile
+What you should bring along?
+University degree in Electrical Engineering, Computer Sciences or related subjects.
+Expert expertise in embedded SW development and architecture, also in the context of ISO26262.
+Profound experience in POSIX based operating systems especially Linux & QNX.
+Profound expertise in POSIX scheduling schemes.
+Expertise in Performance and Resource Optimization.
+Expertise in Adaptive Autosar desirable.
+You enjoy working in an international team and are passionate about software quality? Apply now!
+Note: For data protection reasons, please apply online only via the BMW career portal. Applications via other channels (esp. email) cannot be considered.
+We offer
+What we offer?
+6 weeks of holiday.
+Attractive renumeration.
+Workplace safety.
+A strong team and cohesion.
+BMW & MINI promotions.
+Mobility offers and many other benefits - see bmw.jobs/benefits
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are a particular concern for us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. That is why our recruiting decisions are also based on personality, experience and skills.
+Find out more about diversity at the BMW Group at bmwgroup.jobs/diversity.
+Earliest starting date: from 03/01/2023
+Type of employment: unlimited
+Working hours: full-time
+Job Reference: 90189
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+BMW Group
+80809 München, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Parking space
+Employee discount
+Sabbatical
+Company medical officer
+Stock options
+Coaching
+Home office
+Extra day off
+Study allowance
+Car/Travel allowance
+The benefits listed are applicable to the company and can differ depending on the position or department.

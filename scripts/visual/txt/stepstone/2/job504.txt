@@ -1,0 +1,60 @@
+Jobs by email
+Deutsches Klimarechenzentrum GmbH
+Research Associates and Scientific Programmers (all genders)
+Be an early applicant
+Hamburg
+Temporary contract
+Full Time, Home office possible
+Published: 5 days ago
+Easy apply
+I'm interested
+Save
+The German Climate Computing Centre (DKRZ) is the central simulation and data processing facility for the German climate and earth system modelling community and is one of the leading facilities in this area. DKRZ not only operates supercomputers in the highest performance class and one of the largest data and archive systems worldwide, we also participate in many national and international projects aiming to improve the software and infrastructure for climate modelling.
+Within the framework of various projects, DKRZ is looking for 3
+Research Associates and Scientific Programmers (all genders)
+in the area of high-performance data infrastructures.
+The successful applicants will be part of a team of research scientists and software engineers contributing to the development of a data infrastructure to manage climate model output data and utilizing it in ambitious research projects like WarmWorld Easier and EERIE.
+Your tasks
+Explore, adapt and implement existing and new infrastructure components at DKRZ, ideally expanding to other sites in Germany and Europe.
+Integrate heterogeneous storage tiers like tape archive, cloud storage and parallel file systems into the infrastructure while ensuring optimized and efficient data flow.
+Establish data catalogs to enable data re-use with a wide range of technologies.
+Support national and international partners, consisting of data producers, other data providers and data users. This includes data refinement and processing.
+Create high-quality documentations of various kinds. Organize inspiring training sessions, e.g. at conferences, hackathons or seminars.
+Your profile
+Degree (MSc) in Computer Sciences or Earth System Sciences.
+Strong programming skills, preferably Python, C or C++.
+Experience with scientific metadata catalogs.
+Knowledge of the analysis and evaluation of climate variables and diagnostics is a plus.
+Besides strong communication skills we expect capacity for teamwork in an interdisciplinary environment, the willingness to travel nationally and internationally, and fluent English language skills. German language skills are a plus.
+Our offer
+An exciting opportunity in a flexible academic environment where you have the chance to develop initiative and shape infrastructure of the next generation in an area of high social relevance. At DKRZ, we recognize that training is vital for developing staff so you will have access to courses to increase the depth and breadth of the skills you have or require. DKRZ offers home office policies and flexible work pattern that can be adapted to suit your schedules and personal commitments.
+The contracts are limited to 3 years. Payment will be in accordance with the German public service positions (TVöD, depending on the qualifications of the candidate and assigned tasks), including extensive social security plans. The conditions of employment follow those of the German civil service.
+We are looking forward to receiving your application including the following documents:
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+Deutsches Klimarechenzentrum GmbH
+Bundesstr. 45a, 20146 Hamburg, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Company pension
+Flexible working hours
+Company laptop
+Company medical officer
+Home office
+Public transport ticket
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

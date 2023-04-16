@@ -1,0 +1,79 @@
+Jobs by email
+HeidelbergCement AG
+Senior S/4HANA Solution Architect (f/m/d)
+Heidelberg
+Permanent contract
+Full Time, Home office possible
+Published: 3 days ago
+Show salary
+Save
+Heidelberg Materials – Material to build your future
+Heidelberg Materials is one of the world's largest integrated manufacturers of building materials and solutions with leading market positions in cement, aggregates, and ready-mixed concrete. We are represented in over 50 countries with more than 51,000 employees at almost 3,000 sites.
+At the centre of our actions lies the responsibility for the environment. As the forerunner on the path to carbon neutrality and circular economy in the building materials industry, we are working on sustainable building materials and solutions for the future. We enable new opportunities for our customers through digitalisation.
+Our success is based on consistent performance orientation and the motivation and competence of our employees. Our corporate culture is characterised by trusting teamwork, strong customer orientation, creativity and a willingness to innovate as well as sustainable thinking and acting.
+Heidelberg Materials is reinventing the way cement is being produced for the digital age. We have a challenging and compelling roadmap ahead of us. You will be part of an exciting and international team where you will be able to continuously broaden your horizon as we embark on a digital transformation of our application portfolio. We have started our journey towards S/4HANA transformation and you have an opportunity to provide valuable input by evaluating the business needs and providing technical solutions to meet those needs.
+As a S/4HANA Solution Architect, you will be reporting to the BSE (Business System Engineering) Head of the department and working with cross-functional ERP teams and the development community to help translate the business needs to S4 HANA solutions. You will have constant interaction with system integrators, enterprise architects, and project leads and bridge the development team to guide, develop, and maintain a world-class application in S/4HANA. This role involves hands-on programming and troubleshooting highly complex scenarios across various modules in S/4HANA.
+So if you are passionate about this role and if you are eager to tackle difficult challenges and make an impact in an international company undergoing a massive digital transformation, you have to look no further.
+We offer a hybrid working model within Germany, offering to make use of our modern and inspirational workplace in our new headquarter.
+Your next challenge
+You (as part of the SAP Development team) will be working closely with the Product Teams, Project Leads, and Enterprise Architects
+You will facilitate the design of the landscape that includes evaluating the business needs and suggesting a technical solution to cater to those needs
+You will demonstrate technical leadership and recommend innovative team solutions to complex problems. You will contribute to strategic directions for teams
+You will provide mentoring and guidance to other developers
+You will be contributing toward the product development, i.e. hands-on programming (ABAP)
+You should be able to analyze the risk and impact of proposed solutions, including security and performance aspects
+Your profile
+University degree in any engineering stream or equivalent area
+Hands-on knowledge of the S/4HANA environment and experience with FIORI applications.
+Participation in S/4 project implementation (minimum two)
+Minimum 6 years of experience on ABAP OO
+Good understanding of the multiple ERP modules
+Experience with SAP Technology architecture and business technology platform (BTP)
+Ability to collaborate effectively at all levels of an organization
+Should be able to work independently, participate in requirement gathering sessions, analyze and document business flow from end to end
+Strong communication skills to drive our goals effectively
+Prior working experience using agile methodology is a plus
+Strong analytical and problem-solving skills
+Proficient in English
+Our offer
+Flexible working time models with up to 50% remote working within Germany
+30 vacation days plus additional special vacation days
+Attractive compensation with profit share/bonus, Christmas and vacation payment
+Multiple learning & development options: support of job-related further training, E-campus, various technical and leadership development programs
+JobTicket, JobBike and further special conditions and discounts for e.g. gyms
+Company fitness room, various sports classes, health and prevention campaigns
+Individual onboarding with buddy program as well as various networking initiatives (Network of Women, International Network etc.)
+Modern headquarters next to the river Neckar with ergonomic workplaces and height-adjustable desks
+Canteen with discounted and healthy meals
+Bicycle and underground parking with charging stations - for e-bike and car
+...and much more.
+Are you interested?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+HeidelbergCement AG
+Heidelberg, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company medical officer
+Coaching
+Public transport ticket
+Study allowance
+The benefits listed are applicable to the company and can differ depending on the position or department.

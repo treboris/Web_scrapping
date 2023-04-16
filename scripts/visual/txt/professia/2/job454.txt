@@ -1,0 +1,104 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceNaštartujte svoju kariéru v IT už dnes - príležitosť pre študentov/-ky  IT v Košiciach 
+Pracovné ponuky
+Benefity
+O nás
+Staráme sa o vaše zdravie aj kariéru.
+                                U nás dostanete výhody aj nad rámec zákona.
+Ponuky spoločnostiNaštartujte svoju kariéru v IT už dnes - príležitosť pre študentov/-ky  IT v Košiciach
+                                Miesto práce
+                            Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Mzdové podmienky (brutto)
+7 EUR/hod.
+                                Termín nástupu
+                            dohodou
+                                Druh pracovného pomeru
+                            na dohodu (brigády)
+Kto smeNový svet, o ktorý sa v Dôvere snažíme už vyše 25 rokov, je transparentné a kvalitné zdravotníctvo. Dobrý pocit z toho, že spolu aktívne, systematicky a zmysluplne meníme nielen našu poisťovňu, ale aj celé zdravotníctvo, budete mať každý deň. Robíme všetko preto, aby sme boli v očiach verejnosti najlepšia zdravotná poisťovňa na slovenskom trhu a mali čoraz viac spokojných zamestnancov a poistencov. Ak chcete byť aj vy súčasťou modernej a stabilnej spoločnosti, ktorej oblasť inovácií a benefitov pre poistencov ako aj pre lekárov prináša pridanú hodnotu pre celý systém, pridajte sa k nám do Dôvery.Do akého tímu budete patriť?Máme vlastné IT-čko, na ktorom vyše 100 interných kolegov a kolegýň radi testujú, programujú a analyzujú hlavne v Košiciach a Bratislave, a sú rozdelení do 3 odborov a to: Odbor dátové kompetenčené centrum, mladý tím nadšený pre dáta, ich analýzu a vizualizáciu, ktorý podporuje biznis, pomáha Dôvere sa správne rozhodovať a rozvíjať a posilňovať našu konkurencieschopnosť a inovatívnosť. Odbor prevádzky a infraštruktúry, tím s vášňou pre nové technológie, ktorý nám pomáha robiť veci lepšie, efektívnejšie a uľahčuje nám každodennú prevádzku. Odbor rozvoja aplikácií, tím IT nadšencov, ktorý vyvíja, analyzuje a testuje naše aplikácie ako MojaDovera – portál pre poistencov, VIA app – portál pre dohodárov, DoveraLekarom – portál pre poskytovateľov zdravotnej starostlivosti, Zam 2.0 – portál pre platiteľov, PatientMagement – portál pre správu chronicky chorých poistencov (diabetici), a rôzne interné app na správu Releasov a patchov.Kolegovia a kolegyne vo všetkých 3 odboroch majú neustále priestor rásť a hrať sa so špičkovými technológiami/program. Jazykmi ako C-Sharp, MSSQL, VB.Net, ASP.NET, .NET 6, Cache, JS, ReactJS, Docker, Kubernetes, Rancher, práca s GitLabom a Nexusom, JIRA, Confluence, Jenkins.Čo Vás u nás čaká? Dynamický kolektív s vášňou pre inovácie. Práca s modernými a ešte modernejšími technológiami. Zábava nie len (ale aj) formou vzdelávania. Šprtanie sa v aplikáciách a hľadanie bugov. Možnosť učiť sa od najlepších/skúsenejších. Tím, ktorý vás učí nové veci a kedykoľvek je ochotný pomôcť.Čo by ste mali ovládať? Základy objektovo orientovaného programovania (ideálne .NET). Základy javascriptu, výhodou je znalosť React, Angular, Vue. Máte radi výzvy a ich riešenie. Zaujímate sa o prácu v progresívnom tíme.Čo sa našim kolegom u nás páči? Nie sme korporát a ani malá firma – sme niečo medzi : ). Sme najväčšia súkromná zdravotná poisťovňa, ktorá je lídrom v inováciách. U nás máte príležitosť pre svoj rozvoj a osobný rast. Ste v tíme šikovných kolegov a kolegýň, ktorí vás budú podporovať a učiť vás nové veci, ktoré vám pomôžu naštartovať vašu kariéru v IT-čkovom svete. Máte možnosť získať praktické skúsenosti s modernými trendami a technológiami v oblasti IT. A navyše, proaktivita a šikovnosť sa u nás cení. Veľa našich šikovných kolegov u nás má možnosť ostať aj po skončení VŠ štúdia. Ste súčasťou tímu, a preto sa aj vy môžete s nami vzdelávať na našich interných rozvojových popoludniach. Radi občas vypneme a zregenerujeme svoje sily na našich spoločných akciách.Čo by Vás ešte mohlo zaujímať? Miesto výkonu práce: aktuálne hľadáme kolegu/kolegyňu do Košíc, do moderného biznis centra na Moldavskej. Spolupráca: Dohoda o brigádnickej práci študenta. Onboarding: Začína od momentu, kedy zareagujete na inzerát. A ja vás budem sprevádzať vaším pôsobením v Dôvere od prvého kontaktu. Kedykoľvek sa môžete na mňa obrátiť. 
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelanímštudent vysokej školy
+vysokoškolské I. stupňaVzdelanie v odboreIT Jazykové znalostiAnglický jazyk - Mierne pokročilý (B1) Osobnostné predpoklady a zručnosti Ste samostatný ale viete fungovať aj v tíme. Máte chuť sa vzdelávať a učiť sa nové veci. Ste zodpovedný a máte orientáciu na výsledok. Ste motivovaný pre prácu v IT svete a chcete v ňom naštartovať svoju kariéru. Informácie o výberovom konaníInformácie ohľadom spracúvania osobných údajov predovšetkým práva dotknutej osoby, v súlade s Nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) sú prístupné na www.dôvera.sk. Súhlas môžete kedykoľvek odvolať najmä zaslaním písomného odvolania na adresu sídla zdravotnej poisťovne, e-mailom na [email protected], alebo odovzdaním písomného odvolania na ktorejkoľvek pobočke zdravotnej poisťovne.
+Kontakt
+Kontaktná osoba:
+                            Ing.  Adriana Štefíková
+Adresa spoločnosti
+Poslať žiadosť
+Ponuky spoločnosti
+Dôvera
+O Dôvere
+Kontakty a pobočky
+Pre médiá
+Naše ocenenia
+Hlavná cena ITAPA
+2x Strieborná cena ITAPA
+ITAPA eFocus
+IT projekt roka
+facebook Awards
+© 2018 Dôvera
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4541994 
+     Dátum zverejnenia:  21.3.2023 
+    2023-03-21
+lokalita: Košice   Pozícia: IT analytik, IT tester, Programátor   Spoločnosť: DÔVERA zdravotná poisťovňa, a. s.   
+Základná zložka mzdy (brutto): 7 EUR/hod.
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

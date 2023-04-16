@@ -1,0 +1,401 @@
+Belépésálláskeresőknek
+Állások
+Önéletrajz feltöltése
+Állásértesítő készítése
+CV készítő
+Cégek Új
+Részletes keresés
+Információbiztonság állások, munkák
+51 db találat 
+Szűrés
+Business Continuity & Risk Expert
+Vodafone Magyarország Zrt.
+Budapest
+Propose an organisation-wide BC management system aligned with business goals and objectives and prepare the BC programme for management signoff Develop and maintain the business continuity programme and policy Complete critical process BIAs to map potential distruption events E...
+Extra juttatások
+Információbiztonság
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 08:25
+Állás megtekintése
+ Mentés 
+ma 08:25
+Architektúrafejlesztő-mérnök
+KNORR-BREMSE Hungária Kft.
+1238 Budapest, Helsinki út 105.
+Rendszerarchitektúra tervezésében való részvétel Kiberbiztonsági funkciók tervezése biztonságkritikus fékvezérlő-elektronikai kártyákhoz Kapcsolódó dokumentációk készítése és karbantartása a folyamatok szerint Termékbiztonsági kockázatok kiértékelése, akciók kidolgozása Részvétel...
+Tech stack
+Információbiztonság
+Általános munkarend
+Angol - felsőfok
+Friss
+Állás megtekintése
+ Mentés 
+Friss
+Informatikai biztonsági sérülékenység menedzsment szakértő
+GRÁNIT Bank Zrt.
+1095 Budapest Lechner Ödön fasor 8.
+Sérülékenységek nyomonkövetése, érintettség vizsgálata, kezelési tervek készítése; Sérülékenységvizsgálatok előkészítése, tervezése, tendereztetése, levezénylése; Külső auditok által feltárt sérülékenységek nyilvántartása, nyomon követése – kezelése; Auditok találatainak nyomon k...
+Cafeteria
+Sport támogatás
+Információbiztonság
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 15:28
+Állás megtekintése
+ Mentés 
+ma 15:28
+Informatikai biztonsági osztályvezető
+GRÁNIT Bank Zrt.
+1095 Budapest Lechner Ödön fasor 8.
+Az informatikai biztonsági terület irányítása; A biztonsági elvárások következetes képviselete szervezeten belül és kívül; A beosztottak koordinálása, tevékenységük nyomon követése; A vonatkozó szabályozás karbantartása; A vonatkozó jogszabályi, valamint az ajánlások szerinti meg...
+Cafeteria
+Sport támogatás
+IT, Telecom vezető
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 15:28
+Állás megtekintése
+ Mentés 
+ma 15:28
+Spóroljon időt!
+Böngéssze a kimondottan Önre szabott, átlag jelentkezői bérigényt is feltüntető álláslistát a Profession Prémium segítségével!
+Kipróbálom díjmentesen
+Értékesítő
+Profession Services
+Budapest
+hálózati és biztonságtechnikai termékek piaci pozícionálás, promotálása és értékesítése új partnerek felkutatása, a picai részesedés növelése partneri igények felmérése műszaki tanácsadás, hogy a partner megtalálja a számára megfelelő terméket árajánlatok készítése...
+Bónusz
+Értékesítési munkatárs
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 14:44
+Állás megtekintése
+ Mentés 
+ma 14:44
+Információbiztonsági felelős (tisztviselő)
+KÚRIA
+1055 Budapest, Markó utca 16.
+az elektronikus információs rendszerek tervezésével, fejlesztésével, üzemeltetésével, karbantartásával, javításával vagy kivonásával kapcsolatos iratok információbiztonsági szempontból történő véleményezése, javaslatok készítése az alkalmazandó kontrollokra, biztonsági kockázatel...
+Cafeteria
+Szakmai tréningek
+Információbiztonság
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 16:27
+Állás megtekintése
+ Mentés 
+tegnap 16:27
+Senior Cyber Security Expert
+CETIN Hungary Zrt.
+Törökbálint
+Support in operations with security infrastructure Documenting integration, technical specification, defects and operation of security infrastructure Reporting on cyber-attacks Supporting the resolution of incidents caused by cyber attacks Supporting development of security tools...
+Bónusz
+Extra juttatások
+Információbiztonság
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+tegnap 15:10
+Állás megtekintése
+ Mentés 
+tegnap 15:10
+Cloud Security Architect
+CETIN Hungary Zrt.
+Törökbálint
+Design and implement cloud security solutions using AWS security services such as AWS Security Hub, AWS WAF, and Amazon GuardDuty, optional Microsoft Azure Design and implement security solution including public cloud connected to on prem Ensure security and compliance with indu...
+Bónusz
+Extra juttatások
+Információbiztonság
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - középfok
+tegnap 15:10
+Állás megtekintése
+ Mentés 
+tegnap 15:10
+Senior digitalizáció és adatintegráció támogató szakértő
+MVM Next Energiakereskedelmi Zrt.
+1023 Budapest, Árpád Fejedelem útja 26-28
+Az MVM Next Digitalizációs stratégiai tervezésének és kialakításának szakmai támogatása Online ügyfélazonosítást és adatkonszolidációt végző rendszer tovább fejlesztésének módjának szakmai meghatározása és megvalósítása A digitalizációhoz kapcsolódó üzleti igények megvalósíthatós...
+Cafeteria
+Egészségbiztosítás
+Tech stack
+Információbiztonság
+Általános munkarend
+ma 15:05
+Állás megtekintése
+ Mentés 
+ma 15:05
+Security Solution Administrator - Mobile Protect Pro (JD)
+Tech People Hungary Kft.
+Budapest, IX district 
+Administration of MTD (Mobile Threat Defense) and endpoint solutions for DT Security customers Administration and operation of the central monitoring environment of DT Security Incident, Change and Problem handling Participation in platform projects Maintenance of operational doc...
+Információbiztonság
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Német - középfok
+ma 11:59
+Állás megtekintése
+ Mentés 
+ma 11:59
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek!
+Senior Network Operation Specialist
+Legyen az első 5 jelentkező között!
+Richter Gedeon Nyrt.
+Budapest
+Feladatod fókuszában Globális LAN/WAN/MAN/WiFi üzemeltetési, változtatási és hibakezelési feladatok elvégzése és dokumentálása mellett hálózati monitoring, hozzáférés felügyelete, konfiguráció, belső fejlesztésekben részvétel szerepel. Globális LAN/WAN/MAN/WiFi üzemeltetési, fela...
+Extra juttatások
+Tech stack
+Információbiztonság
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 16:20
+Állás megtekintése
+ Mentés 
+tegnap 16:20
+Auditor
+Legyen az első 5 jelentkező között!
+SGS Hungária Kft.
+Budapest
+Irányítási rendszerek auditálása különböző irányítási rendszer standardok, iparági követelmények alapján, különböző helyszíneken, akkreditációs követelmények betartásával. Audit dokumentáció elkészítése. Együttműködés az auditori csoport tagjaival, jóváhagyókkal. Együttműködés az...
+Tech stack
+Információbiztonság
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+tegnap 16:15
+Állás megtekintése
+ Mentés 
+tegnap 16:15
+Rendszerfelügyeleti munkatárs
+MVM Informatika Zrt.
+Paks, Szeged
+Szerver /Szolgáltatás/ Alkalmazás monitoring tevékenység ellátása Operátori tevékenységek ellátása (Windows/ Unix szervereken) Karbantartások menedzselése Szolgálatatás/ Alkalmazás bevezetésének támogatása HPE Service Manager jegyek kezelése Események rögzítése/ vizsgálata ticket...
+Munkába járás támogatás
+Tech stack
+Információbiztonság
+Általános munkarend
+Angol - alapfok
+tegnap 13:05
+Állás megtekintése
+ Mentés 
+tegnap 13:05
+IT Security Engineer (IAM terület)
+Profession Services
+Otthonról végezhető
+Az IT security egyik érdekes részterületével, az identitás-, és hozzáférésmenedzsmenttel fogsz foglalkozni, mely magában foglalja a(z): Ügyféligények és specifikációk meghatározását kisebb fejlesztési és kódolási feladatokat követelménytervezést, ügyfélspecifikus megoldások terve...
+Információbiztonság
+Távmunka
+Home office
+Általános munkarend
+Német - felsőfok
+tegnap 11:40
+Állás megtekintése
+ Mentés 
+tegnap 11:40
+IT biztonsági elemző
+Adecco Kft.
+Rugalmas munkavégzési hely 
+Reagálás az incidensekre (fogadás, validálás, besorolás, koordináció, kommunikáció stb.) Evidencia gyűjtés, elemzés és kiértékelés Utólagos incidensek kiértékelése, tanulási célból az incidensben érintett területeken a munkatársak oktatása CERT folyamatokkal kapcsolatos rendszere...
+Extra juttatások
+Tech stack
+IT support, Helpdesk
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Magyar - felsőfok
+tegnap 09:38
+Állás megtekintése
+ Mentés 
+tegnap 09:38
+L3 Analyst (Security Operation Center)
+Tredis Consulting Kft.
+Budapest, District XI
+Perform triage Taking part in incident response process, provide remediation advice Threat Intel analysis, possible threat hunting Analyze vulnerability report and adjust severity Analysis of cyber intelligence reports and news and provide recommendation Coordination of counterme...
+Bónusz
+Extra juttatások
+Tech stack
+IT tanácsadó, Elemző, Auditor
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+Mar. 27.
+Állás megtekintése
+ Mentés 
+March 27.
+Informatikai belső ellenőr
+OTP Faktoring ZRt.
+Budapest, VI. kerület
+részvétel kockázatelemzéssel alátámasztott éves belső ellenőrzési terv összeállításában az OTP Faktoring-csoport belföldi tagjai vonatkozásában informatikai vizsgálatok lefolytatása jelentés készítése az összegyűjtött információk elemzése és értékelése alapján megállapítások össz...
+Bónusz
+Tech stack
+IT tanácsadó, Elemző, Auditor
+Részmunkaidő
+Alkalmazotti
+Általános munkarend
+Mar. 27.
+Állás megtekintése
+ Mentés 
+March 27.
+IS Onsite Engineer
+Grundfos Magyarország Gyártó Kft.
+Székesfehérvár
+The IS Onsite Support provides IS Onsite Services to Sales or Production Companies, normally 100+ Employees. You are responsible for providing IS Onsite Services in additional sales companies/branches (typically 3 to 6) in other countries together with the local IT Buddy. You sup...
+Bónusz
+Egészségbiztosítás
+Projektmenedzsment
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+Mar. 27.
+Állás megtekintése
+ Mentés 
+March 27.
+PHP programozó
+CLB Független Bizt. Alkusz Kft.
+1065 Budapest, Bajcsy-Zsilinszky út 21.
+A Cég honlapjának a partnerei számára fenntartott portáljának, valamint az azon működő programok fejleszte. WSDL, Soap REST api kommunikáció a biztosítókkal, partnerekkel. CRM rendszer funkcióinak bővíte.
+Bónusz
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Mar. 27.
+Állás megtekintése
+ Mentés 
+March 27.
+Site Cybersecurity Officer
+Legyen az első 5 jelentkező között!
+Valeo Auto-Electric Magyarország Kft.
+Veszprém
+Coordinate the different actors of the site for all Cybersecurity topics Raise any non-compliance, abnormal Cybersecurity event, and Cybersecurity incident Manage locally the Cybersecurity events and incidents Provide the reporting of the site to the Regional Cybersecurity Offi...
+Bónusz
+Sport támogatás
+Beiskolázási támogatás
+Tech stack
+Információbiztonság
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Mar. 27.
+Állás megtekintése
+ Mentés 
+March 27.
+Alkalmazás üzemeltetés szakértő
+MVM EÉ Ügyfélkapcsolati Kft.
+Budapest VIII. kerület
+SAP IS-U, illetve 3rd party rendszerek moduljai esetében szakmai támogatás nyújtása szakterületek részére SAP IS-U és 3rd party rendszerek, alkalmazások, modulok esetén a folyamatok, informatikai rendszereinek fejlesztésének, optimalizálásának kezdeményezése és közreműködés azok...
+Extra juttatások
+Tech stack
+Információbiztonság
+Általános munkarend
+Mar. 27.
+Állás megtekintése
+ Mentés 
+March 27.
+1
+2
+3
+Következő
+Utolsó
+Állásértesítő készítése
+Keresés mentése
+)
+Figyelem!
+A lakhatási támogatást nyújtó ajánlatokat területi szűrés nélkül listázzuk.
+A területi beállítás csak a lakhatási támogatás paraméter kikapcsolása után változtatható meg újra!
+Keresés finomítása
+IT üzemeltetés, Telekommunikáció
+Információbiztonság
+Beállított szűrők
+Beállított szűrők törlése 
+Kategória 
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök  (105) 
+Információbiztonság
+IT support, Helpdesk  (150) 
+IT, Telecom vezető  (8) 
+Projektmenedzsment  (79) 
+Rendszergazda  (90) 
+Rendszerüzemeltető  (159) 
+Telekommunikáció  (60) 
+Vállalatirányítási rendszer, SAP  (46) 
+Lakóhely (Megye, Város)
+Budapest  (37) 
+Bács-Kiskun megye  (1) 
+Baranya megye  (1) 
+Békés megye  (1) 
+Borsod-Abaúj-Zemplén megye  (1) 
+Csongrád-Csanád megye  (4) 
+Fejér megye  (3) 
+Győr-Moson-Sopron megye  (2) 
+Hajdú-Bihar megye  (2) 
+Heves megye  (1) 
+Jász-Nagykun-Szolnok megye  (2) 
+Komárom-Esztergom megye  (1) 
+Nógrád megye  (1) 
+Pest megye  (4) 
+Somogy megye  (1) 
+Szabolcs-Szatmár-Bereg megye  (1) 
+Tolna megye  (6) 
+Vas megye  (1) 
+Veszprém megye  (2) 
+Zala megye  (1) 
+Ausztria  (1) 
+Az Ön végzettsége 
+Középiskola  (14) 
+Főiskola  (33) 
+Egyetem  (3) 
+Az ön nyelvismerete 
+Nincs nyelvismeretem  (8) 
+Angol  (40) 
+Magyar  (2) 
+Német  (4) 
+Az Ön tapasztalata 
+1-3 év szakmai tapasztalat  (24) 
+3-5 év szakmai tapasztalat  (15) 
+5-10 év szakmai tapasztalat  (8) 
+Foglalkoztatás jellege 
+Teljes munkaidő  (49) 
+Részmunkaidő  (2) 
+Távmunka  (1) 
+Home office  (23) 
+Alkalmazotti jogviszony  (35) 
+Munkarend 
+Általános munkarend  (48) 
+Rugalmas munkaidő  (2) 
+Cégméret 
+0-10 fő  (6) 
+10-25 fő  (3) 
+100-250 fő  (8) 
+1000+ fő  (14) 
+250-500 fő  (6) 
+50-100 fő  (3) 
+500-1000 fő  (10) 
+Beállítások 
+Személyzeti tanácsadók hirdetései nélkül  (9) 
+Munkahely értékelése
+Munkahely értékelése
+Értékelje és mondja el véleményét korábbi vagy jelenlegi munkahelyéről. Értékelése név nélkül történik, és segítséget nyújt a munkakeresőknek ahhoz, hogy
+ideális munkahelyet találjanak. A kitöltés pár percet vesz igénybe.
+Értékelem 

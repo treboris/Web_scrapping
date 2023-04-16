@@ -1,0 +1,84 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceScientific software and data engineer (on site)  Можливість для людей з України
+Scientific software and data engineer (on site)Solargis s. r. o.
+Place of work
+SKY PARK Offices, Bottova, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+as soon as possible
+Wage (gross)
+3 000 EUR/monthsalary can be higher, depending on the working experience
+Information about the position Job description, responsibilities and duties•	Developing algorithms for retrieval, ingestion and analysis of real-time geostationary satellite imagery and for modelling of solar irradiance based on satellite, meteorological and other data•	Extracting knowledge from scientific literature and implementing it as software modules•	Refactoring and integration of existing codebase for improved performance and functionality•	Contributing to an overall improvement of accuracy, timeliness, resilience, and other aspects of the models•	Testing, deployment and monitoring of software/services•	Cooperation with other team members in the spirit of consistent and agile development•	Staying up-to-date on trends in the field and company prioritiesCode and data maintenanceDoes that sound interesting to you? Great! We look forward to your application! Employee perks, benefitsCompetitive salary and performance-based bonusesFlexible working hours with the possibility of home officeSick daysTechnical growth encouraged via opportunity to participate at conferences, workshops, and coursesPersonal growth opportunities, possibility to work on different projectsBudget for personal development (seminars, conferences, technical courses, language courses)Modern office located in Sky Park Offices, Bratislava, in which you can find chill areas, workout area and standing desksFree refreshments and fruitParking in the company parking lotsGreen transportation friendly environment - bike parking lots (in building), showers (in the office), bike lanes in Sky Park proximity, EV charging stations (in building)Multicultural and international environment, communication in EnglishWork in fast growing sector of renewable energy Information about the selection processCandidate should have an EU citizenship or a valid residence permit in Slovakia. Requirements for the employee Candidates with education suit the positionUniversity education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skills•	Degree in Computer Science/Engineering/related and working experience in the field•	Solid programming capabilities in Python, writing clean and structured code•	Experience with multidimensional array data manipulation (e.g. NumPy)•	Experience with bash / Linux terminal•	Good grasp for detail, diligence and accomplishment•	Innovative thinking, forward looking, team spirit, focus on customer•	English (at least professional working proficiency, both written and spoken)•	EU citizenship or a valid residence permit in Slovakia•	Starting date: as soon as possibleOptional / preferred:Previous expertise or experience in any of the domains is welcome:•	Python packaging, Git, CI/CD•	Big data storage in multi-dimensional data formats (NetCDF, Zarr, TileDB, HDF5, etc.)•	Parallel, concurrent, asynchronous paradigms and coding•	Docker, Kubernetes; cluster or cloud computing (s3)•	Precompiled languages (C++, Fortran, Rust, etc.) and integration with Python•	Python performance boosting with numba, cython, numexpr etc.•	Degree and/or relevant work experience in the Geo/Earth/Planetary sciences(such as remote sensing, atmospheric science, meteorology, geoinformatics, GIS)•	Mathematical modelling and statistics•	Solar energy, photovoltaics Advertiser Brief description of the companySolargis is a technology and consultancy company servicing companies involved in the development and operation of solar power plants. We provide meteorological data, energy evaluation software and technical consultancy primarily related to evaluation and management of solar power production.
+Thanks to 22 years of focused research and technology developed in-house, we have become a leader in the field. We work for medium and large energy organizations from 100 countries, helping them make qualified financial decisions, improve technical design, and optimize operations. Our data products and services have become an essential part of project development of solar power plants. We also provide services for performance evaluation, monitoring and forecasting of solar power.
+We are a group of geoscientists, meteorologists, engineers, programmers, data scientists, analysts and business developers focused on building and promoting a solar energy assessment platform that helps the solar power industry minimize weather-related risk and improve performance efficiency.
+In our team, every member brings unique skills and expertise. We look for talented, resourceful, innovative, passionate, and friendly individuals to join our team. We offer a career that is challenging, but enjoyable, and rewarding. We will be looking forward to integrating you in our team. Number of employees50-99 employees ContactContact person: Ing.  Magdaléna MilováTel.: +421918720347E-mail: send CV
+All company jobs
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4218042 
+     Dátum zverejnenia:  7.3.2023 
+    2023-03-07
+lokalita: Bratislava   Pozícia: Programmer, Python Programmer   Spoločnosť: Solargis s. r. o.   
+Základná zložka mzdy (brutto): 3 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

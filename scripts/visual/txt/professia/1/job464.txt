@@ -1,0 +1,81 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava developer for sports statistics (BE) 
+Java developer for sports statistics (BE)Sportradar
+Place of work
+Jurkovičova Tepláreň, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 500 EUR/monthBase pay for this position starts from EUR 3.500 gross per month and the final salary depends on the skills and requirements.
+Information about the position Job description, responsibilities and dutiesAbout the role:Do you know the difference between inherited and bequeathed runners? Or a flyout and a popout? It does not matter whether you already know the complexities of baseball stats, what matters is that you know how to turn complex domain knowledge into beautiful, readable Kotlin code. If you know how to write that code in a functional style with test-driven development too, then we might have the perfect role for you.As a member of the Production Engineering tribe and the Tundra squad located in Bratislava, you will develop software that calculates sports statistics for hundreds of concurrently ongoing sporting events. You will contribute to a state-of-the-art CI/CD pipeline that makes it possible to deploy often, quickly and without downtime. You will join a squad with a relentless focus on delivering quality software for clients like Google and Microsoft – software that will reach millions of users.OVERVIEW:Join our team and become a part of the global fast-growing success of Sportradar.A technology first software development company with high emphasis on getting rid of technological debt and building services on best practice cloud principles. We expect that you, as a senior developer, already have knowledge, experience, and motivation to influence the way we build our product and services.THE CHALLENGE:Learn the intricacies of a wide range of sports, and convert that knowledge into live sports statistics softwareBuild high performance services/products on top of our real-time sports data collected 27/4 globally for more than 30 different sports.Be an active part in making the most out of our AWS (Amazon Web Services) partnershipBecome a domain expert in the exciting world of real-time hi-tech sports dataA real opportunity to influence the design and technologyYOUR PROFILE:You are a developer who like challenges, having fun and being focused at work. Learning is a natural part of your workday. You enjoy collaborating with a diverse group of people.REQUIRED:Master- or bachelor's degree in software developmentStrong programming skills enabling you to deliver software with high performance and availabilityA personal interest in keeping up with the general trends of software product developmentA can-do attitude, take pride in own work and an ability to keep up momentumDESIRABLE EXPERIENCE:Kotlin or JavaWorking in agile development teamsCloud based services from AWSTest frameworks and a “test coverage mindset”Distributed systemsModern technologies:Message queuing (Kafka, RabbitMQ)Docker, KubernetesProtobuf & gRPCOUR OFFER:The opportunity to work and develop within an inspiring and fast-growing companyThe possibility to help shaping the future of Sportradar. All developers are directly contributing to products used by our clients in the global sports business.Involvement in shaping your own workday and career through a high degree of freedom to choose technology and your personal development.A collaborative environment with colleagues from all over the world (Engineering offices in Europe, Asia, and US).A company culture that promotes social aspects, sports, physical exercise, and fun.Competitive salary and benefits Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)Educational SpecializationInformačné technológie, šport Advertiser Brief description of the companySportradar is a global leader in understanding and leveraging the power of sports data and digital content for its clients around the world. We provide cutting-edge solutions and services to media companies, bookmakers, sports federations and state authorities. Number of employees1000 and more employees 
+ ContactContact person: Pavel MatuškaE-mail: send CV
+All company jobs
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4318914 
+     Dátum zverejnenia:  8.3.2023 
+    2023-03-08
+lokalita: Bratislava   Pozícia: Backend developer, Java Programmer, Programmer   Spoločnosť: Sportradar   
+Základná zložka mzdy (brutto): 3 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

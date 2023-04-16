@@ -1,0 +1,86 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceProgramátor Java (Banking, Health, Insurance, Public) 
+Práca
+Firma
+Benefity
+Kontakt
+Programátor Java (Banking, Health, Insurance, Public)
+                                Miesto práce
+                            Bratislavský kraj, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Typ
+                            plný úväzok
+                                Mzda (eur brutto)
+2 500 EUR/mesiacod 2500€ brutto
+                                Termín nástupu
+                            Dohodou
+* brutto/mesačne, reálna mzda podľa skúsenostíAsseco Central Europe (Asseco CE) je jedným z najsilnejších softvérových domov v strednej a východnej Európe. Patrí medzi najvýznamnejších poskytovateľov komplexných riešení a služieb v oblasti informačných technológií „šitých na mieru“. Realizuje rôzne projekty pre komerčnú sféru, ako aj pre štátnu správu a samosprávu. Pracuje v oblasti bankovníctva, poisťovníctva, verejného sektora a iných. Asseco CE je súčasťou medzinárodnej skupiny Asseco Group, ktorá v súčasnosti pôsobí v 54 krajinách sveta.Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme Java programátorov na vývoj a implementáciu portálového riešenia pre oblasti bankovníctva, poisťovníctva, zdravotníctva a verejného sektora. Portál je založený na programovacom jazyku Java (Spring framework, Angular, JSP).Ide o rozsiahle, dlhodobé  a stabilné projekty, účelom ktorých je zapracovanie nových požiadaviek, funkčností a implementácia riešení pre nových zákazníkov.  Náplň práce:  návrh      technického riešenia a vývoj softwarupodpora      pri analýze klientskych požiadaviek  riešenie      chýb hlásených počas testovania SW a prevádzkových chýb  aktívna      tímová spolupráca s ostatnými členmi tímu (team leader, vývojári,      analytik, tester) Zamestnanecké výhody, benefityzaujímavá a zodpovedná práca na dlhodobej úrovnizázemie v stabilnej a silnej spoločnostipríležitosť pre vlastný odborný rozvojvariabilná zložka odmeňovania v podobe kvartálnych bonusovdni voľna pri špeciálnych príležitostiach nad rámec zákonasick dayshome office príspevok do doplnkového dôchodkového sporeniavzdelávanie prostredníctvom internej akadémie a externých školeníjazykové kurzyMultisport kartavoľné vstupy na vybrané kultúrne podujatiapartnerské zľavya iné zaujímavé benefity Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňaPrax na pozícii/v oblasti2Osobnostné predpoklady a zručnostiPožiadavky:JavaSpring frameworkMS SQL Spring boot, JPADocker/KubernetesSOA – REST/SOAP (wsdl, xml, xsd)Gitlab
+DISCLAIMER
+Asseco CE podporuje inakosť a diverzitu. Naša firemná kultúra je otvorená všetkým bez ohľadu na ich vek, národnosť, pohlavie alebo zdravotné znevýhodnenie. Svojich zamestnancov si starostlivo vyberáme na základe ich zručností, praxe, znalostí a osobnostných predpokladov. Zamestnávame kolegov so zdravotným hendikepom, tiež nakupujeme výrobky cez chránené dielne, vďaka čomu môžeme prostriedky, ktoré by sme inak museli odvádzať do odvodového systému vracať medzi tých, ktorí si to najviac zaslúžia.Inzerujúca spoločnosť Počet zamestnancov500-999 zamestnancov KontaktKontaktná osoba: Veronika RajčekováE-mail: poslať životopis
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4536928 
+     Dátum zverejnenia:  13.3.2023 
+    2023-03-13
+lokalita: Bratislavský kraj   Pozícia: Backend programátor, Programátor   Spoločnosť: Asseco Central Europe, a. s.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

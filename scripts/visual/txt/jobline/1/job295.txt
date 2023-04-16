@@ -1,0 +1,78 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Linux rendszermérnök (Budapest)
+Linux rendszermérnök (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+Linux rendszermérnök
+Magyar alapítású, immár 150 főre növekedett partnercégünk egyedi szoftverek fejlesztésével foglalkozik, amelyeket ügyfeleik az oktatásban, közlekedésben, a banki-biztosító szektorban, de a telekommunikációs iparágban is használnak. Digitális megoldásaik mellett vállalkozásfejlesztéssel és üzletfejlesztési tanácsadással is foglalkoznak. Leendő kollégáikat belvárosi iroda, változatos projektek és az egyedi fejlődést kiemelten támogató agilis környezet várja.Jelenleg a 3 fős üzemeltetési csapatukba keresünk Linux környezetben tapasztalt rendszermérnök kollégát, akinek legfontosabb feladata a fejlesztői csapatok DevOps jellegű támogatása, illetve a saját fejlesztésű termékek mögötti infrastruktúra üzemeltetése lesz.
+A pozícióról
+meglévő, komplex rendszerek üzemeltetése Linux (Debian) környezetben üzleti igényeknek megfelelően
+új rendszerek tervezése és kialakítása szorosan együttműködve a fejlesztőkkel (projektfüggően PHP, Java, Ruby vagy Python vonalon)
+fejlesztői csapatok DevOps jellegű támogatása
+AWS menedzsment
+Elvárások
+legalább 3 év rendszerüzemeltetési tapasztalat Linux környezetben
+gyakorlati tudás verziókövető rendszerekkel és backup monitoring megoldásokkal
+hálózati tapasztalatok Shell scripting képesség önálló döntések meghozására és szakmai felelősségvállalásra
+Előny:
+DevOps tapasztalat,
+konténertechnológiák ismerete (Chef, Docker, Kubernetes) Cloud - legideálisabb esetben AWS - ismeretek
+agilis környezetben szerzett tapasztalat
+Amit Megbízónk kínál
+felelősségteljes és önállóságot igénylő munkakör változatos projektekkel
+egyéni szakmai fejlődési terv,
+karriermenedzsment: belső és külső szakmai képzések, tanfolyamok támogatása teljes körű egészségbiztosítási csomag,
+akár családtagoknak is angol nyelvtanulási lehetőség
+belvárosi iroda tetőterasszal
+befogadó és jó hangulatú csapat
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Thyssenkrupp -
+Senior PLM / ALM Application Engineer
+Deutsche Telekom IT Solutions -
+Security Analyst (REF92A)
+Deutsche Telekom IT Solutions -
+IT Security Manager (Corporate Security) (REF822R)
+Deutsche Telekom IT Solutions -
+IT Security Manager (REF1606M)
+Best Hunters Tanácsadó Iroda -
+GYENGEÁRAMÚ HÁLÓZATTELEPITŐ 
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Szeged
+Győr
+Pécs
+Kecskemét
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

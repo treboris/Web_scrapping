@@ -1,0 +1,75 @@
+Jobs by email
+AMORELIE
+Senior Data Engineer - Group Wide - (all genders)
+Berlin
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 1 week ago
+Show salary
+No cover letter required
+Easy apply
+Save
+About us
+AMORELIE is all about playful, uncomplicated and natural ways to deal with sex. We encourage people to have happy, fulfilled and sensual relationship - with themselves or others. Our mission helped us change the whole industry. AMORELIE offers classy toys and lingerie as well as a variety of love essentials. Here you will find ambitious ideas, a unique and horizontally-organized company culture and an easy-going team with incredible energy and willpower to accomplish our mission. We are a successful and profitable company in Berlin, and we aim to define our future relationships.
+Oh, and by the way: Our colleagues are pretty damn cool, too.
+Team Mission
+As Senior Data Engineer - Group Wide - (all genders), you are working for the EQOM Group, of which AMORELIE is one subsidiary company. The EQOM Group's mission is to become the unbeatable market leader in the sexual wellness industry, by bringing together the strongest companies within Europe and connecting the best partners across the globe.
+We put data at the centre of our organization. We provide high-quality data, information and knowledge, empowering relevant decision-making across the organization in close collaboration with our partners. The Data Team plays a central role in our strategy, designing, and development of our infrastructure, processes, and analytics capabilities.
+We are looking forward to you !
+Position Details
+Unlimited contract 
+Full-time or part-time min. 32h/week
+Home office/ remote work possible, but first place of residency must be in Germany or NL
+Office location: Germany / Netherlands and/or Remote work possible
+Willingness to travel within Europe once a quarter
+We support you with your VISA/work permit application if needed
+Job To Do's
+With your knowledge of software engineering, databases and cloud, you work on the backbone of our data infrastructure
+You help to grow our analytics capabilities by building and maintaining faster such as more reliable ELT pipelines, by using better tools
+For that purpose, you develop and maintain the required infrastructure to store, transform and process data at scale and in the cloud
+You make sure that our data is stored safely and securely by using the technology that you see fit for the job
+You are a driver for process optimisations as we rely on your expertise! So it is a big opportunity to really have an impact!
+Skills
+You have at least 5 years of experience in data engineering, software engineering or another relevant field
+You are an engineer with a pragmatic attitude, but you understand the responsibility that comes with taking systems into production
+You understand cloud, provisioning and automation
+You know how to build robust systems
+You love to learn, are a critical thinker and creative problem solver who strives for excellence
+Our team is self-driven, so we expect you to be proactive, self-directed and organized
+At the EQOM group, we have a lot of dashboards and reports in production, which are all powered by our data warehouse, so we expect you to have a solid background in databases and data modelling
+You preferably have experience with Snowflake, dbt, Fivetran, Airflow, Spark, or other relevant tools
+Our software is built using the standard automation tooling, so a solid knowledge of GIT, command line and CI/CD is mandatory as well
+AMORELIE Benefits
+You can expect an international team and have the possibility to participate actively in shaping the company in order to celebrate success together
+Flat hierarchies and a transparent communication culture
+We are committed to an open and tolerant working environment: Come as you are, as we love your quirks!
+Flexible working hours and home office
+Personal development of your skills through our Development Cycles
+A dog-friendly and open-plan office
+Free drinks, fresh fruit and an always full fridge with tasty snacks
+Regular events in line with the Covid-19 guidelines
+A discounted membership in the Urban Sports Club
+... and of course, there will also be toys ;)
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+AMORELIE
+Wattstr. 11-13, 13355 Berlin, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

@@ -1,0 +1,17 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceRPA Developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+O nás
+Kariéra
+Kontakt
+                        find ( “perfect_job” );Buď súčasťou našich projektov.
+RPA DeveloperPlace of workRemote work Basic wage component (gross) and other rewardsfrom 1 800 € + variable component(base salary depends on seniority, experiences and qualification of the candidate) Your roleJoin our running digital & RPA journey and work with us on international projects in Germany, UK, USA and Skandinavia. Develop your skills and use the latest technologies on the market.Our Robots are built with IT governance, security and they enable employees to focus on higher-value work. Your development will help our customers to increase efficiency and transform their business.We are looking for RPA developers with Blue Prism, UiPath, Automation Anywhere, akaBot or other RPA tool experiences. You will get incorporated into existing RPA solutions by our team, and you will have a chance to work on new RPA opportunities and challenges. The role includes:  analysis of customer requirements data preparation RPA process development on Web & desctop applications, MS Office, different ERP systems and SAP process testing creation of documentation for processes process execution, maintenance and monitoring maintenance of RPA platform and framework  What do we expect? you have 2 years of experience with some of RPA tools: Blue Prism, UiPath, Automation Anywhere, akaBot, etc. you have experience with .NET (VB or C#) you have experience with different databases you are familiar with VDI you have experience with Agile/Scrum your experience with CI/CD, clouds, monitoring tools e.g. Prometheus/Grafana will be an advantage you speak English and German fluently  Our benefits Variable component in amount of 13. salary Company social benefit up to 2 000 € Extra project bonus Company performance bonus Loyalty bonus Referral bonus up to 3 000 € Unlimited, fully equipped home office Flexible working hours Hard and soft skills trainings, conferences and certifications Unlimited access to all Udemy for Business e-learning trainings Language course and upskill project Contribution on your own hardware Multisport card Recreation voucher Family culture Teambuilding and sport activities   ContactContact person: Šarlota PiroškováTel.: +421556101600E-mail: send CV 
+ID: 4523581 
+     Dátum zverejnenia:  20.2.2023 
+    2023-02-20
+lokalita: Remote work   Pozícia: Programmer   Spoločnosť: Fpt Slovakia s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 1 800 EUR/month
+                Všetky ponuky

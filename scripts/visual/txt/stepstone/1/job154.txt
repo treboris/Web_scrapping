@@ -1,0 +1,52 @@
+Jobs by email
+Volue Germany GmbH
+Lead Developer Algorithmic Execution (m/f/d)
+München
+Permanent contract
+Full Time, Home office possible
+Published: 2 hours ago
+Easy apply
+Save
+Volue is a market leader in technologies and services that power the green transition. Around 800 employees work with more than 2 200 customers on energy, power grid, water & infrastructure projects.
+Our mission is to provide innovative services critical to society, unlocking a cleaner, better and more profitable future. Working towards this goal, Volue has become a leading technology supplier and enabler of the green transition, helping energy companies simplify and optimize everyday operations.
+We are looking for a Lead Developer Algorithmic Execution who can help us to continuously improve Volue’s ability to provide value to customers in line with the Volue mission.
+Our SaaS products facilitate the intelligent automation of energy trading. These high-performant real-time systems connect to power exchanges, and they use smart and highly parametrizable built-in algorithms for trading on these exchanges. Our customers are producers and traders of energy.
+What you will be doing to make a difference:
+Be the functional lead of the Algorithmic Execution Team who provides guidance and support for your team members by sharing your knowledge and experience - and at the same time be part of the team and roll up your sleeves working on specific topics yourself
+Collaborate with our development teams and product management on managing the roadmap and creating new business ideas.
+Work at the heart of our algorithmic execution strategies for continuous trading. The platform must constantly evolve and adapt to the changing markets. We need you to implement new features, fix bugs, define proper monitoring, etc.
+Enable data-driven decision making by identifying the relevant inputs and modeling the dependencies.
+Be critical to the company as we expand our value proposition beyond algorithmic execution by serving as a sparring partner for quantitative trading, developing prototypes and refining them as needed
+What you need to succeed:
+Algorithmic trading and market microstructure experience.
+Data Science skills: you breath data. It’s what your decisions are based on.
+Development skills: the platform is written in C# and you create clean, elegant, tested code, that separates concerns.
+Problem solving skills: you love to solve problems and take an agile approach doing so.
+Being a team player: you will collaborate with all areas of business and development. You’ll need to understand and explain requirements and find solutions collaboratively.
+Being a team leader: You have already led a team and want to build on those skills in a collaborative environment.
+Business fluency in English, German is a big plus
+Reasons to join Volue team and what we offer:
+Working at the core of an innovative, growing company, enabling the green transition
+Creative and up-to-date work environment with great learning opportunities
+Opportunity to shape and develop your role
+Great colleagues in one of Europe’s most exciting green tech companies
+Attractive salary & benefits package
+Flexible working hours and the opportunity to work from home
+Weitere Informationen
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Volue Germany GmbH
+Richard-Strauss-Str. 82, 81679 München, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

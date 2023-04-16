@@ -1,0 +1,40 @@
+Jobs by email
+Dassault Systemes Deutschland GmbH
+Infrastructure Consultant DELMIA Quintiq (m/f/d)
+Düsseldorf, München, Stuttgart, Karlsruhe, Darmstadt, Köln, Hamburg, Berlin
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Save
+Your role:
+DELMIA Quintiq, as part of Dassault Systèmes, is looking for an ambitioned newcomer or experienced Infrastructure Consultant (m/f/d) to join the Services department and participate in designing, delivering, and deploying state-of-the-art software solutions for our customers’ supply chain puzzles in manufacturing, logistics, and many other industries. Our suite of applications provides world-class optimization and decision support for everything from demand forecasting and capacity planning to detailed scheduling of delivery routes, workforce, and production lines. Your responsibility is to define the technical architecture, the integration design, and the deployment in our projects being in touch with Kafka, Azur, Cloud, and other tools.
+Your responsibilities:
+Design technical architecture concepts and support the functional targets of the planning solution by working closely together with other specialists from Dassault Systèmes and the customer team
+Work with the “big names” of the market and drive innovative solutions
+Lead the technical integration design and drive the hardware/network/infrastructure assessment
+Deploy, operate and maintain DS products on the customer's site
+Ensure that the design and the deployment of the technical solution are aligned with the security, performance, scalability, and capacity expectations of the customer
+Tuning of DS products and configuration of a related key software component such as Operating System, web servers, and integration components (SAML, databases, middleware etc.)
+Your qualifications:
+Obtained a degree in software engineering (or equivalent) specialized in hardware or system architecture
+Relevant background and demonstrated experience in infrastructure consulting, preferably in a supply chain or production planning context
+Knowledge of mainstream integration patterns, technologies, and systems such as ODBC, database systems, Kafka, SOAP, REST, and JMS
+Diligence, an eye for detail, and a clear head when managing deadlines and multiple stakeholders
+Good communications skills, customer-oriented, flexible mindset, technology passionate
+Excellent English skills are mandatory and German skills are desired, as well as willingness to travel as needed within the DACH region
+What's in it for you?
+A permanent job in a sustainable, innovative, science-oriented international company 
+An open, creative, dynamic work environment in a motivated team  
+Varied challenging and rewarding tasks 
+Attractive training opportunities, supportive colleagues 
+Have we sparked your interest?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

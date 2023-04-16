@@ -1,0 +1,77 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Budapest
+Következő 
+DevOps Engineer
+Loxon Solutions Zrt.
+1134 Budapest, Lőportár u. 20/b
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+Sport támogatás
+DevOps Engineer
+At Loxon we build world-class software covering the entire lifecycle of lending and risk management and deliver them as integrated solutions for the financial services industry. We have major banking groups among our customers from 25+ countries in Europe and other global regions. We have a unique blend of competence of domain knowledge and technical skills with business professionals having strong background in banking and consulting, and software experts skilled in system & software design, data science and analytics.
+We are looking for an experienced and results-driven DevOps Engineer who will play a key part in championing and leading infrastructure as code. As the new member of our innovative team you will be busy designing, building and migrating applications, software and services on the AWS platform, ensuring solutions are designed for successful deployment in the cloud, as well as maintaining and supporting our on-premises development activities.
+WHAT YOU’LL DO
+design cloud infrastructure that is secure, scalable, and highly available on AWS;provision, configure and maintain AWS cloud infrastructure defined as code;work collaboratively with software engineering to define infrastructure and deployment requirements;take part in designing hybrid cloud infrastructure;evolve GitOps approach and introduce it to the entire portfolio;transform Docker swarm environment into Kubernetes ones;build, maintain and centralize operational tools for deployment, monitoring, and analysis of on-prem and cloud infrastructure and systems;troubleshoot problems across a wide array of services and functional areas;maintain our CI/CD pipeline, build automation and source code management systems;administer and troubleshoot Linux-based on-prem systems.
+WHAT WE EXPECT FROM YOU
+experience with building and maintaining AWS infrastructure (VPC, EC2, Security Groups, IAM, S3);solid foundation of networking and Linux administration;ability to learn/use a wide variety of open source technologies and tools;experience with containerized systems like Docker or Kubernetes;experience with deployment of CI/CD pipelines.
+Sector(s):
+IT Development
+Programmer, Developer
+We value if you have:
+experience with CloudFormation and third-party automation approach/strategy;familiarity with Backup and Disaster Recovery approach and design;experience with Docker, GitHub, Jenkins, ELK and deploying applications on AWS.
+WHAT YOU CAN EXPECT
+continous professional development while participating in international banking projects;to be part of an energetic, supportive, highly qualified team;competitive salary and career opportunities;recreational activities (wide range of sport opportunities: fitness pass, AYCM);diverse and flexible cafeteria (among others SZÉP Card, Edenred Card, sport and cultural event pass);Employee Assistance Program (EAP);health insurance;30 days of paid vacation;regular team building activities;in-house meetups and innovation competitions;learning opportunities (Udemy courses, workshops);professional working environment;opportunity to work from home.
+How to apply/ contact information:
+Apply via "Jelentkezem" button underneath!
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+Sport támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+LOXON SOLUTIONS Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság
+Információ, kommunikáció
+●
+Egyéb szoftverkiadás
+100-250 munkavállaló
+2013
+1134
+Budapest,
+Lőportár utca 20. B. ép.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

@@ -1,0 +1,91 @@
+Jobs by email
+MBition GmbH
+(Senior) Audio Quality Engineer (all genders) - in Berlin
+Berlin
+Permanent contract
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: P0142V332
+Aufgaben
+MBition, Mercedes–Benz is bringing the automotive industry into the future! How?
+We are working on a software-defined architecture, that allows us to create state-of-the-art customer functions that span one or more domain controllers with significant processing power. One of these high-performance domain controllers is used for automated driving functions (e.g. automated driving on highways).
+We do this in Berlin and Sindelfingen as a 100% subsidiary of Mercedes-Benz AG, which has been perfecting the art of moving people, products and services from A to B for more than 120 years.
+With an international team of 500 employees, we want to integrate people who appreciate quality, creativity and teamwork just as much as we do. Together we create passionate technology on exciting topics like: automated and autonomous driving, infotainment systems or mobile APPs. And we need YOU to help us shape the future!
+About the role
+In the Audio Domain we build the abstraction layer between the audio hardware and infotainment applications. Our goal is to build modern C++ audio APIs that are easy for application developers to integrate, while hiding away complexity imposed by strong real-time requirements, complex audio routing, policy management and prioritization.
+As a Senior Quality Engineer (all genders) in an agile team you will be responsible for verification and testing of audio features on real automotive hardware. Together with your team members, you will analyze audio requirements and architecture design in terms of testability.
+You will create and implement a testing strategy for the audio domain, which will include test levels from automated end to end testing all the way to external test-houses.
+Own quality practices in the domain to align them with the project guidelines;
+Define test plans for functional and non-functional requirements
+Perform exploratory testing.
+Define the requirements for the automated test strategies, take part in the implementation of the test suites and assess the coverage of the software element, integration, system sanity and basic feature tests
+Assess and triage the incoming bugs and failed builds to assign them to the responsible teams.
+#nextbigthing 
+Qualifikationen
+Your Profile
+Education
+Academic degree (BSc/MSc/PhD) in computer science, Information Technology, or a comparable qualification demonstrable through any relevant certification, portfolio, GitHub repositories etc.
+Experience 
+At least three years of working experience as a test engineer on audio or similar experience.
+Programming skills in language such as C++ and Python to be able to review codes written in these languages.
+Implementation of automated test suites in Python.
+Knowledge of test management tools like Zephyr or XRay.
+Nice to have
+Experience with Embedded Linux / Yocto
+Experience with PulseAudio / ALSA or similar audio frameworks
+Experience with audio signal processing algorithms
+Experience with in-vehicle infotainment systems
+Experience with efficiently managing external test houses
+Personal skills
+Proficiency in problem solving and can-do attitude
+Ability to handle multiple competing priorities in a fast-paced environment
+Personal initiative, commitment, perseverance and resilience
+Language skills
+Proficient in English. German is a plus.
+Zusätzliche Informationen
+Why us? 
+A chance to work on a new generation of Infotainment Systems, which will power millions of cars
+An international, interdisciplinary software hub, which is part of the Mercedes Benz AG
+Great company values that we are passionate about and live by every day at work. Have a look for yourself at mbition.io and scroll down to "The MBition Experience
+Agile working methods and open feedback culture
+A brand new modern and fully accessible office facing the Spree
+Flexible working hours
+Transportation and health benefits, discounts on cars, free coffee, fruits and more
+Interested?
+We look forward to receiving your complete application, including CV (in English or German) and relevant references with the following information:
+ Job title and reference number
+ Salary expectations
+ Earliest start date
+You don't bring everything with you? Don't worry, MBition is proud of our diverse workforce and passionate about having MBitioneers from all backgrounds and perspectives. MBition is and always will be an equal opportunity employer. We are looking for employees who convince us above all with their personality and passionately motivated to join the team!
+You are welcome to contact our representative for severely disabled employees, Anna Schade (anna.schade@mercedes-benz.com), who will support you in the further application process.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+MBition GmbH
+10587 Berlin, Germany
+Company Benefits
+Additional medical services
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Coaching
+Home office
+Company car
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

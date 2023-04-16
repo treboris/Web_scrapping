@@ -1,0 +1,80 @@
+Jobs by email
+Simpson Strong-Tie GmbH
+IT System Engineer (m/f/d)
+Be an early applicant
+Bad Nauheim
+Permanent contract
+Full Time, Home office possible
+Published: 6 days ago
+Show salary
+Easy apply
+Save
+Einleitung
+Simpson Strong-Tie is an international building products company with multiple locations across Europe. As a pioneer in the building industry and a world leader in structural solutions, we have an unmatched passion for problem solving through skillful engineering and thoughtful innovation. Our dedication to pursuing ever-better construction products and technology and to surrounding our customers with exceptional service and support has been core to our mission since 1956.
+Since 2022, ETANCO Group is part of Simpson Strong-Tie. The acquisition strengthens our overall product portfolio in Europe, enabling us to deliver even more value to our customers. In Europe, we now have about 1600 employees across several countries. And we share a long history of dedication to our customers' success by providing them with exceptional products, technical solutions and services.
+To strengthen our team, we are looking for an experienced IT System Engineer to guide the creation, installation, maintenance and support for computing systems. 
+Ihre Aufgaben
+Responsibilities in this position include:
+Architect, automate, and manage corporate server infrastructure, cloud computing platforms, and enterprise applications (O365, Mail, etc)
+Work closely with other IT teams to implement, support and maintain new technologies
+Installing, configuring, maintaining, troubleshooting, monitoring and automating tasks for various systems based on Windows Server 2016 and above, Software Deployment Systems and VMWare 6/7
+Managing DNS, DHCP
+Managing backup solutions
+Monitoring day to day activity and respond to system alerts of servers deployed in the virtualized environments
+Diagnose advanced IT and computer systems issues
+Engages other support teams or vendor to determine technical configuration requirements when necessary  
+Ihr Profil
+REQUIRED SKILLS AND EXPERIENCE 
+Post-secondary education such as a bachelor’s degree or master’s degree or equivalent combination of education (training and/or experience) in Computer Science, Information Technology or Engineering.
+5 years or greater of experience in similar jobs positions
+Any certification on VMWare, Microsoft (including Azure) environments will be considered a plus
+Good knowledge on Windows Operating Systems 
+Advanced experience in managing Windows Server technologies including System Center (SCCM, SCOM), and VMWare and the optimization of these platforms
+Demonstrated experience with SCCM would be a nice to have skill
+Demonstrated experience with backup solutions like Veeam and/or Rubrik
+Experience designing, developing, modifying and troubleshooting highly complex Information Technology systems
+Experience deriving system requirements from stakeholder and mission needs
+Experience developing system architectures
+Candidates need creativity to imagine innovative, effective new solution and designs
+Both oral and written communication skills are needed to relay important information and communicating about solution to complex problems
+Good written and spoken English skill essential 
+TRAVEL REQUIRED
+This job requires up to 10% travel.
+WORK STATUS & LOCATION
+This full-time position is located in Germany (Bad Nauheim) or France (Sainte Gemme la Plaine).
+Remote working is possible in the role.
+Wir bieten
+BENEFITS
+Challenging position within a global organization
+Strong team ethic in a great environment
+We value support, collaboration, and respect
+Secure and permanent employment
+Understanding of different culture
+Modern working environment and workplace equipment
+Home Office working (under certain conditions)
+Staff events
+Complimentary beverages
+Weitere Informationen
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Simpson Strong-Tie GmbH
+Hubert-Vergölst-Straße 6, 61231 Bad Nauheim, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

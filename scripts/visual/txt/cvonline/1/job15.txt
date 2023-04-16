@@ -1,0 +1,41 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Ügyfelünk egy rendezvény-technika területén nemzetközi szinten elismert magyar vállalat, akiknek a budapesti központjukba keressük egyik termékük Product Owner-ét.
+TE VAGY AZ IDEÁLIS JELÖLT SZÁMUNKRA, HA:
+fontos számodra, hogy képviselheted a felhasználót, ismered a fejlesztések üzleti követel-ményeit, a megrendelők igényeit;
+képes vagy termékben gondolkodni és aktívan tudod támogatni a product manager kollégákat a termékvízió megalkotásában, inputokkal, észrevételekkel, ötletekkel,
+a hosszabb távú víziót önállóan tudod kisebb, a csapatod scope-jába illeszkedő, a felhasználó számára is értelmezhető értéket képviselő szállítandókra bontani,
+erősséged, hogy átlátod az üzleti célokat, meg tudod állapítani a termékkel szemben megfo-galmazott elvárások fontossági sorrendjét, így folyamatosan képes vagy priorizálni a backlog elemeit,
+product owner-ként képes vagy motiválni és segíteni a csapatodat abban, hogy iterációról iterációra a maximális értéket állítsák elő,
+a megértett felhasználói igényeket kiválóan le tudod fordítani a fejlesztők nyelvére, így bizto-sítod, hogy a csapat megértse a követelményeket,
+tárgyilagosan tudsz döntéseket hozni a szállítás eredményeinek elfogadásáról,
+megvannak a technológiai alapjaid ahhoz, hogy a system architect csapat által felvázolt technológiai elvárásokat megértsd, és szakmai vonatkozásában képviseld a csapatod előtt,
+a csapat hatáskörébe tartozó technológiai, szakmai irányokat önállóan is meg tudod határoz-ni, azok leszállítását képes vagy lekövetni,
+ismerősek számodra a szoftverfejlesztés eszközei, módszerei, technológiai megoldásai és korlátai;
+dolgoztál már valamilyen skálázott agilis vállalati keretrendszerben (pl. SAFe),
+motivál, hogy tapasztalatoddal segítheted a leendő csapatodat az érett agilis csapattá válásban, a folyamatos fejlődésben,
+szívesen képviseled a termékkörödet és a csapatodat a szervezetben, a közös szervezeti agilis eseményeken,
+nyitott vagy az új ötletekre és azokat másokkal közösen szereted megvalósítani, fontos számodra, hogy együtt, egymást tisztelve és segítve tudjunk kiváló minőségű termékeket fejleszteni.
+                Elvárások / Requirements
+EHHEZ MINDENKÉPP SZÜKSÉGES, HOGY LEGYEN:
+felsőfokú műszaki vagy gazdasági végzettséged;
+legalább 3 év scrum csapatban, Product Owner szerepkörben szerzett gyakorlatod;
+tapasztalatod szoftverfejlesztési folyamatok működésében,
+tapasztalatod változásmenedzsmentben;
+kiváló kommunikációs készséged az információk professzionális formában történő átadásá-hoz;
+csapatjátékos beállítottságod és alkalmazkodó készséged;
+szisztematikus munkavégzésed, rendszerszemléleted és analitikus képességed;
+szakmai angol nyelvismereted.
+                Amit nyújtunk / Benefits
+AMIT MI TUDUNK BIZTOSÍTANI, HOGY JÓL ÉREZD MAGAD NÁLUNK:
+versenyképes jövedelmet és többféle egyéb juttatás; 
+fél év betanulás után heti 2 nap home office lehetőség;
+részese lehetsz egy magyar cég sikerének a világpiacon;
+dinamikusan fejlődő és stabil háttér;
+jó hangulatú, fiatalos légkör;
+emberközpontú szemlélet;
+meghallgatjuk az ötleteidet;
+belvárosi, jól megközelíthető iroda;
+magas színvonalú csapatépítő tréningeket és egyéb közösségépítő programok.
+IT Product Owner 
+Jelentkezem

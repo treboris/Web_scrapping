@@ -1,0 +1,43 @@
+ Belépés ›
+Linux System Administrator (Magyarország)
+Linux System Administrator (Magyarország)
+A hirdetés már lejárt!
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+OKJ
+teljes munkaidő
+Linux System Administrator
+Your new company
+Partnerünk a pénzügyi világban bevált szolgáltatásra kész megoldásokat kínál, a legmodernebb technológiákat kombinálva olyan biztonságos, testreszabható termékek létrehozásához, amelyek megváltoztatják az ügyfelekkel való kapcsolattartás módját, az onboardingtól kezdve, a távoli azonosításon át a digitális szerződések távoli aláírásáig.
+Your new role
+● Linux szerverek üzemeltetése 
+● belső fejlesztési csapat által kiadott szoftverek üzemeltetése 
+● az üzemeltetéshez kapcsolódó folyamatok fejlesztése, automatizálása és tesztelése 
+● fejlesztői csapatok támogatása
+What you'll need to succeed
+● Ubuntu és/vagy RHEL operációs rendszerekkel szerzett komoly tapasztalat (3+ év) 
+● konfiguráció menedzsment eszközzel szerzett tapasztalat (pl.: Ansible) 
+● web infrastruktúra üzemeltetésével szerzett tapasztalat
+● PostgreSQL vagy más adatbázis szerver üzemeltetési ismeretek 
+● Git ismeret
+● Shell script programozási ismeretek 
+Az állás betöltéséhez előnyt jelent:
+terheléselosztott- és magas rendelkezésre állású rendszerekkel szerzett tapasztalat  
+Konténer technológia ismerete (docker, kubernetes) 
+Node.js alkalmazások üzemeltetésében szerzett tapasztalatok 
+CI/CD folyamatok ismerete 
+elosztott fájlrendszerek ismerete (pl. GlusterFS) 
+tűzfalak ismerete (pl. MikroTik) 
+What you'll get in return
+● kiemelkedő hazai és nemzetközi referenciák és projektek 
+● elsősorban irodai, de home office munkavégzés is támogatott
+● modern, fiatalos munkakörnyezet, kiváló megközelíthetőséggel 
+● versenyképes jövedelem és premizálás 
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Neked ajánlott állások

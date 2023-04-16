@@ -1,0 +1,40 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+At our Client they are on a mission to modernize voice with trust, identity, and intelligence. They are protecting everyday people from spam and fraud calls, connecting businesses with their customers, and helping carriers secure their networks for all. In 2015, the Company founder saw the increasing need for innovation in the voice channel and began building the first caller ID and spam blocking apps for mobile while at Whitepages. In early 2016, the Company spun out of Whitepages and brought its technology to market through Samsung Smart Call, the first-ever network-based spam solution with AT&T, and the our Client's consumer app. Three years later in 2019, they brought our Client connect to market, a B2B branded call service that enables enterprise companies to connect to the consumers they are trying to reach. The combination of Protect, Connect, and the app has resulted in the world's largest Voice Performance Platform with over 200M monthly active users.
+About the Position
+The Backend Engineer is an Individual contributor position responsible for designing, coding and operating high performance data processing systems and backend services for their customer facing web services on the JVM platform (primarily Scala). Our ideal candidate would have the skills and desire to understand their entire stack, from their cloud platform (AWS) through data storage technologies (such as DynamoDB, Redshift) and stream processing (Kafka) all the way to Scala/akka based services.
+About the Team
+Our Client's Protect team has built a leading fraud detection system for phone calls used by millions of users around the Globe through mobile and network integrations. Their mission is to eliminate unwanted calls and bring trust and intelligence back to the phone calls by using modern technologies and machine learning. Their innovative platform is able to process hundreds of thousands requests and runs half million models per second.
+What You’ll Do
+Work at a supportive and fast-growing startup with a fantastic team.
+Build and operate world class services in the field of phone fraud detection
+Make an impact in the lives of tens of millions of consumers on a daily basis
+Collaborate and learn from other great team members.
+Support in developing your skills and accelerating your career
+                Elvárások / Requirements
+Experience or interest in functional programming in a typed setting; 
+A philosophy of iteration and continuous improvement;
+Experience building highly scalable and -available production services;
+BSc or M.S in a relevant field; 2+ years relevant work experience;
+Excellent communication and self-organization skills incl. working within and with other remote teams;
+Familiar with data storage- and processing systems (such as Postresql, Amazon DynamoDB, Amazon Redshift, Apache Spark, ElasticSearch, Redis);
+Experience with *nix.
+Proficient at collaborating and communicating with both local and remote team members in English and Hungarian
+You will have a fast start if you have experience with:
+Scala
+Cloud environments (AWS)
+Big-data technologies and platforms (Spark, Athena/Presto, Zeppelin, Databricks)
+Modern deployment environments (Kubernetes, Docker)
+High performance HTTP API
+                Amit nyújtunk / Benefits
+Private Retirement/Pension program 
+Medicover
+Commuter benefit, parking facility, bike storage
+Donation Matching for a charity of your choice (up to $500/ year)
+WFH equipment stipend 
+$1,000/year in Professional Development funds
+Online English Classes
+Gym membership
+Full-flex working model (You decide whether you are working from home or from the office.)
+Backend Engineer (Scala) - protect team 
+Jelentkezem

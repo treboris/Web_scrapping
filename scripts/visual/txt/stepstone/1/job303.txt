@@ -1,0 +1,44 @@
+Jobs by email
+Honda Research Institute Europe GmbH
+Software Engineer m/f/d
+Offenbach am Main
+Temporary contract
+Full Time
+Published: 6 hours ago
+Save
+Take on new challenges, overcome the limits, bring out your best: join a team of cutting-edge researchers exploring the technologies that will shape our future.
+Join the Honda Research Institute Europe in Offenbach, Germany!
+We are working on topics ranging from artificial intelligence (AI), robotics and mobility to energy – and you can be part of it. We’re looking for fresh talent to advance robust, high-quality software.
+Software Engineer m/f/d
+Your responsibilities
+You will help us realize HRI’s research ideas in prototype systems, or more specific:
+Help us identify requirements and formulate them as specifications
+Propose software designs together with our software architecture experts
+Specify software units and implement them or handle their implementation with our external partners
+Design or assess our test cases
+Review our software and support release management
+In all these tasks, you will work within a team of researchers as well as internal and external software engineering experts.
+Your profile
+Linux command-line usage
+Good knowledge of Python development, ideally using PyQt and/or Mako
+Bash scripting
+Familiar with Git-based version control
+Ideally, practical knowledge of using GitLab and CI infrastructures
+University degree in Computer Science, Mathematics or a comparable discipline is beneficial
+You like to work independently and in a team and value a structured way of working.
+Take the initiative and become part of our international team.
+This position is initially limited to 2 years.
+Our strengths – your benefits
+An exciting combination of fundamental and applied research
+An open atmosphere with a great multidisciplinary, international team and strong academic collaborations
+Participation in international conferences and workshops
+Flexible work time regulations
+Various social benefits including an attractive retirement savings plan
+We look forward to hearing from you.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Honda Research Institute Europe GmbH
+63073 Offenbach am Main, Deutschland

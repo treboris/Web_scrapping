@@ -1,0 +1,41 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Partnerünk motorok (belsőégésű, hibrid, elektromos), elektromos hajtásláncok és akkumulátorok fejlesztésével foglalkozik főleg autóipari partnerei számára. Ezen túl részt vesznek a termékek szimulációs, tesztelési és kalibrációs folyamataiban is egyaránt. Az általuk fejlesztett termékekkel személyautókban, kamionokban és önvezető autókban is találkozhatunk. Számukra keresünk funkciófejlesztő mérnököt.
+Hibrid autók szabályzó stratégiáinak fejlesztése grafikus fejlesztői környezetben (MATLAB/Simulink)
+Matematikai, fizikai, irányítástechnikai és logikai ismeretek gyakorlati alkallmazása
+Energia menedzsment, nyomaték vektorizálás és a hibrid vezérlőegység funkcióinak fejlesztése
+A V-modell teljes folyamatában való részvétel a követelményektől a tesztelésig
+                Elvárások / Requirements
+Az ideális jelölt rendelkezik:
+Mechatronikus, villamosmérnöki, gépészmérnöki, fizikus vagy közlekedésmérnöki felsőfokú végzettséggel
+MATLAB/Simulink vagy ASCET tapasztalattal
+B2-es szintű angol nyelvtudással
+Jó kommunikációs készséggel
+Proaktív hozzáállással
+                Amit nyújtunk / Benefits
+Amit a partnerünk kínál:
+Egészség-orientált munkakörnyezet (Elektronikusan állítható magasságú asztalok, 3 képernyős munkaállomások, Magánegészségügyi biztosítás stb.)
+Barátságos légkör
+Mentor program és további nyelvi, illetve soft-skill fejlesztő tréningek
+Rugalmas munkaidő
+Nemzetközi munkakörnyezet és tapasztalatszerzés (Németország és Ausztria).
+hibrid hajtáslánc funkciófejlesztő mérnök 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 29.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Funkciófejlesztő 
+ Budapest  
+ Function developer - transmission 
+ Budapest  
+ Applikációs funkciófejlesztő mérnök (MATLAB/Simulink) (Veszprém) 
+ Veszprém  
+ Beágyazott Szoftverfejlesztő Mérnök 
+ Budapest  
+ Junior/Medior/Senior/Lead Szoftver tesztautomatizáló mérnök 
+ Budapest  

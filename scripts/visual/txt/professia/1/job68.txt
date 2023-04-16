@@ -1,0 +1,135 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Application Developer (Robotics&Artificial intelligence) (REF507X) 
+Open Positions
+Company
+Education Programs
+Benefits
+Senior Application Developer (Robotics&Artificial intelligence) (REF507X)Deutsche Telekom IT Solutions Slovakia
+                                Place of work
+                            040 01 Košice
+                                Contract type
+                            full-time
+Information about the position Job description, responsibilities and dutiesPurpose
+Develops new and maintain existing source code of  applications in programming language like Java, ASP.Net or C#  based on requirements of  internal or external customers. These applications support usually automation of business processes. Works independently or in project team on developing  and building  midsize and complex application for customer usage. Handles all phases of  software development  lifecycle by himself, especially for midsize applications, provides professional support in the field of deep system analysis, technical documentation, building related infrastructure for developed application by prototyping, research. Performs role of lead development architect, substitutes the role of  project manager in case of small or midsize software projects, serves as professional mentor
+Key accountabilities
+Senior Software Engineer Agile in the area of AI and ML with the respective Skill set: Interfaces to Backends / Middleware Know How / API / REST / AI / ML
+Your tasks
+    • Setting up ML Ops pipelines and operation of those
+    • You are responsible for different CI/CD pipelines -  private and public cloud providers (e.g. AWS, Azure)
+    • Continuous Deployment (automation, and SW quality aspects)
+    • Gitlab Pipelines
+    • Listen to user requests, consult with internal /external customers, project managers, assist in gathering requirements for preparation of application detailed feature specification as necessary basis of quality and functional application
+    • Analyze of customer’s requirements and propose overall application / framework design of midsize application architecture (incl. interfaces, relation database structure), provide complex business analysis in order to build application functionality easy for maintenance and future extension according to customer needs as business intelligent solution that implements business processes in automated form
+    • Provides project estimates, timeline like total number of development hours, total number of testing hours and bug fixing and report it to customer for budget planning in advance
+    • Implements customer’s requirements based on specification in selected object oriented programming language (JAVA, ASP.Net, C#) into functional and user friendly application to meet customer’s needs
+    • Provides testing of programmed functionality before deployment in order to avoid bugs and ensure quality of code
+    • Implements security concept according to PSA policy in developed application to ensure accordance with DTAG standards Wage (gross)3 100 EUR/monthFinal salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 3100 € /brutto.  Employee perks, benefits
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work – life balance
+Other benefits *
+        For more information about our benefits click to Benefits
+Benefits with * are applicable also to part-time positions.This information may be subject to changes and other internal rules. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)Personality requirements and skillsQualifications
+Education
+    • Information technologies – Bachelor's degree
+Experience
+    • ICT System - 5 years
+IT Technical Skills
+    • Programming - Advanced
+    • HW/SW Overview - Advanced
+    • General IT Overview - Advanced
+Soft skills
+    • Communication
+    • Analytical thinking
+    • Team Cooperation
+Languages
+    • English - Upper intermediate (B2)
+    • German – Advantage - Intermediate (B1)
+Other criteria or requirements
+    • Container architectures (K8S Docker)
+    • Ingress Control
+    • Templating of k8s manifests
+    • Experience in programming ideally python
+    • Exposure to public cloud providers ideally AWS 
+    • Basic Knowledge of front-end technologies such as JavaScript, HTML5, and CSS3
+    • Experience in data visualization tools 
+    • Query languages like SAS, SQL, and Hiv
+    • Knowledge of Big Data technology especially Hadoop
+    • Experience with testing and debugging
+    •  Experience in developing RESTful API
+    • CI Tools ( Gitlab/CI, Jenkins)-Scripting: Ansible, bash, python
+    • ELK Stack
+    • Docker Security
+    • Linux experience   Advertiser Brief description of the companyOur brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services. Number of employees1000 and more employees ContactContact person: Cecilia KotercovaE-mail: send CV
+Apply Online
+                        Deutsche Telekom IT Solutions Slovakia
+                        Žriedlová 13, 040 01 Košice
+www.deutschetelekomitsolutions.sk
+055/7853566
+ID: 4524336 
+     Dátum zverejnenia:  21.3.2023 
+    2023-03-21
+lokalita: Košice   Pozícia: Frontend developer   Spoločnosť: Deutsche Telekom IT Solutions Slovakia   
+Základná zložka mzdy (brutto): 3 100 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

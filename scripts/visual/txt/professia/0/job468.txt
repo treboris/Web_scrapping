@@ -1,0 +1,40 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava/Kotlin/Android vývojár (4300 - 6700€) 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyJava/Kotlin/Android vývojár (4300 - 6700€)ARIVA GROUP s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+4 300 - 6 700 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme pokročilého Java/Kotlin/Android vývojára pre telco spoločnosť na dlhodobú spoluprácu.
+FIRMA:
+- vývoj mobilných aplikácií pre známeho Telco operátora
+- ide o greenfield vývoj nových aplikácií aj nové moduly už existujúcich aplikácií (používa sa Monorepo)
+- tech stack: Java/Kotlin/Android
+- reaktívne programovanie, Kotlin coroutines, Kotlin Flow, Jetpack Composé, Firebase
+- technológiám sa medze nekladú, vždy je snaha utilizovat nové technológie
+- prostredie bez zbytočnej byrokracie 
+POŽIADAVKY:
+- 3+ roky skúseností s vývojom pre Android zariadenia
+- skúsenosť s agilným vývojom
+- pokročilé skúsenosti s JS, príp. Swift výhodou
+- skúsenosti s automatizovaným testovaním 
+- komunikatívna angličtina aspoň na slabšej úrovni
+MIESTO: 80% Remote, 20% on-site v Bratislave
+ALOKÁCIA: full-time
+FORMA: živnosť/s.r.o.
+TRVANIE: dlhodobo, stabilné miesto na viac rokov
+NÁSTUP: dohodou, ideálne 1.3.2023, dá sa aj neskôr
+ODMENA: 4300 - 6700€ mesačne na kontrakt Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformačné technológieJazykové znalostiAnglický jazyk - Pokročilý (C1)Ostatné znalostiJava - ExpertKotlin - ExpertAndroid - ExpertPrax na pozícii/v oblastiAndroid developerPočet rokov praxe3 Inzerujúca spoločnosť Stručná charakteristika spoločnostiARIVA GROUP s.r.o. je moderná spoločnosť so zameraním na ľudské zdroje pre IT projekty. Naše služby úspešne dodávame renomovaným spoločnostiam v Bratislave, Viedni či Prahe. Rastieme zdravo organicky a to vďaka dlhodobým korektným obchodným vzťahom s našimi partnermi. Počet zamestnancov10-19 zamestnancov 
+ID: 4516449 
+     Dátum zverejnenia:  8.2.2023 
+    2023-02-08
+lokalita: Bratislava   Pozícia: Android programátor   Spoločnosť: ARIVA GROUP s.r.o.   
+Základná zložka mzdy (brutto): 4 300 EUR/mesiac
+                Všetky ponuky

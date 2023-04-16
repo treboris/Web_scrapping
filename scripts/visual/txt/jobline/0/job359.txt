@@ -1,0 +1,56 @@
+ Belépés ›
+FullStack Fejlesztő (Budapest)
+FullStack Fejlesztő (Budapest)
+Jelentkezem az állásra ›
+Karrier Hungária
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+FullStack Fejlesztő
+Ha érdekelnek a nagy rendelkezésre állású, komplex architektúrájú rendszerek és szívesen dolgoznál egy innovatív szellemiségű, agilis csapatnak, akkor görgess lejjebb, lehet hogy van egy lehetőségünk a számodra.
+Feladatok:
+Üzleti igények, user story-k elemzése fejlesztői és technológiai szempontból
+Jól strukturált implementáció készítése (clean code, SOLID elvek...)
+Alkalmazások, backend és frontend komponensek fejlesztése 
+Elkészített programok fejlesztői tesztelése
+A program működése során felmerült hibák okának feltárása és javítása
+Fejlesztési dokumentációk készítése, karbantartása (OpenApi, AsciiDoc)
+Release folyamatok támogatása
+A folyamatos egyéni és kollektív fejlődés támogatása, elősegítése
+Elvárások:
+Összesen legalább 3 év tapasztalat (Java és Angular) 
+Java messaging, persistence és dependency injection ismerete
+TypeScript, modern JavaScript (ES6+) alapos ismerete
+Valamelyik CSS preprocessor ismerete (preferált: SASS/SCSS)
+Alapszintű adatbázis felhasználói ismeretek (SQL, NoSQL)
+Git verziókövető ismerete
+Alapszintű UNIX/Linux környezet ismerete
+REST elveinek ismerete
+Alkalmazásszerver ismeret (pl.: WildFly).
+Maven ismerete
+JUnit vagy TestNG ismerete
+CI/CD eszközök használatában alapszintű ismeret
+Docker alapszintű ismerete
+Szakmai angol nyelvismeret középfokon (szaknyelvi szövegek olvasása, írása)
+Ajánlatunk:
+Üzletileg kritikus, magas rendelkezésre állású IT rendszerek fejlesztésében részvétel
+Open Source projektekben való részvételi lehetőség 
+Külső és belső szakmai képzéseken, konferenciákon való részvétel
+Dinamikus, szakmailag tapasztalt, széles látókörű kollégák
+Rugalmas, családbarát munkakörnyezet és munkarend
+Előnyök:
+Microprofile IO, Redis, MongoDB, etcd, MinIO ismeret.
+Egyéb frontend keretrendszer(ek) ismerete (pl. VueJS)
+Fejlesztői end-to-end tesztelési tapasztalat (preferált: Cypress)
+NGXS, NGRX vagy más state management library ismerete
+GraphQL ismerete
+Atlassian termék (Confluence, Jira) ismeretek
+Munkavégzés helye:
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások

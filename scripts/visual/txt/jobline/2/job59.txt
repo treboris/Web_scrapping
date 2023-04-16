@@ -1,0 +1,425 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+hirdetés
+Keresési feltételek
+Budapest
+Debrecen
+Pécs
+IT manager
+Állások száma: 
+25
+Minden keresési feltétel törlése
+Szakterület
+Adminisztráció, asszisztencia
+83
+Bank, biztosítás
+41
+Egészségügy, gyógyszeripar
+25
+Építőipar, épületüzemeltetés
+86
+Értékesítés, kereskedelem
+185
+Gyártás, műszaki terület
+249
+Humán erőforrások, munkaügy
+93
+IT, telekommunikáció
+584
+Jog, közigazgatás, társadalom, politika
+6
+Karbantartás, szerviz
+72
+Kutatás, fejlesztés
+2
+Logisztika, beszerzés
+130
+Marketing, PR, média
+73
+Menedzsment, felsővezetés
+8
+Mezőgazdaság, környezetvédelem
+6
+Minőségbiztosítás
+46
+Oktatás, képzés
+3
+Pénzügy, számvitel
+277
+SSC (Shared Service Center)
+108
+Szakmunka, fizikai munka
+218
+Újságírás, szerkesztőség
+6
+Ügyfélszolgálat, call center
+57
+Vendéglátóipar, idegenforgalom
+8
+IT, telekommunikáció
+szoftverfejlesztő
+135
+IT helpdesk
+47
+Java developer
+40
+szoftvermérnök
+40
+rendszermérnök
+35
+IT security specialist
+29
+system administrator
+27
+IT manager
+25
+development team lead
+23
+business analyst (IT)
+22
+software test engineer
+22
+gyakornok (IT / telekommunikáció)
+20
+projektmenedzser (IT / telekommunikáció)
+17
+SAP consultant
+17
+tesztmérnök (IT/Telekommunikáció)
+17
+database administrator
+14
+SAP szakértő
+14
+web developer
+13
+C# developer
+12
+C++ developer
+11
+.NET developer
+8
+hardware developer
+8
+mobile developer
+8
+reporting specialist
+7
+Scrum Master
+6
+telekommunikációs szakember
+6
+C developer
+5
+project manager
+5
+business intelligence ( BI ) specialist
+4
+Python developer
+4
+SAP developer
+4
+embedded developer
+3
+ERP / CRM specialist
+3
+IT sales manager
+2
+java backend developer
+2
+PL / SQL fejlesztő
+2
+user experience designer
+2
+user interface developer
+2
+Access Support Specialist
+1
+gazdasági informatikus
+1
+gyártásinformatikus
+1
+rendszerelemző
+1
+technical writer
+1
+Hely
+Budapest
+20
+Baranya megye
+11
+Csongrád megye
+10
+Hajdú-Bihar megye
+15
+Szabolcs-Szatmár-Bereg megye
+1
+Hajdú-Bihar megye
+Debrecen
+14
+Baranya megye
+Pécs
+11
+Nyelvismeret
+angol
+23
+német
+9
+Munkatapasztalat
+1 - 2 év tapasztalat
+14
+3 - 5 év tapasztalat
+8
+5+ év tapasztalat
+4
+Végzettség
+Középfokú végzettség
+12
+Felsőfokú végzettség
+16
+Munka jellege
+teljes munkaidő
+25
+távmunka, home office
+2
+Hirdető
+közvetlen munkaadó
+14
+közvetítő cég
+11
+Bérsáv
+ - 
+Ft
+EUR
+GBP
+USD
+ A maximum nem lehet kisebb a minimum értéknél!
+Fizetés típusa
+bruttó
+nettó
+Fizetés gyakorisága
+óra
+hónap
+ALKALMAZ ›
+hirdetés
+?
+Állásposta
+Hibás e-mail cím!
+Feliratkozás ›
+Sikeres regisztráció!
+Kérjük, aktiváld a felhasználói fiókodat: A megadott e-mail címre elküldtük a megerősítő linket.
+Ezt követően feltöltheted az önéletrajzodat és beállíthatod, hogy milyen állásokról szeretnél értesítést kapni.
+Sikeres álláskeresést kívánunk!
+Sikeres regisztráció!
+Köszönjük, hogy regisztráltál! Még aktiválnod kell a kiküldött e-mail-ben szereplő linkre kattintva! 
+A nyereménysorsolásban csak aktivált fiókkal veszel részt. (Ha a beérkező levelek között nem találod, nézd meg a „Levélszemét” mappát is.)
+Sikeres álláskeresést kívánunk!
+Sikeres aktiválás!
+Köszönjük, hogy aktiváltad Jobline fiókodat és Álláspostádat! Részt veszel a nyereménysorsolásban.
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Új Állásposta beállítva!
+Köszönjük, hogy új Álláspostát állítottál be, ezzel részt veszel a nyereménysorsoláson. A nyerteseket e-mailben értesítjük. 
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Új Állásposta beállítva!
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Budapest - Debrecen - Pécs - IT manager állások, állásajánlatok
+?
+Állásposta
+Hibás e-mail cím!
+Feliratkozás ›
+25 állás
+Deutsche Telekom IT Solutions
+Service Chain Operations Manager (REF1566A) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+német - felsőfokú
+angol - középfokú
+Deutsche Telekom IT Solutions
+Process and Service Management (REF1237Q) (Budapest)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Deutsche Telekom IT Solutions
+Product Owner Telco / Identification and Access management (REF1614C) (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+hirdetés
+Deutsche Telekom IT Solutions
+Technical Process Manager (REF1591N) (Debrecen)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+német - középfokú
+angol - középfokú
+Deutsche Telekom IT Solutions
+Quality & Process Coordinator - REF1585O (Debrecen)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Deutsche Telekom IT Solutions
+Service manager (REF1601R) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+német - felsőfokú
+Deutsche Telekom IT Solutions
+Test Automation Engineer - English speaking (REF1532Z) (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Deutsche Telekom IT Solutions
+Line Security Manager (REF1562S) (Budapest)
+1 - 2 év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+English and German speaking Linux System Administrator (REF1491J) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Deutsche Telekom IT Solutions
+Technical Process Manager (REF1416J) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Deutsche Telekom IT Solutions
+Process & Quality Manager ARGO - REF1616R (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+német - felsőfokú
+Deutsche Telekom IT Solutions
+Customer Success Manager (REF1205O) (Budapest)
+5+ év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Deutsche Telekom IT Solutions
+Release Manager (REF1582W) (Budapest)
+5+ év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+német - felsőfokú
+angol - középfokú
+Deutsche Telekom IT Solutions
+Experienced Migration Specialist (REF1592A) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+EasyHiring Services Kft.
+Knowledge content and EDM Lead (Budapest)
+3 - 5 év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+EasyHiring Services Kft.
+Senior IT Recruiter (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+EasyHiring Services Kft.
+Server and Network Management team leader (Budapest)
+5+ év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Randstad Hungary Kft
+License Management Analyst (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+EasyHiring Services Kft.
+Head of Digital Innovation (Magyarország)
+1 - 2 év tapasztalat
+beosztott
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+EasyHiring Services Kft.
+Operations Manager (Hajdú-Bihar megye)
+5+ év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+25 állás
+1
+2
+Tűnj ki a tömegből letölthető önéletrajz mintáinkkal
+Ne csak a tartalom legyen kiemelkedő
+Önéletrajzminta letöltése ›
+Önéletrajzminta letöltése ›
+Önéletrajzminta letöltése ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Pécs
+Szeged
+Győr
+Kecskemét
+Székesfehérvár
+Miskolc
+Tatabánya
+Ezekkel a beállításokkal már vettél fel Álláspostát.
+Biztos, hogy el akarod menteni?
+Mégsem
+Mentés ›
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

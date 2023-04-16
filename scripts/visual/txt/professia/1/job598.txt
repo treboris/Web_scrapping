@@ -1,0 +1,97 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceMedior/Senior BE developer (poď s nami bojovať za slobodu slova!) 
+Medior/Senior BE developer (poď s nami bojovať za slobodu slova!)FAT CHILLI, s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+2 500 - 3 500 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiBudeš pracovať na vývoji webových aplikácií so zameraním na “digital publishing” sektor, monetizáciu obsahu prostredníctvom programatickej reklamy, platených služieb, darov (donations) a predplatného. Budeš participovať na open-source projekte REMP2030.com. Prioritne budeš zodpovedný za backendový kód, ale nemal by byť pre teba problém robiť zásah aj do frontend technológií. 
+Celý SW lifecycle sa snažíme pokryť v Gitlabe, robíme code reviews, zdokonaľujeme CI/CD procesy a vyžadujeme náležité dodržiavanie git štandardov. Zamestnanecké výhody, benefityČo ti ponúkame:
+- prácu na zmysluplných projektoch pre slovenské a svetové nezávislé médiá
+- kontakt s najnovšími technológiami a trendmi vo web developmente, pričom budeš mať značnú mieru slobody vo výbere technológií
+- možnosť realizácie vlastných nápadov
+- príjemný, veselý, ale aj chápavý kolektív
+- kancelárie v Starom meste so záhradou, ale aj možnosť remote práce
+- prácu na živnosť/sro, časovú flexibilitu
+- pravidelnú zábavu s kolegami (spoločné raňajky, grilovačky, posedenie pri dobrom jedle a pivku)
+- špičkový HW, multisport, taxány, káva, ovocie, čokoľvek čo dáva zmysel ako benefit tebe Informácie o výberovom konaníChceš s nami pracovať? Pošli nám svoje CV na adresu [email protected] (stačí v SK) a pochváľ sa svojimi projektmi. Tešíme sa na stretnutie. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitouJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiPHP - ExpertJavaScript - PokročilýHTML - ExpertMySQL - PokročilýDocker - PokročilýGIT - PokročilýLaravel (PHP framework) - PokročilýSymfony (PHP framework) - PokročilýPočet rokov praxe3Osobnostné predpoklady a zručnostiŠikovnosť a schopnosť navrhovať inovatívne riešenia s využitím najnovších technológií a nástrojov sú tvoje silné stránky. Máš zmysel pre zodpovednosť, vieš rozmýšlať logicky, kriticky a proaktívne hľadáš riešenia. Si parťák/parťáčka, ale vieš pracovať samostatne. Baví ťa skúmať a máš záujem učiť sa nové veci.
+Výhodou je, ak máš skúsenosti s:
+• Elasticsearch
+• Redis
+• WP / Joomla / inými CMS
+• Scss / Less / Webpack
+• React / Vue / .. Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme FatChilli for Publishers, one-stop shop pre vydavateľov obsahu. 
+Základnou hodnotou je pre nás sloboda slova, a práve preto technologicky podporujeme nezávislé médiá po celom svete. Rozumieme digitálnym technológiám, máme ich priam v DNA a publisherom pomáhame s implementáciou top-notch tech stacku. Spolupracujeme na vývoji a implementácií open-source platformy na správu predplatného, vyvíjame custom dátové riešenia, tvoríme online projekty s využitím PWA. Sme tiež jedným z mála certifikovaných Google partnerov pre publisherov.
+Našimi zákazníkmi sú nezávislé vydavateľstvá na Slovensku aj vo svete, investigatívne NGOs a medzinárodné organizácie podporujúce rozvoj médií. Robíme na projektoch, ktoré majú reálny dopad na spoločnosť a ktorým veríme. 
+A pri tom všetkom sme cool partička, máme radi fotbálek, pivo, smiech, priateľstvo a slobodu! 
+Viac o našom firemnom živote nájdeš tu: https://www.linkedin.com/company/fatchilli-media/ Počet zamestnancov20-24 zamestnancov KontaktKontaktná osoba: Mgr.  Tomáš KlárTel.: +421905494136E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4530934 
+     Dátum zverejnenia:  2.3.2023 
+    2023-03-02
+lokalita: Práca z domu   Pozícia: Backend programátor, Javascript programátor, PHP programátor, Programátor, Python programátor   Spoločnosť: FAT CHILLI, s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

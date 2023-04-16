@@ -1,0 +1,63 @@
+Jobs by email
+ALLES.AUTO AG
+PHP Lead Developer (E-Commerce) (m/w/d)
+München
+Permanent contract
+Full Time, Home office possible
+Published: 2 weeks ago
+Show salary
+Save
+ALLES.AUTO is the new digital platform around the topics of car buying and car ownership.
+We are the digital car dealership of the future with our own software-as-a-service solution developed by the trade for the trade. As a cross-brand e-commerce marketplace, we map all the offers of the stationary car trade online: New and used vehicles, workshop services, accessories as well as all relevant services in the area of payment, leasing, financing and advice.
+ALLES.AUTO was launched under the leadership of AVAG Holding SE (one of the largest automobile trading groups in Europe) and converted into a public limited company in autumn 2022. As a joint venture of several large automobile trading groups and other players in the automotive industry, ALLES.AUTO AG operates independently on the market and continuously strives to expand its shareholder base.
+Our platform www.alles.auto has been live since December 2022!
+Therefore, we are expanding our team and are looking for reinforcement for the following position:
+PHP Lead Developer (E-Commerce) (m/w/d)  
+Sie übernehmen folgende Aufgaben:
+Leading and managing a team of PHP developers: Your primary responsibility is to lead and manage a team of PHP developers. This involves providing technical guidance, monitoring progress, and ensuring that the team is delivering high-quality, maintainable code
+Designing, developing and maintaining scalable web applications: This involves understanding project requirements, designing solutions, and writing clean, well-structured code
+Ensuring code quality and performance: You will also be responsible for ensuring the quality and performance of the code developed by your team. This involves implementing best practices, conducting code reviews, and performing testing and debugging to identify and resolve any issues
+Collaborating with stakeholders: This includes communicating with project managers, business analysts, and other stakeholders to understand project requirements, define project scope, and ensure that deliverables meet expectations  
+Ihr Profil:
+You have a strong affinity for large scale projects and e-commerce
+You have strong proficiency in PHP programming language and related technologies, such as web frameworks (e.g., Laravel, Symfony) and databases (e.g., MySQL, PostgreSQL).
+You have experience with e-commerce frameworks, such as Spryker, Magento or Shopware and are familiar with e-commerce terms and processes
+You have experience in leading and managing a team of developers
+You have experience with project management methodologies and tools, such as Agile or Scrum, to manage projects effectively and efficiently
+You have strong communication skills, both verbal and written, to effectively communicate with team members, stakeholders, and clients
+You have strong problem-solving skills to analyze complex issues and identify effective solutions
+You have experience with version control systems, such as Git, to manage code changes and collaborate effectively with team members
+You have experience with cloud-based services, such as AWS, to design and deploy scalable web applications  
+Wir bieten
+We promote you: Personal and professional development opportunities are guaranteed by our strong and long-term growth. You can expect challenging and interesting tasks in an exciting work environment.
+Your opinion is important to us: work independently and contribute your ideas. Flat hierarchies and short decision processes are self-evident to us.
+We offer you: a permanent contract, a fair salary and 30 days of vacation. As long as it is not necessary due to a project or if you coordinate with your colleagues, we offer flexible working hours.
+Here you can feel comfortable: Not only because you get everything you need, but also because we have an office dog, plants in the office and other classics. You can look forward to a creative working atmosphere and plenty of room for innovation.  
+Weitere Informationen
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+ALLES.AUTO AG
+Von-Kahr-Straße 2-4, 80997 München, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Flexible working hours
+Extra day off
+The benefits listed are applicable to the company and can differ depending on the position or department.

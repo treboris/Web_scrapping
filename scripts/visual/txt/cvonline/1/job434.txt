@@ -1,0 +1,30 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior JAVA Fejlesztő 
+Megbízónk egy magyar tulajdonban lévő, elismert IT tanácsadó és szolgáltató vállalat. Számukra keresünk munkatársakat az alábbi pozícióba.
+Feladatok
+Nagyvállalati JEE alkalmazások tervezése és fejlesztése, hibaelhárítás, technikai problémák meghatározá-sa és megoldása
+Backend oldalon JEE és Spring technológiát használnak a fejlesztők a legtöbb esetben
+Frontend oldalon: GWT, Wicket, Angular
+Weblogic App Srv.
+Önálló fejlesztői feladatok ellátása agilis módszertan szerint működő dinamikus csapatban
+eszközök: Jira, Confluence, BitBucket, Nexus, Sonar, Jenkins
+Junior fejlesztők munkájának koordinálása és támogatása
+Fejlesztői tesztelés és dokumentálás
+UI és UX tervezésben részvétel
+Elvárások
+Legalább 5 év fejlesztői tapasztalat JEE alkalmazások fejlesztésében
+Angol nyelv középszintű ismerete
+Előny
+Agilis módszertanok és eszközök ismerete (pl. Jira, Confluence)
+Nagyvállalati IT megoldások ismerete (alkalmazás-szerverek, adatbázis-kezelők)
+JavaScript keretrendszerek/technológiák ismerete
+Responsive web design módszertan ismerete
+Munkáltató ajánlata
+30 nap szabadság jár mindenkinek a belépéstől kezdődően
+A kollégák fejlődésének támogatása, rendszeres szakmai tréningek és vizsgák
+Képesség- és készségfejlesztő tréningek támogatása
+Korszerű hozzáállás: új technológiák, módszerek megismerése, bevezetése
+Szakmai délutánok, ahol az aktuális projektekről vagy az IT trendekről tartanak szakmai prezentációkat
+Fiatal, dinamikus csapat: két havonta csapatépítők, éves szinten pedig néhány nagyobb
+Transzparens, elérhető vezetők
+Jelentkezem

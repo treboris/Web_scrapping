@@ -1,0 +1,43 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior .NET Developer  Можливість для людей з України
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukySenior .NET DeveloperMillennium, spol. s r. o.
+Miesto práce
+Plynárenská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+2 700 EUR/mesiacVýška základnej mzdy je informatívna a jej finálne nastavenie závisí od praxe a odbornosti kandidáta
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti• Vývoj vysoko kvalitných a zdokumentovaných riešení založených na Microsoft technológiách 
+• Dodržiavanie programovacích štandardov a osvedčených postupov
+• Úzka spolupráca s členmi tímu za využitia agilných techník, s cieľom dodať vysoko kvalitné riešenie pre klienta
+Úspešným kandidátom sa môže stať niekto, kto má...
+• Aspoň 2-3 roky praktických skúseností s vývojom softvéru
+• Skúsenosti s vývojom aplikácií v M365 a Power Platform (Power Apps, Power Automate, Logic Apps, Azure functions)
+• Skúsenosti s ASP.NET a ASP.NET Core, HTML5/JavaScript/TypeScript
+• Visual Studio/VS Code v spojení s Azure DevOps Server (TFS)
+• Znalosť GitFlow 
+• Praktické skúsenosti s Azure Cloud
+• Znalosť princípov Agilného vývoja softvéru, patternov a techník (napr. SOLID, CI/CD, Scrum...) Zamestnanecké výhody, benefity• Pracovná príležitosť v rýchlo sa rozvíjajúcej medzinárodnej spoločnosti s množstvom nových nápadov
+• Príjemné pracovné prostredie podporujúce technologické inovácie
+• Mladý, priateľský a dynamický kolektív
+• Flexibilný pracovný čas Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Pozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnosti• Ochota učiť sa nové technológie
+Analytické a technické myslenie, rozhľad v oblasti IT technológií
+• Aspoň 2- 3 roky praktických skúseností s vývojom softvéru
+• Schopnosť riešenia problémov a samostatnosť Inzerujúca spoločnosť Stručná charakteristika spoločnostiMillennium, spol. s r. o. je slovenská IT spoločnosť s takmer 20 ročnými skúsenosťami na trhu. Venujeme sa vývoju webových a portálových riešení, aplikáciám pre podnikovú mobilitu, ponúkame business inteligence systémy a CRM riešenia - všetko na cloude.
+Pracujeme pre finančné a bankové inštitúcie, IT a telekomunikačné spoločnosti a štátnu správu. 
+Millennium je oficiálnym parterom spoločnosti Microsoft so šiestimi kompetenciami. Počas pôsobenia na trhu sme získali 17x ocenenie Microsoft Industry Award Winner, 3x ocenenie Microsoft Industry Award Finalist a 4x Deloitte Technology Fast 500.
+V roku 2014 sme boli spoločnosťou Microsoft vyhlásený za Microsoft Country Partner of the Year.
+Okrem slovenského trhu pôsobíme aj v Českej republike.
+Sme spoločnosť, ktorá rástla vďaka nadaným ľuďom a vďaka šanci, ktorú dostala od svojich zákazníkov. Počas celej našej existencie sme mali šťastie na mimoriadne talentovaných kolegov, ktorí svojou invenciou a tvrdou prácou stáli za naším úspechom. Počet zamestnancov25-49 zamestnancov 
+ID: 3936669 
+     Dátum zverejnenia:  11.2.2023 
+    2023-02-11
+lokalita: Bratislava   Pozícia: .NET programátor, Backend programátor, C# programátor   Spoločnosť: Millennium, spol. s r. o.   
+Základná zložka mzdy (brutto): 2 700 EUR/mesiac
+                Všetky ponuky

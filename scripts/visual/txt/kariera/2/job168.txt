@@ -1,0 +1,64 @@
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+DomovVytvor si CVPonuky mailomPrihlásiť
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+Späť na pracovné ponuky
+Odborný/á referent/ka - GIS analytik/čka
+			Mestská časť Bratislava - Petržalka			
+ Miesto práce: 
+Bratislava
+Ponúkaný plat (základná mzda):
+1200 EUR
+Zobraziť viac
+ Druh pracovného pomeru: 
+ plný úväzok 
+Informácie o pracovnom mieste
+ 2165004 - Geodet a kartograf (okrem autorizovaného)2511001 - IT konzultantPracovná oblasť: StavebníctvoPočet voľných miest: 1Náplň práce: s vašou vysnívanou prácou so super kolegami v Petržalke budete spokojný/á, ak na čo najviac z otázok nižšie odpoviete ÁNO- Nerobí Vám problém čítať mapy a orientovať sa v nich?- Stretli ste sa už so získavaním,analýzou a vizualizáciou údajov s priestorovou informáciou? - Radi by ste zakresľovali nové užitočné informácie pre občanov a prispeli tak ku kultúrnejšiemu a teda aj krajšiemu životu v Petržalke?činnosti, ktorými vás budeme u nás v Petržalke zamestnávať- zabezpečovanie tvorby geografického informačného systému (GIS) mestskej časti- vytváranie a spravovanie geografických databáz pre spracovanie dokumentácie v petržalskom katastri- vykonávanie a koordinovanie zberu priestorových dát o objektoch v rozsahu územia Petržalky- spolupráca s organizačnými útvarmi miestneho úradu na aktualizácii GIS a v zmluvných veciach- publikovanie mapových služieb a pripravovanie webových máp a aplikácií v prostredí ArcGIS Online- pripravovanie podkladov pre odpovede na žiadosti o sprístupnenie informácií- komunikácia s poskytovateľom služby webGIS a s inými orgánmi verejnej a štátnej správyváš bežný pracovný deň u nás v Petržalke si môžete predstaviť aj taktoVašou náplňou práce bude rozšírenie informovanosti a zjednodušenie života Petržalčanov. Súčasne budete svojou prácou prispievať zefektívneniu práce zamestnancov. Budete sa podieľať na vývoji geografického informačného systému pre obyvateľov Petržalky a pre vnútorné potreby mestskej časti. Pracovať budete na spracovaní databáz majetku mestskej časti, skládok či miestnych komunikácií. Nevyhnete sa vytváraniu aplikácií pre potreby úradu ale aj občanov, ktoré budú pomáhať pri zlepšovaní verejných priestorov Petržalky. Pravidelne tiež budete komunikovať s kolegami z rôznych úsekov miestneho úradu. 
+ Informácie pre uchádzača: 
+	Pracovný a mimopracovný pomer: Pracovný pomer na určitú dobuPočet mesiacov: 12Nočná práca: NieSezónna práca: NieZákladná zložka mzdy v eurách (v hrubom):  1 200  € mesačne Druh voľnej pracovnej pozície: Voľné pracovné miesto vo verejnom záujmePonúkané výhody: Váš plat je dohadovaný vždy individuálne na základe kvalifikácie a skúseností, no priemerný plat na pozícii vrátane kvartálnych odmien sa môže pohybovať až okolo sumy 1400 EUR- 5 dní dovolenky navyše- mobilný telefón s neobmedzenými volaniami- služobný notebook- príspevok do 3. piliera dôchodkového sporenia (po 1. odpracovanom roku)- možnosť využívania MultiSport karty- práca v stabilnom prostredí verejnej správy- potrebné školenia a kurzy- samozrejme príspevok na stravovanie a ďalšie benefity vyplývajúce z práce vo verejnej správe či kolektívnej zmluvy Zdroj: Pracovná ponuka je prevzatá zo stránky Úradov práce. 
+ Všeobecne požadované znalosti: 
+ Požadovaný stupeň vzdelania:  Vysokoškolské vzdelanie prvého stupňa  Vysokoškolské vzdelanie druhého stupňa Znalosť slovenského jazyka je nevyhnutná:  Áno Ďalšie požiadavkyNáš nový kolega alebo kolegyňa by mal/a mať ukončené vzdelanie v odbore geoinformatika, geodézia, kartografia, geografia, prípadne územné plánovanie alebo urbanizmus. Znalosti bez ktorých sa v Petržalke nezaobíde sú práca s ArcGIS, QGIS, SQL. Rovnako požadujeme základné znalosti a skúsenosti v oblasti mapových služieb, skúsenosti s používaním platformy ArcGIS Online/ArcGIS Enterprise. Oceníme základné ovládanie jazyka Python, znalosť stavebného zákona a Územného plánu hlavného mesta SR Bratislavy. V neposlednom rade dodáme, že samostatnosť, spoľahlivosť, precíznosť, flexibilita či kreativita nie sú u nás iba frázami.
+k vašej novej práci pre Petržalku budete určite potrebovať
+- vysokoškolské vzdelanie I. alebo II. stupňa ideálne v jednom z týchto odborov: geoinformatika, geodézia, kartografia, geografia, územné plánovanie, urbanizmus
+- ArcGIS, QGIS (pokročilý/á)
+- SQL- základy práce v priestorových databázach (napríklad PostgreSQL + PostGIS)
+- základné znalosti a skúsenosti v oblasti mapových služieb (služby - ArcGIS REST – Feature Service, Tile Service; podľa štandardov OGC - WMS, WFS)
+- skúsenosti s používaním platformy ArcGIS Online/ArcGIS Enterprise
+- znalosť práca s balíkom Microsoft Office Excel, Word, internet
+- základné ovládanie jazyka Python a práce v prostredí ModelBuilder je výhodou
+- orientácia v príslušnej právnej legislatíve a to najmä v zákone 50/1976 Zb. – Zákon o územnom plánovaní a stavebnom poriadku a v znení neskorších predpisov je výhodou 
+- výhodou je aj znalosť Územného plánu hlavného mesta SR Bratislavy 4/2007 
+Požiadavky na zamestnanca
+ Vhodné pre absolventov: 
+						Nie
+Informácie o spoločnosti
+ Kontaktné údaje: 
+ Mestská časť Bratislava - Petržalka 
+Reaguj na ponukuZdieľajDaj vedieť firme, že sa ti ponuka páči
+ Pozícia / odvetvie: 
+Reality a stavebníctvo / IT konzultant / Konzultant / Referent
+ Dátum zverejnenia: 03.03.2023		
+Iné možnosti práceReality a stavebníctvo BratislavaIT konzultant BratislavaKonzultant BratislavaReferent BratislavaBratislava plný úväzok
+Podobné pracovné ponuky
+Projektový manažér n. o. RMHC
+McDonald's
+Test leader | výkonostné a záťažové testy (Ref. č.: 131-16-42109)
+Grafton Slovakia s.r.o.
+Asistent audítora- AJ PRE ABSOLVENTOV (Ref. č.: 1-7-41831)
+Grafton Slovakia s.r.o.
+Java Developer (banking sector) (Ref. č.: 1-16-39481)
+Grafton Slovakia s.r.o.
+Špecialista (stavebný inžinier)
+VODOHOSPODÁRSKA VÝSTAVBA, ŠTÁTNY PODNIK
+Kariéra Magazín
+Kariéra EXPO
+Kariéra Podcast
+Kariéra Raňajky
+Sleduj nás
+O násCenník služiebZoznam pozíciíObchodné podmienkyPodmienky spracovania osobných údajovKalkulačka mzdyKariérne poradenstvoTlačové správyNapíšte nám Cookies
+Nastavenie súkromia
+skenua 
+			© 2023 Zoznam, s.r.o. Všetky práva vyhradené.

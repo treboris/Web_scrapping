@@ -1,0 +1,74 @@
+Jobs by email
+Bosch Gruppe
+SoC and ASIC Design Process Automation Engineer (f/m/div.)
+Dresden
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Robert Bosch GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Dresden
+Your tasks
+As SoC and ASIC Engineer you will support the design team for daily issues related to the development flow of mixed-signal IC.
+Furthermore, you will work closely with the developers of mixed-signal SoCs (System on Chip) and support them with transfer and integration of analog IPs/macros into the digital on top environment.
+In addition, you will be responsible for gathering application specific requirements to the design environment and providing rapid solutions.
+You support research and development (R&D) in topics and methodology of the project setup as well as in the setup of the simulation environment.
+In addition, you act as an interface to R&D, EDA (electronic design automation) vendors and SoC design team.
+Last but not least, you will be responsible for supporting release management with different version control systems.
+Your profile
+Education: completed university studies (Master/Diploma/PhD) in electrical engineering, computer science or a comparable subject
+Personality and Working Practice: enthusiastic, goal-oriented, structured, strong communicator, cooperative
+Experience and Knowledge: strong programming skills in Python and Skill; Experience in design and verification languages (SystemVerilog, VHDL, Verilog-AMS); knowledge Linux (OS know how, shell scripting); understanding the mixed-signal tool chain; deep understanding of version control systems and data management
+Languages: business fluent in written and spoken German and English
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Robert-Bosch-Ring 1, 01109 Dresden, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,84 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSolution Architect 
+Voľné pracovné pozície
+Profil firmy
+Prečo Scheidt & Bachmann 
+Kde nás nájdete
+Solution Architect
+Place of work: Košice, Slovakia (Job with occasional home office)
+Salary: From 3 600 EUR/month
+Junior from 2 800 €; Medior from 3 200 €; Senior from 3 600 €; + variable bonus. Final salary depends on candidate´s professional experience.
+Company profile
+                    Scheidt & Bachmann, Mönchengladbach was founded in 1872 and today presents itself as an innovative company with a long tradition. In a total of four largely separate divisions, systems for parking and leisure centres, systems for railway signalling technology, fare collection systems, and systems for petrol stations are developed, produced and distributed. Scheidt & Bachmann Slovakia s.r.o. was established in 1995 at the initiative of Scheidt & Bachmann.  A successful cooperation with the University of Žilina also made a significant contribution to the establishment.
+Fare Collection Systems
+offers a wide range of products of various technical equipment according to customer requirements. This area covers modern, comprehensive fare collection systems in urban, suburban, and metropolitan transportation with ticket printing and coding machines.
+We offer Perspective work in a stable company with adequate financial assessment and opportunities for personal development (soft skills and technical training, language courses). Attractive financial team bonus paid once a year based on team performance. Referral financial bonus paid for referring someone to our open job position. Rich social program for employees (several social events and team buildings, sport and culture possibilities). Free snacks for the whole day (free coffee/tea drinks, vending machines with various delicacies). Flexible working time, additional vacation, "bridgedays". Possibility of Homeoffice. Work in international and multicultural teams (divisions in 23 countries). Possibility of international business trips or staying abroad for certain period of time.
+Your responsibilitiesInformation about the positionTo the newly establishing branch in Kosice we are looking for an experienced Solution Architect to join our successful team.Scheidt & Bachmann FCS is a leading supplier of Fare Collection Systems worldwide with focus to European and North America Market. Our deliveries are based on wide product portfolio and strong ability to customize the solution to fulfill customer demands. Our innovative Account Based Ticketing makes usage of public transportation easy and comfortable for every traveller. In your new role you will be shaping the future of mobility as a member of international team of architects who design comprehensive E2E SW solutions for our customers covering back office, web portals, mobile apps, selling and validating devices based on our generic product solution.Job description, responsibilities and duties Understand and clarify customer needs & requirements (functional and non-functional). Understand eco-system where the solution should fit. Define end-to-end scenarios. Design architecture of the technical solution solving the customers’ needs and fulfilling the requirements. Ensure completeness, consistency and unambiguity of the designed solution under consideration of the best business value. Negotiate proposed solution with the customer and internal/external suppliers. Support for bid manager, assist the creation of technical proposals. Write or review comprehensive functional and non-functional specifications, which cover SW architecture design, business logic, use cases, data models, APIs, UI design, … Tight collaboration with IT, HW and System Architects.Example of product description: Account-based Ticketing:https://www.scheidt-bachmann.de/en/fare-collection-systems/account-based-ticketing/
+Your profile Successfully completed bachelor’s or master’s degree education in IT, Computer Science, Computer Engineering or a closely related field. Communication skills: written and spoken in English. German language is an advantage.We are happy to welcome you in our team and support you in further education and growth if you fullfill following essential criteria: Experience with scalable systems Experience with SW design Experience with software and solution architecture Familiar with requirement engineeringYou are the Ideal candidate for this role if you posses following personal qualities: Experience with design of complex large scale solutions. Positive attitude with the ability to embrace change. Analytical and communication skills, creativity, critical thinking. Strong team spirit and ‘can-do’ attitude. Ability to make substantial decisions without supervision. Self-motivated, responsible and self-directed. A natural problem solver who can think outside the box. Quick learner and researcher who can adapt to a fast-paced, ever-changing environment.You and us are the best match if following technologies (or at least a part of it) are your playground: SW Design: UML, C4 model. CI/CD: Docker, Kubernetes, Helm charts, Linux, Java Microprofile/Spring boot, REST API, DB, Python robot framework , helm charts, shell scripts. JAVA Development: Java 8 and higher, Java EE, Kumuluzee, Springboot overview, Microprofile at least version 3.3, InteliJ Ultimate Edition. C/C++/Qt Development: Visual Studio, Qt Creator, QML. Further Tools: Maven, Gitlab, Postman, Kafka.
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4518263 
+     Dátum zverejnenia:  13.3.2023 
+    2023-03-13
+lokalita: Košice   Pozícia: IT Architect, IT Manager, Java Programmer, Programmer   Spoločnosť: Scheidt & Bachmann Slovensko s.r.o.   
+Základná zložka mzdy (brutto): 3 600 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,41 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior .NET Developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukySenior .NET DeveloperLinum Consult
+Place of work
+Prague, Czechia
+Contract type
+full-time
+Wage (gross)
+80 000 - 130 000 Kč/month
+Information about the position Job description, responsibilities and dutiesRESPONSIBILITIES
+•	Being involved in projects focusing on server-side development, with various elements of web development
+•	Delivering changes whilst making business users an integral part of the application design process
+•	Understanding the overall system design and contributing to the system architecture
+•	Being responsible for a significant area of code as part of the project remit
+•	Leading a small team of developers and assigning project tasks to them
+•	Identifying and implementing major improvements to existing procedures and team processes to enhance efficiency
+•	Writing well-structured, high quality and performing code
+•	Identifying and escalating issues and risks in a timely manner to the development/project manager so that project risk can be mitigated with minimal impact
+PROFILE
+•	Advanced MS SQL T-SQL skills
+•	Excellent knowledge of .NET, .NET Core and C#
+•	Good knowledge of Object-Oriented Programming, with exposure to design patterns
+•	Ideally have knowledge of Elastic Search, MongoDB, Kafka
+•	Preferably have good knowledge of React and Typescript
+•	Knowledge of source control tools, full knowledge of the software development life cycle
+•	Excellent written and verbal English language communication skills
+APPLICATION PROCESS
+If you fulfil ALL of the key criteria for this position, then please submit your application for the attention of Kiva Donald to [email protected] If your application is successful you will be contacted within 48 hours for a further discussion. Company on whose behalf the position is being filledBanking, financeLinum Consult’s client is a leading international finance company, currently seeking a Senior .NET Developer to join their team in Prague. Requirements for the employee Candidates with education suit the positionFollow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Proficiency (C2) Advertiser Brief description of the companyLinum Consult provide international project solutions and recruitment services to global organisations, government entities and contractors.
+From Contract & Claims Management to Risk Management & Recruitment Solutions, we offer a range of project solutions to organisations across the world, from independent consultancies to FTSE100 businesses. Specialising in Construction & Engineering, Energy & Renewables, FinTech and Mining & Machine Parts, our global presence and expertise means we are perfectly placed to support our clients’ projects, anytime, anywhere in the world. Number of employees5-9 employees 
+ID: 4507054 
+     Dátum zverejnenia:  24.1.2023 
+    2023-01-24
+lokalita: Prague   Pozícia: .NET Programmer, Backend developer   Spoločnosť: Linum Consult   
+Základná zložka mzdy (brutto): 80 000 Kč/month
+                Všetky ponuky

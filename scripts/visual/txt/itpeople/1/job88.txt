@@ -1,0 +1,121 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Identity & Access Management (IAM) Analyst 2 (Offi... állás Budapest
+Oracle
+SQL
+Mérnöki / Ipari programozás állások 
+Tisztelt álláskereső!Ez az álláshirdetés lejárt.Azonban oldalunk több ezer egyéb álláshirdetéssel rendelkezik! Találja meg az önnek megfelelő munkát erre a linkre kattintva!
+Cégleírás / Organisation / DepartmentOur Client is one of the leading investment banks in the world, and for their growing professional team we are looking for an Identity & Access Management (IAM) Analyst 2 (Officer).
+GIAM Operations is a part of the company's Global Identity & Access Management group, consisting of 700 employees, located across four service centers (CSCs) in Asia, Europe and North America including 11 in-country operations. The operations is organized to have dedicated teams supporting applications utilized by different business sectors as well as platforms like CyberArk, Database, Mainframe, Active Directory, etc. Under the umbrella of Chief Information Security Office (CISO). GIAM shares the mission to protect them from access management vulnerabilities and threats to key business systems.
+At our client, they groom the leaders of today and tomorrow. Take the opportunity to embark on a challenging, fulfilling and rewarding career in cybersecurity at a global financial institution.Elvárások / RequirementsQualifications
+Bachelor’s Degree/University degree of any course and minimum of 5+ years of experience in an Information Security role or related field with service delivery and customer relationship management
+Interprets the principle of Information Security concepts and policies and ability to apply into day-to-day work
+Demonstrate an understanding of the risk associated with cyber security and the controls set in place to manage risk in identity and access management
+Proven use of discretion and sound judgment on handling of information with subject to sensitivity
+Flexibility to work in various shift to provide On-call, holiday and/or weekend support on a periodic frequency
+Proven capability to work within a team, seeks the input of others and greets change with optimism, curiosity and resilience, ability to manage multiple priorities and adjust to evolving work needs
+Understand and relates own goals to the company, business' and teams', create SMART goals and demonstrate accountability to achieve them
+Consistently demonstrate clear and concise written and verbal communication in the English language as well as sensitive to audience diversity
+Strong analytical skills and ability to use Lean methodology to identify process improvements; utilize Microsoft applications to analyze and interpret data
+CyberArk Experience
+At least 5+ years of experience in IT production support environment, and hands on of experience in Information Security, Identity & Access Management (IAM) technologies and tools.
+Minimum 5+ years of experience in Privileged Identity/Access Management and working knowledge on CyberArk.
+Hands - on experience in troubleshooting and implementation of account in CyberArk onboarding with working knowledge of access control models across technologies.
+Knowledge on testing connectors/platforms and other network devices. Application related knowledge on AIM WCS & ECS.
+Expertise in CPM, PSM, PVWA and Private Ark for trouble shooting and fixing issues in production & UAT.
+Should be a key player in terms of disaster recovery and mock drill testing.
+AdvantagesRelevant experience in the following platforms may be preferred in some case(s):
+For Databases: Oracle, MS SQL, Sybase, Teradata, MongoDB
+For Enterprise Systems: IBM RACF, CA TopSecret, AS/400, Stratus, Tandem, Unisys, VMS systems
+For Wintel: Active Directory, Wintel NAS servers
+For Unix: Unix OS, LDAP
+Amit kínálunk / OfferThe identity and access management (IAM) analyst is responsible for fulfilling access requests within a variety of banking applications and infrastructure systems. The objective of the role is to manage user roles and access privileges within compliance of set information security policies and standards. The analyst is expected to:
+Have a strong understanding of the global identity and access management (GIAM) - products, processes, resources and tools in their respective platform with an ability to review processes in accordance with the company's policies
+Support Global Identity and Access Management (GIAM) operation including weekends and public holidays on a rotational basis, as well as assigned On-call emergency support
+Handle complex requests and issues independently by having a good understanding of security administration processes, practices, and policies; escalate a severity issue to relevant parties and assist in resolution
+Provide audit related deliverables in short turnaround time, participate in compliance and audit related meetings
+Work with the team to ensure completion of Marketplace requests, troubleshooting incident issues, closure of compliance-related action items and tasks are done within operational and controls thresholds
+Understand Continuity of Business and supports its application to GIAM processes by maintaining resources like process control document up-to-date, ISA accesses, etc. within applications in scope of support
+Identify potential opportunities and raise to management's attention, as well as raise ideas to improve information security controls for supported systems
+Maintain availability to customers, team members, escalation manager, and senior management and handle customer and team interactions in a manner that lives up to the company's leadership principles
+Effectively utilize Talent Management process (i.e., goal setup, self-assessment, feedback, individual development plan etc.) to manage own performance and work on continuous development
+Assist in the development of team members by providing coaching and training particularly to new team members or new team processes
+Complete other tasks/activities/projects in connection with the organizations' goals not detailed in the current job description such as automation, migration, controls culture, etc.
+Demonstrate particular consideration for the firm's reputation and safeguarding the company, its clients and assets, by complying with applicable laws, rules and regulations, adhering to policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and reporting control issues with transparency
+Kapcsolattartó / InformationCompetitive compensation package with extensive benefits:
+Private Medical Care Program and onsite medical rooms in our buildings
+Pension Plan Contribution to Voluntary Pension Fund
+Group Life Insurance
+Flexible work arrangements
+Continuous career progression opportunities across geographies and business line
+An inclusive and friendly corporate culture with diverse networking opportunities
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary Kft													
+Budapest
+Nincs meghatározva
+ Mérnöki / Ipari programozás
+Lejárati dátum: 2023-05-10 08:05:00
+Álláshirdetés részletei
+PozícióIdentity & Access Management (IAM) Analyst 2 (Officer)
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaMérnöki / Ipari programozás
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

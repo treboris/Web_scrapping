@@ -1,0 +1,38 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceR Developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+R DeveloperInformácie o pracovnom miesteMiesto práce: Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)Mzdové podmienky (brutto): Od 2 200 EUR/mesiacfinálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*Termín nástupu: dohodouDruh pracovného pomeru: plný úväzokNáplň práce, právomoci a zodpovednostiHľadáme skúseného programátora v jazyku R, ktorý bude pôsobiť v oblasti finančníctva a poisťovníctva.
+- Vývoj interných SW aplikácií v jazyku R, dátové aplikácie
+- Návrh nového riešenia a funkcionalít a ich následná implementácia
+- Testovanie SW riešenia
+- Údržba existujúceho riešenia, diagnostika a monitorovanie problémov, následná analýza
+- Spolupráca s ostatnými členmi tím - biznis analytikmi, komunikácia s projektovým manažérom 
+- Zodpovednosť za tvorbu technickej dokumentácie a manuálov
+- Práca podľa agilnej metodológie vývoja (scrum) Iné výhody- Zázemie úspešnej  medzinárodnej spoločnosti
+- Práca na globálnych projektoch
+- Komunikácia v anglickom jazyku
+- Rôzne finančné a nefinančné benefity Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieStabilná medzinárodná spoločnosť pôsobiaca v oblasti finančných služieb. Požiadavky na zamestnanca Požadované vzdelanievysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Pokročilý (C1)Ostatné znalostiR - PokročilýMathWorks Matlab - ZákladyPython - ZákladyJava - ZákladyPožadovaná praxR/ JAVA/ Python/ C development2Osobnostné predpoklady a zručnosti- Vysokoškolské štúdium zamerané na IT, matematiku alebo štatistiku
+- Minimálne 1 rok skúsenosti s vývojom v R, JAVA, Python alebo C
+- Motivácia a záujem ďalej realizovať vývoj v R
+- Prehľad v oblasti štatistiky a kapitálového modelovania veľkou výhodou
+- Schopnosť pracovať v agilnom tíme
+- Znalosť anglického jazyku na pokročilej úrovni podmienkou Inzerujúca spoločnosť Stručná charakteristika spoločnostiPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)Spoločnosť je držiteľ povolenia na sprostredkovanie práce. (AA/2009/4810/4232/OISS) Hlavná oblasť pôsobenia spoločnostiSprostredkovanie práce a personálne poradenstvo Počet zamestnancov10-19 zamestnancov Informácie o výberovom konaní* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail:  [email protected]KontaktKontaktná osoba: Mgr.  Andrea OmelkováTel.: +421911 755 569E-mail: 
+ID: 4508927 
+     Dátum zverejnenia:  26.1.2023 
+    2023-01-26
+lokalita: Bratislava   Pozícia: IT konzultant, Programátor, Štatistik   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 2 200 EUR/mesiac
+                Všetky ponuky

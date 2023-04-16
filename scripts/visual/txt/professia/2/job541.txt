@@ -1,0 +1,130 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior RPA Developer  
+Nečakaj na príležitosť. Vytvor ju.
+www.mazars.sk
+Voľné pozície
+Kto sme
+Prečo si nás vybrať
+Senior RPA Developer 
+                                Miesto práce
+                            Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Druh pracovného pomeru
+                            plný úväzok
+                                Termín nástupu
+                            dohodou
+                                Mzdové podmienky (brutto)
+2 200 EUR/mesiacv závislosti od Tvojich skúseností
+Náplň práce a zodpovednostiV Mazars sme vybudovali globálne kompetenčné centrum pre optimalizáciu, automatizáciu a analytiku procesov. Sme v tejto oblasti lídrami v rámci skupiny a máme za sebou riešenia pre viac ako 15  krajín. 
+Využi príležitosť byť pri tvorbe niečoho nového, učiť sa od skúsených kolegov a načerpaj z know-how Mazars. 
+Buď pri rozvoji nášho tímu, zameraného na digitálne technológie a poskytujucého svoje služby klientom po celej Európe. 
+Implementuj riešenia na podporu automatizácie práce u klientov pomocou tzv. robotickej automatizácie procesov (Robotic process automation) a prípadne ďalších doplnkových technológií ako inteligentná automatizácia a low code platformy.
+- buď zodpovedný za technické smerovanie projektu,
+- analyzuj procesy a problémy a navrhuj ich riešenia,
+- veď juniornych kolegov, pomáhaj im a reviduj ich výstupy,
+- vytváraj a optimalizuj automatizačné skripty a testuj,
+- vytváraj knižnice opätovne použiteľných automatizačných skriptov,
+- spolupracuj s biznis konzultantmi tvoriacimi analytické vstupy.
+My Ti ponúkneme možnosť rozvoja v najnovších digitálnych technológiách, ktoré sú trendom na trhu. Výhody a benefity- dni dovolenky navyše (3 dni pri podpise pracovnej zmluvy, do 10 dní v závislosti od seniority v Mazars),
+- dni plateného voľna navyše (svadba, narodenie dieťaťa,...),
+- flexibilita pracovného času, hybridný model práce (práca z domu/z kancelárie),
+- letné krátke piatky,
+- príspevok na MHD/ BOLT kolobežky,
+- 5 voľných dní na dobrovoľnícke aktivity,
+- firemné a tímové teambuildingy, menšie eventy a workshopy, firemné raňajky,
+- sprostredkovanie Multisport karty,
+- príspevok na stravné nad rámec zákona,
+- notebook a mobilný telefón s dátami aj pre súkromné účely,
+- vzdelávanie, rozvojové programy a tréningy, interné wellbeing konzultácie,
+- príspevok na jazykové vzdelávanie,
+- podpora v rámci členstva komôr a vzdelávania (SKAU, SKDP),
+- Mentoring program,
+- Move program (možnosť dlhodobého vyslania do zahraničia),
+- Referral bonus program (finančná odmena za odporúčanie nových kolegov),
+- vianočné a darčeky k výročiam,
+- pravidelné každoročné prehodnocovanie platu, ako aj kariérny postup (žiadne tabuľky – rýchlosť rastu môže byť akcelerovaná Tvojim výkonom),
+- možnosť získať ročný bonus. Osobnostné predpoklady a zručnostiNaši kolegovia u nás hrajú kľúčovú úlohu a pomáhajú meniť k lepšiemu smerovanie oddelenia, spoločnosti, ako aj našich klientov. Dáme priestor Tvojej aktivite, návrhom a vynaliezavosti a pomôžeme Ti napredovať rýchlymi krokmi. 
+Čo by sme od Teba očakávali po technickej stránke?
+- skúsenosť s robotizáciou procesov na niektorej z používaných platforiem (UiPath, Blueprism, Automation Anywhere)
+- dobrá znalosť jedného alebo viacerých z programovacích jazykov Python, VB.NET, C#, Java
+- výhodou je orientácia v štandardných biznis procesoch, ktoré sú hlavnými adeptami na implementáciu RPA riešení
+- skúsenosť s niektorou ďalšou z digitálnych disciplín (machine learning, deep learning, Natural Language Processing, Artificial Intelligence) je výhodou
+- vynikajúce analytické schopnosti, proaktívne riešenie problémov
+- schopnosť pracovať v tíme, i samostatne na pridelených úlohách
+- vedenie a rozvíjanie juniornejších kolegov
+- zodpovednosť za dodanie riešenia v zmysle stanovených podmienok.
+- zmysel pre detail, precíznosť a orientácia na výsledok
+- záujem ďalej sa zlepšovať a vzdelávať v oblasti automatizácie a nových digitálnych technológií Stručná charakteristika spoločnostiMazars je popredná medzinárodná spoločnosť, ktorej cieľom je vybudovať hospodárske základy spravodlivého a prosperujúceho sveta. Na Slovensku pôsobíme od roku 2000. Klientom poskytujeme služby v oblastiach auditu a účtovníctva, daní, poradenstva a finančného poradenstva
+Sme 5. najväčšou konzultačnou spoločnosťou na Slovensku. 
+Vďaka našej vybalansovanej perspektíve dokážeme nájsť rovnováhu medzi ľudským prístupom a firemnými procesmi. K profesionálnym službám v oblasti auditu, daní, účtovníctva, outsourcingu, finančného poradenstva či poradenských služieb vieme pridať čosi navyše: priateľský prístup a ľudské hodnoty. 
+Podporujeme zmysluplné zavádzanie technologických inovácií. Na Slovensku a vo Francúzsku sa nachádza Mazars Global robotics center. Centrum poskytuje riešenia viac ako 20 krajinám skupiny Mazars v oblasti RPA (Robotic process automation), process mining a AI. Kontaktovať Ťa budeKontaktná osoba: Daniela AntoňákováE-mail: 
+Zamestnanci neprichádzajú do spoločnosti Mazars náhodou, vyberajú si ju. Sme globálna škola výnimočnosti, kde sa vďaka výzvam budeš stále rozvíjať a rásť. Píš svoj príbeh spolu s nami - na tejto ceste si nájdeš aj veľa priateľov.
+Mazars, the smart choice. 
+www.mazars.sk
+Máš otázky? Spýtaj sa nás.
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4505888 
+     Dátum zverejnenia:  17.3.2023 
+    2023-03-17
+lokalita: Bratislava   Pozícia: C# programátor, IT tester, Java programátor, Programátor, Python programátor   Spoločnosť: Mazars   
+Základná zložka mzdy (brutto): 2 200 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

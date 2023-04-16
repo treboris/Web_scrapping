@@ -1,0 +1,124 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceDevOps Engineer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyDevOps EngineerSEITEQ s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+2 700 EUR/monthstarting at 2700+eur/month/brutto. Could be more depending on your knowledge, abilities and experience.
+Information about the position Job description, responsibilities and dutiesWe are searching for a DevOps Engineer to become a new valuable member of the team for our important European client with long-lasting history on the market. Although company was initially established with focus on tyre manufacturing, today holds strong position also around tire related services, high-tech materials or mobility experience solutions – telematics. Mobility experience is area where we are supporting our client to bring high quality and innovative solutions to his customers. We would like to offer you unique opportunity to collaborate on our joint success. Employee perks, benefitsFlexible working hours
+• Home Office
+• Extra Vacation days
+• Holiday/home office bonus
+• Relax rooms
+• Multisport card
+• Technical courses, Certifications
+• Worldwide IT Conferences
+• Commercial partners discounts
+• Summer club – full-day summer program for children of our employees
+• Referral Program – to refer new employee
+• High-standard working conditions
+• Geeky Fridays
+• Massage Company on whose behalf the position is being filledInformation technology, computer programming, web portalsEuropean client with long-lasting history on the market. Although company was initially established with focus on tyre manufacturing, today holds strong position also around tire related services, high-tech materials or mobility experience solutions – telematics. Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)Number of years of experience3Personality requirements and skillsAdministration and configuration of IaC (Infrastructure as code) driven cloud environment (AWS, Azure)
+Deployment of new applications and development of monitoring programs
+There are several technologies being used throughout the environment starting from Azure (AKS, Cosmos DB, Virtual Machines), AWS (Lambda, Cloudfront, EC2, S3), Jenkins, Docker, Kubernetes, Terraform
+As an administrator, you will manage the existing environments, participate in release management, develop, and apply algorithms for monitoring of the existing environments.
+Part of the job is a design of the hosting environments for various applications and propose the best IT solutions (e.g. monitoring tools, security, etc.)
+Must have technical skills:
+Computer skills – administrator
+Linux server – administration (mandatory)
+Cloud services – AWS (preferable) / Azure
+Azure DevOps (VSTS previously) Continuous Integration module
+Azure Service Fabric – nice to have
+Public Cloud (AWS, Azure)
+Databases – basics
+Mongo
+Scripting
+Bash – advanced
+Python, Groovy, NodeJS – optional
+Common requirements:
+Graduate in numerate discipline
+Passionate, results focused, good communicator
+Proven experience working in corporate environment
+Strong relationship management skills
+Stress resistant
+Team player
+Motivator
+Self-driven
+Ability to work in and manage through complex environments
+Very good level of spoken and written English
+Nice to have technical skills:
+Agile software methodology – SCRUM
+Design Patterns
+Git Advertiser Brief description of the companyConsulting & Integration
+Outsourcing
+Software developmentThe company is a holder of a licence to offer recruitment services. Number of employees25-49 employees 
+ID: 4486401 
+     Dátum zverejnenia:  10.3.2023 
+    2023-03-10
+lokalita: Remote work   Pozícia: DevOps Engineer, Programmer   Spoločnosť: SEITEQ s.r.o.   
+Základná zložka mzdy (brutto): 2 700 EUR/month
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

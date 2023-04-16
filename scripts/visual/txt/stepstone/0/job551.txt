@@ -1,0 +1,84 @@
+Jobs by email
+BMW Group
+Product Owner Virtual Validation - Software Factory (f/m/x)
+München
+Permanent contract
+Full Time
+Published: 1 day ago
+Show salary
+I'm interested
+Save
+About us
+Our brands BMW, MINI, Rolls-Royce and BMW Motorrad have made us one of the world's leading premium manufacturer of cars and motorcycles as well as provider of premium financial and mobility services.
+Our IT-Software Development team in München is currently seeking a
+Product Owner Virtual Validation - Software Factory (f/m/x)
+Tasks
+NEW SOLUTIONS EMERGE WHEN THINKING ISN'T HARD-WIRED.
+SHARE YOUR PASSION.
+More than 90% of automotive innovations are based on electronics and software. That's why creative freedom and lateral thinking are so important in the pursuit of truly new solutions. Naturally, this includes flexible working models, so that our IT specialists are free to go in unconventional directions.
+Software Factory is the central department responsible to harmonize and professionalize processes, methods and tools across the global software development for automotive control units (ECUs). The focus is on different areas like architecture, integration & releasing, software validation and software quality. Hence working with us means to set the base for state-of-the-art software development within BMW, that meets current and future demands.
+Virtual Validation is one state-of-the art method to validate software with the approach "test-fast-fail-fast" in a very early stage of the Software development: establish validation with a digital twin in a cloud-environment.
+We are looking for a Product Owner for our virtual validation solution that will be established as a product/ service at BMW.
+What awaits you?
+In an agile DevOps team, you will be responsible for the future Virtual Validation Framework and will lead the development of our virtual validation environment: ECU "digital twins" and cloud-based testing environment.
+You will develop requirements together with key stakeholder from different departments and the feature team (cross-functional).
+The definition and planning of product roadmaps (incl. release management) and the alignment with customer projects (incl. financial and resource planning) will be part of your tasks.
+Additionally, you will use appropriate methods to ensure the overall implementation and mitigate risks.
+You will lead the implementation with cross-functional teams (different departments and external suppliers) and will continuously communicate with customers ensuring on-going transparency.
+Profile
+What you should bring along?
+University degree in informatics, information systems or a related subject.
+At least 5 years of practical experience in IT project management or product ownership.
+Strong expertise in agile project environments and project management.
+Experience in software development (C++ / Python) and simulation (SiL-testing) is a plus.
+Expertise in state-of-the-art DevOps and CI toolchain including Bazel, GitHub, Artifactory, Cloud Services and Zuul is a plus.
+Technical communication skills & motivation to proactively drive and iterate towards a common solution.
+Business-fluent German and English.
+You have the talent to quickly grasp and structure complex issues? Apply now!
+Note: Please apply exclusively online via our career portal. Applications via other channels (esp. e-mail) cannot be considered.
+We offer
+What we offer?
+30 days of holiday.
+Attractive remuneration.
+BMW & MINI promotions.
+Career development.
+Flexible organisation of working times.
+High Work-Life Balance.
+Mobility offers.
+And many other benefits - see bmw.jobs/benefits
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are a particular concern for us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. That is why our recruiting decisions are also based on personality, experience and skills.
+Find out more about diversity at the BMW Group at bmwgroup.jobs/diversity
+Earliest starting date: from now on
+Type of employment: unlimited
+Working hours: full-time
+Job Reference: 93075
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+BMW Group
+80809 München, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Parking space
+Employee discount
+Sabbatical
+Company medical officer
+Stock options
+Coaching
+Home office
+Extra day off
+Study allowance
+Car/Travel allowance
+The benefits listed are applicable to the company and can differ depending on the position or department.

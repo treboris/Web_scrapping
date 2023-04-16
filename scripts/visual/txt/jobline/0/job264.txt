@@ -1,0 +1,44 @@
+ Belépés ›
+Java fejlesztő (Budapest)
+Java fejlesztő (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - felsőfokú
+Java fejlesztő
+Megbízó partnerünk egy magyar alapítású szoftverfejlesztő cég, amely egy baráti társaságból alakult a 90-es évek elején, ma pedig már több mint 300 főt foglalkoztat. A nagy létszám ellenére családbarát közösséget alkotnak, ahol a tudásmegosztás központi szerepet játszik. Főként EU-s és agrárinformatikai projekteken dolgoznak, amelyek a Magyarországon élők mindennapjait teszik élhetőbbé. Fő tevékenységük az egyedi, projektalapú szoftverfejlesztés, szoftver-hardver integráció. Jelenleg Java fejlesztő kollégát keresnek csapatukba.
+A pozícióról
+Java EE alkalmazások back-end fejlesztése, továbbfejlesztése specifikációk alapján
+Fejlesztői tesztek végrehajtása
+Fejlesztés megfelelő dokumentálása
+Jelzett hibák kezelése
+Fejlesztő kollégák szakmai támogatása
+Elvárások
+3+ év releváns fejlesztői tapasztalat
+Java SE és EE magas szintű ismeret
+Magasfokú SQL ismeret CVS/SVN/GIT ismeret
+ECLIPSE/IDEA vagy hasonló IDE eszköz ismeret
+Alkalmazás szerverek ismerete (Wildfly/Weblogic, stb)
+CI és build tool-ok ismerete (Maven, Jenkins, stb.)
+Tervezési minták ismerete
+Elosztott rendszerekben való jártasság
+Javascript ismeret
+Előny:
+Agilis fejlesztési módszertan ismerete
+PL/SQL ismeret
+UML ismeret
+Amit Megbízónk kínál
+Változatos, kihívást jelentő projektek
+Hosszútávú fejlődést támogató munkahelyi környezet
+Flat szervezet
+Családbarát munkahely - rugalmas munkaidő és home office
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások

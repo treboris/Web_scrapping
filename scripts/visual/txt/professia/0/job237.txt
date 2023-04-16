@@ -1,0 +1,78 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Python-Django Developer  
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukySenior Python-Django Developer SmartBase s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+podľa dohody, ihneď
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiacsenior ŽIVNOSŤ: od 3000 € + dovolenky (plat podľa skúseností s našou problematikou)
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme skúseného Senior Backend Developera, ktorý má schopnosť rozumieť vzťahu medzi technológiou a hodnotou pre podnikanie a komunikovať ho efektívne medzi juniornejších developerov a zákazníkov. Zameriava sa na vývoj webových e-commerce riešení a prezentačných webových stránok, aplikácií alebo portálov, vrátane integrácie s aplikáciami tretích strán s použitím Python, Djanga, Elasticsearch a SQL. 
+Vyvíjame vlastné platformové E- commerce riešenia (pre obchod, sklady, B2C a B2B e-shop...). Sú postavené na ostrieľaných a rapídne rastúcich technológiách Python v kombinácii s Django frameworkom a ElasticSearch-om. Buildy a deployment na staging alebo produkciu za nás automaticky rieši Gitlab CI a Docker. O zachovanie kvality kódu sa postará Sonar. 
+Náplň práce:
+•	implementácia modulov webových aplikácií
+•	implementácia zmenových požiadaviek na klientskych aplikáciách
+•	implementácia integrácií so systémami tretích strán (ERP systémy, platobné brány, 
+        systémy dopravcov a pod.)
+•      tvorba, návrh, testovanie a vyvoj softvérových ​​komponentov, ktoré spĺňajú 
+        definované požiadavky a najnovšie technológie
+•      podieľanie sa na vedení menej skúsených kolegov
+•      optimalizujte existujúci kód a píšte ho prehľadný, dobre dokumenotvaný a 
+        udržiavateľný 
+•      tvarujte, navrhujte, budujte a udržiavajte jadro e-shopu
+•      buďte proaktívny na tímových poradách, diskusiách, stand-upoch a code reviews.
+•      automatizujte opakujúce sa úlohy a udržiavajte si prehľad o najnovšch technologiách 
+        a knižniciach.
+•      komunikujte a spolupracujte s Product Ownerom, UX/UI dizajnérom a zákazníkmi
+Technológie, ktoré potrebujete minimálne vedieť:
+•	Python (4/5)
+•	Django (4/5)
+•	Verzionovací systém (GIT, SVN) (3/5)
+1.	Nikdy som nepoužíval
+2.	Viem základné príkazy
+3.	Základná pracovná skúsenosť
+4.	Pokročilá pracovná skúsenosť
+5.	Expert, profesionál
+Technológie, ktoré používame a ich znalosť bude výhodou:
+• Elasticsearch
+• PostgreSQL, MariaDB
+• Docker
+• Redis
+• Celery
+• RabbitMQ
+• Vue
+• Nginx
+• CSS, HTML, JavaScript
+Ak hľadáte dlhodobé, stabilné zamestnanie a zaujali Vás technológie s ktorými pracujeme a chcete sa dozvedieť viac, určite nám napíšte. Prosím pošlite nám svoje CV a radi si s Vami dohodneme rozhovor. Zamestnanecké výhody, benefityKvalitná a zodpovedná práca predsa musí človeka aj baviť a my pracovný život dôsledne striedame s relaxom, či už športovým alebo pasívnym. Ak o to budete stáť, naučíme Vás aj oddychovať a zdravšie žiť. K dispozícií je náš bufet kde okrem kávy či čaju máme aj ovocie, či niečo nutričné pod zub. 
+Ďalšie benefity:
+• nadštandardné pravidelné platové ohodnotenie a interný systém odmeňovania
+• flexibilný pracovný čas
+• možnosť homeoffice
+• kariérny rast a sebarealizácie
+• káva, čaj, ovocie, občerstvenie
+• šípky, xbox, stolný futbal, stolný tenis, stolové hry
+• Žiadna byrokracia
+• firemný hardware
+• podpora športových aktivít
+• event kalendár firemných akcií a teambuildingov
+• zľavy u zmluvných partnerov
+• firemná knižnica s odbornou literatúrou
+• účasť na odborných konferenciách a fórach
+• sick days
+• poradenstvo v oblasti wellbeing Informácie o výberovom konaníŽiadne strachy s pohovorom, predvýber robíme testíkom, kde si oprášiš svoje vedomosti. Následne pokračujú priateľské pohovory, kde by sme si radi vypočuli aj tvoje predstavy o našej budúcej spolupráci.
+Veľmi pekne ďakujeme za každý poslaný životopis a záujem o nás. Každý si dôkladne prejdeme a kontaktovať budeme len vybraných uchádzačov. Ďakujeme za pochopenie.
+Zaslaním životopisu dáva uchádzač svoj súhlas spoločnosti SmartBase, s.r.o. so spracovaním jeho osobných údajov pre účely databázy uchádzačov o zamestnanie v zmysle Zák. č. 122/2013 Zb. o ochrane osobných údajov. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímštudent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreinformačné technológieJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiPython - PokročilýDjango - PokročilýGIT - Mierne pokročilýSVN - Mierne pokročilýPrax na pozícii/v oblasti4Počet rokov praxe4Pozícia je vhodná pre absolventaÁno Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme dynamicky rastúca spoločnosť so zameraním na komplexné webové riešenia na mieru v oblasti medzinárodných B2C a B2B e-commerce riešení a o našom riešení online predaja už vedia aj veľkí hráči. Microsoft si nás vybral ako jedného z partnerov pre „Enterprise e-commerce“. Zároveň sme dostali ocenenie na prestížnej súťaži Microsoft Awards 2018 za naše riešenie „Virtuálna a rozšírená realita v retail e-commerce“
+Tak, ako kvalitu našich riešení si vážime aj našich zamestnancov a v prípade problému za nimi pevne stojíme. Staviame na pevných morálnych princípoch aj s našimi zákazníkmi, ktorí sa na nás môžu vždy spoľahnúť. Poctivá tvrdá práca a osobitý prístup ku každému zamestnancovi a klientovi sú tým, čo nás charakterizuje. Každoročný rast spoločnosti vo všetkých smeroch stojí na poctivej práci každého z nás. Chceme robiť veci lepšie a nemáme radi priemernosť. Unikátnosť v každom smere je naším cieľom. Počet zamestnancov20-24 zamestnancov 
+ID: 4511876 
+     Dátum zverejnenia:  15.2.2023 
+    2023-02-15
+lokalita: Práca z domu   Pozícia: Backend programátor, Programátor, Python programátor   Spoločnosť: SmartBase s. r. o.   
+Základná zložka mzdy (brutto): 3 000 EUR/mesiac
+                Všetky ponuky

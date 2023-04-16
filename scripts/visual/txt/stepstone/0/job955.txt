@@ -1,0 +1,63 @@
+Jobs by email
+ZEISS
+SAP BI Developer (m/w/x)
+Oberkochen (Baden-Württemberg), München
+Permanent contract
+Full Time
+Published: 1 week ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+Ihre Rolle
+Thrive on innovation at a global technology leader. Develop exciting solutions in a diverse, stable work environment that’s focused on the future. Join us in a modern workplace with an open, trusting, and inspiring culture and colleagues. We invest in our employees to inspire confidence and help everyone realize their full potential. The ZEISS Digital Partners based in Munich, Oberkochen, Jena, Berlin, Bangalore, Budapest, and Shanghai are realizing cutting-edge customer-centric digital, data and AI solutions jointly with the ZEISS business units. Your role at the ZEISS Digital Partners / Operational BI Team: You will play a crucial role in shaping the future of Data Analytics and actively contribute to the success of the digital transformation at ZEISS. You will support the stability of our BW system landscapes to provide consistent data to our business and data services teams in a timely manner within an environment of constant innovation. As a SAP BW Senior BI Developer at the Operational BI department you will have the challenge to innovate processes in order to ensure system stability and improve the service to our customers. You will collaborate with other BI Developers, SAP Specialists and the Data Platform Team to create new solutions and innovate data sourcing as well as the reporting standards at ZEISS. Help us shape the future of ZEISS!
+In this role you will:
+Support the vision and strategy for data and business intelligence products in our SAP BW (BW 7.5 on HANA and BW/4HANA)
+Prioritize a roadmap of problems to be solved and work with a cross functional team of data engineers and analytics professionals to solve them
+Work collaboratively with business intelligence analysts / developer to define and document functional and technical requirements as well as specifications
+Adopt data modeling & data flows and design best practices to develop robust & scalable solutions
+Design and develop complex BW queries to meet reporting requirements - Optimize reporting and data load performance, investigate application issues and provide timely solutions
+Drive conception, modelling, realization and further development of innovative (management) reporting solutions for various corporate divisions and business units
+Execute testing and ensure the quality of solutions
+Part time option possible
+Ihr Profil
+An excellent Technical or University Degree in computer science, software engineering or similar field
+The ability to inspire and rally a team as well as to manage stakeholders
+Professional experience with SAP BW and Development of HANA Calculation Views
+Knowledge on SAP BW Data Architecture and Best Practices
+Expert experience with SAP ABAP (Advanced Business Application Programming) and AMDP (ABAP Managed Database Procedures)
+Experience on data integrations scenarios with SAP S/4, SAP CRM, SAP ECC and SQL DBs
+Experience in SAP Analytics Cloud and SAP Analysis for Office
+Experience with SQL Script and Java Script
+Experience in SAP DI is a plus
+You are a pragmatic, proactive, dynamic, and independent team player
+Good communication with peers, technical teams and business representatives
+Excellent communication skills in English, German is a plus
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

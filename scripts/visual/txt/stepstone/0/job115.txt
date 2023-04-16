@@ -1,0 +1,80 @@
+Jobs by email
+E.ON Digital Technology GmbH
+Head of Continuous Delivery and IT Operations (m/f/d)
+Essen
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+No cover letter required
+I'm interested
+Save
+About us
+E.ON Digital Technology GmbH | Permanent | Part or Full time
+You have a passion for technology and want to make the world a greener place?
+Then become a change maker (f/m/d) and join our team as Head of Continuous Delivery and IT Operations (m/f/d) eMobility at E.ON Digital Technology (EDT).
+E.ON Digital Technology plays a key role in shaping the energy transition by leading E.ON's digital transformation across Europe. We explore new paths through developing ideas, breaking new ground, making visions reality, and bringing new technologies to life. In flexible working models and teams, we deliver sustainable technology solutions to meet the energy challenges of tomorrow. Our eMobility team (Digital Solutions I eMobility) develops and operates solutions for eMobility, enabling our customers to manage their energy efficiently at home, on the road and at work.
+At E.ON diversity matters. We welcome all people and are convinced that differences make us stronger. Become part of our inclusive and diverse company culture!
+We want the job to fit your life situation. Therefore, you can choose to apply in full or part-time.
+Your task
+Responsibilities
+You manage a team of over 10 employees and develop them professionally and personally
+With your team, you are responsible for the development, roll-out and operations of our eMobility IT backbone - especially our eMobility Global Platform based on Microsoft Dynamics
+Together with your team, our Portfolio team and IT Product Owners you estimate the delivery duration and feasibility of all feature requirements
+You and your team deliver the agreed roadmap on time and budget
+Acting as an example for cross functional cooperations and building networks, e.g. to other developers within the E.ON Group
+You like to code yourself, lead your ideas by example and jump in if needed for any type of incident
+As a leader (m/f/d), you win the hearts and minds of your team members, bring motivation and energy to the team, and stand as a role model for our values
+Your profile
+Qualifications
+You have broad experience in solution development and operating solutions 24/7, as well as a proven track record as an engineering lead (m/f/d) across multiple teams
+Broad understanding of Cloud (e.g. AWS) and Cloud-Native applications contained and orchestrated via Kubernetes and Docker
+Knowledge of Microservice development using Java, JEE and Spring Boot including REST/SOAP-based API and Kafka for communication
+You know how to efficiently structure and integrate relational databases (Oracle, PostgreSQL) and bring a broad understanding in related code toolchains, such as IDEs, Git and DevOps
+You can develop and inspire people, and understand how to lead a diverse team to joint success by using your excellent communication skills, a convincing manner and assertiveness
+Your strengths include a strong entrepreneurial and strategic approach as well as a high customer orientation
+Extensive working experience in international teams as well as complex and highly dynamic company structures
+Excellent communication skills in both German and English
+Willingness to travel 1x per week
+Our benefits
+Benefits
+We provide full flexibility: Do your work from wherever you want in Germany; of course including all our great offices (from Hamburg to Munich). You want even more? Go on workation for up to 20 days per year within Europe.
+Recharge your energy: You have 30 holidays per year (Christmas and New Year's Eve are always free days). Your battery still needs charging? You can exchange parts of your salary for more holidays or you take a sabbatical.
+Your development: We grow - and we want you to grow with us! We support you with individual trainings and push your personal and professional development to the next level.
+We elevate your mobility: From car and bike leasing schemes to job tickets for most of our locations- your way is our way.
+We also think ahead: With our company retirements scheme and a great insurance package we take care of your future.
+This is by far not all: We are looking forward to speaking with you about further benefits during the recruiting process.
+Get in touch
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+E.ON Digital Technology GmbH
+45131 Essen, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Stock options
+Coaching
+Home office
+Company car
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

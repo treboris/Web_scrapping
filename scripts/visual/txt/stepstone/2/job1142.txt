@@ -1,0 +1,72 @@
+Jobs by email
+Fresenius Medical Care
+Principal AWS Enterprise Systems Engineer (m/f/d)
+deutschlandweit
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+We provide medical engineering for millions. And yet for each individual.
+Fresenius Medical Care is the world’s leading provider of products and services for individuals with renal diseases. As a global health care company, we have  a special goal: provide the best possible care. Join us to improve the quality of life for a growing number of patients around the world and be a vital part of our team.  
+#careerswithapurpose at Fresenius
+Over 300,000 people across the globe work at Fresenius to provide better ever medicine for ever more people. Our independent business segments Fresenius Medical Care, Fresenius Kabi, Fresenius Helios and Fresenius Vamed offer a wide spectrum of products and services in the health sector. We offer you the opportunity to make a difference with your career – and to become part of our impressive growth story.
+Fresenius Medical Care – Creating a future worth living. For patients. Worldwide. Every day. More than four decades of experience in dialysis, innovative research, the global leader in dialysis services and products – that is Fresenius Medical Care.
+Your assignments
+Develop technical design specifications that address business requirements and that utilize available and existing company / customer software platforms and standards. Oversee and facilitate project events that implement applications and components within proposed and existing technical frameworks. Goals are to identify, design, and implement as needed, software and systems which enable the achievement of the business objectives of FMC.
+Requires strong, advanced, core, AWS skills in a large-scale enterprise environment
+Provide expertise across development teams to ensure consistent, scalable, secure usage of the AWS platform
+Heavy Cloud Automation experience required (Terraform, Cloud Formation, Ansible, Pakr)
+Collaborate with internal Business, Infrastructure, Application Development groups to design, develop and implement cloud solution based on AWS cloud services for servers based and serverless implementations
+Design, environments that AWS enable development team to leverage the power and speed of developing the AWS Cloud environment while maintaining the security and compliance
+Provide AWS / Cloud expertise support to Fresenius development teams, leveraging AWS contacts as necessary
+Work collaboratively with agile teams to understand the business domain and client requirements that drive analysis, design and development of quality technical solutions and deliverables
+Lead and/or assist in technical design sessions and document technical solutions that are aligned with client business objectives, and identifying gaps between the client's current and desired end states
+Provide expertise in implementing the AWS Best Practices Framework into the Fresenius Environment
+Design business continuity and disaster recovery solutions for the AWS environment
+Provide expertise in designing VPCs and Environments to support CI / CD in a hybrid cloud environment
+Provide expertise, integration assistance and monitoring with Best of Class third party tools (cloud native and hybrid) to provide a secure hybrid cloud environment. e. g. Dome9, Fire Eye, Apptio Cloudability a plus, or similar tool experience
+AWS Certs a plus
+Your profile
+PHYSICAL DEMANDS AND WORKING CONDITIONS:
+The physical demands and work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Occasionally lifts / carries object and materials weighing +30 pounds
+SUPERVISION:
+None
+EDUCATION:
+Bachelor’s Degree required; Advanced Degree desirable or equivalent work experience in lieu of; AWS Certs a plus
+EXPERIENCE AND REQUIRED SKILLS:
+Advanced and comprehensive related engineering experience required
+Advanced AWS experience required
+Independent with strong analytical skills
+Detail oriented and organized with the ability to manage multiple priorities and projects
+Effective and cooperative team member
+Effective oral and written communication skills in German and English
+Experience working complex technical infrastructures spanning multiple functional areas
+Ability to lead technical efforts related to complex projects is preferred
+Ability to work independently and prioritize with company goals
+Solid experience in structured development techniques and relational database concepts
+Solid experience with programming tools, structured development and testing methodologies
+Experience with current languages and relevant hands on experience with relational database technology
+Your contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company medical officer
+Stock options
+Coaching
+The benefits listed are applicable to the company and can differ depending on the position or department.

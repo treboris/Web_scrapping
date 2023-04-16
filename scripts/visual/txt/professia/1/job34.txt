@@ -1,0 +1,108 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePython/DevOps TechLead 
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Python/DevOps TechLeadInformácie o pracovnom miesteMiesto práce: Práca z domuMzdové podmienky (brutto): Od 3 200 EUR/mesiacfinálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*Termín nástupu: dohodouDruh pracovného pomeru: plný úväzokNáplň práce, právomoci a zodpovednosti- Sledovanie, diagnostika, analýza chýb a vývoj aplikácie a zabezpečovanie následného prechodu do cloudového prostredia.
+- Vedenie malého tímu Python developerov a koučovanie menej skúsených členov v tíme  pri poskytovaní refaktorovania/vylepšenia systémov/aplikácií a pri osvojovaní si modernejších technológií a spôsobu práce (napr. DevOps).
+- Kódovanie BE časti a úpravy vo FE, integrácia s inými systémami
+- Riešenie príčin problémov pri nasadzovaní s ostatnými tímami
+- Budovať, udržiavať a zlepšovať architektúru systému ďalšej generácie spôsobom „Infrastructure as Code“
+- Zodpovedá za vytváranie a implementáciu systémových vylepšení, ktoré zlepšujú výkon a spoľahlivosť systému
+- Budovanie a vývoj platforiem CI/CD s cieľom rýchlejšieho a bezpečnejšieho presunu zmien do produkcie
+- Definovať potrebu novej funkcionality riešenia vzhľadom na požiadavky užívateľov
+- Návrh nového riešenia a zohľadnenie vplyvu zmeny na celý systém
+- Testovanie novej funkcionality a jej implementácia do produkčného systému
+- Zodpovednosť za kvalitu kódu, dodržiavanie štandardov spoločnosti
+- Pozícia vyžaduje prácu v medzinárodnom tíme Iné výhody- práca na odbornej pozícií s možnosťou využívať doterajšie skúsenosti a vlastný osobnostný potenciál.
+- zázemie stabilnej medzinárodnej spoločnosti
+- zaujímavý sociálany a motiváčný program
+- jazykové vzdelávanie a odborné kurzy Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieStabilná spoločnosť pôsobiaca v oblasti informačných technológií. Požiadavky na zamestnanca Požadované vzdelaniestredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiPython - PokročilýDevOps - PokročilýPožadovaná praxdevelopment Python4Osobnostné predpoklady a zručnosti-	Skúsenosti s celým cyklom vývoja SW riešenia – analýza, vývoj SW, testovacia fáza, implementácia, realizácia zmien, support
+-	minimálne 4 roky skúsenosti s programovaním  v Pythone
+-      skúsenosti s DevOps a CI/CD, configuration management tooly: Ansible/Chef/Puppet/salt, využitie Docker/Kubernetes 
+- aspoň základné vedomosti orchestrácie, cloudového prostredia AWS/Azure
+-       znalosť monitoring toolov - ELK, Nagios, Zabbix...
+-       Anglický jazyk - pokročilá úroveň
+-	Technické požiadavky:
+o	vývoj v Pythone, R
+o	SQL
+o 	GIT
+o	Skúsenosti s vedením teamu - výhoda Inzerujúca spoločnosť Stručná charakteristika spoločnostiPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)Spoločnosť je držiteľ povolenia na sprostredkovanie práce. (AA/2009/4810/4232/OISS) Hlavná oblasť pôsobenia spoločnostiSprostredkovanie práce a personálne poradenstvo Počet zamestnancov10-19 zamestnancov Informácie o výberovom konaní* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: [email protected]KontaktKontaktná osoba: Ing.  Anna TkáčováTel.: +421911247080E-mail: poslať životopis
+ Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 3989481 
+     Dátum zverejnenia:  21.3.2023 
+    2023-03-21
+lokalita: Práca z domu   Pozícia: DevOps Engineer, IT architekt, IT konzultant, Programátor, Python programátor   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 3 200 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

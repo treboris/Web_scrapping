@@ -1,0 +1,60 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceMalware Researcher  Можливість для людей з України
+Voľné pozície
+O nás
+Zamestnanecké výhody
+Kontakt
+Malware Researcher
+                                Place of work
+                            Bratislava, Slovakia (Job with occasional home office)
+                                Contract type
+                            full-time
+                                Wage (gross)
+From 2 000 EUR/monthPerformance bonus 2 times per year up to 16,67% of the basic salary paid for the evaluation period(usually 6 months).*The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+Information about the position Job description, responsibilities and dutiesWe are looking for Malware Researcher who will join our Experimental Research & Detection team.
+What does working as Malware Researcher entail?
+Malware Researchers work under the Security Research Laboratory, which we refer to simply as VirusLab. This position is specifically suited for our Experimental Research and Detection team, where we are focused on threat detection on network level, botnet network monitoring, various exploit propagation research,  Internet of Things research (IOT botnets, IOT exploits…), and other interesting stuff. 
+Our work consist on analyzing malicious activity, track entire operations, and figure out at how they function. Finally we develop proper detections to neutralize the threat. Employee perks, benefits• Support in personal and professional development - opportunities to attend various trainings, courses, conferences or meetups
+• Attractive financial bonus paid twice a year based on your performance
+• Financial support in case of life milestones (wedding, childbirth)
+• Complementary retirement savings contributions
+• Fully covered 7 EUR/per day meal vouchers
+• Wide range of benefits in sport, healthcare, culture, education and other areas
+• "Refer a friend" benefit - the opportunity to receive a financial bonus when referring a friend for an open vacancy
+• Available home-office days - 12 days per month (in SR)
+• Fully-paid 3 sickdays
+• Loyalty program - extra vacation days and financial bonus after working at ESET for 5 and more years
+• Mind & Soul program - free helpline and counselling in personal and professional development
+• Sport activities support – possibility to participate in various races, bike cages, bikes for rent
+• Fresh fruit, tea, coffee, non-alcoholic beverages - you can find them all in every kitchen
+• Casual, friendly, open culture with no dress code
+• Participating in company events
+• Opportunity to use company common areas (terrace, relax zone, library) for a chill time and meetings with colleagues
+• Volunteering and opportunity to participate in various CSR activities Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skills• good understanding of network protocols and principles: IP, TCP, UDP, HTTP, TLS, DNS, DHCP, ...
+• ability to capture and analyze network traffic: Wireshark, Tcpdump, Snort, Suricata, Zeek, ...
+• write scripts in Python
+• create basic SQL queries
+• basic Linux administration skills: install and configure SSH/HTTP/DHCP/VPN server, configure Iptables, log analysis, Bash, CRON, ...
+• ability to read and understand programs written in various types of languages: ASM, C, C++, JS, PHP, Ruby, Perl, ...
+• experience with reverse engineering and computer forensics is advantage: IDA, OllyDbg, WinDbg, ILSpy, Hiew, WinHex, Volatility, ...
+• team work, reliability, ability to come with new ideas, critical thinking, patience
+• good English
+• good presentation skills is plus Advertiser Brief description of the companyThe beginnings of ESET date back to 1987, when two young programming enthusiasts, Peter Paško and Miroslav Trnka, wrote a program for the detection of one of the world’s first computer viruses. They did not know that they had created one of the most successful antivirus programs in the world – dubbing it NOD. In 1992, together with their mutual friend Rudolf Hrubý, they formally established ESET.
+What started as the brainchild of a few friends has evolved into the most valuable international brand of any Slovak company. Today ESET’s NOD32 technology protects over 100 million users across the world.
+This success did not come overnight. The company’s global success and growth was given a boost in 1998 with its first “VB100” award from the prestigious Virus Bulletin magazine. Since then, we’ve received this accolade more than 100 times.
+Today, over 2,100 employees around the world drive the company’s success – a telling increase from 3 in 1987 and 135 in 2006. More than 1200 of them are based in Slovakia, the home of ESET headquarters.
+Throughout the company’s expansion, we have stayed true to the principles on which we were founded, and we remain independent in order to continue to meet new challenges. Number of employees1000 and more employees ContactContact person: Marika FiamínováE-mail: send CV
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4499255 
+     Dátum zverejnenia:  17.2.2023 
+    2023-02-17
+lokalita: Bratislava   Pozícia: IT Analyst, IT Security Specialist, Programmer, Python Programmer, Software Engineer   Spoločnosť: ESET, spol. s r.o.   
+Základná zložka mzdy (brutto): 2 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

@@ -1,0 +1,81 @@
+Jobs by email
+Leica Microsystems GmbH
+System Architect Computational Imaging (d/f/m)
+Wetzlar
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+ Leica Microsystems has helped shape the future of microscopy for over 170 years by developing groundbreaking optical and digital solutions. As a global leader, we’re driven by continuous improvement to excite our customers and to create the best work environment for our people. Customer focus, innovation, and teamwork are at the core of our culture and the foundation of our success.
+  Want to be part of a company whose products are part of cutting-edge research around the world? Join Leica Microsystems in our commitment for brilliant solutions and insight.
+  Leica Microsystems is proud to work alongside a community of nine fellow Danaher Life Sciences companies. Together, we’re pioneering the future of science and medicine, developing products that enable researchers in the fight to save lives.
+  System Architect Computational Imaging (d/f/m) 
+Your responsibilities:
+In this position, you will be responsible for driving our opto-digital transformation in optical microscopy systems and connecting optical and digital concepts. You will develop computational methods rooted in physical modeling of the imaging process, to shape the future of microscopic imaging and make advanced computational imaging methods accessible to life science researchers. This role is instrumental for advancing and transforming the core functionality of optical imaging in our microscopy systems for life science research. 
+Concept development and feasibility studies, including:
+Asking the right questions: Identifying digital solutions to imaging problems in life science research microscopy
+Generating knowledge: Modeling the physics of the image formation process and developing and implementing forward and backward methods to identify sample characteristics from the recorded image data
+Defining platforms: Devising future-proof platform architectures for computational imaging, in close interaction with the respective stakeholders
+Making it all work: Deriving appropriate numerical procedures and hardware requirements to optical and computational hardware, demonstrating proof-of-principle in hardware and software, and supporting the implementation of production code and system development
+  Development and management of in-house simulation tools, including:
+Modeling, simulation, and solution of optical and physical problems in optical microscopy
+Development and improvement of in-house simulation tools for technical and physical optics
+  Management of development projects, including:
+Technical project and platform management and interdisciplinary coordination of image data generation, data processing and respective instrument control
+  Patent search and filing of inventions, including:
+Monitoring of patent literature to ensure marketability and defendability of our computational imaging solutions
+Generation of defendable intellectual property in the field of computational imaging, in cooperation with the patent department   
+Your qualifications:
+ Degree (PhD preferred) in experimental or theoretical physics, mathematics or a similar discipline and multiple years of specific work experience in a relevant role
+Distinctive knowledge in mathematical methods for the description of physical relations, numerical optimization, and inverse methods.
+Experience in analytical algorithm development and numerical implementation
+Proficiency in scripting languages for fast prototyping (MATLAB, Python), ideally also in C++ and GPGPU programming (CUDA, OpenCL)
+Ideally knowledge in digital image processing, control systems and theory.
+Experience in technical project management, project and teamwork in interdisciplinary and intercultural teams, as well as technical direction of a team.
+Knowledge of methods for problem analysis and solution, solution-oriented work ethics
+Fluid knowledge of English and ideally German, social competences, communication skills, understanding of economic relations and dependencies 
+What we offer:
+Competitive salary and Bonus
+Attractive compensation package (pension, healthcare and many more benefits)
+Continuous training, support and focus on your personal development
+Work in a global environment with cross-cultural teams
+With us you get the chance to successfully contribute your own ideas  
+  Insight into our company:
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Leica Microsystems GmbH
+Ernst-Leitz Straße 17-37, 35578 Wetzlar, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Meal coupons
+Company mobile phone
+Company medical officer
+Coaching
+Company car
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

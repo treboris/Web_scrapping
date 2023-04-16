@@ -1,0 +1,50 @@
+Jobs by email
+MediaMarktSaturn Technology
+Cloud System Engineer (m/f/d)
+Stuttgart, Hamburg, Berlin, Düsseldorf, Leipzig, München, Köln, Frankfurt, Ingolstadt
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+About us
+For us "Let's Go!" is not just a slogan, it is an attitude. We love technology and we want to excite. We have fun and want to inspire. Our customers and our teams. That’s why we are looking for people who share this spirit. People who are passionate about creating the shopping experience of the future together with 50.000 colleagues across Europe.
+MediaMarktSaturn Technology is working to make Europe’s number-one consumer electronics retailer the technology leader in its industry. To this end, several hundred developers, UX designers and system architects using state-of-the-art technology work hand in hand with business owners in agile teams to develop customer-focused technology solutions for more than 6 million customers every day in 13 countries.
+Your tasks
+Being a member of the product team “Webshop Cloud Infrastructure” that develops, maintains and operates our high available online shops hosted on GCP and protected via Cloudflare
+Significantly influencing solution architecture in line with the enterprise architecture principles and coding principles 
+Ensuring efficient delivery of product backlog 
+Influencing the backlog with respect to technical debt and product quality 
+Preventing scrapers and scalpers from accessing our shops and ensuring that costumers have a smooth experience browsing our pages 
+Improving and automating existing processes and solutions using infrastructure as a code 
+Championing technology best practices and ensuring they are followed by respective competency team 
+Supporting product teams with your knowledge about cloud services, web security, and continuous integration pipelines 
+Active participation on technical community for the Cloud competency 
+Requirements
+Strong interest in how to run secure, highly scalable, multi-region hosted, and public facing websites
+Fundamental background knowledge of system architectures, network protocols, and operating systems is desirable
+Profound expertise in configuring & maintaining services on cloud platforms (e.g., GCP, Azure or AWS) via Infrastructure as a Code
+Familiar with common DevOps technologies (K8s, Terraform, GitHub, Nginx, GitOps, etc.)
+Skills in configuring a Web Application Firewall including rate limitations and bot detection rules would be a plus
+Good knowledge on programming languages (especially Node.js) as well as (No)SQL databases
+Experience in leading a team in an agile enterprise environment is a plus
+Fluent in English, German is a plus
+Benefits
+You want to be part of an innovative, dynamic environment in Consumer Electronics Retail? Join our agile teams! Thanks to our flexible workplace models, you have the opportunity to work in one of our locations in Ingolstadt / Munich and remotely. At the same time, we are building up our ""Regional Tech Offices"" in the metropolitan regions of Berlin, Düsseldorf, Frankfurt, Hamburg, Cologne, Leipzig and Stuttgart.
+International teams & versatile tasks
+30 days vacation & subsidized company pension plan
+Employees discount & Fitness Collaborations
+Training & Education
+Open corporate culture & Teamwork
+Mobile work
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

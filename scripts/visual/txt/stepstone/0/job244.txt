@@ -1,0 +1,78 @@
+Jobs by email
+Continental AG
+Functional Consultant eDRIVE365 (m/f/diverse)
+Hannover
+Permanent contract
+Full Time, Home office possible
+Published: 3 days ago
+Show salary
+No cover letter required
+Easy apply
+Save
+Company Description
+ContiTrade is the strategic retail arm of the Continental Tire business in Europe. It’s business purpose is to facilitate access to the respective markets & leverage Trade opportunities in Europe, the Middle East & Africa (EMEA). The scope of the ContiTrade business ranges from selling tires to complete fleet management via tires, tire services and vehicle services, through approximately 600 equity stores and 2,300 franchise and network partners. The business scope includes sales to end consumers, business and fleet customers, wholesale and as a service partner to Continental, as well as other major tire brands. This is done physically in branches and on the road, as well as through e-commerce platforms. 
+Job Description
+You are a technology enthusiast? You are ready for a challenging IT career with focus on functional design and development for business? You would like to drive solution in a modern, cloud-based environment? Then you've come to the right place.
+As part of the eDRIVE365 project, we are developing a new ERP, CRM, and POS system based on Microsoft Dynamics 365 for our trade organization in EMEA. The system will be implemented in around 2,000 branches and our headquarters, making eDRIVE365 the largest project in ContiTrade’s history so far. Thanks to the Microsoft Dynamics 365 cloud solution and its combination of various system modules, we will be able to offer more efficient processes and individualized, digital solutions to our customers. At the same time, we are laying the foundation for our future-oriented business models.
+As General Functional Consultant in the eDrive365 project you are responsible for the validation of the business requirements, as well as for the creation and documentation of a solution design considering the standards of the products used as far as possible. Moreover, you will implement and test the implemented solution that was developed and have a high focus on implementation technologies. Lastly, you will support handling tickets from end- and central users.
+Your tasks will include:
+Validation of the business requirements submitted by experts from business side
+Participation in business refinement workshops etc. to map business features it into IT concepts
+Work (based on demand) flexible in all functional eDRIVE domains: finance, supply chain, operations and marketing / sales
+Development of solution designs while maximizing the usage of MS Dynamics product standard
+Align concepts closely with all stakeholders: business architect, lead solution architect, technical architect erp, domain solution architects
+Implementation, testing and documentation of designed solutions ensuring the application meets agreed quality standards
+Have a high focus on implementation & coding technology based on Microsoft products and support / train other functional consultants in that area
+Run code reviews etc. to ensure implementation quality                                 
+Supporting the roll-out of our solution and the training of end users
+Takeover other go-live preparation tasks
+Transfer the eDRIVE solution into regular operation and support in handover to operations team
+Handle end-user tickets to ensure proper functionality of the system.
+Support in trainings also after go-live 
+Collaborate closely with business experts in the eDRIVE team
+Communicate also efficiently with other project team members internally and externally
+Align closely with central stakeholders and in local country headquarters to understand the requirements and to communicate the solution            
+Qualifications
+Academic degree in computer science, business informatics or comparable qualification
+Working experience in IT and the development of ERP systems, especially in MS Dynamics 365 in combination with process knowledge
+Experience in collaboration with external partners
+Programming skills (X++, C# or other .NET Framework languages desirable) and know-how in Microsoft Dynamics 365: Finance & Operations, CE, POS (Commerce Scale Unit).
+Experience in the development of solutions based on the MS power platform
+Certification for Microsoft Dynamics 365 in the functional areas desirable.
+Business fluent English language skills (written and spoken), German and French language skills desirable.
+High motivation to design the future processes
+Applications from severely handicapped people are welcome. 
+Additional Information
+We want our employees to do well with us. That's why we offer them not only an exciting job in an international technology group, but also numerous additional offers:
+The opportunity to work with an international and diverse team in a future-oriented environment
+Varied and challenging tasks in a fast-paced project atmosphere
+A wide range of training and development opportunities
+A modern and flexible work schedule including the possibility for mobile work
+Well-equipped and modern office space in our project location in Hanover
+Flat hierarchies, direct communication, and approachability
+Find out more
+  Network with our recruiter Torben Schilke
+Ready to drive with Continental? Take the first step and fill in the online application.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Continental AG
+Büttnerstraße, Hannover, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

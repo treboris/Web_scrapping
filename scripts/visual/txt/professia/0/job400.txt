@@ -1,0 +1,43 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceReact Developer Medior/Senior 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+React Developer Medior/SeniorInformation about the positionPlace of work: Remote workWage (gross): From 3 500 EUR/monthfinal monthly basic salary is based on candidate´s professional experience, skills and knowledge *Start date: By agreementContract type: full-timeJob description, responsibilities and duties- The role of the Frontend developer is to design and develop application while using the latest technologies like React, Typescript, ES6, GraphQL 
+- You are encouraged to participate in the solution design, and lead the development and implementation phases
+- To ensure systematical processes improvement, we apply continuous improvement, test automation and test driven development
+- A part of your role will undoubtedly include problem fixing, debugging, writing unit test and code reviews
+- Work in collaboration with the agile team and leading a small team of FrontEnd developers
+- Evaluate the functional requirements and provide efforts estimates
+- Provide technical competence and advice to business analysts and another colleague Company on whose behalf the position is being filledInformation technology, computer programming, web portalsInternational stable company Requirements for the employee Required educationSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)Other knowledgeJavaScript - AdvancedReactJS - AdvancedTypeScript - AdvancedRequired experience3Personality requirements and skills- English - Upper intermediate
+- JavaScript - advanced
+- React - advanced
+- GraphQL  intermediate
+- testing frameworks - advanced
+- HTML - advanced
+- CSS - advanced 
+- 3years of experience
+- Cooperative and open-minded frontend developer, passionate about his work and positive about ES6, React, 
+- Welcomed Experienced with CI/CD pipeline such as; docker, OpenShift, GitLab...
+- Familiar with cloud computing (AWS and similar)
+- Ability to understand the requirements and be able to build & document solution designs Advertiser Brief description of the companyPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)The company is a holder of a licence to offer recruitment services.  (AA/2009/4810/4232/OISS) Main focus of the company's activitiesEmployment placement and personal consultancy Number of employees10-19 employees Information about the selection process* We are required by law to disclose basic wage component (minimum salary) for the advertised positions. Your actual final salary is based on your professional competencies, skills, qualifications and experience matching the position.
+If you are interested in our offer, send your CV in Slovak or English to [email protected] Please, specify the position of your interest in the subject of message.ContactContact person: Ing.  Anna TkáčováTel.: +421911247080E-mail: send CV
+ID: 4458146 
+     Dátum zverejnenia:  10.2.2023 
+    2023-02-10
+lokalita: Remote work   Pozícia: DevOps Engineer, IT Tester, Javascript Programmer, PHP Programmer, Programmer   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 3 500 EUR/month
+                Všetky ponuky

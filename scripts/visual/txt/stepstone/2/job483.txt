@@ -1,0 +1,62 @@
+Jobs by email
+Hexagon Geosystems Services AG
+Site Reliability / Cloud Engineer (f/m/d)
+Zürich
+Permanent contract
+Full Time, Home office possible
+Published: 5 days ago
+I'm interested
+Save
+About Us
+Hexagon is a leading provider of digital reality solutions and employs more than 24,000 people in 50 countries.  You will be part of a strong, experienced, inspiring and motivated team of experts driving the future of Hexagon. You will use and develop your skills in our highly innovative and diverse environment. 
+Flexible working models allow you to ideally combine work and private interests.
+Committed and with passion for precision we create digital reality solutions combining sensor, software, and autonomous technologies to empower a sustainable future.
+As a Site Reliability / Cloud Engineer, you will help harden solutions for divisions going through a technological as well as organisational transformation. Working in a small group, you’ll guide our development groups through creating and automating their cloud infrastructure, along with providing solutions centrally, which the R&D teams can benefit from. We are a multi- cloud company (AWS, Azure & GCP), meaning that you will get to apply a diverse mix of tools and services. You will implement best practices and help teams across multiple divisions to build upon the solutions that you have developed with other groups. As we are globally distributed, you will be required to travel as part of the job on occasion.
+Sounds good? Join our team and make your vision come true!
+This is you
+Professional experience with Site Reliability Engineering
+Proven track-record working with Kubernetes and Kubernetes Operators
+Containerisation across different platforms, operating systems and CPU types
+Best practices and patterns in software development
+Cloud Native tools and their applicability across different Cloud providers
+Language(s): English written and spoken / other languages eg Polish, German nice to have
+A peak to our tech-stack
+AWS, Azure, GCP & Tencent Cloud
+Kubernetes
+Serverless (Lamda functions)
+ArgoCD - GitOps
+Terraform & Crossplane
+This appeals to you
+End-to-end engagement, from inception to production and continuously improving high-availability services in the cloud
+Delivering high-quality solutions and deployment strategies, focusing on reliability, automation, maintainability and security
+Run production system alongside other engineering teams, focusing on devising automatic metrics and logs collection, self-healing capabilities and other technical solutions
+In order to improve security and resilience of the infrastructure and avoiding incidents and problems from reoccurring
+Basic understanding on the below
+Feature flags, Blue/Green, Canary and Ring release strategies and tools
+Cloud Native tools and their applicability across different Cloud providers
+Observability and how it is used to manage MTTR
+Cloud provider offerings
+CI/CD both the principles and the experience of setting up a pipeline
+Managing Hybrid and Multi-Cloud environments
+Kontakt
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+Hexagon Geosystems Services AG
+Räffelstrasse 28, 8045 Zürich, Schweiz
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Coaching
+The benefits listed are applicable to the company and can differ depending on the position or department.

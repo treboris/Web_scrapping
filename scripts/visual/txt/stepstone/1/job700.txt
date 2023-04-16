@@ -1,0 +1,79 @@
+Jobs by email
+Joh. Berenberg, Gossler & Co. KG
+Teamlead* Platform Engineering Team
+Hamburg
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Show salary
+Save
+For our Hamburg office, we are looking for a
+Teamlead* Platform Engineering Team
+Role Summary:
+Strategic development of our build and deployment tools as well as source code and artefact management
+Steady improvement of the existing platform and relevant processes
+Exchange with development teams about requirements, trends and projects
+Driver for our software development by delivering best possible tool stack and well-integrated solutions
+Development of team members, skills etc.
+Supervision of a team of technical experts and decision-making related to everyday work to help to remove blockers, etc.
+Key applications/tools in use:
+Bamboo
+Git
+SVN
+Artifactory
+Xray
+SonarQube
+Jenkins
+TFS
+Azure DevOps
+Key Qualifications/Requirements:
+Knowledge:
+Expert level knowledge of Bamboo, Artifactory, Git and Docker
+Experience with GitHub, VM Technology and automation via Ansible
+Working knowledge of Kubernetes, network technology and databases
+DevOps, GitOps
+Infrastructure as Code (IaC)
+IT security standards and documentation
+Negotiation and moderation skills
+Agile methodologies
+Programming languages:
+Bash, Shell
+Python
+Ansible
+Batch
+SQL
+PowerShell
+Languages:
+German and English (min. B2)
+Mindset:
+Structured and self-organized working style
+Our offer:
+Wide spectrum of tasks in a dynamic working environment
+Opportunity to expand the knowledge on banking products and practice as well as the shipping industry
+Inspirational and motivated team that shares knowledge and enables everyone to grow and get prepared for your next career steps
+Short decision-making processes
+Internal mentoring
+Have we sparked your interest?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Joh. Berenberg, Gossler & Co. KG
+Neuer Jungfernstieg 20, 20354 Hamburg, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

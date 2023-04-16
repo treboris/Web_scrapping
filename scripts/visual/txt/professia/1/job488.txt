@@ -1,0 +1,108 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práce.NET Developer  / junior  Можливість для людей з України
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky.NET Developer  / juniorMicroStep - HDO s.r.o.
+Miesto práce
+Vajnorská 158, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+ASAP, resp. dohodou
+Mzdové podmienky (brutto)
+Od 1 600 EUR/mesiacod 1,600Eur - plat bude upresnený na pracovnom pohovore podľa seniority
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiChceš zmeniť svet a pomôcť budovať ekologickejšiu a efektívnejšiu energetiku? Si na správnom mieste.   
+Naša firma poskytuje riešenia v oblasti informačných systémov v energetike.   
+Sme mladý dynamický kolektív pracujúci v malých tímoch podľa metodiky SCRUM.   
+Venujeme sa primárne implementácii aplikačnej vrstvy systémov. Pri svojej práci sa u nás stretneš aj s technológiami ako sú Elasticsearch, Service Fabric. Dáta uchovávame v PostgreSQL  v Oracle, a iných DB.  Naši zákazníci disponujú veľkým množstvom dát a mi im pomáhame ťažiť z nich maximum a tak sa u nás môžeš dotknúť umelej inteligencie vo forme Machine Learning-ových algoritmov a In-Memory Computing-u.  
+Tvojou úlohou bude postupne implementovanie aplikačnej vrstvy modulov našich aplikácií, tvorba REST web služieb (Microsoft ASP.NET Web API), integračných nástrojov, analytického enginu pre časové rady, distribuované výpočty a pod.
+Ak tieto nástroje nepoznáš nemusíš sa báť, u nás ťa ich naučíme používať. Radi sa učíme nové veci a dúfame že ty tiež. Zamestnanecké výhody, benefityZaujímavá práca na významných projektoch pre veľkých zákazníkov v oblasti energetiky 
+Zázemie stabilnej spoločnosti
+Odborné vzdelávanie, osobný a profesionálny rozvoj 
+Motivujúce odmeny
+Pohyblivá pracovná doba
+Výborný tím po odbornej i ľudskej stránke
+Silný sociálny program (šport, kultúra a pod.)
+Výučba anglického jazyka Informácie o výberovom konaníSvoje štruktúrované životopisy spolu s motivačným listom  (resp. najlepší motivačný list je zoznam Vašich projektov, ktoré ste riešili alebo na ktorých ste sa podieľali..) zasielajte e-mailom na adresu: [email protected] Názov pracovnej pozície uveďte v predmete e-mailovej žiadosti. 
+Zároveň Vás žiadame o zaslanie súhlasu so spracovaním Vašich osobných údajov uvedených v životopise a motivačnom liste za účelom spracovania pre potreby výberu na inzerovanú pracovnú pozíciu v zmysle Zákona č. 122/2013 Z.z. o ochrane osobných údajov. Osobné údaje kandidátov, ktorí neuspeli vo výberovom konaní, budú po ukončení výberového konania zlikvidované v zmysle uvedeného zákona.
+Ďakujeme všetkým záujemcom o inzerovanú pracovnú pozíciu, kontaktovať budeme iba vybratých uchádzačov. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiC# - Základy.NET - ZákladyPozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnostiZnalosť Angular - výhodou
+Znalosť SCRUM - výhodou
+Samostatné analytické myslenie a schopnosť pracovať v tíme Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme stabilnou a neustále sa rozvíjajúcou spoločnosťou, ktorá sa od roku 1993 venuje energetike a priemyselnej automatizácii. Počas takmer troch dekád pôsobenia na trhu sme získali desiatky spokojných zákazníkov. 
+V súčasnosti sa sústredíme predovšetkým na vývoj softvérových riešení  a informačných technológií pre obchodníkov a distribútorov s elektrickou energiou, plynom a inými komoditami. 
+Naše aplikácie a technológie využívajú všetky slovenské aj české distribučné spoločnosti. 
+Staňte sa súčasťou našej spoločnosti aj vy. Pridajte sa k viac ako 70 spokojným zamestnancom. Starajte sa spolu s nami o pohodlie a spokojnosť našich zákazníkov. 
+Dôvody, prečo sa pridať k nám: 
+Žiadna nuda: Práca na významných projektoch pre veľkých zákazníkov v oblasti energetiky je každodennou výzvou 
+Vždy sme tu pre vás: Získate zázemie stabilnej spoločnosti a zohratý tím 
+Osobný a profesijný rozvoj: Vďaka pravidelnému odbornému vzdelávaniu 
+Nočná sova aj ranné vtáča: Pohyblivá pracovná doba vám poskytuje flexibilitu 
+Ešte sme neskončili... 
+Okrem toho sa môžete tešiť na zaujímavý sociálny program, ktorého súčasťou sú športové (Multisport karta) či kultúrne podujatia. 
+Cítite, že vaša angličtina by mohla byť ešte lepšia? Ďalší dôvod pridať sa k nám. Naši zamestnanci môžu využiť výučbu anglického jazyka priamo v priestoroch spoločnosti. 
+Viac o tom, čo robíme, sa môžeš dozvedieť tu: https://www.microstep-hdo.sk/#co-robime Počet zamestnancov50-99 zamestnancov 
+ID: 4141331 
+     Dátum zverejnenia:  7.3.2023 
+    2023-03-07
+lokalita: Bratislava   Pozícia: .NET programátor, Backend programátor, C# programátor, Frontend programátor, Programátor   Spoločnosť: MicroStep - HDO s.r.o.   
+Základná zložka mzdy (brutto): 1 600 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

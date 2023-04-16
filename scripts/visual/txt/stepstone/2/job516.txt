@@ -1,0 +1,60 @@
+Jobs by email
+PayPal Deutschland GmbH
+Partner Integration Engineer
+Dublin, County Dublin, Ireland; Dreilinden-Berlin, Brandenburg, Germany
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+Introduction:
+Who We Are:
+PayPal has remained at the forefront of the digital payment revolution for more than 20 years. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, the PayPal platform is empowering more than 400 million consumers and merchants in more than 200 markets to join and thrive in the global economy. For more information, visit paypal.com.
+At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives.
+Job Description Summary:
+The Integration Engineer is a key member of the integration team who provides guidance, consultation, and best practices during the integration phases of any project. We are seeking a dynamic individual with fast innovative thinking skills, exceptional technical skills, and a solid business acumen. As the Integration Engineer, we will look for you to use your technology and business intelligence to help merge the multitude of APIs and experiences to create solutions our consumers, partners and merchants will love. The role requires internal cross team participation with key internal stakeholder teams such as Product, Engineering, Risk, Compliance, Identity, etc. to address specific integration requirements or new product features.
+Job Description:
+PayPal is doing so many great things to help shape the future of money. Our partnership with Global Strategic Partners and Large Enterprise Merchants is paving the way to introduce innovative, fintech offerings on Commerce platforms and enabling seamless experiences for mobile, online, and in-store.
+The PayPal Integration team is responsible for providing technical consulting and integration services for the implementation of PayPal’s payment, identity and platform capabilities, as well as representing the wider product set available to major global partners and merchants.
+The Integration Engineer is a key member of the integration team who provides guidance, consultation, and best practices during the integration phases of any project. We are seeking a dynamic individual with fast innovative thinking skills, exceptional technical skills, and a solid business acumen.
+As the Integration Engineer, we will look for you to use your technology and business intelligence to help merge the multitude of APIs and experiences to create solutions our consumers and merchants will love. The role requires internal cross team participation with key internal stakeholder teams such as Product, Engineering, Risk, Compliance, Identity, etc. to address specific integration requirements or new product features. Travel requirements are minimal.
+Job Duties
+Interacts directly with our clients, merchants, partners and developers to recognize and articulate business requirements and how best to implement our PayPal solutions, while adhering to PayPal guidelines and company policies.
+Act as main technical point of contact for all implementation-related activities throughout the integration effort. Facilitate setting up test accounts, provide technical development and coding support, and guide the client through testing and pre-launch activities.
+Be the “Voice of the Customer” and relay constructive feedback to Product Managers, Engineering, Technology and other internal groups on ease of use and new functionality. Work with internal teams on any required feature enhancements or to address any solution gaps.
+Work in partnership with Solution Engineers and Solution Architects to integrate proposed PayPal solutions into the client commerce platforms.
+Works with key internal stakeholders, including Product Management, Risk, Payments, etc. to address specific customer business requirements or new product features.
+Work closely with internal teams including compliance, privacy, risk, information security, support and operations to ensure all aspects of a partner or merchant launch are managed
+Identify and define integration specific best practices
+Ensure partners implement optimal integration strategies, techniques and user experience best practices
+Position Requirements
+Solid experience/exposure in the following areas:
+Web and mobile technologies including Web Services, APIs, REST, HTML/HTTP, iOS, Android and leading web and mobile application frameworks.
+Multiple major programming languages (C++, Objective-C, C#, Java, JavaScript, Ruby, Perl, .NET, PHP, Python).
+Exceptional communication skills, in English, both written and verbal.
+Ability to successfully interact and dynamically adapt to communication styles with all levels of client organizations including C-level executives, middle management, finance and operations, technical/IT staff, and line personnel.
+Ability to translate requirements into detailed design and solution documents.
+Ability to quickly assess and troubleshoot most integration issues
+Effective time management skills to work with multiple external customers concurrently.
+Self –learner for most of the topics on new products with proficiently designed solutions and deliver integrations with both off the shelf and customized products.
+Strong presentation skills (Presenting to Business units and Technical teams)
+Less than 10% domestic travel. International travel is not expected
+Preferred Experience
+Proven experience with Payments (Credit Card, Banking, Online, Offline). Comprehensive knowledge is highly valued in commerce systems, payments gateways and payment processors.
+Broad knowledge of technical concepts and payment processing as it relates to company products and integration.
+Our Benefits:
+At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset—you. That’s why we offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you.
+We have great benefits including a flexible work environment, employee shares options, health and life insurance and more.
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.
+As part of PayPal’s commitment to employees’ health and safety, we have established in-office Covid-19 protocols and requirements, based on expert guidance. Depending on location, this might include a Covid-19 vaccination requirement for any employee whose role requires them to work onsite. Employees may request reasonable accommodation based on a medical condition or religious belief that prevents them from being vaccinated.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

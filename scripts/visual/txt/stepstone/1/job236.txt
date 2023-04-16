@@ -1,0 +1,78 @@
+Jobs by email
+BSH Hausgeräte Gruppe
+PKI Security Engineer (m/w/d)
+München
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 6 days ago
+Show salary
+Easy apply
+Save
+Tomorrow is our home.
+See how easy it is to explore new ideas at BSH Home Appliances Group: As a leading manufacturer of home appliances, we improve people’s quality of life by thinking in solutions. With our global brands Bosch, Siemens, Gaggenau and Neff as well as our local brands, we explore innovative technologies from voice recognition to artificial intelligence. As we utilize these to create new user experiences, we think, prototype, build – and keep on learning. Join us now and give your career a home.
+PKI Security Engineer (m/f/d)
+BSH Hausgeräte GmbH | Full time / Part time |
+Munich
+Your responsibilities
+Are you looking for a real challenge? Do you have an unleashed curiosity to learn new things? Are you a fast learner and conscientious at the same time? Do you like to challenge the status quo and to work within an ambitious agile team? Are you ready for the following critical responsibilities: 
+Planning and execution of key ceremonies 
+Building, configuring, implementing and improving hardware and software for key and certificate management 
+Operation of the BSH public key infrastructure including status monitoring, incident response and follow up (e.g. root cause analysis)
+Automation of recurring tasks and continuous improvement of workflows through scripting
+Deployment and hardening of cloud and on-premises systems 
+Your profile
+Degree in Computer Science, Engineering, Cyber Security or equivalent with several years of professional experience 
+3+ years of experience in dealing with public key infrastructures, incl. min. 1 year of hands-on experience with HSMs (e.g. Kryptus, Thales ...)
+Cryptographic know-how and experience with certificate management and HSM configuration
+Proficient in at least one scripting / programming language (e.g. Python, Bash)
+Hands-on experience with Linux and Cloud technologies / deployments (e.g. Docker, AWS)
+Your benefits
+Remuneration according to the collective agreement of IG Metall (30 days vacation, additional payments)
+Flexible working time models that adapt to current life situations (e.g. mobile working, part-time, job sharing, sabbatical)
+Promotion of professional and personal development at BSH’s internal Global Learning Campus
+Attractive company pension plan financed by the employer
+Further information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+BSH Hausgeräte Gruppe
+Carl-Wery-Str. 34, 81739 München, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Meal coupons
+Childcare
+Company medical officer
+Coaching
+Home office
+Study allowance
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.
+Certificates

@@ -1,0 +1,81 @@
+Jobs by email
+Continental AG
+Senior Software Integrator (m/w/d) REF12925L
+Regensburg
+Permanent contract
+Full Time
+Published: 37 minutes ago
+Show salary
+No cover letter required
+Easy apply
+Save
+Company Description
+Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods. Founded in 1871, the technology company offers safe, efficient, intelligent and affordable solutions for vehicles, machines, traffic and transportation. In 2021, Continental generated sales of €33.8 billion and currently employs more than 190,000 people in 58 countries and markets. On October 8, 2021, the company celebrated its 150th anniversary.
+The Automotive group sector comprises technologies for passive safety, brake, chassis, motion and motion control systems. Innovative solutions for assisted and automated driving, display and operating technologies, as well as audio and camera solutions for the vehicle interior, are also part of the portfolio, as is intelligent information and communication technology for the mobility services of fleet operators and commercial vehicle manufacturers. Comprehensive activities relating to connectivity technologies, vehicle electronics and high-performance computers round off the range of products and services.
+Job Description
+The Senior Integration Engineer (m/f/diverse) is responsible for the integration of the SW modules and the related integration tests (specification and conduct).  They also design, develop, troubleshoot and debug software programs for enhancements and new products. This position is also responsible for determining hardware compatibility and/or influences on hardware designs under their product range.
+The SW Integrator (m/f/d) takes care of the integration of the SW components and the related integration tests (specification and conduct). This also includes the build process according to the integration approach as defined in the SW Test Plan and the SW Integration Test Specification.
+Specification of the integration approach (steps and content) for all SW components (internal and 3rd party)
+Working with the SW Architect (m/f/d), SW Designer (m/f/d) and SW Developer (m/f/d) as well as the SW Test-engineer (m/f/d) to create the integration test specification
+Conducting the SW integration steps, aligning with the testers and performing the integration tests
+Investigating failures and issues using debugger, Oscilloscope, and other tools to identify the origin of the problem and inform the respective department or developer regarding the problem by issuing the ticket
+Integrating the CAN-matrix and ensuring the running capability on the Autosar / RTE (Run Time Environment)
+Integrating and verifying the flashability and basic running capability of the total SW
+Performing initial integration to the (available) hardware (flashing, initial commissioning) with results documentation
+Measuring and communicating resource consumption after integration, e.g., RAM/ROM/NVM/CPU load on Microcontroller
+Collecting and updating the data for the SW KPIs
+Documenting the integration scopes and tasks regarding configuration management, version and variant management
+Storing the SW in the configuration management system for release
+Contributing to define the review status for object reviews this role participates 
+Supporting in the planning of the SW integration
+Qualifications
+Academic degree in electrical engineering, computer science or a comparable qualification (software emphasis)
+Professional experience in software development and architecture is mandatory
+Technical lead of a software development team within the scope of software integration
+Very good knowledge in software architectures (esp. AUTOSAR, MCAL, MICROSAR Safe OS)
+Knowledge in embedded software development with multicore application (Lockmechanism, multicore operating system, synchronisation and data consistency) as well as with multicontroller system (inter processor communication)
+Knowledge in software development processes (V-Model, ASPICE)
+Knowledge in agile software development (SCRUM, KANBAN, SAFe)
+Knowledge in software requirement & configuration management as well as in respective tools (DOORS JAZZ, Git/GitHub)
+Knowledge in functional safety (ISO 26262) up to ASIL D
+Knowledge in cyber security (ISO 21434)
+Knowledge in integration strategies (continuous integration / continuous testing) & technologies
+Knowledge about Automotive BUSes (CAN, LIN, FlexRay) and related tools used for integration and integration testing (CANoe, CANalyzer)
+Experience in working in a worldwide decentralized RnD organisation
+Business fluent German and English language skills (written and spoken)
+Team player (m/f/d) with intercultural social skills
+Passion for software and personal commitment
+Applications from severely handicapped people are welcome.
+Additional Information
+Next to the interesting daily work the region around Regensburg is offering a high recreational value and quality of life
+Extensive benefits at the location such as different canteens and cafeterias, a continuing education and training, health management, etc.
+We are promoting lifelong Learning combined with personal and professional development
+For an improved work-life balance we support you with various initiatives for a better compatibility of family and career
+Furthermore, you will have the option of a flexible work schedule model
+Diverse topics and projects as well as insights into the Automotive industry
+You are looking for an individual working time model? We support part-time work.
+You would like to learn more about our additional services? Click here.
+  Ready to drive with Continental? Take the first step and fill in the online application.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Continental AG
+Siemensstraße 12, 93055 Regensburg, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

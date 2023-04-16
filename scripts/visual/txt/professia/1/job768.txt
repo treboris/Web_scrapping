@@ -1,0 +1,113 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceGolang Kubernetes Platform Engineer (100% remote, all seniorities) 
+    Reagujte bez životopisu
+ Можливість для людей з України
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyGolang Kubernetes Platform Engineer (100% remote, all seniorities)Berops s.r.o.
+Place of work
+Remote work
+Contract type
+full-time, part-time, trade licence
+Start date
+at your earliest convenience
+Wage (gross)
+3 000 - 6 000 EUR/month
+Information about the position Job description, responsibilities and dutiesOur mission is to assist businesses in running their IT Operations and to get the most value out of the cloud infrastructures. We’re a DevOps house working on solutions to ease the life of our current and future clients.
+We're building a PaaS cloud-agnostic solution to compete with AWS Outpost, Google Anthos and the like (www.github.com/berops/claudie).
+We’re looking for software engineers of all seniorities to help us with any (or more) of the following general areas:
+- Kubernetes-centric PaaS platform engineering
+- Open-source project development and maintenance
+You will drive the development of a Kubernetes cluster-orchestration platform, writing controllers and operators in the form of microservices. You'll carry the responsibility for the solution architecture and design of individual modules and their communication, reflecting the business requirements in various stages of the solution life-cycle. On top of that you will be having a direct influence on the software engineering culture. Most of the work will be done on open-source repositories.
+Alongside with this you will define contribution guidelines, write and evolve the code, and process the community feedback including issues and pull requests. The team is small (2 other colleagues work on this project), but we work in the lean manner with minimal overhead and focus on the productivity, with work/life balance in mind. Employee perks, benefits- culture of work-life balance
+- quality over quantity
+- data-driven decisions
+- remote-friendly & multinational
+- comfortable & friendly work environment favoring open and honest communication
+- having fun while working on projects with the state-of-the-art stack
+- company-covered attendance on conferences and workshops
+- we all love Kubernetes, cloud-native, and the work we do
+- this position is 100% remote and post-covid will stay remote
+- see our team culture at www.github.com/berops/culture Information about the selection processAt Berops we do not just accept difference – we seek it out and we intend to make the most of it for the benefit of our employees and clients. Advise us about your special requirements, please.
+For more information please visit www.berops.com Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Educational Specializationcomputer science, mathematics, physics, or other sciencesLanguage skillsEnglish - Upper intermediate (B2)The position is suitable for a fresh graduateYesPersonality requirements and skills- Bachelor’s or Master’s degree in Computer Science or related field, or equivalent experience
+- profound knowledge of at least one programming or scripting language (primarily Golang, alternatively also NodeJS, Rust, Python, Java, C-family, …)
+- basic knowledge of distributed software architectures
+- basic knowledge of API management, gRPC, REST
+- basic knowledge of messaging, streaming PUB/SUB design patterns
+- basic knowledge of asynchronous and event-driven programming design patterns
+- basics of stateless and stateful workloads
+- basic Git code management skills
+- strong attitude to learn and explore
+- good written and spoken English
+And on top of that, an ideal candidate has:
+- exposure to a cloud-native/AWS/CNCF/GCP stack
+- positive attitude to open-source contribution
+- attitude to work efficiently and in a lean fashion
+- willingness to experiment and run proofs-of-concept
+If you don't meet all the of the above criteria, but you think you'll add a value, just get in touch with us nevertheless. Advertiser Brief description of the companyWe are an IT Ops company building K8s-based PaaS platforms with lean management style. A company you want to work at. Read more at www.github.com/berops/culture. Number of employees5-9 employees 
+ID: 4115088 
+     Dátum zverejnenia:  24.2.2023 
+    2023-02-24
+lokalita: Remote work   Pozícia: Backend developer, Software Engineer   Spoločnosť: Berops s.r.o.   
+Základná zložka mzdy (brutto): 3 000 EUR/month
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,87 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Budapest
+Következő 
+Senior backend developer
+Bónusz
+Tech People Hungary Kft.
+Budapest, XI. kerület
+ Elvárt technológiák
+BACKEND
+PYTHON
+JAVA
+AWS
+CLOUD
+LINUX
+ANSIBLE
+DOCKER
+SECURITY
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+ Elvárt technológiák
+BACKEND
+PYTHON
+JAVA
+AWS
+CLOUD
+LINUX
+ANSIBLE
+DOCKER
+SECURITY
+Tech People is a European povider of technical skills permanent recruitment and temporary contracting services for multiple industries.
+Currently we are looking for
+SENIOR BACKEND DEVELOPER - PYTHON (JT)
+Location: Budapest XI. district, home office possible
+Salary: competitive
+Type of employment: employee, full time
+Requirements:
+8+ years of relevant experienceExtensive experience with an advanced programming language (for example, Python, Java,…), including the mastery of behind-the-scene operations of the languageExperience with RESTful webservicesExperience in AWS Cloud solutionBusiness proficiency in EnglishThe candidate needs to be currently eligible to work in Hungary
+Nice to have:
+Experience with LinuxKnowledge of Vagrant, VirtualBox, NewRelic, FluentdKnowledge of Ansible, Docker, DockerHubKnowledge of Kafka, Redis
+Responsibilities:
+Experience in all phases of SDLC of development and designResponsible of the technical analysis, technical design and architecture, and coding of the software solutions, in collaboration with other tech leads and your own team of developers and in collaboration with the business & customers. This includes reviewing existing components and codes, analyzing changes, advising on architectural improvements, making effort estimations, advising on the business & functional scope, proposing alternatives to the business and functional scope.You proactively identify and propose common components for a "foundation" of reusable components (see below), and you ensure technical homogeneity across the different components and apps (for easier maintenance & support of all of them in the future).
+Scope of applications, some examples:
+Orchestration and interfacing, including all object conversions, between a mathematical kernel and electrical vehicle charging stations, including the scheduling of processing tasks, monitoring, error handling, communication with other web services, communication with embedded devicesIndustrial IoT data collection system, with monitoring, alerting and dashboarding features.Industrialization end-to-end of an existing prototype, including a mathematical kernel and in collaboration with a math colleague, e.g., the estimation of the mechanical stress of a boiler based on historical data.
+You will have the opportunity to:
+Be part of a real multinational team and environment (90+ nationalities)Develop your career path and grow domain wise (vertical and horizontal opportunities for growth and rotation among different units)Learn and develop soft and hard skills (1000+ internal training)What our client offers:Attractive salary & benefitsPleasant work atmosphere: open office environment, relax rooms, cafeterias, kitchens and terracesJob security: client guarantees the job to all employees during pandemic Free gym facilities
+Sector(s):
+IT Development
+Programmer, Developer
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahelyi extrák
+Sportolási lehetőség
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

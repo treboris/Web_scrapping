@@ -1,0 +1,73 @@
+Jobs by email
+Continental AG
+Web Application Cyber Security Engineer (m/f/diverse) (70% part-time)
+Hannover
+Permanent contract
+Part time, Home office possible
+Published: 1 week ago
+No cover letter required
+Easy apply
+Save
+Company Description
+Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods. Founded in 1871, the technology company offers safe, efficient, intelligent and affordable solutions for vehicles, machines, traffic and transportation. In 2021, Continental generated sales of €33.8 billion and currently employs more than 190,000 people in 58 countries and markets. On October 8, 2021, the company celebrated its 150th anniversary.
+Job Description
+Continental’s digital capabilities are growing every day. Our eCommerce, Fleet Solutions and Data Science Information Technology team creates a wide range of technology solutions for Continental’s Global Sales and Marketing teams – and we want you to join us!
+Our team continuously works on the digitalization of our business-to-business processes and end consumer communication, using leading web technologies and a strong focus on data science and artificial intelligence. We run Continental’s global customer relationship management platform, which supports our Sales colleagues in their daily interaction with customers. 
+The Fleet Solutions part of our team builds global tech platforms using the Internet of Things, big data and automated service management. We constantly strive to improve the user experience for our fleet customers and Continental’s fleet organization.
+If you’d love to join a global team that works on the latest technologies and creates value-added solutions for customers, Continental is the perfect match for you.
+In this exciting job you work on the following tasks:
+Ensuring that every step of the software development lifecycle (SDLC) of our core applications follows security best practices
+Driving our organization and teams to adhere to secure coding principles. Working together with our architects and infrastructure teams to ensure proper monitoring and security measures are in place
+Aiding in testing the application against security risks/parameters before release
+Coordinating and offering security training for all internal development teams
+Performing internal PenTesting and audits of Web and Mobile Applications
+Get to know some of your new colleagues in Hanover already today on our website.
+ Qualifications
+Academic degree in computer science, another technical field or an equivalent qualification
+Several years of work experience and strong interest to become a champion in Cyber Security specialist for Web Applications
+Thorough knowledge of building or reviewing threat models, conducting security assessments and penetration testing
+Programming experience in Java or C#, Understanding of DevOps and continuous integration
+Great interpersonal skills and interest to our drive our organization and our teams to adhere to secure coding principles
+Analytical skills and conceptional qualification
+Professional working proficiency in English, German is beneficial
+Open to travel up to 15 % , incl. business trips abroad
+Applications from severely handicapped people are welcome.
+Additional Information
+The job in numbers: You are going to work 26 hours a week in a team of 10 people. We offer 30 days of vacation per year.
+Being part of a global IT team of thousands of colleagues working on various innovations and tasks, there is always an opportunity to grow and move into different directions within our corporation.
+On top of that you can expect the following benefits:
+Individual development planning based on your personal needs and targets (e. g. mentoring, trainings or global internal Software Academy)
+Work from home up to 3 days a week (unless workshops etc. require physical presence)
+Option to work from other EU countries up to 40 days per year
+Agile and collaborative workstyle
+Opportunity to make a difference
+Employee discounts
+An international team across 4 locations in a globally active organization
+Company and tariff pension plan
+Health insurance
+Assistance with child-care
+Parent-child office
+Relocation package offered if needed
+Canteen on-site
+Gym on-site
+On-site physicians
+Sabbatical option
+If this sounds like a perfect match for you and if you want to become the next supporter of our core values Trust For One Another, Passion to Win and Freedom to Act, we are looking forward receiving your application.
+  Ready to drive with Continental? Take the first step and fill in the online application.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Continental AG
+Büttnerstraße 25, 30165 Hannover, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

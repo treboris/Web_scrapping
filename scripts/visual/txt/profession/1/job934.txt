@@ -1,0 +1,72 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Következő 
+Senior Data Engineer - Kontraktor (JK)
+Tech People Hungary Kft.
+Budapest, XI kerület
+ Elvárt technológiák
+HARDWARE
+TESTING
+MICROSOFT OFFICE
+POWERPOINT
+ Módszertanok és szoftverek
+Testing
+Microsoft office
+Excel
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Középiskola
+ Elvárt technológiák
+HARDWARE
+TESTING
+MICROSOFT OFFICE
+POWERPOINT
+ Módszertanok és szoftverek
+Testing
+Microsoft office
+Excel
+A Tech People egy európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat, valamint kiszervezett technológiai szolgáltatásokat nyújt különböző iparágak számára. Jelenleg az alábbi pozícióba keresünk munkatársat:
+SENIOR DATA ENGINEER - KONTRAKTOR (JK)
+Munkavégzés helye: Budapest, XI kerület (részben home office)
+Fizetés: versenyképes
+Munkavégzés formája: alvállalkozói státusz
+Feladatok:
+Követelmények részletes analízise, kidolgozása Részvétel döntéstámogató anyagok készítésében Együttműködés üzleti elemzőkkel, üzleti stakeholder-ekkel, más területek rendszerszervezőivel Big Data környezetben Data Pipeline-ok tervezése, fejlesztése Python programozási nyelven Projekttől függően AWS, Google vagy on-premise Hadoop környezetben Adat előkészítési/tisztítási algoritmusok tervezése, implementálása Data Scientist-ek modellezési munkájának technikai támogatása DevOps feladatok ellátása Tesztelési terv készítése, tesztesetek létrehozása Tesztelés dokumentálása Üzleti elfogadói tesztelés támogatása 
+Elvárások:
+Programozói/informatikai/mérnöki tanulmányok Önálló munkavégzésre és csapatmunkára való képesség Problémamegoldó készség, proaktivitás Adattárház és modellezési ismeretek SQL, PL/SQL készségszintű használata Python, Data pipelines/ETL, Git ismerete, gyakorlati tapasztalatok Rendszerszintű gondolkodásmód, rendszerintegrációs tapasztalatok Pénzügyi szektor ismeretek Stabil angol nyelvtudás szóban, írásban 
+Előnyt jelent
+A következők közül egy vagy több ismerete: Amazon AWS, Nexus, PostgreSQL, Airflow, Kafka, DWH, BI, Bitbucket, Jenkins, Shell, Jira, Confluence, Google Big Query, Hadoop Rendszerszervezői tapasztalat adat közeli területen 
+Jelentkezés módja:
+Jelentkezzen önéletrajzával a "Jelentkezem" gombra kattintva. 
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

@@ -1,0 +1,58 @@
+Jobs by email
+H&F Solutions GmbH
+DevOps Engineer (m/w/d)
+Nürnberg, München, Stuttgart, Augsburg, Würzburg, Ulm
+Permanent contract
+Full Time, Home office possible
+Published: 2 weeks ago
+Show salary
+Easy apply
+Save
+Would you like to work with us to create something revolutionary for our customers?
+We are looking for team players who are enthusiastic about our vision.
+When it comes to bringing billions of data records and thousands of documents digitally into the flow in the future, we are the experts. H&F Solutions GmbH is a German deep tech company. We develop intelligent networking software that enables a smooth flow of communication between company systems.
+As a DevOps Engineer (m/f/d) you have the opportunity to make a difference and actively help shape the digital future. You work in an agile, self-organized team with an open feedback culture. We rely on responsible and motivated people who want to grow personally and are willing to learn new things. 
+Your tasks
+You work as a permanent member of our product development team
+Further development of our highly scalable, k8s-based infrastructure together with our partner
+Automation and development of the CI/CD
+Independent design and constant optimization of our developing environment
+Automation of administrative tasks within product development
+Documentation of the developing environment
+Infrastructure monitoring and reporting 
+    Your profile
+You have a bachelor's or master's degree in computer science, business informatics, engineering or a related discipline
+You are familiar with tools like Kubernetes and have specialist knowledge in the areas of development, operations, databases and automation
+You are familiar with IT security and data protection requirements
+You have a high IT affinity in relation to system and application development
+You can be characterized as a responsible person with an outside-the-box-thinking mindset, as well as a service orientation and the ability to work well in a team
+Great commitment and a structured, goal-oriented and reliable way of working round off your profile
+We offer
+You have the chance to create something revolutionary with us
+Coworking spaces in southern Germany with free catering
+You decide whether you work in the office, at home or from a café
+A modern corporate culture with flat hierarchies and a high level of personal responsibility
+Benefit from our incentive system and extensive development opportunities
+A well-rehearsed team with passion and dedication
+Open and honest communication
+H&F Developer Conference
+Our team events promote a sense of togetherness 
+Are you ready to start the revolution?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Meal coupons
+Home office
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,62 @@
+Jobs by email
+Mynaric AG
+Embedded Software Developer (m/f/x)
+Gilching
+Permanent contract
+Full Time
+Published: 4 days ago
+Show salary
+Easy apply
+Save
+Über uns
+Mynaric produziert das Glasfaserkabel für die Luft und ermöglicht als Pionier der Laserkommunikation extrem schnelle und sichere kabellose Datenübertragung zwischen Satelliten, Flugzeugen, Drohnen und dem Boden. Die Produkte werden von namhaften internationalen Technologiekonzernen zum Aufbau weltumspannender Kommunikationsnetzwerke verwendet. Das entstehende Internet über den Wolken soll die bisher unverbundenen 3 Milliarden Menschen vernetzen, das Internet of Things bis in die entlegensten Ecken der Erde bringen und die internationale Kommunikation sicherer denn je machen.
+Your way into the future
+Join us as an Embedded Software Developer and work with us on changing the future!
+What awaits you at Mynaric
+- Design, implement, document, and test embedded software for our laser communications terminals. 
+- Develop drivers, platform software, and reusable modules for multiprocessor systems. 
+- Perform hands-on integration and tests with lab equipment on target hardware. 
+- Collaborate closely with electronics, control systems, and FPGA teams across all development phases, from ideation through bring-up and verification. 
+- Work in an international, fast-paced environment.
+What you bring with you
+- University degree in Computer Science, Software Engineering, Electrical engineering, or related field. 
+- Quick learning and attention to detail. 
+- In-depth knowledge of real-time embedded systems (CPUs, buses, DMA, cache, timers, interrupts, peripherals) and communication protocols (UART, SPI, CAN, Ethernet). 
+- Familiarity with logic analyzers, oscilloscopes, and protocol analyzers. 
+- Clear understanding of hardware abstraction layers and middleware. Experience with robotic or automotive frameworks such as ROS and AUTOSAR is a plus. 
+- Ability to communicate complex technical topics and thrive in multi-disciplinary teams.
+What we offer you
+Have you always wanted to wear your favorite space outfit to work? Then you are exactly the right fit for us!  Forget the office politics and come and work with inspiring colleagues from all over the world as you embark on an incredible journey with Mynaric to work on unique and challenging projects and make a real contribution to the future of connectivity.  
+We offer you permanent employment, varied areas of responsibility, and attractive employee benefits. Mynaric is absolutely committed to being an equal opportunity employer so we welcome applications from all qualified individuals regardless of ethnicity, sex, gender, disability, religion/belief, sexual orientation or age.  
+So if this sounds like the kind of place where you would like to work then apply today and be part of the company that is changing the world!
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Mynaric AG
+Dornierstraße 19, 82205 Gilching, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Home office
+Dogs allowed
+The benefits listed are applicable to the company and can differ depending on the position or department.

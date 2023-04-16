@@ -1,0 +1,72 @@
+Jobs by email
+ALD AutoLeasing D GmbH
+Software Engineer (f/d/m)
+Hamburg
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+Ready to work together
+ALD is a worldwide leader in B2B and B2C mobility solutions with over 6,700 employees active in 43 countries, and around 1.76 million vehicles currently under ownership. Our history in Germany dates back over 50 years. In that time, we have achieved a market-leader position, offering our customers not just full-service leasing, but sustainable and innovative mobility services, along with the technology that makes carefree mobility a reality. As a team, we live by our core values – focus on customer service, innovation, team spirit and responsibility.
+Software Engineer (f/d/m)
+Your role:
+As Software Engineer (f/d/m) you’ll be working with business experts, product managers, designers and other engineers. Working with local and remote business and technology teams, you will develop a deep expertise of our business and learn how to build the right products, integrating upstream backends easily. Further on, you will support people within and outside your team to improve through expert advice and knowledge-sharing. You will be a part of a team shaping the future of mobility through your ideas, actions and results.
+Digital Unit:
+ALD’s digital unit works inward and outward to disrupt and transform both the organisation in how it works and our business models. As an internal Center of Excellence, we are well equipped with all of the right roles to fulfill our mission as a cross-functional team – Service and UX Design, Engineering and Product Management.
+We act as a role model within the organisation to transform our internal partners.
+We challenge the status-quo on a daily basis and break new ground along our way to fulfill our mission of care-free mobility.
+We develop successful products on both a national and international stage.
+Technology Stack:
+As we pick the right tool for the challenge at hand, our technology stack is continually evolving. Currently our backend services are based on Kotlin, Java and Golang with SQL and NoSQL. Our frontends are handcrafted with React. Infrastructure and Continuous Delivery are powered by Azure Pipelines, Kubernetes and GitOps (FluxCD). Our cloud providers are currently Azure and IBM Cloud Private (you know, compliance ...). To manage our work, we use “Portfolio Kanban” and improve continuously.
+Challenges:
+Design and implement state-of-the-art products using design concepts, methodologies and technologies that best suited to solve the challenge at hand.
+Continuously improve yourself and your team in product quality and engineering productivity by designing flexible, secure and resilient solutions, writing easy-to-understand, maintainable and well-tested code.
+Establish excellence on product delivery and quality within Hamburg and beyond.
+Shape the mobility of tomorrow.
+Who are we looking for?
+You are hands-on and passionate about customer focused software and products.
+You have worked with a variety of technologies and write clean, maintainable and well-tested code.
+You know how it feels to work with lean/agile methodologies in a fast-paced environment.
+You communicate effectively with various audiences in written and spoken English and German.
+You love APIs, test-driven development and consumer-driven contracts with REST or gRPC.
+You know how to use SQL and NoSQL databases on a professional level.
+You keep an open mind and love to stay up to date on latest technologies.
+You promote knowledge sharing, close collaboration and constant improvement.
+You are driving to outcomes, take ownership and accountability. You get things done.
+Awesome extras:
+You have experience integrating compliance and regulatory requirements (e.g. BaFin) into the product delivery lifecycle seamlessly.
+You have worked with one of the well-known public cloud providers, like AWS, Azure, Google, IBM and have experience with containers and schedulers, such as Docker/gVisor, Kubernetes or serverless.
+You automate and reduce waste wherever it makes sense.
+You know how to own the path to production using Continuous Delivery/Continuous Integration.
+Our offer:
+Work in a collaborative, value-driven and multidisciplinary team to build best-in-class experiences for our customers.
+Build visionary products from day one – backed by an established, international and profitable organisation.
+Make a difference and be bold as a part of an ambitious and diverse team.
+Grow, learn and develop yourself personally and professionally. Autonomy, flexibility and empowerment are at our core.
+Enjoy excellent working conditions, tools and environments, e.g. free choice of hardware, flexible hours, remote work, generous educational budged (conferences, books etc.).
+Why ALD Automotive?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+ALD AutoLeasing D GmbH
+Nedderfeld 95, 22529 Hamburg, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

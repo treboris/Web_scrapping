@@ -1,0 +1,59 @@
+Jobs by email
+Bosch Rexroth
+Data Solution Architect (f/m/div.)
+Lohr am Main
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+Welcome to Rexroth
+Economical, precise, safe, and energy efficient: drive and control technology from Bosch Rexroth moves machines and systems of any size. Under the global Rexroth brand innovative components, tailored system solutions and service offerings are marketed for Mobile Applications, Machinery Applications and Engineering and Factory Automation.
+The Bosch Rexroth AG is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Lohr am Main
+Your tasks
+Help shape the digital future of Bosch Rexroth: You will work across interfaces in a cross-functional, agile and international team implementing the digital strategy for Rexroth. To achieve this, you will work in several strategic projects which comprise the new cross-functional Digital initiatives in Rexroth. You will work closely with our internal and external partners in the field of IT and digital.
+As a Data Solution Architect (f/m/div.) you are responsible for designing, developing and implementing a data solution that meets the business needs of the strategic project. You will translate business needs into technical solutions. You will collaborate with stakeholders to understand their needs and priorities.
+Your main focus is to ensure that the solution (MVP) shows it’s desirability and has the potential to meet the set business goals.
+Additionally you asses if the data architecture and solution potentially aligns with the overall enterprise architecture.
+You will wear multiple hats: as an engineer you will create and operate automated pipelines for data extraction, transformation and integration.
+You will work with different types of data, data sources, infrastructure, existing building blocks and technology platforms.
+You will make data from source systems available for data analysis or business process automation.
+Additionally you will implement data architecture conforming to defined (semantic) data models and data flow / pipelines and provide pipelines for ML model deployment.
+Furthermore, you will ensure defined/required data quality and make it transparent.
+Your profile
+Education: Degree in computer science, mathematics, physics or comparable field of study
+Personality and way of working: Advanced communication skills, independent, motivated, goal-oriented and pro-active, keen to learn new technologies and share knowledge, a team player with strong analytical and problem solving skills
+Experience and know-how:
+Knowledge of different data types, data sources, infrastructures, existing building blocks and technology platforms
+Working knowledge of the use of various (semantic) data integration, ETL and streaming architectures, and distributed computing
+Basic knowledge of query languages and data access APIs, software engineering, and algorithms and methods for integrating and pre-processing data
+Understanding of the different (semantic) source and target data models and data management functions according to the data management framework and processes
+Proficiency in Python (especially in libraries such as Pandas, Numpy, SciPy, statsmodels); familiarity with other programming languages and technologies relevant for Data Science, e.g., MLflow, SQL, Spark, Dask, C/C++, is highly appreciated; you are a confident user of the Linux command line; hands-on experience with Hadoop and/or GPU clusters as well as Azure Cloud or other cloud technologies is a big plus.
+Proven expertise in several of the following fields: Neural networks / deep learning, time series analysis, generalized linear models, tree-based models, statistics, explainability methods, clustering, and anomaly detection; demonstrated experience in working with ML/DL frameworks (e.g., scikit-learn, Keras, TensorFlow, PyTorch); publications at major
+Languages: good command of German and English, both written and spoken
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Rexroth
+Lohr am Main, Deutschland

@@ -1,0 +1,81 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Diákmunka - Junior rendszermérnök állás Budapest XIII. kerület
+Docker
+GIT
+Python
+Linux
+Gyakornok állások 
+											Várunk A RENDSZERINFORMATIKA ZRT. csapatába!Végzős vagy friss diplomás egyetemista, gyakorlati helyet keresel, hasznosítanád az eddig megszerzett tudásod high-tech környezetben, szeretnél fejlődni IT területen?Szívesen részt vennél egy szuper tehetség programban?Ha a válaszod igen, ne gondolkodj, jelentkezz a Rendszerinformatika Zrt. csapatába junior rendszermérnöki pozíciónkra! A Rendszerinformatika Zrt. komplex informatikai projekteket lebonyolító, a hazai IT szektor egyik legdinamikusabban fejlődő, 40 főt foglalkoztató, magyar tulajdonú vállalata.Amire büszkék vagyunk:•Hajt minket a tudásvágy, mindenben törekszünk arra, hogy a legjobbak legyünk•Csapatunk nyitott, jó hangulatú, szeretünk együtt dolgozni, kollégáink többsége 5-7 éve dolgozik nálunk•Létszámunk jelenleg 40 fő, folyamatosan bővülünk•Stabil, hosszú távra tervezhető munkahelyet biztosítunk•Páyakezdők részére Talent programot alapítottunk•Egy Budapest méretű, közel 200 irodaházat lefedő hálózatot üzemeltetünk•Jelen vagyunk a nagyobb budapesti adatközpontokban•Két saját adatközpontot üzemeltetünk, közel 1000m2 területen•Felhőszolgáltatásunkon több mint 1500 szerver üzemel•Szolgáltatásaink mögött homogén Cisco infrastruktúra áll•Van egy irodai kutyánk, aki egyben segítő kutya isAktív részed lesz az alábbi feladatokban:  •Hibabejelentések kezelése•Belső üzemeltetésű Linux és Windows szerverek adminisztrálása•VoIP rendszerek implementálása és felügyelete•Virtualizációs rendszerek üzemeltetése (hardveres és szoftveres szinten)•Hálózati eszközök adminisztrálása (gerinchálózati és végponti berendezések)•Betanulás után ügyeleti rendszerben történő részvételMinimum elvárás:•Folyamatban lévő felsőfokú szakirányú végzettség, egyetem utolsó év- félév vagy megszerzett diploma;Alapismeretek az alábbi területeken:-virtualizáció (VMware)-hálózati alapismeretek (tűzfalak, kapcsolók, forgalomirányítók ismerete)-Windows/ Linux szerver operációs rendszerek -VoIP telefónia Belépő egy szakmai online teszt feladat sor sikeres megoldása.Te vagy a legmegfelelőbb jelölt, ha:•Minden vágyad egy nagy hálózat üzemeltetésében részt venni•Érdekel, hogy miként jutnak célba a telefon hívások•Szeretnél virtualizációs rendszerekkel dolgozni•Van gyakorlatod a Linux alapú kiszolgálók üzemeltetésében•Nem okoz gondot az angol nyelvű kommunikáció •Jó a kommunikációs készséged•Pozitív a hozzáállásod a munkához és a csapathoz•Egy hiba megoldása közben is tudsz higgadtan és körültekintően gondolkozniNagyobb az esélyedet, ha:•Ismered a dinamikus routing protokollok működését (pl. OSPF, BGP)•Találkoztál már konfigurációkezelő és automatizálási rendszerekkel (pl. SaltStack, Ansible, Puppet)•Használtál már verziókezelőt (Git) illetve konténer alapú virtualizációt (pl. Docker) •Vannak programozási ismereteid (főleg Python és shell script)•Rendelkezel B kategóriás jogosítvánnyalAmit a munkádért cserébe ajánlunk:•Munkaidő hétköznap 9-17-ig, 20 perc fizetett ebédidő •Munkavégzés helye: 1134 Váci út 19. Panorámaház- Igényes, modern munkahelyi környezet•Cégünk gyakornoki tehetségprogramja népszerű a diákok körében. Diploma után kölcsönös megelégedés esetén téged is szívesen látunk munkavállalóként a csapatban.•Hosszútávú fejlődési- és karrierlehetőség, rendszeres szakmai képzések•Minőségi eszközöket biztosítunk a munkavégzéshez (laptop, okos telefon, 2 monitor)•Profi feladatkezelő rendszer –Jira segíti a hatékony napi feladat végzést•Betanulás után heti 1 nap home - office lehetőséget biztosítunk, extra napok a szakdolgozat írásához.•Éves üzemorvosi vizsgálat kibővített EÜ. szolgáltatásokkal (labor, EKG)•Korlátlan kávé és ásványvíz fogyasztást biztosítunk•Kerékpártároló a mélygarázsban•Kutyabarát munkahely vagyunk•Baráti és laza légkörben dolgozunk, de a munkát komolyan vesszük•A céges összejövetelek alkalmával – pizza sütés, sörözés, gokart, hétvégi kiruccanás és a fesztiválokon való közös bulizással pihejük ki a munkát. A születés- és névnapokat, évfordulókat is megünnepeljük egy finom sütivel.Egyetemista kollégáink véleménye:•Változatos és tanulmányokhoz kapcsolódó feladatokat végzek. Egyértelműen jobb vagyok a suliban is, mióta itt dolgozom. Oda vissza hasznos egymásnak az egyetem és a munkahely.•Minden eszközt biztosítanak a gördülékeny és hatékony munkavégzéshez.•Nappali tagozatos diákként mindig maximálisan támogattak abban, hogy az egyetemhez igazíthassam a bejárást és a home office-t.•Eddig nem tudtam, hogy érezhetem magam úgy egy munkahelyen, mint a második otthonomban.•Családias csapat és korrekt, nagyon emberi vezetők vesznek körbe az irodában. Tudom, hogy a csapat együtt bármit megold, és bátran fordulhat hozzájuk bármivel, stressz és félelem nélkül.•Állatbarát cég révén sokszor feldobja a reggelem az, mikor egy kutyus örömmel jön elém, hogy üdvözöljön. 							 			
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Műisz Iskolaszövetkezet													
+Budapest / Budapest XIII. kerület
+8.00-17.00.
+ Gyakornok
+Lejárati dátum: 2023-04-27
+Telefonszám: +36 40 463 463,+36 1 412 1406														- Hivatkozzon az itpeople-re!
+Álláshirdetés részletei
+PozícióDiákmunka - Junior rendszermérnök
+Munkavégzés helye
+Budapest / Budapest XIII. kerület
+Munkaidő8.00-17.00.
+Telefonszám+36 40 463 463,+36 1 412 1406													- Hivatkozzon az Itpeople-re
+KategóriaGyakornok
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

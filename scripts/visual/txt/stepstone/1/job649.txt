@@ -1,0 +1,64 @@
+Jobs by email
+ZEISS
+Software Developer (f/m/x)
+München
+Permanent contract
+Full Time
+Published: 6 days ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+Ihre Rolle
+About us
+ZEISS Microscopy is the world's only one-stop manufacturer of light, electron, X-ray and ion microscope systems and offers solutions for correlative microscopy. Our portfolio comprises of products and services for life sciences, materials and industrial research, as well as education and clinical practice. Being the preferred choice of Nobel Laureates and scientific pioneers, ZEISS Microscopes enable leading researchers to find answers to our society’s most pressing challenges and drive scientific discovery forward.
+With our "ZEN" platform and the ZEN ecosystem, we set standards in innovative research and enable customers to conduct their workflows worldwide.
+You can find more information about ZEN here: https://www.zeiss.com/microscopy/int/products/microscope-software/zen.html
+  Your Role
+We are looking for a Software Engineer to help us evolve our technical concepts and solutions for handling, processing, visualization and analysis of massive amounts of multidimensional data. You will join our interdisciplinary team of expert developers, who are building our ZEISS Microscopy Imaging platform "ZEN" further, in close collaboration with an agile international team of product and project managers, testers, architects and UI/UX specialists.
+Have fun working in an agile, international and high-spirited team on our fascinating products for leading edge scientific and industrial applications, e.g. high end light microscopy applications for cutting edge biomedical research, dynamic in-situ electron microscopy for battery research.
+Be responsible for working on concepts, design and implementation.
+Ihr Profil
+University diploma or master degree in computer sciences, informatics, mathematics or a comparable experience as software developer in a corporate environment
+Experience using C#, .NET, WPF, ideally in desktop application development using Visual Studio, AzureDevOps and GIT
+Experience with unit testing, test automation, patterns, clean code and SOLID principles
+Motivation and drive to work in a collaborative agile team
+Strong communication skills in English. German knowledge would be advantageous
+Why ZEISS?
+We offer modern workspace and flexible hours
+We are an open-minded team with a strong team spirit
+We live a flat hierarchy and empower individuals
+We make an impact within and beyond ZEISS
+What we offer
+  Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+ZEISS
+81379 München, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

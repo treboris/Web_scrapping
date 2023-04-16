@@ -1,0 +1,68 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceProgramátor  
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyProgramátor Privatbanka, a.s.
+Miesto práce
+Einsteinova 25, Petržalka
+Druh pracovného pomeru
+plný úväzok, na dohodu (brigády)
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 400 EUR/mesiacPonúkame ZM od 2.400 €/ mesiac, o konkrétnej výške sa porozprávame na osobnom stretnutí a závisí od skúseností, zručností a seniority kandidáta + 13 plat + zaujímavá ročná odmena
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiPridajte sa k nám a staňte sa súčasťou dynamického tímu šikovných ľudí s nadšením pre IT. Radi medzi nás privítame kolegu, ktorý už má prax v programovaní a chce ďalej odborne rásť v oblasti IT. V našej banke neustále vylepšujeme produkty pre nás  a našich klientov.
+Čo vás u nás čaká: 
+•	možnosť sebarealizácie a plné využitie vašich skúseností s návrhom nových riešení požadovaných zmien bankových systémov a aplikácií,
+•	možnosť získať užitočné skúsenosti s modernými technológiami v komplikovanom bankovom prostredí,
+•	výnimočne dobrá a priateľská atmosféra v tíme.
+ Ako programátor budete zodpovedný za:
+•	vývoj a testovanie SW riešení,
+•	návrh a dizajn webových interných aplikácií banky,
+•	vývoj v prostredí Microsoft nástrojov (Visual Studio, .NET framework, .NET Core, C#, ASP.NET/MVC, MS SQL 2019),
+•	spoluprácu pri koncepcii rozvoja informačných systémov spoločnosti,
+•	komunikáciu s administrátormi SW riešení. Zamestnanecké výhody, benefityAk sa rozhodnete pre prácu u nás, určite oceníte:
+- zaujímavú prácu pre lídra na trhu privátneho bankovníctva,
+- príjemné pracovné prostredie a priateľský kolektív,
+- odborné vzdelávanie,
+- jazykové vzdelávanie,
+- možnosť sebarealizácie,
+- otvorenú komunikáciu,
+- pružný pracovný čas,
+- výkonové odmeny (13 plat, ročná odmena),
+- príspevok na stravovanie zamestnancov poskytovaný nad rámec zákona,
+- príspevok do III. dôchodkového piliera (DDS),
+- zľavu 30%  na programy osobnej starostlivosti ProCare,
+-možnosť zapojiť sa do systému Multisport,
+- firemné akcie (športový deň, dni zdravia, vianočný večierok, tímové teambuildingy),
+- zvýhodnené bankové produkty, bežný účet zdarma
+- možnosť práce formou home office. Informácie o výberovom konaníAk sme Vás našou ponukou zaujali, dajte nám o sebe vedieť a pošlite nám svoj životopis v slovenskom jazyku prostredníctvom portálu www.profesia.sk čo najskôr.
+Za prejavený záujem pracovať v našej spoločnosti ďakujeme.
+Po starostlivom posúdení životopisov budeme kontaktovať uchádzačov, s ktorými sa radi stretneme na osobnom stretnutí.
+Všetky informácie o spracúvaní osobných údajov nájdete na www.privatbanka.sk. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreinformačné technológie, technický smerJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiASP.NET - Mierne pokročilýC# - PokročilýMicrosoft SQL Server - PokročilýPrax na pozícii/v oblastitechnické - programovaniePočet rokov praxe2Osobnostné predpoklady a zručnosti• znalosť IT technológií a programovacích jazykov na pokročilej úrovni:
+- MS SQL 2019, T-SQL, návrh databáz, tvorba uložených procedúr, triggerov , 
+- MS SQL reporting services – tvorba reportov,
+- platforma Microsoft.net: C# a .NET aplikácie ( ASP.NET , MVC).
+- schopnosť používať Google a MSDN.
+• výhodou sú znalosti alebo skúsenosti s: 
+- JavaScript, CSS, HTML,
+- vývojom klient/server aplikácií,
+- tvorbou dokumentácie,
+-  participácia na vývoji veľkých projektov,
+-  UML aspoň vo forme čítania,
+-  Angular.
+• všeobecné požiadavky:
+- anglický jazyk - schopnosť čítať technickú dokumentáciu,
+- schopnosť pochopiť existujúci zdrojový kód a pracovať na ňom,
+- dobrá znalosť princípov objektového programovania,
+- komunikačné a analytické schopnosti. Inzerujúca spoločnosť Stručná charakteristika spoločnostiPrivatbanka, a.s. je synonymum pojmu PRIVÁTNE BANKOVNÍCTVO. Sme a naďalej chceme byť bankou s najdynamickejšie rastúcim privátnym bankovníctvom na trhoch, kde pôsobíme. Úspešne udávame trendy v tejto oblasti a radíme sa k lídrom na slovenskom finančnom trhu. Paralelne so službami privátneho bankovníctva rozvíjame naše KORPORÁTNE BANKOVNÍCTVO. Svojim klientom poskytujeme špecializované finančné a investičné služby, ktoré odrážajú ich nároky a zohľadňujú predstavy o zhodnocovaní ich aktív. 
+Srdcom našej banky sú a vždy budú výnimoční ľudia – jednak klienti, a samozrejme zamestnanci, vďaka ktorým je Privatbanka symbolom individuálneho prístupu v bankovníctve. Naším cieľom je preto vytvárať zamestnancom priaznivé podmienky pre ich kontinuálny odborný aj kariérny rast. Pri výbere nových zamestnancov kladieme veľký dôraz nielen na vysokú odbornú kvalifikáciu a profesionálnu úroveň, ale aj na potenciál posúvať sa vpred. Tento potenciál vnímame ako nevyhnutný katalyzátor nášho výkonu na ceste za dôverou klientov a k ekonomickým úspechom. Počet zamestnancov150-199 zamestnancov 
+ID: 4518041 
+     Dátum zverejnenia:  10.2.2023 
+    2023-02-10
+lokalita: Bratislava   Pozícia: .NET programátor, Databázový analytik, IT analytik, Programátor, Softvérový inžinier   Spoločnosť: Privatbanka, a.s.   
+Základná zložka mzdy (brutto): 2 400 EUR/mesiac
+                Všetky ponuky

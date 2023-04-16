@@ -1,0 +1,81 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Backend fejlesztő (Pécs)
+Backend fejlesztő (Pécs)
+A hirdetés már lejárt!
+Trenkwalder Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+Backend fejlesztő
+Leírás
+Pécsi telephelyű partnercégünkhöz keresünk munkatársat az alábbi feladatok ellátására:
+Backend fejlesztő
+Feladatok
+Beágyazott szoftverplatform fejlesztése és karbantartása
+A meglévő megoldások fejlesztése és átalakítása az új követelményeknek való megfelelés és az új technológiák adaptálása érdekében
+API-k bővítése és fejlesztése
+Felhő alapú őalkalmazások létrehozása MS Azure platformon
+Minőségi szoftver biztosítása, megfelelő tesztlefedettség biztosítása, teljesítmény optimalizálása
+Együttműködés terméktulajdonosokkal és domain-szakértőkkel a követelmények meghatározásában
+Scrum használata
+Elvárások
+Felsőfokú végzettség
+Legalább 2-3 év tapasztalat C# vagy .Net fejlesztésben
+Kliens/szerverfejlesztési tapasztalat
+Magabiztos angol nyelvismeret
+Előny:
+.NET Core / .NET 6 tapasztalat
+Felhőalapú alkalmazások fejlesztésében szerzett tapasztalat
+Adatbázis fejlesztési ismeret (MSSQL, SQLite)
+Azure DevOps (vagy a Jira)
+Amit kínálunk
+Kihívást jelentő munka egy nemzetközi és innovatív vállalatban
+Izgalmas és kihívásokkal teli projektek, amelyekben a szaktudás bővülhet, és munkája komoly hatással van a projekt kimenetelére
+Lapos vállalati kultúra, nyitott és barátságos légkör
+Lehetőséget ad az állandó tanulásra új projektek, technológiák és piaci lehetőségek révén
+A cég folyamatos, szilárd üzleti növekedése és erős üzleti stratégiája lehetővé teszi, hogy egy izgalmas jövőbeli utazásban vegyenek részt
+Lakhatási támogatás 3 hónapra költözés esetén
+Munkavégzés helye
+Pécs, Magyarország
+Neked ajánlott állások
+Neked ajánlott állások
+EasyHiring Services Kft. -
+Intermediate/Senior DevOps Engineer
+EasyHiring Services Kft. -
+Szenior Frontend fejlesztő - Typescript/Angular - 3D - építőipari szoftver
+Hays Hungary Kft. -
+Front End engineer 
+Deutsche Telekom IT Solutions -
+Azure Cloud Migration Architect (REF1500R)
+Hays Hungary Kft. -
+Medior Fullstack Developer - Java/Angular
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Szeged
+Győr
+Pécs
+Kecskemét
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

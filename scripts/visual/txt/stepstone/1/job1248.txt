@@ -1,0 +1,55 @@
+Jobs by email
+Apple Distribution International ULC
+SoC Performance Engineer (m/f/d)
+München
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Show salary
+I'm interested
+Save
+Summary
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish!
+In this role, you will be a member of the Platform Architecture team, working within the hardware technology group to shape the architecture of Apple's future System-on-Chips (SoC).
+We are seeking an upbeat and highly motivated SOC performance engineer to drive the architectural validation and design correlation of our software-based performance model!
+Ihre Aufgaben
+You will define the comprehensive performance test plan, systematic test methodology, and develop novel infrastructure for the software simulator for iPhone/iPad/Mac/Apple Watch SoCs. The team pushes the system to its limits to help find and fix architectural and micro-architectural issues. Your data shall contribute to product performance and power trade-off decisions in our SoCs. This role will be highly visible and critical for driving architecture improvements in Apple’s future products.
+Your responsibilities will include:
+Learning about the state of the art in SoC IP and chip-level architecture
+C++ performance modeling of proposed architectural solutions and features.
+Gathering, analyzing, and validating measured and simulated results to compare architectural design alternatives.
+Defining test plans and test planning methodology
+Definition and implementation of validation infrastructure like performance monitors, behavioral checkers, state space coverage
+Working on data analysis pipelines, visualization methodologies, continuous regression testing
+Running performance simulation of future applications
+Careful analysis and presentation of simulation results
+Tuning and validating future SoC HW/SW for the best user experience
+Interface and collaboration with cross-functional teams: architecture, hardware and software teams for collaborative debug, and correlation studies
+International travel is required for this position
+Qualifications
+Key Qualifications
+Knowledge of computer architecture
+Practical experience with data structures and algorithms
+Understanding of software engineering principles
+Solid programming skills in C, C++ or equivalent languages
+Experience with scripting languages like Python, Perl, Lua, Bash
+Ability to study a problem in depth, design experiments, analyze data, and present results
+Strong communication and documentation skills.
+Preferred Qualifications:
+Significant architectural research or embedded systems projects
+Experience with micro-architectural performance modelling and architectural exploration
+Experience with architectural, micro-architectural validation and performance correlation
+Experience with on-chip interconnect fabrics, caches, and memory/DRAM controllers, quality-of-service architecture
+Experience with Cellular/5G modem architecture is a plus.
+Education and Experience
+BS or MS or PhD in CS, EE, or related field
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

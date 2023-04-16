@@ -1,0 +1,38 @@
+Közösség
+Kapcsolat
+DevOps Engineer IoT Cloud állás Budapest
+Docker
+IT / Dev architect  állások 
+Cégleírás / Organisation / DepartmentOur Client is a global technology company supplying systems for passenger cars, commercial vehicles and industrial technology, enabling the next generation of mobility. Elvárások / RequirementsStudies in computer science or comparable training and proven IT professionalexperience
+Expert in the development of MS Azure cloud technologies such as Log Analytics, Monitoring and Alerting
+Knowledge of Docker, Prometheus, Grafana, IaaC and Terraform
+Experience in dealing with security, test automation in the cloud and CI/CD pipelines
+Professional API handling and (geo) balancing for global role out of the services
+Confident communication in English
+German skills welcomeAmit kínálunk / OfferPlanning, implementation, maintenance and optimization of the IoT cloud systems, ensuring performance and availability as well as version and patch management
+Planning, implementation and monitoring of the hardware and software components
+Ensuring conformity and quality according to the respective company specifications andguidelines and legislation (e.g. safety, service descriptions)
+Setting up software development environments and a tool chain for developing applications in the cloudKapcsolattartó / InformationStable company background and long-term working possibility
+Full of challenges and high-level professional activities at an international company
+Participation in international projects and commission to foreign countries
+Career opportunities, continuous training program and language courses
+Competitive salary and performance-related bonus
+Cafeteria with optional elements
+School start support 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary													
+Budapest
+Nincs meghatározva
+ IT / Dev architect 
+Lejárati dátum: 2023-05-05 15:40:00
+Álláshirdetés részletei
+PozícióDevOps Engineer IoT Cloud
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaIT / Dev architect 
+Hasznos linkek

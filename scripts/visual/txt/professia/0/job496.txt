@@ -1,0 +1,54 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFrontEnd Developer Vue.js 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+FrontEnd Developer Vue.jsInformácie o pracovnom miesteMiesto práce: Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)Mzdové podmienky (brutto): Od 3 000 EUR/mesiacfinálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*Termín nástupu: dohodouDruh pracovného pomeru: živnosťNáplň práce, právomoci a zodpovednostiDeveloper pôsobí v existujúcom tíme. Participuje na  projektoch pre vývoj interného CMS. 
+Na projekte využíva technológie:  
+- analýza a návrh nových systémov/aplikácií a rozširovanie funkcionality existujúcich webov
+▪ TypeScript, HTML5/CSS3, SCSS, bootstrap/tailwind
+▪ Praktická skúsenosť s Vue.js
+▪ Dobrá znalosť SEO
+▪ Základné znalosti PHP, Nette
+▪ Skúsenosti s niektorým šablónovacím systémom - latte, blade
+▪ Skúsenosti s GIT, docker, composer
+▪ Skúsenosti s nástrojmi na vývoj front-endu, ako sú Babel, Webpack, NPM atď.
+•	práca s e-mailovými šablónami
+•	správa a údržba contentu pomocou admin systému
+•	návrhy a implementácia nových funkcionalít + príprava testov
+•	údržba a opravy na aktuálne funkčnej verzii
+•	neustála úzka spolupráca s BACKEND tímom Iné výhodyflexibilita
+práca s novými technológiami
+benefity (konzultuje sa s klientom) Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieSpoločnosť pôsobiaca v oblasti informačných technológii. Požiadavky na zamestnanca Požadované vzdelaniestredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Požadovaná praxPHP development2Osobnostné predpoklady a zručnosti•	stredoškolské vzdelanie s maturitou alebo univerzitné vzdelanie (zameranie technické, IT,..)
+•	minimálne 2 roky skúseností v oblasti softvérového inžinierstva
+▪ Silné zručnosti v oblasti front-end vývoja
+▪ Dobré znalosti TypeScript, HTML5/CSS3, SCSS, bootstrap/tailwind
+▪ Praktická skúsenosť s Vue.js
+▪ Dobrá znalosť SEO
+▪ Základné znalosti PHP, Nette
+▪ Skúsenosti s niektorým šablónovacím systémom - latte, blade
+▪ Skúsenosti s git, docker, composer
+▪ Skúsenosti s nástrojmi na vývoj front-endu, ako sú Babel, Webpack, NPM atď.
+▪ Mať dobré analytické schopnosti a schopnosť riešiť problémy
+▪ Pochopenie životného cyklu vývoja, tvorby wireframov, vylepšení UI/UX, testovania, implementácie a dokumentácie
+▪ Otvorený a kreatívny človek, ktorého baví riešiť nové a ťažšie výzvy
+▪ Človek samostatný, proaktívny, inovatívny, aktívne vzdelávajúci sa vo svojom odbore
+• Komunikačné zručnosti, schopnosť práce v tíme i samostatne Inzerujúca spoločnosť Stručná charakteristika spoločnostiPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)Spoločnosť je držiteľ povolenia na sprostredkovanie práce. (AA/2009/4810/4232/OISS) Hlavná oblasť pôsobenia spoločnostiSprostredkovanie práce a personálne poradenstvo Počet zamestnancov10-19 zamestnancov Informácie o výberovom konaní* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: [email protected]KontaktKontaktná osoba: Mgr.  Anna SpasováTel.: +421 2 6241 3438, +421 911 525 022E-mail: 
+ID: 4515455 
+     Dátum zverejnenia:  7.2.2023 
+    2023-02-07
+lokalita: Bratislava   Pozícia: Frontend programátor, Javascript programátor, Programátor, Web dizajnér, Webmaster   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 3 000 EUR/mesiac
+                Všetky ponuky

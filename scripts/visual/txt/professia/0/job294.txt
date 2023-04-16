@@ -1,0 +1,40 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava programátor  Можливість для людей з України
+Java programátorSoliT, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+čo najskôr
+Mzdové podmienky (brutto)
+Od 2 100 EUR/mesiac13.plat, odmeny...vyska mzdy bude zavisiet od seniority a potrebnych znalosti
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme kolegov pre nové projekty (komerčné) v oblasti vývoja v Jave 8.
+Budete využívať nasledovné technológie (potrebná znalosť):
+Java8, RxJava, Apache Camel, Spring Boot, Maven, Ansible, Kubernetes, Docker, Elastic
+Výhody: zaujímavý projekt pre telekomunikačných operátorov s modernými technológiami zahŕňajúcimi Spring frameworky (Spring, Boot a pod.), deployment do orchestračných platforiem ako Openshift, Kubernetes, Docker, Swarm, plné využitie CI/CD nástrojov počas vývoja a nasadzovania - vrátane kontroly kvality kódu cez SonarQ a pokrytia zdrojového kódu Unit testami. 
+Naše riešenia sú už dlhodobo využívané mobilnými operátormi na Slovensku i v zahraničí s medzinárodnými koncovými zákazníkmi (B2B ako napr. T-Mobile, Orange, A1, Claro, Vodafone, British Telecom) 
+Ide o prácu na projekte pre nadnárodnú firmu dodávajúcu platformy pre správu a monitoring infraštruktúry telekomunikačných operátorov, aktuálne primárne 5G sietí.
+Sú potrebné skúsenosti s vývojom produktov na realtime spracovanie dát a ich streaming, oboje vo veľkých množstvách (ako je tomu napríklad v telco spoločnostiach a pod.)
+Aktuálne je  možnosť práce na diaľku / HO, ale zatiaľ nebránime ani fyzickému prístupu do pracovných priestorov :-)
+Viac detailov o jednotlivých projektoch Vám predstavíme radi osobne. Zamestnanecké výhody, benefity13.plat., odmeny, školenia, mimopracovné aktivity, dobrý kolektív Informácie o výberovom konaníSvoj životopis prosím pošlite e-mailom na adresu [email protected]
+Po preštudovaní CV sa Vám ozveme, ak budete vyhovovať našim podmienkam. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreinformatika, ekonomické, humanitné, technické, stavebné, elektrotechnické, strojárske, ITJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiJava - PokročilýSpring Boot  - PokročilýPočet rokov praxe3Pozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnostiznalosť anglického jazyka
+Komunikatívnosť, spoľahlivosť, precíznosť, samostatnosť, analytické myslenie.
+Výhodou bude, ak máte znalosti aj v niečom z nasledovného:  Maven, Ansible, Elastic, Docker, Kubernetes Inzerujúca spoločnosť Stručná charakteristika spoločnostiDodávka softvérových služieb, softvérový vývoj na základe požiadaviek zákazníka, komplexné IT riešenia, konzultácie v oblasti IT, outsourcing. Počet zamestnancov5-9 zamestnancov KontaktKontaktná osoba: Mgr.  Milan DubecTel.: +421905750878E-mail: 
+ Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 2896112 
+     Dátum zverejnenia:  14.2.2023 
+    2023-02-14
+lokalita: Bratislava   Pozícia: Databázový analytik, IT analytik, IT/Technical Support Specialist, Java programátor, Oracle programátor   Spoločnosť: SoliT, s.r.o.   
+Základná zložka mzdy (brutto): 2 100 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

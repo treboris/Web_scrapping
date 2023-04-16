@@ -1,0 +1,121 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Database Programmer 
+Open Positions
+Company
+Education Programs
+Benefits
+Senior Database ProgrammerDeutsche Telekom IT Solutions Slovakia
+                                Place of work
+                            Košice, Slovakia (Job with occasional home office)
+                                Contract type
+                            full-time
+Information about the position Job description, responsibilities and dutiesBrief description
+Further development of existing tools for the automation of planning in the fiber optic network environment. The main tasks are the maintenance and expansion of the database as well as the operation of the servers. Suitable software developers are sought for the further development and operation of these tools.
+Key accountabilities
+•	Programming of REST interfaces (ORDS: Oracle Rest Data Services)
+•	Design and development of database-driven scripts to implement business requirements
+•	Creating/expanding database tables and providing views for different users
+•	Analysis of the requirements and communication with internal stakeholders
+•	Problem and incident management: problem analysis and problem solving
+•	Development according to Agile methodology – SCRUM
+•	Creation of technical documentation
+•	Documentation of the programmed code in GIT
+•	Performing performance analyses via Zabbix
+•	Examples of errors that occur are:
+1.	Performance problems
+2.	incorrectly generated result files (missing paths/key figures)
+3.	connection errors to the server.
+Purpose
+Senior Software Solution Designer for application development is responsible for end to end solutions for customer’s demand with respect to different options on market, available internal systems, and Deutsche Telekom standards. Holder of the position is responsible to be part of the scrum team as the highest priority to drive business in order to bring value for customer. Wage (gross)2 500 EUR/monthFinal salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.  Employee perks, benefits
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work – life balance
+Other benefits *
+        For more information about our benefits click to Benefits
+Benefits with * are applicable also to part-time positions.This information may be subject to changes and other internal rules. Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examinationLanguage skillsEnglish - Upper intermediate (B2)Personality requirements and skillsIT Technical Skills
+•	Oracle Database / PL / SQL / Postgres
+•	Linux
+•	Programming – Advanced
+•	Scripting – Advanced
+Languages
+•	English – Upper intermediate (B2)
+Other criteria or requirements
+•	Several years of experience working in IT industry preferably with enterprise level application
+•	Advanced SQL knowledge
+•	Advanced skills in integrating systems and applications
+•	Advanced experience with programming/scripting
+•	Willingness to learn and teach new technologies
+•	Being self-motivated and organized
+•	Solid communication skills (oral and written) Advertiser Brief description of the companyOur brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services. Number of employees1000 and more employees ContactContact person: Dragomir Catalin-FlorianE-mail: send CV
+Apply Online
+                        Deutsche Telekom IT Solutions Slovakia
+                        Žriedlová 13, 040 01 Košice
+www.deutschetelekomitsolutions.sk
+055/7853566
+ID: 4527575 
+     Dátum zverejnenia:  27.3.2023 
+    2023-03-27
+lokalita: Košice   Pozícia: Database Administrator, Programmer   Spoločnosť: Deutsche Telekom IT Solutions Slovakia   
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

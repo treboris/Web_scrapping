@@ -1,0 +1,67 @@
+Jobs by email
+ZEISS
+Software Architect and Algorithm Developer (m/f/d)
+Oberkochen
+Permanent contract
+Full Time
+Published: 6 days ago
+I'm interested
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+ Ihre Rolle
+Join us to challenge the limits of imagination in the field of optics metrology! As a software architect you will be a part of an algorithm team, whose mission is to achieve picometer precision for EUV optics. Combining your expertise and personality you are both, coach and creative mind, for new software & data management solutions within the ZEISS environment under consideration of security, quality, customer needs and compliance.
+Your role
+Create and develop process software and algorithms in an agile environment keeping in mind the needs of our stakeholders.
+Requirements & solution engineering for software solutions in a EUV optics fabrication process
+Implement a stable deployment strategy in an DevOps context
+Be a leading mind in software and data management solutions for complex interferometers
+Take responsibility in software and algorithm management and be responsible for release management, testing & deployment
+Collaborate with internal and external partners to ensure seamless delivery and timely results for our customers
+Create and push forward an active digital network within ZEISS entities
+Ihr Profil
+An excellent university degree (Ph.D. preferred) in a quantitative discipline such as computer science, physics, mathematics, engineering, or similar
+At least 3+ years of experience as Software Developer and/or Software Architect
+A very strong motivation to build solutions based on profound domain knowledge, i.e. the willingness to delve into the fields of interferometry and optics
+Experience with DevOps topics like CI/CD, automated testing, configuration of logging and monitoring systems, infrastructure management etc.
+A strong software engineering background including a strong proficiency in Python and familiarity with agile software development (git, Azure DevOps)
+High self-motivation & strong team player
+Strong communication, presentation, and project management skills
+Language level at least B2 in German and English
+Your ZEISS Recruiting Team:
+Liz Torres, Nico Gebhardt
+What we offer
+  Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+ZEISS
+73447 Oberkochen, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

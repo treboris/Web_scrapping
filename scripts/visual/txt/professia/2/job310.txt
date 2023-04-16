@@ -1,0 +1,85 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePoď s nami robiť backend našej novej videoplatformy 
+Poď s nami robiť backend našej novej videoplatformySeznam.cz Slovensko, s.r.o.
+Miesto práce
+Bottova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 500 - 4 000 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiMáš skúsenosti s vývojom v Pythone? Do nášho tímu hľadáme skúseného backend developera, ktorý sa bude podieľať na vývoji revolučnej video platformy. V silnom tíme seniorných backend a frontend vývojárov staviame video platformu, ktorá bude sledovaná miliónmi divákov denne. Našim zámerom je aby služba bola technologicky najlepšia na trhu s množstvom inovácií a trvalým vylepšovaním funkcionalít.   Čo ťa denne čaká a neminie: Codebase je v najnovšom Pythone a ďalších zaujímavých jazykoch ako Go.Django a Flask spoločne s GraphQL API, REST/JSONPostgreSQL zabalené v Django ORM kabáte. Stretneš sa u nás aj s SQL AlchemyVyužívame Docker a automatizované nasadzovanie do KubernetesGitLab a jeho CI, code reviews, pytest a lintingNavrhovanie nového produktu s celým cross-functional tímomSkúmanie nových technológiíMonitoring v Grafane a logy v KibaneStandupy, retrospektívy, groomingy, čiže fungujeme scrumovo Zapadneš do tímu, pretože..Si seniorný python vývojár a máš rád čistý a bezpečný kódDokážeš sa rýchlo vyznať v cudzom kódePython je tvoj druhý rodný jazyk a do nových technológií sa púštaš rádChceš posúvať seba aj svojich kolegov vpredSi ochotný stretávať sa s tímom na groomingoch v BrneNebojíš sa nových projektov a projektov na zelenej lúke Prečo k nám:Staneš sa aktívnou súčasťou nového revolučného produktu, ktorý má najvyššie ambície na českom trhuMáme prostredie, v ktorom sa človek môže realizovať a prichádza so svojimi nápadmi. Rýchlo ich dokážeme posúvať dopredu.Slobodu v práci a možnosť ovplyvniť podobu a ďalší rozvoj videa v Sezname Zamestnanecké výhody a benefity:Práca na službe, ktorú denne využije pol milióna ľudí5 týždňov dovolenky a až 5 free daysCafeteriaStabilného zamestnávateľa, najväčšiu internetovú technologickú firmu v Českej republikeMožnosť práce z domu, alebo officu v BratislaveVýber techniky  (MacBook Pro, Dell) a prostredie (macOS, Windows, Linux), dobrý monitorPre nás je dôležitý aj osobný rozvoj. Ponúkame ti interné vzdelávanie a externé konferencie.Možnosť kvartálneho bonusu podľa plnenia cieľov Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou Inzerujúca spoločnosť Stručná charakteristika spoločnostiSeznam.cz hľadá talenty aj na Slovensku
+Sme česká internetová jednotka s viac ako 1500 zamestnancami a tržbami presahujúcimi 200 miliónov eur. Našu domovskú stránku denne navštívi viac ako 3,5 milióna ľudí, ktorí hľadajú informácie aj zábavu. Ako líder trhu zasiahnu naše služby mesačne 95 % českej internetovej populácie.
+Vyvíjame viac ako 30 vlastných produktov a služieb, ktoré používajú milióny ľudí denne. Patrí medzi ne napríklad vlastné Vyhľadávanie ako aj reklamný systém Sklik, kde ako jedna z mála firiem na svete dokážeme konkurovať globálnym službám a neustále ho vylepšujeme, oceňovaná navigácia Mapy.cz, najnavštevovanejší český videoportál Stream s viac ako 4,5 miliónmi videí, porovnávač cien Zboží.cz, ktorý obsahuje takmer 200 miliónov ponúk z 31 tisíc e-shopov, alebo populárny český freemail Seznam Email s bezmála 8 miliónmi aktívnych schránok, do ktorých denne doručíme viac ako 71 miliónov e-mailov.
+Používáme najmodernejšie technológie, spracovávame terabajty dát, staviame si vlastné dátové centrá, vyrábame vlastný hardware a vyvíjame vlastné riešenia na mieru – napríklad cloud infraštruktúru s názvom SCIF.
+Staňte sa súčasťou modernej technologickej firmy s neformálnou atmosférou a partie nadšených profesionálov, vďaka ktorej budete môcť ďalej rásť a učiť sa od skúsených kolegov.
+Pridajte sa do tímu Seznam.cz. 
+ KontaktKontaktná osoba: Tomáš BaranecE-mail: poslať životopis
+Všetky ponuky spoločnosti
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4545944 
+     Dátum zverejnenia:  26.3.2023 
+    2023-03-26
+lokalita: Bratislava   Pozícia: Python programátor   Spoločnosť: Seznam.cz Slovensko, s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

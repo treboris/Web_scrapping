@@ -1,0 +1,29 @@
+Közösség
+Kapcsolat
+Junior Penetration Tester állás Budapest
+HTML
+PHP
+C
+C#
+Python
+Perl
+Linux
+Ruby
+remote
+Tesztelés állások 
+Elvárások MINIMUM REQUIREMENTSThe successful candidate will have the following minimum requirements:1 – 3 years’ experience in information security in various security disciplines.1 year of experience working with command line.Ability to analyze problems and overcome them with the help of team members.Travel to client locations when necessary (10-20%).Must be able to work independently without supervision.Understanding of basic network protocols and their common port assignments HIGHLY DESIRED SKILLSPossess any of the following – OSCP, OSWP, CEH, GPEN, eJPT, eCPPT.CTF experience – Hackthebox, pentestit.ru, etc.Previous penetration testing experience.Previous compliance experience within the financial industryUnderstanding of network protocols and common vulnerabilities associated with them.FeladatokSuperiorPentest is seeking a Junior Penetration Tester!Location: Budapest, Hungary (Remote)Work hours: flexible / home officeSalary: Competitive, depends on the candidate experienceEmail: info@superiorpentest.com  The Junior Penetration Tester will be responsible for the following duties:Understand the basics of penetration testing – network, web application, application/code review.Demonstrate understanding of the penetration testing methodology laid out by the following standardsNIST, OWASP, OSSTMM, et al.Familiarity with the command line interface of multiple operating systems – Windows, Linux, etc.Fundamental understanding of scripting languages (one of the following) – python, powershell, ruby, perl.Fundamental understanding of “coding languages” (one of the following) – – C++, C#, PHP, AJAX, HTML, etc.Moderate experience with penetration testing tools – Burp, Metasploit, Nikto, SQLMAP, Responder, Nessus, netcat, etc.Ability to work socially and efficiently in a team environment and receive direction from the senior members.Ability to ask questions and gain further knowledge of problems that may arise during engagements. 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+zyntern													
+Budapest
+ Tesztelés
+Lejárati dátum: 2023-06-03 11:25:44
+Álláshirdetés részletei
+PozícióJunior Penetration Tester
+Munkavégzés helye
+Budapest
+KategóriaTesztelés
+Hasznos linkek

@@ -1,0 +1,62 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+Cloud Migration ArchitectIBM12.03.2023Job informationPlace of work
+Bratislava
+Bratislava, SlovakiaPosition / industry
+Information Technologies - Software; IT ArchitectJob description, information about job
+Your Role and Responsibilities :
+You’d help our clients in designing cloud solutions for migrating existing applications into the cloud deciding on an adequate migration strategy considering modernization, lift-and-shift or rebuild approaches.
+You’d work directly with customer and should be able to explain technical content to people who might be less familiar with the technology.
+You will participate in regular remote meetings, visiting the clients on-site when needed, in order to discuss the specific solutions you’d plan to implement.
+Day-to-day work can be anything from assistance with customer proposal writing, using best practices to design customer environments, implementing configuration management infrastructure and giving design recommendations to a technical team or pre-sales activities.
+You’d act as an interface towards the client, leading the client discussions, supporting the Engineering team with hands-on activities, performing infrastructure as code reviews, deliver documentation and being responsible for the technical cloud solution.
+Required Professional and Technical Expertise :
+Hands-on experience with Cloud Architecture Design and/or Cloud Architectual Patterns for Development
+Advanced knowledge of at least one of the following platforms:  AWS, GCP, Azure or IBM Cloud
+Solid engineering/technical background/hands-on experience with conceptualizing, strategizing and architecting cloud solutions
+Previous experience in the design and delivery of systems based on IaaS, PaaS and SaaS offerings, as well as exposure to different architecture models
+Coding/scripting skills (Bash, Python, Powershell, or similar)
+Networking knowledge (including the cloud provider specifics)
+Social skills and a customer service attitude are a must
+ Fluent English – both written and verbal
+Preferred Professional and Technical Expertise :
+Knowledge of the Cloud Adoption Framework of the cloud service provider
+Container technologies experience (e.g. Kubernetes, OpenShift)
+Cloud relevant certifications (e.g.: AWS Certified Solutions Architect, Google Cloud: Professional Cloud Architect or Microsoft AZ-303/AZ-304)
+Hands-on experience with IaC for managing the solutions in the cloud
+DevOps skills for leading team and consulting the customer
+Experience with building CI/CD pipelines and serverless architectures
+German language skills are much appreciated
+What can you expect of us?
+Salary starting from 3600 EUR gross, depending on relevant experience  and language proficiency
+Additional Days Off
+Flexible Working Conditions
+100% Paid Sick Leave
+Critical Illness Insurance, Life & Disability insurance, Medical Center
+Personal & Career Development
+And many more: ibm.biz/benefits2021Offered salary
+3600 EUR
+Benefits and other advantages
+What can you expect of us?
+Salary starting from 3600 EUR gross, depending on relevant experience  and language proficiency
+Additional Days Off
+Flexible Working Conditions
+100% Paid Sick Leave
+Critical Illness Insurance, Life & Disability insurance, Medical Center
+Personal & Career Development
+And many more: ibm.biz/benefits2021Start date
+1.3.2023Type of employment
+full-timeEmployee requirementsMinimum required education
+First Level University Education (Bachelor's Degree)Language skills
+English (upper-intermediate - B2)German (intermediate - B1)Company informationCompany characteristics
+Spoločnosť IBM je jednou z najväčších IT spoločností na svete a pod názvom International Business Machines poskytuje klientom svoje služby už viac ako 100 rokov. Celosvetovo pôsobí vo vyše 160 krajinách sveta. Poslaním spoločnosti IBM je pomocou integrovaných, flexibilných a efektívnych riešení pomáhať svojim zákazníkom redukovať ich náklady a zvýšiť tak ich konkurencieschopnosť na trhu. Samostatná pobočka IBM Slovensko s.r.o. bola založená 7. decembra 1992. V roku 2003 založila IBM na Slovensku druhú pobočku IBM International Services Centre s.r.o. (ISC). Spoločnosť IBM je najväčší zamestnávateľ v oblasti IT na Slovensku.Adress
+IBMMlynské nivy 49Bratislava - mestská časť RužinovSlovak Republic100620103007Respond to offer
+Be a part of something great at IBM
+Imagine a world where inspired ideas and innovative technology combine to create a smarter, more sustainable future. Welcome to the world of IBM.
+https://ibm.com/jobs/sk
+                Connect with us:
+Do your best work ever.
+SK
+EN
+    		Do your best work ever.
+Respond to offer
+Späť na pracovné ponuky

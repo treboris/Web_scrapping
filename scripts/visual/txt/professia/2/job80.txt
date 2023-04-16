@@ -1,0 +1,108 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceAzure Cloud Engineer (all genders) 
+            Erste Digital is the digital enabler driving innovative IT solutions for CEE’s leading banking group, Erste Group. Technological innovations have fundamentally changed the game. We believe that the future of banking is digital and we want to be among the creators and innovators who redefine it.
+Azure Cloud Engineer (all genders)
+Location:  Bratislava
+Working-Hours: Full-time
+Occupation Area: IT
+Company:  Erste Digital
+            With top notch technology, we drive the realization offers the Group’s vision: To provide human banking in digital times, and to build Financial Health for over 16 million customers in the CEE region.
+           Cloud division is responsible for the multi-tenant (all Erste Group entities) and multi-cloud (Azure, AWS, GCP) setup and operation.Share Service Integration & Agile Department (your team) is part of the Infrastructure and Cloud division. Our main task is the global configuration of the central Erste Group Office 365 tenant, Azure AD and shared services within the Azure landing zone. Working with security teams, we create and document governance principles and policies, maintain and continuously improve delegation model for Microsoft cloud services to allow operational tasks to be performed by integrated entities, and automate repetitive core management tasks.Interested? Then #believeinyourself and #applynow!
+What will be your job about?
+As the saying goes; ‘keep your feet on the ground, and your head in the clouds’, is the type of person we are looking for. Someone who has the foresight and expertise to define the cloud landscape, while being the person on the ground helping the customer and our teams succeed in the cloud journey. As a Cloud Engineer, you will facilitate, communicate, design and guide the implementation of cloud technical blueprints.
+You will participate on cloud white papers preparation. Additionally, you will define and supervise group cloud standards, operate shared services and common part of the landing zone for multiple customers.
+You will ultimately be responsible for matching the technical design specifications with the needs of our customers, but also help our project managers and solution architects understand these requirements with clarity.
+What should you bring with you?
+Proven technical expertise in cloud technology and architecture SaaS, PaaS, IaaS and Digital Transformation related topics
+Multiple years of experience as an operations engineer, ideally with DevOps experience
+Scripting skills (terraform / python)
+Strong trouble shooting and problem analysis skills
+Technical knowledge about Cloud Platforms (AWS, Azure, Google) , Azure as preferred
+A natural confidence with your communication and team skills, while being fluent in English
+The right mindset for DevOps knowing the processes and the common tools (development pipeline, continuous delivery, automated testing, application analytics)
+You will impress us by:
+Having a background and interest in either enterprise IT or software development or application modernization, in a DevOps environment
+Your never-ending passion for Cloud technologies and your ability to quickly learn new ones
+Being fascinated in trying out new technologies and seeing new challenges as an opportunity to shine
+Embracing the opportunity to work in a team with a flat hierarchy and open culture
+Our Offer
+Because you will be joining a dynamic, international and diverse workplace
+We provide a relaxed, professional environment and all the hardware & software you need to work efficiently (e.g. Laptop, mobile device, licenses...)
+Possibility to benefit and learn from our international, talented and passionate community at Erste.
+Great learning curve through ownership and creative freedom.
+Interest groups and clubs: Take part in discussions and get involved in projects. Numerous interest groups invite you to engage with a topic.
+Culinary delights – Healthy nutrition and good food are important for our quality of life. Whether lunch, breakfast or snacks – everything is within reach. As an employee, you receive a meal allowance per day.
+Health Care – Taking care of your health is important. That’s why we contribute to your above standard medical examination and provide a helpline in case of hard lifetime situations. You also receive a salary compensation during sick leave.
+Work-Life-Balance – Sabbatical, paternity leave, contribution to marriage & childbirth, 4 days of extra holiday per year, contribution to the 3rd pillar and MultiSport card. This is how we promote a balance between work, leisure, and family.
+New way of work: With our flexible working hours model we want to make your life less complicated. Combing the best of both worlds, remote and office time.
+Employee Referral Program – Become a talent scout for career opportunities in IT. We are rewarding every successful referral for Erste Digital.
+Language courses for German & English – Learning a new language unites. We support you with appropriate language courses where you participate together with your colleagues.
+Visa Sponsoring – We support our employees with all the formalities associated with a relocation to Slovakia and also advise them on choosing a suitable residential area.
+Thanks to our corporate benefits partners, you can also receive a whole bunch of discounts in different areas.
+A competitive and performance-related salary dependent on your professional and personal qualifications is granted - we are obliged by law to quote the minimum wage of EUR 3200,- gross per month for this full time position. But this is just a formality, we are more than happy to discuss your actual expectations.
+ Apply online 
+ Follow us: 
+ID: 4549819 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Bratislava   Pozícia: DevOps Engineer, Programmer, Software Engineer   Spoločnosť: Erste Digital   
+Základná zložka mzdy (brutto): 3 200 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

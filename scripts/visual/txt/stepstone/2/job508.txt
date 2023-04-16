@@ -1,0 +1,71 @@
+Jobs by email
+Höchstleistungsrechenzentrum der Universität Stuttgart (HLRS)
+Software Engineer for Cloud/Edge Computing
+Be an early applicant
+Stuttgart
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+I'm interested
+Save
+The High-Performance Computing Center Stuttgart (HLRS) was founded as Germany's first federal high-performance computing (HPC) center. It operates one of the fastest supercomputers in the world and offers a wide range of HPC solutions and services for universities, research institutions, and industrial partners. Furthermore, HLRS holds a leading position worldwide in the research areas of engineering and global system sciences. Staff scientists at HLRS investigate emerging technologies such as artificial intelligence (AI) and quantum computing (QC), and HLRS is significantly involved in international and national research projects across all research areas mentioned above.
+Orchestration of workflows in federated infrastructures
+Massive growth in the cloud computing industry over the last decade has been accompanied by the rise of many new applications that have requirements on ultralow latency, security, and location awareness. Therefore, modern cloud applications usually run on distributed computer systems (HPC, Cloud, Edge) and are divided into software components that must run at high availability. The common solution for orchestrating large clusters is Kubernetes, an open-source framework for deploying, scaling, and managing containerized applications. However, Kubernetes is designed for reliable homogeneous clusters. Moreover, although many applications and extensions are available for Kubernetes, none is designed to optimize both performance and energy usage, or to address data and job locality.
+HLRS is currently building its capacity to better support these distributed computing scenarios that involve HPC, Cloud, and Edge. Of special interest are AI training and inference workflows between HPC and Edge devices. For this reason we are looking for a
+Software Engineer for Cloud/Edge Computing
+(100%, m/f/x, up to TV-L 13, scientific employee)
+HLRS_13_2023
+to work on the European research project DECICE (Device-Edge-Cloud Intelligent Collaboration Framework) to face these exciting challenges with us. DECICE aims at developing an AI-based, open and portable cloud management framework for automatic and adaptive optimization and deployment of applications in a federated infrastructure, including computing from the very large (e. g., HPC systems) to the very small (e. g., IoT sensors connected on the edge).
+The advertised position offers the opportunity to complete a doctorate degree, which is actively supported by HLRS.
+Your job
+You will apply your project management expertise to steer the work and monitor its progress towards the defined goals of DECICE. In this context, you will represent HLRS at internal and external meetings with, for instance, the European Commission, and write scientific and technical reports.
+Participation in defining the overall DECICE architecture and API to interact with a multitude of target infrastructures such as HPC, cloud, and edge.
+Leading the work package on the overall cloud framework integration, where your main responsibility will be to actively work on the integration of the DECICE API with Kubernetes and the realization of a monitoring solution to collect hardware- and software-specific metrics based on Prometheus.
+Working at the interface between HPC, cloud, and edge infrastructures in context of the DECICE management framework.
+Setting up of a continuous integration and delivery (CI/CD) platform to perform integration tests.
+Your qualifications
+You have successfully completed a university degree in engineering, computer science, or a comparable qualification with a technical focus.
+You have a demonstrated interest in interdisciplinary research, especially in the fields of cloud and edge computing.
+Very good understanding with virtualization and containerization technologies (Singularity/Apptainer) and orchestrators (Kubernetes, KubeEdge).
+Hands-on experience with CI/CD tools such as Jenkins or OpenShift.
+Good programming skills in at least one high-level programming language such as Java, Python, or C++.
+Very good experience in Linux-based environments.
+You are fluent in English, both written and spoken.
+Ideally, your profile is completed as follows
+You are familiar with tools form the cloud native landscape (CNCF) such as Prometheus or Volcano.
+You have basic knowledge of high-performance computing (e. g., simulations, parallelization, job management).
+Basic knowledge or active interest in learning and applying methods of machine learning in the context of DECICE to implement training/inference workflows across cloud/edge infrastructures based on Sedna or Kubeflow
+You are familiar with agile methods of software development.
+You have experience with version control systems like Git or SVN.
+You think conceptually and have a solution-oriented way of working.
+As a member of our team you can expect
+A professional working environment in a highly motivated international team.
+Exciting insights into the latest and best technologies in the fields of simulation, big data, artificial intelligence, and quantum computing.
+A very good working atmosphere in an interdisciplinary team of top scientists and project partners.
+Flexible working hours, including choice between trust-based working hours or a flextime model.
+The possibility of arrangements for working independently of location (e. g., home office) (dt. ortsunabhängiges Arbeiten).
+Contract and remuneration according to the collective agreement of the federal states (TV-L).
+Attractive social benefits of the public sector.
+Allowance of -25 per month for local public transport.
+Use of the wide range of further education and training opportunities (e. g., soft skills, languages, specialist courses, management seminars) and the sports facilities of the University of Stuttgart (on-site and virtual).
+Additional information
+This position is a temporary position offered in accordance with the WissZeitVG regulations for scientific employees. Employment in this position is limited to the duration of the project, which is scheduled to run until 31.10.2025. Salary for this position is based on your personal qualifications up to the level of TV-L 13.
+When possible, HLRS is committed to supporting and retaining talent even at the conclusion of projects. Before the project ends, HLRS will examine what possibilities might exist for extending your contract based on funding that is available at that time.
+You will be working at HLRS within the Service Management and Business Processes (SANE) group headed by Dennis Hoppe.
+Are you interested?
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Höchstleistungsrechenzentrum der Universität Stuttgart (HLRS)
+70569 Stuttgart, Deutschland

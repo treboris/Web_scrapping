@@ -1,0 +1,23 @@
+ÁLLÁSHIRDETÉS FELADÁS
+C# programmer 
+Cégünk, a 3D Infotech Kft. egy ipari méréstechnikai eszközöket, szoftvereket és komplett megoldásokat kínáló vállalkozás. A weboldalunkon további részletek találhatók a tevékenységeinkről: www.3dinfotech.com
+C# Programozó
+FELADATOK:
+Szoftvertervezés és fejlesztés Windows 10 operációs rendszeren, C# nyelven, Visual Studio-ban
+Alkalmazások, algoritmusok, hardver interfészek, tesztelhető és karbantartható alkalmazások tervezése fejlesztése
+ELVÁRÁSOK:
+Szakirányú felsőfokú végzettség és/vagy C# programozási nyelv magabiztos ismerete legalább 3 év programozói gyakorlattal
+Visual Studio, Git, WPF (MVVM), WinForms ismerete
+Kommunikációképes angol nyelvtudás
+Kreativitás, önállóság, jó problémamegoldó képesség
+Precizitásra törekvés
+Előnyt jelent, tapasztalat 3D geometria, modellezés, ipari automatizálás, beágyazott rendszerek programozása, C++ és elektronika területein
+AMIT KÍNÁLUNK:
+Nyugodt, stresszmentes munkakörnyezet
+Érdekes feladatok
+Nemzetközi projektek iparági vezető ügyfelekkel
+Stabil, szerintünk jól fizető munkahely
+MUNKAVÉGZÉS HELYE:
+Gödöllő
+JELENTKEZÉS MÓDJA:
+A Jelentkezem gombra kattintva várjuk a fényképes önéletrajzokat.

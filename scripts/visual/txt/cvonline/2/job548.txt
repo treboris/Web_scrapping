@@ -1,0 +1,62 @@
+ÁLLÁSHIRDETÉS FELADÁS
+2003-as alakulásunk óta működünk sikeresen a személyzeti tanácsadás piacán, több 1000 interjút tudunk magunk mögött, több 100 jelöltünk karrier álmainak megvalósítását mozdítottuk előre. Büszkék vagyunk, hogy sikereinket a családias hangulat megőrzése mellett értük el, ügyfeleink és jelöltjeink érdekeit mindig szem előtt tartva.
+AMIRE NÁLUNK SZÁMÍTHATSZ
+karriercéljaid szem előtt tartó tanácsadás
+számos álláslehetőség
+lehetőség valami új megismerésére
+AMIT MI NYÚJTUNK
+felkészítünk a sikeres pályázatra
+szakértelmünket a kezedbe helyezzük
+kellemes légkörben fogadunk
+Ügyfelünk pénzügyi szektor számára biztosít informatikai megoldásokat. Bővülő csapatukba keresünk Fullstack fejlesztőt. 
+Feladatok:
+pénzügyi, oktatási szoftverek fejlesztése, tesztelése és integrációja
+hibajavítás és algoritmusok/megoldások megvalósítása
+folyamatos termék- és folyamatfejlesztés
+kapcsolattartás a társterületekkel, ügyfelekkel
+Elvárások
+minimum 2 év - webes fejlesztésben szerzett - szoftverfejlesztői tapasztalat
+erős NodeJS és React ismeret
+full-stack ismeret és hajlandóság frontend és backendre is
+build automatization tool-ok ismerete
+más frontend keretrendszer pl. Angular ismerete
+UX/UI szemlélet
+cloud (Azure) tapasztalat
+agilis módszertanok
+banki, biztosítói vagy oktatási domain ismerete 
+nyitottság, határozottság, 
+rugalmasság, jó kommunikációs képesség
+utazási hajlandóság
+magabiztos angol nyelvtudás szóban és írásban egyaránt
+Amit kínálunk: 
+rugalmas munkaidő
+opcionálisan 100% remote munkavégzés
+modern technológiák használata
+modern munkakörnyezet, tetőteraszos iroda panorámával
+belső karrierút, szakmai fejlődés támogatása
+versenyképes (szakértelemnek, tapasztalatnak megfelelő) fizetés
+Hogy zajlik nálunk a kiválasztási folyamat?Miután megkaptuk a jelentkezésed, telefonon keresünk, röviden ismertetjük, milyen pozíciót/pozíciókat tudunk számodra ajánlani szakmai tapasztalatod alapján.Ha szimpatikus számodra az általunk kínált lehetőség, egyeztetünk egy időpontot, és részletesebben is elbeszélgetünk karrierterveidről egy online interjú keretében. A kiválasztási folyamat során a pozícióért felelős toborzóval tartod a kapcsolatot, aki folyamatosan informál majd az egyes lépésekről.
+Tanácsadónk továbbítja jelentkezésed az ügyfelünk számára.Ügyfeleinknél maximum 2 körös, HR és szakmai interjúra számíthatsz, ahol részletesen mesélnek neked a cégről, pozícióról, projektről, juttatásokról.Az interjúk után mindig adunk visszajelzést.A folyamat a kölcsönös pozitív visszajelzések függvényében egy írásbeli ajánlattétellel zárul, melyet szerződéskötés követ, aminek veled együtt örülünk.A "Jelentkezem" gomb megnyomásával, bérigény megjelölésével várjuk a pályázati anyagodat. Bátran jelentkezz, még ha nem is mindenben felelsz meg az állásajánlatban leírtaknak!További információért keress minket: IT@getwork.hu .Köszönjük a jelentkezésedet! Nálunk Te vagy a legfontosabb!munkaerő-közvetítés engedély száma 10097-1/2012-0100-848
+Jelentkezésemmel elfogadom a Get Work Trend Kft. adatkezelési szabályait. Adatkezelési tájékoztatónk IDE KATTINTVA tekinthető meg.
+ELÉRHETŐSÉGEINK:
+Get Work Trend Kft. 1023 Budapest, Árpád fejedelem útja 31.
+Fullstack fejlesztő - Remote 
+Jelentkezem
+Elmentem az állást
+Get Work Trend Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 22.03.2022
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Embedded Software Developer (C#/C, C++, LabView) – Remote 
+ Budapest  
+ Mid/Senior Frontend Developer - Remote 
+ Budapest  
+ Embedded Software Engineer - Remote 
+ Budapest  
+ Medior .NET developer - Remote 
+ Budapest  
+ Fullstack C# Software Engineer - Hibrid 
+ Budapest  

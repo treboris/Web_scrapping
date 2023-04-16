@@ -1,0 +1,103 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSoftware Engineer – Java/Java EE 
+    Reagujte bez životopisu
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukySoftware Engineer – Java/Java EEArdaco, a.s.
+Miesto práce
+Polianky, Dúbravka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 500 EUR/mesiacVýška základnej mzdy je informatívna a jej finálne nastavenie závisí od praxe a odbornosti kandidáta
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo nášho tímu hľadáme kolegu, ktorý by mal na starosti vývoj produktov pre kvalifikovaný elektronický podpis (KEP). Znalosť KEP však nie je podmienkou. Primárne by šlo o vývoj webových aplikácií pre naše produktové portfólio, pričom očakávame schopnosť pracovať na frontendovej aj backendovej časti riešenia. 
+Náplň práce:
+- tvorba softvérového diela alebo jeho časti podľa zadania
+- unit testy vlastných častí diela a lokalizácia chýb
+- tvorba projektovej a používateľskej dokumentácie
+- podieľanie sa na fázach analýzy a návrhu s ďalšími členmi tímu
+- dodržiavanie pracovných postupov a firemných procesov
+- štúdium nových technológií
+- plnenie pokynov príslušného nadriadeného súvisiacich s charakterom práce
+Čo sa týka technických a počítačových zručností, vítame nasledovné:
+- návrh a implementácia webových aplikácií
+- návrh a implementácia dátového modelu
+- znalosť technológií Java, J2EE Platforma
+- znalosť PostgreSQL (preferované), MS SQL
+- znalosť webových frameworkov 
+- skúsenosti v oblasti aplikačných serverov ako WildFly, WebSphere, GlassFish
+- znalosť C#/.NET je výhodou ale nie je podmienkou Zamestnanecké výhody, benefityPonúkame pracovnú príležitosť v stabilnom a príjemnom prostredí s priateľskou atmosférou. Pracovný čas je u nás flexibilný s možnosťou homeoffice. Náš kolektív utužujeme na niekoľkých teambuildingoch ročne. Našim zamestnancom ponúkame možnosť absolvovať rôzne školenia a certifikačné kurzy. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Vodičský preukazB Osobnostné predpoklady a zručnosti- kreativita a zmysel pre detail
+- analytické a logické myslenie, schopnosť pre riešenie problémov
+- aktívny prístup, samostatnosť, zodpovednosť
+- schopnosť prezentácie vlastných výsledkov práce
+- záujem učiť sa nové veci Inzerujúca spoločnosť Stručná charakteristika spoločnostiSpoločnosť Ardaco, a.s, založená v roku 2001 je inovatívnym lídrom v oblasti informačno-komunikačných technológií a informačnej bezpečnosti. Ardaco ponúka vlastný plne škálovateľný Silentel systém pre bezpečnú komunikáciu, poskytujúci prenos hlasu, dátovej komunikácie a správ. 
+Okrem toho Ardaco ponúka široké spektrum vlastných produktov v oblasti elektronického a kvalifikovaného elektronického podpisu QSign, z ktorých sú všetky určené pre bezpečné a nákladovo efektívne spracovanie elektronických dokumentov.
+Jednotlivci, spoločnosti a štátne organizácie vo vyše 50 krajinách si môžu spoľahlivo ochrániť a zabezpečiť svoju komunikáciu a informácie pomocou širokej škály Silentel a QSign produktov. Počet zamestnancov20-24 zamestnancov 
+ID: 4525126 
+     Dátum zverejnenia:  22.2.2023 
+    2023-02-22
+lokalita: Bratislava   Pozícia: Java programátor, Softvérový inžinier   Spoločnosť: Ardaco, a.s.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

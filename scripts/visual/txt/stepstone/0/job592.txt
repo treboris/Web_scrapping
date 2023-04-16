@@ -1,0 +1,73 @@
+Jobs by email
+Amadeus Data Processing GmbH
+DevOps Engineer (m/f/d)
+München
+Permanent contract
+Full Time, Home office possible
+Published: 3 days ago
+Show salary
+Save
+Einleitung
+  You probably think that working for an online travel agency that manages hundreds of millions of bookings per year or working for an airline that operates hundreds of thousands of flights per year must bring their fair chair of challenge. If so, just try to realize the scalability, the performance, the resiliency, the geographical distribution challenges that are behind the system that powers 150 airlines, hundreds of websites, tens of airports, thousands of hotel properties. Just one fact to illustrate: In peak times, we process more than 17,000 transactions per second (1 billion+ transactions per day) at an average system response time of less than 0.3 seconds.
+  Do you have ideas on how to improve travel for everyone?  Do you find the idea of working in a diverse, multicultural environment exciting?
+Are you ready to make an impact across the world? Great, then join us! Let’s shape the future of travel together. #shapethefutureoftravel@Amadeus
+  We are searching for a decisive and insightful Cloud DevOps engineer to help us build functional systems that improve the customer experience. The Cloud DevOps engineer will be responsible for the development and operational aspects of cloud infrastructure. The ideal candidate will have an engineering background, be familiar with automation tools, and will work with developers to ensure that applications are delivered, deployed, and operated in the most efficient and secure manner in a cloud environment.  
+Major Responsibilities
+   Collaborating with coworkers to conceptualize, develop, and release software.
+Conducting quality assurance to ensure that the software meets prescribed guidelines.
+Ensure security compliance.
+Suggesting alterations to workflow in order to improve efficiency and success.
+Participate in the building and tweaking of tools and processes to support the infrastructure and improve operations.     
+Your Profile
+  Qualification
+University degree in Computer Science, Software Engineering, or equivalent work experience.
+  Skills / Know-How
+Ability and experience to use and adapt a wide variety of open-source technologies
+Solid understanding of cloud technology / IaaS / PaaS / SaaS
+Good understanding of Linux Containers and Kubernetes
+Strong grasp of DevOps tools – Ansible, Git, Jenkins, Helm
+Good knowledge of Bash and Python scripting languages
+Troubleshooting and problem-solving skills
+Ability to respond to changes in an agile manner 
+Team player - communication is king
+Previous experience working in the Software Engineering discipline 
+Wir bieten
+Join an innovative company which undertakes an amazing journey to the #cloud
+Experience in an environment with unique complexity and a hardly matched criticality among the leading tech companies
+Professional development in a truly international and multisite environment with a great mix of people
+A wide set of trainings available to broaden your knowledge and enhance your soft skills incl. on-line learning hubs packed of technical and soft skills to help to develop any competencies
+Enter a diverse and inclusive workplace
+Competitive remuneration and a number of additional benefits such as internet and commuting allowance, job bike, subsidized canteen, insurances, hybrid working model incl. up to 20 days of work from abroad, etc. 
+  Weitere Informationen
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Amadeus Data Processing GmbH
+München, Deutschland
+Company Benefits
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company medical officer
+Stock options
+Coaching
+Public transport ticket
+Car/Travel allowance
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

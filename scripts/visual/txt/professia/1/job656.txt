@@ -1,0 +1,108 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePHP/React developer  Можливість для людей з України
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Voľné pozície
+O nás
+Zamestnanecké výhody
+Kontakt
+PHP/React developer
+                                Miesto práce
+                            Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Druh pracovného pomeru
+                            plný úväzok
+                                Termín nástupu
+                            1.6.2023
+                                Mzdové podmienky (brutto)
+Od 2 200 EUR/mesiacBonus: Výkonnostná prémia 2x ročne až do výšky 16,67% zo zákl. mzdy vyplatenej za hodnotené obdobie (spravidla 6 mesiacov).*Finálna suma základnej zložky mzdy môže byť navýšená v závislosti od individuálnych znalostí a skúseností vybraného kandidáta.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo nášho zabehnutého tímu Web Solutions hľadáme nového kolegu/kolegyňu. Pomôžeš nám s implementáciou úplne novej aplikácie slúžiacej pre celý ESET.
+Okrem toho sa budeme spolu podieľať na udržiavaní a rozširovaní našich už zabehnutých aplikácií a služieb (releasovanie produktov, štatisticky/reporting portál, systém pre support tickety, manažment číselníkov, overovanie leaknutých hesiel...), ktoré využívajú naši zamestnanci ale i klienti po celom svete.
+Našim hlavným programovacím jazykom je PHP (>=8.0) a framework Laravel (nájde sa aj Nette). Frontend riešime prevažne v Bootstrap/Tailwind CSS a React.
+Hľadáme niekoho, kto má skúsenosti v spomenutých oblastiach alebo sa o ne zaujíma a má chuť na sebe pracovať a vzdelávať sa.
+Pár skratiek, s ktorými sa u nás budeš stretávať:
+• PHP > =8.0 (niečo v 7.x sa ešte taktiež nájde)
+• Laravel (Nette)
+• Bootstrap, Tailwind CSS
+• React, Livewire
+• JS (TS)
+• testy (PHPUnit, Dusk)
+• Git (Bitbucket)
+• SQL (MariaDB), Redis
+• Docker
+• REST, gRPC
+• CI/CD (Jenkins, Deployer)
+• PHPStan
+• Linux
+.. a mnoho iných
+Pracovať budeš na naozaj zaujímavých projektoch a vo skvelom tíme. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiPHP - PokročilýReactJS - Pokročilý Inzerujúca spoločnosť Stručná charakteristika spoločnostiKeď v roku 1987 dvaja mladí programátori zo Slovenska, Peter Paško a Miroslav Trnka, napísali program na detekciu jedného z prvých počítačových vírusov, ešte netušili, že práve začali písať históriu jedného z najúspešnejších antivírusových programov na svete. Pomenovali ho NOD - "Nemocnica na okraji disku", podľa vtedy populárneho československého seriálu. Pár rokov po nežnej revolúcii založili spoločne s ich priateľom Rudolfom Hrubým spoločnosť ESET.
+To, čo sa pôvodne javilo len ako obývačkový projekt troch kamarátov, je dnes najhodnotnejšia slovenská IT firma, ktorá svojou technológiou NOD32 chráni viac ako 100 miliónov užívateľov po celom svete.
+Prirodzene, nestalo sa tak zo dňa na deň. Globálny úspech spoločnosti a jej rast naštartoval v roku 1998 zisk prvého stopercentného hodnotenia prestížneho britského časopisu Virus Bulletin. V roku 2016 sa spoločnosť ESET stala prvou spoločnosťou, ktorá získala toto ocenenie po 100-krát za ten istý produkt.
+Dnes firma vďačí za svoj úspech viac ako 2100 zamestnancom po celom svete - zviditeľnený nárast z 3 zamestnancov z roku 1987 a 135 zamestnancov z roku 2006. Vyše 1200 z nich má sídlo na Slovensku, v hlavnom sídle ESETu.
+Veľký dôraz kladieme na výskum a vývoj. Okrem regionálnych centier budujeme aj sieť technologických centier po celom svete - v súčasnosti trinásť.
+V priebehu expanzie spoločnosti sme zostali verní zásadám, na ktorých sme boli založení, a zostávame nezávislí aj pri zdolávaní nových výziev. Počet zamestnancov1000 a viac zamestnancov KontaktKontaktná osoba: Marika FiamínováE-mail: poslať životopis
+ID: 4528987 
+     Dátum zverejnenia:  28.2.2023 
+    2023-02-28
+lokalita: Bratislava   Pozícia: Backend programátor, Frontend programátor, PHP programátor, Programátor, Softvérový inžinier   Spoločnosť: ESET, spol. s r.o.   
+Základná zložka mzdy (brutto): 2 200 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

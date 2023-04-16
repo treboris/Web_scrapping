@@ -1,0 +1,30 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Network Automation Engineer (REF1561J) 
+Description
+DNA (Drive Network Automation) is an initiative which unites several projects which are building a technology-savvy platform used across different instances and domains intended for automation and orchestration of network elements, services and network functions. MDO stands for MultiDomain Orchestrator - the platform that orchestrates networks across various domains.
+We are looking for Network Engineers with different level of telecommunication experience from juniors to architects, who are interested in joining the team of leading industry experts driving Network Automation and Orchestration initiatives within Deutsche Telekom and its subsidiary national telecom operators
+Qualifications
+Experience in defining and maintaining complex data models
+Experience in object-oriented programming with Python or similar languages
+Experience in developing of restful API’s (e.g. TMF…)
+Version management of software and configuration artifacts (e.g. GIT, MCICD…)
+Good knowledge of the conception and development of automation technologies and solutions (orchestration, service modelling).
+Basic knowledge of networking (e.g. WAN / LAN / routing / 5G slicing)
+Application (software packages and configurations)
+Container (software packages and configurations)
+Knowledge of operational processes in a telco: in fulfillment, assurance, operation support & readiness, ITIL processes
+Technical understanding of telecommunications infrastructure
+Service & Resource Lifecycle Management
+English spoken and written (Level B2)
+Advantages:
+Data and status models according to e.g. TMF-SID
+Markup languages such as YAML, JSON
+Description standards such as TOSCA, YANG Experience in configuration of key telecommunication service processes: OSR, assurance and fulfilment in modern transport networks
+Test-Driven development (TDD)
+Model based Automation
+Workflow (e.g. BPMN, CAMUNDA)
+DevOps mindset
+German language
+Additional Information
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Jelentkezem

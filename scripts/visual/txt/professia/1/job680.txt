@@ -1,0 +1,122 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Front-End Engineer 
+Open Positions
+Company
+Education Programs
+Benefits
+Senior Front-End EngineerDeutsche Telekom IT Solutions Slovakia
+                                Place of work
+                            040 11 Košice
+                                Contract type
+                            full-time
+Information about the position Job description, responsibilities and dutiesPurpose
+Software Developer works within SCRUM team, to develop, design and implement of new or modified software products or ongoing business projects. Target of development is automation of business processes and cross platform automation. The role is focused on the development of the Telekom Data Intelligence Hub (DIH). We use the full range of data sources, from IoT to social media, to create sustainable innovation/value from the use of data and AI building blocks. 
+Main Tasks
+    • Take part in creating software solutions in scaled agile environment as a member of a cross functional team
+    • Builds cloud hosted, micro-service-based applications considering holistic business requirements and implications along the entire development process
+    • Writes scalable and maintainable code
+    • Ensures quality in every aspect of work, from writing and maintaining documentation, doing code reviews or testing 
+    • Collaborates with other teams in an international environment 
+    •  Shares knowledge with less experience colleagues. Documents and shares best practices. Wage (gross)2 700 EUR/monthWage (gross)
+Final salary is negotiable. 
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary, we provide variable part and other financial benefits. Base salary will be no lower that 2700€/gross.  Employee perks, benefits
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work – life balance
+Other benefits *
+        For more information about our benefits click to Benefits
+Benefits with * are applicable also to part-time positions.This information may be subject to changes and other internal rules. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)Personality requirements and skillsQualifications
+WHAT ARE WE LOOKING FOR?
+    • Bachelor or master's degree in the following areas: Computer science, Engineering or Information Technology or equivalent work experience in IT
+    • At least 3 years' experience in development of complex software systems
+    • Knowledge of related technologies such as:
+    • Angular.js or React.js
+    • HTML/CSS,
+    • JavaScript,
+    • Bootstrap,
+    • OpenAPI,
+    • SpringBoot
+    • VCS and building tools (eg. Git, NPM),
+Optional: 
+    • Cloud know-how and experience (preferably AZURE)
+    • Experience with Java/ Kotlin or Python 
+    • Micro-service Architecture 
+    • Experience with Kubernetes especially in cloud (AKS, EKS, etc.)
+    • Experience with communication protocol like REST, AMQP, Kafka
+    • Experiences with SQL and NoSQL databases like PostgreSQL, MSSQL/MySQL or MongoDB
+    • Familiarity with Big Data Infrastructure like Hadoop, Azure Data Lakes, Cloudera Stack a plus
+    • Use of basic Security Infrastructure Technology (VPN, PGP, OpenID Connect etc.)
+    • Basic Unix/Linux Knowledge (Console, SSH etc.)
+  Advertiser Brief description of the companyOur brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services. Number of employees1000 and more employees ContactContact person: Dragomir Catalin-FlorianE-mail: send CV
+Apply Online
+                        Deutsche Telekom IT Solutions Slovakia
+                        Žriedlová 13, 040 01 Košice
+www.deutschetelekomitsolutions.sk
+055/7853566
+ID: 4528357 
+     Dátum zverejnenia:  28.3.2023 
+    2023-03-28
+lokalita: Košice   Pozícia: Frontend developer   Spoločnosť: Deutsche Telekom IT Solutions Slovakia   
+Základná zložka mzdy (brutto): 2 700 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

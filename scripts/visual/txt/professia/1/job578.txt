@@ -1,0 +1,94 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSW Tool Developer with C++ for Driving Assistance System  Можливість для людей з України
+Práca  na Slovensku
+Práca vo vývoji  v Českej republike
+Práca vo výrobných  závodoch  v Českej republike
+Všetky  voľné miesta
+Place of work
+Sazečská 247/2, Strašnice, Czechia
+Contract type
+full-time
+Wage (gross)
+From 2 200 EUR/month
+SW Tool Developer with C++ for Driving Assistance System
+Information about the position Job description, responsibilities and dutiesValeo is a leading supplier of components and systems for the world's automakers. In our R&D (Research & Development) Center in Prague we develop Advanced Driver Assistance Systems (ADAS) for intelligent cars.We are looking for developer, who will be responsible for the development and testing of reference systems required to validate Valeo functions.YOUR CHALLENGES?Assisting with development of test scenarios and test setup for vehicle and bench testingDevelopment of SW tools and utilities for development and validation of advanced driver assistance systems (ADAS) programming in C++Development of simulation and virtual validation tools based on Urho3D engineWorking on visualization of test vehicles debug data (UI in Qt)Software-In-Loop (SiL) and Hardware-In-Loop (HiL) test environments developmentWorking with innovative frameworks such as OpenCL or NVIDIA CUDACollaboration with teams on other Valeo sites (Ireland, Germany, India, China, USA, …)LET'S TALK ABOUT YOU...A relevant Technical Engineering Degree e.g. Software Engineering, Cybernetics or Robotics, Computer Science, or similarVery good knowledge of C++ including OOP principles (or experience with C#/Java and willing to switch to C++) is essentialPerfect fluency in (technical) English language is a mustProactive approach to problems and personal responsibilityHighly beneficial but not essential would be:Experience with 3D rendering and 3D engines (Unity, Unreal, Urho3D) is major advantageExperience with OpenCV / OpenCL / Nvidia CUDA is an advantageExperience with Qt Framework is an advantageExperience with Linux OS is an advantageExperience in automotive communication protocols such as CAN, LIN, FlexRay, Ethernet is an advantageThe position is also suitable for fresh-graduates with above-average results and relevant extra-curricular activities.WE OFFER:6 weeks of vacation per yearflexible working hours and home office possibilityvariable remuneration - monthly and semester bonuses depending on team and company resultscontribution to the pension insurance after the probation period, 5% from the gross salarymeal vouchers and free time vouchers on Flexi Pass cardpossibility of Multisport cardfitness room and external sports ground (football, basketball, volleyball) on sitemobility support for commuting, accommodation and moving services if you live over 20km awaycompany canteen offering a selection of international cuisineeasy access to work by Prague metro line A, car parking for all employeespersonal development program through technical trainings and language coursesregular company teambuilding eventsoutdoor relax zone with a barbecue space for teambuildingdiscounted prices of car spare parts and accessoriespossibility to see the whole development process in one place from an idea (customer requirement) to a product testing and manufacturing Employee perks, benefitsCompany catering
+Cell phone
+More than 5 weeks of vacation
+Corporate events
+Meal tickets / catering allowance
+Bonuses
+Transport allowance
+Flexible start/end of working hours
+Notebook
+Contribution to sport / culture / leisure
+Contributions to the pension / life insurance Requirements for the employee Candidates with education suit the positionUniversity education (Master's degree)Language skillsCzech - Advanced (C1) and English - Upper intermediate (B2)The position is suitable for a fresh graduateYes Advertiser Brief description of the companyJsme dodavatelem automobilového průmyslu, partnerem všech automobilek po celém světě. Jako technologická společnost navrhujeme inovativní produkty a systémy, které přispívají ke snížení emisí CO2 a k rozvoji autonomního řízení. V našem výzkumném a vývojovém centru v Praze pracuje sedm set inženýrů, špičky v technice a inovacích. Právě ti stojí za nejnovějšími systémy aktivní bezpečnosti aut (ADAS) a autonomního řízení. Co to znamená? Software, hardware inženýři spolu s mechanickými designéry, testovacími a systémovými inženýry vyvíjí systémy pro ochranu posádky a komfort při jízdě. Automatické parkování, autonomní nouzové brzdění, hlídání mrtvého úhlu zrcátek či čtení dopravních značek se rodí a vylepšuje právě díky nim. Number of employees1000 and more employees Company addressSazečská 247/2, 108 00 Praha, Česká republika ContactContact person: Jana Vlčková DiddenováE-mail: send CV
+V prípade, že vás táto pracovná ponuka zaujala, pošlite nám svoj životopis.
+Kontakt
+VALEO
+Jana Vlčková Diddenová
+Pošlite životopis
+ID: 4531361 
+     Dátum zverejnenia:  3.3.2023 
+    2023-03-03
+lokalita: Prague   Pozícia: Programmer   Spoločnosť: Valeo   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 200 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

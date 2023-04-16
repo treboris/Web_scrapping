@@ -1,0 +1,68 @@
+Jobs by email
+hauck GmbH + Co. KG
+BI Engineer and Product Owner (m/f/d)
+Sonnefeld
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+Die Firma hauck ist im Babyfieber und das seit 1923!
+Unsere Gruppe besteht aus der B2C Plattform Babyartikel.de (KP-Family) in Aschheim und dem B2B Geschäft EURET sowie der mittlerweile 100 Jahre bestehenden Produktmarke Hauck mit Sitz in Sonnefeld. Insgesamt beschäftigt die Gruppe 300 Mitarbeitende welche sich schon darauf freuen, dich in unserme Team begrüßen zu dürfen.
+Die Hauck & KP Family Group sucht einen hochqualiﬁzierten und erfahrenen BI-Ingenieur und Product Owner zur Verstärkung unseres wachsenden Teams. Als Product Owner BI übernimmst Du die Verantwortung für unsere konzernweiten BI-Systeme (Data Virtuality & PowerBI). Du bist verantwortlich für den Entwurf, die Entwicklung und die Implementierung von Business-Intelligence-Lösungen zur Unterstützung von Entscheidungsprozessen im gesamten Unternehmen. Unsere Konzerngesellschaften beﬁnden sich in Aschheim (Deutschland), Sonnefed
+(Deutschland), Hongkong und in den USA. Diese Funktion erfordert praktische operative Stärke und ein tiefes Verständnis von Daten, den neuesten technologischen Trends und deren Anwendung im geschäftlichen Kontext.
+BI Engineer and Product Owner (m/f/d)
+Your Tasks
+Entwerfen, entwickeln und pﬂegen unserer Data-Warehousing- und Business-Intelligence-Lösungen.
+Entwicklung komplexer SQL-Skripte und Prozeduren zur Extraktion und Manipulation von Daten in Data Virtuality
+Implementierung von Datenmodellen und Bereitstellung von Data Governance zur Gewährleistung von Datengenauigkeit, -vollständigkeit und -konsistenz.
+Umsetzung des Konzepts von Daten als Produkt (Datengeﬂecht).
+Entwerfen und entwickeln von Berichten und Dashboards mit PowerBI, um aussagekräftige Einblicke in die Daten zu erhalten.
+Erstellen von Insights für unser Online-Shop Tech Team (babyartikel.de) durch Kombination von Google Analytics Daten mit externen Quellen (z.B. Facebook Conversion API, Amazon APIs) und internen Daten (z.B. ERP oder PIM).
+Erweitern unserer Amazon Management Dashboards.
+Erstellung und Bereitstellung eines beschreibenden Datenwörterbuchs für die Organisation
+Zusammenarbeit mit Stakeholdern, um Geschäftsanforderungen zu verstehen und sie in umsetzbare Erkenntnisse umzuwandeln.
+Erstellen von Dashboards zur Datenvisualisierung, die Erkenntnisse auf benutzerfreundliche und interaktive Weise präsentieren.
+Sicherstellung der Leistung, Sicherheit und Skalierbarkeit der Data-Warehousing- und Business-Intelligence-Systeme.
+Your Profile
+Bachelor-Abschluss in Informatik, Wirtschaftsinformatik oder einem verwandten Fachgebiet.
+Ausgezeichnete Deutsch- und Englischkenntnisse in Wort und Schrift.
+Mindestens 3 Jahre Erfahrung in den Bereichen Data Warehousing, Business Intelligence und SQL-Programmierung.
+Erfahrung in der Extraktion, Aggregation und Manipulation von Daten in Plattformen wie Data Virtuality oder Snowﬂake.
+Erfahrung mit PowerBI und Datenvisualisierungstechniken.
+Beherrschung des Schreibens komplexer SQL-Skripte und -Prozeduren.
+Ausgeprägte analytische und problemlösende Fähigkeiten.
+Erfahrung in der Arbeit in agilen Entwicklungsumgebungen ist ein Plus.
+We Offer
+Flexible Arbeitszeiten
+Weiterbildungsmöglichkeiten
+Sprachkurse oder individuelle Fachkurse
+iMitarbeiterrabatte
+Mobiles Arbeiten
+Gesundheitsförderung
+Gesundheitstage, Rabatte für Fitnessstudios, Massagen und vieles mehr
+ioﬀene Feedback- und Duz Kultur
+Interested?
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+hauck GmbH + Co. KG
+96242 Sonnefeld, Deutschland
+Company Benefits
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Company medical officer
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,76 @@
+Jobs by email
+Bosch Gruppe
+Site Reliability Engineer - Bosch Connected Industry (f/m/div.)
+Stuttgart
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Robert Bosch Manufacturing Solutions GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Stuttgart
+Your tasks
+As Site Reliability Engineer you closely collaborate with the product development teams to optimize system's observability, availability, scalability, performance and latency.
+You implement core ITSM processes following ITIL standards matching with requirements of agile software development to optimize delivery quality.
+You analyze and close gaps in existing service management processes to ensure organization success.
+The definition of service level indicator and objectives to track the reliability of our software is part of your work.
+The optimization of our monitoring strategy to prevent faults in the system, reduce failure detection time and improve mean time to recovery rounds off your responsibilities.
+Your profile
+Education: completed studies in Information Technology, Engineering or a comparable subject
+Personality: independent, teamplayer and flexible 
+Working Practice: analytical and structured
+Experience: several years of professional experience with software monitoring and observability topics of web applications concepts (Traces, Metrics, and Logs), Standards (OpenTelemetry, OpenTracing, and OpenMetrics), overall application performance monitoring, first experiences and knowledge with monitoring software, experience with implementing end-to-end monitoring solutions
+Knowledge: basic knowledge of microservice-based systems deployed using Kubernetes, Helm and Terraform
+Qualifications: ITIL certification is a plus
+Languages: very good communication skills in written and spoken English, German is a plus
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Maybachstraße 6, 70469 Stuttgart, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

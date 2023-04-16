@@ -1,0 +1,140 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceAzure Solution Architect 
+Azure Solution ArchitectManuvia, a. s.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 000 - 4 400 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHlavné kompetencie:
+• Návrh technických riešení inovatívnych cloudových architektúr založených na cloudových službách Azure
+• Zodpovednosť za plánovanie a návrh riešení, implementáciu a migráciu infraštruktúrnych a softvérových riešení do Azure
+• Zodpovednosť za návrh implementačných a prevádzkových konceptov pre služby Azure, podporu projektov v súlade s finálnym modelom prevádzky
+• Skúsenosti v oblasti cloudových infraštruktúrnych služieb, dokáže vytvárať hybridné riešenia a optimálne kombinovať verejné a súkromné cloudové komponenty
+• Poznanie cloudových služieb Azure a licencie, skúmanie nových služieb Azure s cieľom rozvíjať portfólio a štandardy
+• Schopnosť vyvíjať štandardy a procesy (Blueprints, Policy atď.) pre hybridný cloud a optimalizovať existujúce procesy
+Hlavné výsledky:
+• Poradenstvo zainteresovaným stranám a preklad obchodných požiadaviek do návrhov bezpečných, škálovateľných a spoľahlivých riešení Azure.
+• Navrhovanie riešení identity, správy, monitorovania a kontinuity prevádzky
+• Navrhovanie riešení na ukladanie údajov, infraštruktúrnych riešení a vykonávanie revízií architektúry pre modernizáciu aplikácií)
+• Navrhovať referenčné architektúry, vzory a postupy, cieľové zóny a podporovať dodávateľský tím
+• Vyvíjať koncepty a overovať ich pomocou overenia konceptu a prototypovej implementácie
+• Definovať prístupy k migrácii pre každú aplikáciu s posúdením komplexnosti
+• Poskytovať mapovanie technológií z lokálnych technológií na cloudové služby, zhromažďovať poznatky o požiadavkách na pracovné zaťaženie Zamestnanecké výhody, benefity• 13. plat a ročný bonus
+• Odmeny za vaše mimoriadne úsilie
+• Príspevok 6 EUR na kvalitné potraviny. Strava bude hradená v plnej výške, a to aj v dňoch dovolenky
+• Podiel na úspechu banky, možnosť stať sa akcionárom banky
+• Odporúčací bonus do výšky1 000 EUR;
+• Ročný príspevok vo výške 264 €
+• Príspevok do 3. piliera
+• 5 dní dovolenky navyše;
+• Deň voľna - pre rodiča budúceho prváčika v jeho prvý deň v škole, na darovanie krvi, na dodatočnú zdravotnú prehliadku;
+• Príspevok na psychologickú podporu
+• Multisport karta
+• Semináre na platforme SEDUO
+• Služba Lucky time
+• Teambuildingy Spoločnosť, pre ktorú je pozícia obsadzovanáPre jednu z najvýznamnejších a najstabilnejších slovenských bank hľadáme Azure Solution Architekta.
+• Ako súčasť cloudového tímu budete zodpovedať za návrh, analýzu riešení, implementáciu komplexných cloudových riešení a poskytovanie podpory počas implementácie cloudových riešení. 
+• Pri realizácii úloh budete využívať svoje skúsenosti s technológiami Azure (sekundárne AWS). Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitouJazykové znalostiAnglický jazyk - Pokročilý (C1)Osobnostné predpoklady a zručnosti• Skúsenosti s porovnateľnými úlohami
+• Výrazné skúsenosti (aspoň 2 roky) v oblasti produktov a technológií Azure (Subscription, Network, Compute Engine, Serverless, Storage Solutions, iné...)
+• Skúsenosti v oblasti architektúry cloud computingu (IaaS, PaaS, SaaS) a DevOps
+• Výrazné skúsenosti (min. 2 roky) s hybridnými cloudovými riešeniami v spojení s Azure
+• Výrazné know-how v oblasti návrhu riešení s minimálne 3-ročnými skúsenosťami v prostredí outsourcingu IT a závislostí procesov a RTO
+• Dobrá znalosť aplikácií a infraštruktúr, konceptov architektúry a technológií
+• Veľmi dobré technické znalosti a aspoň 5 rokov skúseností v oblasti prevádzky IT
+• Vynikajúce a široké technické znalosti a dôkladná znalosť sietí (Cisco,..), úložísk (IBM,atď.), VM ware, operačného systému (Windows, AIX, Linux,..)
+• Hlboká znalosť architektúry IT systémov Dobré obchodné znalosti, najmä v oblasti nákladov a výpočtu investícií
+• Výrazná ochota cestovať
+• Plynulá obchodná a technologická znalosť anglického jazyka
+IT Skills
+• Operačné systémy - expert
+• Sieťové technológie - expert
+• Špecifické aplikácie pre danú oblasť - expert
+• Architektúra riešení - pokročilý
+• Virtualizácia - pokročilý
+• Riadenie IT - stredne pokročilý
+Soft Skills
+• Výrazne analytický, systematický a štruktúrovaný spôsob práce
+• Tímová spolupráca - expert
+• Vynikajúce prezentačné zručnosti
+• Projektové riadenie - základy
+Odborné znalosti: ( vzdelanie a certifikáty )
+• Azure administrator
+• Azure Security Engineer
+• Azure Network Engineer
+• Azure Virtual Desktop administrator
+• Azure Solution Architect
+Školenia
+• AZ900 , TOGAF, PMBOK, DP900 Inzerujúca spoločnosť Stručná charakteristika spoločnostiManuvia je personálna agentúra, ktorá pôsobí na slovenskom a českom trhu už vyše 20 rokov. Zabezpečujeme komplexný servis služieb – od dopravy a ubytovania až po starostlivosť koordinátorov na pracovisku. Naše skúsené náborárky pre vás nájdu ideálnu prácu. Nezmeškajte tie najlepšie pracovné ponuky a kontaktujte nás ešte dnes!
+Počet zamestnancov
+5000 a viac zamestnancovSpoločnosť je držiteľ povolenia na sprostredkovanie práce. Počet zamestnancov1000 a viac zamestnancov KontaktKontaktná osoba: Alen IdriziE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4531660 
+     Dátum zverejnenia:  3.3.2023 
+    2023-03-03
+lokalita: Bratislava   Pozícia: IT analytik, IT architekt, Programátor, Softvérový inžinier, Správca informačného systému   Spoločnosť: Manuvia, a. s.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 3 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

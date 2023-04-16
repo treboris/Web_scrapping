@@ -1,0 +1,40 @@
+Jobs by email
+Apple Distribution International ULC
+SoC DfT Engineer
+München
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Show salary
+I'm interested
+Save
+Summary
+Will you help us design future generations of revolutionary Apple products? Imagine what you could do here. At Apple, new insights have a way of becoming outstanding products, services, and customer experiences very quickly. Every single day, people do amazing things at Apple. You will become part of a hands-on development team that furthers engineering perfection, creativity and innovation. Multifaceted, encouraging people and innovative technologies are the norm here. We want you to join our team if you are an innovative engineer with the dream to research and develop solutions that do not yet exist.
+In this highly visible role, you will be at the centre of a System-on-Chip design effort collaborating with all fields, with a critical impact on getting functional products to millions of customers quickly.
+Description
+Lead the complete DfT solutions in a chip design by working with chip DfT team to detail DfT specifications, and define the SoC test interface
+Develop and implement DfT architecture as well as generate structural test vectors, analyze and improve coverage
+Work with the validation team, the design team and testing team for different DfT topics
+Qualifications
+Key Qualifications
+We are counting on your expertise and knowledge about industrial standards and practices in DfT, including ATPG (debug, compressed patterns), JTAG/1500 debug, MBIST and trade-offs between test quality and test time
+You have experience developing DfT specifications and driving DfT architecture and methods for designs
+You are confident with Verilog and / or VHDL, and have experience with simulators and waveform debugging tools
+By now you are demonstrating proven understanding of design verification (DV) methodologies for validating DfT implementation in simulation pre-silicon
+You have experienced with STA constraints development and analysis for DfT modes and SDF simulations
+You love conducting experiments during silicon debug, capturing and analyzing data; and utilize scripting to support efficient handling of ATE data
+Education and Experience
+You hold Master's in Electrical / Computer Engineering, or equivalent strong experience.
+Why Apple?
+Apple is an Equal Opportunity Employer that is committed to inclusion and diversity. We take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, and individuals with disabilities.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

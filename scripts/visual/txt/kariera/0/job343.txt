@@ -1,0 +1,61 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+ Senior BE .NET/C# Developer s presahom na FE (Ref. č.: 1-16-39366)
+			11.03.2023		
+			Grafton Slovakia s.r.o.			
+Agentúra je členom asociácie personálnych agentúr Slovenska  
+ Miesto práce: 
+ KošiceKošice 
+ Pozícia / odvetvie: 
+ Informatika - software 
+Ponúkaný plat (základná mzda):
+2500 - 4000 EUR
+ Druh pracovného pomeru: 
+ plný úväzok 
+ Počet voľných miest: 
+ 1 
+Informácie o pracovnom mieste
+ Náplň práce, informácie o pracovnom mieste: 
+ Hľadáme skúseného C# developera, ktorý sa nebojí výziev, okrem backendu ovláda aj front endové technológie a chcel by sa stať súčasťou agilného tímu talentovaných programátorov v menšej firme so sídlom v Košiciach.
+- práca na projektoch pre zákazníkov (predovšetkým v Nemecku), dodávanie riešení na mieru podľa požiadaviek zákazníka
+- vývoj v rámci SharePoint (resp. Microsoft Tech stack), vývoj custom apps za použitia JavaScript, React, Knockout, .NET a MS Azure
+- spolupráca v menšom tíme pod vedením Tech Leada/CTO 
+ Benefity a ďalšie výhody: 
+ - možnosť 100% remote, 
+- poskytnutie kurzov a certifikácií potrebných pre projekt
+- 3 sick days
+- dôraz na výsledky, flexibilný pracovný čas
+- Extra dni voľna pre špeciálne udalosti v živote
+- práca v mladom, ale skúsenom tíme, zdieľanie know-how
+a ďalšie. 
+ Informácie pre uchádzača: 
+	Zašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku.
+Viac podobných pozícií nájdete na www.grafton.sk/sk/job-search?utm_source=jobboard&utm_medium=jobposition  
+Požiadavky na zamestnanca
+ Minimálne požadované vzdelanie: 
+ vysokoškolské II. stupňa 
+ Vhodné pre absolventov: 
+ Nie 
+ Všeobecne požadované znalosti: 
+ - aspoň 4 roky skúseností Web Developer v Microsoft stacku (.NET backend)
+- znalosti FE technológií React/Angular
+- high-performance, schopnosť zastrešiť dodávku celého produktu, dôraz na kvalitu nad kvantitou
+- samostatnosť, flexibilita (občas bude treba prispôsobiť sa práci)
+Výhodou:
+- SharePoint, Nintex Workflows a Forms, MS SQL, PowerShell
+- znalosť Nemeckého jazyka	 
+Informácie o spoločnosti
+ Charakteristika spoločnosti: 
+ Spoločnosť Grafton Slovakia s.r.o., svetovo uznávaný poskytovateľ personálnych služieb a sprostredkovaní práce, je personálno-poradenská agentúra so širokou pôsobnosťou. V oblasti sprostredkovania práce ponúkame stále zamestnanie, dočasné úväzky, brigády, ale tiež prácu v zahraničí. Zameriava sa predovšetkým na ponuky práce v nasledujúcich oboroch: obchod, marketing, administratíva, financie, bankovníctvo, IT, engineering, výroba, farmácia, cestovný ruch a ďalšie. Okrem ponuky práce poskytuje aj personálne poradenstvo, napr. ako napísať životopis, sprievodný list či ako sa pripraviť na pohovor.
+Medzi široké portfólio Grafton služieb tiež patrí personálna inzercia na mieru, testovanie kandidátov, Assesment Centres, personálne a mzdové vedenie, konzultácie v oblasti ľudských zdrojov a Outplacement.
+Graftonu záleží na kvalite, a preto sa snaží na trhu sprostredkovania práce a personálneho poradenstva ponúknuť maximálne profesionálny servis. Práve preto implementoval európsky uznávaný systém riadenia kvality ISO 9001. Certifikát ISO 9001 prispieva k snahe spoločnosti Grafton vyhovieť požiadavkám jej zákazníkov v najlepšej možnej kvalite. Ku každému  zákazníkovi pristupuje individuálne s prioritou nájsť spoločné riešenie.  
+Reagovať na ponukuĎalšie ponuky spoločnosti
+Operátor výroby v Kechneci s dopravou z Rožňavy (Ref. č.: 101-18-41214)
+Slovenská republika, Rožňava
+Inžinier dodávateľskej kvality | 1 580 - 1 800 | Kechnec (Ref. č.: 3-10-40365)
+Slovenská republika
+Security application administrator with Cyberark - TPP, REMOTE (Ref. č.: 1-16-39788)
+Prešov
+Elektrotechnik (Ref. č.: 1-10-38352)
+Senec
+Iné možnosti práceInformatika - software Košice | Košice plný úväzok
+Späť na pracovné ponuky

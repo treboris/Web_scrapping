@@ -1,0 +1,54 @@
+Jobs by email
+Rohde & Schwarz GmbH & Co. KG
+Software Engineer (m/f/d) Distributed Software Systems
+München
+Permanent contract
+Full Time, Home office possible
+Published: 9 hours ago
+Save
+Unterstützen Sie unser Team zum nächstmöglichen Zeitpunkt!
+Your tasks
+- Contribute to the development of next generation Mobile Radio Testers with the backend software development
+- Ownership and complete responsibility of the existing communication infrastructure supporting our distributed software system
+- Development of additional features, unit and module testing along with performance benchmarking on the communication infrastructure
+- Drive discussion on design enhancements and new features with the respective stakeholders
+- Collaborate with other experts on language bindings for C++, C#, Python, Java, JavaScript and Rust
+- Co-ordinate roll-out of releases into the components of our distributed system
+- Active engagement and align with the team’s software development practices and contribute to improve the process
+Your qualifications
+- A degree in computer science or similar field of study
+- Qualified professional experience as software development engineer
+- Strong experience in modern C++ development and industry-standard tools such as CMake and Conan
+- Strong experience in concurrent execution patterns and distributed software architecture
+- In-depth knowledge of software development methodology and CI/CD using git, as well as strong software quality awareness
+- Good experience in code generation and know how on development under Linux OS
+- Nice to have exposure to ZeroMQ or similar messaging framework
+- Your way of working is self-reliant, pro-active, team oriented and you have an intercultural mindset
+- Very good spoken and written English language skills
+Our offer
+At Rohde & Schwarz, you can turn your own ideas into real innovations! Rohde & Schwarz offers you the perfect conditions for this to happen: flexible working time models and opportunities for working from home provide you with the necessary freedom, varied food and sporting opportunities keep your health intact, and individual training programs for your personal development. Join us and share your ideas with us!
+Interested?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Rohde & Schwarz GmbH & Co. KG
+München, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+Public transport ticket
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

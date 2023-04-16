@@ -1,0 +1,39 @@
+Jobs by email
+IONOS
+VMware Cloud Network Engineer (f/m/d)
+Berlin, Karlsruhe, Work from home
+Permanent contract
+Full Time
+Published: 2 days ago
+Show salary
+Save
+About us
+IONOS is the leading European digitalisation partner for small and medium-sized businesses (SMB). The company serves around six million customers and operates across 18 markets in Europe and North America, with its services being accessible worldwide. With its Web Presence & Productivity portfolio, IONOS acts as a 'one-stop shop' for all digitalisation needs: from domains and web hosting to classic website builders and do-it-yourself solutions, from e-commerce to online marketing tools. In addition, the company offers Cloud Solutions to enterprises who are looking to move to the cloud as their businesses evolve.
+Your tasks
+We are growing our team of network experts and are looking for a VMware NSX-T engineer to design, develop and customize our Sovereign Private Cloud product. You can expect modern, globally distributed, and highly scalable infrastructures and will work closely together with software development, product owners and our routing & switching teams. In a culture which places great value on creative ideas, agile working methods, initiative, and participation, you can expect the following tasks:
+Specify, evaluate and implement core functionalities and features of our Private Cloud product.
+Integrate NSX-T software defined networks with existing network infrastructures.
+Administration and troubleshooting of highly available SDN and complex cloud infrastructures.
+Generate detailed standard operating procedures (SoPs) of the NSX-T environment and automate the NSX-T platform as appropriate.
+Provide expert solutions and consultancy for customers in VMware NSX-T technologies.
+Manage customer and internal escalations, collaborate with support and development teams.
+We appreciate
+You have studied computer science or have completed comparable education and have profound (senior level) working experience with VMware. You also have the following qualifications:
+Thorough understanding of products and technologies in the cloud industry.
+Several years of extensive experience with VMware vSphere.
+Practice in designing and deploying vDC and multi-tenancy within a data center.
+Experience in network automation with Ansible, PowerShell and Python.
+Well versed with patch management on VMware platforms.
+Product engineering background is a strong plus.
+The ability to communicate with an international team fluently in English. Spanish and German are a plus.
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Certificates

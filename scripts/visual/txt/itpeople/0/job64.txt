@@ -1,0 +1,25 @@
+Közösség
+Kapcsolat
+Python Developer állás Budapest
+Javascript
+Python
+Linux
+Szoftverfejlesztő állások 
+											Our multinational client looks for a new colleague asPython DeveloperRoleIn a world where everything needs to be delivered more quickly, without impacting quality, automation of our processes has a keOur multinational client looks for a new colleague asPython DeveloperRoleIn a world where everything needs to be delivered more quickly, without impacting quality, automation of our processes has a key role. As part of the Datacenter Automation team, you help realizing this on the infrastructure level.You help automate daily operations within the datacenter department and build future-proof datacenter management tools with infrastructure-as-code and infrastructure-as-a-service as goal. You deliver qualitative and performant solutions.The team does this by developing new applications, implement infrastructure-as-code with the help of Jenkins build streets, implement automated datacenter service offerings with a standardized framework, scripting daily operation tasks… Mostly this is done with Python, Ansible and Jenkins. Your role in the team is help building, enhancing, modifying and maintaining these solutions. ResponsibilitiesYou participate in making customer requirements clear.You do design-driven implementation of solutions according to the discussed requirements.You perform unit, integration and functional testing to ensure a qualitative result.You continuously improve the way we deliver solutions.You work agile and team context. When needs shift, you quickly adapt. QualificationsExperienced in Python and Object oriented programmingBasic knowledge on JavaScript and HTMLExperienced in using GITBasic knowledge on working on Linux based infrastructureComfortable with frequent, incremental code testing and deploymentGood communication skills in English - written and spoken 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Starjobs Magyarország Kft.													
+Budapest
+Nincs meghatározva
+ Szoftverfejlesztő
+Lejárati dátum: 2023-03-24 12:13:50
+Álláshirdetés részletei
+PozícióPython Developer
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaSzoftverfejlesztő
+Hasznos linkek

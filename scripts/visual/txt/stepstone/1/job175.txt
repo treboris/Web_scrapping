@@ -1,0 +1,45 @@
+Jobs by email
+MediaMarktSaturn Technology
+Cyber Security Engineer (m/f/d) SAP
+Stuttgart, Hamburg, Düsseldorf, Leipzig, Ingolstadt, Frankfurt, Berlin, Köln, München
+Permanent contract
+Full Time
+Published: 1 day ago
+Show salary
+Save
+About us
+At MediaMarktSaturn, "Let's Go!" is not just a slogan, it is an attitude. We love technology and we want to excite. We have fun and want to inspire. Our customers and our teams. That's why we are looking for people who share this spirit. People who are passionate about creating the shopping experience of the future together with 50.000 colleagues across Europe.
+MediaMarktSaturn Technology is working to make Europe's number-one consumer electronics retailer the technology leader in its industry. To this end, several hundred developers, UX designers and system architects using state-of-the-art technology work hand in hand with business owners in agile teams to develop customer-focused technology solutions for more than 6 million customers every day in 13 countries. 
+The SAP Security engineer (m/f/d), implements, and maintains effective methods to protect SAP applications. You establish procedures and technical measures to assist in the deployment and maintenance of Application Security used around the MMS SAP environment. You will be collaborating with the global security team, risk and compliance teams, solution teams and business to provide recommendations of operational and technical solutions to enable the business and maintain the security posture to appropriate risk levels.
+Your tasks
+SAP Application Management including access control, process control, and elevated privilege configuration management
+Secure SAP Integrations, maintain, and audit all integration security
+SAP SIEM Management including use case definition and product maintenance
+Liaison with SOC for SAP Security Incident Management Process
+Maintain Single Sign on Integrations for SAP Applications, including certificate management, conditional rule definition, and other related SSO configuration
+Keeping informed of emerging solutions and security capabilities and tools to help mitigate security vulnerabilities and automate repeatable tasks in the SAP context
+Interface within the broader Information Security function to help design and implement security improvements
+Anticipates problems and identifies long-term implications of decisions and actions
+Requirements
+Must display Enthusiasm and interest in Information Security and draw recommendations based on real world experience
+Current holder of CISSP, or other industry certifications a plus
+Bachelors' degree or equivalent work experience
+Application security experience in SAP SuccessFactors, SalesForce, Coupa, SAP Concur, or other cloud-based applications
+Process Control design and administrative experience
+SAP S4 or SAP ECC Security and Role Management
+Any Security SAP Certifications
+Microsoft Active Directory and/or Azure Active Directory Experience
+Strong sense of professionalism and ethics
+Benefits
+Passion for Technology in Retail! As part of open and dynamic teams, you are developing solutions for Europe's largest consumer electronics retailer. Alongside challenging tasks with latest technologies, we are offering various benefits as well as flexible working time and possibilities for personal development. As part of the Future Technology Lab you are building the future of retail and services.
+You want to be part of an innovative, dynamic environment in Consumer Electronics Retail? Join our agile teams! Thanks to our flexible workplace models, you have the opportunity to work in one of our locations in Ingolstadt / Munich and remotely. At the same time, we are building up our ""Regional Tech Offices"" in the metropolitan regions of Berlin, Düsseldorf,  Frankfurt, Hamburg, Cologne, Leipzig and Stuttgart.
+Are you interested? We are looking forward to your application including the location where you would like to work!
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

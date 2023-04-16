@@ -1,0 +1,53 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceCloud Data Engineer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyCloud Data EngineerEMARK s.r.o.
+Miesto práce
+Westend Gate, Dúbravská cesta, Karlova Ves, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 200 EUR/mesiacPlatové ohodnotenie sa pohybuje od 3200€ brutto + variabilná zložka. Platové podmienky sa pohybujú v závislosti od znalostí, kvalifikácie a motivácie kandidáta.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme nadšenca pre prácu s modernými SW technológiami, schopného pracovať efektívne samostatne aj v tíme. Budeš pracovať v inšpiratívnom prostredí, ktoré prepája biznis a technológie. Ponúkame prostredie inovatívnej technologickej firmy s výborným kolektívom a priateľskou kultúrou, na ktorej si dáme veľmi záležať. Naším poslaním je pomáhať ľuďom s efektívnejším využitím dát. Automatizácia procesov, nastavenie dátových tokov, hľadanie súvzťažností v dátach, zlepšenie prístupu k dátam a využitie najmodernejších cloudových technológii sú hudbou pre naše uši.
+Ak hľadáš prácu, kde sa vieš rýchlym tempom vzdelávať a využívať najmodernejšie technológie, si na správnej adrese. U nás stretneš nie len expertov na business intelligence (BI) technológie, ale aj na špecifické prostredie konkrétnych odvetví – máme vyše 200 klientov, ktorí pôsobia naprieč oblasťami, mnoho z nich naozaj prestížnych. Budete sa môcť učiť od najlepších v branži, radi podporíme vaše inovatívne nápady a tiež sa môžete tešiť na osobný aj profesionálny rozvoj.
+- Pracovať na zaujímavých projektoch, tvoriť dizajn užívateľských aplikácií a skripting dátovo-transformačných procesov v ETL podľa potreby
+- Realizovať navrhované koncepty (data streaming, migrácia dát zo zdrojových systémov klienta do cloudu, využitím ETL a/alebo real-time streamingu, prípadne API) do Snowflake-u / inej cloudovej databázy
+- Spolupracovať na analýze potrieb klientov a pochopenia ich dátových zdrojov, ich štruktúr a pod. Komunikácia s klientom
+- Tvoriť a prezentovať prototypy a demo aplikácie v Qlik Sense a súvisiacich nástrojoch
+- Tvoriť optimálny koncept raw-to-ready data v kontexte potrieb klienta, jeho „data landscape“, a našich technologických možností (Qlik Sense, Snowflake, Qlik Replicate/Compose, Qlik Sense)
+Odborné požiadavky:
+- Skúsenosti s SQL databázami (MS SQL, Oracle, MariaDB, PostgreSQL alebo podobné)
+- Skúsenosť s akýmkoľvek ETL nástrojom (napr. Keboola, Azure DataFactory, AWS Glue, Alteryx, …)
+- Skúsenosť s migračnými alebo integračnými projektami v oblasti dát
+- Zvládnutie MS Office nástrojov
+Odborné požiadavky výhodou
+- Skúsenosť s BI nástrojmi (Qlik Sense, PowerBI), kontrolingom /reportingom
+- Znalosti javascript, JAVA, C#, Python alebo iného programovacieho jazyka
+- Anglický jazyk – pokročilý – slovom aj písmom
+- Znalosť Snowflake, Databricks, a pod.
+- Znalosť cloudových služieb v Azure alebo AWS, ktoré súvisia s integráciou, spracovaním alebo analýzou dát Zamestnanecké výhody, benefity- Práca v špičkových a moderných technológiách (Qlik, Snowflake...) na zaujimavých projektoch
+- Implementovanie inovatívnych riešení, ktoré fungujú a majú prínos pre viac ako 200 zákazníkov
+- Prístup k najmodernejším poznatkom a trendom v oblasti Dátovej Analytiky
+- 25 dní dovolenky bez ohľadu na vek
+- Zmluva na dobu neurčitú formou TPP/ŽL/s.r.o. ako aj orientácia na dlhodobú spoluprácu a partnerský prístup
+-Príspevok v hodnote 20€/mes. na realaxáciu a športové aktivity
+- Hybridný model spolupráce (Možnosť home-office)
+- Mobilný telefón a PC aj na súkromné účely
+- Možnosť zdarma parkovať v budove
+- Káva, čaj, ovocie na pobočke
+- Škôlka v budove Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformačné technológieJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiAutomation - Mierne pokročilýBusiness Intelligence (BI) - Mierne pokročilýSnowflake - Mierne pokročilýQlik Sense - Mierne pokročilýSQL - Mierne pokročilýAlteryx - ZákladyDatabricks - ZákladyPrax na pozícii/v oblasti2 Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme poradenská a implementačná firma, ktorej poslaním je maximalizovať hodnotu dát pre našich klientov. Za 22 rokov sme doteraz sprevádzali viac než 200 organizácií po celom svete pri tvorbe, adopcii alebo udržiavaní ich dátových riešení. V EMARKu sa sústreďujeme na preverené technológie – Qlik, Snowflake, Inphinity, Vertica, NodeGraph a ďalšie.
+Vďaka nasadeniu a vášni pre dáta sme získali status Qlik Master Reseller pre Slovensko, Českú republiku a Maďarsko a Qlik Solutions Provider v Austrálii. EMARK dnes tvorí viac než 50 expertov, schopných adresovať akékoľvek dátové výzvy.
+Viac informácií o histórii a ponúkaných službách nájdete na https://emarkanalytics.com/ Počet zamestnancov25-49 zamestnancov 
+ID: 4467694 
+     Dátum zverejnenia:  31.1.2023 
+    2023-01-31
+lokalita: Bratislava   Pozícia: DevOps Engineer, IT architekt, Programátor, Softvérový inžinier, Systémový inžinier   Spoločnosť: EMARK s.r.o.   
+Základná zložka mzdy (brutto): 3 200 EUR/mesiac
+                Všetky ponuky

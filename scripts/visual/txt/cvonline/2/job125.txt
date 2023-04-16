@@ -1,0 +1,65 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Java developer 
+Interested in the world of renewable energy? Do you want a job that creates value for society as well as making money? Do you want your work to have a positive impact? impact on the environment, using the technologies of the future? And as part of an innovative and dynamic team?
+ Join us!
+Main tasks, jobs:
+design, implementation, testing of solar energy software, ongoing management of related documentation
+development infrastructure maintenance
+participation in the daily work of the team (code review,stand-up, meetings, sprint planning)
+assisting team members, knowledge sharing, knowledge transfer
+Expectations of the job:
+strong bachelor's degree or higher in a relevant field
+knowledge of agile methodologies
+object-oriented approach
+version control (git) experience
+minimum 3-5 years Java (8+, but preferably 11+) experience
+knowledge of spring framework
+automated testing skills
+relational database experience
+typescript (ES 6+) experience
+distributed systems experience
+strong command of English (at least non-verbal)
+mentoring skills, knowledge transfer
+high degree of independence
+An advantage when filling this position:
+docker (containerisation)
+professional experience in the energy sector
+python3 experience
+knowledge of Atlassian products (Jira, Confluence, Bitbucket)
+CI (jenkins) knowledge
+knowledge of react framework
+ansible management system experience
+What we offer:
+competitive salary
+use of latest technologies
+quality coffee :)
+smart, adaptive, automated software development
+professional development opportunities
+cohesive team
+Language skills required:
+intermediate English
+Work location:
+Budapest, XI. kerület
+Job type: Permanent, full-time employment
+Jelentkezem
+Elmentem az állást
+Senior Java developer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 01.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Java Developer 
+ Budapest  
+ Java Developer 
+ Budapest  
+ Senior Java Developer 
+ Budapest  
+ Senior Fullstack Developer (Java/Angular) 
+ Budapest  
+ Java Developer 
+ Budapest  

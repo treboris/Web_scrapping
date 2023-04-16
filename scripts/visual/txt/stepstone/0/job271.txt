@@ -1,0 +1,73 @@
+Jobs by email
+Bosch Gruppe
+Software developer C++ (f/m/div.)
+Nürnberg
+Permanent contract
+Full Time, Part time
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Bosch Sicherheitssysteme Engineering GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Nürnberg
+Your tasks
+You implement and further develop mobile video security applications in C++ for all common platforms and prepare documentation and unit tests (Windows, Android, iOS) .
+You independently implement modules and develop technical concepts for the control of IP security cameras as well as for the transmission of audio/video and AI metadata and their presentation.
+With your own input, you actively shape the user experience of our apps and work on their implementation, whereby you help to develop our user interface framework.
+You support the integration of platform-specific low level interfaces (iOS, Android, Windows) .
+You actively support in further topics e.g. 2D/3D Rendering, connection of platform specific audio/video decoders, IT security and certificate management, build systems and continuous integration.
+Your profile
+Education: Master's degree (or diploma) in computer science or a comparable qualification.
+Personality and working style: independent, self-reliant and structured work as well as a strong conceptual and analytical understanding. Cooperation and proactive contribution of ideas. Enthusiasm and curiosity, creativity, high level of quality awareness and passion for new technologies as well as hands-on mentality.
+Experience and Knowledge: very good knowledge of C++. Relevant additional technical qualification in the field of software engineering audio/video through several years of professional experience and in the development of end-user applications for multiple platforms (iOS, Android, Windows). Experience in the development of interactive, performant user interfaces as well as participation in successful releases of new software products is advantageous. Knowledge in video streaming and programming with Objective-C/Swift, Java/Kotlin or C# is an advantage.
+Languages: very good knowledge of German and English.
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Nordring 69, 90409 Nürnberg, Germany
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

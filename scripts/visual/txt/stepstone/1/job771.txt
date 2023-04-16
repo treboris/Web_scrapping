@@ -1,0 +1,73 @@
+Jobs by email
+Bosch Gruppe
+Lead Developer Cloud Software in Automated Driving Environment (f/m/div.)
+Stuttgart
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 1 week ago
+Show salary
+Save
+Welcome to Bosch
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The Robert Bosch GmbH is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Stuttgart
+Your tasks
+Make a significant contribution to the implementation and further development of the tooling and cloud infrastructure landscape in the environment of Automated Driving by joining our agile, international Team!
+You analyse project specific requirements from many projects to align them and to design secure and compliant integration applications to enable new business opportunities. You implement and operate modern cloud-native applications and infrastructure environments for ADAS tool integration. Therefore, you work closely with project teams to consolidate and transform existing tools into a OnePMT service which can be used from many projects to increase efficiency in XC and to reduce project durations.
+Responsibly, you ensure the implementation and operations of protected and secured cloud-native applications and cloud infrastructures which are properly based on common best practices and follow internal directives.
+You establish and lead a development team and ensure the cross-collaboration with the other development teams in our OnePMT organization and in projects to be served. Your task is to advocate good development practices and influence the overall software strategy in our organization.
+You keep track on market relevant and promising services and solutions (public & private preview), to identify potential enhancements for existing implementations regarding to efficiency, performance or cost are your tasks.
+Your profile
+Education: completed university studies in Computer Science, Information Technology or comparable
+Personality and Working Practice: leader and role model for developers, team player, good communication skills, analytical thinking and structured, continuous self-learning
+Experience and Knowledge: several years of experience in both cloud-native software development and operations (preferable in Java Spring Boot, Python), basic understand of data driven development and artificial intelligence, cloud architecture preferable in MSFT AZURE (alternatively AWS or GCP), experience automating (IaC) and CI/CD, leading a development team, consulting and advising customers
+Qualifications: certifications or equivalent skills of AZ-104, AZ-204 (Engineer) and / or AZ-303, AZ-304, AZ-400 (Architect) are beneficial
+Languages: very good English skills, German is a plus
+This location offers
+Work-life balance: Flexible working in terms of time, place and working model.
+Health & Sport: Wide range of health and sports activities.
+Childcare: Intermediary service for childcare services.
+Employee discounts: Discounts for employees.
+Room for creativity: Space for creative work.
+In-house social counseling and care services: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Contact & Additional information
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Bosch Gruppe
+Heßbrühlstraße 21, 70565 Stuttgart, Germany
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Fitness programs
+Parking space
+Employee discount
+Cafeteria
+Childcare
+Company medical officer
+Coaching
+Home office
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,80 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Java Fejlesztő (Budapest)
+Java Fejlesztő (Budapest)
+Jelentkezem az állásra ›
+Karrier Hungária
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+Java Fejlesztő
+Innovatív, fejlesztési technológiák terén élen járó, hazai és nemzetközi projekteken egyaránt sikeresen helytálló Partnerünk számára keresünk új munkatársat csapatbővítés céljából, budapesti munkavégzéssel. Megbízónk sikeresen nyújt komplex megoldásokat olyan területeken, mint mobilfizetés, áruforgalom ellenőrzése, elektronikus számlák kezelése, utcai és zárt téri parkolás, útdíjszedés és intelligens mobilitás koncepció.
+Feladatok:
+Üzleti igények, user story-k elemzése fejlesztői és technológiai szempontból
+Különböző, nagy, integrált rendszerek fejlesztésében való részvétel
+Jól strukturált implementáció készítése (clean code, SOLID elvek)
+A program működése során felmerült hibák okának feltárása, a hiba javítása
+ Fejlesztési dokumentációk elkészítése, karbantartása
+Continous integration folyamatok ismerete, támogatása
+Elvárások:
+2 év JavaEE fejlesztői tapasztalat
+Wildfly ismerete
+SQL Server ismerete 
+SOLID alapelvek ismerete
+Alapszintű adatbázis ismeretek (PL/SQL, Oracle) – hibafeltáráshoz
+Alapszintű UNIX/Linux környezet ismerete
+REST (SOAP) megoldások ismerete
+Ajánlatunk:
+hibrid munkavégzés
+éves bónusz
+szakmai tréningek 
+változatos hazai és nemzetközi projektek a legmodernebb technológiákra alapozva (Enterprise környezet)
+üzletileg kritikus, magas rendelkezésre állású IT rendszerek fejlesztése
+Munkavégzés helye:
+Budapest 
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Thyssenkrupp -
+Szoftverfejlesztő mérnök (Indusztrializáció)
+Deutsche Telekom IT Solutions -
+Frontend fejlesztő -német nyelvtudással (REF731J)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Pécs
+Szeged
+Győr
+Kecskemét
+Székesfehérvár
+Miskolc
+Tatabánya
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

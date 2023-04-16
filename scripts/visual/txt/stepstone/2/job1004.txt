@@ -1,0 +1,89 @@
+Jobs by email
+MBition GmbH
+Engineering Lead for UI Instrument Cluster (all genders)-In Berlin
+Berlin
+Permanent contract
+Full Time
+Published: 3 weeks ago
+I'm interested
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: P0142V676
+Aufgaben
+About us
+At MBition, we are bringing digital luxury to mobility users around the world. To accomplish this, we are redefining how software is developed within the automotive field as part of an international Mercedes-Benz software development network. As a 100% subsidiary of Mercedes-Benz Group AG, we develop and integrate the next generation of Mercedes-Benz in-car infotainment systems that are based on the Mercedes-Benz Operating System (MBOS). In addition, we are responsible for the Mercedes me companion app, we provide seamless & connected mobility experiences and we contribute to Advanced Driver Assistance Systems (ADAS) platform development. With offices in Berlin and Sofia, we are aiming to bring new generation of innovative infotainment systems across the globe.
+Your Mission 
+MBition is bringing the automotive industry into the future by building a new generation of infotainment platform that is reusable and hardware agnostic, as well as its implementation into our actual car lines. By implementing interfaces that future drivers will engage with, from sitting in their cars, planning their journey to choosing their favorite music and many more.
+To fuel this mission, we are looking for ambitious, enthusiastic and driven minds to help build the state of the art software that pushes our innovation further.
+As a 100% subsidiary of Mercedes-Benz AG, that has been perfecting the art of moving people, products and services from point A to point B, for more than 120 years. With an international team of over 650 Employees, who value quality, creativity and believe in teamwork - we create passionate technology on exciting topics that include navigation, infotainment systems, location-based services, user experience and interaction.
+In UI Instrument Cluster team, we have the mission to develop the Instrument Cluster and Heads-Up display graphical interfaces. We use state-of-the-art UI frameworks to effectively realize the ideas of the design and UX departments to provide a safe and enjoyable driving support to the Mercedes-Benz drivers. Being an Engineering Lead in this team, your responsibilities would be as follows:
+Future tasks
+You will hire the best fitting candidates and build up a collaborative team, with an agile mindset
+You will help the team by providing all resources to achieve a topic's goals in time and quality
+Identify, contract, and manage external suppliers and engineering services
+Accountable to procure and provide needed material to the development team
+Deep understanding regarding software development best practices and open to roll the sleeves to help the engineer’s if needed
+Partner with Product Organization to continuously deliver customer value 
+Mentor Engineer’s in career growth and support them to reach their goals
+Resolve conflict within the teams and/or organization
+Establish SLO, SLAs and keen on data driven decision making
+Qualifikationen
+Education:
+Degree in Computer Science, Information Technology, Communication Technology, or a comparable qualification
+Required skills:
+Several years of hands-on software development experience in automotive organization 
+Leadership experience in an agile organization
+Pronounced team spirit, well-developed teamwork skills and communication
+High degree of independence, creativity, ability to cooperate, personal initiative, perseverance, and resilience
+Solution and goal-oriented way of working, strong analytical and problem-solving skills
+Excellent organizational, time management, prioritization, and multi-tasking skills
+Ability to handle multiple competing priorities in a fast-paced environment
+High level of commitment, willingness to learn and quick comprehension
+Strong project- and stakeholder management skills
+Excellent interpersonal skills
+Language:
+ Proficient English, German is a plus!
+Zusätzliche Informationen
+Why us? 
+A chance to work on a new generation of Infotainment Systems, which will power millions of cars
+An international, interdisciplinary software hub, which is part of the Mercedes Benz AG
+Great company values that we are passionate about and live by every day at work. Have a look for yourself at mbition.io and scroll down to "The MBition Experience
+Agile working methods and open feedback culture
+A brand new modern and fully accessible office facing the Spree
+Flexible working hours
+Transportation and health benefits, discounts on cars, free coffee, fruits and more
+Interested?
+We look forward to receiving your complete application, including CV (in English or German) and cover letter with the following information:
+Job title and reference number
+Salary expectations
+Earliest start date
+You don't bring everything with you? Don't worry, MBition is proud of our diverse workforce and passionate about having MBitioneers from all backgrounds and perspectives. MBition is and always will be an equal opportunity employer. We are looking for employees who convince us above all with their personality and passionately motivated to join the team!
+You are welcome to contact our representative for severely disabled employees, Anna Schade (anna.schade@mercedes-benz.com), who will support you in the further application process.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+MBition GmbH
+10587 Berlin, Deutschland
+Company Benefits
+Additional medical services
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Coaching
+Home office
+Company car
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

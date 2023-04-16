@@ -1,0 +1,73 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+Következő 
+Senior DevOps Engineer (JD)
+Tech People Hungary Kft.
+Budapest, IX. kerület
+ Elvárt technológiák
+DEVOPS
+JAVA
+DOCKER
+AWS
+LINUX
+ Módszertanok és szoftverek
+Agilis
+Automatizálás
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Német felsőfok
+3-5 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+DEVOPS
+JAVA
+DOCKER
+AWS
+LINUX
+ Módszertanok és szoftverek
+Agilis
+Automatizálás
+A Tech People egy európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat, valamint kiszervezett technológiai szolgáltatásokat nyújt különböző iparágak számára.
+Jelenleg az alábbi pozícióba keresünk munkatársat:
+SENIOR DEVOPS ENGINEER (JD)
+Munkavégzés helye: Budapest, IX kerület (részben home office)
+Fizetés: versenyképes
+Munkavégzés formája: alkalmazotti
+A pozícióról:
+Németül magabiztosan kommunikáló DevOps mérnök kollégákat keresünk egy projekt további bővítésére, amely tele van kihívásokkal és fejlődési lehetőségekkel, mivel a legmodernebb technológiákat kell használniuk a kollégáknak. Amennyiben szereted a rugalmas, akár otthonról történő munkavégzést, hasonló területen szerzett tapasztalattal rendelkezel, és szívesen használod a nyelvtudásod a mindennapi kommunikáció során, akkor várjuk jelentkezésedet.
+Feladatok:
+Agilis szoftverfejlesztés Java nyelvenA projekt részére az üzembe helyezési folyamat koncepciójának kidolgozásaCI/CD folyamat felépítése és üzemeltetése a vonatkozó CI/CD eszközök használatávalCI/CD szerver adminisztrációjaCI/CD scriptek előállításaCI/CD folyamatba a tesztautomatizálási eszközök integrálásaCI/CD eszköztár monitorozásaCI/CD folyamat keretében a hibák elemzéseReleváns rendszerekben infrastrukturális automatizálásSzoftver alkalmazások rendelkezésre bocsátása (Docker-Container megoldás)Docker-Containerek telepítése egy Kubernetes-Clusterben
+Elvárások:
+C1 német nyelvtudásMin. 3 év hasonló munkakörben szerzett tapasztalatFelsőfokú releváns végzettségAgilis módszertan ismereteCI/CD módszertan ismereteJava automatizációs tapasztalatDevOps tanúsítványok közül legalább egy (DevOps Institute, Microsoft Certified, AWS Certified DevOps, Linux Professional Institute)Üzemeltetési tapasztalat
+Előnyök:
+Angol nyelvtudásNemzetközi és agilis projektekben való részvételMultinacionális cégnél szerzett tapasztalat
+Jelentkezés módja:
+Jelentkezzen önéletrajzával a lenti "Jelentkezem" gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Német felsőfok
+3-5 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

@@ -1,0 +1,88 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSCRUM Master 
+Pretvárame informačné technológiena úžitok pre zákazníkov
+O nás
+Prečo my
+Pracovné ponuky
+SCRUM Master
+                                Miesto práce
+                            Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac(v závislosti od predchádzajúcich skúseností kandidáta)
+                                Termín nástupu
+                            ASAP
+                                Druh pracovného pomeru
+                            plný úväzok, živnosť
+Čo budeš robiťMáš dosť projektov, ktoré končia v šuflíku?Zabíjajú ťa neochotní kolegovia alebo šéf, ktorý nepočúva?Rozumieš dynamike tímov a toku práce?Tak poď s nami dodávať užitočné technológie!Do nášho tímu hľadáme skúseného Scrum Mastera, ktorý chce využiť svoje vedomosti a schopnosti v jednom z našich agilných tímov našej spoločnosti. Budeš pomáhať s dodávkou jedného z našich informačných systémov, ktorý má stabilného zákazníka, nadšených používateľov, a za sebou neskutočný realizačný tím. V PosAme nie je AGILE nadávka, a to čo dodávame má vyššiu cenu ako podpísaný akcepťák, pretože je to naše a sme na to hrdí. Riadime sa heslom: „Ak to nefunguje, oprav to. Ak to je zastarané, vymeň to. Ak sa to nepoužíva, vyhoď to.“Nehľadáme firemného psychológa ani rigídneho vyznávača agile frameworkov. Potrebujeme človeka, ktorý sa vie spolu s tímom zhostiť zodpovednosti za včasnú dodávku funkčného SW riešenia. Pozná nástroje a techniky ako analyzovať „flow of work“ a spoločne s tímom pripravuje a implementuje potrebné procesné zmeny.Tvojou úlohou bude: Ide o manažérsku pozíciu, ktorá si vyžaduje silný vhľad do technickej roviny výroby SW diela a výborné analytické myslenie. Na tejto pozícii budeš: Pomáhať tímu zjednodušovaním jeho organizácie a zavádzaním prvkov samoorganizácie Analyzovať potencionálne prekážky a koordinovať tím tak, aby problémy prekonal alebo im predišiel Zastrešiť komunikáciu medzi jednotlivými členmi tímu (tímami) s cieľom zabezpečiť efektivitu vývoja a zlepšovania kolektívneho výkonu tímu Facilitovať interné SCRUM ceremónie, pomáhať zostavovať sprinty a odstraňovať prekážky, ktoré sa po ceste objavia Analyzovať „flow of work“ a spoločne s tímom kontinuálne zlepšovať postupy a techniky pre včasnú a kvalitnú dodávku SW Starať sa o osobnostný a profesný rozvoj členov tímu, zabezpečovať zastupiteľnosť a potrebný knowladgeshare Pomáhať prioritizovať práce a monitorovať technologický dlh Byť nápomocný Projektovému manažérovi (PM) pri plánovaní, realizácii a prezentácii výsledkov vývoja pre zákazníka, ale aj v rámci spoločnosti Spolu s PM sledovať ciele, termíny a očakávanú kvalitu projektu v rámci stanoveného rozpočtu Zručnosti a predpoklady na úspech Máš schopnosť implementovať SCRUM v praxi Zastávaš servant leadership prístup Empatia voči kolegom a obsesia kontinuálnym zlepšovaním Dobré komunikačné zručnosti a odolnosť (neúspech ťa nikdy neodradí) Znalosť Scrum masteringu – absolvované školenia/certifikácie v oblasti Scrum masteringu sú vítané Reálne skúsenosti s prácou Scrum mastra / PM / TL / Release manažéra Skúsenosť z vedenia tímu v spolupráci s biznisom a s doručovaním pridanej hodnoty produktu alebo služby Znalosť IT procesov v oblasti vývoja a dodávky SW (SDLC, toolset) Doménové znalosti z oblasti energetiky sú výhodou Anglický jazyk - mierne pokročilý (B1) Čo ponúkame osobnostný a profesný rast v rámci firemnej politiky vzdelávania popri skúsených seniorných kolegoch práca v mladom a kreatívnom tíme so skúsenými expertami práca v dynamickej spoločnosti s najnovšími technológiami inšpiratívne prostredie rôznorodých aplikácií bežiacich v cloude flexibilný pracovný čas, možnosť home office rôzne firemné akcie a teambuildingové aktivity pravidelné firemné raňajky a kvalitná káva zadarmo atraktívny benefitný systém spoločnosti zamestnanecké zľavy na produkty Slovak Telekom Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreIT (technické zameranie) Inzerujúca spoločnosť Stručná charakteristika spoločnostiPosAm, popredná slovenská IT spoločnosť už vyše 30 rokov úspešne pomáha firmám na Slovensku aj v zahraničí dosahovať ich ciele. 
+Tajomstvo nášho úspechu spočíva v hlbokej znalosti podnikania zákazníkov a schopnosti prinášať im užitočné riešenia a služby. Sústreďujeme sa na lepšie fungovanie kľúčových aj podporných biznis procesov. Našou hlavnou kompetenciou, s najvyššou pridanou hodnotou, sú inovatívne softvérové riešenia. Patríme medzi hŕstku slovenských firiem, ktoré sa špecializujú na veľké projekty realizované na špičkovej úrovni. Pri realizácii softvérových diel prepájame do harmonického celku doménové a technologické znalosti s prvkami umelej inteligencie a tou najlepšou používateľskou skúsenosťou. Výsledkom je vysoká úžitková hodnota našich riešení, ktoré sú pripravené napĺňať súčasné aj budúce potreby našich zákazníkov.
+Softvérové riešenia PosAm ponúka v oblasti workforce manažmentu, poisťovníctva, dopravy a verejnej správy. Našou ambíciou je neustále hľadať nové príležitosti, ako premieňať inovácie, dáta a informačné technológie na úžitok pre zákazníka. Vďaka tomu sa PosAm radí medzi najúspešnejšie slovenské firmy s etablovanou pozíciou na trhu. 
+V PosAm sa držíme myšlienky, že ak má napredovať celá spoločnosť, musia sa o to pričiniť tí najnadanejší. Spoločnosť sa systematicky venuje vzdelávaniu tak v rámci firmy, ako aj podpore mladých talentov a odmeňovaniu osobností, ktoré pozitívne ovplyvňujú rozvoj ďalšej generácie. Nadácia Dionýza Ilkoviča je úspešný projekt, ktorý inšpiruje a zároveň sa konkrétnymi krokmi snaží pomáhať so zlepšením vzdelávacieho systému na Slovensku. Hlavná oblasť pôsobenia spoločnostiInformačné technológie KontaktKontaktná osoba: Mgr.  Petra JandováE-mail: poslať životopis Poslať životopis
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4549799 
+     Dátum zverejnenia:  31.3.2023 
+    2023-03-31
+lokalita: Bratislava   Pozícia: Backend programátor, IT architekt, IT konzultant, Java programátor, Scrum Master   Spoločnosť: PosAm spol. s r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 3 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

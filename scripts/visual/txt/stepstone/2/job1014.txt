@@ -1,0 +1,67 @@
+Jobs by email
+Optimizely
+Senior Software Engineer JAVA (m/f/d)
+Berlin
+Permanent contract
+Full Time, Home office possible
+Published: 2 days ago
+Show salary
+I'm interested
+Save
+Optimizely is focused on unlocking the digital potential of our clients and our employees. We are the recognized category leader in Digital Experience Platform (DXP) and in Campaign marketing automation software. Just in DACH market, over 1,000 companies rely on us – such as Deutsche Bahn, TUI, Tchibo, myToys or Payback.
+We live an inclusive and diverse culture with a global team of 1500+ people across the US, Europe, Australia, Bangladesh, and Vietnam. We blend European and American business culture with emphasis on teamwork, diversity, and moving fast.
+Our people make the difference! If you are looking to work on the next generation of digital technologies in a fast-paced, hyper-growth environment, let’s have a conversation! We’re just getting started...
+Senior Software Engineer JAVA (m/f/d)
+As a Senior Software Engineer, you will become a subject matter expert with mastery in a specific product or technical functional area. You will consistently manage and ship high quality and timely releases that solve complex problems end-to-end within a team. In your role you will proactively communicate on technical design and decisions through various technical forums and own the operational excellence of your built components.
+Job Responsibilities
+You will build, deliver and maintain services that comprise modern PaaS/SaaS products
+Join an agile team and develop the full stack of a SaaS platform for our omni-channel marketing automation Optimizely Campaign
+Transform functional requirements into a robust and scalable technical design
+Develop new product features following clean code principles and test-driven development
+Deploy our software in the different environments
+Drive the delivery of high-quality epics that solve complex problems, with minimum viable solutions, end-to-end, doing work in any part of the stack as may be necessary, to deliver the feature or project
+Knowledge and Experience
+You are a team player with a profound practical experience in implementing large web applications in an agile, cross-functional environment 
+You are enthusiastic about latest technology trends, continuously educate yourself further, and inspire your colleagues
+Experience with agile delivery workflows and modern software quality techniques like TDD, pair programming, etc.
+You have 3+ years of experience in object-oriented programming in Java, the Spring framework and working with relational databases
+You are also proficient with JavaScript, HTML and CSS
+You optionally have experience with the following technologies 
+MySQL, Hadoop, HBase, Elastic Search, Kafka
+Typescript, React, jQuery, JSON, XML
+REST and SOAP-Services
+Linux, Git, Maven, TeamCity
+Our Benefits
+Permanent contract and an intensive onboarding
+Agile product and software environment
+Remote working option within Germany (also past Covid-19)
+The ability to shape your work through your curiosity and expertise
+Very bright office space in the heart of Berlin with three rooftop terraces 
+Free Bio fruit bags and all kinds of cool and hot beverages
+Sponsored membership in the Urban Sports Club
+Free public transport ticket (BVG-Abo)
+Got interested?!
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Optimizely
+Wallstraße 16, 10179 Berlin, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

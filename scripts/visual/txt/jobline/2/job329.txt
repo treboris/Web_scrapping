@@ -1,0 +1,63 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Multinacionális cég - Senior DEVOPS mérnök - Azure cloud - Fluent English - Heti 1 nap iroda, többi HO (Budapest)
+Multinacionális cég - Senior DEVOPS mérnök - Azure cloud - Fluent English - Heti 1 nap iroda, többi HO (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Multinacionális cég - Senior DEVOPS mérnök - Azure cloud - Fluent English - Heti 1 nap iroda, többi HO
+/Nagyrészt remote munka - Globál pozíció - DevSecOps mérnök - Audiotecnika, elektronikai gyártás/ Olyan munkahelyet keresel, ahol értékelik a képességeidet, tapasztalatod, lelkesedésed? Próbáld ki, mit érhetsz el ennél a cégnél, amely egyike a legnagyobb audiotechnikai és elektronikai berendezéseket gyártó nemzetközi vállalatoknak. A cég világszerte jelen van elektronikai termékeivel, vezető helyet foglal el az autó, mobil és telekommunikációs integrációs szolgáltatások területén. Az új kolléga egy nemzetközi Devops csapat tagja, a budapesti központban önállóan, egyedüli Devops-ként dolgozik majd. Feladatok:
+A teljes CI/CD karbantartása - Bitbucket, Bamboo, Powershell, ACR, AKS, Cosmos DB
+Kubernetes cluster, Orleans cluster és Docker konténerek karbantartása különböző környezetekben.
+IaaS kód létrehozása, amely magában foglalja az Azure automatizált munkafolyamatokat, ARM sablonokat, Azure CLI-t és PowerShell szkripteket.
+Szorosan együttműködni a biztonsági csapattal/FOSS-szal a PEN tesztelés, a Stress tesztelés és az infrastruktúra biztonság terén (10% a security feladat)
+Munkavégzés helye
+Budapest, 13. ker és Home Office
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+Thyssenkrupp -
+Szoftverfejlesztő mérnök (Indusztrializáció)
+Deutsche Telekom IT Solutions -
+Frontend fejlesztő -német nyelvtudással (REF731J)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Pécs
+Szeged
+Győr
+Kecskemét
+Székesfehérvár
+Miskolc
+Tatabánya
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

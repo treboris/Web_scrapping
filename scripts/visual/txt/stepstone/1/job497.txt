@@ -1,0 +1,41 @@
+Jobs by email
+MediaMarktSaturn Technology
+Cloud Security Engineer Prisma (m/f/d)
+Stuttgart, München, Berlin, Frankfurt, Leipzig, Köln, Düsseldorf, Hamburg, Ingolstadt
+Permanent contract
+Full Time, Home office possible
+Published: 2 days ago
+Show salary
+Save
+About us
+At MediaMarktSaturn, "Let's Go!" is not just a slogan, it is an attitude. We love technology and we want to excite. We have fun and want to inspire. Our customers and our teams. That's why we are looking for people who share this spirit. People who are passionate about creating the shopping experience of the future together with 50.000 colleagues across Europe.
+MediaMarktSaturn Technology is working to make Europe's number-one consumer electronics retailer the technology leader in its industry. To this end, several hundred developers, UX designers and system architects using state-of-the-art technology work hand in hand with business owners in agile teams to develop customer-focused technology solutions for more than 6 million customers every day in 13 countries. 
+The Cloud Governance team provides control and guardrails across the DevOps system stack and all cloud landing zones. It ensures continuous improvement of security and compliance in MMS's cloud deployments and operations. It monitors all systems for policy violations and is in constant dialogue with our international IT colleagues and the application specialists in our MMS headquarters to mitigate findings as quickly as possible.
+Your tasks
+Working together on Cloud Architectures, respecting Cloud Security and secure configurations
+Designing System Administration, Containers, and Kubernetes
+Implementing Infrastructure as Code and Terraform
+Development and implementation of automated Prisma Cloud (Palo Alto) Enforcer rollouts on all used server operating systems, like Microsoft Server or various Linux derivates
+Ensure that all cloud resources are equipped with security-relevant features, Prisma amongst others
+ Requirements
+Degree in (business) informatics or comparable qualification
+Several years of professional experience in Data Center environments and profound knowledge of Cloud technologies, especially in Google Cloud Platform
+Designing System Administration, Containers, and Kubernetes
+Strong experience in Infrastructure as Code and Terraform
+Knowledge in Prisma Cloud (Palo Alto) or other policy enforcers and with security frameworks like e.g. CIS, NIST CSF is desirable
+Basic understanding of Compliance in the Cloud (CSPM)
+Independent working style, ability to work in a team, organizational skills as well as initiative, willingness to learn, and customer orientation
+Fluent in English, German would be a plus
+Benefits
+Passion for Technology in Retail! As part of open and dynamic teams, you are developing solutions for Europe's largest consumer electronics retailer. Alongside challenging tasks with latest technologies, we are offering various benefits as well as flexible working time and possibilities for personal development. As part of the Future Technology Lab you are building the future of retail and services. 
+You want to be part of an innovative, dynamic environment in Consumer Electronics Retail? Join our agile teams! Thanks to our flexible workplace models, you have the opportunity to work in one of our locations in Ingolstadt / Munich and remotely. At the same time, we are building up our ""Regional Tech Offices"" in the metropolitan regions of Berlin, Düsseldorf, Frankfurt, Hamburg, Cologne, Leipzig and Stuttgart.
+Are you interested? We are looking forward to your application including the location where you would like to work!
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

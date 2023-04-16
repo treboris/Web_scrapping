@@ -1,0 +1,80 @@
+Jobs by email
+The Mobility House GmbH
+Software Architect (m/f/d)
+München
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 2 weeks ago
+Show salary
+Easy apply
+Save
+About us
+Shaping an emission-free energy and mobility future - that is the goal of The Mobility House. To this end, our technology links the automotive and energy sectors. We integrate vehicle batteries into the power grid through intelligent charging and energy solutions. The whole thing was born 11 years ago from a simple idea of our founder Thomas Raffeiner: What if you could use idle electric cars as mobile batteries? And thus make their potential available to the energy industry with its growing storage needs? Thus the idea for The Mobility House was born.
+With over 200 employees, we are active worldwide from our locations in Zurich, Munich and Belmont (CA). We are constantly on the lookout for new faces who, like us, are enthusiastic about our vision. Do you want to be part of the future with us? Then we look forward to receiving your application.
+What we offer you
+What we offer you:  
+Becoming part of our vision to jointly shape an emission-free energy and mobility future  
+A high degree of responsibility right from the start and rapid advancement in a rapidly growing and innovative company  
+An open, diverse & very motivated team  
+Flexible working hours and additional vacation days  
+Mobile working from home and additional 20 days in other European countries possible  
+The latest IT equipment to make your working day easier  
+A Wellpass membership to keep you fit  
+The possibility to lease your desired bike via JobRad  
+Modern office with good public transport connections  
+And much more!    
+What you do
+What you do:   
+You will lead the design, development, and implementation of highly scalable and secure cloud-based APIs, microservices and applications that meet our business needs and objectives. 
+You will work with our development teams and stakeholders to ensure our solutions deliver a great user experience, are maintainable, and meet the highest security standards. 
+You will have have a thorough understanding of the cloud technology landscape, emerging trends, and new technologies that can improve our architecture. 
+You will develop and maintain documentation of our architecture, standards, and best practices. 
+You will mentor and coach other software architects and developers to improve the quality of our code, architecture, and software development practices. 
+You will work closely with the product team to ensure that our software solutions align with our business goals. 
+Who you are
+Who you are:  
+You have at least 7 years of experience in software development, with a focus on API, cloud, security, and scalable architecture. 
+You have a deep understanding of API design and development, RESTful architecture, and related technologies such as Swagger, OpenAPI, GraphQL and gRPC. 
+You are able to show a track record of designing and implementing scalable, resilient, and secure cloud-based systems using AWS, Azure or GCP. 
+You are strong in understanding security best practices, including authentication, authorization, encryption, and key management. 
+Experience in the e-mobility domain is an advantage. 
+You are familiar with modern development tools such as Docker, Kubernetes, Git, CircleCI and other CI/CD pipelines. 
+You are an individual with strong communication and interpersonal skills, with the ability to collaborate effectively with cross-functional teams. 
+Do you fit to us?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+The Mobility House GmbH
+St.-Cajetan-Str., 81669 München, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Company mobile phone
+Stock options
+Coaching
+Home office
+Extra day off
+Terrace
+The benefits listed are applicable to the company and can differ depending on the position or department.

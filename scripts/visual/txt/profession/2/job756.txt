@@ -1,0 +1,404 @@
+Belépésálláskeresőknek
+Állások
+Önéletrajz feltöltése
+Állásértesítő készítése
+CV készítő
+Cégek Új
+Részletes keresés
+Rendszerüzemeltető állások, munkák
+174 db találat 
+Szűrés
+Senior hálózati mérnök
+Profession Services
+Budapest
+Routing & switching és határvédelmi rendszerek tervezési, létesítési, migrálási, üzemeltetési, lebontási feladatokat csapatmunkában szakmailag vezetni, aktívan részt venni a feladatok elvégzésében Szakmai támogatása a mérnök és a L1 kollégáknak Partnerekkel való kapcsolattartás é...
+Cafeteria
+Hálózati és Rendszermérnök
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 11:31
+Állás megtekintése
+ Mentés 
+tegnap 11:31
+Senior Linux rendszermérnök
+Profession Services
+Budapest
+Nagyvállalati ügyfelek informatikai rendszerének rendszermérnöki támogatása
+Szakmai tréningek
+Hálózati és Rendszermérnök
+Alkalmazotti
+Általános munkarend
+ma 09:15
+Állás megtekintése
+ Mentés 
+ma 09:15
+Helpdesk szakértő
+LVC Diamond Kft.
+Budapest
+Elsődleges kapcsolattartás az felhasználók felé, akik személyesen, telefonon vagy e-mailben kérnek segítséget, Állandó vagy ideiglenes javítások és megoldások kidolgozása a hibákra, helyszínen vagy távolról, Kliens oldali hardver és szoftver környezet telepítése, adminisztrálása,...
+Tech stack
+IT support, Helpdesk
+Alkalmazotti
+Általános munkarend
+ma 16:25
+Állás megtekintése
+ Mentés 
+ma 16:25
+Rendszerüzemeltető mérnök
+EURO-PROFIL RENDSZERHÁZ Kft.
+1173 Budapest, Határhalom utca
+Ügyfeleink szerver infrastruktúráinak üzemeltetése Windows alapú rendszerek, szolgáltatások üzemeltetése (AD, DNS, DHCP, RDS, file, print) Levelezőrendszerek, adatbázis kiszolgálók, és csoportmunka megoldások üzemeltetése Virtualizációs környezetek üzemeltetése (VMware, Hyper-V)...
+Mobiltelefon
+Tech stack
+Rendszerüzemeltető
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 14:04
+Állás megtekintése
+ Mentés 
+ma 14:04
+Spóroljon időt!
+Böngéssze a kimondottan Önre szabott, átlag jelentkezői bérigényt is feltüntető álláslistát a Profession Prémium segítségével!
+Kipróbálom díjmentesen
+SAP üzemeltető rendszermérnök
+Szerencsejáték Zrt.
+Budapest
+SAP on-premise rendszert üzemeltethetsz: munkafolyamatok és riasztások ellenőrzése, transzportok bejátszása, naplóállományok ellenőrzése, adatbázis konzisztencia ellenőrzés, licenszek ellenőrzése, mentéskarbantartás, SAP note-ok kezelése, beállítása, javítócsomagok telepítése, te...
+Extra juttatások
+Tech stack
+Vállalatirányítási rendszer, SAP
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 13:23
+Állás megtekintése
+ Mentés 
+ma 13:23
+Tesztelés-támogatás vezető
+K&H BANK ZRT. (ICT)
+1095 Budapest, Lechner Ödön fasor 9.
+A Tesztelés-támogatási szakterület vezetőjeként az alábbi feladataid lesznek: a Tesztelés-támogatás szakterület vezetése, az ehhez kapcsolódó vezetői feladatok ellátása tesztelői erőforrások tervezése, kapcsolattartás az érintett területekkel riportok készítése a szakterülethez t...
+Tech stack
+Rendszerüzemeltető
+Általános munkarend
+Angol - felsőfok
+ma 13:14
+Állás megtekintése
+ Mentés 
+ma 13:14
+Incidens és problem menedzser
+K&H BANK ZRT. (ICT)
+1095 Budapest, Lechner Ödön fasor 9.
+Incidens menedzserként főbb feladataid a következők lesznek: A bankcsoportban illetve az ügyfeleinknél működtetett informatikai rendszerek hibaelhárításának koordinálásában való részvétel a biztonságos banküzem érdekében Részvétel az incidenskezelés során felmerülő problémák utól...
+Tech stack
+Rendszerüzemeltető
+Általános munkarend
+Angol - felsőfok
+ma 13:14
+Állás megtekintése
+ Mentés 
+ma 13:14
+Webes alkalmazásfejlesztő
+KITE Zrt.
+Nádudvar
+A társaság weboldalának, webes alkalmazásainak fejlesztése, üzemeltetése Meglévő közösségi és webes alkalmazások karbantartása Fejlesztési projektek elkészítése
+Extra juttatások
+Tech stack
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+ma 13:06
+Állás megtekintése
+ Mentés 
+ma 13:06
+Microsoft rendszerüzemeltető mérnök
+Kermann Műszaki Fejlesztő Zrt.
+1139 Budapest, Röppentyű utca 48.
+Ügyfelek Level 2 szintű támogatása Helpdesk csapatunk munkájának támogatása Együttműködés a további megoldócsoportokkal (Helpdesk és Level 3) Emelt szintű jogosultságok kezelése Feladatok adminisztrációja professzionális jegykezelő rendszerben Üzemeltetési dokumentációk elkészíté...
+Tech stack
+Rendszerüzemeltető
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 11:02
+Állás megtekintése
+ Mentés 
+ma 11:02
+Senior data engineer
+K&H BANK ZRT. (ICT)
+1095 Budapest, Lechner Ödön fasor 9.
+követelmények részletes analízise, kidolgozása részvétel döntéstámogató anyagok készítésében együttműködés üzleti elemzőkkel, üzleti stakeholder-ekkel, más területek rendszerszervezőivel Big Data környezetben Data Pipeline-ok tervezése, fejlesztése Python programozási nyelven pro...
+Tech stack
+Rendszerüzemeltető
+Általános munkarend
+Angol - középfok
+ma 10:14
+Állás megtekintése
+ Mentés 
+ma 10:14
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek!
+Közép-európai frissdiplomás program _ Operatív működés terület
+Tesco Global Áruházak Zrt
+Budaörs 2040. Kinizsi út 1-3.
+A program során lehetőséged lesz: Nemzetközi környezetben dolgozni az operatív működésért felelős részlegünkön: Ez a csapat felel az áruházi munkatársak támogatásáért, ezen belül is a működési folyamatok egységesítéséért, új folyamatok bevezetéséért, illetve, a meglévőek egyszerű...
+Rendszerüzemeltető
+Általános munkarend
+Angol - középfok
+tegnap 11:29
+Állás megtekintése
+ Mentés 
+tegnap 11:29
+Cloud Engineer – contracting (JD)
+Legyen az első 5 jelentkező között!
+Tech People Hungary Kft.
+Budapest
+you’re are an expert Python developer. you work with Linux on a daily base. Debugging, monitoring processes and services, networking, routing, etc. you want to work on the largest private cloud on the Planet Earth. you have an excellent knowledge of OpenStack. you are familiar wi...
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 17:26
+Állás megtekintése
+ Mentés 
+ma 17:26
+Mérési munkatárs
+MVM Főgáz Földgázhálózati Kft.
+Budapest X.kerület
+Gázmérési rendszerekkel kapcsolatos alábbi tevékenységek esetében ( hitelesítési gázmérőcsere program végrehajtása, üzemeltetési, ellenőrzési feladatok és megrendelésre végzett feladatok ellátása ) műszaki előkészítés és adminisztráció Szerelési munkalapok kinyomtatása, feldolgoz...
+Extra juttatások
+Tech stack
+Rendszerüzemeltető
+Általános munkarend
+ma 17:06
+Állás megtekintése
+ Mentés 
+ma 17:06
+Alkalmazás üzemeltetés gyakornok
+Legyen az első 5 jelentkező között!
+4iG Nyrt.
+Egyedi fejlesztésű alkalmazások napi szintű üzemeltetése Alkalmazásokkal kapcsolatos hibajegyek és igények kezelése Új verziók telepítése, tesztelése
+Tech stack
+Rendszerüzemeltető
+Home office
+Általános munkarend
+ma 17:06
+Állás megtekintése
+ Mentés 
+ma 17:06
+Üzemeltetési gyakornok
+EU-DiákOK Iskolaszövetkezet
+1137 Budapest, Katona József utca 15.
+Karbantartáshoz szükséges anyagok beszerzése Kapcsolattartás a beszállítókkal, szolgáltatókkal Eszköz-, és nyomtatványraktár készletgazdálkodás Eszközök, nyomtatványok, egyéb anyagok megrendelése, raktárba vétele, kiadása Eszközök, nyomtatványok, egyéb anyagok terítés Eszköznyilv...
+Bruttó 1 800 Ft/óra
+Tech stack
+Rendszerüzemeltető
+Részmunkaidő
+Diákmunka
+Általános munkarend
+ma 16:54
+Állás megtekintése
+ Mentés 
+ma 16:54
+Információbiztonsági felelős (tisztviselő)
+Legyen az első 5 jelentkező között!
+KÚRIA
+1055 Budapest, Markó utca 16.
+az elektronikus információs rendszerek tervezésével, fejlesztésével, üzemeltetésével, karbantartásával, javításával vagy kivonásával kapcsolatos iratok információbiztonsági szempontból történő véleményezése, javaslatok készítése az alkalmazandó kontrollokra, biztonsági kockázatel...
+Cafeteria
+Szakmai tréningek
+Információbiztonság
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 16:31
+Állás megtekintése
+ Mentés 
+ma 16:31
+Informatikus - rendszergazda
+Budapesti Szent Ferenc Kórház
+1021 Budapest, Széher út 73.
+Az informatikai rendszerek (szerverek, adattárolók, hálózatok stb.) üzemeltetése, konfigurálása (számítógépek installálása, üzembe helyezése), karbantartása, szükség esetén hibaelhárítás szerver és kliens oldalon. Felhasználói fiókok és jogosultságok kezelése. Információs rendsze...
+Rendszergazda
+Részmunkaidő
+Alkalmazotti
+Általános munkarend
+ma 16:31
+Állás megtekintése
+ Mentés 
+ma 16:31
+Antenna Szerelő Technikus
+Karriertipp!
+DELTAKON Kft.
+6000 Kecskemét, Izsáki út 2.
+A legfontosabb elvárás, hogy gyorsan oldj meg ügyfeleinknél felmerülő problémákat, hogy elégedettek legyenek, és joggal érezzék úgy, hogy maximális szolgáltatást és törődést kapnak. Számos ügyfélnek fogsz helyi segítséget nyújtani és naponta 3 - 4 különböző helyszínre fogtok...
+Rendszerüzemeltető
+Alkalmazotti
+Általános munkarend
+ma 16:25
+Állás megtekintése
+ Mentés 
+ma 16:25
+Rendszergazda (MedSol rendszerüzemeltető)
+Semmelweis Egyetem Informatikai Főigazgatóság
+1085 Budapest, Baross u. 52.
+A Semmelweis Egyetem betegellátó egységeiben működő beteg-adminisztrációs (eMedSolution) rendszer üzemeltetése A kapcsolódó alkalmazások (alrendszerek) támogatása Felhasználók támogatásának segítése Kapcsolattartás a belső felhasználókkal és a külsős támogató partnerekkel Közremű...
+Rendszergazda
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 15:46
+Állás megtekintése
+ Mentés 
+ma 15:46
+Informatikai üzemeltető munkatárs
+Miskolc Holding Zrt.
+3530 Miskolc, Petőfi Sándor u 1-3.
+Informatikai rendszerek dokumentálása, hardver/szoftver nyilvántartások vezetése, fizikai elrendezési rajzok és hálózati topológia rajzok készítése, naprakészen tartása Informatikai rendszerek üzemeltetése, távfelügyelete Ticketing rendszer használata Aktív részvétel informatikai...
+Céges üdülés, üdültetés
+Rendszerüzemeltető
+Alkalmazotti
+Általános munkarend
+ma 15:36
+Állás megtekintése
+ Mentés 
+ma 15:36
+Szoftverüzemeltető
+Visual Europe Production Kft.
+Budapest
+Társosztályok támogatása a rendszer operatív használatában, hibaelhárításban, helyben nem megoldható hibák továbbításában Közreműködés a szakmai területekkel az új fejlesztési igények meghatározásában, valamint az igények továbbítása a szoftverszolgáltató felé Javaslattétel a szo...
+Rendszerüzemeltető
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 15:21
+Állás megtekintése
+ Mentés 
+ma 15:21
+IP Network Operations Engineer
+Legyen az első 5 jelentkező között!
+CETIN Hungary Zrt.
+Törökbálint
+Operate, maintain the full IP Network and related services Deliver timely and efficiently provisioning tasks (integration of new network elements including commissioning and acceptance tests) Execute and coordinate preventive network maintenance tasks in domain of IP network (inc...
+Bónusz
+Extra juttatások
+Tech stack
+Hálózati és Rendszermérnök
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+ma 15:11
+Állás megtekintése
+ Mentés 
+ma 15:11
+1
+2
+3
+4
+5
+...
+Következő
+Utolsó
+Állásértesítő készítése
+Keresés mentése
+)
+Figyelem!
+A lakhatási támogatást nyújtó ajánlatokat területi szűrés nélkül listázzuk.
+A területi beállítás csak a lakhatási támogatás paraméter kikapcsolása után változtatható meg újra!
+Keresés finomítása
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Beállított szűrők
+Beállított szűrők törlése 
+Kategória 
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök  (106) 
+Információbiztonság  (51) 
+IT support, Helpdesk  (151) 
+IT, Telecom vezető  (10) 
+Projektmenedzsment  (74) 
+Rendszergazda  (87) 
+Rendszerüzemeltető
+Telekommunikáció  (53) 
+Vállalatirányítási rendszer, SAP  (49) 
+Lakóhely (Megye, Város)
+Budapest  (137) 
+Bács-Kiskun megye  (4) 
+Baranya megye  (4) 
+Békés megye  (1) 
+Borsod-Abaúj-Zemplén megye  (3) 
+Csongrád-Csanád megye  (2) 
+Fejér megye  (5) 
+Győr-Moson-Sopron megye  (4) 
+Hajdú-Bihar megye  (6) 
+Heves megye  (1) 
+Jász-Nagykun-Szolnok megye  (1) 
+Komárom-Esztergom megye  (4) 
+Nógrád megye  (2) 
+Pest megye  (10) 
+Somogy megye  (1) 
+Szabolcs-Szatmár-Bereg megye  (1) 
+Tolna megye  (1) 
+Vas megye  (3) 
+Veszprém megye  (2) 
+Zala megye  (3) 
+Németország  (2) 
+Egyéb külföld  (1) 
+Az Ön végzettsége 
+Általános iskola  (2) 
+Szakiskola / szakmunkás képző  (1) 
+Középiskola  (86) 
+Főiskola  (67) 
+Egyetem  (15) 
+Az ön nyelvismerete 
+Nincs nyelvismeretem  (52) 
+Angol  (119) 
+Magyar  (4) 
+Német  (8) 
+Az Ön tapasztalata 
+Nincs tapasztalatom  (1) 
+1-3 év szakmai tapasztalat  (98) 
+3-5 év szakmai tapasztalat  (32) 
+5-10 év szakmai tapasztalat  (11) 
+>10 év szakmai tapasztalat  (1) 
+Foglalkoztatás jellege 
+Teljes munkaidő  (164) 
+Részmunkaidő  (6) 
+Távmunka  (3) 
+Szakmai gyakorlat  (2) 
+Vállalkozói  (2) 
+Diákmunka  (2) 
+Home office  (44) 
+Alkalmazotti jogviszony  (114) 
+Munkarend 
+Általános munkarend  (162) 
+Folyamatos munkarend  (1) 
+Rugalmas munkaidő  (5) 
+12/24 órás műszak  (1) 
+Beosztás szerinti munkarend  (2) 
+Kötetlen munkaidő  (1) 
+Cégméret 
+0-10 fő  (19) 
+10-25 fő  (8) 
+100-250 fő  (18) 
+1000+ fő  (50) 
+25-50 fő  (15) 
+250-500 fő  (16) 
+50-100 fő  (25) 
+500-1000 fő  (21) 
+Beállítások 
+Személyzeti tanácsadók hirdetései nélkül  (14) 
+Munkahely értékelése
+Munkahely értékelése
+Értékelje és mondja el véleményét korábbi vagy jelenlegi munkahelyéről. Értékelése név nélkül történik, és segítséget nyújt a munkakeresőknek ahhoz, hogy
+ideális munkahelyet találjanak. A kitöltés pár percet vesz igénybe.
+Értékelem 

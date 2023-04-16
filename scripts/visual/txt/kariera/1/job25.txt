@@ -1,0 +1,73 @@
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+DomovVytvor si CVPonuky mailomPrihlásiť
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+Späť na pracovné ponuky
+Data Engineer - TPP/freelance, možnosť REMOTE (Ref. č.: 1-16-39546)
+			Grafton Slovakia s.r.o.			
+Ponuka je neaktívna, nedá sa na ňu reagovať.Ponuky z podobných lokalítKošicePonuky z podobných kategóriíInformatika - softwareIT analytik
+ Miesto práce: 
+Košice
+Košice
+Ponúkaný plat (základná mzda):
+1800 - 3100 EUR
+Zobraziť viac
+ Druh pracovného pomeru: 
+ plný úväzok 
+Informácie o pracovnom mieste
+ Si skúsený Data Engineer, ktorý sa chce stať expertom na ETL a dátové sklady v najväčšej e-commerce platforme pre zákazníkov v rámci strednej a východnej Európy?
+Máš skúsenosti s automatizáciou v Pathon/R za využitia SQL databázy?
+Tak neváhaj a pošli nám tvoje CV!
+Tvojou úlohou bude:
+- neustále rozširovať dátový sklad a dodávať dátové značky všetkým oddeleniam v rámci spoločnosti
+- zostaviť veľké, komplexné súbory údajov so zameraním na naše služby v oblasti marketingu, financií, skladu a starostlivosti o zákazníkov
+- vytvárať a udržiavať optimálnu architektúru dátového kanála v rámci platformy elektronického obchodu 
+- automatizovať interné manuálne procesy, optimalizovať poskytovanie údajov, zlepšovať infraštruktúru pre väčšiu škálovateľnosť
+- vybudovať infraštruktúru potrebnú na optimálnu extrakciu, transformáciu a načítanie údajov zo širokej škály zdrojov údajov pomocou SQL, Python/R a Keboola (nástroj ETL)
+- vytvárať analytické nástroje, ktoré využívajú dátový kanál na poskytovanie užitočných prehľadov o získavaní zákazníkov, prevádzkovej efektívnosti a ďalších kľúčových ukazovateľoch výkonnosti podniku. 
+ Benefity a ďalšie výhody: 
+ - Full remote 
+- Nadčas vyplácaný s vyššou sadzbou 
+- 2x denne obedy za 1 euro v centrále spoločnosti / iný variant
+- Nákup v našom e-shope za nákladové ceny
+- Open-air posilňovňa na streche našej budovy , oddychová zóna
+- Členstvo v posilňovniach a rekreačných zariadeniach
+- E-learningové kurzy na LinkedIn a Udemy, online certifikácie a konferencie 
+ Informácie pre uchádzača: 
+	Zašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku. Viac podobných pozícií nájdete na https://www.grafton.sk/sk/job-search 
+ Všeobecne požadované znalosti: 
+ - Znalosť SQL, Python alebo R
+- Schopnosť prinášať nové riešenia založené na skúsenostiach a neustálom vzdelávaní
+- Skúsenosť s budovaním a optimalizáciou dátových kanálov, architektúr a súborov údajov
+- Chcieť podporovať a pracovať s medzifunkčnými tímami v dynamickom prostredí
+- Predchádzajúce skúsenosti s dátovými skladmi sú výhodou
+- Predchádzajúce skúsenosti s Keboolou sú výhodou
+- Výhodou je vzdelanie v odbore IT, BI, Data alebo predchádzajúca prax v akejkoľvek oblasti orientovanej na dáta. 
+Požiadavky na zamestnanca
+ Minimálne požadované vzdelanie: 
+						 stredoškolské s maturitou 
+ Vhodné pre absolventov: 
+						Nie
+Podobné pracovné ponuky
+Java programátor expert - Home Office/Office
+msg life Slovakia s.r.o.
+Azure Developer to Microsoft team
+IBM
+QA Automation Engineer (Ref. č.: 1-16-39103)
+Grafton Slovakia s.r.o.
+PHP Programátor - FULL REMOTE (Ref. č.: 1-16-41627)
+Grafton Slovakia s.r.o.
+.NET Programátor - FULL REMOTE (Ref. č.: 1-16-41629)
+Grafton Slovakia s.r.o.
+Kariéra Magazín
+Kariéra EXPO
+Kariéra Podcast
+Kariéra Raňajky
+Sleduj nás
+O násCenník služiebZoznam pozíciíObchodné podmienkyPodmienky spracovania osobných údajovKalkulačka mzdyKariérne poradenstvoTlačové správyNapíšte nám Cookies
+Nastavenie súkromia
+skenua 
+			© 2023 Zoznam, s.r.o. Všetky práva vyhradené.

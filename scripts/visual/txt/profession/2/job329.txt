@@ -1,0 +1,105 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Tesztelő, Tesztmérnök
+Budapest
+Budapest
+Következő 
+Szoftvertesztelő mérnök - Beágyazott területre
+KNORR-BREMSE Hungária Kft.
+1238 Budapest, Helsinki út 105.
+ Elvárt technológiák
+C
+C++
+LABVIEW
+ISTQB
+ Módszertanok és szoftverek
+Istqb
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Egyetem
+Juttatások
+Cafeteria
+Egészségbiztosítás
+Élet- és balesetbiztosítás
+ Elvárt technológiák
+C
+C++
+LABVIEW
+ISTQB
+ Módszertanok és szoftverek
+Istqb
+KNORR-BREMSE Hungária Kft.
+A több száz, illetve több ezer tonnás vasúti szerelvények esetében könnyen belátható, hogy milyen fontos az, hogy a megtervezett fékúton megálljon a szerelvény. Ehhez olyan fékvezérlő berendezéseket kell fejleszteni, amik minden körülmény mellet garantálják a megfelelő működést. Ezekhez a fejlesztésekhez járulnak hozzá tesztelőink a vonatkozó vasúti szabványokat és a legmodernebb tesztelői paradigmákat felhasználva. Ha szívesen megismernéd, hogy hogyan működik a kötöttpályás járművek fékrendszere a metrótól a nagysebességű vonatokig, és szeretnéd, ha az általad tesztelt szoftver egy összetett elektro-pneumatikus rendszert vezéreljen, akkor közöttünk a helyed!
+Szoftvertesztelő mérnök - Beágyazott területre
+FŐBB FELADATOK:
+Vasúti fékvezérlő rendszerek szoftverének teszteléseRendszer- és szoftverkövetelmények elemzéseAutomatizált tesztesetek fejlesztése SIL és HIL környezetbenTesztelési folyamatok és módszerek fejlesztéseKapcsolattartás rendszermérnöki és fejlesztői csoportokkalTesztfolyamatokhoz kapcsolódó tesztdokumentációk elkészítéseKapcsolattartás müncheni kollégákkal
+MUNKAKÖR BETÖLTÉSÉNEK FELTÉTELEI:
+Szakirányú felsőfokú végzettség: villamosmérnök, mechatronikai mérnök vagy fizikus1-3 év beágyazott területen szerzett szoftvertesztelési tapasztalatMérnöki szemlélet, képesség összetett rendszerek gyors megértéséreMagabiztos középfokú angol nyelvtudás írásban és szóbanProaktivitás, jó problémamegoldó képességUtazási hajlandóság (jellemzően München az úti cél)
+MUNKAKÖR BETÖLTÉSE SORÁN ELŐNYT JELENT:
+Programozási ismeretekkel rendelkezel (C/C++) beágyazott környezetbenRendelkezel haladóbb szintű ISTQB tanúsítvánnyalIsmerősek számodra ezek a grafikus szoftverfejlesztő eszközök (CASE eszközök): Ascet, CodeSys, LabView, SimulinkNémet nyelvtudásod is vanVasúti, autóipari tapasztalatod szívesen kamatoztatnád nálunk
+AMIT AJÁNLUNK:
+Modern irodai környezetben dolgozhatsz, rekreációs szobával, sportolási lehetőségekkelKiemelkedő bérezéssel és széles körű juttatási csomaggal számolhatsz (Cafeteria, 13. havi fizetés, egészségbiztosítási csomag, élet- és balesetbiztosítás)Nálunk kötetlen munkaidő vár heti 3 nap Home Office lehetőséggelLehetőséged nyílik nemzetközi projektekben való részvételre, akár külföldi helyszíneken isHa szeretnéd fejleszteni szakmai tudásod, mi támogatunk ebben: konferenciákon, képzéseken, oktatásokon vehetsz részt általunk és tanúsítványok megszerzésében is támogatunkInnovatív termékekkel, technológiákkal és megoldásokkal dolgozunkTámogató és jó hangulatú csapatban történik a munkavégzésTovábbi szakmai fejlődési lehetőséget is biztosítunk, akár több irányban is a csoporton belül: Szenior Tesztelő, Szenior Fejlesztő, RendszermérnökHa biciklivel, vagy autóval járnál, nálunk mindkettőt biztonságban tudhatod az ingyenes és zárt parkolóinkban
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Tesztelő, Tesztmérnök
+JELENTKEZÉS MÓDJA:
+Jelentkezés
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Egyetem
+Juttatások
+Cafeteria
+Egészségbiztosítás
+Élet- és balesetbiztosítás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+KNORR-BREMSE Vasúti Jármű Rendszerek Hungária Korlátolt Felelősségű Társaság
+Feldolgozóipar
+●
+Vasúti, kötöttpályás jármű gyártása
+1000+ munkavállaló
+1995
+1238
+Budapest,
+Helsinki út 105.
+Értékelések a(z) KNORR-BREMSE Hungária Kft. cégről
+3,5
+66 értékelés alapján 
+Értékelések kategória szerint 
+3,7
+Bérezés és juttatások 
+3,9
+Munkaidő és munkarend 
+3,7
+Megközelíthetőség 
+3,8
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

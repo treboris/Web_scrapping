@@ -1,0 +1,53 @@
+ Belépés ›
+Java Architect - Software Architect - PLM area (REF399Q) (Budapest)
+Java Architect - Software Architect - PLM area (REF399Q) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+A Deutsche Telekom IT Solutions (korábban IT Services Hungary, ITSH) Magyarország legnagyobb IKT-munkaadója, a Deutsche Telekom Csoport tagja. A 2006-ban alakult, több mint 5000 fős cég az informatikai és telekommunikációs szolgáltatások széles körét nyújtja. A vállalat 2019-ben elnyerte a Nemzeti Befektetési Ügynökség (HIPA) legjobb oktatási együttműködésért járó díját, a PwC Magyarország független felmérése alapján a legvonzóbb magyarországi munkahelyek közé tartozik, és a legetikusabb multinacionális vállalat címét is megkapta. A cég folyamatosan fejleszti négy – budapesti, debreceni, pécsi és szegedi – telephelyét, és várja képzett informatikai szakemberek jelentkezését a csapatába.
+Java Architect - Software Architect - PLM area (REF399Q)
+Did you know that car and airplane manufacturing systems collect data about literally everything what is in a factory and is related directly or indirectly to the delivered products? You can find all the mechanical details of the used screws, bearings, sheet material and even toilet paper.
+In your role you would be part of an international software development team providing such Product Lifecycle Management (PLM) solutions for major European automotive and aeronautic manufacturers, who are thriving to produce more reliable and economical products.
+As a Java/Software Architect you will 
+Design new features based on customer’s demands
+Manage feature development including task estimation, concept presentation and communication with the development team,
+Get insight and develop different PLM related applications,
+Utilize your development experiences to ensure that customer requirements of security, data Recoverability and integrity are met,
+Have to find solutions for everyday software challenges – let it be technical or performance
+Deliver application releases to test and production environments
+As a member of our team, on this job you will build your expertise in the fields of
+Java Solution Design with other Java Experts/Architects
+Designing feature developments
+Customer Consulting
+Requirements Management
+Working in an international development team
+Review Deliverables and Code of the development team
+Analyzing arising application issues
+As a candidate you have to have
+Significant experience as a Senior Java Developer or Java/Software Architect
+Confident appearance and communication skills (customer friendliness)
+Structured way of working
+Analytical Skills
+Knowledge of Agile project methods such as Scrum / Kanban
+Very good English language skills
+As an outstanding candidate, beyond the basics, 
+you would have experience with
+cloud technologies like MS Azure, AWS or Google Cloud
+different Java versions like 8 and above
+CI and CD tools like Jenkins, Teamcity or GitLab
+working with both NoSQL databases such as Mongo, Cassandra and RDBMS such as DB2
+Atlassian products like Jira and Confluence
+or you
+know any PLM software or have some experience in production support area
+are familiar with German language
+Location
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások

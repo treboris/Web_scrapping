@@ -1,0 +1,34 @@
+Jobs by email
+Kühne + Nagel (AG & Co.) KG
+Full-stack Software Engineer (m/f/d) – Healthcare & Verticals
+Hamburg
+Permanent contract
+Full Time, Home office possible
+Published: 3 days ago
+Easy apply
+Save
+You are an experienced Full-Stack Software Engineer and know how to solve challenging problems by bringing domain knowledge, data and code together? You feel comfortable getting input from customers/users to create valuable products? Be a part of the IT Healthcare & Verticals team, which takes care of critical applications that support the monitoring of sensitive healthcare shipments (including the transport of COVID-19 vaccines). We are the backbone behind this premium service, we use real-time tracking technologies with IoT sensors, so that in the event of something unexpected, the monitoring team can act accordingly, “…for when it matters the most”.
+Join a team that takes care of our ASTRO application which is the IT supporting tool of the logistics team in charge of 24/7 active monitoring of critical healthcare shipments. After an initial successful rollout in 2022, we have plans to scale the scope and extend the functionalities of the system. This allows us to move closer to our product vision: “ASTRO is the one-stop solution that provides all support the Hypercare operators need in order to perform the monitoring of selected healthcare shipments in a reliable and effective way”. You will be playing an active role in systems definition, architectural decision-making, and process definitions. You will be in close contact with our business colleagues and contribute continuously to system optimization. Your analytical approach, ability to learn quickly, and innovative mindset will be key indicators of success.
+Your tasks
+Understanding business requirements and translating them into running software.
+Managing the entire product lifecycle - from ideation through specification, prototyping, integration and maintenance.
+Development of the ASTRO Kotlin/Spring Boot web application, using Angular for the frontend, based on AWS.
+Bring most recent technologies to life on top of an existing application landscape.
+Continuous improvement of our processes and working methods.
+"You Build It, You Own It", the team is responsible for the whole software lifecycle.
+Your profile
+Several years of active experience with agile software development, preferably matching our currently used technologies: Java, Kotlin, Spring Boot, Angular (or similar), JUnit, RabbitMQ, Postgres Database, Docker, build tools, Jenkins and Git. You should feel comfortable working in both backend and frontend.
+Experience with AWS is an advantage.
+Agile mindset, confidence in self-organization and communication, and willingness to develop in pair or mob programming. But most importantly, willingness to learn!
+Knowledge of software craftsmanship targeting CI/CD, and clean code.
+We are an international team, so you should feel comfortable communicating in English.
+What we offer
+Participate in our annual international hackathon or regular local hackathons. We offer the possibility to work in a hybrid work model (work in the office/mobile work). We want you to feel comfortable in your working surroundings. Therefore, we are offering you modern offices in the announced Hamburg HafenCity directly adjacent to the Elbe, flexible working hours, a subsidized job ticket for public transportation as well as a canteen with a broad range of menus. Kühne + Nagel is offering you a custom-made career – through individual planning and supervisors who support and advice you in every way. Personally, you get supported by a lot of work-life balance offerings, a company pension, and supplementary health insurance.
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Kühne + Nagel (AG & Co.) KG
+20457 Hamburg, Deutschland

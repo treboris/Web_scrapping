@@ -1,0 +1,75 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceApplication Developer - Experience Front End 
+                                Define your career today.
+                                Explore opportunities now.
+                                Primary job category
+                            IT Specialist
+                                Place of work
+                            Bratislava, Košice, Banská Bystrica
+                                Contract type
+                            full-time
+                                Salary (gross)
+From 1 800 EUR/month
+Application Developer - Experience Front End
+        What would be your job?
+You will lead the entire app life-cycle right from concept stage until delivery and post launch support, and ensure they continue to function flawlessly across new releases. Your role will be not only a software developer but technical designer and code reviewer on several projects as well. You will apply your understanding of various coding methodologies and tools and know when to use each method to achieve the desired outcomes. That might also require to work "beyond" pure programming and take part in the full software development lifecycle. As such, you should be able to transform requirements into stipulations and identify application issues, and recommending changes to improve the established processes. During this process, you will use your written and oral skills a lot, as we work in teams and also face clients in daily interactions. Your interpersonal abilities will come useful, as well as your adaptability and willingness to work in a changing environment.
+Position is located in Bratislava , Kosice or Banska Bystrica.
+What would be your responsibilities?
+• Bringing together our frontend development strategy
+• Setting coding standard/direction on projects and bringing new ides 
+• Working with the team to make sure projects are delivered on time
+• Agile development and knowledge sharing
+What do you need for your success with us?
+• Experience with version control systems and responsive design experience
+• Working knowledge of testing, from unit, to functional in a frontend context
+• Being familiar with Agile development processes
+• Good communication and human relation skills
+• Good organisational skills in a deadline driven environment
+• Have good analytical and problem-solving skills
+• Creativity, enthusiasm and energy with a strong customer focus
+• English (speaking and writing), German Language is beneficial
+As a fullstack / frontend developer:
+• Enterprise software applications design, development and configuration Web UI development: HTML 5, CSS, JavaScript, 
+• Knowledge with at least one of these frameworks: React.js/Angular/Vue.js
+• Knowledge and experience in Rest Api design and implementation
+• BE: core Java SE, Java EE or Node.js - basic understanding
+• DevOps pipeline basics
+• Usage of CI/CD tools basics
+• Understanding of Twelve-Factor App principle 
+• Containers (Docker, Cloud Foundry) and clusters (Mesos, Docker Swarm, Kubernetes) - basics
+• Frameworks: Spring, JPA, Junit
+• Knowledge of JavaScript, Typescript
+• Knowledge of JavaScript UI frameworks
+• OOP, prototype inheritance
+• CSS 2/3 (pseudo-classes, shadows, gradients, multiple backgrounds, browser implementation differences)
+• AJAX, JSON, Rest API
+What benefits do we offer?
+• Salary from 1800 - 3500 EUR gross, depending on relevant experience and language proficiency
+• Stable job in a reputable and well-performing company
+• Almost endless learning & growth opportunities (classroom based trainings and 5000 e-learning courses)
+• Performance and salary evaluation on regular basis
+• Subsidized meal-tickets
+• Flexible working time and home office with option to borrow assets (monitor, chair)
+• Three additional vacation days
+• Up to three self-recovery days
+• 100% sick leave compensation
+• Life insurance and supplementary pension savings program
+• Private medical sanatorium
+• Long term career development and possibility of internal rotation
+• Recommend-a-Friend – get a bonus in the employee referral program
+Additional information
+            IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+SK |
+                            EN
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4465560 
+     Dátum zverejnenia:  4.3.2023 
+    2023-03-04
+lokalita: Košice   Pozícia: Frontend developer, Programmer   Spoločnosť: IBM   
+Základná zložka mzdy (brutto): 1 800 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

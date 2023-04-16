@@ -1,0 +1,32 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Data Engineer 
+Your new company
+Market leading automotive company is looking for an aspiring Data Engineer to work on international projects, on the field of advanced analytics and machine learning.
+Your new role
+► Supporting data pipeline creation and their operation with defining the necessary data formats for recording, transfer and storage.
+► Your main focus is data quality, performance, scalability, and sustainability of the team’s solutions.
+► Supporting the design of conceptual and logical data models together with business experts.
+► Initiate open discussions, provide clear communication and answers with your data, deliver results according to project timelines and quality expectations, and create/present reports.
+► Continuous improvement of analytic workflows regarding performance based on user feedback.
+► Collaborate and share methodologies actively with your internal and external partners and business requirements in manufacturing and technology development.
+What you'll need to succeed
+► BSc/MSc/PhD in computer science / (business) informatics, physics or comparable with min. 2 years of professional experience.
+► High level of proficiency implementing Azure data solutions, provisioning storage account, SQL Server Warehouse, designing relational and non-relational data stores.
+► Significant experience in designing and building ETL/ELT pipelines and resilient distributed systems.
+► Advanced Python is required, knowledge of C#/C++, LabView or any other high level programming language is plus.
+► Solid understanding of data warehousing concepts including the common schema architectures, dimensions, facts, aggregate facts.
+► Language: Hungarian and fluent English is required, German is plus.
+What gives you further advantages:
+► Create/develop tools, frameworks or production line applications to automatize and deploy the results processed by ML activities.
+► Knowledge of ML models and concepts.
+►Knowledge of automation engines (Jenkins), containers (Docker).
+►Knowledge of major DevOps tools, version control (Bitbucket/GitHub).
+What you'll get in return
+► Competitive salary
+► Cafeteria
+► Annual bonus
+► Felxible home office
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem

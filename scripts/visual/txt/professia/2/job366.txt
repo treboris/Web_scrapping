@@ -1,0 +1,123 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceAplikačný špecialista IT, oddelenie správy aplikačných služieb, odbor správy IS, sekcia informatiky 
+Aplikačný špecialista IT, oddelenie správy aplikačných služieb, odbor správy IS, sekcia informatikyFinančné riaditeľstvo SR
+Miesto práce
+Banská Bystrica
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+1.6.2023
+Mzdové podmienky (brutto)
+1 800 EUR/mesiacMzdu tvorí: základný, funkčný plat + osobný príplatok
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti• Zabezpečovanie správy a dostupnosti prevádzky centralizovaných aplikácií informačných systémov a IT služieb a činností súvisiacich s rozvojom informačných systémov - v oblasti e-služieb finančnej správy. 
+• Sledovanie a monitorovanie dostupnosti a výkonu informačných systémov, následné vyhodnocovanie trendov a vypracovávanie reportov a neštandardných výstupov. 
+• Riešenie neštandardných stavov a incidentov pri správe informačných systémov za príslušnú oblasť -  a to aj v mimopracovnej dobe, formou pohotovosti - a koordinácia používateľov počas výluky systému. 
+• Poskytovanie podpory alebo jej zabezpečovanie pre používateľov IT aplikačných služieb. 
+• Zabezpečovanie vykonávania príslušných procesov v rámci zavedených štandardov ITIL. 
+• Vykonávanie správy používateľských a aplikačných prístupových práv a hesiel v centralizovaných aplikáciách informačných systémov, správy prístupových práv externých subjektov k aplikačnej časti informačných systémov. 
+• Vypracovávanie odborných stanovísk, podkladov k materiálom a dokumentácií za príslušnú oblasť. 
+• Spolupráca pri vývoji a realizácii častí informačných systémov v príslušnej oblasti, účasť v pracovných tímoch projektov.
+• Poskytovanie technického poradenstva a expertných znalostí v oblastiach odstraňovania chýb, ladenia, monitorovania, optimalizácie výkonu, riešenia problémov, nasadzovania a podpory centralizovaných aplikácií informačných systémov a v oblasti dokumentácie štandardov a postupov pre správu a údržbu za príslušnú oblasť. Zamestnanecké výhody, benefityPlatové náležitosti:
+1 800,00 €
+(z toho 1 143,00 € funkčný plat a 657,00 € minimálna výška osobného príplatku, ktorý možno priznať najskôr po uplynutí jedného mesiaca od prijatia do služobného pomeru a v závislosti od kvality plnenia služobných úloh).
++ 554,00 € maximálna výška prídavku za výsluhu rokov (percentuálny podiel z funkčného platu odstupňovaný podľa dĺžky započítateľnej praxe) sa posudzuje individuálne.
+• stabilné zamestnanie s možnosťou kariérneho rastu
+• motivačné ohodnotenie (funkčný plat + ďalšie príplatky)
+• pružný mesačný pracovný čas
+• šesť týždňov dovolenky za kalendárny rok
+• príspevok na stravovanie
+• nadštandardná zdravotná starostlivosť
+• odmeny pri životných jubileách
+• možnosť profesijného vzdelávania prostredníctvom Akadémie finančnej správy
+• rekreácie v účelových zariadeniach (Donovaly, Veľký Meder, Tatranská Lomnica)
+• možnosť zahraničnej rekreácie (Česká republika, Maďarsko)
+• špeciálne ponuky (zľavy v CK na dovolenky, zľavy do divadla)
+• tímbuildingové podujatia pre príslušníkov finančnej správy (MDD, vianočné posedenie, športové podujatia)
+• letný tábor pre deti príslušníkov finančnej správy Informácie o výberovom konaníOrgán finančnej správy:	
+Finančné riaditeľstvo SR, sekcia informatiky, odbor správy IS, oddelenie správy aplikačných služieb
+Druh štátnej služby: prípravná štátna služba
+Počet obsadzovaných funkcií: 1
+Stupeň oprávnenia na oboznamovanie sa s utajovanými skutočnosťami:	
+vyžaduje sa bezpečnostná previerka I. stupňa pre stupeň utajenia - "Vyhradené" *
+* Úspešný uchádzač je povinný predložiť do 30 dní odo dňa vzniku  služobného pomeru materiály na bezpečnostnú previerku  podľa § 16 ods. 1 zákona č. 215/2004 Z. z. o ochrane utajovaných skutočností a o zmene a doplnení niektorých zákonov v znení neskorších predpisov					
+Požiadavky na uchádzača (výhodou): práca s Linux/Windows systémami a základná analýza problémov v týchto OS;
+znalosť aspoň základov Javy (alebo iných objektovo orientovaných programovacích jazykov), SQL a XML;
+skúsenosti s Oracle Weblogic, Oracle DB, Cassandra DB, Nginx, Apache;
+znalosť anglického jazyka.
+Podmienky prijatia:	
+bezúhonnosť, spoľahlivosť, zdravotná a duševná spôsobilosť na funkciu, ovládanie štátneho jazyka, spôsobilosť na právne úkony v plnom rozsahu, ku dňu vzniku služobného pomeru uchádzač nie je členom politickej strany alebo politického hnutia a nie je poberateľom výsluhového dôchodku podľa zákona č. 328/2002 Z. z.,
+Termín výberového konania: 26.4.2023,  o 9:00 h (písomná časť)
+Miesto realizácie VK:	
+Finančné riaditeľstvo SR,  Lazovná 63, 974 01 Banská Bystrica
+Overenie spĺňania požiadaviek:	
+• ovládanie štátneho jazyka                                                                                          
+• schopnosti a osobnostné vlastnosti občana
+Zoznam dokumentov:	
+V prípade, že máte o uvedenú pozíciu záujem, zašlite žiadosť o zaradenie do výberového konania  a štruktúrovaný životopis, na e-mailovú adresu: [email protected]
+Termín na podanie žiadosti: najneskôr do  21.4.2023 do 13:00 hod.Predpokladaný termín ukončenia výberového konania21.4.2023 (ostáva ešte 17 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňaVzdelanie v odborevzdelanie zamerané na  IT - výhodou Inzerujúca spoločnosť Stručná charakteristika spoločnostiFinančnú správu tvoria Finančné riaditeľstvo Slovenskej republiky, colné úrady, daňové úrady a Kriminálny úrad finančnej správy. Hlavným poslaním finančnej správy je efektívnym výberom a správou daní a cla napĺňať príjmovú časť štátneho rozpočtu SR a rozpočtu EU, ochrana ekonomických záujmov štátu a ochrana výdavkovej časti štátneho rozpočtu SR. Počet zamestnancov1000 a viac zamestnancov KontaktKontaktná osoba: Ing.  Silvia ŠulekováTel.: +421484393633E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4544475 
+     Dátum zverejnenia:  23.3.2023 
+    2023-03-23
+lokalita: Banská Bystrica   Pozícia: IT analytik, Java programátor, Správca informačného systému   Spoločnosť: Finančné riaditeľstvo SR   
+Základná zložka mzdy (brutto): 1 800 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

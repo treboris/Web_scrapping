@@ -1,0 +1,100 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior C++ Developer ETCS OBU  
+Senior C++ Developer ETCS OBU 
+Miesto práce
+Žilina
+Druh pracovného pomeru
+plný úväzok
+Platové ohodnotenie
+2 600 EUR/mesiac+variabilná odmenaPracovné skúsenosti, prax v odbore a technická odbornosť (seniorita) budú zohľadnené v ponuke.
+O nás
+Siemens MobilitySpoločnosť Siemens Mobility poskytuje riešenia v oblasti integrovanej dopravy a logistiky, ako aj nízkonákladovej a ekologicky šetrnej dopravy.Popis pracovnej pozicie a zodpovednostiČo majú spoločné metrá vo Viedni, v Kodani, v Istanbule či v Buenos Aires?Sme to práve my! Inžinierske centrum Siemens Mobility v Žiline vzniklo v roku 2003 s pár ľuďmi na palube. Dnes nás je už viac ako 700 a každý rok rastieme. Pracujeme na  projektoch po celom svete a za našou prácou môžeme vidieť reálne výsledky – napr. najmodernejšie vlakové linky a metrá v najvyspelejších štátoch sveta. Staňte sa aj Vy súčasťou inovácií v doprave a projektujte s nami pre celý svet!Do nášho svetovo úspešného Inžinierskeho centra v Žiline, na oddelenie softvérového vývoja, hľadáme nových kolegov na vývoj vlakovej časti (OnBoard Unit) zabezpečovacieho systému ETCS (European Train Control System). Jedná sa o vývoj komplexného bezpečnostne relevantného softvéru, ktorý musí spĺňať požiadavky definované normou EN50128 na úrovni SIL4.Ak je Vám blízka téma udržateľnosti a moderných riešení ste našim človekom! Zistite viac o našej práci a projektoch na: https://www.mobility.siemens.com/sk/sk/spolocnost/kariera/zilina.htmlČo bude Vašou úlohou?•	Analýza funkčných požiadaviek kladených na systém•	Objektovo orientovaný design a implementácia softvéru v jazyku C++ podľa štandardov CENELEC a UNISIG•	Spolupráca s medzinárodnými tímami v agilnom prostredí (SCRUM)•	Podieľanie sa na odhadoch pracnosti a plánovaní úloh v spolupráci s ostatnými členmi tímu•	Review a vytváranie programátorskej a technickej dokumentácie•	Analýza chýb a ich dopad na systém, následne ich korekciaPozrite si krátky rozhovor s našim kolegom o jeho práci u nás: https://www.youtube.com/watch?v=9JxttA0k8Ms
+Potrebné vzdelanie, zručnosti a osobnostné predpoklady
+Vzdelanievysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+                Technického smeru (informatika, softvérové inžinierstvo, elektrotechnika, telekomunikácie a prírodné vedy)Jazykové znalostiAnglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+                Technické znalosti:
+•	Expertnú znalosť objektovo orientovaného programovania a SOLID princípov
+•	Niekoľkoročné skúsenosti s programovaním v jazyku C++
+•	Znalosť základných Design patterns
+•	Skúsenosť s nástrojmi na riadenie zdrojového kódu (Git, SVN, Clear Case a pod.)
+•	Skúsenosti s agilnými metódami projektového riadenia
+•	Znalosť nemeckého jazyka je výhodou 
+Osobnostné predpoklady:
+•	Analytické a logické myslenie
+•	Chuť a schopnosť učiť sa nové technológie a postupy
+•	Schopnosť práce v tíme a spolupráce naprieč viacerými tímami
+•	Zodpovednosť, samostatnosť a iniciatívnosť
+Čo ponúkame
+                •	Tréningový a rozvojový program (business a produktové školenia, e-learning, jazykové kurzy, soft skills tréningy,…)•	Program pre zdravie (wellness, športové aktivity, fitness, doplatok ušlej mzdy pri PN a OČR)•	Flexibilný pracovný čas - balans medzi pracovným a súkromným životom•	Skvelý team a teambuildingy•	Extra voľné dni (bridge days, sick days)•	Rodinný program (príspevok pri narodení dieťaťa, odchode na materskú dovolenku, príspevok na škôlku)•	Retention program (príspevok pri pracovnom výročí, životnom jubileu, doplnkové dôchodkové sporenie, zamestnanecké pôžičky)Nemáte pripravený životopis? Alebo potrebujete viacej informácií?Napíšte mi na [email protected] alebo sa môžeme spojiť prostredníctvom Linkedinu: https://lnk.sk/bewdRada budem s Vami v kontakte pre budúcu spoluprácu. :)
+Poslať životopis
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+viac informácií
+ID: 4291041 
+     Dátum zverejnenia:  23.3.2023 
+    2023-03-23
+lokalita: Žilina   Pozícia: C programátor, C++ programátor, Programátor   Spoločnosť: Siemens Slovensko   
+Základná zložka mzdy (brutto): 2 600 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

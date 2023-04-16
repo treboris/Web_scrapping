@@ -1,0 +1,39 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSoftware Test Engineer with Python (full remote) 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukySoftware Test Engineer with Python (full remote)Koderia (by Objectify, s.r.o.)
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+From 4 800 EUR/monthna živnosť alebo s.r.o. - záleží od skúseností kandidáta. Možnosť pracovať aj na TPP.
+Information about the position Job description, responsibilities and dutiesWe are looking for a Software Test Engineer with experience with Python to work on an international project in the Energy Sector to provide manual and automation testing of features and capabilities of platforms and/or applications.
+Requirements:
+- Python experience
+- Manual testing techniques and Automation test scripting techniques
+-Test management tools (Azure, Jira…), defect logging, version control, continuous integration tool
+- Ability to query a database (SQL)
+- Strong understanding of web technology and agile software methodology – SCRUM
+-English language
+Tasks:
+- Preparing test plans with clear scope, objectives, deliverables, and risks identification
+- Testing, defect and test case management, and quality assurance assignments
+- Performing all test activities of new and existing software products
+- Use of your understanding of systems, regression, integration, performance, and user acceptance testing
+- Direct work on complex application/technical problems - identification and resolution
+- Analyze business requirements to develop and execute manual and automation test cases
+- Document software issues and defects in bug-tracking software and monitor for the resolution
+- Communication with a product owner and other team members to resolve open issues/enhancements/upgrades
+- Communication with end users and internal customers to help direct the development, debugging, and testing of the application Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2) Advertiser Brief description of the companySpoločnosť špecializujúca sa na vývoj softvéru na mieru podľa požiadaviek zákazníka. Naše produkty sa uplatnujú najmä v oblasti telekomunikácií, bankovníctve a medicíne. Number of employees10-19 employees 
+ID: 4520834 
+     Dátum zverejnenia:  15.2.2023 
+    2023-02-15
+lokalita: Remote work   Pozícia: IT Tester, Python Programmer   Spoločnosť: Koderia (by Objectify, s.r.o.)   
+Základná zložka mzdy (brutto): 4 800 EUR/month
+                Všetky ponuky

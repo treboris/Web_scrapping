@@ -1,0 +1,40 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePHP / Full-stack Developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+PHP / Full-stack DeveloperWESTech, spol. s r.o.
+Miesto práce
+Stará Vajnorská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+3 500 EUR/mesiacod 3500 EUR mesačne v závislosti od skúseností
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiSpoločnosť WESTech, spol. s r.o. hľadá do svojho developerského tímu nové posily. Budeš mať možnosť pracovať na viacerých zaujímavých projektoch, s priamym dosahom na biznis. Väčšina projektov beží na najnovších verziách PHP. V našom portfóliu sa nachádzajú riešenia pre dátovú analýzu, interné aplikácie pre obchodné potreby, ktoré v sebe spájajú rôzne technológie, pokročilú prácu s dátami (SQL, MSSQL, Snowflake, ...), ich integrácie a implementácie do ďalších systémov. Naše oddelenie zastrešuje vývoj nového a inovatívneho e-commerce riešenia, ktoré je postavené podľa najnovších trendov, na unikátnej architektúre (AWS) a podľa prísnych štandardov.Žiaden projekt nie je zaťažený ťarchou legacy kódu, ktorého sa od strachu bojíme dotknúť. Sledujeme aktuálne trendy, nebojíme sa inovovať a počúvať, ak nám to môže pomôcť a prinesie výhody. Používame primárne Laravel a Symfony, ale náš kód sa snažíme písať bez priamych závislostí. Na organizáciu práce používame Jiru a kód spravujeme v Git. Chceme aby sa náš tím rozrástol o šikovných ľudí, ktorých práca baví, a chcú napredovať. My ti na to zabezpečíme všetky potrebné podmienky. Zamestnanecké výhody, benefity●	Práca na zajímavých projektoch postavených na moderných technológiách●	Možnosť home office●	Flexibilný pracovný čas●	Možný kariérny rast a rozvoj●	Fond na vzdelávanie a kurzy v obore●	Zamestnanecké zľavy na sortiment a služby●	Teambuildingy a firemné večierky... a mnoho ďalších zaujímavých výhod a benefitov, ktoré Ti radi predstavíme na osobnom stretnutí. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímnadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreIT, dáta, programovanie, analýzyJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiLaravel (PHP framework) - PokročilýSymfony (PHP framework) - Pokročilýsolid - PokročilýJavaScript - PokročilýVue.js - PokročilýReactJS - PokročilýRelational Database Management System (RDBMS) - PokročilýPHPUnit - PokročilýUNIX/Linux - ZákladyDocker - ZákladyNginx  - ZákladyVodičský preukazB Prax na pozícii/v oblastiPHP developer, ITPočet rokov praxe3Osobnostné predpoklady a zručnostiVýhodou je ak máš skúsenosti aj s inými technológiami:●	SQL●	Python (numpy, pandas, ...)●	AWS Inzerujúca spoločnosť Stručná charakteristika spoločnostiSpoločnosť WESTech, s.r.o. 
+WESTech je obchodná spoločnosť, ktorá na trhu Európskej únie pôsobí už 22 rokov. Sme súčasťou nadnárodnej siete ELKO GROUP s celkovým ročným obratom 1,883 miliardy USD. WESTech spolu s dcérskymi spoločnosťami zamestnáva viac ako 400 zamestnancov.
+Sme partnerom viac ako 200 významných svetových značiek na trhu (Apple, JBL, Lacie, Zens, Devia, Intel, AMD, Eset, hp, Dell, WD, Seagate, Huawei, Asus, Lenovo, Logitech, Satechi , Harman Kardon, Bose, Gigabyte, Microsoft, Ubiquiti, Mikrotik, Zyxel a ďalší).
+VOLUME, VAD a RETAIL/eTail sú tri kľúčové obchodné oddelenia, ktoré sme vybudovali počas 20 rokov existencie našej spoločnosti. 
+VOLUME Team – Zabezpečuje predaj tovaru a služieb pre firemných zákazníkov. Náš obchodník, zaistí riešenie vašej objednávky od A po Z. Pre stálych zákazníkov máme pripravené výhodnejšie podmienky.
+VAD Team – Tím certifikovaných odborníkov zabezpečuje profesionálnu realizáciu veľkých IT projektov. Zabezpečuje predaj tovaru a služieb s pridanou hodnotou veľkým zákazníkom (bankový sektor, štátne organizácie, školstvo, priemyselné podniky). 
+RETAIL/eTail Team – Úlohou tohto tímu je spájať znalosti našich partnerov a sprístupňovať ich našim zákazníkom. Zabezpečuje obchodný servis pre RETAIL/eTAIL zákazníkov vrátane vlastnej siete predajní a eshopov. 
+Spoločnosť WESTech je vlastníkom významnej siete predajní.
+iStores - Apple Premium Reseller
+iStores je sieť prémiových predajní výrobkov Apple a príslušenstva 
+k nim. V súčasnosti má na Slovensku a v Českej republike sedemnásť predajní vo veľkých nákupných centrách a dve výkonné online predajne – istores.sk a istores.cz. Predajne s ročným obratom vyše šesťdesiat miliónov € navštívia ročne milióny zákazníkov.
+PGS.sk
+PGS.sk najväčší herný špecialista v predajni hier, herných konzol, počítačov a príslušenstva a jeden z popredných predajcov mobilných zariadení, príslušenstva a rôznych technologických vychytávok.
+Na Slovensku pôsobíme už viac ako 20 rokov, vlastníme 22 predajní 
+a online predaj www.pgs.sk  s ročným obratom 25 miliónov EUR. Prostredníctvom značky PlayGoSmart pôsobíme v etaili aj  na českom trhu ako playgosmart.cz a na maďarskom trhu nás nájdete ako pgs.hu. Počet zamestnancov200-249 zamestnancov 
+ KontaktKontaktná osoba: Mgr.  Eva KortišováTel.: +421903420635E-mail: poslať životopis
+Všetky ponuky spoločnosti
+ID: 4497935 
+     Dátum zverejnenia:  9.2.2023 
+    2023-02-09
+lokalita: Bratislava   Pozícia: PHP programátor   Spoločnosť: WESTech, spol. s r.o.   
+Základná zložka mzdy (brutto): 3 500 EUR/mesiac
+                Všetky ponuky

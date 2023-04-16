@@ -1,0 +1,24 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Experienced/Senior Data Engineer (REF1603Y) 
+ Description 
+Tegnaptól keresünk egy tapasztalt Data Engineert, aki a nagy adatmennyiségek hatékony feldolgozásában érzi otthon magát!
+Ha már bizonyítottál korszerü Data Plattformokon, néhéz kihívásokkal is megbírkoztál SPARK-ban és tovább szeretnél fejlődni új technológiákban egy nemzetközi Projekten, akkor beszéljünk egymással. A Projekteinkben a Data Engineer pozicióban agilis módszertan alapján egy nemzetközi Projektcsapatban széleskörü feladatok várnak rád:
+Data Pipeline-ok fejlesztése.
+Job Monitoring.
+Adatminőség ellenőrzése
+Hibaanalizis, hibás transformációk javitása
+Támogatás architekturális döntésekben
+  Qualifications 
+                Képzettség
+Tapasztalat Big Data fejlesztés területén (Min. 3 év).
+Tapasztalat min. egy Hyperscaler-Platformon (pl. Azure, AWS vagy GCP)
+Spark keretrendszer alapos ismerete
+Korszerü fájlformátumok ismerete (pl. ORC, AVRO, Parquet / Delta-Parquet)
+Tapasztalat CI/CD ezközökkel előnyös (pl. Azure DevOps, Git)
+Tapasztalat IAC ezközökkel előnyös (pl. Pulumi, Terraform)
+Java vagy Scala vagy Python ismeret
+angol vagy német nyelvtudás
+ügyfél- és minőségorientált munkavégzés
+További információk
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Jelentkezem

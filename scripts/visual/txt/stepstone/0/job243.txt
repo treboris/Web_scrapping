@@ -1,0 +1,74 @@
+Jobs by email
+Risk.Ident GmbH
+(On-Site or Remote) Senior Platform Engineer (d/f/m)
+Hamburg
+Permanent contract
+Full Time
+Published: 19 hours ago
+Show salary
+Easy apply
+Save
+100% remote possible, but German residential address required
+Become the Sherlock Holmes of the web and help our clients to detect the fraudsters among their customers. In this never ending race, we are beating the bad guys with technology!
+ As a Senior Platform Engineer (d/f/m) you are a member of our platform team which provides the latest version of our fraud prevention software FRIDA. We are looking for someone with a strong background in Linux and Kubernetes. Cloud knowledge is a plus but you should understand how things work behind the curtains. Troubleshooting distributed systems and complex technology stacks are nothing new for you. If you think the team will benefit from your creativity and motivation, take the next step in your career and be part of our growing company. An open mindset and your flexibility to adapt to situations and organise yourself will help you to deal with today's challenges of working remotely.
+TASKS
+Maintain and develop our on-premise Kubernetes implementation
+Maintain and optimize our core services such as Kubernetes, MongoDB, Kafka and Elasticsearch
+Automation and configuration management via Terraform, Helm, and Ansible
+Configuration and optimisation of our Monitoring/Metrics infrastructure (Prometheus/Grafana)
+Collaborate with our Development teams to solve challenges around our software product
+Be part of our OnCall rotation
+REQUIREMENTS
+5 years of experience in a similar role
+Linux is your choice of operating system (at least in the rack) and you feel comfortable with it
+Basic understanding of IP networking, Load Balancing, Firewalling
+You get the concept of container orchestration via Kubernetes and related abstraction layers
+You have deployed Kubernetes on premises before and know what it takes to make it highly available
+You are able to deploy an application with high availability to Kubernetes, covering everything from source code to logging and alerting
+You are able to methodically debug distributed systems
+Bonus points for experience with JVM applications, MongoDB, Kafka and Elasticsearch
+A university degree won’t hurt, but we value practical knowledge more than formal education
+Good English language skills (German not required)
+WE OFFER THE FOLLOWING BENEFITS
+The possibility to take over responsibility and to realise your own ideas – from day one
+Collaborative environment in which everyone works on eye-level
+A team of experts and helpful buddies that allows you to learn something new every day
+Very friendly and open environment
+Generous  remote work guideline with emphasis on team alignment
+Innovation days to pursue your personal/professional growth
+Offer of internal and external coaching sessions
+Budget for conferences, trainings, etc. and access to an online learning platform
+Sabbatical
+Social Days, i.e. paid time off for volunteer work on a project close to your heart
+Free choice between Linux or MacOS on company-provided laptop, and everything else you might need to be able to work efficiently
+Public transport & lunch allowance
+Regular workout sessions at no charge (shower in the office)
+Bike leasing via JobRad with insurance allowance
+Attractive discounts at various partner shops and gyms
+Relocation support: constant contact person, issuing documents, help with public offices, translation support, etc.
+And many more!
+If you would like to apply, please use the application button. Your contact person is Jana Gilb (Director People & Culture). We are looking forward to your application!
+ Kontakt
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Risk.Ident GmbH
+Am Sandtorkai 50, 20457 Hamburg, Germany
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

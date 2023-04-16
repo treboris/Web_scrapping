@@ -1,0 +1,83 @@
+Jobs by email
+Schneider Electric GmbH
+Software Developer (f/m/d)
+Marktheidenfeld, Lahr
+Permanent contract
+Full Time, Part time, Home office possible
+Published: 2 days ago
+I'm interested
+Save
+97828 Marktheidenfeld (Bavaria) or 77933 Lahr (Baden Wurttemberg) & Mobile Office
+We at Schneider Electric are involved everywhere. From transformer substations to sockets, from smart homes to industry 4.0 – we are pushing ahead with digitization. Our customers know what they have in us and our 144,000 employees in over 100 countries. Always with the big picture in mind, sustainability and our employees in mind, we offer far more than products – we offer solutions, customer proximity and innovation.
+We are looking for a Software Developer (f/m/d) working inside the software domain at our location in Marktheidenfeld or Lahr. This position combines the software development for machine automation and upcoming technologies as IoT, digitization, and Industry 4.0 as part of the software system architecture.
+Join our team and be significantly involved in the shape of the future of our Engendering Software development!
+  Life Is On – what about you?
+Your work field
+For international projects, develop architecture and design activities related to the PC and cloud based engineering software.
+Analyze and understand marketing requirements.
+Specify, adapt and enhance the software architecture to fulfil software requirement (features, ease of use, performance and robustness), working closely with firmware engineers and system architects.
+Technical understanding of machine automation, fieldbuses and network
+Develop prototypes to prove architecture choices against key requirements.
+Contribute to the definition of project development plans, mainly in the following areas: workload estimates, integration plans, test strategies.
+Participate to the development of functions or components (design, testing) with commitments on content, quality, delays, performance and costs.
+Support the development team during project design, verification and validation steps.
+Be involved in maintenance activities, especially on issues raised by customers, ensuring a high level of reactivity to solve them.
+Investigate, deploy new technologies to increase the skills and the efficiency of the team in development. 
+Our offer
+You will be part of a growing company with a positive industry reputation, who is a recognized leader in a market where energy services are in demand.
+You will be joining an entrepreneurial company with a positive corporate culture and strong team culture.
+We offer a competitive salary and bonus opportunities with excellent benefits.
+Thanks to the flex@work model, you are flexible in terms of working location (mobile office & presence in Marktheidenfeld or Lahr) and working hours, so that you have time for family and hobbies.
+You may develop different interests in the future? With Schneider Electric, you have all the development opportunities an international group can provide.
+Your profile
+Completed B.Sc. or higher degree (technical university) in Informatics or comparable
+First experience in software development and project execution is beneficial as well as knowledge in core software technologies and software architecture design patterns, experience in design & development of enterprise scale applications
+The ideal candidate will already have knowledge in one of the following areas:
+Design: Well versed with design patterns, good experience in design & development of desktop, web, and cloud native applications
+App development: C#, .NET Core, Entity Framework Core, PowerShell, HTML5, Typescript/JS, Node JS, Angular, Vue, React
+Database: one or more of MS SQL, Document DB,  RDF DB, Data Lake
+Cloud: Azure/AWS (SAAS, PAAS, IAAS and development), Containers/Docker, Kubernetes
+Source Control & Mgmt.: GitHub, Azure Devops, Git/SVN, Github Actions / CICD
+It would be advantageous, if you have experiences in one of the following tasks:
+Knowhow sharing for internal and external project contributor
+Project execution following the agile method
+Cyber Security, Threat Modelling, Secure development
+Translating business/product requirements to engineering requirements
+System level & functional level architecture and design
+Ability to influence/convince on right technology choice and solution approaches
+Experience or knowledge about Industrial Automation Domain is a big plus
+Ability to work inside an international team
+Structured and accurate method of operation
+Being motivated, independent and committed
+Good oral and written communication skills in English, German is a big plus
+Your next step? Apply, of course!
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Petrol card
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Meal coupons
+Company mobile phone
+Stock options
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Terrace
+Study allowance
+Car/Travel allowance
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,88 @@
+Jobs by email
+BMW Group
+Security Infrastructure Controlled Maneuvering Expert (f/m/x)
+München
+Permanent contract
+Full Time
+Published: 3 days ago
+Show salary
+I'm interested
+Save
+About us
+Our brands BMW, MINI, Rolls-Royce and BMW Motorrad have made us one of the world's leading premium manufacturer of cars and motorcycles as well as provider of premium financial and mobility services.
+Our IT-Operations team in München is currently seeking a
+Security Infrastructure Controlled Maneuvering Expert (f/m/x)
+Tasks
+MINIMISE RISKS TO EMBOLDEN VISIONS.
+SHARE YOUR PASSION.
+New possibilities often go hand in hand with new risks. Increased networking of vehicle systems and rising exchange of big data means that the danger of cyber-attacks is growing. Protecting automotive IT from these threats is essential if innovative systems are to be brought safely onto the roads. This is why we need experts who live and breathe IT security and who can use innovative software solutions to develop countermeasures from threat analysis through to developing and implementing a suitable security architecture. Together with a team of specialists, you will be responsible for safeguarding future mobility.
+Automated driving functions require a high level of cybersecurity while having a large attack surface due to technical complexity. We, as automotive security engineers, work passionately to protect our customers' wellbeing and cars from attackers. We need your help to secure our automated driving functions against attacks, no matter if they come over the air or from attackers with physical access to the vehicle.
+What awaits you?
+You will solve challenging problems to shape the future of automotive security and make new BMW products even more secure.
+You will analyze security risks of our functions/applications based on their architecture, define technical requirements (often configuring existing platform security features) and design validation and verification strategies.
+This includes aligning these with stakeholders within BMW and with external partners (suppliers, regulators, standardization bodies, infrastructure provides etc.).
+You will support and enable our SW developers to conduct threat modeling, fuzzing and implementing secure products.
+You will maintain and enhance our CI toolchain and enable and support agile Software development teams to use this infrastructure.
+Profile
+What should you bring along?
+University degree in engineering, computer science or a comparable field of study, ideally with a security focus.
+Hands-on experience in security architecture and concepts.
+Sound knowledge of ISO21434.
+Thorough understanding of security principles, latest techniques, and concepts (i.e. isolation/sandboxing).
+Background with modern software development.
+Experience with Python and Bazel as tools and with Continuous Integration and Delivery tools (Jenkins, Zuul) is a plus.
+Understanding of basic principles of threat modeling and security system analysis (TARA). Practical experience is a plus.
+Experience with OEM-external working groups is an advantage.
+Business-fluent English and German skills.
+You have enthusiasm and passion for IT security and high-quality software development in cutting edge ADAS functions? Apply now!
+Note: Please apply exclusively online via our career portal. Applications via other channels (esp. email) cannot be considered.
+We offer
+What do we offer?
+30 days of holiday.
+Attractive remuneration.
+BMW & MINI promotions.
+Career development.
+Flexible organisation of working times.
+High Work-Life Balance.
+Mobility offers.
+And many other benefits - see bmw.jobs/benefits
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are a particular concern for us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. That is why our recruiting decisions are also based on personality, experience and skills.
+Find out more about diversity at the BMW Group at bmwgroup.jobs/diversity
+Earliest starting date: from now on
+Type of employment: unlimited
+Working hours: Vollzeit
+Contact:
+Hatice Yildirim
+BMW Group Recruiting Team
++49 89 382-17001
+Job Reference: 89695
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+BMW Group
+80809 München, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Parking space
+Employee discount
+Sabbatical
+Company medical officer
+Stock options
+Coaching
+Home office
+Extra day off
+Study allowance
+Car/Travel allowance
+The benefits listed are applicable to the company and can differ depending on the position or department.

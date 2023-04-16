@@ -1,0 +1,60 @@
+Jobs by email
+ZEISS
+Data Modeling Expert (software/application) (m/f/d)
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+Ihre Rolle
+You will play a crucial role in shaping the future of the company’s Data Strategy and actively contribute to the success of the digital transformation at ZEISS. In this challenging technical role, you will be part of a team that focuses on identifying, structuring and modelling data across different business domains at ZEISS and different data systems. You will work closely together in co-located projects with the ZEISS business units as well as our Architecture & Engineering functions at ZEISS Digital Partners. With your team and your fellow colleagues, you will boost our capability to stay on top of digital innovation and make sure that business decisions that make use of data are made in the interest of ZEISS as well as our customers. Your direct roles and responsibilities are:
+You will be responsible for the design, development, and maintenance of data models to support data mesh platform and other data-driven architectures across the organization
+You will develop conceptual, logical, and physical data models that support various data-driven solutions and are consistent with the data standards used across the organization
+You will document the data models in a tool that provides visibility to various stakeholders from the organization
+You will support the integration of the data models with other data-driven services across the data lifecycle
+You will ensure that the data models are consistent with the already existing architecture and the parallelly occurring data initiatives
+You will work in an Agile environment in close collaboration with architects, engineers, product owners, and multiple data management relevant teams across ZEISS, as well as business counterparts
+You will work closely with the Data Governance team and consult on strategies to implement best practice data models across the data platform and the organization
+You will strive to learn and improve consistently and share your technical expertise with your colleagues via Community of practice, conferences, or similar events
+Ihr Profil
+University degree in computer science, business informatics, mathematics or in a related field According to experience, 3-5 years of relevant professional experience in IT Experience with data modelling concepts and data modelling tools
+Experience in multiple forms of Data Connectors and Storage Systems (relational, analytical or in-memory databases, objects stores, search engines, graph databases) and their integration, physical data modelling
+Knowledge of the Azure data ecosystem highly appreciated Understanding of data modeling (conception, logical and physical) and different data cataloging facets (data quality, privacy, process flows)
+Knowledge of latest trends and best practices in enabling Data Management solutions at enterprise scale
+Agile Software-development using Scrum / Kanban
+A solution-driven, conscientious and collaborative way of working Fluency in English
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+ZEISS
+81379 München, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

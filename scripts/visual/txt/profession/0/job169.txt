@@ -1,0 +1,134 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Hajdú-Bihar megye
+Debrecen
+Következő 
+.Net fejlesztő
+EventTrips
+4025 Debrecen
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Középiskola
+Juttatások
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Beiskolázási támogatás
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+EventTrips
+.Net fejlesztő
+Szereted az utazást és a technológiát? Az EventTrips egy gyorsan növekvő online utazási iroda, Amszterdamban, Debrecenben és Skandináviában vannak irodáink, csapatunk pedig olyan nemzetközi tehetségekből áll, akiknek szenvedélye az utazás és a csodálatos élmény biztosításához szükséges technológia. Összefogtunk, hogy megépítsük a tökéletes online foglalási platformot azoknak a szurkolóknak, akik élő eseményekre szeretnének utazni Európában. Jelenleg több mint 15 országban segítünk a foci és Forma 1 szurkolóknak a lehető legegyszerűbben eljutni külföldi rendezvényekre.Nálunk az egyablakos ügyintézés a kulcs; olyan foglalási weboldalakat hoztunk létre, amelyeken a szurkolók könnyen és pillanatok alatt foglalhatnak repülőjegyet és szállást a belépőjegy mellé.Az EventTripsnél nincs olyan, hogy két egyforma nap. Ráadásul különböző országokból származó barátságos és talpraesett kollégákkal dolgozunk. Mindannyiunk közös szenvedélye a technológia, az utazás és az események. Származásunktól függetlenül mindannyian egyetértünk abban, hogy a technológia és az utazás a két legkirályabb dolog. Az EventTrips piacvezető cég Európában ezen a területen.
+Főbb feladatok, munkák:
+Back office rendszerünk továbbfejlesztése ahol az összes brand-ünkből érkező foglalásokat egy helyen kezeljükOlyan alrendszereken dolgozni amik egyéb rendszerekkel kommunikálnakKülsős megoldások integrálásaRészt venni a döntésekben arról, hogy milyen keretrendszereket, kódolási technikákat és mintákat hasznájunkTesztelhető kód írásNaprakészségség új technológiákban és bevált gyakorlatokban
+Az álláshoz tartozó elvárások:
+Legalább 3 év komplex .NET megoldások készítésében szerzett tapasztalat.Olyan gondolkodásmód, ahol a skálázható, könnyen refaktorálható és tesztelhető alkalmazás készítésen van a fókusz, tudván, hogy ennek eléréséhez idő és sok munka szükségesPozitív hozzáállás, a problémák helyett a megoldásokra koncentrálásTudás és igény tesztelhető alkalmazások készítéséreRendezett és strukturált.Csapatjátékos, de önállóan is tud dolgozni.Problémamegoldó, aki szereti a kihívásokat és nem adja fel.Jó angol nyelvtudás írásban és szóban.
+Az állás betöltéséhez előnyt jelent:
+- EF Core- Azure- Docker- k8s- Blazor- Domain Driven Design- Event Sourcing- Message Queues- Node.js
+Amit kínálunk:
+Versenyképes fizetésInspiráló munkakörnyezetEgy 40 alkalmazottból, és több mint 10 különböző nemzetiségből álló nemzetközi vállalat csapatának tagja lehetszKiváló munkafelszerelésA legújabb technológiákkal dolgozhatszEgy szép iroda Debrecen szívébenIngyen snackek, kávé és teaAlkalmi céges bulik és vacsorákÉves céges kirándulás az egyik rendezvényünkre az amszterdami csapat többi tagjával!Továbbképzés finanszírozásaRugalmas munkaidő
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezés módja:
+Jelentkezés módja: angol nyelvű önéletrajz
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Középiskola
+Juttatások
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Beiskolázási támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahelyi extrák
+Kávézó
+Céges rendezvények
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+.Net fejlesztő
+EventTrips
+4025 Debrecen
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

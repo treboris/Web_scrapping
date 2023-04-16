@@ -1,0 +1,64 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+Laravel Developer (Fintech)
+			WORLD BUSINESS PRESS online, a.s.			
+Ponuka je neaktívna, nedá sa na ňu reagovať.Ponuky z podobných lokalítBratislavaPonuky z podobných kategóriíBack-end programátor PHP programátor
+ Miesto práce: 
+ EUROVEABratislava 
+ Pozícia / odvetvie: 
+ Back-end programátor , PHP programátor 
+Ponúkaný plat (základná mzda):
+2500 EURFinálna mzda závisí od skúsenosti vybraného kandidáta/-ky a druhu pracovného pomeru.
+ Termín nástupu do práce: 
+ dohodou (ASAP) 
+ Druh pracovného pomeru: 
+ plný úväzok, skrátený úväzok, živnosť 
+ Počet voľných miest: 
+ 1 
+Informácie o pracovnom mieste
+ Náplň práce, informácie o pracovnom mieste: 
+ Spoločnosť WBPO hľadá vhodného kandidáta na pozíciu LARAVEL Developer.
+- znalosť Laravel framework
+- vývoj CRM systémov
+- vývoj vlastných CMS systémov
+- škálovanie aplikácií
+- integrácia interných a externých API
+- vývoj a implementácia platobných brán (PCI)
+- vývoj aplikácie na odosielanie mailových kampaní
+- vyvíjanie nových funkcií na našich existujúcich platformách
+- práca prevažne backendovo orientovaná vo framework Laravel 
+ Benefity a ďalšie výhody: 
+ • moderné pracovné prostredie
+• motivujúci kolektív a príjemná pracovná atmosféra
+• príležitosť učiť sa nové veci a ďalej sa tak rozvíjať osobne aj profesijne
+• odborné a jazykové vzdelávanie
+• priestor pre vlastné nápady a inovácie
+• firemné raňajky a teambuildingové akcie na Slovensku a v zahraničí
+• nadštandardné finančné ohodnotenie
+• sick day, preplatené voľno na zotavenie
+• lokalita v blízkosti centra
+• parkovacie miesto
+• firemný MacBook
+• karta MultiSport
+• masáže
+• nápoje zadarmo
+• ovocie zadarmo 
+ Informácie pre uchádzača: 
+	Uchádzači, ktorí spĺňajú nami stanovené podmienky budú následne oslovení.  
+Požiadavky na zamestnanca
+ Minimálne požadované vzdelanie: 
+ stredoškolské s maturitou 
+ Jazykové znalosti: 
+ Anglický jazyk (stredne pokročilý - B2) 
+ Vhodné pre absolventov: 
+ Áno 
+ Všeobecne požadované znalosti: 
+ Vue.js (Vue3 a Composition API)
+CSS (tailwindcss) + responsive views
+PHP 8.1 (Laravel Framework)
+PHP Unit (Pest)
+Clean code rules (PSR standards, Laravel Code styles)
+MySQL 8
+GIT (+GitLab Pipelines)
+Redis Caching a Queue
+REST API	 
+Späť na pracovné ponuky

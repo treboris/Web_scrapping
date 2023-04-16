@@ -1,0 +1,104 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Következő 
+Software Engineer on network field (REF223C)
+Deutsche Telekom IT Solutions
+Budapest, Hungary
+ Elvárt technológiák
+NETWORK
+PYTHON
+DOCKER
+JSON
+XML
+ Módszertanok és szoftverek
+Rest
+Jira
+Agile
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Távmunka
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elvárt technológiák
+NETWORK
+PYTHON
+DOCKER
+JSON
+XML
+ Módszertanok és szoftverek
+Rest
+Jira
+Agile
+Deutsche Telekom IT Solutions
+Software Engineer on network field (REF223C)
+Company DescriptionPresent in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 4500 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Tasks:
+Job DescriptionOur group VNI is responsible for the integration, validation and production of test results ("System Under Test") the group in accordance with the requirements of the Deutsche Telekom AG Platform, as measured by the diversity of. The work is carried out in several virtual squads within the group, mainly with german but also international colleagues. In these squads, we are looking for Software Engineer colleagues. As a Software Engineer, we give you the opportunity to beeing part of the Deutsche Telekom’s biggest remote labor infrastucture, and making developement and automation solutions in this enviroment together with international collagues in virtual squads. We have several open positions with the following criterias:  Tasks: You support project teams in the development, quality assurance and planning as well as implementation of product releases Gradual involvement in network planning, Review design documents from Planning or Engineering, modify and improve for lab architecture You design further automations of services, processes and/or operating models, performing performance analyses and tunings as well as error analyses and correctionsYou support the automation of deployments in all environmentsYou provide and administer a project-specific infrastructure and tool suite for integration and deliveryAutomate workflows You create documentation and user manuals
+Expectation:
+Additional InformationIntermediate level English language knowledgePython with framework Django, with modules aiohttp and asyncioKnow-how, and some experience with container orchestration systems like Kubernetes and/ or DockerKnowledge of data modeling (YANG, XSLT, Swagger) and interface design (JSON, XML, REST, OpenAPI) is desirableJira, Gitlab knowhow or relevant experienceCI/CD knowhowExperience in front end / back end developement or in automation (scripts or in system automations ) Datebase knowhow or relevant experienceAccurate and thorough work, inclination to learn, teamwork Advantages: Experience in agile methodologyGerman language knowledge (B2 level) or willingness to learn germanOpenness towards new technologies, and to network technologies* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Sector(s):
+IT Development
+Programmer, Developer
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Távmunka
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Deutsche Telekom Systems Solutions Hungary Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+1000+ munkavállaló
+2006
+1097
+Budapest,
+Tóth Kálmán utca 2. B. ép.
+Értékelések a(z) Deutsche Telekom Systems Solutions Hungary Kft. cégről
+3,8
+77 értékelés alapján 
+Értékelések kategória szerint 
+4,3
+Munkaidő és munkarend 
+3,7
+Főnökök 
+4,0
+Munka és magánélet egyensúlya 
+4,0
+Kollégák és céges hangulat 
+4,3
+Megközelíthetőség 
+4,2
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+Támogatják a képzéseket 
+Vállalják a betanítást 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

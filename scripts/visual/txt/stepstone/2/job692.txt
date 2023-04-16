@@ -1,0 +1,46 @@
+Jobs by email
+Apple Distribution International ULC
+SWE - Stability Test Engineer (Wireless Products), WTE
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+Summary
+Apple engineers have always focused on one person when they build software — the person who will use it. Working in our Software Group (SWE) you’ll see why every Apple product and service feels intuitive and simple, and why every aspect of this group’s work is built around a respect for the customer’s needs.
+The world is quickly moving to 5G, and iPhone offers an advanced 5G experience, redefining the way users connect, share, and enjoy content. By the end of 2021, support for 5G on iPhone will double around the globe, with over 200 carriers worldwide in 60 countries and regions.
+Would you like to make an impact on this scale? Join our Wireless Technologies and Eco-Systems (WTE) team and help us create amazing experiences through ground breaking advances in cellular technologies.
+Tasks
+Join our Stability Verification team in Munich. We're responsible for Stress and Stability testing of cellular modem software for modern wireless platforms. As a Stability Engineer you will be responsible for developing test plans and methodology for the product stress test in multiple locations and multiple operators, as well as for tests execution, monitoring, issues analysis and reporting. It includes but is not limited to identifying issues, root cause analysis and following up with development teams on issues remedy. In this role you will collaborate with other parts of the team all around the world and have impact on product delivery by working with partners from other teams.
+RESPONSIBILITIES WILL INCLUDE:
+Taking part in test strategy development, including plan for locations, operators and technologies.
+Identification of test cases and development of test methodology for broad feature coverage, both in live network and on simulators.
+End-to-end execution of Stress and Stability test campaigns, including starting, monitoring, and reporting.
+Analysis of test failures, issues and crashes, modem logs analysis and triage, followed by engagement with respective development teams to fix issues.
+Interfacing with test framework development teams on automation improvements, new test cases and end-to-end workflow.
+Participation in various review meetings, cross-geo and with different audiences to represent stability results and top issues.
+This exciting position will require you to tackle numerous activities simultaneously, meet ambitious deadlines, and feel comfortable in a dynamic environment. You can expect a high-profile position on a phenomenal team with many challenges and rewards. If this is you we'd love to hear from you!
+Key Qualifications
+Knowledge in Test Automation and Scripting skills using Python.
+Hands-on experience in Wireless System Testing, Stability/MTBF and/or Cellular System Stress testing.
+Good understanding of 3GPP specifications (LTE & NR Air Interface, PHY, MAC, RLC, RRC, PDCP and NAS layer).
+Good knowledge in cellular protocol stack.
+Experience in defining, developing and validating cellular modem system test cases for mobile devices.
+Comfortable with solving problems/debugging/reproducing issues and analysing logs.
+Good working experience with commercial test simulators and test systems such as: Keysight, R&S, Anritsu call boxes for lab validation.
+Why Apple?
+Apple’s most important resource, our soul, is our people. Apple benefits help further the well-being of our employees and their families in meaningful ways. No matter where you work at Apple, you can take advantage of our health and wellness resources and time-away programs. We’re proud to provide stock grants to employees at all levels of the company, and we also give employees the option to buy Apple stock at a discount — both offer everyone at Apple the chance to share in the company’s success. You’ll discover many more benefits of working at Apple, such as programs that match your charitable contributions, reimburse you for continuing your education and give you special employee pricing on Apple products.
+Apple benefits programs vary by country and are subject to eligibility requirements.
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Apple is a drug-free workplace.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

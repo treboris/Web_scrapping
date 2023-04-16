@@ -1,0 +1,55 @@
+Jobs by email
+Verivox GmbH
+Senior Software Engineer Full-Stack (m/f/d) - Insurance
+Berlin, München, Leipzig, Heidelberg
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+Show salary
+Save
+Become part of the Verivox Team!
+Verivox is part of the ProSiebenSat.1 Group and is one of the leading, independent online consumer portals in Germany. Since 1998 it is our mission to help consumers get the best deals for electricity, gas, DSL, mobile phones, finances, insurances, real estate, cars, motorbikes and travel. More than 8 million happy customers have compared prices, and then changed their provider - thereby saving more than EUR 1.6 billion. We are a fast-growing and profitable company and continuously strive to improve our services. Whether at any of our ten locations in Germany or in Switzerland: we are one team aiming to give our customers a better experience every day. A flat hierarchy and innovative and dynamic processes help us in achieving this aim - while still having fun being part of the team.
+What you can expect
+Become part of the Verivox team!
+If you are looking for a nine-to-five job, this is not for you, but if you are into product development and taking our insurance products to the next chapter, we love to hear from you.
+We offer a fulltime position (40h/week) as a Senior Software Engineer Full-Stack (m/f/d) - Insurance in one of our locations in either Heidelberg, Berlin, Leipzig or Munich. The offer includes the option of working several days per week in the mobile office.
+Your Mission
+End-to-end development, test and deployment of new components, both on the back end and front end
+Transition and re-engineering of our existing web platform
+Design and extension of our Micro-Services based web architecture with high-functional and high- performance features
+You work hand in hand with UX, QA and Product Owner in an agile working environment incl. continuous integration and continuous deployment
+All your decisions and actions have the maximum customer benefit and the company goals in mind
+Work with Variety of technologies. Our team works with Kubernetes/G-cloud, Docker, Angular, RabbitMQ, Jenkins, C#, .net core, PHP, locust, pact, ELK among others
+Your essential experience and education
+Several years of professional practical experience as a Developer working in backend and frontend
+Proficiency in JavaScript stack, we mainly use Angular & node.js
+Good knowledge in Micro Services and DevOps infrastructure such as Kubernetes/G-cloud, Docker & Jenkins
+Background in web and/or e-commerce projects
+Agile Method Practice (Kanban)
+Fluent in spoken and written English, knowledge of the German language is a plus
+Technologies we use:
+Nodes.js, Angular
+Docker, Kubernetes, Jenkins
+MySQL, Redis
+REST, SOAP
+What's in it for you?
+More than 500 employees from over 30 nations as a collegial community with flat hierarchies
+Our "New Normal": generous mobile office regulations enable you to work flexibly from home - already today, but also after Corona
+Open, modern and friendly working environment with a startup feeling
+Own area of responsibility with room to develop your own ideas and concepts
+A relaxed and constantly evolving work environment where success is as important as regular team events
+Informal working environment - no dress code
+Exclusive employee benefits such as job ticket, job bike, lunch allowance, employee discounts and company pension scheme
+Complimentary hot and cold drinks and fresh fruit
+Centrally located with optimal transport connections
+Variety of technologies. Our team works with Kubernetes/G-cloud, Docker, React, RabbitMQ, Jenkins, C#, .net core, PHP, locust, pact, ELK among others
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

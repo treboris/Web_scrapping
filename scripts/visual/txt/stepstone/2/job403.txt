@@ -1,0 +1,85 @@
+Jobs by email
+Mercedes-Benz Mobility AG
+Data Analyst for BI Transformation in BI & Data Quality (f/m/x)
+Stuttgart
+Permanent contract
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER0002H0Z
+Tasks
+Mercedes-Benz Mobility at a Glance
+In addition to Mercedes-Benz AG, Mercedes-Benz Mobility AG is one of the two business divisions of Mercedes-Benz Group AG. It has about 10.000 employees worldwide and specializes in financial and mobility solutions. As a financial services provider, the business division supports the sales of the Group’s automotive brands worldwide. In Germany, Mercedes-Benz Bank AG, part of the Mercedes-Benz Mobility division, is one of the country’s leading automotive banks.
+Through its subsidiary Athlon, Mercedes-Benz Mobility is represented in the commercial fleet management segment as well as in vehicle leasing in Europe. The company manages more than 400,000 vehicles in total. As a strategic investor, Mercedes-Benz Mobility also participates in the business potential of digital mobility solutions through its holdings.
+Our Data, AI & BI department and BI & Data Quality team:
+We, the Data, AI & BI department (FS/D) at Mercedes-Benz Mobility AG (MBM), have a clear and ambitious mission: We enable smart and sustainable solutions based on high-quality data and governance expertise to transform data-driven company from buzzword to reality. We operate and develop the MBM wide, cloud-based Data Lake & Advanced Analytics platform: spire. By onboarding other global markets and offering E2E Advanced Analytics products – hand in hand with guiding on the compliance and information security side – we are one of the main drivers of the company-wide digital transformation.
+In addition, we take on the higher-level function of the data office and BISO for Mercedes-Benz Mobility. Within this framework, we play a role of great importance for numerous cross-organizational projects that have focused on digitizing their business processes, shaping data management and enabling information security. The department is also home to many BI reporting systems, the HQ data warehouse, and intelligent solutions – like an AI-based forecasting software – that will shape the future of the Finance & Controlling area.
+Our team provides the central MBM HQ data warehouse to fulfill reporting needs within the Finance & Controlling area of MBM for among others Credit Risk Management, Credit Risk Provisioning/IFRS9 and Asset-Liability Management. Our mission in the BI & Data Quality Team is to ensure the best possible data quality for the global finance and leasing portfolio. This data is the backbone for centralized reporting and management decisions. Moreover, we are the central link between IT and business departments and steer the data warehouse developments to guarantee that future reporting requirements will also be met.
+To drive the BI transformation to a strategic, homogenous, and future-ready BI landscape, we are looking for a Data Analyst with solid experience and proven experts in the field of Business Intelligence, Business Architecture, Requirement Engineering and Cloud Development.
+Are you an energetic and enthusiastic person looking for an assignment in an inspiring environment? If your answer is positive, we are looking forward to meeting you in our BI & Data Quality Team!
+Key Responsibilities and Accountabilities:
+Validation and measurement of data quality of data provided to HQ by the international MBM subsidiaries as well as proactive clarification of discrepancies / data errors / anomalies to improve data quality
+Further development of the data quality and data governance concept as well as processes
+Support of the business stakeholders (e.g. Credit Risk Management, Asset-Liability and Liquidity Management, Controlling, Credit Risk Provisioning/IFRS 9) and international MBM subsidiaries in the data requirements engineering, test process as well as advice on related business areas and in projects
+Coordination between the local and central HQ systems and interface changes that affect the MBM HQ data warehouse
+Support in the strategic initiative to become a data-driven company and to drive the transformation of the existing MBM HQ BI Landscape to be future-ready
+Qualifications
+What you bring to the table:
+Degree in business administration, business informatics, information systems, computer science, mathematics or technical oriented business/economics fields
+Experience in Business Intelligence and a solid understanding of BI architecture and Cloud technologies (preferably Microsoft Azure)
+Proven experience in handling various stakeholders and interests as well as bridging IT & business
+Sound database know-how, ideally familiar with SQL queries
+Knowledge and first-hand experience in at least one of the following areas of our business stakeholders is an advantage: Credit Risk Management, Asset-Liability and Liquidity Management, Controlling, Credit Risk Provisioning/IFRS 9
+Experience in the area of Data-Quality-Measurement und Data-Quality-Management
+Knowledge and preferably experience in agile methods (SCRUM, Kanban etc.)
+Knowledge of project and test management and project experience
+Knowledge of reporting / data visualization tools (e.g. PowerBI), statistical methods and software and programming languages (e.g. Python) are an advantage
+Fluent in English and preferably good in German
+Personal skills
+Conceptual, structured and strategic thinking and working style
+High level of initiative and self-motivation
+Quick comprehension and the ability to recognize complex relationships and to keep track of heterogeneous topics
+Customer orientation and proven outstanding stakeholder-oriented communication and presentation skills
+Flexibility and adaptability to work in a dynamic, demanding and international environment
+Strong target and result-orientation as well as the ability to work in a team paired with a Can-Do-attitude
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: sbv@mercedes-benz.com
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+Mercedes-Benz Mobility AG
+70469 Stuttgart, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Petrol card
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Stock options
+Coaching
+Home office
+Company car
+Public transport ticket
+Study allowance
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

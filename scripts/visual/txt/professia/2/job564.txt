@@ -1,0 +1,86 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePlatform technology engineer/ka 
+                        SLSP.sk
+Platform technology engineer/ka
+Poslať spoločnosti životopis
+Miesto práceBratislava
+Druh pracovného pomeruplný úväzok
+Platové podmienky1 800 EUR/mesiac*
+*Uvedená výška mzdy predstavuje minimálnu garantovanú sumu základnej zložky mzdy vzťahujúcej sa na uvedenú pracovnú pozíciu.Skutočná suma základnej zložky mzdy bude upravená v súlade s vašimi odbornými znalosťami a schopnosťami.
+Pracovná náplň:Máte skúsenosti v oblasti informačných technológií? Zaujímajú Vás databázové a integračné systémy, práca s dátami a integrácia medzi systémami a platformami? Do tímu si hľadáme nového kolegu/ kolegyňu, ktorý/á nás obohatí nielen po odbornej ale aj po osobnostnej stránke. Sme dynamický tím, ktorý si navzájom pomáha a zdieľa informácie ohľadom problémov a návrhov riešení.Na našom oddelení zabezpečujeme „prevádzku“ streaming a NoSQL systémov banky. Streamingové systémy zabezpečujú prenos dát do dátových úložísk, integráciu medzi rôznymi aplikáciami, integráciu databázových systémov a rôznych platforiem banky. Prevádzkujeme veľké dátové úložiská s obsahom neštruktúrovaných dát, aplikačných a iných logov, binárnych dát. Naša práca je rôznorodá a plná zaujímavých architektonických riešení, konceptov a testovaní nových technológií. Vyvíjame a prevádzkujeme automatizácie na podporu prevádzky, zvýšenie dostupnosti systémov a ich monitoring. Sme členom technologickej architektúry kde určujeme využitie a nastavenia jednotlivých technológii a integračných platforiem v SLSP a.s.Ako sa u nás môžete realizovať ? Prevádzkou streaming a NoSQL platforiem v režime 7x24Zabezpečením prevádzky formou pohotovosti v spolupráci s ostatnými členmi tímu.Nasadzovaním dodávok a zmien (lifecycle) a setup prevádzkovaných platforiem.Automatizáciou a prípravou pre DevOps pipelines.Vývojom a prevádzkou skriptov na podporu prevádzky, pre odstávky systémov, automatizácie pripadne monitoring.V našom tíme zabodujete s: Základné skúsenosti a práca v prostredí UNIX/LinuxScripting – shellSkúsenosťami a snahou naučiť sa relačnné a NoSQL databázamiAnalytické myslenie a samostatnosť (štúdium, analýza,..)Vzdelanie technického smeru (SŠ alebo VŠ)A výhodou je znalosť :Skúsenosti s Elastic StackSkúsenosti s Apache Kafka, IBMMQZnalosť RegEx, PythonSkúsenosti v oblasti integráciePoďte s nami dokončovať to, čo sme načali a my Vás odmeníme:Vašu prácu u nás si vážime. Odmeníme vás 13. platom a ročným bonusom.Extra money za úsilie navyše.Na kvalitné jedlo Vám prispejeme 6€. Stravné hradíme v plnom rozsahu, a to aj v dňoch keď dovolenkujete.Participujte aj na úspechoch banky, cez zamestnanecký programe sa stanete akcionárom, akcionárkou skupiny ERSTE.Chceme spolupracovať s ľuďmi, s ktorými radi trávite čas. Odporučte nám nových kolegov a kolegyne, a my vás odmeníme sumou až do 1000€.Urobte si radosť, prispejeme Vám na ňu 264€ ročne.Na to, aby ste boli na dôchodku finančne fit Vám prispejeme do III. piliera.Pre lepšie vyváženie práce a súkromia alebo, aby ste stihli dokončiť načaté aj doma:Dovolenkujte s nami až o 5 dní navyše.Voľný deň - pre rodiča budúceho prváčika pri jeho/jej prvom školskom dni, pri darovaní krvi, pri nadštandardnej zdravotnej prehliadke.Ťažkosti súkromné aj pracovné môžete riešiť cez psychologickú podporu, na ktorú Vám prispejeme.Veríme, že v zdravom tele je zdravý duch, športujte s Multisport kartou.Vzdelávajte sa a dokončujte svoje štúdia, veríme, že Vám v tom pomôžu workshopy, ktoré pripravujeme spolu s platformou SEDUO.Oddychovať môžete aj vďaka „Lucky“ time.V Sporke sa všetci poznáme aj vďaka spoločným eventom, ktoré organizujeme. Budúcnosť je Vaša v Slovenskej sporiteľni
+Kontaktné údaje:
+Slovenská sporiteľňa, a.s.
+                Tomášikova 48, 832 37 Bratislava, Slovensko
+www.slsp.sk
+Všetky ponuky
+•
+www.slsp.sk
+                    Copyright © 2002 - 2014 Slovenská sporiteľňa, a.s.
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4540311 
+     Dátum zverejnenia:  17.3.2023 
+    2023-03-17
+lokalita: Bratislava   Pozícia: IT architekt, IT tester, Programátor, Systémový administrátor   Spoločnosť: Slovenská sporiteľňa, a.s.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 1 800 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

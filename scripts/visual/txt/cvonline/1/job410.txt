@@ -1,0 +1,27 @@
+ÁLLÁSHIRDETÉS FELADÁS
+SAP Basis Consultant 
+Location: full remote
+Salary: 55 EUR/hour
+Who Are We:
+There’s the field where farmers use our machines. And then there’s the field of agricultural equipment makers…And figuratively speaking, we’re doing everything we can to un-level it.
+What You Will you do
+SAP Basis Administration including analysis of the SAP system log, monitoring of processes, analysis and clean-up of update terminations, analysis and clean-up of lock entries and checking for ABAP dumps. Schedule, troubleshoot and maintain application batch jobs, administer SAP logon groups, maintain SAP system profile parameters and optimize the SAP system.
+SAP Client Operations including the creation, copying and deletion of clients in or between systems, perform export/import operations between SAP instances, transport clients between systems and maintain instance/client configuration documentation.
+Transports & Change Control including the release and transfer of transport orders, maintain transport protocols, plan and implement regularly scheduled change requests, resolve technical and functional transport problems and document transport activities. Apply recommended SAP support packs and test and accept object changes.
+Print Management including maintaining printers within SAP software, analysis of faulty output requests, reorganization of the SAP spool system, provisioning and set-up for pre-printed forms and troubleshooting of spool and print problems within the SAP system.
+Interface Administration including the production, administration and running of batch input sessions. Monitor, administer, analyze and reorganize IDoc’s, interface documentation and testing and documentation of interface restart scenarios.
+SAP security support for client audit requirements, regular data and access security checks and system auditing.
+SAP PI including the installation of adapters provided by SAP and external partners, configuration of the required system connections to partner systems and activation of basic PI monitoring. Extended monitoring and monitoring of queues, configuration of adapters, examination of incorrect messages and archiving of messages.
+Technical skills:
+Manage and Support SAP Technical Infrastructure components that run on ABAP and/or JAVA stacks
+Responsible for Performance Tuning/Installations/Documentation/Upgrades/Monitoring of SAP Application/ NetWeaver Suite of products like ERP, BW, PI, SRM, Portal, GRC on AIX/DB2 platforms
+Research and Install Enhancement packages and SAP delivered Business Content for SAP Applications
+In-depth knowledge of ABAP and JAVA monitoring tools for root cause analysis such as SolMan monitoring, DB cockpit and Wily Introscope
+Evaluate Early Watch/Service Level reports and come up with an action plan to address the gaps on an ongoing basis
+Perform Client Copies/System Refreshes
+Configuration of Transport Management System configurations/Charm
+Capacity planning activities to track database growth, participates in sizing and SAP archiving activities
+Support current SAP DR Strategy and Backup-Recovery/Configuration/ upgrade/ monitoring of DB2 and HANA databases in an SAP environment.
+Develop and maintain UNIX shell scripts required for monitoring alerts and process automation. Work with Unix/Storage and Network teams to configure system
+    Apply Now!
+Jelentkezem

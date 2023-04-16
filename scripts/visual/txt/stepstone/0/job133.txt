@@ -1,0 +1,92 @@
+Jobs by email
+Hitachi High-Tech Analytical Science GmbH
+IT Infrastructure Engineer Germany (m/f/d)
+Be an early applicant
+Uedem
+Permanent contract
+Full Time, Home office possible
+Published: 2 weeks ago
+Show salary
+Easy apply
+I'm interested
+Save
+Hitachi High-Tech Analytical Science manufactures and develops analytical equipment for measuring material compositions and coating thicknesses. Our instruments make production processes around the world more efficient, safer and more sustainable. In order to offer our customers innovative technologies and optimal service, we need a good foundation. And this is where you come in.
+Join our team of around 120 people at the Uedem (Lower Rhine) site as
+IT Infrastructure Engineer Germany (m/f/d)
+Role definition:
+The IT Infrastructure Engineer (m/w/d) – is responsible for the operations of secure and highly available computing platforms, servers, and networks primarily based in Uedem, Germany.
+A key responsibility is ensuring support for the user base in the Germany, Finland, UK and China, so good communication skills are an absolute must have. Fluent in German and English essential.
+You will assist in the design and operation of secure services in collaboration with Architecture and Engineering principles. With a focus on operational stability, robustness, resilience, availability and quality solutions.
+As well as managing support of the existing landscape, which has recently gone through a global transformation, the remit of this role includes managing project work to keep the IT infrastructure up to date.
+Responsibilities for the IT Infrastructure Engineer (m/w/d) role:
+Strategic expertise to ensure effective management of the technical and business Services for their specialist area.
+Accountable for the transition and ongoing support of the relevant solutions to meet business requirements and IT architectural strategy.
+Creation, quality and governance of technical and standards documentation to maintain a stable and consistent environment.
+Complete the troubleshooting and resolution to production incidents or problems to meet operational needs and ensures business as usual service is maintained to service and operational level agreements.
+The provision of assistance to the Architecture, Development and Support teams to implement and support solutions into the business estate.
+Looks for improvement opportunities which involve coaching, mentoring, planning, supervising, supporting and training of team members.
+Providing professional level 3 support throughout the area of responsibility.
+Knowledge and experience:
+Managing the support of Windows 10 and Office 365 for a workforce of 400+ people.
+Implementation and support of VOIP telephony and conferencing systems and software including MS Teams.
+Network management experience with a global network spanning multiple sites in different time zones with multiple connectivity providers, within a hybrid working environment.
+Supporting VPN software such as Z-Scaler and SaaS/Cloud security tools such as Okta.
+Managing engagements with multiple third parties to deliver IT support and project work.
+Working within an IT audit and maintaining compliance with a corporate standard.
+Successful implementation and maintenance of level 3 support in an international environment.
+Hosting, Security Patching and Infrastructure:
+Experience in physical Servers, Networking, DR and Backups.
+Windows Server Operating Systems (AD, Networks and Multi-Domain environment, DNS, TCP/IP).
+Open Operating Systems such as Redhat Linux and Ubuntu.
+Server virtualisation techniques, Hyper-V, VMware ESXi 6.7, cloud.
+Proficient in networking technologies and protocols.
+Excellent analytical & problem-solving skills, identifying root causes and offering solutions.
+Knowledge of Azure AppServices.
+Intuitive nature to bring new ideas forward to develop the infrastructure.
+Essential technical skills:
+Design and implement secure services/solutions to meet strategic plans and roadmaps.
+Provide hands-on support for the infrastructure in the German office, and remote assistance as required for the Finnish, and UK offices.
+Development and implementation of Hitachi High-Tech Analytical Science IT technology service improvement plans to address identified issues.
+Proactively identify and propose improvements and enhancements in the IT infrastructure, telephony and desktop support environments.
+Provide specialist service/solution technical support and assistance to junior staff and users.
+Management of Technology Services Security risks, ensuring appropriate reporting and mitigation plans and actions are implemented.
+Soft-Skills – Must Have:
+Excellent German written and verbal language skills.
+Fluent conversational English language and written skills.
+Must be able to effectively, coherently communicate with senior management projecting gravitas and confidence.
+Designs, implements, administers and supports security products and services, ensuring adherence to Digital Security Standards and Architectural Principles.
+Prepared to work outside of normal hours to support project deliverables.
+Strong interpersonal skills, capable of managing relationships with key business stakeholders and third parties.
+Must be a self-starter and able to hit ground running.
+Must be prepared to travel, occasionally as and when required.
+Education / Qualifications:
+Degree or equivalent level with appropriate Industry standard qualifications.
+What we offer:
+Modern work equipment, which is also available for private use
+A future-proof workplace in an international company
+Work with the latest technologies that will make your technical heart beat faster
+A strong team that looks forward to your long-term support
+Intensive training, so that you can really get started right from the start
+Company events such as our summer party and the joint end-of-year party
+Good transport links via the Uedem motorway exit (A 57), from there it's only 10 minutes to the company car park
+Flexible working hours
+Home office
+Free coffee, water and fruit in the office
+Job bike and numerous employee benefits in our online portal
+Open, collegial and personal exchange at equal level
+A wide range of internal and external training to meet your desire for knowledge
+Convinced?
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Hitachi High-Tech Analytical Science GmbH
+47589 Uedem, Deutschland

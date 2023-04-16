@@ -1,0 +1,71 @@
+Jobs by email
+Mercedes - Benz AG
+Senior Tech Lead Software Architecture (f/m/x) : MB.OS Zone Controller
+Sindelfingen
+Permanent contract
+Full Time
+Published: 6 days ago
+I'm interested
+Save
+Introduction
+We are all in for change. - Are you too? The world is changing. The question is, what will be our contribution to the outcome? At Daimler, interdisciplinary teams are developing the mobility of tomorrow. You are very welcome to join them. Together, we will create new connected ways to move around our globe. Think, try, and thrive with us in collaborative work environments that spark game-changing concepts. Innovative solutions by and for the people.
+Job-ID: MER0002G13
+Tasks
+Mercedes-Benz AG is the world's most valuable brand for luxury passenger cars. We focus on the development, production and sales of passenger cars, vans and vehicle-related services. Furthermore, the company aspires to be the leader in the fields of electric mobility and vehicle software.
+Mercedes-Benz Cars Development (RD) has persistently been pioneering the automotive technology of the future. Highest quality, most innovative products and most efficient development processes are our day-to-day claim. We are already working today on vehicles that will secure the technological leadership of Mercedes-Benz in the future. One of the most important factors contributing to this leadership aspiration is agile vehicle software development at the heart of the new Mercedes-Benz operating system: MB.OS.
+Together for excellence.
+Our new department has been founded to define and develop the brand-new Zone controller platform (complex ECUs with power distribution, I/O management, gateway functionality, applications for vehicle and comfort functions, etc.) for our upcoming MB.OS vehicle architectures. As a senior Tech Lead Software Architecture, you will be responsible for designing the software architecture of the Zone controller including high-level design choices for the distribution of application software and base layer stacks. In close collaboration with system architects and software requirement teams, you find creative solutions to build software compatible with interfaces throughout the vehicle architecture. Also, you are passionate about the MB.OS aspiration of “24h to prototype and 3 months to serial production”.
+WinningTeam – You are part of a highly skilled and motivated team of software engineers and you are eager to contribute to the team success.
+ContinousDeployment – You are designing the software architecture of the Zone controller and defining its technical and functional distributions in close collaboration with the system architects and software engineers. You promote high-quality design choices in the context of automated processes. You appreciate unforeseen events as an opportunity for change rather than a problem and you strive for continuous improvement.
+FasterThanEver – You employ and refine the toolchain provided by the Mercedes Software Factory for a seamless software design and consistency with the system architecture requirements as well as the software requirements. You actively seek to improve design patterns and existing guidelines and understand the value of consistent documentation of design decisions and purpose.
+DigitalEmbracesEmbedded – You conceptualize a software development strategy that builds upon existing resources, such as SIL and HIL. Aspiring for a fast and efficient route from rough idea to validated product, your software design journey leads you from fast cloud-based simulation to hardware-software integration in the physical world.
+OpenCommunity – You cooperate closely with neighboring hardware teams, contributing stack and application teams for the software architecture of our Zone controller.
+DriveCreateInspire– You enjoy working in a dynamic environment and you feel confident about choosing the road less paved. You are resourceful in using the freedom available and in pushing boundaries to help cover unknown territory. You see setbacks as an opportunity to grow and as a motivation to try even harder. For you, change means progress.
+Qualifications
+What you bring to the table:
+University degree in Informatics, Software Engineering or related fields
+Multi-year experience in automotive software design (including ASPICE and Functional Safety ISO26262 conformity)
+Modeling languages UML 2.0 or SysML
+Atlassian Toolchain (Jira, Confluence, Git/BitBucket)
+English (C1 CEFR) to communicate with colleagues and suppliers in an international project setting
+German (B1 CEFR)
+Personal skills:
+Excellent communication and teamwork skills
+Sense of responsibility
+Ability to describe and communicate complexity and elaborate solutions
+Analytical and solution-oriented mindset
+Structured approach to problem-solving
+Conflict resolution capabilities
+Open-mindedness to learn and broaden horizons
+Organizational and prioritizing skills
+...You don't bring everything? Don’t worry. We are looking for people who want to move something and to shape our common working environment!
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: SBV-Sindelfingen@mercedes-benz.com.
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+Mercedes - Benz AG
+Sindelfingen, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

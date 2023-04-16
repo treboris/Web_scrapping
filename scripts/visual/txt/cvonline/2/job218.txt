@@ -1,0 +1,49 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Java Team Leader 
+Java Team Leader
+Pénzintézeti partnerünk részére keresünk Java Team Leader kollégát az Internetbank és Mobilbank, illetve további digitális csatornák fejlesztési területére.
+Főbb feladatok:
+A Team leader elsődleges feladata a szakértői csapatába tartozó, az fejlesztő kollégák folyamatos szakmai fejlődésének biztosítása, a dolgozók munkájának értékelése, a szakmai és karrier utak tervezése és nyomon követése;
+Szakmai tudására, személyes tapasztalataira építve tanácsaival, iránymutatásaival támogassa a chapter tagjait konkrét szakmai kérdésekben, továbbá általánosabb problémák megoldási kereteinek megalkotásában;
+A Team Leader szakmai és emberi téren is mintaként képes szolgálni a chapter tagok felé, inspiráló, bevonó személyiség, aki hidat képez a szervezet különböző területei között;
+Feladata továbbá a Java backend fejlesztési és minőségbiztosítási módszertanának, kereteinek folyamatos fejlesztése, igazodva az OTP-ben megfogalmazott standardokhoz és az irányadó trendekhez;
+Szoros együttműködés a különböző üzleti és IT társterületekkel;
+Elvárások:
+8+ év Java fejlesztői tapasztalat
+Java technológiák magas szintű ismerete (Akka vagy Spring Boot), releváns programozói múlt
+Microservice architektúra részleteinek ismerete
+People management tapasztalat és ismeretek, erős csapatépítő képesség
+Szakmai standardok kialakításának képessége
+Tapasztalat agilis munkamódszerekkel
+Támogató típusú vezetői szerepkör iránti nyitottság
+Képesség a változások kezelésére, irányítására, és a kollégák motiválására
+Angol nyelvismeret
+Strukturált gondolkodás, önálló problémamegoldó hozzáállás
+Pontos, precíz munkavégzés, csapatmunkára való készség
+Előnyt jelent:
+Nagyvállalati környezetben végzett alkalmazások fejlesztése, üzemeltetése terén szerzett tapasztalat
+OpenAPI, REST, Kafka ismerete
+Akka, Cassandra, Kubernetes, Openshift ismerete
+Tapasztalat nagyobb méretű csapat vezetésével         
+Jelentkezem
+Elmentem az állást
+Java Team Leader 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 31.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Java Team Leader 
+ Budapest  
+ Server and Network Management team leader 
+ Budapest  
+ Java Developer 
+ Budapest  
+ Digitalization team leader 
+ Veszprém  
+ Java backend developer 
+ Budapest  

@@ -1,0 +1,87 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJAVA Software Engineer - Žilina 
+JAVA Software Engineer - ŽilinaPANTHEON.tech s.r.o.
+Place of work
+Žilina, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+1 200 - 5 500 EUR/monthdepending on the level of seniority  - details for all levels see below
+Information about the position Job description, responsibilities and dutiesPANTHEON .tech is looking for Java Software Engineers for project that involves SND technology. If this area is interesting for you, keep reading about our project below. Your job will involve working on a prototype project - on something, that no one has ever done before.PANTHEON .tech customer's application was developed to deliver intuitive and useful network applications that abstract away unnecessary complexities to efficiently manage end-customer enterprise networks. Such applications enable efficient provisioning of network services using a common set of operations regardless of underlying SDN technology, products, or network elements. This, in turn, enables customer's staff to quickly deliver requested network services compliant with architectural standards without navigating the nuances of vendor-specific network solutions or provide to the end customer the self-service function. This SDN portal solution includes firewall and switch automation that provides visibility to network and network security vendor's devices. You will make sure that telcos, data centers, or ISPs stay up-to-date on the latest technologies and in the end, contribute to a faster, more interconnected world. Employee perks, benefitsWhat extras does PANTHEON throw in?Anyone can offer you a perfect team, team buildings, LAN-parties, friendly environment  and a place to grow. (And, of course, we do offer those too.)But the real benefits? Additional days off, 100% paid sick leave, subsidized public transport, Home Office, flexible working hours (possibility to work until midnight)  and technical education, among others. Information about the selection processHow much you can earn is directly related to how much you know. Your paycheck grows with your skills. You can start as a developer and make your way up or we can hire you directly as an expert. If you are a good team leader, we can even hire you directly for this position.Here is our tentative salary ladder (gross):Java SW Developer (Junior) 1500 -1800€Java SW Engineer 1700 - 2500€Java Senior SW Engineer starting at 2300€Java Expert starting at 3000€The salary range is given in EUR. The salary is divided into a fixed and variable part (the variable part is paid in full unless the Code of Conduct is broken or work tasks are not performed).We are always searching for Engineers, which will work from either Bratislava, Banská Bystrica or Žilina! Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Educational SpecializationITLanguage skillsEnglish - Upper intermediate (B2)Other knowledgeJava - AdvancedMaven - SkillfulLinux - BasicPersonality requirements and skillsOn this project, we are working with the following technologies and use these principles:•	Java 11+•	Maven/Gradle•	Basic programming principles and skills (OOP, code conventions, unit testing,...)•	Work with code repositories•	UNIX/Linux, BashWe mostly work with the following Java frameworks: Spring Boot, OSGi, ServiceMix.We utilize SCRUM and communicate with customers worldwide on daily basis, English is therefore a must.Knowledge of SCRUM, Client/Server architecture and Computer Networking is a huge advantage.Clean criminal record is a must.If you find our jobs interesting and fulfill the requirements, do not hesitate to send us your CV! Advertiser Brief description of the companyPANTHEON.tech is an R&D company, primarily invested in the development of network technologies and prototype software. Our mission is to interconnect the world with new technologies and year-long expertise.  
+We are primarily located in Slovakia, while most of our business is oriented on Silicon Valley. You will have a creative, but demanding job - rather than coding the same thing over and over again. Our work is not easy, which is noticeable by the requirements we place on our future employees and by the complexity of our interviewing process. 
+You will get to work with renowned experts and Fortune 500 companies on building the networks of the future. We are looking forward to meeting you! Number of employees100-149 employees 
+ ContactContact person: Simona OrechovskáE-mail: send CV
+All company jobs
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4540595 
+     Dátum zverejnenia:  17.3.2023 
+    2023-03-17
+lokalita: Žilina   Pozícia: Java Programmer, Programmer, Software Engineer, Systems Engineer   Spoločnosť: PANTHEON.tech s.r.o.   
+Základná zložka mzdy (brutto): 1 200 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

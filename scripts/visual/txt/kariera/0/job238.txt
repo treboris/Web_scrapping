@@ -1,0 +1,59 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+ Java Programátor (Ref. č.: 1-16-40120)
+			10.03.2023		
+			Grafton Slovakia s.r.o.			
+Agentúra je členom asociácie personálnych agentúr Slovenska  
+ Miesto práce: 
+ Košice IKošice 
+ Pozícia / odvetvie: 
+ Informatika - software; Programátor 
+Ponúkaný plat (základná mzda):
+2500 - 3400 EUR
+ Druh pracovného pomeru: 
+ plný úväzok 
+ Počet voľných miest: 
+ 1 
+Informácie o pracovnom mieste
+ Náplň práce, informácie o pracovnom mieste: 
+ Zaujímala by ťa práca v tíme, ktorý je orientovaný na vývoj platforiem, ktoré sa zameriavajú na perzistenciu a ďalšie podporné služby, ktoré sú súčasťou obchodnej logiky, ako napríklad Web Admin?
+Tento tím pracuje s nahrávkami hovorov, šifrovaním, dešifrovaním, zálohovaním dát, synchronizáciou a pod. Hlavné zameranie sústreďuje na prebudovanie celej vrstvy na cloudové riešenie pre viacerých nájomcov. Denná rutina je úplne na tíme, no používajú sa metódy Scrum. DEV & QA úzko spolupracujú so zameraním na maximálnu automatizáciu, aby splnili akceptačné aj inherentné kritériá DoD (Definition Of Done). 
+Náplň práce:
+- Napísať dobre navrhnutý, testovateľný kód založený na požiadavkách PM (Product Management) 
+- Vyvinúť softvérový produkt, ktorého základom bude tvoja vlastná kreativita a zároveň základné hodnoty spoločnosti
+- Vytvoriť škálovateľné, automatizované riešenia pre zákazníkov
+- Integrovať softvérové komponenty do plne funkčného softvérového systému
+- Napísať jednotkové a integračné testy pre jednotlivé riešenia 
+- Zdokumentovať a udržiavať softvérovú funkčnosť 
+ Benefity a ďalšie výhody: 
+ - Možnosť práce Home office
+- Flexibilná pracovná doba
+- Rozpočet na školenia a konferencie
+- Čas venovaný vzdelávaniu, experimentom , alebo práca na open source projektoch
+- Firemné raňajky 
+ Informácie pre uchádzača: 
+	Zašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku. Viac podobných pozícií nájdete na https://www.grafton.sk/sk/job-search  
+Požiadavky na zamestnanca
+ Minimálne požadované vzdelanie: 
+ stredoškolské s maturitou 
+ Vhodné pre absolventov: 
+ Nie 
+ Všeobecne požadované znalosti: 
+ - MUST HAVE: Java, Spring Boot
+- NICE TO HAVE: Docker, Kubernetes, Helm, Python & Bash scripting, Spring Integration, Unix & Linux
+- Angličtina na komunikatívnej úrovni	 
+Informácie o spoločnosti
+ Charakteristika spoločnosti: 
+ Spoločnosť Grafton Slovakia s.r.o., svetovo uznávaný poskytovateľ personálnych služieb a sprostredkovaní práce, je personálno-poradenská agentúra so širokou pôsobnosťou. V oblasti sprostredkovania práce ponúkame stále zamestnanie, dočasné úväzky, brigády, ale tiež prácu v zahraničí. Zameriava sa predovšetkým na ponuky práce v nasledujúcich oboroch: obchod, marketing, administratíva, financie, bankovníctvo, IT, engineering, výroba, farmácia, cestovný ruch a ďalšie. Okrem ponuky práce poskytuje aj personálne poradenstvo, napr. ako napísať životopis, sprievodný list či ako sa pripraviť na pohovor.
+Medzi široké portfólio Grafton služieb tiež patrí personálna inzercia na mieru, testovanie kandidátov, Assesment Centres, personálne a mzdové vedenie, konzultácie v oblasti ľudských zdrojov a Outplacement.
+Graftonu záleží na kvalite, a preto sa snaží na trhu sprostredkovania práce a personálneho poradenstva ponúknuť maximálne profesionálny servis. Práve preto implementoval európsky uznávaný systém riadenia kvality ISO 9001. Certifikát ISO 9001 prispieva k snahe spoločnosti Grafton vyhovieť požiadavkám jej zákazníkov v najlepšej možnej kvalite. Ku každému  zákazníkovi pristupuje individuálne s prioritou nájsť spoločné riešenie.  
+Reagovať na ponukuĎalšie ponuky spoločnosti
+Operátor výroby (Ref. č.: 11-18-39190)
+Prešov
+Business Account Špecialista s NJ (Ref. č.: 1-6-41862)
+Bratislava
+Údržba strojov, elektrikár - doprava zdarma (Ref. č.: 12-9-40506)
+Martin
+Údržbár/ Nastavovač vstrekolisov| 1 300 EUR  | Prešov (Ref. č.: 3-10-41677)
+Prešov
+Iné možnosti práceInformatika - software Košice | Programátor Košice | Košice plný úväzok
+Späť na pracovné ponuky

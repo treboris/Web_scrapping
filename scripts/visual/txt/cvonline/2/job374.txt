@@ -1,0 +1,57 @@
+ÁLLÁSHIRDETÉS FELADÁS
+PRODUCTION SYSTEM SPECIALIST / DEVOPS ENGINEER - Budapest 
+Munkavégzés helye: 
+Budapest
+            Pozíció területei: 
+IT: IT állások
+        Nyelvtudás:
+Angol Tárgyalási szint
+              Pozíciószint:
+Beosztott / Alkalmazott
+                    Elvárt végzettség: 
+Felsőfokú végzettség
+	Jelentkezés: thr8@t-hr.hu
+We are also waiting for applications from graduates and juniors!
+What awaits you?
+Identify and analyze business needs
+Support requirements gathering
+Translate business requirements into application requirements
+Support defining scope and objectives
+Design automation technology solutions for manufacturing, logistic process optimization
+Guide automation integration into manufacturing environment
+IT system design, development and Implementation
+Review, verify, and validate software code
+Deploy updates and fixes into the production environment (with configuration management software)
+Incident management and root cause analysis
+Support daily production (fix production issues, debug source code, etc.)
+Encouraging and building automated processes wherever possible
+Research business requirements and documenting the relationships between the components of the application system (i.e., end users, business processes, data, applications, and devices)
+What should bring along?
+Bachelor’s degree in computer engineering or equivalent preferred
+At least 1 years of relevant experience (preferred)
+Good communication skills in written and spoken English
+Excellent problem solving and analytical skills
+Visual Studio, Oracle, MS SQL, GIT, SVN, Atlassian skills
+.Net, C#, PL-SQL, TSQL, HTML, CSS, JavaScript skills
+Jelentkezem
+Elmentem az állást
+PRODUCTION SYSTEM SPECIALIST / DEVOPS ENGINEER - Budapest 
+Jelentkezem
+Elmentem az állást
+T-HR Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 04.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ DEVOPS IT TEAMLEADER - Budapest 
+ Budapest  
+ DevOps Engineer 
+ Budapest  
+ Senior Devops Engineer (Debrecen/Budapest) 
+ Debrecen  
+ Devops Engineer 
+ Budapest  
+ Devops Engineer 
+ Budapest  

@@ -1,0 +1,70 @@
+Jobs by email
+exocad GmbH
+Senior Cloud Engineer for Remote Application Streaming (m/w/d)
+Be an early applicant
+Darmstadt, Berlin
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+Einleitung
+To advance our cloud strategy in Darmstadt we are looking for you as
+Senior Cloud Engineer for Remote Application Streaming (m/w/d)*
+Locations: Darmstadt or Berlin in Germany
+This role will be focused on design, implementation and maintenance of running 2d/3d applications from the cloud as interactive real-time video-stream including the topic of security controls for protection of the relevant user-data and patient-data.
+Ihre Aufgaben
+ Design and/or implementation of a cost-efficient system for deploying Windows-based 2D- and 3D- software into cloud environments (AWS and/or Azure) for real-time remote access from web-browsers and mobile devices (Android, iOS) using customized commercial and/or open-source technology as thin clients
+Integrate the existing cloud storage system for persistent data (user and patient data)
+Partner with our Information Security and Data Privacy experts for HIPAA and GDPR
+Cost estimation, cost simulation and cost analysis
+Design for high security, scalability and availability including Logging and Monitoring of the environments for thousands of sessions in parallel
+Programming or scripting in C#, Typescript, Python or Go, depending on the design and the exact role in the team  
+Ihr Profil
+3 years of experience in design, building and maintaining cloud-based software systems, preferably in AWS
+Experience (at least as a user) with Remote Desktop, AWS AppStream, Vmware Horizon, Azure AVD or similar services for remote software usage, preferably with 2d- or 3d- applications or games
+Experience with JIRA and Confluence
+Information Systems, Computer Science, or other technical degree, or equivalent
+Very good English oral and written 
+Wir bieten
+Exciting and varying tasks in a dynamic and growth-oriented software company
+Flat hierarchies and efficient decision-making processes
+A positive working atmosphere that promotes both individual freedom and responsibility
+Strong team spirit and very good working atmosphere
+Modern offices and workplaces, working with the latest technologies
+Flexible working hours
+Home office possibilities (Mo+Fr)
+Corporate Events
+Sports facilities and work-life balance
+Free drinks, fruit and snacks
+Canteen with own cook
+Good transport connections
+JobTicket/JobBike
+Weitere Informationen
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Company medical officer
+Stock options
+Home office
+Company car
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

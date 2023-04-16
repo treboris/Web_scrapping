@@ -1,0 +1,70 @@
+Belépésálláskeresőknek
+IT Operation, Telecommunication
+IT Support, Helpdesk
+Budapest
+Budapest
+Következő 
+Application Support Specialist (100-16-42998/PR)
+Grafton Recruitment
+Budapest VIII. kerület
+ Elvárt technológiák
+JAVA
+DB2
+DATABASE
+APACHE
+CLOUD
+LINUX
+WINDOWS
+SQL
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Cseh középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elvárt technológiák
+JAVA
+DB2
+DATABASE
+APACHE
+CLOUD
+LINUX
+WINDOWS
+SQL
+Grafton Recruitment
+Application Support Specialist (100-16-42998/PR)
+Feladatok:
+The Kolumbus Suite is a third-party software from Innovas. Kolumbus is used by the Private Krankenversicherung (private health insurance) for data exchange between hospitals and Business System(ABS) (DFÜ/Connect), for manual recording of hospital admission and dismissal notifications, their professional verification (DRG-Grouper) and for patient support. This means that Kolumbus is very strongly integrated within ABS with multiple interfaces (application systems and infrastructure).The Kolumbus Suite is a client-server application with Java clients (user interface), Java web application (business logic) and relational DB2 database (persistence). The application server is preceded by an Apache web server. Batch processes are usually integrated in the normal Java client or delivered separately (e.g. Hospital data import).Main tasks:- Support of the Columbus application- Apply patches- Carry out releases and deployments- Coordinating changes in the processes with BO and the department via the internal SPOC- Checking incoming and outgoing messages, message queues- Defect analysis and correction- Server support and active support for release changes of server software or server operating system- Support for the roadmap of Innovas for the further development of the Columbus application- Support of the cloud migration in the company for the third-party software Kolumbus
+Elvárások:
+- Experience in running a Java client-server application, e.g. deployment for server applications, scripts to start batch jobs.- Basic understanding of 3-tier architecture- Linux RHEL / Windows and related scripting languages- Java basic knowledge + Websphere Server- DB2 and SQL, MQ-Series- Linux shell scripts for scheduling ETL processes- Fluent in written and spoken German & English- Strong team-oriented approach, empathic communication and appearance
+Sector(s):
+IT Operation, Telecommunication
+IT Support, Helpdesk
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Cseh középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

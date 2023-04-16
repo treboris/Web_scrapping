@@ -1,0 +1,69 @@
+Jobs by email
+CARIAD
+Senior Software Architect Connected & Online Services – Intelligent Cockpit and Connected Vehicle Domains (m/f/d)
+Wolfsburg, Ingolstadt, Nürnberg, Mönsheim, München
+Permanent contract
+Full Time, Home office possible
+Published: 2 days ago
+Show salary
+Easy apply
+Save
+At CARIAD, it’s our mission to transform automotive mobility for everyone, everywhere, making it safer, more sustainable, and more comfortable in every way. To deliver on that promise, we’re building a unified technology and software platform, including a vehicle OS and cloud platform, as well as a unified architecture. As a 100% subsidiary of the Volkswagen Group, we’re developing solutions for all of its brands, including Volkswagen, Audi, and Porsche, and will bring our software to over 40 million vehicles by 2030.
+Is this an easy task? Not at all! To tackle such a huge challenge, we need a great team. And that’s where you come in. You’ll join more than 5,000 CARIDIANS already working on the latest vehicle features and functions like automated driving, state-of-the-art charging technology, as well as a new digital ecosystem. Together, we’re bringing sustainable change to one of the largest companies in the world.
+YOUR TEAM
+As newly formed ICB Platform Architecture Team within the Platform Development Department at CARIAD, we are defining the architecture of the high-performance computing platforms for some of the most complex computers in the vehicles of the Volkswagen Group.
+We are looking for highly motivated and qualified software architects to strengthen the area of Architecture Design for Connect / Online Services in our ICB domains.
+Are you passionate about software architecture for embedded systems ? Do you find challenging ensuring the best seamless communication over cellular networks among cloud services and tightly networked ECUs? Do you love technologies and are you keen of working in cooperation with technical experts around the world? If yes, we are keen to talk to you!
+WHAT YOU WILL DO
+As an end to end Architect for online services, you will have key responsibility to design a future proof architecture, which ensures seamless communication over cellular networks between cloud services and tightly networked ECUs in our vehicles
+Considering the best suited technologies, you will shape the architecture concept and will design standards-based state-of-the-art interfaces (APIs) between the software platform in the vehicle and the cloud services
+An important goal will be to harmonize these interfaces for the needs within the VW group, in close cooperation with the domain architects group-wide, with special focus on reliability, robustness and maintainability
+Among your tasks, you will define and analyze architecture relevant user stories as well as product requirements and derive forward-looking technical end to end architecture requirements
+Afterwards you will derive the necessary architecture design concepts and will drive their implementation and bring up phases also with help of proof of concepts and prototyping, whenever needed
+To accomplish your tasks you will need make use of your outstanding software and system design knowledge
+Sharing and promoting your technical ideas within the company will be as well part of your tasks
+WHO YOU ARE
+University qualification in a relevant computer science or information technology field is what you own, with embedded system, software engineering or cloud services development elements
+Minimum of 8 years’ experience in Linux and Android based software development, ideally both in automotive/embedded and in the cloud
+Multiple years of experience in cloud based distributed software and systems architecture
+Experience with both container and micro-service based architectures
+JAVA and C/C++ programming skills, experience with agile practices, patterns and techniques, knowledge of API modelling and software modelling tools as well as experience with IoT communication protocols are key assets
+Passion to realize your ideas and concepts, target-oriented, together with all needed stakeholders at CARIAD as well as in the Brands of the VW Group
+Strong self-initiative and solid communication skills
+As part of a multicultural team, you must be Fluent in English. German language skills are highly desirable
+NICE TO KNOW
+Remote work options
+Temporary work from abroad in selected countries
+Flextime / optional working hours
+Company pension plan
+Annual professional development
+Sabbatical option up to 6 months
+30 days paid + 10 days unpaid leave
+Possibility for VW Group car leasing
+If you have further questions about the candidate journey at Cariad, talk to Cari, our Cariad Chatbot.&nbsp;Can’t see it? Check your settings or visit our&nbsp;FAQ
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Company mobile phone
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,55 @@
+Jobs by email
+Fresenius Medical Care
+Head of Data Science, Analytics & BI (m/f/d)
+bundesweit
+Permanent contract
+Full Time
+Published: 2 days ago
+Show salary
+Save
+We provide medical engineering for millions. And yet for each individual.
+Fresenius Medical Care is the world’s leading provider of products and services for individuals with renal diseases. As a global health care company, we have  a special goal: provide the best possible care. Join us to improve the quality of life for a growing number of patients around the world and be a vital part of our team.
+#careerswithapurpose at Fresenius
+Over 300,000 people across the globe work at Fresenius to provide better ever medicine for ever more people. Our independent business segments Fresenius Medical Care, Fresenius Kabi, Fresenius Helios and Fresenius Vamed offer a wide spectrum of products and services in the health sector. We offer you the opportunity to make a difference with your career - and to become part of our impressive growth story.
+Fresenius Medical Care – Creating a future worth living. For patients. Worldwide. Every day. More than four decades of experience in dialysis, innovative research, the global leader in dialysis services and products – that is Fresenius Medical Care.
+The Head of Data Science, Analytics & BI (m/f/d) leads the data science activities of the Medical Technology Segment within the Digital Services and Solutions Unit. He or she leads the data science, analytics and BI teams and thereby enables the development of end-2-end solutions in this segment.
+Your assignments
+Build and manage an innovative, solution-oriented global team in data science, analytics and BI with the highest quality standards and drive its development in alignment with the MedTech verticals’ strategy
+Development / execution of a data science vision incl. needed capabilities, infrastructure, and roadmap that feeds into the overall data and digital strategy of MedTech and FME as well as strong contribution to the development and design of the departmental vision, capabilities, infrastructure, and roadmap for the launch of data sciences capabilities
+Data Science, Analytics and BI talent management coordination through role definition, recruitment, mentoring and development of a team of data scientists that will jointly move the business’s agenda forward
+Design and launch innovative analytic models / products, utilizing both contemporary and traditional techniques such as regression modelling, machine learning, physiological and mechanical modelling applied to both structured and unstructured (big) data sets
+Education and evangelization of data sciences throughout the business by communicating the vision and use cases of advanced analytics
+Align data projects with organizational goals lead multidisciplinary teams to get the job done, working together with business and industry experts, data consultants, scientists, architects and engineers
+Enable the creation of an industry-leading data product portfolio for MedTech
+Data Science enablement strategy and roadmap enabling the verticals’ strategies
+Your profile
+Visionary leader providing business driven thought leadership in Data Science with excellent ability to communicate in executive and technical settings
+Extensive experience with data science, machine learning and statistical methodologies including supervised, unsupervised & semi-supervised problems. Solid background in regression modeling, inference, neural networks, decision-tree models, Bayesian inference, & time series / signal processing
+Expert skills in Python, R & SQL combined with knowledge of at least one machine learning framework e. g. TensorFlow, Pytorch etc.
+Knowledge of a cloud provider tool chain (Azure / AWS: CI / CD, version control, data storage, orchestration and serverless deployment) for deployment of machine learning and software services
+Preferred experience in the medical domain and in managing global teams paired with strong influencing skills within a matrix organization
+Additional consulting experience is a plus
+High degree of independence and personal responsibility
+Fluent in English, German is a plus
+Your contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Company pension
+Flexible working hours
+Company laptop
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company medical officer
+Stock options
+Coaching
+The benefits listed are applicable to the company and can differ depending on the position or department.

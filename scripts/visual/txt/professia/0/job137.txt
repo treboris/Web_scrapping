@@ -1,0 +1,50 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior PHP Developer 
+Senior PHP DeveloperHRC Slovakia, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP/dohodou
+Mzdové podmienky (brutto)
+2 500 - 3 400 EUR/mesiacUvedená dolná hranica základnej mzdy od 2500€ predstavuje minimálne platové ohodnotenie. Na finálnej sume sa dohodneme spoločne a rozhodujúce budú hlavne Vaše skúsenosti. Počítať môžete aj s 13tym platom
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiNa oddelenie IT hľadáme pre nášho klienta seniorného programátora s výbornou znalosťou PHP. Používame Framework Symfony 6. Je dôležité, aby si mal skúsenosti s ORM (Object Relation Mapping), REST/SOAP webservisovými architektúrami.
+Táto pracovná pozícia u nás vyžaduje znalosť front-endových a back-endových technológií a skúsenosti s programovaním a agilnými metódami vývoja.
+Tvojou hlavnou náplňou práce u nás bude:
+- Údržba a vývoj vlastného CMS riešenia a internetovej e-commerce platformy.
+- Komplexná tvorba webservisov.
+- Návrh zlepšení a optimalizácie webservisov.
+- Review kódu. Zamestnanecké výhody, benefityTvoja mzda bude zložená zo základnej čiastky, ku ktorej Ťa na pravidelnej báze na základe splnenia vopred stanovených cieľov a Tvojho výkonu odmeníme navyše.
+Odmeňovací systém Ti radi vysvetlíme na osobnom pohovore.
+Home office - U nás Ti poskytneme možnosť čiastočnej práce z domu a flexibilnej pracovnej doby.
+Práca v cestovnej kancelárii prináša pre jej interných zamestnancov aj zľavy na dovolenky, poznávacie výlety a celkovo produkty našej cestovnej kancelárie, ale aj výhodné ceny leteniek.
+Poskytneme Ti možnosť využívania Multisport karty, ktorá má široké využitie na celom Slovensku, taktiež zľavy na kultúrne podujatia, zľavy na plavby loďou po Dunaji a kopec iného.
+Čakajú Ťa zaujímavé teambuildingy a teamové aktivity.
+V prípade potreby máš nárok na tzv. Sick days - dni voľna, kedy môžeš ostať doma aj bez lekárskeho potvrdenia a dostať svoju mzdu. Spoločnosť, pre ktorú je pozícia obsadzovanáIné neuvedené oblastiNašim klientom je spoločnosť pôsobiaca v oblasti cestovného ruchu s vedúcou a stabilnou pozíciou na slovenskom trhu. Je profesionálnym partnerom, ponúka kvalitu a spoľahlivosť. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreTechnickéJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiPHP 7+ - PokročilýSymfony (PHP framework) - PokročilýZend framework - PokročilýLumen framework - PokročilýMySQL - PokročilýSimple Object Access Protocol (SOAP) - Mierne pokročilýRepresentational state transfer (REST) - Mierne pokročilýObject-relational mapping (ORM) - PokročilýJasmine (JavaScript testing framework) - Mierne pokročilýDocker - Mierne pokročilýRedis - Mierne pokročilýRabbitMQ - Mierne pokročilýJSON - Mierne pokročilýXML - Mierne pokročilýPočet rokov praxe3Osobnostné predpoklady a zručnosti- minimálne 3-ročná aktívna skúsenosť s vývojom webových aplikácií v PHP a znalosť objektovo orientovaného programovania,
+- výborná znalosť PHP 7+,
+- výborná znalosť Symfony, Zend alebo Laravel/Lumen,
+- potrebná znalosť MySQL,
+- skúsenosti s REST/SOAP,
+- skúsenosti a komplexné chápanie ORM,
+- skúsenosti s Javascriptom (jQuery, AJAX, Node.sj, Stimulus), 
+- skúsenosti s Dockerom, ELK stack, Redis, RabbitMQ, JSON a XML,
+- chápanie microservisovej architektúry,
+- skúsenosti s agilným spôsobom SW vývoja (SCRUM, LEAN, KANBAN),
+- znalosť webových štandardov HTML/CSS, Composer, Yarn, Webpack, Bootstrap, Git, Twig,
+- výhodou je znalosť LAMP stacku na úrovni kofigurácie a znalosť DevOps nástrojov
+- vieš pracovať tímovo, ale aj samostatne, v anglickom jazyku si schopný čítať manuály a dokumentáciu a dokážeš minimálne písomnou formou komunikovať s dodávateľom. Inzerujúca spoločnosť Stručná charakteristika spoločnostiHRC je poradenská spoločnosť, ktorá poskytuje široký sortiment služieb v oblasti budovania a riadenia oddelení ľudských zdrojov.
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce. Počet zamestnancov50-99 zamestnancov KontaktKontaktná osoba: Peter BakoE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4522271 
+     Dátum zverejnenia:  17.2.2023 
+    2023-02-17
+lokalita: Bratislava   Pozícia: Backend programátor, Frontend programátor, PHP programátor   Spoločnosť: HRC Slovakia, s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky

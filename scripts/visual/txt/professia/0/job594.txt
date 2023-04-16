@@ -1,0 +1,27 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceMedior PHP programátor 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyMedior PHP programátorAlanata a. s.
+Miesto práce
+Krasovského 14, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+1 800 EUR/mesiacMzda vo výške od 1 800 EUR mesačne brutto + výkonnostná zložka, dohodnutá nástupná mzda môže byť aj vyššia, v závislosti od skúseností.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo nášho Alanata tímu hľadáme posilu na pozíciu Medior PHP programátor. Tvojou úlohou bude vytváranie aplikácií (od výberu technológií, cez návrh rozhraní, až po prívetivý frontend). Každá aplikácia, ktorú pre našich zákazníkov pripravujeme „na kľúč" je jedinečná. Preto aj skúsenosti, ktoré u nás môžeš získať sú rôznorodé. U nás:Budeš pracovať v skúsenom tíme IT špecialistov a PHP programátorov.  Budeš okrem implementácie aj pri návrhu riešenia a budeš mať čo povedať do výberu vhodných technológií a frameworkov pre projekt.  Vyskúšaš si prácu v mixe odskúšaných ako aj novo vychádzajúcich technológií.  Dostaneš možnosť pracovať na zaujímavých projektoch pre veľkých zákazníkov (napr. z TELCO a bankového sektora) určených pre ich interné potreby aj širokú verejnosť.Čo od teba očakávame my? Požadujeme praktické skúsenosti s implementáciou enterprise riešení vytvorených v PHP v rozsahu min. 2 roky.Aspoň čiastočnú znalosť nami najčastejšie používaných PHP prípadne Javascript frameworkov: ZEND, Symfony, Typo3, Angular, Vue.js.Očakávame znalosť a skúsenosti s Git, Docker, Composer.Očakávame skúsenosti s vývojom nad niektorými databázovými servermi, ideálne MySql, PostgreSQL.Anglický jazyk – minimálne na úrovni umožňujúcej čítať technologickú literatúru.Ozvi sa, ak: Máš rád výzvy, baví ťa riešiť aj komplexné problémy.Máš chuť neustále pracovať na svojich zručnostiach a vedomostiach.Si schopný sa rýchlo zorientovať v novej problematike a technológiách.Si tímový hráč, ktorý sa riadi pravidlom, že „reťaz je len taká silná, ako jej najslabší článok“.Máš zodpovedný prístup k práci, ochotu zabrať v prípade potreby a dotiahnuť veci do konca. Zamestnanecké výhody, benefityČo ti ponúkame? Našim zamestnancom sa snažíme spríjemňovať spoluprácu s nami v štyroch oblastiach:WELL - BEINGMultisport kartaDovolenka navyše podľa počtu odpracovaných rokovMožnosť dochádzania do práce na bicykli – priestor na uloženie bicyklov a sprchyOnline webináre v oblasti work-life-balanceFlexibilný pracovný časMožnosť práce z domuPodpora zdravého zrakuZabezpečenie pitného režimu na pracoviskuFINAČNÉ BENEFITYALANATA REFERRAL - odporuč kamoša/kamošku za finančnú odmenuPlne hradený príspevok na stravovanie vo výške 5,10 EUR/deňCALLIO darčekové kupónyFinančný príspevok pri pracovných výročiachPríspevok na doplnkové dôchodkové poisteniePôžičky pre zamestnancovRODINAPríspevok pri narodení dieťaťaPríspevok pri uzavretí manželstvaEVENTY & ZÁBAVAMikuláš pre deti a zamestnancovVianočná párty s koncertomMikulášske a vianočné darčekyTeambuildingy a papaniceBežecké tréningy, Team Devín BratislavaOnline Club diskusie so známymi osobnosťamiLetné zmrzlinové dni Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaPrax na pozícii/v oblastiITPočet rokov praxe2 Inzerujúca spoločnosť Stručná charakteristika spoločnostiPRIPOJTE SA K NÁŠMU SILNÉMU TÍMU
+Staňte sa súčasťou motivovaných a certifikovaných špecialistov so srdcom na správnom mieste a skúsenosťami z tých najnáročnejších projektov. TEMPEST má vo svojich radoch špičkových technológov, obchodníkov i manažérov schopných zastrešiť nielen technické aspekty riešení, ale aj riadenie projektov, komunikáciu a podporné aktivity. 
+NA ČO SME HRDÍ?
+Sme popredný poskytovateľ IT produktov a služieb s takmer 30-ročnými skúsenosťami. Počas nášho pôsobenia sme dosiahli významné úrovne partnerstiev a odborných certifikácií s renomovanými zahraničnými spoločnosťami z oblasti IT, ako sú Dell EMC, Oracle, HPE, IBM, Cisco, Veritas či SAP alebo Microsoft. Niekoľko rokov po sebe patríme medzi päťku najväčších poskytovateľov IT služieb v krajine. Tešíme sa aj z dvojnásobného umiestnenia v prestížnom rebríčku „BIG 5“ Deloitte Technology Fast 50 v regióne centrálnej Európy. Sme hrdým partnerom FIIT STU, podporujeme študentov z FEI STU, a radi si vezmeme pod svoje krídla aj čerstvých absolventov. Radi sa pýšime aj tým, že naša spoločnosť chápe spoločenskú zodpovednosť ako neoddeliteľnú súčasť podnikania, a sídlime v modernej budove šetrnej k životnému prostrediu. Počet zamestnancov250-499 zamestnancov 
+ID: 4513011 
+     Dátum zverejnenia:  2.2.2023 
+    2023-02-02
+lokalita: Bratislava   Pozícia: PHP programátor   Spoločnosť: Alanata a. s.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 1 800 EUR/mesiac
+                Všetky ponuky

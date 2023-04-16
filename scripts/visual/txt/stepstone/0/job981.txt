@@ -1,0 +1,41 @@
+Jobs by email
+Apple Distribution International ULC
+SoC DFT Verification Engineer
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+Summary
+Imagine yourself at the center of our SoC DV effort, where we are collaborating with all fields, playing a meaningful role of getting functional products to millions of customers quickly. Bring passion and dedication to your job, and there's no telling what you could accomplish. Dynamic, smart people and inspiring, innovative technologies are the norms here. The people who work here have reinvented entire industries with all Apple Hardware products. The same real passion for innovation that goes into our products also applies to our practices strengthening our dedication to leave the world better than we found it. Join us to help deliver the next excellent Apple product.
+As the SoC DFT Verification Engineer, you will be part of a team that is responsible for the complete DFT pre-silicon verification and support for the silicon bring-up of our SoC. You will build and maintain verification test bench components and environments, need to be proficient with scripting and Verilog, able to come up with test plans and validate IP, as well as ability to lead project execution. Join us!
+Responsibilities
+As a SoC DFT Verification engineer, you will have responsibilities spanning various aspects:
+Reviewing Architecture and Design Specifications.
+Developing attributes and verification plans.
+Implementing test benches, generating directed/constrained random tests.
+Running test simulations, debugging failures, tracking bugs, and closing coverage.
+Handling schedules and supporting multi-functional engineering efforts.
+Assisting in verification flows, automation scripts, and regressions.
+Working with test engineers to bring up test patterns on silicon.
+Qualifications
+Key Qualifications
+Shown understanding and experience in directed or random verification, coverage analysis, and assertions
+Good knowledge of general logic design principles
+Proficient in a scripting language such as Python, Tcl, or Perl
+Excellent skills in problem-solving, communication
+Exposure to OOP programming using HDLs/HVLs such at SystemVerilog or C/C++
+Exposure to any aspect of DFT is a plus
+Experience in large SoC design or verification - would be a plus
+Education and Experience
+B.Sc / M.Sc in Electrical or Computer Engineering
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

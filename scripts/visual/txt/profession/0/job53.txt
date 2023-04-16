@@ -1,0 +1,107 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Lead Software Engineer
+Applied EV
+Budapest
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+>10 év szakmai tapasztalat
+Főiskola
+Lead Software Engineer
+Description
+AEV is looking for a talented Lead Software Engineer to join our growing team. The candidate will report to the Senior Operations Manager. You will work on the design, software development and releases of our world-class electric mobility control and interface systems.Key Accountabilities / Responsibilities:Lead a software team developing safety-critical and mobility-focused embedded softwareDesign new algorithms and develop adaptions to existing algorithms for vehicle motion control, user interfaces, actuator and energy management with the software development teamManage implementation of systems tests, debugging and diagnostics and analyse resulting dataPlan, design, and optimize automated test cases and CI/CD pipelines with the software test teamParticipate in design and code reviews within our software development lifecycleGenerate and analyse requirements and specifications from stakeholdersCollaborate with other software engineers, electrical, mechanical, systems, and product teams to resolve issues
+Requirements
+An Engineering or Computer Science degree, or equivalent experienceA passionate interest in electric transport and an interest in developing new generations of electric vehiclesProven experience in building and releasing production ECU or controller software packages in relevant engineering projectsProficiency in embedded software development in C/C++, model-based development in SimulinkProficiency with automotive or industrial communications such as CAN and EthernetExperience with the v-model automotive software development lifecycleExperience with software functional safety implementations and optionally, ISO26262 certificationsStrong understanding of vehicle dynamics, control theory and sensorsEnjoy working in a fast-paced and growing global team environmentAbility to work independently with a strong team ethosCapable of mentoring junior engineers in the software engineering domainMinimum of 12 years of experience in software development in industryProficient in Hungarian and English Other useful experienceGeneral knowledge of embedded electronics development and the ability to read schematic diagramsUnderstanding of the standards of functional safety ISO26262, IEC61508 and/or ASILTechnical experience related to electronic systems at a component, sub-system and system levelAn ability to analyse test results, highlight abnormalities and present outcomes to an audience with a range of technical expertiseCross functional knowledge across the disciplines of electronics, mechatronics, and softwareExperienced with Microsoft Office suiteStrong interpersonal and communication skills
+Benefits
+Work at an exciting technology company within Hungary delivering globally in a multi-national groupEnjoy a clear sense of ownership in your field, with the satisfaction of working on developments that create the future of a new category of autonomous vehiclesWork alongside a friendly and passionate team on cutting edge technologyHave the opportunity to travel to other company offices including Australia and the UKEnjoy modern office space and great work environment
+Sector(s):
+IT Development
+Programmer, Developer
+How to apply/ contact information:
+Apply via "Jelentkezem" button underneath!
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+>10 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Lead Software Engineer
+Applied EV
+Budapest
+Jelentkezem
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

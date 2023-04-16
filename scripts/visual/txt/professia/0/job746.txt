@@ -1,0 +1,51 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePHP developer/ka (junior/senior) 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyPHP developer/ka (junior/senior)ActivIT,s.r.o.
+Miesto práce
+Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+1 600 EUR/mesiacod/v závislosti od formy spolupráce a skúsenosti, plus odmeny projektové a ročné
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme frontend a backend programátorov/ky pre vývoj a udržiavanie  webových aplikácii s integráciou na e-shopy, výrobné programy a mobilné aplikácie. 
+- vývoj aplikácií hlavne v PHP a SQL,
+- pri vývoji využívame Bootstrap, JavaScript spolu s jQuery, AJAX...,
+- MySQL, PostgreSQL, MariaDB
+- Redmine/Mantis project management 
+- podielanie sa na tvorbe analýz a návrhov riešení,
+- ideálne skúsenosti s kodingom v Drupal, nie však podmienkou
+- znalosť WORDPRESS kodenie, nie klikanie výhodou, alebo znalosť DRUPAL výhodou Zamestnanecké výhody, benefity- flexibilná pracovná doba
+- práca v skvelom kolektíve, možnosť práce aj vzdialene, pripadne kombinovane
+- zaujímavé a rozmanité projekty s najnovšími technológiami
+- vynikajúce platobné ohodnotenie 
+- polročné a koncoročné odmeny
+- možnosť profesionálneho rastu
+- sebarealizácia a rozvoj
+- príjemné pracovné prostredie v office v Banskej Bystrici
+- možnosť zamestnaneckých výhod v našich kaviarňach BLACK COFFEE v Banskej Bystrici a Bratislava. Informácie o výberovom konaníŽiadosti spolu s profesijným životopisom vrátane podrobných referencií zasielajte e-mailom na uvedenú adresu s referenčným označením: PHP developer JUNIOR, MEDIOR alebo SENIOR. 
+Ďakujeme všetkým kandidátom za prejavený záujem pracovať v našej spoločnosti.  
+Len vybraní kandidáti budú kontaktovaný a pozvaní na osobný pohovor. 
+Zaslaním svojej žiadosti nám dávate súhlas ku spracovaniu Vašich osobných údajov. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské bez maturity
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiPHP - PokročilýSQL - PokročilýHTML - PokročilýCSS - PokročilýJavaScript - ZákladyPozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnostiZnalosť:
+- PHP5, SQL (MySQL/PostgreSQL), HTML, CSS
+- JS, Bootstrap, JQuery, AJAX, XML výhodou
+- Drupal výhoda Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme softvérová spoločnosť ActivIT, s.r.o. a máme 23-ročné skúsenosti v IT v tvorbe webových stránok, portalových a mobilných riešení a mobilných aplikácií. Patríme medzi dynamické spoločnosti na trhu IT v SR a pôsobíme v Bratislave a  v Banskej Bystrici. 
+Zákazníkov máme v EU, Austrália, Švajčiarsko, Švédsko, Írsko a USA. Naše referencie pozrite na www.activit.sk/referencie.
+Ponúkame Vám možnosť stať sa súčasťou úspešného tímu, podieľať sa na jeho rozvoji a pracovať v mladom príjemnom kolektíve. Nemáme žiadne zbytočné porady, nemáme okolo programátorov armádu projektových manažérov, hľadáme ľudí, ktorí si sami vedia zorganizovať svoju prácu a svoj čas.
+Mame radi kávu a preto v Banskej Bystrici sme vybudovali ucelený koncept firmy a kaviarne Black Coffee hneď pri centre mesta. Black Coffe koncept sa nám rozrástol do ďalších miest a najdeš nás aj v Bratislave, unikátny kontajner na streche OC Centrál.  
+V tíme mame fajnšmektrov na rôzne športy a turistiku, ale nechýbajú ani tí čo to kombinujú a obľubujú dobré vínko, alebo pivko :). Počet zamestnancov10-19 zamestnancov 
+ID: 4508889 
+     Dátum zverejnenia:  26.1.2023 
+    2023-01-26
+lokalita: Banská Bystrica   Pozícia: PHP programátor, Programátor, Web dizajnér   Spoločnosť: ActivIT,s.r.o.   
+Základná zložka mzdy (brutto): 1 600 EUR/mesiac
+                Všetky ponuky

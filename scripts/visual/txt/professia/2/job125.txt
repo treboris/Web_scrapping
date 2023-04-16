@@ -1,0 +1,96 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceDeveloper Automatických Testov  (mid) 
+Developer Automatických Testov  (mid)Descartes Systems (Slovakia) s.r.o.
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 2 200 EUR/mesiacpodľa skúseností, vieme ponúknuť konkurencieschopný plat
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiChceš byť aj Ty súčasťou jednej z najväčších spoločností zameraných na logistiku na svete?Descartes poskytuje inovatívne, strategické a transformačné technológie, ktoré vyvíja softvérový vývojový tím pôsobiaci po celom svete. Jeho najväčšia časť pracuje v Žiline. Využívame Microsoft riešenia – Azure Cloud, .NET/C#, Visual Studio, Azure DevOps ale aj Amazon Web Services, Oracle, Java, Android, iOS.Hľadáme vývojára na tvorbu automatických testov so skúsenosťami s vývojom v C++ alebo v iných technológiách (.net, Java)  na projekt, ktorého užívateľské rozhranie a časť backendu používa práve C/C++. Produkt využívajú zákazníci, ktorým pomáha riešiť logistické problémy. Na základe požiadaviek od vývojového tímu budeš hľadať možnosti testovania UI a backend pomocou skriptov, programovacích jazykov alebo testovacích nástrojov ako je TestComplete, Ranorex a podobne.Ak hľadáš možnosti ako sa posunúť ďalej, je to príležitosť naučiť sa pracovať s testovacími nástrojmi a podielať sa aj na vývoji .net/C#. Bude na Tebe, ako využiješ svoje schopnosti. Komunikácia s tímom zo zahraničia prebieha online v anglickom jazyku.Čo bude Tvojou úlohou?•	Návrh a implementácia automatizovaných testov pre užívateľské rozhranie (UI) a backend v spolupráci s tímom zo zahraničia•	Príprava testovacích dát na základe testovacích scenárov s využitím skriptov, alebo programovacích jazykov•	Spolupráca na údržbe, vývoji a optimalizácii testovacieho prostredia a existujúcich automatizovaných testov (s použitím Ranorex, TestComplete, Postman a pod.) Zamestnanecké výhody, benefity• 	Príjemné neformálne pracovné prostredie s bezproblémovým parkovaním priamo pri budove•	Flexibilná pracovná doba a 7,5 hodinový pracovný čas•	Mladý, profesionálny a priateľský pracovný tím•	Laptop pre každého zamestnanca a služobný mobilný telefón s možnosťou výberu (1x za dva roky s príspevkom zamestnávateľa)•	Skúsenostiam zodpovedajúce a konkurenčné platové ohodnotenie•	Príspevky na regeneráciu, bonusy pri pracovných a životných výročiach•	Dni voľna a príspevok pri svadbe či narodení dieťaťa•	Stravné lístky aj počas čerpania dovolenky•	Home office a Sick days•	Široké možnosti profesijného vzdelávania – hodiny angličtiny, účasť na školeniach a konferenciách (aj online podľa výberu)•	Firemné teambuildingové akcie•	Zabezpečené občerstvenie na pracovisku – káva, čaj, 1 x do týždňa čerstvé ovocie•	Visual Studio Subscription pre každého developera s prístupom na Azure Cloud, Pluralsight Informácie o výberovom konaníAk Ťa naša ponuka zaujala, neváhaj a zašli nám svoj životopis.Chceš zvýšiť svoje šance? Napíš nám o sebe viac. Doplň, s akými technológiami si pracoval a ako dlho, príp. na akých zaujímavých projektoch si sa podieľal.Ďakujeme všetkým kandidátom za záujem pracovať pre spoločnosť Descartes Systems (Slovakia), kontaktovaní však budú iba vhodní uchádzači. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiScripting - ZákladyC++ - ZákladyPočet rokov praxe2Osobnostné predpoklady a zručnosti•	Skúsenosti s vývojom aplikácií  (C/C++ ,.NET, JAVA a iné)•	Skúsenosti so skriptovaním (napr. PowerShell)•	Znalosť pojmov GIT, DevOps, Jenkins, ideálne aj vedieť používať niektorý nástroj (GIT, DevOps).•	Vítané sú samozrejme aj skúsenosti s testovacími nástrojmi (Ranorex, TestComplete, Katalon, Selenium, Tosca, Postman...)•	Komunikácia v anglickom jazyku Inzerujúca spoločnosť Stručná charakteristika spoločnostiDescartes Systems Group je globálnym lídrom v oblasti vývoja softvéru a poskytovania služieb pre logistiku s viac ako 40 ročnou históriou pôsobenia.
+Descartes spája ľudí s technológiami, ktoré hýbu svetom.
+Logistické technológie vyvinuté našou spoločnosťou sú základom riešení, ktoré umožňujú viac ako 24 000 našich zákazníkov zabezpečiť efektívnu dopravu tovaru medzi kontinentami, partnermi alebo pobočkami bez ohľadu na to či sa jedná o dopravu leteckú, námornú, železničnú alebo cestnú.
+Medzi hlavné oblasti, ktorým sa venujeme patria:
+•	Efektívna správa vozového parku - Plánovanie trás, mobilné aplikácie, telematika
+•	Správa dodávateľského reťazca - Správa dopravcov a dopravných zmlúv, plánovanie, optimalizácia a sledovanie zásielok
+•	Colné aplikácie - colné deklarácie, podpora colných skladov
+Firma má celosvetovo vyše 1900 zamestnancov v pobočkách po celom svete (predovšetkým v Severnej Amerike a Európe) a centrálu v meste Waterloo (Kanada).
+Akcie firmy sú obchodované na americkej (NASDAQ) a kanadskej (TSX) burze.
+Našimi zákazníkmi sú aj najväčšie svetové firmy v oblasti logistiky ako napríklad:
+•	DHL, Kuehne-Nagel, Panalpina, Schenker, ... (špedícia)
+•	Delta, American Airlines, Virgin Atlantic, Air Canada, British Airway ,... (letecká doprava)
+•	Maersk, Mol, ... (lodná doprava)
+•	Home Depot, Basf, Coca Cola, Hasbro, SAB Miller, ... (výroba a predaj)
+Pre viac informácií navštívte našu stránku www.descartes.com. Počet zamestnancov100-149 zamestnancov 
+ KontaktKontaktná osoba: Zuzana KotmanováE-mail: poslať životopis
+Všetky ponuky spoločnosti
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4549092 
+     Dátum zverejnenia:  31.3.2023 
+    2023-03-31
+lokalita: Žilina   Pozícia: IT tester, Programátor, Softvérový inžinier   Spoločnosť: Descartes Systems (Slovakia) s.r.o.   
+Základná zložka mzdy (brutto): 2 200 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,80 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceInfrastructure Security Senior Engineer   Можливість для людей з України
+We harness the power of tech to increase sustainability.
+How do you want to use technology?
+ Infrastructure Security Senior Engineer 
+                                Place of work
+                            Košice, Slovakia (Job with occasional home office)
+                                Contract type
+                            full-time
+POSITIONDESCRIPTIONInfrastructure Engineering Security team is responsible for design and deployment security solutions protecting and managing the client network. An L3/L4 resource is expected to function as the highest level of technical support and escalation for security related issues, incidents and initiatives. The person should be able to take the role of Subject Matter Expert in technical project deliverables and be responsible for end-to-end solution delivery. Network Security engineer should have sufficient infrastructure experience to have holistic view on security solution and application of security-in-depth principles. WHAT WILLYOU DO•	Due-diligence of existing client’s infrastructure, analyzing physical topology, logical interconnectivity, service dependency, application flows and security constraints.•	Organising and attending meetings and workshops with the client to understand requirements, challenges and risks.•	Creating and successfully presenting and backing complex designs for critical infrastructure to senior client resources at formal review boards•	Developing security solution in cooperation with other teams for secure infrastructure using existing industry standards, best practices and know-hows fitting it into existing infrastructure and operations framework.•	Creating designs and support documentation for the delivered infrastructure. Driving change governance-documentation in accordance to client’s processes and procedures.•	Act as SME and technical escalation point for security incidents in the scope of project delivery and systems delivered by the project to the client during transition/handover period.•	Vulnerability and risk management, platform selection, software production-feature set and load- testing for chosen platform. WHAT WEEXPECT•	Have 4+ year(s) of infrastructure security experience working with major firewall platforms (Palo Alto, Juniper, Cisco, Fortinet, etc.). Certificate for any of the platform is a plus.•	Have 2+ year(s) experience in Data Centre Security and micro-segmentation (zero-trust model and core segmentation, NSX, ACI, Tetration, etc.) or•	Have 2+ year experience with Cloud Security platforms – either cloud edge IaaS firewall or Cloud SaaS solution (Cisco CSR/vMX, Cisco AMP/SIG, CheckPoint, zScaler, PRISMA, etc.)•	Have a good knowledge of networking – both classic (switching, dynamic routing protocols, static and rule-based routing, etc.) and cloud (VPC, peering, gateways, SD-WAN secure fabric). Certificate in any networking area is a plus.•	Have a good knowledge of encryption and tunneling protocols (PKI, IPSec, SSL VPN, TLS, IKE, IKEv2, etc.) and cryptography in general (KEX, DH, HMAC, etc.)•	Understand application protocols in context of OSI network layers and content inspection (Load-balancing, WAF, IPS, IDS, etc.), full stack engineer is a strong plus.•	Understand cloud technologies and infrastructure virtualization (IaaS, PaaS, SaaS, NFV, SDN, SD-WAN)•	Understand baseline security requirements and platform hardening principles.•	Be flexible for international business trips to attend client meetings or workshops or perform remote site installation and configuration.•	Have good verbal communication skills (English) in both technical and non-technical communications.•	Have strong experience creating design documents (HLD, LLD) diagrams (Visio) and presentations (PPT)•	Have good analytical mindset for problem solving under stress and time pressure. WHAT WEOFFERSalaryFrom 2 800 EUR/monthAccenture offers a competitive compensation package. As required by the Slovak law we state, that the legal monthly minimum gross base pay starting from 2 800 €. Base salary is likely to be higher depending on your professional and personal qualifications in the required areas.Recognition: • Guaranteed paid overtime or overtime vacation• German language bonus up to 400€ monthly/gross depending on language proficiency and level of seniority• Flexible Benefit System - budget to be spent on services of your choice• Competitive bonus structure• Refer-a-Friend – get a bonus in the employee referral program• Loyalty rewardsFlexibility: • Flexible working arrangements (time & place of work)Future: • Wide range of trainings and expert lectures• Regular performance review and career growth possibilities• Ongoing career guidance and mentoring (Global Mentoring Program, Lean In)• Employee share purchase planFamily & Health: • 3 extra days off• Sick leave salary compensation (up to 100%)• Home-office equipment• Family oriented benefits (Wedding, Parental and Baby days-off and bonuses)• Employee assistance services (professional psychological, financial and legal help)• Multisport card• 24/7 Telehealth support• Bereavement Leave (up to 4 weeks) Interested?Apply for this job
+Similar career opportunities at Accenture
+Service Management AnalystExperienced ServiceNow Consultant / Developer (permanent home office possible)Data Security EngineerInfrastructure Network Support EngineerInfrastructure Network EngineerInfrastructure Security Engineer Infrastructure Automation Engineer Experienced ServiceNow Consultant / Developer (permanent home office possible)
+                            © 2020 Accenture. All Rights Reserved.
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4191406 
+     Dátum zverejnenia:  29.3.2023 
+    2023-03-29
+lokalita: Košice   Pozícia: IT Consultant, IT Security Specialist, Programmer, Software Engineer, Systems Administrator   Spoločnosť: Accenture, s.r.o.   
+Základná zložka mzdy (brutto): 2 800 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

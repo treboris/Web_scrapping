@@ -1,0 +1,63 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+ Software Architect .NET/SQL Server
+			PŘEDVÝBĚR.CZ s.r.o.			
+Ponuka je neaktívna, nedá sa na ňu reagovať.Ponuky z podobných lokalítBratislavaPonuky z podobných kategóriíIT architekt.NET programátorProgramátorSoftvérový inžinier
+ Miesto práce: 
+ Bratislava 
+ Pozícia / odvetvie: 
+ IT architekt, .NET programátor, Programátor, Softvérový inžinier 
+Ponúkaný plat (základná mzda):
+2800 - 3500 EUR
+ Termín nástupu do práce: 
+ dohodou (ASAP) 
+ Druh pracovného pomeru: 
+ plný úväzok 
+ Počet voľných miest: 
+ 1 
+Informácie o pracovnom mieste
+ Náplň práce, informácie o pracovnom mieste: 
+ For our client, a company specializing in the development and management of credit registry services, business information systems and credit solutions, we are looking for suitable candidates for Software Architect .NET/SQL Server.
+Job description:
+•	Focus on the system as a whole rather than on specific areas of implementation
+•	Drive architecture/technology decisions in light of as-is and to be scenarios
+•	Evaluate the impact of technical alternatives in respect to business needs
+•	Drive non-functional requirements (reliability, performance, supportability, security)
+•	Drive the team software development process and practices
+•	Focus on agility and change management while using the specific CRIF tools and methodologies and standard programming practices, and to contribute to their improvements
+•	Have a good business domain knowledge and use it to aid decision making on technical/architecture issues
+•	Have a good understanding of business organization and culture
+•	Build trusting relationships with business
+•	Have a good knowledge of market landscape in terms of available solutions and tools, and use it to propose integrated solutions
+•	Be a technical team leader and hierarchical manager of development teams.
+•	Act as mentor and/or coach for his colleagues
+•	Focus on learning new emerging technologies and extending the technical skills both broadly and deeply
+•	Create a migration path to cloud native solutions
+ Benefity a ďalšie výhody: 
+ Employee benefits
+•	5 extra vacation days
+•	Full - time contract
+•	Possibility of occasional home office work
+•	Sickness-leave allowance during the first 10 days of sickness
+•	Health and life insurance contribution
+•	Contribution to pension fund
+•	Extra meal-voucher allowance
+•	Non-stop license on pluralsight.com and MSDN and others
+•	Location - Bratislava
+Požiadavky na zamestnanca
+ Minimálne požadované vzdelanie: 
+ stredoškolské s maturitou 
+ Jazykové znalosti: 
+ Anglický jazyk (mierne pokročilý - B1) 
+ Vhodné pre absolventov: 
+ Nie 
+ Iné znalosti:	
+ .NET, C#, SQL	
+ Všeobecne požadované znalosti: 
+ Job requirements:
+•	Bachelor’s degree in computer science or information systems (possibility of high school education + sufficient experience)
+•	Solid technical knowledge (Microsoft.NET, Elastic Search, React, C#, Microsoft SQL)
+•	Customer oriented (with good communication skills)
+•	Experience in application development and design or delivery projects in an international environment
+•	Relationship-building and negotiation skills
+•	English language skills – optional B1-B2 level
+Späť na pracovné ponuky

@@ -1,0 +1,69 @@
+Jobs by email
+Continental AG
+SW Architect / SW Integrator for Customer Projects (m/f/diverse)
+Villingen-Schwenningen
+Permanent contract
+Part time, Home office possible
+Published: 6 days ago
+No cover letter required
+Easy apply
+Save
+Company Description
+Continental develops pioneering technologies and services for sustainable and connected mobility of people and their goods. Founded in 1871, the technology company offers safe, efficient, intelligent and affordable solutions for vehicles, machines, traffic and transportation. In 2021, Continental generated sales of €33.8 billion and currently employs more than 190,000 people in 58 countries and markets. On October 8, 2021, the company celebrated its 150th anniversary. The Automotive group sector comprises technologies for passive safety, brake, chassis, motion and motion control systems. Innovative solutions for assisted and automated driving, display and operating technologies, as well as audio and camera solutions for the vehicle interior, are also part of the portfolio, as is intelligent information and communication technology for the mobility services of fleet operators and commercial vehicle manufacturers. Comprehensive activities relating to connectivity technologies, vehicle electronics and high-performance computers round off the range of products and services
+Job Description
+Fifty years ago, or now, it doesn’t matter, SW Architecture was, and is still the keystone of any strong, reliable system. So, for us it comes down to finding that keystone-person. If you think you might be that person then keep reading…
+Do you want to be a Software Architect for Advanced AUTOSAR Solutions? These should spark your interest:
+Of course, you will need to do all the things described below! Of course, there’s architecture rules and standards to follow! Of course, you will work in a dynamic international setup! 
+But what we really want is to find that inspiring person, that person that inspires passion in others though the power of example, that person that brings people together, that person that remembers to have a lough when things get rough, that person that has a high value of patience and persistence!
+Could it be you?! We are happy to receive your application.
+Your main tasks in this role are: 
+Defining and working out the software architecture of a complex system governed by AUTOSAR requirements and customer network definitions, which are then allocated to the matching components. You specify the interfaces and the interaction of these components
+Working in a world-wide enthusiastic team of experts in the software architecture and cooperating with our Platform Team to define optimized solutions for the products under development
+Creating and maintaining the SW Architecture documentation for Customer projects based on our SW Platform 
+Coordinating and specifying the interfaces of the SW components and their interaction
+Analysing the state behavior and timing behavior of the total system and its sub-systems
+Moderating reviews for the architecture of each main function inside the software system (e.g. Functional Safety, Security, Multi-core concepts, I/O stack, Specific CDDs)
+Performing issues and stability issues analysis in system
+Identifying problem root causes
+Supporting the software integration strategies
+Cooperating with the Platform SW architecture community to maintain and improving a Robust, Extensible and Scalable SW Architecture that supports multiple solution trains
+Collaborating in innovation expert teams with cross domain participation and be the technical contact for internal and external customers
+Supporting the creation of the technical safety concept as well as the Security Concept
+Qualifications
+Academic degree in Software Engineering,  Electrical Engineering or a comparable qualification
+Several years of professional experience in the field of software development of Autosar Based embedded systems
+Very good understanding of Autosar Framework and the related Architecture
+Strong technical leadership
+Excellent skills in technical analysis of requirements, systems and problems
+Excellent analytical competences, key performance orientation, high organizational and communicational skills;
+Fluent German language skills and very good English language skills (written and spoken)
+Proactive, structured and independent workstyle
+High operational readiness, flexibility and creativity
+Applications from severely handicapped people are welcome.
+Additional Information
+What we offer:
+Competitive salaries & benefits
+Flexible working time
+Hybrid work
+Professional development opportunities (in Technical and Managerial Area)
+Work with the state-of-the-art equipment and technology
+International Work Environment & Traveling Opportunities
+Ready to drive with Continental? Take the first step and fill in the online application.
+Ready to drive with Continental? Take the first step and fill in the online application.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Continental AG
+Heinrich-Hertz-Straße, 78052 Villingen-Schwenningen, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

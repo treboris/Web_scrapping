@@ -1,0 +1,50 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Frontend Software Engineer (Angular) 
+The Company
+Diligent is the pioneer in modern governance. We empower leaders to turn governance into a competitive advantage through unparalleled insight and highly secure, integrated SaaS applications, helping organizations thrive and endure in today’s complex, global landscape. The largest global network of corporate directors and executives, Diligent is relied on by more than 19,000 organizations and nearly 700,000 leaders in over 90 countries. With award-winning customer service, Diligent serves more than 50% of the Fortune 1000, 70% of the FTSE 100, and 65% of the ASX. Our passionate, smart, and creative group of more than 1,000 employees support customers around the globe.
+Position Overview
+Boards Admin and Boards Director are two of Diligent’s most high profile applications, providing boards and executives with modern governance tools that allows the board to expand their reach outside the boardroom as well as meeting requirements such as distribution of board meeting materials in a secure environment.
+Diligent is looking for software engineers to join our Center for Global Product Innovation in Budapest. Ideal candidates will be capable of applying effective analysis, design, programming, and testing skills to produce and maintain scaled SaaS software solutions. They will be driven, resourceful and not feel intimidated by significant technical challenges. They will value team culture and see their success as the team’s success.
+Key Responsibilities
+In addition to core development activities for core modules and integration projects, you will be required to:
+Design, code, review and test assigned features and user stories, in accordance with the agile methodology employed by Diligent
+Collaborate with the product owners in the analysis and documentation of technical requirements and user stories
+Assist with production of high quality operational and system documentation as required
+Communicate effectively with other development teams, production operations, and a number of other technology groups, to ensure regular smooth delivery of working software
+Required Experience/Skills:
+3+ years’ experience in a hands-on development role at a commercial software company
+Angular 2+ (with 7/8 preferred), JavaScript, Typescript (Experience in other modern web frameworks such as React/Vue/Ember/Svelte) may be an acceptable substitute
+.NET/.NET core (Java may be an acceptable substitute)
+Experience with common patterns in distributed systems (REST, SOA)
+Familiarity with Source Code Control Systems (e.g. Git/GitHub)
+Good communication skills, both written and oral
+Ability to contribute to the effectiveness of a high-performing agile team
+Successfully manage own workload, and take personal responsibility and ownership for delivery, behaviors, and self-improvement
+Preferred and not essential
+Familiarity with DevOps practices, including containerization, test automation, build servers, performance monitoring, static analysis
+Microsites/Micro front ends
+Test Driven Development experience
+Experience in agile/lean methodologies and processes
+Willingness to learn new languages and frameworks
+Jelentkezem
+Elmentem az állást
+Frontend Software Engineer (Angular) 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 30.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Software Engineer - C#, .Net, Angular 
+ Budapest  
+ Software Engineer (Angular/JS/Java) 
+ Budapest  
+ Medior/Senior Software Engineer  (.Net) 
+ Budapest  
+ Frontend Software Engineer 
+ Budapest  
+ Principal Software Engineer  
+ Budapest  

@@ -1,0 +1,153 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+Következő 
+Webfejlesztő
+Bónusz
+Online Comparison Shopping Kft.
+Budapest VII. kerület, Rákóczi út 70-72. 
+ Elvárt technológiák
+BACKEND
+CLOUD
+PHP
+MYSQL
+LARAVEL
+LINUX
+DOCKER
+API
+GIT
+JAVASCRIPT
+HTML
+CSS
+TESTING
+NOSQL
+REACT
+ Módszertanok és szoftverek
+Scrum
+Rest
+Git
+Testing
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+ Elvárt technológiák
+BACKEND
+CLOUD
+PHP
+MYSQL
+LARAVEL
+LINUX
+DOCKER
+API
+GIT
+JAVASCRIPT
+HTML
+CSS
+TESTING
+NOSQL
+REACT
+ Módszertanok és szoftverek
+Scrum
+Rest
+Git
+Testing
+Webfejlesztő
+Backend fókuszú fullstack fejlesztőkből álló csapatainkat bővítjük, medior és/vagy senior kollégákkal. A csapat, ahova várunk, egy olyan ecommerce terméket fejleszt, ami az Árukereső jövője szempontjából meghatározó - sőt, a cégcsoportunk 9 országában vezetjük azt be a következő években: a Heureka Group Marketplace-ről van szó.
+Az Árukereső a cseh, magyar és szlovén cégekből álló Heureka Group része, ami 9 kelet-közép-európai országban üzemeltet ár-és termékösszehasonlító szolgáltatást. Észrevetted már, hogy az Árukeresőn kinézett termékeid némelyikét meg is tudod venni az oldalon? Ez a Marketplace, az az online termék, aminek a fejlesztése elég komplex feladat, egy teljes tribe dolgozik rajta itt Magyarországon.
+Mit fogsz csinálni?
+Scrum csapatokban működve jobbára backend fejlesztés - a csapatoknak tagja Product Manager, UX/UI Designer és Researcher; Scrum Master segít minden csapatnakunit tesztelés, részvétel code review-kbandeploymenttechnológiai ötletelések, sprint tervezés, közös gondolkodás megvalósíthatósági koncepcióncloud implementáció, migrációk, refaktorálás
+Mi kell ehhez?
+Nélkülözhetetlenek a mindennapokban:masszívabb PHP tapasztalatOOP megközelítésMySQL - jó, ha nem rettensz meg az adatbázisban több 10 millió rekord láttánmicroservice architektúra - minimum érdeklődés és utánanézés szintjénLaravel/LumenLinux (bármelyik disztribúció)konténerizáció (pl. Docker)REST APIverziókezelők (pl. Git)némi JavaScript, HTML, CSSjártasság tesztelésben (pl. unit testing)nyitottság Scrum környezetrebeszédképes angoltudás, cseh és szlovén kollégákkal való együttműködésre Amikkel tudsz még dolgozni:NoSQL adatbáziskezelők (pl Redis)Sorkezelők (pl RabbitMQ)frontenden React van, de csak akkor dolgozol vele, ha szeretnélGoogle Cloud Platform irányba megyünk (a cél a 100 % GCP a következő években)
+Mi vár Rád nálunk?
+hibrid munkavégzés, egyéni igény alapján (nem vagyunk szigorúak)motiváló juttatási csomag: bruttó havi alapbér senioritás/tapasztalati szint alapján, havi bruttó 35.000 Ft cafeteriakeret, éves bruttó alapbér 10 %-a éves bónuszként, sportolási/angol tanulási támogatásplusz 5 nap fizetett szabadság naptári éventeönfejlesztésre dedikált idő (1 nap/sprint, egyéni fejlődési terv alapján)fejlesztői career journeymedior és senior fejlesztőkből álló csapat (backendesek + frontendesek)hosszútávú álláslehetőség nemzetközi cégcsoportbanteljes munkaidő, alkalmazotti munkaszerződés
+Iroda lokáció:
+Budapest VII. kerület, Rákóczi út 70-72. R70 Office Complex
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezés módja:
+Jelentkezni lehet a lenti "Jelentkezem" gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Online Comparison Shopping Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Világháló-portál szolgáltatás
+100-250 munkavállaló
+2014
+1074
+Budapest,
+Rákóczi út 70-72.
+Értékelések a(z) Online Comparison Shopping Kft. cégről
+4,3
+8 értékelés alapján 
+Értékelések kategória szerint 
+3,6
+Bérezés és juttatások 
+4,4
+Munkaidő és munkarend 
+4,5
+Főnökök 
+4,6
+Munka és magánélet egyensúlya 
+4,4
+Kollégák és céges hangulat 
+4,9
+Megközelíthetőség 
+4,4
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+88%
+Ajánlaná ismerőseinek 
+Biztosítják a munkaeszközöket 
+Vállalják a betanítást 
+Családbarát hely 
+Támogatják a képzéseket 
+Környezettudatos hely 
+További előnyök  
+További vélemények 
+Munkahelyi extrák
+Zuhanyzási lehetőség
+Céges rendezvények
+Kerékpártároló
+Parkoló
+Sportolási lehetőség
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

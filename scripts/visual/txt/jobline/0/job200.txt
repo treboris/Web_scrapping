@@ -1,0 +1,51 @@
+ Belépés ›
+Szoftver tesztautomatizáló mérnök (biztonságkritikus diagnosztika) (Budapest)
+Szoftver tesztautomatizáló mérnök (biztonságkritikus diagnosztika) (Budapest)
+Jelentkezem az állásra ›
+Thyssenkrupp
+Alapvető elvárások
+IT, telekommunikáció
+Gyártás, műszaki terület
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+A thyssenkrupp egy nemzetközi vállalatcsoport, amely nagyrészt független ipari és technológiai üzletágakból tevődik össze, és világszerte 96 000 embert foglalkoztat. A 2021/22-es pénzügyi évben 48 országban 41 milliárd eurós árbevételt ért el. A széleskörű technológiai know-how-ra támaszkodva az üzletágak költséghatékony és erőforrás-kímélő megoldásokat fejlesztenek a jövő kihívásaira, különösen az éghajlatvédelem, az energetikai transzformáció, az ipar digitális átalakulása és a jövő mobilitása terén.
+Magyarországi kompetencia központunkban közel 1000 fős mérnökcsapatunkkal innovatív partnerként vagyunk jelen az autóipar egyik leggyorsabban és legizgalmasabban fejlődő szegmensében, az elektromechanikus kormányrendszerek területén. Kiemelkedő minőségű, high-tech fejlesztéseinkkel neves autógyárak igényeit elégítjük ki, fejlesztéseink pedig a világszerte autóba szerelt kormányrendszerek 25 százalékában megtalálhatóak. Mérnökeink olyan ma még nem létező megoldásokon is dolgoznak, amelyek megváltoztathatják az autóipar jövőjét.
+Szoftver tesztautomatizáló mérnök (biztonságkritikus diagnosztika)
+Feladatok
+Elektromos kormányrendszerek szoftver tesztelését (biztonságkritikus diagnosztika) hajtjuk végre Hardware-in-the-loop környezeteken.
+Tevékenységünk két fő pillérre osztható. Az egyik a tesztfejlesztés, mely során a kormányrendszerrel támasztott biztonságkritikus diagnosztikai elvárások alapján teszteket tervezünk, majd a Python-alapú automatizált keretrendszerben implementálunk.
+A másik pillér a kormányrendszerek beágyazott vezérlő szoftverének ellenőrzése, mely során a fejlesztett teszteket lefuttatjuk, majd az eredményeket analizáljuk. Esetleges hibás viselkedés esetén pedig a probléma feltárása után hibajegyet jelentünk a kormányrendszer fejlesztők felé.
+A két pillér mellett a tesztelési dokumentációk elkészítése, átvizsgálása és karbantartása is hozzátartozik mindennapi tevékenységünkhöz.
+Mindennapi munkánk közé tartozik a hibák feltérképezése, valamint a fejlesztő és safety mérnök kollégákkal való együttműködés a hibák megtalálásában, természetük megértésében
+A mindennapi munkánkon túl azon is dolgozunk, hogy a legfrissebb technológiákat, módszereket és eljárásokat be tudjuk építeni a tesztelési eszköztárunkba. Csak néhányat említve: continuous testing, automatizálási megoldások Jenkins segítségével, robusztussági tesztek biztonságkritikus diagnosztikák esetén.
+Elvárások
+Mechatronikai mérnök, villamosmérnök vagy járműmérnök végzettség
+Alapszintű programozási ismeretek
+Méréstechnikai alapismeretek
+Középfokú angol nyelvtudás
+Mi jelent előnyt számodra?
+Autóipari tapasztalat
+Szoftver tesztelési tapasztalat
+Elektronikai ismeretek
+Python programozási nyelv ismerete
+Matlab/Simulink ismerete
+CAN és FlexRay protokollok ismerete
+ISTQB bizonyítvány
+Amit kínálunk
+A XI. kerületben található modern irodaházunkban kreatív környezetben dolgozhatsz, ahol sok színes közösségi tér, saját moziterem és egy skybar is vár
+Rugalmas munkaidővel és home office lehetőséggel támogatunk (a legtöbb területen a havi munkaidő 60%-a)
+Versenyképes fizetést és széleskörű juttatásokat (cafeteria és bónusz) biztosítunk számodra
+Részese lehetsz egy sikeres, gyorsan növekvő technológiai vállalatnak
+Új nyelveket tanulhatsz nálunk (5 nyelv közül választhatsz)
+Szabadidős programokon kapcsolódhatsz ki (társasjátékok, sportolási lehetőség)
+Több mint egy évtizede az alapoktól kezdtük el a tesztelést: kézi mérésekkel, manuális kiértékelésekkel. Azóta felépítettünk egy teljesen automatizált teszt keretrendszert, és új alapokra fektettük a szoftver tesztelést, jelenleg continuous testing megoldásaink kiterjesztésén dolgozunk.
+Munkavégzés helye
+Budapest
+Thyssenkrupp Components Technology Hungary Ltd. Daróczi str. 1-3., H-1113 Budapest   |  Phone: +36 (1) 505-9159  |  Fax: +36 (1) 505-9101  |  www.thyssenkrupp.hu
+Jelentkezem az állásra ›
+Neked ajánlott állások

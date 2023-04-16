@@ -1,0 +1,65 @@
+Jobs by email
+Mercedes - Benz AG
+Head of Embedded Full-stack Software Development for Automotive ECU Development in Body Domain (f/m/x)
+Sindelfingen
+Permanent contract
+Full Time
+Published: 4 days ago
+I'm interested
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: MER0002F1R
+Aufgaben
+Mercedes-Benz Cars Research and Development designs the automotive generation of the future. In addition to electrified driving, infotainment, driver assistance and connectivity, body electronics more and more drives the customer experience. Comfort and luxury of the premium brand Mercedes-Benz is clearly determines by its body and comfort systems.
+As part of MB.OS, we are building a new software development organization with the aspiration to bring leading edge software engineering to the soul of the vehicle to accelerate innovation in body and comfort. We want to push boundaries with respect to speed of innovation and software dependability.
+For this mission we are looking for an experienced leader for a full-stack embedded software development team.
+Your tasks include:
+You build and lead a team of motivated software developers with a target size of 10-15 individuals
+Your team is responsible to develop and integrate the complete ECU software stack from AUTOSAR BSW to application components
+Your team applies agile methods and you coach your team to excellence in agile software development
+Besides the actual software development, the end-to-end responsibility of your team comprises requirements analysis, architecture and design, verification and validation of the integrated system and the required processes and tools
+With your team, you design the interfaces to our various partners within R&D and especially our development partner in India
+Qualifikationen
+What you bring to the table:
+Degree in computer science, information systems or relevant skills acquired in previous occupation
+Passionate leader with a servant leadership and agile mindset
+Proven experiences in embedded software development
+Ideally experience in automotive software engineering
+Ideally knowledge of A-SPICE and ISO26262
+Ideally knowledge in cloud-based DevOps
+Excitement for being part of something new, building a new organization from the scratch
+Readiness to accept challenges and push the limits
+Good command of English and German, fluent in either of those languages
+You want to work in part-time - we offer great opportunities for flexible part-time models and job sharing. Just ask us.
+Additional information:
+It is a permanent position.
+It doesn’t work completely without formalities. When sending your online application, please attach your CV, an individual letter and any references you may have (max. 5 MB) and mark your application documents as "relevant for this application" in the online form.
+We particularly welcome online applications from candidates with disabilities or similar impairments in direct response to this job advertisement. If you have any questions, you can contact the local disability officer once you have submitted your application form, who will gladly assist you in the onward application process: sbv-sindelfingen@mercedes-benz.com
+If you have any questions regarding the application process, please contact HR Services by e-mail at hrservices@mercedes-benz.com or the chatbot on our career page via the plus symbol.
+Please understand that we no longer accept paper applications and that there is no right to get your documents returned.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+Mercedes - Benz AG
+71063 Sindelfingen, Deutschland
+Company Benefits
+Company pension
+Flexible working hours
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

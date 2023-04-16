@@ -1,0 +1,71 @@
+Jobs by email
+ZEISS
+Machine Learning Engineer (m/f/x)
+München
+Permanent contract
+Full Time
+Published: 3 days ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+Ihre Rolle
+Who we are:
+We are a diverse and expanding team of Product Owners, Data Scientists, Machine Learning and MLOps Engineers. The team is built to support all ZEISS business units on their way to digitalization. We believe in the importance of cloud and software engineering in data science. Our focus is to build machine learning solutions in the Microsoft Azure cloud as well as ZEISS edge devices. As a team, we develop machine learning solutions based on structured and unstructured data, mainly using Python programming language. We rely on open-source code standards and aim to master our tools.
+Your role
+  As an MLOps engineer, you will play a crucial role in shaping the future of Data Analytics and Machine Learning (ML) at ZEISS. You will be part of our Enterprise Data and Analytics team working together with machine learning experts. Your responsibilities will include:
+Developing and monitoring solutions for our machine learning pipelines
+Maintaining data and concept drift detection pipelines
+Together with cloud engineers developing Azure cloud infrastructure using Terraform
+Automate testing and documentation of machine learning code
+Provide support and automation for ML templating ecosystem for our Data Scientists and ML Engineers
+Take care of packaging, deployment, and distribution of our ML codebase
+Ihr Profil
+An excellent university degree in computer science, natural science, mathematics, engineering, or similar
+At least 3+ years of professional experience in MLOps, DevOps, or infrastructure engineering role
+Proven experience in creating build and release pipelines for ML solutions
+Proficiency in object-oriented programming with Python
+Deep understanding of Python packaging and distribution ecosystem
+Knowledge of infrastructure-as-code with Terraform (Azure cloud is a plus)
+Hands-on experience in REST APIs and state-of-the-art cloud technologies (Azure cloud is a plus)
+Expertise in virtualization technologies with Docker
+Experience in container orchestration with Kubernetes (maintaining a K8s cluster is a plus)
+Expertise in software engineering practices and version control with Git
+Knowledge of data version control and ML metadata offerings are a plus (e.g. Azure ML, MLFlow, DVC)
+Strong communication skills and collaborative team spirit
+Fluent English (German language skills are a plus)
+Your ZEISS Recruiting Team:
+Annett Burger, Markus Repp
+What we offer
+  Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+ZEISS
+81379 München, Germany
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,419 @@
+Belépésálláskeresőknek
+Állások
+Önéletrajz feltöltése
+Állásértesítő készítése
+CV készítő
+Cégek Új
+Részletes keresés
+It tanácsadó, elemző, auditor állások, munkák
+105 db találat 
+Szűrés
+Conversational Ai Bot designer
+Vodafone Magyarország Zrt.
+Budapest
+Develop virtual assistant that understand what humans say and respond appropriately Assist with application prototyping and recommend solutions around implementation Develop & refine business requirements through user stories to drive the development of Virtual Assistants that de...
+Bónusz
+Extra juttatások
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+Mar. 23.
+Állás megtekintése
+ Mentés 
+March 23.
+IT Business Analyst / Üzleti elemző
+Stratis Kft.
+Budapest
+üzleti követelmények azonosítása, strukturálása, adattárház forrásrendszerek, adatátadások felmérése, riportok, mutatószámok, dashboard igények felmérése, Data Science alapú igények beazonosítása, BI megoldások tervezése és specifikációja a fejlesztők számára, adattárház logikai...
+IT tanácsadó, Elemző, Auditor
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 12:18
+Állás megtekintése
+ Mentés 
+ma 12:18
+Módszertani referens
+Miniszterelnöki Kabinetiroda
+1095 Budapest, Soroksári út 30-34.
+Gondoskodik az irányító hatóság szervezeti egységeinek egységes működéséről, melynek részeként felelős a belső eljárásrendek, szabályzatok, módszertanok, útmutatók, sablonok kidolgozásáért. Javaslatot tesz a folyamatok egységesítésére, fejlesztésére, valamint gondoskodik az ehhez...
+Cafeteria
+Tech stack
+IT tanácsadó, Elemző, Auditor
+Alkalmazotti
+Általános munkarend
+ma 13:31
+Állás megtekintése
+ Mentés 
+ma 13:31
+CRM Tanácsadó (CRM Consultant/Technical Consultant)
+Attention CRM Consulting Kft.
+Országosan bárhonnan pályázható
+Salesforce konfigurálása egyedi ügyféligények alapján Ügyféligények értelmezése és átfordítása technikai feladatokra Kapcsolattartás az ügyféllel Fejlesztők munkájának koordinálása Tesztelések; belső-, és ügyféllel közös tesztelés Közreműködés oktatásokban, prezentációkban, works...
+Bónusz
+Extra juttatások
+Projektmenedzsment
+Home office
+Általános munkarend
+Angol - középfok
+ma 13:27
+Állás megtekintése
+ Mentés 
+ma 13:27
+Spóroljon időt!
+Böngéssze a kimondottan Önre szabott, átlag jelentkezői bérigényt is feltüntető álláslistát a Profession Prémium segítségével!
+Kipróbálom díjmentesen
+Elektronikus csatornák menedzser
+MKB Bank Nyrt.
+Budapest
+üzleti érdekek képviselete a terméket érintő szituációkban csatorna érdekek képviselete egyéb területekkel szemben piaci trendek figyelése, benchmark készítése, elemzése fejlesztési javaslatok megfogalmazása kommunikációk készítése (külső, belső) kapcsolattartás designer team-mel...
+Cafeteria
+IT tanácsadó, Elemző, Auditor
+Általános munkarend
+ma 13:06
+Állás megtekintése
+ Mentés 
+ma 13:06
+Szenior pénzforgalmi szakértő
+MKB Bank Nyrt.
+Budapest
+A deviza (SWIFT, SEPA), illetve forint (GIRO, AFR) fizetési rendszerek alapos is-merete minden fizetési forma vonatkozásában, a jelenlegi folyamatok elemzése, be-leértve a tranzakció indítási, autorizációs, elszámolási és rekonsziliációs folyamato-kat. A nemzetközi és hazai pénzf...
+Cafeteria
+IT tanácsadó, Elemző, Auditor
+Általános munkarend
+Angol - középfok
+Magyar - középfok
+ma 13:06
+Állás megtekintése
+ Mentés 
+ma 13:06
+IT folyamatmenedzser
+MKB Bank Nyrt.
+Budapest
+Kiemelt szereped lesz az IT folyamatok összehangolásában és fejlesztésében Szakértelmeddel támogatod a központi IT SM rendszerekbe történő implementációjukat Tudásoddal, tapasztalatoddal biztosítod az alkalmazott keretrendszereknek történő folyamatos megfelelést Fontos szerepet k...
+Cafeteria
+IT tanácsadó, Elemző, Auditor
+Általános munkarend
+ma 13:06
+Állás megtekintése
+ Mentés 
+ma 13:06
+Szolgáltatásmenedzser
+Kontron Hungary Kft.
+Budaörs
+Komplex szolgáltatási szerződésekkel kapcsolatos teljes körű ügyintézés és adminisztráció Az általa kezelt szolgáltatási szerződések nyilvántartásának naprakészen tartása Szolgáltatási szerződésekben megfogalmazott feladatok koordinálása, szolgáltatás minőségi paramétereinek foly...
+Projektmenedzsment
+Alkalmazotti
+Rugalmas munkaidő
+Angol - középfok
+ma 13:04
+Állás megtekintése
+ Mentés 
+ma 13:04
+Solution Architect
+Capgemini Magyarország Kft.
+Budapest
+Üzleti probléma és megoldás teljes körű megértése, az üzleti követelményspecifikáció (BRS) véleményezése és jóváhagyása (átvétele). A megoldásokhoz szükséges rendszer(ek) magas szintű ismerete és tervezése, az esetleges új rendszer(ek) és a meglevő rendszerek szükséges fejlesztés...
+Extra juttatások
+Projektmenedzsment
+Home office
+Alkalmazotti
+Általános munkarend
+ma 07:37
+Állás megtekintése
+ Mentés 
+ma 07:37
+IT üzleti elemző (banki területre)
+UNIQA Raiffeisen Software Service Kft.
+1053 Budapest, Szép utca 2.
+SQL összehasonlítások készítése Analitikai tevékenységek végzése a különböző banki rendszerekben Adatbázis lekérdezések fejlesztése (SQL) és ezek megigénylése éles környezetben Adatmodellezési tevékenységek Az adattárház tesztzónáihoz szükséges adatok átvételének megrendelése...
+Cafeteria
+Szakmai tréningek
+Tech stack
+IT tanácsadó, Elemző, Auditor
+Home office
+Alkalmazotti
+Általános munkarend
+Német - középfok
+ma 00:00
+Állás megtekintése
+ Mentés 
+ma 00:00
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek!
+Üzleti elemző
+Capgemini Magyarország Kft.
+Budapest
+Melyek azok a különböző dokumentációk, amelyeket az üzleti igények összegyűjtése, elemzése során el kell készíteni? Ha ismered ezeket és több éves tapasztalatod van az elkészítésükben, akkor ugorjunk a következő lépésre: Tisztában vagy vele, hogyan kell specifikációkat, hozzájuk...
+Szakmai tréningek
+Sport támogatás
+Üzleti elemző
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+tegnap 16:28
+Állás megtekintése
+ Mentés 
+tegnap 16:28
+System Engineer for Manufacturing Execution (f/m /div)*
+Legyen az első 5 jelentkező között!
+Infineon Technologies Cegléd Kft.
+Cegléd
+Did you ever wish to leave your fingerprint on tomorrow’s manufacturing IT? State-ofthe-art technology is being created daily at our site in Cegléd and you can be an essential part of it. Embrace a stimulating challenge by joining us as a System Engineer for Manufacturing Executi...
+Bónusz
+Munkába járás támogatás
+Nyugdíjpénztár
+Tech stack
+Hálózati és Rendszermérnök
+Általános munkarend
+Angol - középfok
+Videóval
+Friss
+Állás megtekintése
+ Mentés 
+Friss
+IT License Compliance Analyst
+Legyen az első 5 jelentkező között!
+4iG Nyrt.
+Budapest
+Magas követelményeket támasztunk a szoftveres compliance, azaz a szoftvertermékek jogszerű használata tekintetében. Központi szoftverlicenc-kezelő csapatunk tagjaként, önállóan gondoskodhatsz a kisebb szoftvertermékek compliance biztosításáról. A munkád a következőkre terjed majd...
+Tech stack
+IT tanácsadó, Elemző, Auditor
+Home office
+Általános munkarend
+Angol - felsőfok
+ma 16:05
+Állás megtekintése
+ Mentés 
+ma 16:05
+Senior Digital Process Innovation Manager
+Legyen az első 5 jelentkező között!
+4iG Nyrt.
+Budapest
+A digitális transzformáció szakmai és kulturális előmozdítása, a folyamatban lévő kezdeményezések előrehaladásának nyomon követése. A folyamatok end-to-end azonosítása és elemzése. Digitális folyamatok és megoldások bevezetése a tervezéstől az üzemeltetésig, együttműködés az érin...
+Tech stack
+IT tanácsadó, Elemző, Auditor
+Home office
+Általános munkarend
+Angol - felsőfok
+ma 16:05
+Állás megtekintése
+ Mentés 
+ma 16:05
+B2B (EDI) Business Consultant
+NXP Semiconductors Magyarország Kft
+1117 Budapest, Budafoki út 91-93.
+Purpose of the role The Systems and Processes department provides operational support to the NXP SCO organization and drives the global SCO infrastructure programs and operational excellence projects as defined in the SCO roadmap. Key Responsibilities INCIDENT MANAGEMENT Provide...
+Tech stack
+Projektmenedzsment
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+Magyar - középfok
+ma 15:20
+Állás megtekintése
+ Mentés 
+ma 15:20
+Software Asset Management Consultant (gn)
+SoftwareONE Deutschland GmbH
+Budapest
+As SLM/SAM Consultant you are a key member of the overall implementation project and managed services team. Independently and pro-actively, you are engaging and assisting customers in understanding and controlling their software licensing costs, avoiding legal pitfalls related t...
+Projektmenedzsment
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 15:20
+Állás megtekintése
+ Mentés 
+ma 15:20
+DPA Digitális Termékelemző / BA üzleti elemző - Kontraktor (KK)
+Tech People Hungary Kft.
+Budapest
+Digitális termék és üzleti elemzői feladatok ellátása webalkalmazás fejlesztéseknél Projektcsapatok és azok tagjainak feladatainak tervezése, priorizálása Projektek előkészítésben való részvétel a felelősségi körébe tartozó rendszerek, folyamatok, szolgáltatások kapcsán termékmen...
+Tech stack
+IT tanácsadó, Elemző, Auditor
+Vállalkozói
+Home office
+Általános munkarend
+Angol - középfok
+ma 14:29
+Állás megtekintése
+ Mentés 
+ma 14:29
+IT Business Analyst / Product Owner – Digital Farming Solutions
+TREDIS CONSULTING Kft.
+Budapest, XI. kerület
+Requirements Engineering: Refinement of User Stories and Features Methodical support in generating ideas with Product Owners and Subject Matter Experts Determination, documentation, checking & coordination and management of requirements Definition of acceptance criteria Definitio...
+Bónusz
+Tech stack
+IT tanácsadó, Elemző, Auditor
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 13:37
+Állás megtekintése
+ Mentés 
+ma 13:37
+Számlázási rendszerfejlesztő gyakornok (Debrecen, Budapest, Győr, Pécs)
+E.ON Ügyfélszolgálati Kft.
+Debrecen, Győr, Budapest, Pécs
+Az E.ON számlázási rendszer (SAP IS-U) működésének megismerése Megrendelőktől érkező fejlesztési igények megértése Érintett üzleti folyamatok működésével kapcsolatos módosítások egyeztetése az adott szakterületekkel Üzleti koncepcionális tervek előkészítésében és megvalósításában...
+Bruttó 1 800 Ft/óra
+IT tanácsadó, Elemző, Auditor
+Szakmai gyakorlat
+Home office
+Általános munkarend
+Angol - középfok
+ma 12:30
+Állás megtekintése
+ Mentés 
+ma 12:30
+Riporting és adatmenedzsment gyakornok (Budapest, Debrecen, Győr)
+E.on Ügyfélszolgálati Kft.
+Budapest, Debrecen, Győr
+Cégcsoport működésével kapcsolatos riport- és KPI igények értelmezése, igények lekérdezése forrásrendszerekből Adatminőséggel és adatelemzéssel kapcsolatos feladatok ellátása Szakterületi tevékenységhez kapcsolódó belső utasítások elkészítése, frissítése Szakmai megbeszéléseken v...
+Bruttó 2 100 Ft/óra
+Szakmai asszisztens
+Szakmai gyakorlat
+Home office
+Általános munkarend
+ma 12:30
+Állás megtekintése
+ Mentés 
+ma 12:30
+Presales Solution Architect
+Legyen az első 5 jelentkező között!
+Unisys
+Budapest
+The Solution Architect has a strong understanding of portfolio offerings, is capable of supporting the assessment of client requirements, and robustly developing the costing and related documentation. All in order to create a high-value service solution for the client. The succes...
+Extra juttatások
+IT tanácsadó, Elemző, Auditor
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 11:31
+Állás megtekintése
+ Mentés 
+ma 11:31
+IT Specialist
+Process Solutions Kft.
+1134 Budapest, Váci út 33.
+understand and continuously improve IT processes monitor IT tickets to be solved by internal/external teams responsible for information security keep contact with external IT team actively participate in the daily operational tasks perform user access reviews support IT security...
+Extra juttatások
+Projektmenedzsment
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 11:25
+Állás megtekintése
+ Mentés 
+ma 11:25
+1
+2
+3
+4
+5
+...
+Következő
+Utolsó
+Állásértesítő készítése
+Keresés mentése
+)
+Figyelem!
+A lakhatási támogatást nyújtó ajánlatokat területi szűrés nélkül listázzuk.
+A területi beállítás csak a lakhatási támogatás paraméter kikapcsolása után változtatható meg újra!
+Keresés finomítása
+IT programozás, Fejlesztés
+IT tanácsadó, Elemző, Auditor
+Beállított szűrők
+Beállított szűrők törlése 
+Kategória 
+IT programozás, Fejlesztés
+Adatbázisszakértő  (40) 
+IT tanácsadó, Elemző, Auditor
+IT, fejlesztési vezető  (21) 
+Product owner, -manager  (6) 
+Programozó, Fejlesztő  (289) 
+Projektmenedzsment  (127) 
+Rendszerintegrátor  (13) 
+Rendszertervező  (57) 
+Scrum master  (3) 
+Tesztelő, Tesztmérnök  (91) 
+Lakóhely (Megye, Város)
+Budapest  (84) 
+Bács-Kiskun megye  (3) 
+Baranya megye  (9) 
+Békés megye  (3) 
+Borsod-Abaúj-Zemplén megye  (4) 
+Csongrád-Csanád megye  (3) 
+Fejér megye  (8) 
+Győr-Moson-Sopron megye  (7) 
+Hajdú-Bihar megye  (8) 
+Heves megye  (4) 
+Jász-Nagykun-Szolnok megye  (4) 
+Komárom-Esztergom megye  (5) 
+Nógrád megye  (3) 
+Pest megye  (12) 
+Somogy megye  (4) 
+Szabolcs-Szatmár-Bereg megye  (3) 
+Tolna megye  (4) 
+Vas megye  (4) 
+Veszprém megye  (4) 
+Zala megye  (4) 
+Ausztria  (1) 
+Csehország  (1) 
+Az Ön végzettsége 
+Középiskola  (29) 
+Főiskola  (65) 
+Egyetem  (8) 
+Az ön nyelvismerete 
+Nincs nyelvismeretem  (15) 
+Angol  (87) 
+Francia  (1) 
+Magyar  (7) 
+Német  (7) 
+Olasz  (1) 
+Szlovén  (1) 
+Az Ön tapasztalata 
+Nincs tapasztalatom  (2) 
+1-3 év szakmai tapasztalat  (42) 
+3-5 év szakmai tapasztalat  (32) 
+5-10 év szakmai tapasztalat  (8) 
+Foglalkoztatás jellege 
+Teljes munkaidő  (94) 
+Részmunkaidő  (4) 
+Távmunka  (1) 
+Szakmai gyakorlat  (3) 
+Vállalkozói  (2) 
+Diákmunka  (3) 
+Home office  (66) 
+Alkalmazotti jogviszony  (78) 
+Munkarend 
+Általános munkarend  (93) 
+Több műszak  (3) 
+Rugalmas munkaidő  (5) 
+Kötetlen munkaidő  (2) 
+Cégméret 
+0-10 fő  (11) 
+10-25 fő  (10) 
+100-250 fő  (12) 
+1000+ fő  (29) 
+25-50 fő  (8) 
+250-500 fő  (8) 
+50-100 fő  (11) 
+500-1000 fő  (13) 
+Beállítások 
+Személyzeti tanácsadók hirdetései nélkül  (24) 
+Munkahely értékelése
+Munkahely értékelése
+Értékelje és mondja el véleményét korábbi vagy jelenlegi munkahelyéről. Értékelése név nélkül történik, és segítséget nyújt a munkakeresőknek ahhoz, hogy
+ideális munkahelyet találjanak. A kitöltés pár percet vesz igénybe.
+Értékelem 

@@ -1,0 +1,78 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Senior DevOps állás Budapest
+Python
+Linux
+Apache
+Rendszer / Hálózat, DevOps állások 
+											Senior DevOps- event-based architecture to connect the customer facing solution, the masterdata solutions as well as many other systems in RBI- serverless processing leveraging the native functions frSenior DevOps- event-based architecture to connect the customer facing solution, the masterdata solutions as well as many other systems in RBI- serverless processing leveraging the native functions framework of Apache Pulsar. Professional experience in developing and operating solution on Cloud Native Platform Programming Languageo  Mandatory: Python, appreciated: JavaProducts – experience appreciated, or you develop it with us:o  Apache Pulsar / Kafkao  Neo4J Graph Databaseo  Elasticsearcho  DataDogo  ArgoCD / Tektono  Argo Workflowo  Kibana/Grafana Understanding and Hands-on Experiences on Concepts:Those skills are mandatory for our challenge:Agile software engineering | DevOps Concepts | CI/CD | Virtualization/Containers | NetworkSecurity | Cloud Concepts | Kubernetes, ideally OpenShiftThose skills are appreciated, or you develop them with us:o  System Architecture | Monitoring/logging | Service Mesh | Function as a Service Concepts | Bitbucket - GitHub – GitLab | Distributed Architectures | System Thinking | Databases | Chaos Engineering (optional) ·       Infrastructure / Platform OS Relatedo  Mandatory: Linux | Terraform | bash | Ansible | AWSo  Appreciated: OpenShift 4 | Kustomize – Helm ·       Agile mind-set and practical experience with Scrum/Kanban 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+starjobs													
+Budapest
+Nincs meghatározva
+ Rendszer / Hálózat, DevOps
+Lejárati dátum: 2023-05-03 21:17:22
+Álláshirdetés részletei
+PozícióSenior DevOps
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaRendszer / Hálózat, DevOps
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

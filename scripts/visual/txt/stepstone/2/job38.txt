@@ -1,0 +1,86 @@
+Jobs by email
+BMW Group
+IT Design Expert - Decentral Ordering (w/m/x)
+München
+Permanent contract
+Full Time
+Published: 6 days ago
+Show salary
+Save
+About us
+Our brands BMW, MINI, Rolls-Royce and BMW Motorrad have made us one of the world's leading premium manufacturer of cars and motorcycles as well as provider of premium financial and mobility services.
+Our IT-Operations team in München is currently seeking a
+IT Design Expert - Decentral Ordering (w/m/x)
+Tasks
+A SMOOTH-RUNNING SYSTEM NEEDS A SMOOTH-RUNNING TEAM.
+SHARE YOUR PASSION.
+Networks are about more than just IT. They are about connecting people who make things possible. Close teamwork is key to understanding how IT can help integrate processes into systems. We put this insight into practice, and it's part of our success.
+In the "Program Planning & Ordering" sector, we plan and control projects according to customer requirements. We use our opportunity to differentiate ourselves from the competition and to make a significant contribution to high customer satisfaction by meeting deadlines. Modern IT systems form the basis for this.
+What awaits you?
+We accept vehicle and motorcycle orders from markets and dealers worldwide in our applications.
+Technical requirements (from markets, interface partners, etc.) are taken up by you and translated into an adequate IT design and then implemented by our external IT service providers or by our IT hub in South Africa.
+You work in an international team together with external service providers and our IT hub in South Africa.
+With conceptual and innovative strength, you help to improve, renew and migrate our applications step by step to our AWS cloud platform.
+In addition to the further development of the product, you will always keep an eye on the stable and highly available operation of our applications.
+You are in an exciting environment with complex tasks and continuously changing requirements.
+Profile
+What you should bring along?
+A degree in computer science, business informatics, business mathematics or a comparable qualification with a focus on IT.
+Several years of project experience with complex IT projects and working with an IT provider.
+Experience with cloud technologies as well as the motivation to transition complex IT applications into a modern system landscape using cloud technologies (AWS).
+Ideally technical expertise in one or more of the following areas (not mandatory):
+Java/JEE (e.g. Payara, WebLogic Server)
+Messaging (MQS, IBM IIB, Kafka)
+Relational data bases (Oracle, Postgres)
+RESTful and SOAP services
+Jenkins
+Git/Bitbucket.
+Practical experience in agile software development.
+Fluent in business English, German language skills an advantage.
+You enjoy working in an international team and are passionate about software quality? Apply now!
+Note: Please apply exclusively online via our career portal. Applications via other channels (esp. e-mail) cannot be considered.
+We offer
+What we offer?
+30 days of holiday.
+Attractive remuneration.
+BMW & MINI promotions.
+Career development.
+Flexible organisation of working times.
+High Work-Life Balance.
+Mobility offers.
+And many other benefits - see bmw.jobs/benefits
+At the BMW Group, we see diversity and inclusion in all its dimensions as a strength for our teams. Equal opportunities are a particular concern for us, and the equal treatment of applicants and employees is a fundamental principle of our corporate policy. That is why our recruiting decisions are also based on personality, experience and skills.
+Find out more about diversity at the BMW Group at bmwgroup.jobs/diversity
+Earliest starting date: from now on
+Type of employment: unlimited
+Working hours: full time
+Job Reference: 90882
+Contact
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+BMW Group
+80809 München, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Parking space
+Employee discount
+Sabbatical
+Company medical officer
+Stock options
+Coaching
+Home office
+Extra day off
+Study allowance
+Car/Travel allowance
+The benefits listed are applicable to the company and can differ depending on the position or department.

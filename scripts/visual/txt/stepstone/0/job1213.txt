@@ -1,0 +1,44 @@
+Jobs by email
+Apple Distribution International ULC
+Physical Design Engineer (m/f/d)
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+Save
+Summary
+Imagine what you could do here. At Apple, new insights have a way of becoming phenomenal products very quickly. There's no telling what you could accomplish at Apple. As Physical Design Engineer, you will take part in the large scale physical design cycle from netlist to tape-out, including full flow of back-end implementation and verification always meeting schedule and design goals.
+By now the industry is accustomed to Apple taping out the SoCs for our various products at a rigorous pace. In order to achieve this, our world-class design processes are driven by our outstanding Physical Design engineers. Are you ready to join some of the world's leading engineers, and help us deliver the next generation of ground-breaking Apple products?
+Description
+As a member of our Physical Design team in this highly transparent role, you will directly own implementation of design partition(s) (netlist to delivery of our final GDS) for a highly complex SoC utilizing state of the art process technology;
+You are going to own block level PnR, floor-planning, clock and power distribution;
+You will get involved with static timing closure with commercial tools;
+You will do power and noise analysis (EM / IR-Drop / Xtalk) as well as layout verification (DRC / LVS);
+You will be developing and validating high performance low power clock network guidelines;
+With phenomenal focus you will resolve design and flow issues related to physical design, and identify potential solutions whilst driving execution;
+You know what documentation should look like, and will help with guidelines and specs.
+Additional Requirements
+Qualifications
+Key Qualifications
+We will be counting on your expertise and years of hands on experience with one of the Place & Route ('PnR') tools available today (Synopsys /Cadence), and having understanding of their capabilities and underlying algorithms.
+You are familiar with hierarchical design approach, top-down design, and timing and physical convergence.
+By now you are demonstrating in-depth understanding of static-timing analysis, extensive know-how in clock/power distribution and analysis, as well as RC extraction and correlation.
+You have experience with SoC practices such as multiple voltage and clock domains, integration of mixed-signal IPs and I/O integration.
+You can do scripting and programming using several of the following: Perl, TCL and Make.
+We expect you bring experience with large SoC designs.
+Solid understanding in Verilog is beneficial.
+Education and Experience
+You hold a MSEE or equivalent strong experience.
+Why Apple?
+Apple is an Equal Opportunity Employer committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, and individuals with disabilities.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

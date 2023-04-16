@@ -1,0 +1,40 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceWeb developer  Можливість для людей з України
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyWeb developerelabs, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiacod 2500 EUR na živnosť
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti- návrh, vývoj a optimalizácia webových aplikácií
+- databázový návrh, optimalizácia databázových dotazov
+- systémová integrácia
+- práca so špičkovými technológiami v oblasti bezpečnosti, virtualizácie, distribúcie výkonu, storage riešení Zamestnanecké výhody, benefity- práca na zaujímavých projektoch so špičkovými technológiami
+- motivujúce ohodnotenie, odmeny za úspešne ukončené projekty
+- zamestnanecké výhody – poukážky na športové a kultúrne podujatia, lístky na premiéry filmov, koncerty, poukážky na masáže, relax, zdravie
+- výuka angličtiny Informácie o výberovom konaníVybraní kandidáti budú pozvaní na pracovný pohovor, ktorého súčasťou je interview so zástupcom spoločnosti a praktický test Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiPerl - PokročilýSQL - PokročilýJavaScript - PokročilýPHP - PokročilýPočet rokov praxe2Pozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnosti- 2 roky prax s programovaním aplikácií pre web
+- dobrá praktická znalosť aspoň jedného z jazykov: PHP, Perl prípadne iné
+- dobrá praktická znalosť relačných databáz, napr. MySQL, MS SQL, PostgreSQL alebo iné
+- zodpovedný prístup k stanoveným úlohám
+Nasledujúce znalosti sú výhodou (ale nie nutnosťou):
+- referencie na existujúce, bežiace služby
+- praktická znalosť HTML, CSS
+- praktická znalosť Javascript
+- používateľská skúsenosť s UNIX/Linux systémami
+- skúsenosť s prácou v tíme Inzerujúca spoločnosť Stručná charakteristika spoločnostiVývoj web aplikácií Počet zamestnancov1 zamestnanec 
+ID: 1662853 
+     Dátum zverejnenia:  30.1.2023 
+    2023-01-30
+lokalita: Bratislava   Pozícia: Backend programátor, Perl programátor, PHP programátor, Programátor, Softvérový inžinier   Spoločnosť: elabs, s.r.o.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+                Všetky ponuky

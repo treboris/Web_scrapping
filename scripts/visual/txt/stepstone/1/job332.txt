@@ -1,0 +1,74 @@
+Jobs by email
+ABB AG
+.NET Full-Stack Developer (f/m/d)
+Home Office, Minden
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+Show salary
+Save
+Take your next career step at ABB with a global team that is energizing the transformation of society and industry to achieve a more productive, sustainable future.
+At ABB, we have the clear goal of driving diversity and inclusion across all dimensions: gender, LGBTQ+, abilities, ethnicity and generations. Together, we are embarking on a journey where each and every one of us, individually and collectively, welcomes and celebrates individual differences.
+As a developer, you play an important role in proposing and implementing technology development and solutions. You will execute product development tasks – with a focus on cyber-security-relevant functionality – for the My Control System (MCS) platform. MCS is a service-orientated product within the process automation area that enables customers to visualize and analyze control system performance, software, security and lifecycle status. Check out this video for some more information about My Control System and myABB.
+Our ambition is to develop a product that provides added value in the service of our automation systems. To do this, we combine cyber security-relevant capabilities with the latest technologies to deliver added value for our customers.
+As a .NET Full Stack Developer, you will be a member of an agile team based in Minden, Germany. Our flexible working model promotes work-life balance and offers options to collaborate with your team in person and remotely.
+You will be working in a cross-functional team that operates in an international environment. Your team is part of the huge R&D stream which operates using the Scaled Agile Framework and offers a large network of technology experts.
+This position reports to
+R&D Team Lead
+ABB (ABBN: SIX Swiss Ex) ist ein global führendes Technologieunternehmen in den Bereichen Elektrifizierungsprodukte, Robotik und Antriebe, industrielle Automation und Stromnetze mit Kunden in der Energieversorgung, der Industrie und im Transport- und Infrastruktursektor. Aufbauend auf einer über 130-jährigen Tradition der Innovation gestaltet ABB heute die Zukunft der industriellen Digitalisierung mit zwei klaren Leistungsversprechen: Strom von jedem Kraftwerk zu jedem Verbrauchspunkt zu bringen sowie Industrien vom Rohstoff bis zum Endprodukt zu automatisieren. Um zu einer nachhaltigen Zukunft beizutragen, verschiebt ABB als namensgebender Partner der FIA Formel E Rennsportserie die Grenzen der Elektromobilität. Das Unternehmen ist in mehr als 100 Ländern tätig und beschäftigt etwa 147.000 Mitarbeitende.
+Ort: Minden, Home Office
+Stellen-ID: DE85872832_E1
+Your responsibilities
+Follow and promote agile practices while developing professional software products as part of a team. Work collaboratively in an international environment to solve problems and meet development targets
+Oversee the full range of activities relating to software engineering, including requirement analysis, specification of architecture and design, implementation, drawing up and performing unit test procedures for module testing, etc.
+Ensuring that projects are aligned with targets and coordinating activities with the team and applying R&D processes and tools
+Understanding what creates customer value and working to improve operations and customer satisfaction
+Actively follow and apply current trends and best practices in software development, technologies, and ABB standards to build high-quality products
+Proactively find and suggest technical solutions for improvements in project delivery and customer experience
+Your background
+Technical university education or apprenticeship in IT preferably with proven work experience in agile development and delivery projects
+Professional experience in backend web development using ASP.NET Core
+Knowledge of application architecture and development in .NET/Service Oriented models
+With programming languages, tools, and frameworks like ASP.NET Core, MS SQL Server, PostgreSQL, MongoDB, Power BI, and REST you have experience
+Understands the importance of cyber security and requirements for industrial software
+A solution-focused approach with strong written and spoken communication skills
+Knowledge of Docker and Kubernetes preferred
+Benefits
+Retirement plan
+Flexible work practices
+Employee Share Acquisition Plan
+More about us
+We look forward to receiving your application (documents submitted in English are appreciated). If you want to discover more about ABB, take another look at our website www.abb.com.
+Work model: remote #LI-remote
+Work model: hybrid #LI-hybrid
+ABB is able to offer you an interesting role within a highly motivated team, together with open communication structures. On the basis of a personal, practice-oriented induction programme, you will be given the opportunity to acquire the confidence needed to work independently and self-reliantly within your assigned area. Even after the joining phase, ABB offers a wide range of individual career development opportunities and supports you in realising your career goals with targeted training measures. At ABB you will find an attractive working environment in all phases of life – including policies for sabbaticals and home office, the ABB children's vacation camp and taking care of family members.
+Haben wir Ihr Interesse geweckt?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+ABB AG
+Minden, Deutschland
+Company Benefits
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Sabbatical
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Company medical officer
+Home office
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.

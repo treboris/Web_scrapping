@@ -1,0 +1,102 @@
+Jobs by email
+50Hertz Transmission GmbH
+Java Software Architect (Tailor Made Developments) (f/m/d)
+Berlin
+Permanent contract
+Full Time, Home office possible
+Published: 6 days ago
+Show salary
+Save
+50Hertz Transmission GmbH, Berlin
+50Hertz is one of the four trans­mission system operators in Germany. We transport electricity at extra-high voltage level. The company's approximately 1,600 employees achieve something that until recently seemed impossible: advancing the energy transition at high speed while maintaining a high level of supply security. Together with the Belgian electricity grid operator Elia (Brussels), we form the inter­nationally active Elia Group.  The Product Owner APMO is leading the development of a groupwide asset management tool for both companies.
+My new job at 50Hertz Transmission GmbH (Elia Group)
+Java Software Architect (Tailor Made Developments) (f/m/d)
+Place of work: Berlin-Mitte – Heidestraße 2, 10557 Berlin
+Entry date: As soon as possible 
+Permanent contract | Full-time (37 hours per week) 
+Job ID: 6772
+Why is this role interesting for me? The Elia Group is at the forefront of the energy transition. In this international team, I can contribute to innovative as well as intuitive tailor-made applications, which meet and exceed the specific business needs. At the Elia Group, I can make an impact and create assets for an organization, which ensures the security of energy supply for 30 million people. At the same time, I can continuously develop my strengths, take responsibility, and set standards for the Java development.
+I am the technical lead, being responsible for tailor made software developments addressing specific business needs and contributing to the digital energy transition.
+Development of solutions and communication with various stakeholders
+Identification of necessary software components and tools
+Setting technical specifications and documentation
+Ensuring a high development quality, recognizing defined governance rules and standardization, related to a stable and durable application design
+Definition and maintenance of the relevant technology stack
+Exploring new solutions and technologies
+Close collaboration with the internal application managers
+Management of external developers, e.g. quality assurance via code reviews
+Adaption to the individual project management methodology
+Sharing my knowledge and expertise among other Java architects
+Considering special requirements of a critical IT infrastructure
+Agile and optimization-focused thinking is part of our team DNA at the Elia Group.
+My profile:
+IT / tech-related academic degree (bachelor’s or master’s degree)
+Several years of experience using the Java-stack
+Very good knowledge of Java frameworks (e.g. Spring Boot)
+Good knowledge of redundant, highly available systems, microservice architectures, API-centric system designs, and development environments
+Knowledge of dependency injection, software design patterns and continuous integration
+Language skills: English (C1), fluent German is a plus
+Nice to have:
+Experience with development in cloud environment (public and private cloud)
+Good knowledge of standards and Java web technologies (backend) such as Open API Specifications 3.0, REST, gRPC as well as Camunda BPM, Hazelcast as well as libraries for web front ends
+Knowledge of OAuth2.0, SQL databases, graph databases, NoSQL databases as well as Kubernetes
+Benefits:
+Individual training opportunities
+A modern working environment in the city centre (directly at the main station)
+30 days holiday
+A company restaurant with fresh prepared meals
+Free beverages (coffee, cocoa, tea, water)
+A company Kindergarten and a parent & child office for short-term care bottlenecks
+Company pension scheme
+A multiple award-winning employer: Top Company (kununu, 2023); FairCompany (Handelsblatt, 2023); Most Wanted Employer (Die Zeit, 2023); Top Employer for IT Jobs (CHIP, 2023); Dream Employer: Innovative. Digital. Sustainable (FAZ Institute, 2022); Fair training & fair trainee program (Trendence, 2023); Germany's most family-friendly companies (Freundin, 2022)
+… for more details visit our career website
+Flexi Compass – see how flexible this job is:
+Working hours per week: 37 hours (full time)
+Flexible working hours and a long-term working time account supporting your work-life-balance
+The number of flex days is not limited
+No core working hours
+Mobile working, also from home, is possible
+My application:
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+50Hertz Transmission GmbH
+Heidestraße 2, 10557 Berlin, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Incentives & events
+Employee discount
+Sabbatical
+Cafeteria
+Dental care
+Meal coupons
+Company mobile phone
+Company medical officer
+Stock options
+Coaching
+Home office
+Barrier-free access
+The benefits listed are applicable to the company and can differ depending on the position or department.
+Certificates

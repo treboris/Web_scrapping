@@ -1,0 +1,56 @@
+Jobs by email
+NEXUS AG
+Medical Software Developer (m/w/d)
+Ismaning
+Permanent contract
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+Einleitung
+NEXUS / ASTRAIA GmbH, based in Munich (Germany), is one of the world's leading manufacturers of innovative software solutions in Obstetrics and Gynecology. With 20 years’ experience, a dedicated team, and close working relationships with our customers as well as scientists and ultrasound manufacturers, our products are always up-to-date on the latest scientific data. 
+Currently we are looking for a
+Medical Software Developer (m/w/d)
+  Your tasks
+NEXUS / ASTRAIA GmbH is a  widely loved and internationally installed java-Desktop application consolidating 20 years of science driven medical development work.
+We are looking for a motivated programmer to help both with the maintenance of this application, as well as to be involved in the future redesign and implementation of the planned next-generation web based replacement.
+   As a full-time developer you will be working on project custom solutions, bug-fixes and feature requests, as well as the refactoring and redesign work necessary for moving NEXUS / ASTRAIA into the future.
+   Your Profile
+You must bring: 
++ At least 2 years of Java development experience, very familiar with at least the Java 8 API.
++ Proficient with either SVN or Git versioning system
++ Fairly proficient with SQL (i.e., understand how to run a query via JDBC, and know how to use the various JOIN types; INNER, LEFT or RIGHT OUTER
++ Familiar with the concept of the separation of concerns and how this applies to application development (i.e., MVC)
++ Familiar with one or more web development frameworks
++ Very good knowledge of written and spoken English
+  We will value knowledge in:
++ Familiar with medical application development, or with medical related systems and workflows
++ Familiar with popular database persistence frameworks
++ Familiar with the Spring framework
+    We offer
++ An interesting and varied job in a complex environment
++ A high degree of personal responsibility and a creative working atmosphere
++ Personal development in a well-coordinated team with a good working atmosphere
++ A secure and attractive workplace
++ Flat hierarchies with short communication channels as well as quick and direct decisions
++ Opportunities for further development according to your skills and performance
++ An attractive and performance-oriented salary   
+Weitere Informationen
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+NEXUS AG
+Adalperostraße 80, 85737 Ismaning, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

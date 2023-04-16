@@ -1,0 +1,69 @@
+Jobs by email
+WSAudiology
+eCommerce Lead Architect - Magento
+Erlangen
+Permanent contract
+Full Time, Home office possible
+Published: 1 week ago
+Show salary
+Easy apply
+Save
+WS Audiology
+Formed in 2019, through the merger of Sivantos and Widex, WS Audiology combines over 140 years’ experience in pioneering the use of technology to help people with hearing loss hear the sounds that make life wonderful.
+We are active in over 125 markets, and employ more than 11,000 people worldwide. Our broad portfolio of leading hearing related products and services generates annual revenues of more than € 2 Billion. 
+As a global leader, our ambition is to unlock human potential by making wonderful sound part of everyone’s life.
+Learn about us on www.wsa.com and take a look at why you will love working here:
+The Role
+As eCommerce Lead Architect (m/f/d) you will be part of our Digital Platform Development team. You will work closely with our global and local business users, the global Product Management, Sales and the Technical Team and Developers. Some of them are distributed over multiple geographical locations.
+You will report to our Head of Digital Platform Development. 
+In this role you will have the following responsibilities:
+Create and communicate the detailed technology architecture and implementation strategy for the eCommerce solution.
+Participate in software design, development, and implementation using relevant eCommerce platforms, specifically Magento 2. Implementing best practices in technology, features, performance and scalability.
+Continuously Analysis of existing Technical landscape to foresee upcoming challenges, providing solutions in problematic areas and tracking the suggested solution.
+Point of contact for complex Technical requirements assessments, providing technical feasibility and possible challenges to Product Owners.
+Support the software development life cycle by serving as a solution SME and assisting with the identification of business/technical improvements
+Mentor junior team members and ensure software developed adheres to best practices and quality standards through code and design reviews
+Work in collaboration with project, product managers, product owners, Digital Leadership, digital experience owners, other solution architects, data architects and other stakeholders to identify needs across multiple technology solutions (Ex. CRM, E-Commerce, ERP, MES, Loyalty) and business functions to meet business needs and develop the overall implementation solution plan
+Transform requirements into technical task specifications
+Support and Guide and contribute to the estimation effort for relevant proposals or projects
+Lead and participate in production deployment activities of solutions, features and troubleshoot / resolve issues escalated from the production environment
+Requirements
+You most likely fit the following profile:
+University Degree in the field of Computer Science, Engineering or similar
+Implementation experience with Magento B2B, Elasticsearch , GraphQL, Node.js
+Experience in .NET MVC/ .Net Core development
+Experience in Azure Cloud concepts & hosting using Azure Service Bus, Dockers, Containerization, Azure Kubernetes Services, CDN
+Experience with Jira and Confluence, or similar software
+Experience in coordinating and complete complex multiple projects, teams, and team members with a innovative and adaptive mindset
+Experience in B2B Commerce is preferred
+Good Communication and presentation skills
+Agile methodology
+Our corporate language is English, so you need to be confident in English, both verbally and in writing.
+What we offer 
+We are guided by innovation and development so working with us is a constant learning curve. You will be located in our site in Erlangen, Germany with innovative and progressive colleagues, who are highly skilled and approachable.
+We offer flexible working times & opportunities for working from home. You can always get free coffee at the office and visit the subsidized cafeteria for a rich variety of lunch options. We are part of the IG Metall tariff agreement offering attractive compensation and futher benefits like contributions to the company pension plan or child-care.
+Join WS Audiology
+If this opportunity sounds interesting to you, please submit your application stating your earliest starting date and your salary expectations and we will get back to you as soon as possible.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+WSAudiology
+Henri-Dunant-Str. 100, 91058 Erlangen, Deutschland
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -

@@ -1,0 +1,60 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Ki a Megbízónk?
+Magyarország piacvezető humánügyviteli szolgáltatója, több ezer ügyfél használja az ő megoldásaikat. Sikerük jelentős része a Kutatás és Fejlesztés területhez köthető, náluk születik a jövő, az újdonságokat ők hozzák létre! Jelenleg termékeik nemzetközi piacra való felkészítésén dolgoznak. A hazai piacon bevált megoldásaik megfelelő alapot képeznek egy nemzetközileg is sikeres szerepléshez. 
+Hozzájuk keresünk most proaktív kollégát az alábbi pozíció betöltésére:
+FULLSTACK FEJLESZTŐ
+Most te is csatlakozhatsz hozzájuk, részese lehetsz sikereiknek! Megoldásaik az innovatív tudást és a korszerű technológiát ötvözik. Az elmúlt évben teljesen új technológiai alapokra helyezték a front- és back end oldalt, annak érdekében, hogy tudásukat, kreativitásukat a folyamatosan változó, kihívásokkal teli üzleti igények megoldására fordíthassák.
+Mi lenne a Te feladatod? 
+Üzleti és fejlesztői oktatással indítunk, amely megalapozza nálunk a karriered
+Ezt követően 2-4 fős csapatokban fogsz dolgozni, a kliens oldalon
+A termékeink technológiai frissítésébe fogsz bekapcsolódni
+Díjazzuk, ha az általad megírt kód helyes működésének ellenőrzését automata tesztekkel is támogatod
+                Elvárások / Requirements
+Sikeres leszel náluk, ha:
+Legalább 3 év szakmai tapasztalatod van releváns területen
+Dolgoztál már Angular keretrendszerben
+Rendelkezel .NET-es tapasztalattal
+Ismered a TypeScript-et
+Használtál már valamilyen ORM-et, illetve IoC Containert
+Vannak saját ötleteid, és azokat ki is mered fejezni, illetve megvédeni
+Az alábbi technológiák közül előnyt jelent, ha ismersz néhányat, de nem elvárás:
+ASP.net MVC
+WebApi
+OData
+Autofac
+NHibernate
+SignalR
+FluentValidation
+EPPlus
+                Amit nyújtunk / Benefits
+Mit kínál Partnerünk?
+Élményt, szakmai fejlődési lehetőséget, kiszámítható jövőt, piacképes juttatást.
+Kreatív tevékenységre alkalmas munkakörülményeket („A” kategóriás irodaház, nagy személyes tér, zöld erkélyek)!
+Irodaházuk könnyen megközelíthető tömegközlekedéssel és autóval.
+Miért jó náluk dolgozni?
+Rugalmas munkaidő
+Kihívásokkal teli feladatok
+Jókedvű, kommunikálni szerető csapat
+Pihenőszoba, csocsó
+Évente megrendezett családi nap
+Fullstack fejlesztő (Angular & .NET) 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 31.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Fullstack Developer (Java,Angular) 
+ Budapest  
+ Medior Fullstack Developer - Java/Angular 
+ Budapest  
+ Senior Fullstack Developer (Java/Angular) 
+ Budapest  
+ Software Engineer - C#, .Net, Angular 
+ Budapest  
+ .Net developer 
+ Budapest  

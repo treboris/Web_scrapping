@@ -1,0 +1,80 @@
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Információbiztonság
+Budapest
+Következő 
+SIEM Mérnök
+OTP Bank Nyrt.
+Budapest
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Szakmai tréningek
+Az OTP Bank Nyrt. pályázatot hirdet
+SIEM Mérnök
+munkakör betöltésére
+Feladatok
+Logforrások bekötése, meglévő logforrások javítása, felülvizsgálataNem gyári kollektorok harmonizálása a SIEM rendszerhez, parsolási feladatok végrehajtásaLOG menedzsmenttel kapcsolatos folyamatok fejlesztéseSIEM rendszer adminisztrálása, monitorozásaSIEM szabályok, riportok és dashboardok fejlesztése, meglévő szabályok felülvizsgálata és finomhangolásaAz alkalmazásokkal kapcsolatos lefejlesztett LOG minták véleményezése az elvárt IT biztonsági események tekintetébenLogelemzői támogatás nyújtásaAuditok támogatása az egész audit folyamán, valamint evidenciák készítéseLOG folyamatokkal kapcsolatos szakértői tanácsadás, valamint projektek ilyen jellegű támogatása
+Elvárások
+Felsőfokú végzettség (informatikai, vagy műszaki)Legalább 3 éves LOG management/LOG elemzés területen szerzett releváns információbiztonsági tapasztalatLOG gyűjtő és/vagy elemző rendszerek ismerete, logolással kapcsolatos folyamatok ismereteSYSLOG protokollok szakértő szintű ismereteCEF, JSON, XML formátumok és REGEXP mélyebb ismereteAlap infrastruktúra által generált logok (OS, FW, DB) események alap szintű ismereteHálózati szabványok, informatikai hálózatok ismerete (LAN, WLAN, VPN, tűzfal, DNS, NAT, DHCP, TCP/IP stb. )Kockázatkezelési és elemzési készségkiváló együttműködési képesség, csapatjátékosMegbízható, precíz munkavégzés
+Előnyt jelent:
+Security Operations Centerrel kapcsolatos LOG elemzőként szerzett tapasztalatLinux/UNIX OS ismerete, BASH script programozási ismeretek, SYSLOG-NG ismeretQRadar/Resilient, Sentinel ismereteInformációbiztonsági védelmi eszközök ismerete
+Amit nyújtunk:
+Részese lehetsz egy stabil hátterű, piacvezető, nemzetközileg elismert vállalatcsoport fejlődésénekakár heti 4 nap home officeigényes és változatos, szakmai fejlődést biztosító feladatokVersenyképes fizetés és kiemelkedő juttatási csomagRendszeres képzések, szakmai oktatások
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Információbiztonság
+Projektmenedzsment
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Szakmai tréningek
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+OTP Bank Nyrt.
+Pénzügy, biztosítás
+●
+Egyéb monetáris közvetítés
+1000+ munkavállaló
+1990
+1051
+Budapest,
+Nádor u.16.
+Értékelések a(z) cégről
+Értékelések kategória szerint 
+3,6
+Munkaidő és munkarend 
+4,3
+Megközelíthetőség 
+3,7
+Munkakörnyezet 
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

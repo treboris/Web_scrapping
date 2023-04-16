@@ -1,0 +1,30 @@
+Közösség
+Kapcsolat
+Java Developer állás Budapest
+Docker
+Typescript
+Java
+GCP
+Linux
+Spring
+Szoftverfejlesztő állások 
+Egyedi szoftverfejlesztéssel és dobozos termékekkel foglalkozó, dinamikusan fejlődő budapesti partnerünkhöz keresünk Java Fejlesztő kollégát!FeladatokÜzleti alkalmazások fejlesztésében való részvétel több szektorban (bank, energetika, ecommerce). A teljes fejlesztési folyamatban való aktív részvétel.Elosztott rendszerek fejlesztése mind on-premise, mind cloud környezetben. Kisebb fejlesztőcsapat és juniorok mentorálása.Döntéstámogatás architektúrális kérdésekben és dokumentációk készítése.Elvárások4+ éves Java backend fejlesztési tapasztalatSpring/Spring Boot keretrendszer tapasztalatREST és Message Queue tapasztalatRelációs adatbázis tapasztalatMicroservice architektúra ismereteJó problémamegoldó képesség, kreatív gondolkodásTanulási hajlandóságElőnyök:Java 11+Cloud ismeretek (GCP, Azure)Funkcionális programozási ismeretek (pl.: Webflux, RxJava)KotlinTervezési és architektúrális mintákNoSql (pl.: Mongo, Redis)Agilis szoftverfejlesztési tapasztalatGradleDevops szemlélet (CI/CD, Docker, Kubernetes, Linux)Typescript, ReactJS, VueJS.Asszertív kommunikáció készségAmit kínálunkHatékony fejlődés – vezetőink és tapasztaltabb kollégáink folyamatos mentorálása mellett sokkal gyorsabban bővítheted és mélyítheted szakmai tudásodatFolyamatos szakmai, soft skill és nyelvi képzéseket is biztosítunkPiacvezető termékek fejlesztőjeként izgalmas projektekben vehetsz résztHabár létszámunk egyre csak nő, a családias környezetet nem adjuk fel. Nagyon fontosnak tartjuk, hogy bent egy jó csapat alakuljon ki, ezért másfél havonta csapatépítő Happy Friday-eket tartunk (közös bográcsozás, borfesztivál, sörfesztivál, farsangi buli), minden hónapban megünnepeljük a szülinaposokat, szeretjük a közös reggeliket is (pl. parasztreggeli, Márton-napi reggeli), és minden évben elutazunk egy 3 napos csapatépítő hétvégéreHa éppen hosszabb ideig otthonról dolgozunk akkor is próbáljuk csapatunkat egy kis aktivitásra bírni és összetartaniSzerveztünk már virtuális palacsinta napot, kvíz játékokat, sör standupot. Egyre több közös, szabadidős programból tudsz választani: Társas est, Közös filmezős estek, LAN party, Squash, de szeretünk elmenni együtt futóversenyekre is, illetve bicikli túrát is szerveztünk márHeti egy alkalommal gerinctornát szerveztünk, hogy a sok ülést követően kicsit át tudjuk mozgatni magunkat profi edzők segítségévelKutyabarát munkahely vagyunk, úgyhogy kedvencedet is bátran hozhatod akár minden napAz egészséges életmódot nagyon fontosnak tartjuk, ezért heti kétszer tartunk gyümölcs napot, kedden és csütörtökönOlyan irodában dolgozunk, ahol van csocsó, biliárd, léghoki, darts, pingpong és babzsákfotelekÉvente két alkalommal teljesítményértékelést és elégedettségmérést végzünk, így Te is adhatsz nekünk visszajelzést, illetve a folyamatos fejlődésed érdekében is visszacsatolunk az elmúlt fél évről 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Trenkwalder Recruitment Kft													
+Budapest
+Teljes Munkaidő / Részmunkaidő
+ Szoftverfejlesztő
+Lejárati dátum: 2023-03-26 11:08:28
+Kapcsolattartó: Nikolett Lőber
+Álláshirdetés részletei
+PozícióJava Developer
+Munkavégzés helye
+Budapest
+MunkaidőTeljes Munkaidő / Részmunkaidő
+KapcsolattartóNikolett Lőber
+KategóriaSzoftverfejlesztő
+Hasznos linkek

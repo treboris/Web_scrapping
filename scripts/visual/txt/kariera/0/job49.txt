@@ -1,0 +1,41 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+The offer is inactive, it is not possible to respond to it.
+ASO AdminIBMJob informationPlace of work
+Bratislava
+Bratislava, SlovakiaPosition / industry
+Information Technologies - Software; IT/Technical Support Specialist, IT Security Specialist, Information System Administrator, System AdministratorJob description, information about job
+IBM is looking for a talented and motivated individual to join our team of expert Identity and Access Management (IAM) engineers. The role will be reporting directly to the Identity Engineering Services Business Manager and will be responsible for implementing innovative IAM solutions that integrate our existing identity services.
+Your responsibilities: 
+In this position, you will be part of a team of Software Engineers in Identity and Access Management who are engaged in a large-scale effort to maintain an internal mainframe-based identity services. You will provide support for an existing range of services and design innovative solutions that integrate into the existing platform and to automate business processes used by internal and external partners. We're cultivating a blame-free culture, with a focus on growth and collaboration. We love pair-programming and learning from each other. And while we're remote, we find opportunities to get to know one another on a more personal level. If you've got creative solutions and a positive attitude, we'd love to hear from you!
+Required Experience: 
+- Advanced knowledge of RACF ID and group management process
+- Experience in installing RACF security software and its configuration
+- Basic Knowledge on UNIX, LINUX and AIX operation system 
+- Good understanding on Information Technology Infrastructure Library (ITIL) 
+- Strong knowledge on security, risk and management methods
+- Should have knowledge on REXX, HTML
+- Experience working on Audit related requests
+- Good understanding of Profiles, resources on RACF
+Preferred Experience: 
+- Work experience in agile environment
+- Access management experience
+- Excellent written and verbal communication skills  
+- Analytic, creative, and business focused problem solver  
+- Strong communication/customer service skills 
+- Communication, analysis, customer management, records management, and routing cases for support and resolution
+Minimum salary starts at 2.500 EUR/Month based on relevant experience.Offered salary
+2500 EUR
+Specification of salary conditions
+Salary depends on skills and relevant experience.Type of employment
+full-timeEmployee requirementsMinimum required education
+Secondary with Leaving ExaminationLanguage skills
+English (upper-intermediate - B2)1006209030034001
+Be a part of something great at IBM
+Imagine a world where inspired ideas and innovative technology combine to create a smarter, more sustainable future. Welcome to the world of IBM.
+https://ibm.com/jobs/sk
+                Connect with us:
+Do your best work ever.
+SK
+EN
+    		Do your best work ever.
+Späť na pracovné ponuky

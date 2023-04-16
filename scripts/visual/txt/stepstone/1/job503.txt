@@ -1,0 +1,55 @@
+Jobs by email
+BAADER
+Frontend Engineer for Food Processing Digitalization*
+Hamburg, Lübeck
+Published: 5 hours ago
+Show salary
+No cover letter required
+Save
+Working at BAADER
+Working at BAADER is about many things – it’s about our 100-year-old heritage, a pioneering and family spirit and pathing to the future.
+People’s needs, ideas, and capabilities are essential at BAADER. Our employees, our customers and their customers form the path toward our success. The interaction between diverse groups of people is an asset and a source of inspiration. We promote the professional development of everyone at BAADER. A key component to our success is the knowledge and experience shared across generations and countries.
+At BAADER, we offer working opportunities ranging from designing and producing specialty machinery and solutions for world-leading food processing of fish and poultry to sales, projects, installations, supporting office functions, service and after sales.
+Our Digital Unit focusing on the entire food chain offers jobs with an innovative and impacting use case.
+Frontend Engineer for Food Processing Digitalization*
+bTrace Tomorrow GmbH & Co. KG is the digitalization unit within machine manufacturer BAADER. The focus is on interdisciplinary teams of digitization experts who are committed to using digital possibilities and a global network of partners to improve the entire food value chain for all stakeholders involved - for an innovative, transparent, and safe food supply.
+Our goal is to support food processing with digital solutions in a way that makes it more sustainable and efficient and improves animal welfare. The key factors to reach these goals are excellence in the team, the technology, and the agile processes. We are striving for a flat hierarchy consisting of self-organizing agile teams with a high degree of autonomy. We offer offices in Hamburg and Lübeck and much flexibility as to how often and when you come in.
+Our developments base on a modular and scalable industrial internet of things platform on the edge of the machines and production factories. Several web-technology based applications deliver value to our customers and colleagues. We strive for a high degree of re-usability to achieve highest quality standards while having a short time-to-market as well as a seamless user experience across applications.
+You can be part of reaching our goals by shaping the solutions in all these areas in the role of a Frontend Engineer. In this role, you’ll have the possibility to significantly design and implement our applications and have a true impact on how digitalization at BAADER is implemented.
+Your future tasks will include:
+Design and development of our Edge and Cloud application frontend solutions to digitalize several use cases in the food processing value chain including tracking and tracing of products as well as machine monitoring and maintenance support.
+Design and implement a platform frame application that allows selectively integrating various applications in a modular way.
+Shape the design of our business application solutions which includes visualization and processing of data from different data sources in the production process as well as from various other backend systems.
+Select technologies and frameworks needed to build the solutions.
+Make sure that our software is released quickly and with high quality by implementing state-of-the-art DevOps practices (continuous integration, automated tests).
+Be a mentor for other developers in a senior role.
+Qualifications, experience and personal skills you possess:
+You have successfully completed studies in computer science or have a comparable qualification.
+Relevant work experience in frontend development using Angular and in working with digital platforms, preferably in an industrial environment.
+Responsiveness and user experience are important characteristics in your design decisions.
+Experience with frontend component libraries (e.g., Storybook), knowledge in service architectures and docker and experience in cloud developments are a plus.
+You bring very good knowledge of current frameworks and software development techniques and experience in the application of agile software development process models.
+You are used to teaming up with UX/UI designers, product owners, and development colleagues.
+Good communication skills in English, both spoken and written, are necessary.
+Creativity, problem-solving skills, persuasiveness, and willingness to mentor and teach are part of your personality.
+We offer:
+Internationality
+Permanent employment contract
+Start-up atmosphere with the security of a successful group of companies behind you
+Interesting and varied job
+Attractive income
+30 days vacation/year
+Flexible working hours
+Mobile working and the flexibility to work from our office in Lübeck or Hamburg (Speicherstadt)
+Company health promotion
+Further qualification and education offer
+Contact:
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €

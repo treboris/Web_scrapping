@@ -1,0 +1,76 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Azure DevOps Engineer (REF1580B) (Budapest)
+Azure DevOps Engineer (REF1580B) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Azure DevOps Engineer (REF1580B)
+Who are we looking for and what you will do?
+As an Azure experienced engineer, you will use your creativity and problem-solving skills to further enhance an existing Azure-centered product used by business customers
+You will design, optimize, and develop a complex set of business services. You further develop this solution procedurally and technologically
+Be prepared for changing the existing solution using your creative thinking and problem-solving skills so that it becomes even more useful to both, our customers and stakeholders internal to Deutsche Telekom, our parent company
+Together with a team of bright thinkers and doers, you continuously automate our solution so that human intervention becomes largely unnecessary
+You have state-of-the-art knowledge in the software engineering process and are committed to further developing the quality of software development
+You integrate our solution with third-party solutions via API, e.g. Service Now
+You believe that documentation is key and act accordingly
+What are we looking for in you?
+If you are sufficiently brave to deal with complex interconnected systems within an international blue chip’s ecosystem, you know PowerShell, REST API, JSON, and Python, then you are the right person for the job.
+You are a perfect match if you are flexible regarding the diverse nature of tasks that might come up, you love to learn and develop your skills, and you have the appetite to innovate
+You have up-to-date coding and scripting experience in any of these areas: JSON, PowerShell, REST API, .NET, Python, shell scripting
+You are fluent in spoken and written English, German helpful, and like to work with colleagues in different time zones
+Microsoft Azure and Azure DevOps is your home turf
+You are interested in contributing to our sales strategy with a big empathy for putting our customers on a fast track to Azure
+You have an agile mindset and are experienced with agile working methods, e. g. Scrum
+You will be working closely with a team of phantastic Azure experts and be part of a larger international team of programmers and architects.
+Munkavégzés helye
+Budapest, Debrecen, Szeged, Pécs
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Thyssenkrupp -
+Szoftverfejlesztő mérnök (Indusztrializáció)
+Deutsche Telekom IT Solutions -
+Frontend fejlesztő -német nyelvtudással (REF731J)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Pécs
+Szeged
+Győr
+Kecskemét
+Székesfehérvár
+Miskolc
+Tatabánya
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

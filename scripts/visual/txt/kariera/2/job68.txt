@@ -1,0 +1,89 @@
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+DomovVytvor si CVPonuky mailomPrihlásiť
+Ponuka práceVytvor si životopis
+Nájdite zamestnancov 
+PrihlásenieRegistrácia 
+Microsoft Azure Data EngineerIBM06.04.2023Informácie o pracovnom miesteMiesto práce
+Banskobystrický kraj, Bratislavský kraj, Košický kraj; Banská Bystrica, Bratislava, Košice
+Bratislavský kraj, Banskobystrický kraj, Košický krajPozícia / odvetvie
+Informatika - software, Marketing, reklama, PR; ProgramátorNáplň práce, informácie o pracovnom mieste
+Microsoft Azure Data Engineer
+Považuješ sa za “data enthusiast” a máš skúsenosti so službami Microsoft Azure? V tom prípade hľadáme práve Teba! Rozširujeme náš tím o skúseného Azure Data Engineera, ktorý má skúsenosti s vytváraním komplexných ETL a data warehouse riešení. 
+Kandidát, ktorého hľadáme, musí byť schopný počúvať koncových užívateľov a následne navrhnúť a dodať bezpečné riešenie v rámci cloud alebo on-premise prostredia.
+Práca podľa preferencie v jednej z troch lokácií: Bratislava, Košice, Banská Bystrica
+Čo Ťa u nás čaká?
+·	Návrh a vývoj dátových riešení na základe požiadaviek klienta a koncových užívateľov
+·	Práca s novými technológiami v rámci medzinárodného tímu s top klientami
+·	Neustále napredovanie v Microsoft Azure a iných industry technológiách
+Čo na to potrebuješ?
+·	Dlhodobé skúsenosti (minimálne 3 roky) s vývojom dátových riešení pre klienta alebo koncového užívateľa
+·	Projektová skúsenosť a práca v Microsoft Azure
+·	Znalosť Python, SQL, Node.js, C#, REST a iných relevantných programovacích jazykov, frameworks a rozhraní
+·	Znalosť a projektová skúsenosť s komplexnými Azure data riešeniami a niektorými z nasledujúcich nástrojov:  
+   - Azure Databricks, Azure Data Factory, Azure Synapse, Azure Analysis Services, Azure Data Lake, HDInsight, Power BI, SSIS, Event Hub, relational & non-relational DBs atd.
+·	Skúsenosť s inými alebo doplňujúcimi big-data riešeniami:
+   - napr. Kafka, Spark, Hive, Hadoop atd.
+Výhodou:
+·	Skúsenosti s Power Platform
+·	Znalosť v oblasti DevSecOps a CI/CD 
+·	Skúsenosti s rôznymi cloud a integračnými platformami (napr. AWS, Mulesoft)
+·	Vytváranie AI/ML riešení
+·	certifikácia DP-200/201
+·	Agile mindset – schopnosť reagovať na zmenu priorít a požiadaviek, ownership, stakeholder management a kritické myslenie
+·	Angličtina na komunikačnej úrovni (Nemčina navyše je výhodou)
+Čo môžeš očakávať od nás?
+• Plat začína od 2200 do 4000 EUR gross, v závislosti od Tvojich znalostí a skúseností
+• Microsoft certifikácie
+• Agile a Lean projekty
+• Pravidelné prehodnocovanie platových podmienok
+• Flexibilný pracovný čas a home office
+• 3 dni dovolenky a 3 personal days navyše
+• 100% hradená PN
+• Životné poistenie a dôchodkové sporenia
+• Súkromná zdravotná starostivosť
+• Dlhodobý kariérny rozvoj a možnosti internej rotácie
+• Viac ako 5000 e-learning aj face-to-face kurzov – interných aj externých
+• Odporuč k nám priateľa - výhodný referral program na odporúčanie nových kolegov
+• MultiSport karta
+• Špeciálne IBM zľavyPonúkaný plat
+2200 EUR
+Upresnenie platových podmienok
+v závislosti od Tvojich znalostí a skúsenostíTermín nástupu do práce
+dohodou (ASAP)Druh pracovného pomeru
+plný úväzokPožiadavky na zamestnancaMinimálne požadované vzdelanie
+stredoškolské s maturitouJazykové znalosti
+Anglický jazyk (stredne pokročilý - B2)Vhodné pre absolventov
+NieInformácie o spoločnostiCharakteristika spoločnosti
+Spoločnosť IBM je jednou z najväčších IT spoločností na svete a pod názvom International Business Machines poskytuje klientom svoje služby už viac ako 100 rokov. Celosvetovo pôsobí vo vyše 160 krajinách sveta. Poslaním spoločnosti IBM je pomocou integrovaných, flexibilných a efektívnych riešení pomáhať svojim zákazníkom redukovať ich náklady a zvýšiť tak ich konkurencieschopnosť na trhu. Samostatná pobočka IBM Slovensko s.r.o. bola založená 7. decembra 1992. V roku 2003 založila IBM na Slovensku druhú pobočku IBM International Services Centre s.r.o. (ISC). Spoločnosť IBM je najväčší zamestnávateľ v oblasti IT na Slovensku.Adresa
+IBMMlynské nivy 49Bratislava - mestská časť RužinovSlovenská republika1006220030074003,4002,4001Reaguj na ponuku
+Be a part of something great at IBM
+Imagine a world where inspired ideas and innovative technology combine to create a smarter, more sustainable future. Welcome to the world of IBM.
+https://ibm.com/jobs/sk
+                Connect with us:
+Do your best work ever.
+SK
+EN
+    		Do your best work ever.
+Reaguj na ponukuZdieľajDaj vedieť firme, že sa ti ponuka páči
+Podobné pracovné ponuky
+Senior Salesforce Developer
+IBM
+Java Developer pre Digital IT (m/ž)
+Slovak Telekom
+Azure Developer to Microsoft team
+IBM
+JAVA Developer  (m/f)
+Slovak Telekom
+SAP ABAP/Fiori/UI5 Developer
+IBM
+Kariéra Magazín
+Kariéra EXPO
+Kariéra Podcast
+Kariéra Raňajky
+Sleduj nás
+O násCenník služiebZoznam pozíciíObchodné podmienkyPodmienky spracovania osobných údajovKalkulačka mzdyKariérne poradenstvoTlačové správyNapíšte nám Cookies
+Nastavenie súkromia
+skenua 
+			© 2023 Zoznam, s.r.o. Všetky práva vyhradené.

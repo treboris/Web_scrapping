@@ -1,0 +1,55 @@
+Jobs by email
+ZEISS
+Junior Data Quality Business Analyst / Expert (m/f/x)
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+Ihre Rolle
+You will play a crucial role in shaping the future of Data Governance on enterprise level and actively contribute to the success of the digital transformation at ZEISS. In this function, you will help managing the data quality transformation for each of the business units in a business-facing role and help establish a centralized data quality framework across all services as well as ensure that the agreed Data Quality framework is implemented on our data platform in close collaboration with our Data Engineers. With your team you will define and implement global data quality management methodology, standards, processes and tools and orchestrate root cause analysis in case of data quality problems and implement countermeasures. You will monitor the achievement of goals and objectives for data quality management, implement and consolidate DQ KPIs & SLAs as well as provide cross-functional scorecards and dashboards. You will act as a subject matter expert designing solutions for data quality management and align with stakeholders to ensure improvements of the data foundation where it creates the most value. You will drive definition and documentation of data quality e.g. in the data catalog through introduction of appropriate standards and empowerment of users. Part of your role will also be to continuously improve meta data management and the data catalog solution jointly with the enterprise data management team and our data architects. Moreover you will consult and support the data domain oriented data stewards and data experts from business functions by applying data quality management best practice. By doing so, your team plays a crucial role in the rollout of ZEISS´ global data strategy. You will define the cornerstones of scalable data and analytics foundation to provide a superior customer experience and ensure their organizational implementation together with our business units. With your team and your fellow colleagues, you will build our capability to stay on top of digital innovation and make sure that decisions regarding the use of data are made in the interest of ZEISS as well as our customers.
+Ihr Profil
+An excellent university degree in computer science, business informatics, business administration, engineering or mathematics, or in a related field
+Graduates with practical experience whereas 1-2 years relevant professional experience is a plus
+Preferably experience in defining, documenting and implementing data governance best practices, standards & procedures in a large organization or in data quality initiatives, analysis and reporting (data integrity, data profiling, KPI reporting and advanced analytics)
+Understanding of the impact of data quality on the operational business processes, steering & management decisions
+Basic understanding of DQ tools as well as major business IT applications like ERP, CRM, Master Data Management systems, PIM, MES, Analytics&BI solutions are a plus
+Data mindset, willingness to improve data quality, understanding its importance
+Excellent analytical, problem solving skills, and conceptional thinking paired with the ability to understand multiple interdependencies
+Excellent communication skills and ability to handle multiple tasks and interact with various stakeholders
+Excellent English skills, German is recommended
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+ZEISS
+81379 München, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

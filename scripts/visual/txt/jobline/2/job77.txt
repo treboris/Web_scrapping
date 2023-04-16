@@ -1,0 +1,88 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Azure Migration Engineer (REF1379T) (Budapest)
+Azure Migration Engineer (REF1379T) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Azure Migration Engineer (REF1379T)
+About us
+As Cloud Migration Services (CMS) part of T-Systems, we are specializing at accompanying our customers on their Cloud adoption journey. Whether it’s a transition from different Cloud or it’s their first time moving from on premises to Cloud, we are there for them to safely guide them through all stages of their transformation because we understand what it takes to become a part of a digital future with innovative solutions.
+Our mission: Shaping the safest, easiest and most efficient transformation to a digitized and cloud-native future together with our customer.
+Your Tasks:
+As the Cloud Migration Engineer, you will be executing the migration & transformation strategy for our customers as part of an agile migration team, headed by the Migration Architect. Among your main responsibilities you will be performing migrations from On-Premises to Azure and from any Cloud to Azure migrations, utilizing the most efficient tools available. You will be also creating relevant documentation, defining migration plans and processes, performing landscape deployments (both manual and automated).
+Perform various migrations between Clouds or from On-Premises to Cloud based on customers’ requirements and needs, focusing on Azure
+Create, define & improve processes and plans related to migration
+Work in an international environment and with customer representatives in the migration team, while serving as the technology expert
+Collaborate with T-systems Internal and External partners
+Participate in the roadmap implementation and feedback to the product team
+Directly communicate with end customers to discuss possibilities of migration, transformation and their optimal designs
+Your Profile:
+We are looking for someone with an ambitious spirit who is keen to make a positive impact for our partners. You are a team player and always ready to learn technologies and ready to support enterprises to adopt public cloud. In addition, you ideally bring the following with you:
+1 or 2+ years of relevant work experience with Azure cloud technologies, with basic certifications (AZ-900, AZ-104)
+Understanding of Infrastructure as Code (IaC) and automation possibilities (Terraform, ARM templates, Pulumi)
+General ICT skills (Networking, OS, Storage, Database etc.)
+Scripting & Coding knowledge (PowerShell, Bash, Python)
+Experience with Agile tooling and processes (Jira, Kanban, Scrum)
+Understanding of migration concepts and migration tooling (Azure Migrate)
+Advantages (not essential):
+Knowledge of PaaS and SaaS cloud services
+Principals and skills related to DevOps
+Experience with virtual machine migration
+Experience with advocating and implementing Cloud Adoption Frameworks
+Database migration experience (Oracle, MS SQL, no SQL)
+Containerization knowledge
+English language (Fluent)
+Senior
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Szeged, Pécs
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Thyssenkrupp -
+Senior PLM / ALM Application Engineer
+Deutsche Telekom IT Solutions -
+Security Analyst (REF92A)
+Thyssenkrupp -
+Control System Engineer (Debrecen)
+Randstad Hungary Kft -
+Hálózatépítő
+Best Hunters Tanácsadó Iroda -
+GYENGEÁRAMÚ HÁLÓZATTELEPITŐ 
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Pécs
+Szeged
+Győr
+Kecskemét
+Székesfehérvár
+Miskolc
+Tatabánya
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

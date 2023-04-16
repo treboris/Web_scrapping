@@ -1,0 +1,46 @@
+Jobs by email
+Tourlane GmbH
+SENIOR FRONTEND ENGINEER (F/M/X)
+Home Office or Berlin, Germany
+Published: 1 week ago
+Save
+EMBRACE THE WORLD: HOP ON YOUR NEXT ADVENTURE WITH US!
+We are a lively and diverse team, founded by our CEO Julian Weselek in 2016, currently active in the DACH region and France. Our ambition is to become the leading travel company for authentic, customized, multi-day trips while being mindful of our planet: we are the first travel company in the EU to set near-term carbon reduction targets approved by the Science Based Targets initiative (SBTi): this is an imperative step toward decarbonization. We are and always will be driving the change in the travel industry for a better tomorrow.
+DESTINATION? THE WORLD!
+We are discoverers. We are believers in the life-changing power of travel. On our journey we've built the amazing team that we have today - a team that sets the ambition to be remembered for building the future of travel, for consistently changing the norms of the industry and, simply, for staying true to our passion for bringing together the cultures of the world.
+What is the role about?
+You will build new features for Tourlane's frontend applications
+You will write high-quality code with unit, integration and end-to-end tests
+You will work in cross-functional teams (including, BE devs, product designers and product owners) following agile development principles
+Our main tech stack which is Javascript, Typescript, and React with a fully automated CI/CD pipeline with Netlify and Github Actions, but you will also get to work with latest technologies such as Gatsby, Nextjs, Cypress, and GraphQL
+You will have the chance to look into other technologies and other fields of Software Development as we support the idea of T-shape skill level
+What will you need to be successful?
+Belief that everyone is a leader and each of us has something to offer the team from our experience, knowledge, and insight
+Always eager to broaden your level of skills and have the mentality to get things done
+Passion in software development and the desire to make a huge impact with a strong sense of ownership
+Knowledge of functional programming is a plus
+Excellent English communication skills, both verbally and written
+And last but not least, a love for travel
+YOU ARE THE WORLD
+We value your participation in Tourlane's success and complement your cash compensation with a package of employee stock options (ESOP).
+Flexible working setup: either remote or hybrid - get the most out of your working hours; and enjoy working abroad through our new program
+Your wellbeing matters to us: we offer mindfulness classes to take care of your mental health, sessions with Nilo.health
+We support all the diverse communities that make us Tourlane: join or create your own Employee Resource Group (ERG) and connect with Tourlaneans
+Dog-friendly office: we can't wait to meet your furry friend!
+Sounds interesting? We are excited to get to know you
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Company Benefits
+Company pension
+Company laptop
+Incentives & events
+Employee discount
+Sabbatical
+Coaching
+Home office
+Terrace
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,59 @@
+Jobs by email
+Hilti Entwicklungsgesellschaft mbH
+Technical Lead Quality Assurance / Architect (m/f/d)
+Kaufering nahe München
+Permanent contract
+Full Time, Home office possible
+Published: 2 weeks ago
+Show salary
+No cover letter required
+Easy apply
+I'm interested
+Save
+What's the role?
+Technical Lead Quality Assurance / Architect (m/f/d)
+Kaufering near Munich
+Job reference: WD-0018594
+Take the responsibility of the quality for a new software product. Lead a team on a technical level and define the architecture of the test environment. Work together with developers, architects and product owners in order to find the best possible solutions for the product.
+Who is Hilti?
+We develop, manufacture and sell cutting-edge products, technology, software and services for the global construction industry. Hilti stands for innovation, quality and direct customer relationships.
+In our IoT department we develop innovative Embedded Software Solutions, Mobile Apps and Measurement Technologies - through our technologies in application software we take our customers to the next level of the technological progress.
+With 32,000 people in more than 120 countries, we're a great place for you to show us your worth, step up to new challenges and grow in your career.
+We appreciate new ideas and thinking outside the box! Our employees are invited to shape processes and contribute their own experience.
+What does the role involve?
+You will create high quality test plans and automation test suites, report findings and actively drive the resolution of issues. On top you define the long-term test strategy and adequate test methods for a complex set of applications or platforms. It involves taking the ownership of the test data management and analysis of the test to ensure the developed product fits the customer needs and requirements. A high level of collaboration and communication are key parts of this role. Mentor and guide other QAs and give a clear vision of expected deliverables. You will raise and analyse risks as well as work on defining and documenting quality assurance processes. Work on test standards, guidelines and best practices with the team. It requires to support the developed solutions throughout the whole life cycle.
+Why should you apply?
+You like challenging tasks and working in an agile environment with a highly skilled and motivated team to reach common goals.
+What you need is:
+Completed university degree in the field of computer science or technical computer science plus minimum of 8+ years of professional experience including a technical QA lead
+Excellent test ideation, design and exploration capabilities with strong foundation in using agile methods (SCRUM, Kanban)
+Proven track of working with sensor- and edge devices as well as backend, web- and mobile frontend systems
+Proven track record in the development of automated test suites, design of test strategies on functional, security and performance level plus their CI/CD integration
+Experience in creating end to end test automation in highly distributed systems
+What do we offer?
+We offer you a unique place to work, in which you are part of a creative and interdisciplinary team. We will give you a lot of responsibility to develop yourself and we´ll support you in shaping your individual career path.
+In addition, we offer you innovative and personalized Benefits, such as
+Flat hierarchies
+Fitness and health benefits
+Flexible working arrangements
+Mobile working
+Subsidy for childcare
+Further benefits:
+Support in relocating and finding a flat
+Tax advice
+Integrity, courage, teamwork and commitment are essential for Hilti – both today and tomorrow. We are proud to say that we not only talk about our values, but also live them every day.
+Further information
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Hilti Entwicklungsgesellschaft mbH
+Kaufering, Deutschland

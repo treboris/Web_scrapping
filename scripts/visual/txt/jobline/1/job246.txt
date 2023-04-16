@@ -1,0 +1,90 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Senior Full-stack developer C#/Angular (Budapest)
+Senior Full-stack developer C#/Angular (Budapest)
+A hirdetés már lejárt!
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Senior Full-stack developer C#/Angular
+Senior Software Engineer – Full-stack/.NET
+We are looking for an experienced Senior Full-stack Engineer (.NET) to join our growing Technology team at  International Language Campuses, based in Budapest.
+You will be part of the development end to end of the new generation of Enterprise Core Systems that support our business worldwide.
+Under the guidance of our Solution Architects and Lead Software Engineers, you will develop first-class software solutions in the cloud, both on the front-end side, adopting web technologies as well as on the back-end side, evolving our micro services ecosystem based on event driven architectures.
+If you are excited about tackling and solving tough problems; if you want to be part of a fast-paced work environment and work inside the support structure of a global enterprise; if you want to be a front runner in changing how our conducts business through technology and design - then this position is for you.
+As a Senior Engineer you will
+Build APIs and work on microservices that run in AWS.
+Work in an Agile team that follows DevOps philosophy (CI/CD, Infrastructure as Code, etc.), taking ownership of your code.
+Build and maintain well tested software that follows best practices.
+Focus on cloud-based and distributed architectures, using event driven and Restful APIs.
+Qualifications and requirements for the role
+Bachelor's degree in Computer Science or related Engineering discipline (or equivalent)
+7+ years of overall working experience on both:
+NET Core / .NET.
+Exposure to JavaScript / React / Web Frontends
+Nice to have: WPF experience / Windows Desktop Development
+Experience in using, or desire to learn, AWS
+Experience working in an Agile environment
+DevOps mindset
+Strong knowledge of Software Design and Software Engineering Methodologies & Practices
+Strong knowledge of design patterns and best practices like Refactoring, Clean Code, TDD/BDD, SOLID principles, etc.
+Full-stack experience in development of complex projects, both on frontend and backend areas
+Working experience in designing / developing web services and REST API development, with knowledge of micro service architectures
+Mindset and interpersonal skills
+You have good communication skills in English – not just spoken but also written
+You are a team player – who is part of a successful cross-functional team having a composition of developers, QAs, BAs and admins
+You love to work in multi-cultural environments
+You have strong attention to detail and excellent problem-solving skills
+Your benefits
+Competitive salary package
+Career growth opportunities
+Work-life balance
+Technology discussion groups
+A friendly work environment
+About 
+We believe that the world is better when people try to understand one another. Since 1965, we have helped millions of people see new places, experience new cultures, and learn new things about the world and about themselves. Our culturally immersive education programs—focused on language, travel, cultural exchange, and academics—turn dreams into international opportunities.
+When you join, you join a multicultural and diverse community working across more than 600 schools and offices in 50 countries, all with one shared mission of opening the world through education. Whoever you are, whatever you are passionate about—we welcome you and want you to bring that to work every day. They're  proud to be an equal opportunity employer and we are committed to inclusion and belonging across race, ethnicity, gender, age, religion, parental status, identity, experience and everything else that makes you unique.
+Founded in Sweden in 1965, has school and offices around the world, including hubs in Boston, London, Mexico City, São Paulo, Shanghai, Stockholm, Zürich, and more. 
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+Deutsche Telekom IT Solutions -
+DevOps Engineer
+Deutsche Telekom IT Solutions -
+DevOps Engineer (VNI 1 NNA_ACC Squad) (REF220B)
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Thyssenkrupp -
+Szoftverfejlesztő mérnök (Indusztrializáció)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Szeged
+Győr
+Pécs
+Kecskemét
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

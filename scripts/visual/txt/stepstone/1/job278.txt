@@ -1,0 +1,64 @@
+Jobs by email
+European Patent Office (EPO)
+Solution Architect (m/w/d)
+München
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+I'm interested
+Save
+Solution Architect
+The European Patent Office (EPO) is in the midst of a major transformation, building a DevOps practice and making agile principles a reality. It's like nothing we've ever done before!
+Our mission is to support innovation, competitiveness and economic growth across Europe. We pride ourselves on taking innovation seriously and are fully committed to our digital transformation.
+Whilst preparing our next strategic plan, we are seeking talent to reinforce our teams and prepare the next generation of tools and practices, to increase the productivity of our workforce.
+Your tasks:
+Cloud Computing and / or experience with Cloud technologies – (eg: GCP, AWS, Azure)
+Development experience with Java / Springboot Microservices
+Understanding and experience of smart-building and IoT technologies and related implementations
+Technical expertise in the areas of digital facilities management, building management and security systems, and wireless, mobility and sensor technologies (Smart or Digital Buildings)
+Continuous integration and delivery (Helm, Github, ArgoCD, Github Actions)
+Considerable experience in web content management and website-related solution creation and development
+In-depth experience with end-to-end solution creation from vision to operation, including
+CI/CD concepts
+Experience with digital workplace and collaboration tools
+For more detailed information please click on the “apply” button.
+Minimum requirements:
+Diploma of completed studies at master's level or – in exceptional cases – equivalent professional experience
+Excellent knowledge (at least C1) of one official language (English, French and German) and the ability to understand the other two; alternatively, excellent knowledge (at least C1) of one official language and the willingness to learn the missing language(s) and to reach level B2 within a set time frame
+Citizenship of one of the member states of the European Patent Organisation
+What we offer:
+An opportunity to participate in complex IT projects at the heart of the EPO's digital transformation initiative
+Daily collaboration with a diverse, hard-working and united team of highly skilled and dedicated professionals from all over Europe
+Self-development opportunities through a broad range of training activities provided by our Talent Academy
+A challenging yet highly rewarding working environment
+A comprehensive and family-friendly benefits package
+A flexible working model
+Access to a wide variety of social activities and clubs
+Flexibility to work in either Munich or The Hague
+Process:
+The successful candidates will be selected on the basis of qualifications and relevant experience, supplemented as appropriate by interviews, tests and/or a personality questionnaire.
+Key information
+Job group: 4
+Grade: G7 to G10 (net basic) monthly salary* for this vacancy: EUR 6 459 to 9 364, depending on experience and location)
+Duration of appointment: Five years
+Career path: Technical
+Location: Hybrid based in Germany (Munich) or The Netherlands (The Hague)
+Application deadline: Spring 2023
+Interviews planned: April, May and June 2023
+* after deduction of EPO-internal tax and before deduction of staff contributions to the social security and pension schemes.
+We welcome all applications for vacant positions. We consider each on its professional merits – regardless of your nationality, ethnic origin, gender, sexual orientation, marital status, disability, parental responsibilities, age, religion or belief.
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Company Benefits
+Flexible working hours
+Incentives & events
+The benefits listed are applicable to the company and can differ depending on the position or department.

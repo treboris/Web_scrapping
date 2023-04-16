@@ -1,0 +1,86 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceAWS DevOps .Net Core Developer 
+AWS DevOps .Net Core DeveloperInformácie o pracovnom mieste
+                                Miesto práce
+                            Zvolen, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Druh pracovného pomeru
+                            plný úväzok
+                                Termín nástupu
+                            ASAP
+                                Mzdové podmienky (brutto)
+Od 2 299 EUR/mesiacMzda minimálne od 2 299 € brutto, finálna podoba mzdovej ponuky bude závisieť od znalostí a skúseností.
+Náplň práce, právomoci a zodpovednostiNávrh a implementácia DevOps stratégií v Amazon Web Services (AWS), ktoré podporujú spoluprácu pri práci na projektoch – infraštruktúra, praktiky CI/CD, observability, versioning, releasing a ich automatizácia;Deployment do produkcie, správa produkčných a testovacích prostredí;Spolupráca na vývoji interných softvérových projektoch za účelom podpory vývojového procesu brzdových strmeňov a elektronickej parkovacej brzdy;Úlohy spojené s návrhom, SW vývojom a testovaním;Realizácia úloh na interných projektoch v rôznych fázach vývojového cyklu produktu, vrátane komunikácie so zadávateľom úlohy a analýzy požiadaviek;Programovanie v C# .NET Framework, .Net Core podľa projektového zaradenia;Tím založený na agile frameworku, medzinárodná spolupráca v angličtine.Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformačné technológie, mechatronika, programovanie a pod.Jazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Osobnostné predpoklady a zručnostiKomunikatívna znalosť anglického jazyka na úrovni B2;Niekoľkoročné skúsenosti s prostredím AWS, Certifikácia AWS výhodou;Niekoľkoročné skúsenosti s Linuxom, Administrácia Linuxového Servera;Znalosť AWS služieb ako VPC, ELB, ECS (Fargate), EC2, S3, CloudMap;Znalosť ASP.NET Core, Entity Framework Core;Znalosť Docker, Hashicorp Terraform, Packer;Výhodou znalosť Redis, PostgreSQL, OAuth/OIDC, JWT, Async messaging patterns;Objektovo orientované programovanie v jazyku C#, API design;Skúsenosti s tvorbou softvéru, skriptov, analytické myslenie. Zamestnanecké výhody, benefity > Flexibilný pracovný čas, home office a možnosť práce formou teleworku;> Príspevok na DDS vo výške 2 % zo zúčtovanej mzdy;> Penzijný program s mesačným príspevkom 2,5 – 6,5 % zo zúčtovanej mzdy;> Dovolenkový a vianočný príspevok;> Ročné odmeny za splnené ciele;> Dochádzkový a náborový bonus;> Finančné príspevky pri svadbe, narodení dieťaťa a pod.;> Stravovanie priamo v závode – menu len za 1,02 €;> Bonusová dovolenka nad rámec Zákonníka práce;> Firemné eventy a dobrovoľnícke aktivity;> Relaxačné aktivity v lokácii závodu;> Firemný športový klub Continental Sport Club Zvolen;> Životné a úrazové poistenie;> Kariérny rozvoj a vzdelávanie šité na mieru;> Mentoring program;> Bezplatné psychologické poradenstvo;> Moderné pracovné prostredie s ergonomickým vybavením;> Bezproblémové parkovanie v areáli závodu.  Mám záujemKontaktná osoba: Matej LuptákE-mail: poslať životopishttps://jobs.continental.com 
+Prečo Continental ?
+|
+Kariéra
+|
+Kontakt
+                                © 2017 Continental AG
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4439052 
+     Dátum zverejnenia:  16.3.2023 
+    2023-03-16
+lokalita: Zvolen   Pozícia: .NET programátor, C# programátor, DevOps Engineer, Programátor, Softvérový inžinier   Spoločnosť: Continental AG   
+Základná zložka mzdy (brutto): 2 299 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,59 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFull Stack Developer webových aplikácií 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyFull Stack Developer webových aplikáciíSWIDA Innovative s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 500 - 5 000 EUR/mesiacplat sme ochotní prispôsobiť schopnostiam a zručnostiam každého kandidáta.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiSme zanietený tím siedmich IT špecialistov, ktorí hľadajú ďalšieho člena do partie. Spoločne pracujeme na projekte, ktorý má ambíciu zmeniť vnímanie logistického sektora v Európe. Pomôž nám rozvíjať produkt a podieľaj sa priamo na jeho ďalšom smerovaní. 
+Ideou nášho projektu je digitalizácia logistiky prostredníctvom dvoch aplikácií, ktoré umožňujú špeditérom a vodičom pružne reagovať na neustále zmeny v prepravách.
+Ak máš skúsenosti s vývojom webových aplikácií, pridaj sa k nám a zaži profesionálne vývojárske prostredie v metropole východu. Tvoje kódy sa budú používať od Košíc až po Londýn naprieč celou Európou (a možno raz aj ďalej). 
+Čo od teba očakávame:
+- Samostatnosť pri riešení úloh je v našom tíme samozrejmosťou
+- Záujem o nové technológie
+- Orientáciu v dokumentácií a jej následnú aktualizáciu
+- Zodpovednosť za kvalitu kódu, dodržiavanie štandardov spoločnosti
+- Starostlivosť o aplikáciu po zavedení zmien
+- Poskytovanie technickej podpory pre užívateľov SW
+- Sme otvorení inováciám, a preto uvítame tvoje vlastné nápady a myšlienky
+- Práca je remote, ale vyžadujú sa 3-4 dni mesačne v našom office (dohodou) Zamestnanecké výhody, benefity- home office
+- služobný telefón aj na súkromné účely
+- preplatenie športových aktivít
+- príspevok na dovolenku
+- teambuldingy a firemné aktivity
+- možnosť štúdia a aplikácie nových moderných technológií
+- prístup k odbornej literatúre
+- profesionálny prístup kolegov a pomoc pri riešení komplexných problémov Informácie o výberovom konaníAk ťa pracovná ponuka zaujala, neváhaj a opýtaj sa nás čokoľvek. Radi ťa zasvätíme a odpovieme na tvoje otázky aj pred pohovorom -  [email protected]
+O pozíciu Full Stack Developera sa uchádzaj zaslaním emailu na [email protected], alebo prostredníctvom profesia.sk. Do emailu prilož svoj životopis alebo popis tvojich zručnosti, prípadne LinkedIn profil. Pokojne sa pochváľ aj tvojím posledným zaujímavým projektom, na ktorom si pracoval/a. Vhodných kandidátov budeme následne kontaktovať s pozvánkou na pohovor. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Osobnostné predpoklady a zručnosti- skúsenosti s vývojom webových aplikácií
+- znalosť SQL príkazov
+- znalosť OOP
+- práca s GIT-om (Version Control System)
+- webové služby (REST)
+Znalosti výhodou
+- programovanie v jazyku Python
+- znalosť PostgreSQL
+- znalosť webového frameworku Django
+- orientácia v Linuxovom prostredí
+- optimalizácia procesov a algoritmov
+- HTML5 a CSS3
+- JavaScript, jQuery
+- asynchrónne dotazy (Ajax)
+- ovládanie Docker architektúry Inzerujúca spoločnosť Stručná charakteristika spoločnostiFirmu SWIDA Innovative tvorí tím mladých a cieľavedomých ľudí, ktorí majú viacročné skúsenosti v oblasti logistiky. Ponúkame spektrum pracovných pozícií, možnosť kariérneho rastu a osobnostného rozvoja. V roku 2022 sme obhájili ocenenie pre najlepšie zdravo rastúce malé a stredné slovenské spoločnosti, Diamant Slovenského Biznisu.
+Úspech našej spoločnosti je postavený na vždy ambicióznom a efektívnom tíme, ktorý je otvorený profesionálnym výzvam. Firmu SWIDA predstavujú naše hodnoty: ZODPOVEDNOSŤ – PARTNERSTVO – ROZVOJ – KULTÚRA - ODBORNOSŤ, ktoré stelesňujú naše progresívne myslenie. Pri dosahovaní cieľov vždy myslíme na našich klientov, zamestnancov a na naše okolie. Sme konštruktívni, produktívni a inovatívni, čoho výsledkom sú naše kvalitné služby.
+Tak ako úspešne napreduje naša firma, tak úspešne sa rozrastá aj náš tím. Chceš byť aj ty jeho súčasťou? Počet zamestnancov100-149 zamestnancov 
+ID: 4192929 
+     Dátum zverejnenia:  25.1.2023 
+    2023-01-25
+lokalita: Práca z domu   Pozícia: Backend programátor, Frontend programátor, Programátor, Python programátor, Softvérový inžinier   Spoločnosť: SWIDA Innovative s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+                Všetky ponuky

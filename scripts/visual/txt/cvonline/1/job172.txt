@@ -1,0 +1,25 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Backend Developer  
+About the job  The key Responsibilities for the role are:   
+Resolve any SQL data issues created by application defects 
+Test any updates prior to releasing to the business to avoid multiple rounds of testing 
+Work with DevOps, Quality assurance, Product and Architect teams 
+  The key requirements for the role are:
+7-10 years of experience Development Experience Consultants 
+Languages: Python, SQL knowledge 
+AWS: Lambda functions understanding 
+Tools & Utilities: Visual Studio Code, Anaconda, IntelliJ, Eclipse experience 
+Experience in development projects with Lambda with Python language 
+Experience in all phases of SDLC Requirements, Design, Development, Testing, Support 
+Excellent oral and written communication skills in English 
+Desired Characteristics:   
+AWS: Cloud Formation, API Gateway, S3, RDS Aurora knowledge 
+Web Technologies: HTML5, CSS3, Angular 
+REST APIs 
+Open API 
+OAuth2.0 
+They are working with a wide range of technologies and programming languages.   You will have the opportunity to:
+Be part of a real multinational team and environment (90+ nationalities)
+Develop your career path and grow domain wise (vertical and horizontal opportunities for growth and rotation among different units) 
+Learn and develop soft and hard skills (1000+ internal training) 
+Jelentkezem

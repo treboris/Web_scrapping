@@ -1,0 +1,55 @@
+Jobs by email
+Dassault Systemes 3DExcite GmbH
+Unreal Technical Artist (m/f/d)
+München
+Permanent contract
+Full Time, Home office possible
+Published: 2 days ago
+Show salary
+Save
+Your role:
+Dassault Systèmes is the second largest software manufacturer in Europe and has been a dynamically growing, innovative company since 1981.
+In this role, you will be part of our 3DEXCITE Services team, which is responsible as Unreal Technical Artist (m/f/d) to the team that provides state of the art marketing and sales oriented solutions for experiences on mobile, desktop and AR/VR platforms.
+As an expert you will work on the components to support configurable 3D visualization solutions for Marketing and Sales. The team develops these components for scalable solutions across our services solution portfolio.
+ #Unreal #Blueprints #CGI #Development 
+Your responsibilities:
+As an Unreal Technical Artist (m/f/d), you will work closely with artists and programmers to optimize assets and pipelines. You will also have the opportunity to develop tools and workflows, implement technical art features, and perform debugging on tools and processes. The main and usual functions of the Unreal Technical Artist (m/f/d) are to:
+Set up and maintain production pipelines and workflows
+Develop and test tools that will be used by the artists to improve and assist their work in production
+Work with Art Leads, Technical Directors and QA to ensure that all the assets conform to technical requirements 
+Share best practices, conduct training sessions to the team to ensure proper use of tools and methods 
+Produce and maintain documentation on tools, methods, trainings, processes, and engine limits for consultation and future reference
+Gatekeeper of Tech Art constraints, pushing for top visual quality and performance
+Your qualifications:
+At least 5 years of work experience in a similar role
+Strong expertise in Unreal Engine with Blueprints, and a solid understanding of the shading system (building and debugging) and materials in general
+Familiarity with version control and deployment systems (Git, Perforce, Rez, Pip, etc)
+Optimization and Profiling
+Python scripting
+Knowledge of Qt, PySide and a good UI design sense
+Able to write user documentation and to provide artist training
+Experience working with databases and production/asset management solutions such as Shotgrid or FTrack
+One or several of these would be considered a plus:
+Experience in working with USD and MaterialX
+Substance Designer Experience
+Production experience in the CGI industry (e. g., VFX, games, animation, visualization, etc)
+What's in it for you?
+A permanent job in a sustainable, innovative, science-oriented international company
+An open, creative, dynamic work environment in a motivated team
+Varied challenging and rewarding tasks
+Attractive training opportunities, supportive colleagues
+Opportunity to shape the future of our service and beyond
+Have we sparked your interest?
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Dassault Systemes 3DExcite GmbH
+München, Deutschland

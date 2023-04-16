@@ -1,0 +1,67 @@
+Jobs by email
+Vitesco Technologies Group AG
+Teamlead (m/f/d) - Computer Security Incident Response Team
+Regensburg
+Permanent contract
+Full Time
+Published: 1 week ago
+Show salary
+No cover letter required
+Save
+Vitesco Technologies is a leading international developer and manufacturer of state-of-the-art powertrain technologies for sustainable mobility. With smart system solutions and components for electric, hybrid and internal combustion vehicles, Vitesco Technologies makes mobility clean, efficient and affordable. The product range includes electric drives, electronic control units, sensors and actuators, and exhaust-gas aftertreatment solutions. In 2020, Vitesco Technologies recorded sales of EUR 8 billion and employs almost 40,000 people at around 50 locations worldwide. Vitesco Technologies is headquartered in Regensburg, Germany.
+Your tasks
+The Teamlead (m/f/d) of the computer security incident response team (CSIRT) is part of the global VT IT Cyber Security Office. You will lead in the activities of a high functioning, small, expert team around the world that provides advanced cyber security detections, investigations, and analytic services in order to protect our company.
+The CSIRT will be responsible for developing and executing standards, procedures, and processes to detect, response and mitigate security incidents.
+Your new responsibilities:
+Leading a global Team of Incident Response experts and managing the SOCaaS. Establishing and maintaining strong relationships across functional areas to facilitate Incident Response activities
+Provide multi-year roadmap for Global CSIRT and SOC Service
+Produce timely internal cyber intelligence reports to characterize threats based on observed cyber activity through incident analysis, proactive monitoring, and associated campaign tracking
+Orchestrate necessary resources and initiate appropriate countermeasures in a timely manner in the event of confirmed incidents
+Review on-going critical incidents to ensure response activities are complete, effective and follow standard Vitesco incident response practices
+Proactively perform the following cybersecurity incident prevention activities, including but not limited to continuous threat analysis, scanning networks and hosts for vulnerabilities, coordinating the deployment of countermeasures, advising on security policies and architectures
+Provide briefings and communication to Vitesco leadership and Vitesco business organizations management regarding emerging threats and ongoing security incidents
+Your profile
+Completed academic degree in Computer Science / Information Technology or comparable qualification
+Long term professional experience in building and managing Incident Response and SOC Teams
+Long term professional experience in the field of IT or Cyber Security
+Several years of leadership and advanced project management skills experience
+Strong knowledge of current security threats, endpoint security, techniques, and attack types, as well as a dedicated and self-driven desire to research current information security landscape
+Experience with large scale and complex incidents of all types to include APT, DDOS, ransomware, web/mobile compromise, account compromise, data disclosures, etc.
+Advanced English and German skills written and spoken
+Ability to communicate complex and technical issues to diverse audiences, orally and in writing, in an easily understood, authoritative and actionable manner
+Requires a level of cultural sensitivity and the ability to cooperate in multiple cultures due to global coverage of Vitesco Technologies
+Applications from severely handicapped people are welcome.
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Vitesco Technologies Group AG
+93055 Regensburg, Deutschland
+Company Benefits
+Additional medical services
+Company pension
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Sabbatical
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Stock options
+Home office
+Extra day off
+Study allowance
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,94 @@
+Jobs by email
+MBition GmbH
+Senior Product Owner – Personalization Offboard (all genders)- Berlin
+Berlin
+Permanent contract
+Full Time
+Published: 2 weeks ago
+Save
+Einleitung
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Job-ID: P0142V704
+Aufgaben
+About us
+At MBition, we are bringing digital luxury to mobility users around the world. To accomplish this, we are redefining how software is developed within the automotive field as part of an international Mercedes-Benz software development network. As a 100% subsidiary of Mercedes-Benz Group AG, we develop and integrate the next generation of Mercedes-Benz in-car infotainment systems that are based on the Mercedes-Benz Operating System (MBOS). In addition, we are responsible for the Mercedes me companion app, we provide seamless & connected mobility experiences and we contribute to Advanced Driver Assistance Systems (ADAS) platform development. With offices in Berlin and Sofia, we are aiming to bring new generation of innovative infotainment systems across the globe.
+Your Mission 
+Our backend teams are developing and optimizing connected services and intelligent cloud applications running in the cars. We are looking for a passionate Product Owner with a pioneering spirit for Personalization Offboard team.
+As a Product Owner, you will be guiding each step of the products lifecycle from the idea to production in Personalization Domain. Personalization Offboard team provides profile related features using edge cloud technology to create a holistic experience for our MBUX customers.
+Sneak preview of your future tasks
+Lead definition of features for the Product Backlog
+Support teams in understanding the features being defined in the Product Backlog
+Make sure the high level plan is aligned with customer needs and accepted by the stakeholder
+Lead identification of dependencies between features and maintain a visualization of system’s anatomy
+Ensure profitability, Return of Investment (ROI) for the feature set being part of the Product Backlog
+Define and maintain mapping between features and feature teams
+Lead milestone planning workshops with customers on a need basis
+Lead the communication of milestone planning aspects, milestone goals and feature scope to team members
+Work with other Product Owners for each development team in discussions with the customer about requirements compliance, user stories and acceptance tests.
+ Qualifikationen
+Your Profile 
+Education:
+ •    Degree in Computer Science, Information Technology, Electrical Engineering or a comparable qualification
+ Experience:
+ •    At least 3 years of experience in the area of In-Vehicle Infotainment Systems and Leading Automotive Projects
+ •    At least 3 years of experience in developing complex software products in the series production, e. g. automotive, aviation, etc.
+ •    Understanding of challenges and constraints within the automotive domain and processes (e.g. Automotive SPICE, ASIL, data protection)
+ •    Understanding of QA and Test Processes
+ •    Understanding of both Agile (e. g. Scaled Scrum Frameworks) and Classic Waterfall Development Processes
+ •    Orientation and Communication within Larger Organizations
+ •    At least one complete project life cycle (including operations)
+ Nice to have:
+ •    Feature domain expertise knowledge such as embedded & cloud automotive functions, Connectivity, Tuner, Vehicle infotainment, Navigation etc.
+ •    Software architecture know how
+ •    Know How in at least one programming language, e.g. C/C++, Python, Java, Go
+ •    Open-Source Background
+ Personal Skills:
+ •    Good understanding of end customer needs
+ •    High degree of flexibility, willingness to travel
+ •    Well-developed communication and team work skills, even though tough situations
+ Langauge:
+ •    Fluent in English, German proficiency is a plus
+Zusätzliche Informationen
+Why us? 
+An international, interdisciplinary innovation hub, which is part of the Mercedes-Benz Group AG 
+Be part of a new generation Mercedes-Benz Operating System (MB.OS) and work in with internal colleagues to deliver the best software
+Agile working methods and open feedback culture 
+Flexible working hours 
+Mobility, Healthcare budget & Personal development budget
+Berlin transportation ticket (BVG)
+Relocation support 
+Company pension after the probation period
+In our close collaboration with “inklupreneur.de” we support people with disabilities and welcome everyone 
+Interested?
+We look forward to receiving your complete application, including CV (in English or German) and relevant references with the following information:
+ Job title and reference number
+ Salary expectations
+ Earliest start date
+You don't bring everything with you? Don't worry, MBition is proud of our diverse workforce and passionate about having MBitioneers from all backgrounds and perspectives. MBition is and always will be an equal opportunity employer. We are looking for employees who convince us above all with their personality and passionately motivated to join the team!
+You are welcome to contact our representative for severely disabled employees, Anna Schade (anna.schade@mercedes-benz.com), who will support you in the further application process. 
+  Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+MBition GmbH
+10587 Berlin, Deutschland
+Company Benefits
+Additional medical services
+Flexible working hours
+Company laptop
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company mobile phone
+Childcare
+Coaching
+Home office
+Company car
+Dogs allowed
+Barrier-free access
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

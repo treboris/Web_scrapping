@@ -1,0 +1,89 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Software Engineer in networking Lab enviroment (TC Core/Technik HU) (REF225Q) (Budapest)
+Software Engineer in networking Lab enviroment (TC Core/Technik HU) (REF225Q) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+Present in the market under the Deutsche Telekom IT Solutions brand name, IT-Services Hungary (ITSH) is a subsidiary of the Deutsche Telekom Group and is the largest ICT employer in Hungary. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team. 
+Software Engineer in networking Lab enviroment (TC Core/Technik HU) (REF225Q)
+As a Software engineer, we give you the opportunity to experiment with the latest Cisco, Juniper, Huawei, Adtran devices in the design and developing of new networks, reaching a huge Telekom site with cutting edge devices from a distance and using the opportunities in the largest remote laboratory of Deutsche Telekom. 
+We have several open positions with the following criterias:
+Tasks:
+Full definition, preparation (High and low level lab design), follow-up, validation and documentation of test results
+Test and measuring devices and lab infrastructure requirements and test automation by scripts
+Using of Network Domain Orchestratorrel Automation
+Gradual involvement in network planning, Review design documents from Planning or Engineering, modify and improve for lab architecture 
+Configuration, customizing, and implementation of customized solutions for projects. 
+Analysis of functional and technical requirements for software, platforms, and infrastructure 
+Technical support of test projects 
+Maintenance of planning and design documentation 
+Participation in projects for the whole life cycle of the projects 
+Description/Creation/Revision of test cases Automation of test cases Specification of product features environment (Python)
+FTTB, BNG based L2/L3 based mass market and individual products (Skills: Gherkin/Cucumber) 
+Requirements
+Cisco CCNP exam or equivalent knowledge and relevant experience
+Juniper exam or experience
+Intermediate level English knowledge
+Python with framework Django, with modules aiohttp and asyncio
+Know-how, and some experience with container orchestration systems like Kubernetes and/ or Docker
+Knowledge of data modeling (YANG, XSLT, Swagger) and interface design (JSON, XML, REST, OpenAPI) is desirable
+Jira, Gitlab knowhow or relevant experience
+CI/CD knowhow
+Gherkin and Cucumber knowhow
+Java, Javascript knowhow
+Basic knowhow about Test Automation Framework (TAF)
+Accurate and thorough work, inclination to learn, teamwork 
+Json knowhow or relevant experience
+SQL database knowhow
+Vmware experience
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Hays Hungary Kft. -
+Medior Java Developer - Technical Support 
+EasyHiring Services Kft. -
+Frontend Software Engineer
+EasyHiring Services Kft. -
+Python Software Engineer/Modelling Expert
+Hays Hungary Kft. -
+Software Engineer Front-end
+Hays Hungary Kft. -
+Embedded Penetration Tester (Ethical Hacker)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Pécs
+Szeged
+Győr
+Kecskemét
+Székesfehérvár
+Miskolc
+Tatabánya
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

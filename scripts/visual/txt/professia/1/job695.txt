@@ -1,0 +1,73 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceTest Developer 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Test DeveloperKistler Bratislava, s.r.o.Place of work: Bratislava, Slovak RepublicWage (gross): 2 400 EUR/monthThis is a minimal guaranteed salary. The salary can be higher, it would depend on relevant skills and experience.Contract type: full-timeInformation about the position Job description, responsibilities and dutiesPurpose of the position   Test developer, which will act as part of SW Testing team responsible for testing and quality assurance of software solution including desktop application for control and monitoring of embedded hardware from Test and Measurement domain.  Main Tasks   Cooperation with Product team and Development team to ensure quality of developed solution Active participation in development process from review of requirements for testability to refinement of user stories Design, Implementation and Maintenance of test scenarios, cases, suites and documentation Coverage of both functional and non-functional requirements Ensuring traceability between business requirements and test coverage Manual testing + Implementation of test automation Development and Maintenance of test environment and additional test-ware Reporting and managing defects Support of business/development team with defect reproduction and retesting of fixes Creating test reports and analysis    Employee perks, benefitsWhat you can expect from us The way we work  Hybrid working model – home office up to 60% a week (based on the agreement with your team lead). We trust that you know how to organize your time to stay productive Regular performance review and career growth possibilities  Health & Well-being  Electric stand-up desk and ergonomic chair 100% salary reimbursement for 10 days of sick leave/caring for a family member  25 days of vacation for everybody  Recognition  Compensation of overtimes Compensation of travelling time in case of business trip (extra allowance) Flexible Benefit System - starting from 1000€ per year in the Benefit Plus portal - platform with thousands of suppliers of your choice, including Kistler specific offerings Attractive referral bonus     Extra contribution in significant life events – weddings and childbirths, rehousing Relocation bonus for employees who are moving because of Kistler (over 100 km)  Career & Development  Budget for education, certificates, trainings - 500 EUR/year Online English & German language courses Library, Online Educational Portals: Pluralsight, Safari books, LeanPub, Egghead Technology “sharing” groups, Coding Days  Social life  Team-buildings, Company breakfast, Christmas Party, Grill Party, Family/Kid’s day, Pizza Thursdays etc. Football table and board games in the office  Extra benefits  Special offers and discounts (Metro cards, SND, Curaprox etc.) Lunch tickets in amount of 5.50 EUR On-site Joga or Pilates classes Great coffee, tea, fresh fruit  Information about the selection processInformation about the selection process Do you like it so far? Let us know, send us your CV. After receiving and reviewing your CV we will contact you for short telephone pre-screen. Following this, if successful, we will set up meeting with your future team leader and one of our technical specialist for more detailed discussion about your experience and motivation and to answer your questions about company and project itself. The final stage of the hiring process is meeting with head of Kistler Bratislava to get to know you better and align on the personal and position expectations. Our HR colleagues will be informing and guiding you through every step of this process. Good luck. We are looking forward to meeting you.Expected date of completion of the selection process29 March 2023 (there are still 0 more days) Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)Language skillsEnglish - Upper intermediate (B2)Number of years of experience3The position is suitable for a fresh graduateYesPersonality requirements and skillsWhat we expect from you Must have   Experience with SW development or testing Knowledge of SW testing methodologies, processes and strategies Experience with object oriented programming/scripting language (e.g.: Java, C++, C#, Python, ...) Experience with test automation processes and tools Experience with source management tools (Git) Analytical and methodical approach to problem solving English language (both written and spoken)  Nice to have   Experience with agile development process Experience with C# language Experience with UI testing and methodology for UI test automation ISTQB certification Familiarity with *nix operating systems Experience/Knowledge of signal processing and/or digital/analog circuit technology 
+Kistler Bratislava, s.r.o.
+                                Ševčenkova 3770/34
+                                851 01 Bratislava – Petržalka
++421 2 32 272 653, Martina Helbichova, Recruiter
+Kistler Holding AG
+ID: 4528178 
+     Dátum zverejnenia:  27.2.2023 
+    2023-02-27
+lokalita: Bratislava   Pozícia: C# Programmer, C++ Programmer, IT Tester, Java Programmer, Programmer, Python Programmer   Spoločnosť: Kistler Bratislava, s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 400 EUR/month
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

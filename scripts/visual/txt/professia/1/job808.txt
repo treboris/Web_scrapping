@@ -1,0 +1,113 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceGIS Expert - programátor 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyGIS Expert - programátorEMIS s.r.o.
+Miesto práce
+Trnava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+1 750 - 2 250 EUR/mesiacVýška mzdy závisí od skúsenosti a vedomostí v odbore.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiZaujímajú Ťa najnovšie technológie ? Si samostatný a rád hľadáš riešenia problémov? Ponúkame Ti byť platným členom projektu aj v oblasti vedy a výskumu diaľkového prieskumu zeme.
+Náplň práce:
+• vývoj GIS aplikácíí v JS, .NET, Python a podobne
+• vývoj a správa nasadených riešení nad platformou Geoserver, TiTiler, Kafka, OpenLayers, OSM, Apollo a podobne
+• zodpovednosť za analýzu a návrh systému
+• návrh a konfigurácia rozhraní a integrácií komponent
+• príprava migračných mapovaní a princípov čistenia údajov
+• komunikácia so zákazníkom a analýzy používateľských požiadaviek Zamestnanecké výhody, benefityKeďže sú u nás spokojní kolegovia na prvom mieste, je pre nás dôležité, ako sa cítia v práci. Preto sa snažíme spríjemniť im čas v práci a zlepšovať pracovné podmienky.
+• Využívanie najnovších technológií a práca pre renomovaných klientov
+• Osobnostný a profesný rast 
+• Sociálne výhody (finančný príspevok pre novomanželov, pri narodení dieťaťa a pod.)
+• Práca v mladom a kreatívnom kolektíve
+• Vzdelávací program zameraný na individuálne odborné certifikácie i kurzy 
+• Flexibilný pracovný čas
+• BridgeDay pri sviatkoch - predĺžené víkendy
+• Široký program firemných akcií
+• Firemné raňajky
+• Mimoriadna dovolenka podľa odpracovaných rokov Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreGIS, geodézia, programovanieJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiGIS - ExpertJavaScript - PokročilýPython - PokročilýJSON - PokročilýQGIS - ExpertAgisoft Metashape - ExpertGeoServer - ExpertVodičský preukazB Prax na pozícii/v oblasti4Osobnostné predpoklady a zručnostiPrax v odbore minimálne 4 roky na obdobnej pozícii.
+Ďalšie predpoklady:
+• podmienkou sú praktické, niekoľkoročné skúsenosti so spracovaním rôznych typov GIS údajov aj vzájomne v rámci jedného projektu
+• znalosti a prehľad v oblasti GIS na úrovni desktopových i serverových technológií
+• znalosť práce s GNSS a inerciálnymi meracími sústavami (IMU) a spracovanie meraní z GNSS a IMU výhodou
+Dôležité podmienky a predpoklady:
+• znalosť UML, Geoserver, TiTiler
+• výhodou GeoNetwork a Oracle Spatial
+• podmienkou je základné ovládanie programovania Python, výhodou je znalosť JavaScript a SQL
+• podmienkou je znalosť na úrovni experta z niektorej GIS desktopových aplikácií:  QGIS, Geomedia, ArcGIS....
+• znalosť štandardov a technológií Open Geospatial Consortium: WMS, WFS, CSW, SLD, KML, WMC, TileCache, OWC, GeoWebCache, GDAL/OGR
+• skúsenosti s API QGISu výhodou
+• znalosť relačných databáz a jazyka SQL
+- znalosť štruktúry a použitia formátov JSON, GEOJSON, XML 
+------------
+• aktívny a tímový prístup k riešeným problémom
+• koná samostatne, dokáže efektívne prezentovať a komunikovať verbálne aj emailom a cez iné kanály
+• má analytické a logické myslenie
+• je dynamický a cieľavedomý, dokáže plánovať a stanoviť svoje priority v dynamickom IT prostredí Inzerujúca spoločnosť Stručná charakteristika spoločnostiEMIS je poskytovateľ IT služieb a produktov s vyše 15 ročnou históriou pôsobenia v odvetví informačných technológií. EMIS ponúka svojim klientom komplexné riešenia z oblastí IT služieb, softvérového vývoja a poradenstva. Hlavnou oblasťou sú GIS – geografické informačné systémy a služby v oblastí fotogrametrie, či laserového zberu dát.
+www.emis-online.sk Počet zamestnancov25-49 zamestnancov 
+ID: 4379085 
+     Dátum zverejnenia:  22.2.2023 
+    2023-02-22
+lokalita: Trnava   Pozícia: .NET programátor, IT analytik, Programátor, Python programátor, Zememerač/geodet   Spoločnosť: EMIS s.r.o.   
+Základná zložka mzdy (brutto): 1 750 EUR/mesiac
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,74 @@
+Jobs by email
+Riverty
+Software Engineer C# (m/f/d)
+Berlin
+Permanent contract
+Full Time, Home office possible
+Published: 3 days ago
+Show salary
+Save
+Über uns
+A world where business meets the needs of humanity. Where financial technology makes a difference. Where everyone is in control of their own financial story. At Riverty, we're building it, together. A team of more than 5,000 experts in 13 countries, we're finding smarter, simpler, seamlessly connected ways to manage money. From flexible payments to smarter accounting and debt collection, our holistic solutions empower everyone to live their best financial lives. It's time to enter a new era of economic freedom.
+Everything we do, starts with you.
+Together with you, we build the most human-centric fintech. We have the ambition to create the next. And - with Bertelsmann - a strong foundation to start from. Let's make it new - for society and for yourself.
+We are looking for a
+Software Engineer C# (m/f/d)
+(full time) permanent contract, located in Berlin with 80% Mobile Office
+to build the next generation fintech.
+(Y)our Mission:
+We have the vision that technology and data will make our everyday lives easier. To achieve this, we question the status quo and shed light on the present. Because without smart technology, there's no innovation. That's why we are looking for like-minded people. For makers and discoverers, courageous pioneers and agile innovators. Join us as a Software Engineer C# (m/f/d) and help us to solve tough problems of our users - consumer and merchant problems - in ways that users love yet contribute to our business. Our product team is cross-functional, comprising alongside product managers, experience designers, data analysts and engineers.
+Aufgaben
+You will join one of our product teams and on a daily basis
+You design, develop, test and ship robust, maintainable and readable softwares, applications, API's and other workflows.
+As a member of an agile cross-functional team, you attend regular scrum ceremonies.
+You analyse, discuss and implement business requirements while you maintain a good documentation of the systems and components you create.
+You bring-in industry standards and best practices to continually improve our code-base and architecture.
+Make a positive impact on our engineering culture by adopting, implementing and providing feedback on both organisational and industry standards and practices.
+Profil
+Hands-on experience working using C# and .NET framework.
+Experience on developing, shipping and maintaining a cloud based application.
+You demonstrate a good understanding and knowledge of restful API's.
+Basic knowledge of frontend development with any modern JavaScript framework.
+Knowledge and experience working on a microservice and distributed architecture is a plus.
+You bring in experience using relational databases, preferably SQL server.
+You are familiar with cloud development while knowledge and experience using Azure is a bonus.
+A practical knowledge using messaging platforms in a distributed architecture (RabbitMQ, Kafka) is a plus.
+You are proficient in both written and spoken English to communicate and collaborate with our international team.
+Knowledge and experience working on a FinTech and banking industry is a plus.
+Please note, that you need EU citizenship and/or a valid work permit for Germany.
+Wir bieten
+What you can expect from us
+Agile Work with scrum processes, a common goal - testing and learning together
+International and cross functional teamwork, together with product managers to have an impact on the end user experience
+Being part of a growth company and the opportunity to shape our new FinTech Hub in Berlin
+Inspiring work atmosphere flooded with humour and awesome people!
+Here we have a few arguments for you! This is why you should join our great workforce!
+At Riverty, we offer you modern workplace models with 80% Mobile Office. For more flexibility and freedom.
+With us, life balance is not just something we claim, but something we live, and you can do the same in many European countries where we are operating. Riverty helps you to arrange your working life in the way that suits you best. Big city or small town? You can choose to work remotely and still stay connected with your team virtually. And if it gets too quiet at home, you can just drop by our tech hubs in Berlin and Tallinn, or any of our 13 locations across Europe.
+At Riverty, we are as diverse as society itself. We have great people from more than 25 different countries around the world - creating the most human-centric fintech together. With us, you can be who you are.
+Culture? Easy: Open and at eye level, trust instead of dislike, cooperation instead of lone warriors. You will work in cross-functional, agile, dynamic teams with a start-up spirit. At the same time, you will benefit from all the opportunities within the Bertelsmann Group.
+Take time for yourself and your health. With sports and leisure activities we support your wellbeing.
+We want to grow together. With trainings from the Riverty Academy and individual training opportunities we support your development.
+Because we appreciate what you do. For us. For our customers. Check our many employee discounts. To sweeten your everyday life.
+More information on riverty.com/careers. Are you already convinced? Then we look forward to receiving your online application - with just a few clicks.
+We look forward to applications from candidates who contribute to the diversity of our company. We relate diversity in particular to the dimensions of cultural or social origin, religion, age, disability, gender and sexual identity.
+Company: Riverty Group GmbH
+Country: Deutschland
+State/Region: Berlin
+City: Berlin
+Postal Code: 10623
+Job ID: 257579
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Salary
+Curious about the salary for this job?
+Show salary
+€
+Min €
+Max €
+Our Location
+Open map
+Riverty
+10623 Berlin, Deutschland
+Certificates

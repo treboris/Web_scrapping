@@ -1,0 +1,32 @@
+Közösség
+Kapcsolat
+Software Engineer - "EHL-AW" állás Budapest
+Mysql
+Docker
+React
+Angular
+Node
+Java
+SQL
+Spring
+PostgreSQL
+Apache
+Tesztelés állások 
+											Our client GE Healthcare looks for a new colleague asSoftware EngineerLocation: BudapestRole Summary/Purpose:We are looking for a Software Engineer to contribute to the Healthcare Platform’s Service TOur client GE Healthcare looks for a new colleague asSoftware EngineerLocation: BudapestRole Summary/Purpose:We are looking for a Software Engineer to contribute to the Healthcare Platform’s Service Tools and Configuration Management ongoing product development and enhancement efforts. Responsible for programing a feature and or feature set. Contributes to the team and works with direction from Senior Team Members or management, beginning to work independently.  Essential Responsibilities Has the ability to take ownership of tasks and deliver without supervision while using their discretion to seek help when necessary.Demonstrate the ability to help team members through pair programming and code reviews.Demonstrates awareness about product positioning and differentiations.Has the ability to evaluate basic technology choices and articulate tradeoffs.Applies principles of SDLC and Lean/Agile/XP/TDD/CI/CD methodologies to deliver high quality, secured, and scalable software modules.Skilled in writing code that meets standards and delivers desired functionality using the technology selected for the project.Skilled in core data structures and algorithms and implements them using language of choice.  Qualifications/Requirements Bachelor’s Degree in Computer Science or in “STEM” Majors (Science, Technology, Engineering and Math) or equivalent3  years of experience as a software developerIntermediate  verbal and written communication skills in EnglishExtensive experience with Java/Rx Java, Microservices, Spring Boot/Apache Web framework, Node Js.Experience in developing containerized Microservices using Docker, Kubernetes or similar.Experience with web application development using Angular, React, HTML5, CSS3 and TypescriptExperience in automated test like unit libraries such as JUnit, Mockito, Karma, and Mocha.Working Knowledge with SQL databases such as MySQL, PostgreSQL or similar.Working knowledge in configuration management tools such as Perforce/GitHub/Gitlab, JENKINS.Our Offer:Competitive salaryCafeteria package and other benefitsParticipation in international projectsHome office possibilityMultinational company 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Starjobs Magyarország Kft.													
+Budapest
+Nincs meghatározva
+ Tesztelés
+Lejárati dátum: 2023-03-24 12:13:50
+Álláshirdetés részletei
+PozícióSoftware Engineer - "EHL-AW"
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaTesztelés
+Hasznos linkek

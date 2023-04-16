@@ -1,0 +1,149 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Budapest
+Következő 
+Senior informatikus
+CIVIL ITIM Zrt.
+Budapest
+ Elvárt technológiák
+VMWARE
+DOCKER
+VPN
+MS OFFICE
+WINDOWS
+LINUX
+SQL
+CISCO
+ANDROID
+IOS
+HÁLÓZATI ISMERETEK
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+5-10 év szakmai tapasztalat
+Középiskola
+'B' kategóriás jogosítvány
+ Elvárt technológiák
+VMWARE
+DOCKER
+VPN
+MS OFFICE
+WINDOWS
+LINUX
+SQL
+CISCO
+ANDROID
+IOS
+HÁLÓZATI ISMERETEK
+CIVIL CÉGCSOPORT TAGJA
+A CIVIL ITIM Zrt.  
+senior informatikus
+munkatársat keres
+Vállalatunk bővülő csapatába keressük új munkatársunkat. Ha fontos számodra, hogy magas technológiai színvonalon dolgozz, csatlakozz hozzánk!
+Amiért érdemes velünk dolgozni!
+Nagyfokú tapasztalatot szerzel és folyamatos fejlődési lehetőséget kínálunk, amelyet egy mentorprogram keretében biztosítunk a számodra. Egy olyan csapathoz fogsz tartozni, ahol fontos a széles spektrumon kínált változatos feladatok mennyisége, melyekben kibontakozhatsz. Bele fogsz látni egy precíziós technológiával dolgozó vállalati környezet mindennapjaiba.
+Néhány érdekesség a feladatok közül:
+a cég virtuális kiszolgálóin (Hyper-V, VMWare, Docker virtualizációs technológia) a szoftverek telepítése, üzemeltetése, karbantartása,Failover Cluster-ek üzemeltetése, karbantartása,mentési rendszer (Veeam) felügyelete, helyi és geobackup mentések kezelése,Exchange levelezőrendszer karbantartása, hibaelhárítása,VPN (Site-to-site is) kapcsolatok kezelése,hálózati eszközök (tűzfalak, routerek, switchek) beállítása, üzemeltetése,egyedi fejlesztésű kommunikációs szoftverek kiszolgáló oldali üzemeltetése.
+Rád van szükségünk, ha az alábbiakkal rendelkezel:
+5-10 éves szakmai tapasztalat, minimum középfokú informatikai végzettség,angol nyelv középfokú ismerete, szakmai angol nyelv ismerete,MS Office szoftverek magabiztos használata,Windows Server, Linux, MS SQL, MS Exchange készségszintű ismerete,Hyper-V, VMWare virtualizáció ismerete,Failover Cluster rendszerek ismerete,haladó szintű hálózati ismeretek,tűzfal (elsősorban Sophos, Cisco) eszközök működésének ismerete,Android és IOS mobiltelefon rendszerek ismerete,B kategóriás jogosítvány.
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Rendszergazda
+Jelentkezés:
+Kérjük, vedd figyelembe, hogy a pályázatban csak azok jelentkezését tudjuk fogadni, akik valóban megfelelnek a hirdetésben megjelölt elvárásoknak.Megértésedet köszönjük!Jelentkezz most és csapatunk tagja leszel!Szakmai önéletrajzodat, bérigény megjelölésével várjuk a „jelentkezem” gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+5-10 év szakmai tapasztalat
+Középiskola
+'B' kategóriás jogosítvány
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+CIVIL ITIM Informatika és Ingatlanmenedzsment Zártkörűen Működő Részvénytársaság
+Adminisztráció és szolgáltatás támogatás
+●
+Személybiztonsági tevékenység
+10-25 munkavállaló
+1995
+1149
+Budapest,
+Angol utca 77.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+senior informatikus
+CIVIL ITIM Zrt.
+Budapest
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

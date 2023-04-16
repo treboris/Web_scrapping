@@ -1,0 +1,51 @@
+Jobs by email
+Hexagon Geosystems Services AG
+Senior Embedded Linux C++ Developer (m/f/d)
+Zürich
+Permanent contract
+Full Time
+Published: 1 week ago
+I'm interested
+Save
+About Us
+Hexagon is a leading provider of digital reality solutions and employs more than 24,000 people in 50 countries. You will be part of a strong, experienced, inspiring and motivated team of experts driving the future of Hexagon. You will use and develop your skills in our highly innovative and diverse environment.
+Flexible working models allow you to ideally combine work and private interests.
+Committed and with passion for precision we create digital reality solutions combining sensor, software, and autonomous technologies to empower a sustainable future.
+Around the globe, customers from all industries rely on our smart technologies. You want to support us in engineering and implementing powerful software without losing track of your target but always staying cool? Join our team and make your visions come true!
+This appeals to you
+Being part of a small, lean and cross-functional team
+Developing easy-to-use, reliable products
+Contributing to the development of disruptive products (like BLK360, BLK2GO, BLK2FLY)
+This is you
+Experience with modern C++ development & software design is required
+High familiarity with cross-compilation for ARM aarch64 target platforms running Linux is a must
+High familiarity with Git and common build tools is a must
+Experience with sensor integration and knowledge about common interfaces (UART, SPI, I2C, MIPI, Ethernet...) is a must
+Prior experience in collaboration with electronic design & bring-up activities is very welcome
+Knowledge about scripting languages like Python or Matlab/Octave is a plus.
+Familiarity with CI infrastructure (Jenkins, Gitlab) and Docker is a plus.
+Knowledge about STM microcontrollers is a plus.
+Knowledge about PTP is a plus
+English as a working language is a must
+Kontakt
+Like this job?
+Your feedback will help us to improve your job search.
+I'm interested
+Chevron right icon
+Our Location
+Open map
+Hexagon Geosystems Services AG
+Räffelstrasse 28, 8045 Zürich, Schweiz
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+Company Benefits
+Coaching
+The benefits listed are applicable to the company and can differ depending on the position or department.

@@ -1,0 +1,171 @@
+Profession
+Belépés
+Regisztráció
+ Álláskeresés
+Részletes keresés
+Állásértesítő készítése
+Állások
+Önéletrajzom
+ Önéletrajz feltöltése
+Önéletrajz minták
+Önéletrajz készítő
+Cégek
+Cégek keresése Új
+Munkahely értékelése
+Álláskeresési tippek
+Cikkek, hírek
+Kalkulátorok
+Ügyfélszolgálat
+Munkaadóknak
+Profession
+Munkaadóknak
+Hirdetésfeladás
+Regisztráció
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+Következő 
+Szoftverfejlesztő
+HELP-EXPRESS, Fejlesztő Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság
+1064 Budapest
+ Elvárt technológiák
+PHP
+PYTHON
+C
+JAVASCRIPT
+JQUERY
+HTML
+CSS
+MYSQL
+LINUX
+ANDROID
+IOS
+Biztosított eszközök
+Monitor (2 db)
+Desktop PC
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol alapfok
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Mobiltelefon
+Szakmai tréningek
+Nyelvtanulás támogatása
+Beiskolázási támogatás
+ Elvárt technológiák
+PHP
+PYTHON
+C
+JAVASCRIPT
+JQUERY
+HTML
+CSS
+MYSQL
+LINUX
+ANDROID
+IOS
+Biztosított eszközök
+Monitor (2 db)
+Desktop PC
+HELP-EXPRESS, Fejlesztő Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság
+Szoftverfejlesztő
+Cégünket, a Help-Express Kft-t más szervezeti formában már 1986 óta együtt dolgozó magyar magánszemélyek alapították, 1995-ben. Az általunk megalkotott rendszerek és persze az ezeket működtető szoftvereink megtalálhatóak VIP Hivatalokban és intézményekben, kórházakban, mérő- és vezérlő rendszerekben Magyarországon és külföldön is.Egyik komplex szoftver-rendszerünk megkapta a Magyar Tudományos Akadémián megrendezett Innovációs kiállításon  "az év legjobb üzleti szoftvere" díjat. Igazán kár, hogy a piac nem így gondolta, úgyhogy nem mentünk nyugdíjba ezen alkalommal, de legalább munkát tudunk kínálni Neked.Kedvencünk a személyre szabott, nagyon speciális egyedi fejlesztések kivitelezése, alkalmasint egészen újszerű műszaki megközelítések alkalmazásával. Küldetésünknek tekintjük, hogy a technika, ezen belül is az informatika és az elektronika forradalmának a vívmányait minél hatékonyabban segítsük beépíteni partnereink mindennapjaiba.Ennek érdekében az egyszerű kereskedelmen túl a nagyobb rendszerek integrációját, de szükség esetén akár a teljesen önálló fejlesztésű saját szoftverek és berendezések kis sorozatú gyártását is felvállaljuk. 
+Főbb feladatok, munkák:
+Szoftverfejlesztő csapatunk tagjaként a szokásos feladatokon, azaz a meglévő saját fejlesztésű programjaink megismerésén és további reszelgetésén túl nagy kupac érdekes új feladattal várjuk új kollégáinkat. Ezek között "klasszikus" irodai és webes alkalmazások, beágyazott mikroszámítógépes vezérlések és mobil app fejlesztések  egyaránt megtalálhatóak. Természetesen nem reméljük, hogy mindent Te fogsz megoldani a cégnél, de aktuálisan futó témáinkban (elektromos autó-töltő vezérlő szoftver fejlesztése, speciális orvos-diagnosztikai rendszer stb) biztosan találunk Számodra is izgalmas és perspektívikus feladatot.
+Az álláshoz tartozó elvárások:
+PHP-ban, Python-ban, C-ben való jártasságJavascript, JQuery, HTML, CSS ismereteMySQL, illetve MariaDB adatbáziskezelő ismeretefontos, hogy Windowsos és Linux környezetben se lehessen eladni Tégednem baj, ha nincs 20 éves gyakorlatod, de sajnos most nincs időnk kezdőket a szárnyaink alá venni, fontos, hogy valamennyire tényleg érts a szakmáhozprecíz, tiszta kódfejlesztői stílusGitHub ismerete és értelmes alkalmazása
+Az állás betöltéséhez előnyt jelent:
+érdekes referencia munka bemutatása, nem a működő program érdekes, hanem maga a kód az, amibe bele szeretnénk pillantaniAndroid és/vagy IOS alkalmazásfejlesztési tapasztalatelektronikus mérőrendszerek programozásában, használatában valamilyen gyakorlat (ennek hiánya nem kizáró ok)angol és/vagy német szakmai nyelvtudásjogosítvány és budapesti vezetési gyakorlat (ezek hiánya nem kizáró ok)
+Amit kínálunk:
+Érdekes és változatos munkát, ahol mód van egy kis és dinamikus szervezet minden előnyével a gyors és hatékony munkára. Ha vidékről vagy külföldről jönnél, segítünk a szállás keresésben, ha home office-ban dolgoznál, az sem lehetetlen az első hónapok után. Minden cégprofilba eső továbbtanulást támogatunk a lehetőségeinken belül. Számítógépet, műszert és munkát adunk, az esetleg Általad hozott jó témákat és a szorgalmat külön is díjazzuk.
+Állás, munka területe(i):
+Mérnök
+Villamosmérnök
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezés módja:
+Kérlek, küldd meg nekünk szakmai önéletrajzodat, benne azokkal a referenciamunkákkal, amikre igazán büszke vagy!
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol alapfok
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Mobiltelefon
+Szakmai tréningek
+Nyelvtanulás támogatása
+Beiskolázási támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+HELP-EXPRESS, Fejlesztő Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság
+Feldolgozóipar
+●
+Számítógép, perifériás egység gyártása
+0-10 munkavállaló
+1995
+2161
+Csomád,
+Kossuth Lajos út 133.
+Munkahelyi extrák
+Céges étkező
+Kerékpártároló
+Kutyabarát
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem
+Önnek ajánljuk
+Hasonló állások megtekintése 
+Szoftverfejlesztő
+HELP-EXPRESS, Fejlesztő Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság
+1064 Budapest
+JELENTKEZEM
+Mentés
+Kövessen bennünket! 
+Rólunk
+Magyar
+English
+Site language 
+Magyar
+English
+Rólunk
+Töltse le mobil alkalmazásunkat!
+Profession
+Ajánlatok munkaadóknak
+Impresszum
+Nemzetközi szolgáltatások
+Kérdése van? 
+Ügyfélszolgálat
+Kapcsolat
+Feltételek 
+ÁSZF
+Felhasználási feltételek
+Adatvédelem
+Profession 2023 © Minden Jog Fenntartva.
+Belépés Állásmentéshez
+Az állás mentéséhez adja meg az e-mail címét, vagy jelentkezzen be profession.hu profiljába!
+Elfelejtette jelszavát?
+Belépés
+Elküldöm magamnak
+Belépés Facebookkal
+Belépés Google fiókkal

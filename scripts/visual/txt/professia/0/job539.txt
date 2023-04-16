@@ -1,0 +1,26 @@
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceData Scientist (Senior) 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Data Scientist (Senior)localhost s.r.o.
+Miesto práce
+Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 500 - 5 000 EUR/mesiacMzda závisí od tvojej seniority a znalostí. Určite to spolu preberieme v priebehu výberového konania.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme talentovaného Senior Data Scientist-u, ktorý sa chce pridať k tímu, ktorý úzko spolupracuje s popredným výrobcom v oblasti strojárenského priemyslu v USA patriaceho medzi Fortune 100 spoločnosti. Využi svoje analytické schopnosti a podieľaj sa na vytváraní návrhov a modelov pre zlepšovanie kvality dát a podporu interných procesov.Ako Senior Data Scientist budeš mať príležitosť pracovať s dátami z rôznych zdrojov - od IoT dát až po retail dáta dílerov a predajcov. Budeš tieto dáta analyzovať, vizualizovať a využívať pokročilé metódy strojového učenia na ich interpretáciu a kontrolu. Taktiež budeš pracovať na návrhu a implementácii nových dátovo analytických riešení s cieľom zlepšiť procesy, kvalitu a dosiahnuť úspory v nákladoch.Zodpovednosti: Analýza, modelovanie a testovanie dát z rôznych zdrojov Definovanie metrík pre kvalitu dát Vývoj algoritmov a AI/ML modelov na zlepšovanie kvality dát Spolupráca s tímom vývojárov a analytikov na implementácii a testovaní nových dátových riešení Sledovanie nových technológií a postupov v oblasti analýzy a správy dát Zamestnanecké výhody, benefity Transparentný prístup a komunikácia Profesionálny a kvalifikačný rast Spolupráca na medzinárodnej úrovni Podpora tvojich nápadov 6 dní voľna navyše, len tak, lebo ťa máme radi Legendárne teambuildingy Geeky game nights Hodiny angličtiny Možnosť homeoffice/remote práce Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Osobnostné predpoklady a zručnosti Aspoň 5 rokov skúseností v oblasti analýzy a spracúvania dát a/alebo Machine learning Výborné znalosti programovacieho jazyka Python Bohaté skúsenosti s SQL a NoSQL databázami Skúsenosti so Snowflake data warehouse Skúsenosti s AWS full-stack developmentom a znalosť servisov ako Athena, Glue, DynamoDB, EC2, EMR, RDS, S3 a Sagemaker je výhodou Skúsenosti s prácou s veľkými dátovými sadami a BI nástrojmi sú výhodou Inzerujúca spoločnosť Stručná charakteristika spoločnosti“Think globally, act locally."​
+We at Localhost are passionate group of tech enthusiasts, with strong software development history and expertise, agile mindset, and DevOps culture. Established in Kosice, Slovakia, we've evolved and grown in 10 years of time, to now be capable of serving the best global brands of the world.
+With more than 50 engineers, customer focus, continuous improvement, and growth attitude, we are proud to be the partner to several domestic and world-wide customers.
+See more: https://localhost.company/ Počet zamestnancov25-49 zamestnancov KontaktKontaktná osoba: Mgr.  Eva ČerveňákTel.: +421905060022E-mail: poslať životopis
+Všetky ponuky spoločnosti
+ID: 4514531 
+     Dátum zverejnenia:  6.2.2023 
+    2023-02-06
+lokalita: Košice   Pozícia: Databázový analytik, IT analytik, Python programátor   Spoločnosť: localhost s.r.o.   
+Základná zložka mzdy (brutto): 3 500 EUR/mesiac
+                Všetky ponuky

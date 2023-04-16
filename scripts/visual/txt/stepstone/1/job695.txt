@@ -1,0 +1,67 @@
+Jobs by email
+ZEISS
+Backend Software Engineer (f/m/x)
+München
+Permanent contract
+Full Time, Home office possible
+Published: 3 days ago
+Save
+Step out of your comfort zone, excel and redefine the limits of what is possible. That’s just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+   In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+   Join us today. Inspire people tomorrow.
+   Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+   Apply now! It takes less than 10 minutes.
+Ihre Rolle
+Thrive on innovation at a global technology leader. Develop exciting customer-centric digital solutions and business models in the diverse, dynamic and stable work environment at ZEISS Digital Partners. Join our inspiring colleagues in a modern workspace and benefit from our open culture. Cooperating closely with our ZEISS businesses around the globe, we enable the digital future @speed and @scale for ZEISS.
+We offer
+Modern technology stack - with room for you to try things out in a high-tech group
+Munich based permanent job with 40-60% hybrid work option
+Great colleagues and a lead to support your professional development from day one
+Your role at ZEISS Digital Partners
+To get the most out of their ZEISS equipment and be more successful in their business, ZEISS provides digital touchpoints for their B2B customers. These digital touchpoints come in many variations, but for the web-based ones, the Digital Customer Journey team of our Digital Customer Interaction Unit leads the way. 
+Because of our growing demand for (seamless and business transforming) digital self-service solutions the Digital Customer Journey team is looking for a user-focused Backend Software Engineer to join their ranks. 
+In this position you will contribute to further enhance the digital customer journeys by working with state-of-the-art tech stack, mainly based on Node.js and architecting & developing backend services focused on scalability, reliability and fault-tolerance. With your extensive knowledge and experience, you will also be contributing to further improvements in our development processes and shaping best practices within the engineering community. You will be working closely with your colleagues as an integrated member of a high-performing, interdisciplinary team consisting of a Product Owner, UX/UI Designers, other engineers and a QA engineer with a DevOps – mindset, not only developing backend solutions, but also testing, documenting and contributing with own ideas on how to improve the technical solutions.  
+This role is going to be based in Munich, Germany, and we support with your relocation, if applicable. We offer a hybrid option to work partly remote with 2-3 office days per week. 
+If you would like to know more about the role, kindly contact the responsible recruiter: Sandro Phan (sandro.phan@zeiss.com). 
+Ihr Profil
+at least 3 years of professional experience in a similar role in a self-organizing agile team 
+excellent skills in modern JavaScript (i.e. ES6 or later) and Node.js 
+You have a proven track record of building and contributing to highly logical and customer-centric products and features 
+Most of our services run with Node.js, but some minor ones run on .NET and Go. Hence, experience with .NET and Go is considered a plus 
+You embrace a full cycle production mindset and therefore have a solid understanding of REST architecture; testing and deployment is your bread and butter 
+a passion for problem-solving and eagerness to develop efficient backend services with a focus on scalability, reliability, and fault-tolerance 
+ability to understand business requirements, collaborate with software engineers within your team and across the organisation and translate requirements into a high-quality digital service 
+Because our language of daily work and interactions is English, a business proficiency in English is required 
+Your ZEISS Recruiting Team:
+Sandro Phan
+What we offer
+  Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+ZEISS
+81379 München, Germany
+Company Benefits
+Additional medical services
+Company pension
+Sport activities/facilities
+Flexible working hours
+Company laptop
+Fitness programs
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Company mobile phone
+Childcare
+Company medical officer
+Coaching
+Home office
+Company car
+Extra day off
+Public transport ticket
+Study allowance
+Car/Travel allowance
+Good transport connections
+The benefits listed are applicable to the company and can differ depending on the position or department.

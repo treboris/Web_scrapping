@@ -1,0 +1,78 @@
+Jobs by email
+Magna
+SW Test Lead (m/w/d)
+Sailauf
+Permanent contract
+Full Time, Home office possible
+Published: 6 days ago
+Save
+Group Description
+Magna's ADAS technologies are shaping an autonomous future and improving lives.
+Full autonomy is coming. But to create the technology which will bring it into view, you need the desire and ability to adapt complete ADAS systems or modular solutions to any vehicle, for any mobility need.
+Magna's electronics solutions connect OEMs to their customers with features that improve their lives. It's our expertise across the entire vehicle, key strategic partnerships and culture of innovation that allow us to make our industry-leading technologies road-ready. And it is how we'll continue to build a safer, smarter and more connected mobility experience for all people.
+Stellenbeschreibung
+Role Summary
+The Software Test Lead Engineer is responsible to plan, coordinate and report about all software test activities while still performing technical tasks (analyse software requirements, execute software test cases based on software requirements, architectural design and detailed software design).
+Key Responsibilities
+Acts as primary management interface (internal and customer) and escalation for all software test related issues. Execute software test in compliance with a formal ASPICE based Global Product Engineering Process (GPEP).
+Provides technical leadership and guidance in directing the efforts of the software test team of all relevant engineering deliverables in compliance with the Global Product Development Process (GPEP) based on ASPICE model. Support rest of the functional disciplines with all aspects related to software.
+Develops and provide Software Test Plan and Software Test Strategy for the project and for all applicable test levels (Software Component Test, Software Integration Test, Software Qualification Test).
+Decide about required test execution based on software test strategy for all applicable test levels.
+Meet engineering targets (quality, delivery timing, performance, engineering budget, etc.) for engineering deliverables.
+Responsible for project planning of Software Test (resources, timing, etc.).
+Ensuring reviews of Test Specifications and Test Concepts are completed and productive
+Ensuring reviews of Test Concepts and Environments are completed and productive
+Ensures the quality of all team deliverables meet standards and timing
+Analyze, review and execute software test effort estimations (e. g. based on static code analysis results)
+Evaluate and estimate about required resources (test personal, tools, ...)
+Assist in hiring of competent software test personnel
+Record and report risks related to Software Test and identify measures for risk mitigation
+Review and analyze software requirements to design and develop testing artifacts and provide input to software development teams on missing/deficient requirements.
+Develop and release all relevant verification engineering deliverables in compliance with a formal ASPICE based Global Product Engineering Process (GPEP) and customer expectations
+Participates in continuous improvement efforts, researches, recommends and initiates implementation of enhancements to products, processes and programs.
+Key Qualifications/Requirements
+Bachelor's degree in computer engineering / software engineering / electrical engineering / computer science or equivalent (Master's preferred)
+ISTQB Foundation Level certification
+ISTQB Advanced Level certification as a plus
+4-8 years' relevant experience regarding the Responsibility / Activities (listed above) for automotive electronics serial development projects (mandatory).
+Extended Knowledge of product development engineering practices in automotive field
+Related standards (ISO 29119, IEEE 829, ISO 25000, ISO 26262)
+Involvement in all phases of the Software Development Life Cycle (SDLC)
+Profound working knowledge in structured engineering approach
+Good understanding of Software Concepts described in UML
+Good understanding of Software Designs and Implementation in C and C++ code (C++11 and further extensions)
+Profound software management skills
+Profound knowledge about software test effort estimation
+Experienced working knowledge in specification and execution of software test on different software test levels (Software Component Test, Software Integration Test, Software Qualification Test)
+Experienced working knowledge in specification and development of software test environments on different software test levels (Software Component Test, Software Integration Test, Software Qualification Test)
+Profound experience in using a disciplined software development process based on ASPICE process model.
+Working knowledge of configuration management (preferably PTC/MKS)
+Knowledge of MS Office 365 Package (especially Excel, MS Teams, OneNote), MS Project
+ALM tools (PTC Integrity), etc, Vector tools (CANoe, Vector interface hardware), Enterprise Architect
+Knowledge about SW Test Tools like CANTATA or VectorCAST as a plus
+Comprehensive knowledge of English (verbal and written)
+Benefits
+Collegial, supportive and friendly working atmosphere with a "Duz" culture
+Attractive and performance-oriented compensation package
+Prospects and opportunities for personal and professional development through various training offers
+Individual work arrangements through flexible working hours and opportunities to use "Office Work" and "Mobile Work" personally
+Corporate benefits program
+International and diverse environment and open door culture
+Like this job?
+Your feedback will help us to improve your job search.
+Loading spinner
+Our Location
+Open map
+Magna
+63788 Sailauf, Deutschland
+Company Benefits
+Additional medical services
+Incentives & events
+Parking space
+Employee discount
+Cafeteria
+Meal coupons
+Company medical officer
+Coaching
+The benefits listed are applicable to the company and can differ depending on the position or department.
+Certificates

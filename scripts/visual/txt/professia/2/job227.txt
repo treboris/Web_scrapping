@@ -1,0 +1,112 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Data Scientist with MLOPS experience 
+Senior Data Scientist with MLOPS experienceADECCO Slovakia, s. r. o.
+Place of work
+Košice, Slovak Republic
+Contract type
+full-time
+Start date
+Immediately
+Wage (gross)
+2 000 EUR/month
+Information about the position Job description, responsibilities and dutiesPurpose of the job:
+The Senior Data Scientist as a member of the Record-to-Report Analytics Team of rhe company, you will be working with one of the most innovative Process Mining and Analytics solution. In this regard, you will face the following interesting tasks and challenges.
+Job content:
+• you will execute assigned tasks independently while bringing your own ideas, and improvement proposals, and selling them to the team and customers
+• in this position, you will assume an active role in assigned projects, lead your colleagues towards professional software development practices, and keep growing your soft skills (communication with customers, team organization, etc.)
+With the above in mind, your main tasks will be the following:
+• you will be responsible for the technical part of your projects which include designing & implementing prototypes of innovative applications in Python - your focus will be on Time Series Forecasting
+• you will be helping to identify possible use and application cases of data science across the company
+• you will be in search of optimizing the business and business processes with the power of data
+• you will cooperate with business (regular meetings and calls with internal customers regarding their needs), so the ability to explain technical specifics to business colleagues is a crucial part of this job
+• you will work with a variety of data science-related tools
+• you will actively take part and contribute to customer workshops Employee perks, benefits• Annual bonus
+• Fully paid meal vouchers
+• Phone and notebook for personal use
+• Discounts for selected products of the comapny
+• Supplementary pension saving contribution
+• Cafeteria system of benefits/Multisport card
+• Personal days
+• Sports club & Health days
+• Teambuildings, summer & Christmas party
+• Opportunities for career growth
+• Referral program
+• Flexible working time
+• Benefits for parents (contribution at the child´s birth, mobile phone during maternity leave) Information about the selection processThis position is being filled for our major client.Company on whose behalf the position is being filledTelecommunicationsAn international telecommunication company. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)Language skillsEnglish - Advanced (C1)Personality requirements and skills•Fluent English, ideally also Slovak and/or German
+•MSc in Computer Science (with ML/AI) or related is a plus but not a requirement
+•Solid ML/AI skills. The focus will be on Time Series Forecasting; however, the team also works on other fields of ML/AI
+•Experience in implementing ML/AI solutions end to end. We are looking for a new colleague that is not only able to provide an EDA and a successful POC, but also a solid MVP that is deployed into a production environment
+•Experience in MLOps: model registry tools (e.g., MLflow), data versioning tools (e.g., git), database usage (SQL, Postgres), and cloud-based technologies (MS Azure) is highly valuable
+•Python is our programming language of choice. You must be not only comfortable with working in Python but also have some experience with OOP, modular design, unit testing, and best coding practices
+•You are aware of and willing to apply agile methodology (esp. Scrum)
+•Versatile and proactive. You may not be familiar with all the required skills, but if you are motivated and can adapt rapidly, we are happy to help you (e.g., you have extensive knowledge in ML/AI but little in forecasting)
+•You enjoy working in the team and are willing to help more junior colleagues, are open to an international environment, and be able to travel occasionally within Europe
+•You are strong in communication with clients and explaining technical stuff to non-technical people
+•You are an analytical thinker, have an affinity for structure, grasp things fast and work systematically Advertiser Brief description of the companyThe Adecco Group is the world’s leading HR solutions partner. We provide more than 700,000 people with permanent and flexible employment every day. With more than 33,000 employees in 60 countries, we transform the world of work one job at a time. Our colleagues serve more than 100,000 organizations with the talent, HR services and cutting-edge technology they need to succeed in an ever-changing global economy. As a Fortune Global 500 company, we lead by example, creating shared value that meets social needs while driving business innovation. Our culture of inclusivity, fairness and teamwork empowers individuals and organizations, fuels economies, and builds better societies.  We make the future work for everyone. Number of employees50-99 employees ContactContact person: Petra SabóováTel.: +421902920990E-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4547290 
+     Dátum zverejnenia:  28.3.2023 
+    2023-03-28
+lokalita: Košice   Pozícia: Programmer, Software Engineer   Spoločnosť: ADECCO Slovakia, s. r. o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,61 @@
+				© 2023 Zoznam, s.r.o. Všetky práva vyhradené.
+ C++/Python Developer so záujmom o meteorológiu (Ref. č.: 1-16-40126)
+			08.03.2023		
+			Grafton Slovakia s.r.o.			
+Agentúra je členom asociácie personálnych agentúr Slovenska  
+ Miesto práce: 
+ BratislavaBratislava 
+ Pozícia / odvetvie: 
+ Informatika - software; Programátor 
+Ponúkaný plat (základná mzda):
+2200 - 3200 EUR
+ Druh pracovného pomeru: 
+ plný úväzok 
+ Počet voľných miest: 
+ 1 
+Informácie o pracovnom mieste
+ Náplň práce, informácie o pracovnom mieste: 
+ Pre slovenskú spoločnosť, svetového lídra v IT meteorologickom svete, hľadáme skúseného programátora so znalosťami jazyka C++ (skúsenosti s Pythonom výhodou), so záujmom o spoluprácu na výnimočných projektoch v špičkovom tíme IT špecialistov.
+Jedná sa hlavne o vývoj desktopových aplikácií na spracovanie a zobrazovanie meteorologických dát, určených pre meteorologické národné  a nadnárodné organizácie, armády a letiská na celom svete.
+Tech stack: C++, Python, XML/XSLT, Bash, Linux, Git, Jira/Confluence/Bamboo 
+ Benefity a ďalšie výhody: 
+ -	flexibilný pracovný čas
+-	hybridný spôsob práce (40% in office minimálne)
+-	Multisport karta
+-	hodiny angličtiny 1:1
+-	príspevky na stravu plne hradené zamestnávateľom 
+ Informácie pre uchádzača: 
+	Zašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku.
+Viac podobných pozícií nájdete na www.grafton.sk/sk/job-search?utm_source=jobboard&utm_medium=jobposition  
+Požiadavky na zamestnanca
+ Minimálne požadované vzdelanie: 
+ vysokoškolské II. stupňa 
+ Vhodné pre absolventov: 
+ Nie 
+ Všeobecne požadované znalosti: 
+ -	znalosť C++ a štandardnej knižnice
+-	otvorená myseľ a chuť učiť sa nové veci nie len v oblasti meteorológie
+-	skúsenosť s komplexnejšími SW projektami
+-	angličtina (B1)
+-	záujem o dlhodobú spoluprácu
+Výhodou:
+-	Frontend skúsenosti, Boost knižnica, Qt, UI design
+-	skúsenosť s GIS systémami (SHP, GeoJSON, GML)
+-	web development, cloud technologies (Amazon EC2)
+-	Linux, Windows administrácia	 
+Informácie o spoločnosti
+ Charakteristika spoločnosti: 
+ Spoločnosť Grafton Slovakia s.r.o., svetovo uznávaný poskytovateľ personálnych služieb a sprostredkovaní práce, je personálno-poradenská agentúra so širokou pôsobnosťou. V oblasti sprostredkovania práce ponúkame stále zamestnanie, dočasné úväzky, brigády, ale tiež prácu v zahraničí. Zameriava sa predovšetkým na ponuky práce v nasledujúcich oboroch: obchod, marketing, administratíva, financie, bankovníctvo, IT, engineering, výroba, farmácia, cestovný ruch a ďalšie. Okrem ponuky práce poskytuje aj personálne poradenstvo, napr. ako napísať životopis, sprievodný list či ako sa pripraviť na pohovor.
+Medzi široké portfólio Grafton služieb tiež patrí personálna inzercia na mieru, testovanie kandidátov, Assesment Centres, personálne a mzdové vedenie, konzultácie v oblasti ľudských zdrojov a Outplacement.
+Graftonu záleží na kvalite, a preto sa snaží na trhu sprostredkovania práce a personálneho poradenstva ponúknuť maximálne profesionálny servis. Práve preto implementoval európsky uznávaný systém riadenia kvality ISO 9001. Certifikát ISO 9001 prispieva k snahe spoločnosti Grafton vyhovieť požiadavkám jej zákazníkov v najlepšej možnej kvalite. Ku každému  zákazníkovi pristupuje individuálne s prioritou nájsť spoločné riešenie.  
+Reagovať na ponukuĎalšie ponuky spoločnosti
+Fakturant/ka v Trnave - aj pre absolventov! (Ref. č.: 1-7-41866)
+Trnava
+Špecialista HR procesov – HR reporting a kontroling (Ref. č.: 12-14-41660)
+Nové Mesto nad Váhom
+Aplikačný administrátor/inžinier (Ref. č.: 1-16-41058)
+Bratislava
+ODBORNÍK NA FINANČNÝ REPORTING (Ref. č.: 1-7-41856)
+Bratislava
+Iné možnosti práceInformatika - software Bratislava | Programátor Bratislava | Bratislava plný úväzok
+Späť na pracovné ponuky

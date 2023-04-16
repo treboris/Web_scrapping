@@ -1,0 +1,122 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+×
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceC++ Developer (senior)  Можливість для людей з України
+Careers
+Gallery
+C++ Developer (senior)
+                                Place of work
+                            Námestie Mateja Korvína, Bratislava, Slovakia (Job with occasional home office)
+                                Contract type
+                            full-time
+Information about the position Job description, responsibilities and dutiesWanna become a person who smiles when people are paying with their mobile phones, cards or withdrawing money from ATMs?
+And you are smiling because you know your code is allowing millions of people around a globe to use such a service!
+You might be writing a history in digital and authorization cards business.
+Join us in this dynamic area and fulfill your dream being successful developer.
+Your scope of work will be:
+•	Support us in software analysis, propose your own solutions
+•	Discuss with colleagues about potential direction and come to common consensus
+•	Be responsible for solution design and development
+•	Work on authorization part of card management system and satellite services in C/C++ language
+•	Evolve newly build integration platform – support the team in first steps in containerization and CI/CD framework
+•	Focus on performance, throughput  and business requirements at the same time
+•	Support testing colleagues who are sitting with you team
+•	Help colleagues with code review
+•	Share your knowledge with operations during SW installation Wage (gross)2 500 EUR/monthminimum 2 500 € + fixed allowances twice a year + bonus (base salary depends on candidates level of experiences and skills). You know, this is the formality we need to follow, but we are very open to discuss your salary expactations, do not hesitate to share with us! ;-) Employee perks, benefitsBe in the middle of innovative payment technologies and delivering unique pioneering solutions within Raiffeisen Bank International Group in CEE. Develop your career and upgrade your potential within the RPC company.
+1. Develop your potential in RPC
+Enjoy variety of internal and external trainings and develop your skills. Take a part in the internal RPC Academy, RPC Manager Academy, external soft and hard skills trainings (many finishing with certificates), courses, conferences, or meetups. We will contribute to your English training and offer you other online educational portals. We encourage our colleagues to move in RPC also internally by applying for vacant positions. Be one of our success stories!
+2. Hybrid model of work and work-life balance
+Enjoy being in the office with your colleagues, quickly solving all issues face to face. On the other hand, use home office during the month anytime you need. We give you also extra days-off like a vacation plus or sick days. We proudly also support working moms offering them part-time contracts if they want.
+3. Physical and mental health support
+Many of our colleagues relax by sporting activities. They enjoy benefits in the form of Multisport card with access to sport and wellness facilities, travel to RPC by bike (we have bike room and showers in the office) and are competing on our regular online challenges or sport days. RPC organizes regular Health Days where professionals/ doctors come directly to our office. But we do not stop there because we value also mental health of our colleagues. They may use help in the form of 1to1 sessions with professional counsellors.
+4. Office that you love to come
+If you are kind of a “office person” you may look forward to our modern premises. Great location near to the city center with access to many shops and dining places will please you, too. Unlimited caffeine and tea booster is to be used by anyone who needs it. Your health will be regularly supported by fruit days. Game and chill out zones in the office offer time to relax and switch of for a while. In addition, you can take the opportunity to have a tasty regular breakfast with our leaders.
+5. Benefits, that count (in real :))
+Last but not the least, we offer Cafeteria system for flexible choosing benefits of your interest (books, health care, sport & culture…), loyalty reward, transportation allowance and supplementary pension plan contribution (DSS) to think of the future too. Information about the selection process​Thank you very much for your interest in our job vacancies and RPC. Recruitment process may vary from position, seniority, or number of applicants, but you may expect:
+1) Short call with our HR where you will get basic information about RPC, team and first questions on your expectations and background
+2) Suitable candidates will be invited to the interview with manager and senior professional from the team will be sometimes available as well.
+We do our best to cut the process to minimum. On the other hand, we want to get to know you as much as we can, to find out whether it will work for both sides. Sometimes we use tests, reference check, or need extra meeting with you. Every candidate will receive an answer. Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Intermediate (B1)Other knowledgeC++ - AdvancedC - AdvancedSQL - AdvancedUNIX/Linux - AdvancedNumber of years of experience3Personality requirements and skillsWe are looking for a candidate (all genders) who:
+•	has an analytical mind, of course
+•	who is able to work within smaller team (up to 4-5 people)
+•	having sense for detail and resposibility – which working in card business really requires
+•	and if you are able to read this your English is on active level ;-)
+and you should have this technical skills:
+•	C/C++ developer – the best is 2-3 years of experience, but welcome are also candidates with less years of experience, just let us know about you :)
+•	SQL – advanced
+•	Unix / Linux based system work – advanced
+•	GIT, bash
+•	monitoring and visualisation tools (ZABBIX, Grafana, ELK) - are welcomed
+Advertiser
+Brief description of the companyRPC is dynamic regional IT service provider operating in the banking payment industry.
+Growing double-digit in processing volumes and bringing fresh, innovative payment technologies across the European region guarantees our employees are part of many exciting projects with Raiffeisen banks in multiple CEE countries. Often delivering unique pioneer solutions resulting in ‘’1st in the market’’ awards means our work is recognized and appreciated throughout the whole region. We are setting the bar for innovation and you can be part of it!
+RPC, as a centre of competence for card issuing, acquiring and digital payments is securely processing all transactions originated by the cards of our group banks or banks payment devices. We aim to provide the best reliable solutions for both, debit and credit card national-specific markets, and to be flexible when finding the ways to fulfil customer changing business needs.
+Besides Tatra banka in Slovakia, we are proud to have among our clients Raiffeisen Banks from Austria, Albania, Bulgaria, Czech Republic, Croatia, Romania, Serbia and Kosovo having a continuous customer base growth.
+RPC was established in 2000 as a division of Tatra banka, and with more than 20 years of success stories we provide services in the area of issuance and acceptance of payment cards to member banks of the Raiffeisen bank International Group. The separate company was established in 2008 as a Shared Service Centre to centralize the group’s card payment operations and to achieve high efficiency and price competitiveness.
+Number of employees200-249 employeesContactContact person: Lucia OpluštilE-mail: send CVSend CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+Follow us
+ID: 4525534 
+     Dátum zverejnenia:  23.3.2023 
+    2023-03-23
+lokalita: Bratislava   Pozícia: C Programmer, C++ Programmer, Programmer   Spoločnosť: RPC   
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetky ponuky
+            Prihlásiť
+Tip
+        Vytvorte si životopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,78 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Senior Data Engineer (Budapest)
+Senior Data Engineer (Budapest)
+A hirdetés már lejárt!
+Randstad Hungary Kft
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Our Partner is a global technology company supplying systems for passenger cars, commercial vehicles and industrial technology, enabling the next generation of mobility.
+Senior Data Engineer
+Feladatok
+Understanding business needs around big data integration, data engineering, and data operations to build end-to-end data pipelines for analytics purposes
+Designing and implementing, highly performant data ingestion & transformation pipelines from multiple sources using Azure Data Factory, Databricks, and Spark/Scala/Python
+Orchestrate, Automate, and maintain, and testing of Data Pipelines using Azure DevOps.
+Continuously improve optimize our data and data pipeline architecture, as well as optimizing data collection and data flow
+Work with IT domain teams and business partners, to assist with data-related technical issues and support the end-to-end production operations of data pipelines for our Process Mining team
+Követelmények
+A Bachelor's degree or higher in Computer Science
+5+ years of experience extracting data from SAP systems, building data pipelines using Azure Data Factory and Databricks Spark using Scala and/or Python
+Sound knowledge of Data Warehousing concepts, Data models, and big data lake environment(s)
+Proven experience in data analysis and writing data processing rules for ETL/ELT/ process in a warehouse environment
+High levels of energy and enthusiasm to work in a multi-cultural global team and work towards common objectives
+Amit kínálunk
+Stable company background and long-term working possibility
+Full of challenges and high-level professional activities at an international company
+Participation in international projects and commission to foreign countries
+Career opportunities, continuous training program and language courses
+Competitive salary and performance-related bonus 
+Cafeteria with optional elements
+Home office work
+School start support
+Munkavégzés helye
+Budapest
+Neked ajánlott állások
+Neked ajánlott állások
+Thyssenkrupp -
+Senior PLM / ALM Application Engineer
+Deutsche Telekom IT Solutions -
+Data Engineer - Data Warehousing (SQL/Python)-German Speaking REF1478Z
+Deutsche Telekom IT Solutions -
+Security Analyst (REF92A)
+Deutsche Telekom IT Solutions -
+IT Security Manager (Corporate Security) (REF822R)
+Deutsche Telekom IT Solutions -
+IT Security Manager (REF1606M)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Szeged
+Győr
+Pécs
+Kecskemét
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

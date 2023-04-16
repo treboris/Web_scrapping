@@ -1,0 +1,45 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Our Partner is a global technology company supplying systems for passenger cars, commercial vehicles and industrial technology, enabling the next generation of mobility. We are looking for Data and AI Solution Architect colleagues to be part of their team. 
+Design and support implementation and operation of cloud Data Science, Data Analytics and Artificial Intelligence solutions in accordance with the strategically set technology stack
+Understand and translate business requirements in appropriate system design for full -life-cycle development projects and software products in a cross-functional team of Analytics and Artificial Intelligence solutions
+Establish Data and AI architecture and solution design related routines, develop and adhere to standards and guidelines in alignment with our Enterprise Architecture Management
+Ensure usage of strategic systems and a sustainable incorporation of Data and AI Solution Design skills and knowledge within our Partner and actively advise internal customers on related questions
+Engage in national/international data, tech & architecture communities and support the firm to stay up to date to market developments
+                Elvárások / Requirements
+Bachelor’s degree (Masters preferred) in Computer Sciences / Information Technology (or equivalent) with fundamental knowledge of Solution Design in data science, (big data) analytics and AI technologies, processes and procedure models
+3+ years of experience in a Solution Design or Architectural role preferably in (Big Data) Analytics, cloud/software applications and other related disciplines
+Good knowledge of Cloud solution designs associated data, analytics and ML frameworks/libraries and analytics tools and technology (Microsoft Azure Cloud, Databricks, MLflow, DevOps, CI/CD pipelines and automation etc.)
+Passion for data, always striving to learn new things and at the same time applying your skills and new technology to bring value to our business partners
+Highly motivated and open personality, outstanding ability to communicate, personal commitment, organizational skills, flexibility, creativity, teamwork
+Experience working in agile teams, comfortable working with geographically distributed teams.
+Excellent verbal and written English language skills
+                Amit nyújtunk / Benefits
+Stable company background and long-term working possibility
+Full of challenges and high-level professional activities at an international company
+Participation in international projects and commission to foreign countries
+Career opportunities, continuous training program and language courses
+Competitive salary and performance-related bonus 
+Cafeteria with optional elements
+Home office work
+School start support
+Data and AI Solution Architect 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 03.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Data Architect 
+ Budapest  
+ Solution Architect 
+ Budapest  
+ Solution Architect 
+ Budapest  
+ IT Architect (.NET) 
+ Budapest  
+ Senior Data Engineer 
+ Budapest  
