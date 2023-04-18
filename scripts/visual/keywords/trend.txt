@@ -1,0 +1,12 @@
+git
+sap
+backend
+frontend
+junior
+senior
+medior
+Angular
+React
+AutoCAD
+linux
+Scrum

@@ -1,0 +1,8 @@
+Cloudways
+Hostinger
+AWS
+Google Cloud
+Microsoft Azure
+IBM Cloud
+Oracle Cloud
+Alibaba Cloud

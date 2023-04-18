@@ -4,10 +4,16 @@ import shutil
 import glob
 import re
 import os
-import time
+import sys
 
 keywordtxt = {}
 matches = {}
+
+try:
+    arg_kw = sys.argv[1]
+except(IndexError):
+    arg_kw = 'selyetanterv'
+
 
 #FILL keywords LIST
 def keyword(name):
@@ -33,13 +39,13 @@ def barchart():
     plt.title("Kulcsszógyakoriság adott szöveghalmazban")
     ax.set_title('Programozási nyelvek es egyebek basszod')
     ax.bar(*zip(*data.items()), color=['brown' , 'darkolivegreen','steelblue' , 'chocolate'])
-    ax.set_ylim(0, 5000)
+    ax.set_ylim(0, 4000)
     ax.set_ylabel('Gyakoriság')
     plt.show()
 
 #REGEX
 def keyword_search():
-    keyword('sulibantanultak.txt')
+    keyword(f'{arg_kw}.txt')
     with open(f'data/full_main/full_main.txt') as main:
         lines = main.read().splitlines()
         for line in lines:
@@ -58,4 +64,3 @@ def keyword_search():
 
 keyword_search()
 barchart()
-print(matches)

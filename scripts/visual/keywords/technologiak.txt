@@ -6,7 +6,6 @@ Python
 Flask
 Java
 
-
 TypeScript
 HTTP protocol
 HTML
@@ -73,7 +72,6 @@ CloudOps
 hazelcast
 Vaadin
 LabVIEW
-
 
 ISO 26262
 APIS IQ-RM

@@ -1,0 +1,19 @@
+Javascript
+Python
+GO
+Java
+Kotlin
+PHP
+C#
+Swift
+Ruby
+C++
+Matlab
+TypeScript
+Scala
+ SQL
+ HTML
+ CSS
+ NoSQL
+ Rust
+ Perl
