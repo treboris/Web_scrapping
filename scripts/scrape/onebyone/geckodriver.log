@@ -3618,3 +3618,18 @@ DevTools listening on ws://127.0.0.1:57457/devtools/browser/1f40ddcd-1006-40bb-b
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1682015841773	geckodriver	INFO	Listening on 127.0.0.1:39085
+1682015842270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXRnK6V"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682015842905	Marionette	INFO	Marionette enabled
+1682015842910	Marionette	INFO	Listening on port 40697
+Read port: 40697
+WebDriver BiDi listening on ws://127.0.0.1:55485
+1682015843048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXRnK6V/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55485/devtools/browser/5d6f44ce-3946-448a-8770-c1464d47f6f7
