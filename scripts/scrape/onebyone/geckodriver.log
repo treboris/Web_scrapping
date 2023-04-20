@@ -3633,3 +3633,4 @@ console.error: ({})
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXRnK6V/search.json.mozlz4", (void 0)))
 [ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
 DevTools listening on ws://127.0.0.1:55485/devtools/browser/5d6f44ce-3946-448a-8770-c1464d47f6f7
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
