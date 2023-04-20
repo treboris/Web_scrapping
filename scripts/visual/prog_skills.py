@@ -8,7 +8,6 @@ import sys
 
 keywordtxt = {}
 matches = {}
-
 try:
     arg_kw = sys.argv[1]
 except(IndexError):
@@ -23,11 +22,13 @@ def keyword(name):
             keywordtxt[l.casefold()] = 0
 
 def add_labels():
+    global max_value
     labels = []
     for x in matches.values():
         labels.append(x)
     for i in range(len(labels)):
         plt.text(i, labels[i], labels[i], ha = 'center')
+    max_value = max(matches,key=matches.get)
 
 
 def barchart():
@@ -39,14 +40,14 @@ def barchart():
     plt.title("Kulcsszógyakoriság adott szöveghalmazban")
     ax.set_title('Programozási nyelvek es egyebek basszod')
     ax.bar(*zip(*data.items()), color=['brown' , 'darkolivegreen','steelblue' , 'chocolate'])
-    ax.set_ylim(0, 4000)
+    ax.set_ylim(0,matches[max_value]+1000)
     ax.set_ylabel('Gyakoriság')
     plt.show()
 
 #REGEX
 def keyword_search():
     keyword(f'{arg_kw}.txt')
-    with open(f'data/full_main/full_main.txt') as main:
+    with open(f'../../data/full_main/full_main.txt') as main:
         lines = main.read().splitlines()
         for line in lines:
             #time.sleep(1)

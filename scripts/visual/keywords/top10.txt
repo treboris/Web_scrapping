@@ -11,9 +11,9 @@ C++
 Matlab
 TypeScript
 Scala
- SQL
- HTML
- CSS
- NoSQL
- Rust
- Perl
+SQL
+HTML
+CSS
+NoSQL
+Rust
+Perl
