@@ -1,0 +1,112 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava developer  Можливість для людей з України
+Java developerSlovShore, s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiacVýsledná mzda bude dohodnutá na osobnom stretnutí. Každého kandidáta posudzujeme individuálne na základe preukázaných znalostí a nadobudnutých skúseností.
+Prípadne práca na živnosť od 280Eur MD
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti•	programátorské práce podľa zadania s využitím agilnej metodiky a pravidiel písania zdrojového kódu,
+•	testovanie správneho fungovania svojho kódu
+•	návrh algoritmov a technický spôsob riešenia zadanej úlohy 
+•	tvorba technickej dokumentácie k riešeniu
+Uchádzač by mal byť schopný navrhovať a tvoriť:
+•	tvorbu zdrojového kódu podľa zadania
+•	modelovanie dávkových procesov v definovanom nástroji 
+•	optimalizáciu existujúcich riešení
+•	technickú dokumentáciu Zamestnanecké výhody, benefity-	Technické kurzy, certifikácie
+-	Možnosť profesijného a osobného rastu
+-	Mobilný telefón 
+-	Príspevok na stravovanie
+-	Sick days
+-	Dovolenka navyše
+-       DDS Informácie o výberovom konaní​Kontaktovať budeme len uchádzačov, ktorí spĺňajú stanovené kritériá danej pracovnej pozície. Zaslaním životopisu súhlasíte so spracovaním osobných údajov.
+Stačí kliknúť na „Poslať spoločnosti životopis"
+Tešíme sa na Vás ! Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreInformačné technológie, programovanie, matematika, štatistikaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiJava - PokročilýPozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnostiUchádzač by mal mať prehľad v nasledujúcich oblastiach:
+•	dávkové spracovanie veľkého objemu údajov
+•	optimalizácia prenosov spracovania údajov
+•	nástroje na integráciu údajov 
+Skúsenosti s nasledovnými metodikami, nástrojmi a technológiami
+•	agilná metodika vývoja software SCRUM, použitím nástrojov JIRA, Confluence
+•	Java, vývoj na báze architektúry mikroslužieb
+•	znalosť Spring,  Spring Boot
+•	version control system Git, build pomocou Maven
+•	kontajnerizácia pomocou Docker, orchestrácia použitím Docker Swarm alebo Kubernetes
+•	znalosť relačných databáz PostgreSQL, MySQL, MariaDB alebo iné
+•	objektovo relačné mapovanie nástrojom Hibernate
+•	Integrácia pomocou ApacheCXF alebo Apache Camel
+•	Continuous Integration/Continuous Delivery, Jenkins alebo GitLab
+•	návrh a implementácia WS na báze REST alebo SOAP rozhrania 
+•	frontend technológie AngularJS, NodeJS alebo REACT
+•	autentifikácia OAuth, OpenID Connect pomocou KeyCloak Inzerujúca spoločnosť Stručná charakteristika spoločnostiSlovShore je mladá a dynamická spoločnosť so sídlom na Slovensku, ktorá navrhuje a dodáva technologické služby a zameriava sa na poskytovanie outsourcingových služieb v sektore informačných a komunikačných technológií. Počet zamestnancov25-49 zamestnancov KontaktE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4221586 
+     Dátum zverejnenia:  28.3.2023 
+    2023-03-28
+lokalita: Práca z domu   Pozícia: Java programátor, Programátor, Softvérový inžinier   Spoločnosť: SlovShore, s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

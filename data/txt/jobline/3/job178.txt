@@ -1,0 +1,93 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Intermediate DevOps Engineer (Budapest)
+Intermediate DevOps Engineer (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Intermediate DevOps Engineer
+Job Description Summary:
+As a Cloud DevOps Engineer, you will work on an agile team with developers from internal business units to deliver business value and outcomes. You will help to develop, test, and implement infrastructure code to assist the team in achieving their goals. Work will be done start to finish by an intact cross-functional team using an agile methodology,
+and employing the assistance of a scrum master, product owner, and agile coach. Each member of the team brings unique technical skills and strives to cross train to gain additional technical knowledge across multiple disciplines in an exciting and dynamic work environment.
+What You Will Do:
+Develop, Deploy and Support Cloud Infrastructure, as code artifacts or modules Install and Maintain Cloud infrastructure and applications
+Support and deliver using Continuous Integration/Continuous Delivery pipelines
+Support resiliency and scalability using AWS and other cloud platforms
+Enable systems with automated monitoring and alerting
+Support the Team and Customers with day-to-day requests, Change and Incident tickets
+Support Technology stack refresh on Systems (end-to-end) when required
+Ensure automated security is built into each technology stack
+Understand and respond to emerging requirements and ambiguous technology decisions
+Aegon is a multinational financial services group headquartered in The Hague, the Netherlands. The company has multiple locations across the globe, with core markets in The Netherlands, the UK, and the US, growth markets in China, Brazil, and Iberia, and an Asset Management organization with locations in the UK, US, NL, and Hungary. Aegon Global Business Solution Center is supporting these businesses with IT, Finance, Risk, Model Validation, Actuarial, Audit, and Asset management services with a growing team of approx. 300 people, based in Budapest, Hungary.
+At Aegon, they foster a diverse workforce and an inclusive culture. They are a people business, and they recognize that delivering excellent client outcomes comes from harnessing distinct perspectives. They value diversity in the full range of human uniqueness without limitation, including race, gender, ability, language, culture, beliefs, age, origin, background, perspectives, and experiences.
+What You Will Need:
+Qualifications
+Four-year Computer Science or related degree, or equivalent work experience
+Experience in supporting enterprise-level platform installations
+Experience working with cloud providers (Azure/ AWS, etc..)
+Experience with Agile development and planning methodologies
+Experience in performance monitoring, alerting and troubleshooting in an enterprise
+Understanding of the internet and hosting from the network layer up through the application layer
+Preferred
+Experience working in roles with a focus on security, including automated alerting and response
+An understanding of API’s and API Security
+An understanding of automated code testing
+Certifications in relevant technologies, methods, or platforms
+Demonstrate the key critical behaviors of commitment to task, communication, customer focus, decision making/problem solving,  tolerance of ambiguity, planning, prioritizing, and goal setting
+Compensation:
+Competitive salary
+Comprehensive health package
+ Brand new office at an excellent location
+ Hybrid working
+Opportunities for growth and advancement
+ A highly people centric, positive and supportive work environment
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+Randstad Hungary Kft -
+Software Engineer
+Deutsche Telekom IT Solutions -
+Learning and Development Expert (Experienced/Senior) - REF1664I
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Deutsche Telekom IT Solutions -
+Senior FullStack Fejlesztő (REF1657B)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

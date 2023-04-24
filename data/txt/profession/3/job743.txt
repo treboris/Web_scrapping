@@ -1,0 +1,103 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Veszprém megye
+Veszprém
+DevOps engineer
+CAE Healthcare Kft.
+8200 Veszprém, Almádi út 3.
+ Elvárt technológiák
+LINUX
+SCRIPTING
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Monitor (2 db)
+Linux
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Sport támogatás
+ Elvárt technológiák
+LINUX
+SCRIPTING
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Monitor (2 db)
+Linux
+CAE Healthcare Kft.
+Tapasztalt vagy a tervezésben, fejlesztésben, tesztelésben, hibakeresésben és megvalósításban? Ha a válasz igen, akkor összetett rendszereink fejlesztésére, automatizálásra, modernizálásra várunk Téged DevOps Engineer munkakörben. Az egyik legizgalmasabb informatikai kihívás, a szimulációs technológia területén kínálunk megoldásokat az egészségügyi képzésben. Töretlenül fejlődünk, jelenleg több, mint 800 egyetemmel, tanulókórházzal állunk kapcsolatban világszerte.  A cloud és infrastruktúra részlegünkkel együttműködve egy automatizált rendszer kialakítására keresünk új kollégát.
+Bővülő csapatunkba
+DevOps engineer
+munkatársat keresünk.
+Főbb feladatok, munkák:
+Miért lesz igazán izgalmas számodra ez a munkakör?orvosok vizsgáznak a termékkel, amit fejlesztünk világszerte, az orvos- és ápolóképzés megújításában veszünk részt,  világszinten első oktatási szimulációs szoftvert fejlesztünk, üzemeltetünk,magasszintű Linux, VMware, Jenkins, Azure Devops tapasztalatod kamatoztathatod, fejlesztheted,  multinacionális háttérrel egy összetartó, lelkes csapat tagjai vagyunk Magyarországon.  Milyen feladatokra számíthatsz?Meglévő (laptop, all-in-one, szerver, virtuális szerver) és jövőbeli hardver platformjaink támogatásának fenntartása és modernizálásaA platformokra szánt szolgáltatás-alapú rendszer alapjainak megtervezésében való részvétel és annak implementációja, átállás automatizálása a meglévő rendszerrőlA szoftver-licenszelési folyamataink modernizálásaA rendszer-támogató infrastruktúra újratervezése és cloud-migrációjában való részvételA meglévő CI / CD rendszerek fejlesztése, üzemeltetése és karbantartásaSzoros együttműködés a fejlesztési és üzemeltetési csapattal
+Az álláshoz tartozó elvárások:
+Várjuk jelentkezésed, ha tapasztalt vagy az alábbiakban:Linux,Szkriptnyelv (pl: Perl),Angol nyelv rendszeres használataElőny:Szerver virtualizáció (pl: VMware, XEN), konténer-alapú szolgáltatások (pl: Docker, k8s),CI/CD pipeline (pl: Jenkins),Automatizálás és a konfigurációkezelés (pl: Ansible, Chef).
+Amit kínálunk:
+Milyen körülményekre számíthatsz?Nemzetközi partnerek/ügyfelek hat kontinensen.A CAE Healthcare egy kis létszámú iroda, lapos szervezeti hierarchiával és összetartó csapattal.Home office heti 2 nap megoldható. A laptop és all-in-one változat rendelkezik saját monitoros user interface-szel, ami miatt szükséges az irodai jelenlét. A „google” hangulatú irodában mindig jó társaságod lesz, hisz mások is szívesen bejárnak.A modern, fancy irodában állítható magasságú asztalok, ergonomikus székek és lézerkardok várnak. Már ezért érdemes bejárni.Kávé, tea, snack és gyümölcs mindig vár.Irodánk könnyen megközelíthető (Veszprém, Almádi út 3. 2. em).Kiemelt napi munkába-járási támogatás (nettó 40 Ft/km).Ingyenes, sorompóval zárt parkolót használunk.Járhatsz akár biciklivel is tároló, zuhanyzó biztosított.  Amit mindezek és a versenyképes fizetés mellé nyújtunk: Korlátlan szabadságnapokExtra apaszabadság (gyermek születésekor max 40 nap)Nemzetközi projektekben való részvétel  Hozzáférés több ezer online kurzushoz a LinkedIn Learning felületén  Ingyenes online nyelvoktatás  SZÉP-kártya juttatás: havi nettó 30.000 Ft Kiemelt napi munkába-járási támogatás (nettó 40 Ft/km)  
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezés módja:
+Részt vennél a jövő oktatási platformjának fejlesztésében?Szimulációval életek menthetők. Csatlakozz hozzánk DevOps engineer munakörben. A “Jelentkezem” gombbal küldheted el szakmai önéletrajzod.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Sport támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+CAE Healthcare Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Információ-technológiai szaktanácsadás
+50-100 munkavállaló
+2010
+8200
+Veszprém,
+Almádi út 3. 2. em.
+Munkahelyi extrák
+Céges étkező
+Zuhanyzási lehetőség
+Céges rendezvények
+Kerékpártároló
+Parkoló
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Játéksarok
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

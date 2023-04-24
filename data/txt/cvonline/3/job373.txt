@@ -1,0 +1,43 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Embedded SW Engineer 
+Embedded Software Engineer
+Budapest, XI. District
+YOUR RESPONSIBILITIES:
+• Participate in our embedded software development projects for biggest automotive manufacturers
+• Design, implementation and verification of embedded ECU software, including Network-communication, OS, Memory-management, Bootloader, etc.
+• Negotiating technical requirements with internal partners / external customers
+REQUIREMENTS:
+• University degree in computer engineering / information technology / electrical engineering
+• In-depth knowledge of C programming language, experience in embedded software development
+• Basic knowledge of low-level communication standards (SPI, I2C, CAN, etc.)
+• Basic knowledge in electrotechnics and measurement theory
+• Fluency in written and spoken English (German is advantage)
+• Good communication, presentation skills, strong team player
+WHAT WE OFFER:
+• Health-oriented working environment (electronically height-adjustable desks, 3-screen workstations, private medical care, free fruits, sport & game nights, etc.),
+• Work in a young and experienced group with supportive, friendly atmosphere with dedicated induction-training period; mentor program and further technical, language & soft-skill trainings,
+• Flexible working time, possibility to work from home,
+• International working environment,
+• Develop solutions for the largest car manufacturers and their suppliers
+Jelentkezem
+Elmentem az állást
+Embedded SW Engineer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 18.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Embedded SW Engineer 
+ Budapest  
+ Embedded Software Test Engineer 
+ Budapest  
+ Senior Embedded Software Engineer 
+ Budapest  
+ Embedded Software Engineer 
+ Budapest  
+ Embedded Software Systems Test Engineer 
+ Budapest  

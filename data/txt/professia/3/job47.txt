@@ -1,0 +1,115 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava + React Developer 
+Java + React DeveloperSTENGL a.s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+30 - 33,5 EUR/hod.sadzba od 30 EUR/hod v závislosti od skúseností kandidáta
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiPre nášho dlhoročného klienta hľadáme Java/React vývojára. 
+Tvojou úlohou bude:
+• realizácia server side FE vývoja (Java) a client side FE vývoja (Java/React) v spolupráci s Java BE vývojármi,
+• vyvíjať nové, udržovať a modernizovať, 
+• obrazovky/formuláre renderovené server side (java FE vývoj) alebo client side (java FE vývoj + React) spôsobom,
+• prezentačnú logiku, mapovanie dát na back-end API, orchestráciu volaní API a Java front-end API pre React aplikácie,
+• spracovávať dodané HTML šablóny od UI tímu,
+• dodržiavať používané vývojové štandardy, vzory a postupy,
+• implementovať riešenia tak, aby spĺňali požiadavky v oblasti škálovateľnosti, dostupnosti, výkonnosti a bezpečnosti,
+• analyzovať a odstraňovať funkčné nedostatky softvéru,
+• testovať (svoj) zdrojový kód a konfiguráciu,
+• inštalovať a konfigurovať vyvinutý softvér. Zamestnanecké výhody, benefity• kurzy nemeckého a anglického jazyka,
+• rôzne športové a relaxačno-regeneračné aktivity,
+• 200 eur na vlastne športové a relaxačno – regeneračné aktivity,
+• plne preplácané stravné lístky (len pri TPP),
+• príspevok na DDS (po 12. mesiacoch) (len pri TPP),
+• bonusy pri jubileách vo firme,
+• bonusy pri narodení dieťaťa,
+• firemné akcie,
+• 2dni sick day ročne (len pri TPP).
+Ponúkame tiež:
+• atraktívnu, rôznorodú prácu na zaujímavých projektoch,
+• kvalitné technické vybavenie, vyspelú IT infraštruktúru,
+• možnosť profesionálneho rastu,
+• motivujúce finančné ohodnotenie s možnosťou pravidelného prehodnotenia,
+• možnosť vzdelávania a výberu rôznych školení (hard skill / soft skill). Informácie o výberovom konaníVšetkým záujemcom, ktorí nám zaslali profesný životopis, ďakujeme za prejavený záujem pracovať v našej spoločnosti. Pre veľké množstvo uchádzačov si vyhradzujeme právo kontaktovať len uchádzačov s požadovanými predpokladmi uvedenými v zaslanom CV.
+Životopisy a prípadné motivačné listy s kontaktnými údajmi posielajte na email: [email protected] Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboretechnické zameranieJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Počet rokov praxe5Osobnostné predpoklady a zručnosti• skúsenosť s React min. 2 roky,
+• dobrá znalosť Java/Java EE/Spring,
+• skúsenosť s verzionovacím systémom (Git/Mercurial/Bazaar/SVN ...),
+• skúsenosť s technológiami REST/JSON (SOAP/XML výhodou).
+Nice-to-have:
+• skúsenosť so serverovým webovým frameworkom (JSP/JSF/Thymeleaf/Struts/Wicket ...),
+klient používa Thymeleaf, je možnosť sa do toho zaškoliť (nič zložité :))
+• skúsenosť s aplikačným serverom (Tomcat/JBoss/WebSphere/Weblogic ...),
+• výhodou sú skúsenosti s vývojom portletov,
+• výhodou sú skúsenosti s JS, CSS,
+• výhodou sú skúsenosti s Jenkins,
+• požadované skúsenosti a zručnosti vývojára na medior/senior úrovni. Inzerujúca spoločnosť Stručná charakteristika spoločnostiSTENGL je IT konzultačná spoločnosť a súčasne softvérový dom, ktorý realizuje vlastné interné projekty ako aj projekty u zákazníkov, prostredníctvom skúsených IT expertov a odborníkov z rôznych doménových oblastí.
+STENGL je spoločnosť, ktorá má viac ako 22 ročné skúsenosti na slovenskom a českom trhu, ako aj v nemecky hovoriacich krajinách. Máme za sebou desiatky tisíc konzultačných a vývojových hodín pre našich klientov naprieč všetkými sektormi národného hospodárstva. Na Slovensku sme historicky jeden z najväčších poskytovateľov IT služieb pre klientov z nemecky hovoriacich krajín. Počet zamestnancov100-149 zamestnancov KontaktKontaktná osoba: HRE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4558794 
+     Dátum zverejnenia:  17.4.2023 
+    2023-04-17
+lokalita: Bratislava   Pozícia: Programátor   Spoločnosť: STENGL a.s.   
+Základná zložka mzdy (brutto): 30 EUR/hod.
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

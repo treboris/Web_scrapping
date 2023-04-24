@@ -1,0 +1,70 @@
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Budapest
+DevOps mérnök
+Prohumán 2004 Kft.
+I. kerület
+ Elvárt technológiák
+DEVOPS
+LINUX
+BASH
+PYTHON
+DOCKER
+ Módszertanok és szoftverek
+Jenkins
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+1-3 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+DEVOPS
+LINUX
+BASH
+PYTHON
+DOCKER
+ Módszertanok és szoftverek
+Jenkins
+Prohumán 2004 Kft.
+Partnerünk vezető szereplő a hazai middleware szoftver megoldások piacán immár több mint 10 éve. Ügyfeleik között megtalálhatók a hazai legnagyobb bankok, pénzintézetek és biztosítók, számos nagy telekommunikációs vállalat, valamint gyógyszergyár és közmű szolgáltató is.
+Szakértő csapataiknak köszönhetően az auditálástól, a tanácsadáson, tervezésen át a konkrét megvalósításig, majd azon túl üzemeltetésig és supportig átfogó, teljes körű szolgáltatást nyújtanak ügyfeleiknek.
+DevOps mérnök
+Főbb feladatok, munkák:
+Szoftver fejlesztési és szállítási láncok (CI/CD) tervezése, építése és támogatása  Az üzleti alkalmazások fejlesztéséhez, kiadáskezeléséhez és üzemeltetéséhez kapcsolódó folyamatok automatizálása  Monitorozási rendszer fejlesztése, hibakeresés, hibajavítás  A hatékony működés előmozdítása fejlesztés és üzemeltetés között, illetve részvétel a folyamatok fejlesztésében, javításában  Legfrissebb DevOps metodológiák implementálása  A vállalat fejlesztési és üzemeltetési módszertanára vonatkozó javaslatok és ajánlások megfogalmazása  Részvétel az alkalmazások üzemeltetésével kapcsolatos Workshoppokon az ügyfelek számára
+Az álláshoz tartozó elvárások:
+Minimum 2-3 év DevOps, Rendszertámogató, Rendszerüzemeltető pozícióban szerzett tapasztalat  Linux operációs rendszer mélyebb ismerete  Erős scriptelési tudás: Bash/Python/Power Shell/Groovy  Jenkins, Gitlab vagy hasonló Continuous Integration rendszer tapasztalat  Jártasság DevOps technológiák használatában (pl. Docker, Kubernetes, Openshift, OKD, Minishift)
+Amit kínálunk:
+Stabil hátterű, dinamikusan fejlődő szervezet sikereiben való részvétel  Szakmai képzések, szertifikációk megszerzésének támogatása  Támogató szakmai légkör, összetartó csapat  Modern irodai környezet frekventált lokációban, heti 3 nap otthoni munkavégzés  Nyáron rövidített pénteki napok biztosítása  Kirándulások, gyümölcsnapok és még sok más közös program
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Jelentkezés az állásra:
+Várjuk jelentkezését!
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+1-3 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

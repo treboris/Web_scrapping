@@ -1,0 +1,75 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Budapest
+Oracle PL/SQL Developer (100-16-42822/PR)
+Grafton Recruitment
+Budapest VIII. kerület
+ Elvárt technológiák
+ORACLE
+SQL
+BI
+PLSQL
+ORACLE.
+LINUX
+ACCESS
+ Módszertanok és szoftverek
+Troubleshooting
+Incident management
+Agile
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elvárt technológiák
+ORACLE
+SQL
+BI
+PLSQL
+ORACLE.
+LINUX
+ACCESS
+ Módszertanok és szoftverek
+Troubleshooting
+Incident management
+Agile
+Grafton Recruitment
+Oracle PL/SQL Developer (100-16-42822/PR)
+Feladatok:
+We are looking for a System Specialist Oracle for the operation and further development of the IT application system BI Health ABS on the BI platform. The IT application system Business Intelligence (BI) Health ABS creates the data basis for different areas (actuarial, pricing, controlling etc.) for Allianz Private Krankenversicherung (private health insurance).Main tasks:Troubleshooting disruptions and system problems:- Daily monitoring of ETL chains- Technical Problem & Incident management (error categorization, -assessment and -correction)- Monitoring and reporting of system availability / resource consumption- Analysis and optimization of performance problems in Oracle- Daily processing of the mail inbox and checking of problem reports and analysis of the cause of the error- Carrying out information management, respectively qualified feedback to the problem reporter (specialist departments). Accompaniment of the solution process up to the successful elimination of the errorNew or further development within the scope of the assignment:- Realization of ETL processes for the development of a “Health” DWH in Oracle Exadata (PLSQL, SQL, DDL)- Supporting in the project environment of BI Kranken ABS (Datamarts for ABS, automated data quality check, ...)- Collaboration in the creation of the technical and implementation concept through data analysis- Modelling of Datamarts (partitioning, indexing, star schema etc.)- Creation of the IT concept according to the given specifications / templates / guidelines / conventions- Programming according to the specifications (business requirement, implementation concept, IT guideline, IT concept)- Execution of developer test and overall test- Consulting competence for BI and Data Warehouse
+Elvárások:
+- Many years of in-depth Oracle Know How (Oracle - Exadata, PLSQL, SQL) especially as Oracle developer and optimizations (performance, disk space etc.) in the area of Exadata Oracle.- Oracle APEX Know-How- In-depth know-how and many years of experience for BI and Data Warehouse- Linux shell scripts for scheduling ETL processes- SAS 9.4 front-end for data access via Information Map and dashboard for data sharing- Fluent in written and spoken German- Strong team-oriented working style in an agile team, empathic communication and appearance- Communication: agreements directly with the specialist departments- Basic knowledge of the insurance sector
+Sector(s):
+IT Development
+Programmer, Developer
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

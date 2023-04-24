@@ -1,0 +1,109 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práce.NET API Developer 
+.NET API DeveloperOrange Business
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 1 450 EUR/monthBase salary from 1,450 € gross per month, actual salary is likely to be higher based on skills, knowledge and experience.
+Information about the position Job description, responsibilities and dutiesYou will be part of a software team in the IT entity which is developing the application "Flexi" for internal teams including Sales and Operations actors. It combines a numerous volume of Data to be treated and displayed for Business reports and analysis. The application is the internal tool for reporting purposes. The team is responsible for the Server Administration within the Cloud solution, Database administration, Data Integration, Data Analysis and Reporting creation as well as the development of the Application GUI. The tool is both Datawarehouse as well as the information system where user is able to put own entries.
+Now we are searching for a team member who will be willing and capable of designing and implementation of the new version of the application - API based application in .NET Framework. The successful candidate will be able to contribute to redesign of the application on all the layers.
+There are variety of options for future self-development.
+As part of an Agile team distributed across multiple locations you will be responsible mainly for:
+- Design and implementation of the API based architecture.
+- Implementation of the solution which will not fail the OWASP® Foundation principles.
+- Assess, design, develop, test and document Front-end and Back-End software development.
+- Manage software release, release notes and delivery to production.
+- Troubleshoot software issues including interactions with end-users.
+- Development of new features (level of effort assessment, design, development, testing, documentation).
+- Software support such as maintenance of code, bug fixing.
+- Release management including testing, documentation, release notes notification.
+- Compliance (security, data protection, company policy).
+- User documentation preparation.
+- Contribute to daily stand-up meetings.
+- Contribute to SPRINT planning activities and retrospective meetings.
+- Share visibility on own activity with the Agile team through Agile project management tool. Employee perks, benefits• Attractive financial bonus
+• Extra days of holidays
+• Cafeteria Benefit System
+• Full compensation of sick leave for certain amount of days
+• Complementary retirement savings contributions
+• Financial support regarding life milestones
+• Contribution to private healthcare
+• Referral program
+• Flexible working time
+• Home Office Requirements for the employee Candidates with education suit the positionUniversity education (Master's degree)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skills- Minimum 3 years hands on experience on IT projects.
+- Experience required with T-SQL, C#, .NET Excel API, WCF, VB.NET (VBA), .NET 4.0 Framework or higher, Excel, GIT, IIS, .NET Framework and WCF.
+- Deep understanding and experience in API design, Design Patterns.
+- Experience considered as a plus: with Server Administration, DB Administration and Tuning, SSIS, UML, Data warehouse design, Data Integration or Big Data technology.
+- University education in IT/ Business IT/ Mathematics / Economics is desired.
+- At least Upper intermediate level of English language.
+- Autonomy and attention to detail is desired.
+- Effort and willingness to learn.
+- Ability to work under pressure and meet deadlines.
+- Exposure to multinational environment and awareness of Agile Scrum methodology is a plus.
+- Be a team player who cooperates, be an individual capable of responsible actions. Advertiser Brief description of the companyOrange Business manages and integrates the complexity of international communications, freeing our customers to focus on the strategic initiatives that drive their business.  Our extensive experience and knowledge in global communication solutions, together with our understanding of multinational business and local support in 166 countries and territories, ensure that our customers receive a consistent, global solution wherever they do business. Number of employees250-499 employees ContactContact person: Lucia GorczynskaE-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4542120 
+     Dátum zverejnenia:  20.3.2023 
+    2023-03-20
+lokalita: Bratislava   Pozícia: Backend developer, Database Administrator, Frontend developer, Reporting Specialist, Software Engineer   Spoločnosť: Orange Business   
+Základná zložka mzdy (brutto): 1 450 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

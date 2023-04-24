@@ -1,0 +1,81 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceVývojár C++ na Basic software 
+Vývojár C++ na Basic softwareCertiCon SK s. r. o.
+Miesto práce
+Biznis Centrum Poštová 1, Poštová, Žilina-Vlčince
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 200 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiPre nášho partnera vytvárame základný softvér (embedded coding) SW komponent pre riadiace jednotky v automobilovom priemysle budúcnosti. Tieto riadiace jednotky sa budú montovať do nákladných vozidiel, traktorov alebo autobusov poháňaných hybridným alebo elektrickým pohonom.Aké služby/úlohy riešime pre zákazníka?Píšeme takzvaný „basic software“ v jazyku C/C++ pre rôzne softvérové komponenty, ktoré tvoria celú riadiacu jednotku, ktorá riadi a spravuje rôzne pohonné jednotky, snímače a senzory celého vozidla. V súčasnosti vyvíjame SW jednotku pre plne elektrickú alebo hybridnú verziu autobusu alebo nákladného vozidla.Vývojové prostredieVisual Studio, EclipsePoužité technológieC, C++, make files pre vývojGIT, ITL Integrity a ďalšie nástroje v podobe rozsiahleho reťazca nástrojov pre automobilový priemysel, napr. vektorovýČo presne budete robiť?Vývojár analyzuje požiadavky na vývoj zvereného softvérového komponentu, ktorý je potom implementovaný v aplikačnej vrstve riadiacej jednotky. Výsledkom jeho práce je kód, ktorý je spolu s ďalšími funkciami integrovaný do finálneho SW celej riadiacej jednotky vozidla. Analýza, dokumentácia, úprava, oprava chýb alebo vývoj zverenej SW časti. Vývojár tiež testuje svoju prácu pomocou jednotkových testov.PožiadavkyMUST HAVE:Skúsenosti s jazykom C/C++NICE TO HAVE:ArduinoAsemblerZnalosť komunikácie na zbernici CANSkúsenosti s vývojom v bezpečnostnom prostredí (MISRA)AJ aspoň na úrovni B1-B2 so zameraním na technickú angličtinu. Zamestnanecké výhody, benefityPonúkame 14 skvelých benefitov, o ktorých sa viac dočítate na https://kariera.certicon.sk/#benefity. Vieme, že pohoda pri práci je kľúčová a preto budeš mať flexibilný pracovný čas s možnosťou 3 dní v týždni na home office. V office budeš tráviť  čas v atraktívnom, modernom a príjemnom prostredí nového Biznis centra na Poštovej 1. Kancelárske priestory dopĺňa množstvo zelene, poskytujeme aj miesto na parkovanie.Pracujeme na projektoch pre veľké a renomované spoločnosti, ktorí vytvárajú dlhodobé riešenia a produkty, majú dopad na životy miliónov ľudí po celom svete. Neformálna atmosféra, ľudský prístup a skvelý tím. Spoločnosť CertiCon mapuje cesty, po ktorých sa zatiaľ nikto nevydal. Vydaj sa s nami za horizont. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2) Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme  technologická spoločnosť zaoberajúca sa inováciami a vývojom softvérových a hardvérových riešení pre oblasti zdravotníctva, telekomunikácií či automobilového a leteckého priemyslu. Veľmi úzko spolupracujeme so špičkovými technickými univerzitami a výskumnými laboratóriami v celej Európske únii. 
+Naše projekty realizujeme po celom svete. KontaktKontaktná osoba: Peter BakoTel.: +421905884411E-mail: poslať životopis
+Všetky ponuky spoločnosti
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4484359 
+     Dátum zverejnenia:  21.3.2023 
+    2023-03-21
+lokalita: Žilina   Pozícia: C++ programátor   Spoločnosť: CertiCon SK s. r. o.   
+Základná zložka mzdy (brutto): 2 200 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

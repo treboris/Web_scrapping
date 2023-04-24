@@ -1,0 +1,75 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Tesztelő, Tesztmérnök
+Budapest
+Medior Manuális Tesztelő (Camunda BPM)
+OTP Bank Nyrt.
+Budapest
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Középiskola
+Medior Manuális Tesztelő (Camunda BPM)
+Az OTP Bank Innovációs Központjának (OTP LAB) célja, hogy korszerű innovációs technológiák bevezetésével egyszerűbbé tegye a bank ügyfeleinek és munkatársainak mindennapjait. 2019-ben megalakult Folyamatautomatizációs Kompetencia Központunk azon dolgozik, hogy a banki folyamatok minél hatékonyabbak, gyorsabbak és hibamentesebbek legyenek a különböző automatizációs technológiáknak köszönhetően.
+Várjuk jelentkezésed egy olyan dinamikus, vállalkozó szemléletű csapatba, ahol az OTP nemzetközi vállalatcsoportját értintő meghatározó döntések és fejlesztések születnek.
+Manuális tesztelőként feladatod a csapat által fejlesztett automatizált üzleti folyamatok tesztelésének menedzsmentje, ezzel segítve az elvárt minőség folyamatos biztosítását. A csapatban elsősorban az alábbi eszközökkel és technológiákkal dolgozunk: Camunda, Java, JavaScript, Spring Boot, AngularJS, MSSQL, OpenShift, BitBucket, Jenkins, Maven, Sonar, Grafana, Nexus, ELK, SpiraTeam, Enterprise Architect (Sparx), PowerBI, JIRA, Confluence. A tesztelés a SpiraTeam rendszerben kerül kialakításra.
+Hogyan járulsz majd hozzá a csapathoz?
+Folyamatfejlesztéshez kapcsolódó üzleti és fejlesztési specifikációk mentén, a tesztelési fázis tervezésével, koordinálásávalTesztesetek írásával, teszt szettek összeállításávalA folyamat UAT tesztjét megelőző átfogó tesztelésében való részvétellelTesztelés során felmerülő hibák kezelésének támogatásávalTeszt futtatások dokumentálásával, riportálásávalSzakterületekkel, a Product Ownerrel és más fejlesztőkkel való együttműködésselA tesztelési módszertan folyamatos fejlesztésével, új tesztelési eszközök bevezetésévelKonzisztens teszatadatok előállításának biztosítása
+Csatlakozz hozzánk, ha van
+Nagyvállalati környezetben, manuális tesztelésben szerzett minimum 3 év szakmai gyakorlatodTeszt forgatókönyv összeállításában, tesztek validálásában, dokumentálásában szerzett releváns tapasztalatTesztelési technikák ismerete (black-box, white-box, határérték elemzés…)Kezdeményezőkészséged, nyitottságod a folyamatos tanulásraLogikus, probléma megoldásra összpontosuló gondolkodásmódodBátorságod megkérdőjelezni önmagad és mások munkáját a kitűzött cél érdekébenIgényed az értékteremtő folyamatok leszállításáraProaktív és vállalkozó szellemű hozzáállásodAgilis / DevOps munkamódszerben szerzett tapasztalatodGyakorlati angol társalgási szintű nyelvtudásod
+Előnyt jelent:
+ISTQB CTFL ismeretWebes technológiák ismerete: HTTP, REST, SOAP, HTML, Javascript, XML, JSONFolyamatmenedzsment eszközben (pl.: Camunda/BPM) szerzett jártasságodGit ismeretCI eszközök ismeret (pl. Jenkins)Jmeter, Postman, SoapUI ismeretPénzintézetnél vagy más szolgáltatás-orientált szegmensben szerzett tapasztalatodNyitottság az automata tesztelés irányába
+Amit kínálunk:
+Megismerkedhetsz a legújabb technológiákkal,Elsajátíthatsz olyan automatizációs, digitalizációs eszközöket, melyek az egész régióban úttörőekKiemelt egyéni szerepet a bank hatékonyságát növelő digitalizációs törekvésekben, ahol nem csak egy kis csavar leszel egy nagy gépezetbenDedikált mentorod lesz, aki odafigyel a személyes és szakmai fejlődésedreKezdeményező, pörgős és befogadó csapatot, akik alig várják, hogy új kollégákkal bővüljenekEgy innovatív, startup mentalitással rendelkező szervezetet, amely egy régiós nagybank sziklaszilárd lábain állVersenyképes juttatási csomagot, széleskörű képzési lehetőségeketMunka-magánélet egyensúlyt, szuper modern munkakörnyezetet és home office lehetőséget
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Tesztelő, Tesztmérnök
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+OTP Bank Nyrt.
+Pénzügy, biztosítás
+●
+Egyéb monetáris közvetítés
+1000+ munkavállaló
+1990
+1051
+Budapest,
+Nádor u.16.
+Értékelések a(z) cégről
+Értékelések kategória szerint 
+3,6
+Munkaidő és munkarend 
+4,3
+Megközelíthetőség 
+3,7
+Munkakörnyezet 
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

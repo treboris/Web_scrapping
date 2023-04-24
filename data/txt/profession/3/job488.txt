@@ -1,0 +1,83 @@
+Belépésálláskeresőknek
+Budapest
+Product Owner - Belső Front End Alkalmazás
+MKB Bank Nyrt.
+Budapest
+Biztosított eszközök
+Laptop
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok
+Főiskola
+Juttatások
+Cafeteria
+Biztosított eszközök
+Laptop
+MKB Bank Nyrt.
+A bank fiókhálózata és operációs területek által használ front endet kezelő tervezői csapatot erősítve a Te feladatod lesz, hogy az rendszer kielégítse felhasználóink igényeit, ugyanakkor megfeleljen az üzleti és törvényi elvárásoknak. A célod lesz, hogy a bankon belül képviseld a rendszer felhasználóinak érdekeit és gondoskodj a zökkenőmentes működéséről, az új fejlesztések magas szintű minőségéről.* Product Owner feladata a terület által kezelt rendszer napi működésének és fejlesztésének összefogása. A következő évek számos izgalmat tartogatnak, hiszen egy teljesen új, modern microservice alapokra, reactban íródó, microfrontendekből épülő alkalmazást hozunk létre, amely a bank belső, ügyfélkiszolgálásért felelős területeinek folyamatait támogatja, segíti azzal, hogy egy egységes alkalmazás épül a komplex architektúra elé.* Agilis/Hibrid módszertanban fejlesztünk, így napi szinten kell majd a fejlesztőkkel és más üzleti területek képviselőivel egyeztetned a termék fejlesztését érintő kérdésekben. Te töltöd majd be az a rendszer kapcsolattartójának szerepét, így az azzal kapcsolatos kérdések, panaszok és igények hozzád fognak befutni, neked kell majd a különböző projektben képviselni a területet.
+Product Owner - Belső Front End Alkalmazás
+Feladatok
+ Fejlesztéshez kapcsolódó feladatok Hosszú távú alkalmazás stratégiai tervezése, beleértve az általa lefedett felhasználói folyamatokat, információs architektúrát, UX&UI irányokat, főbb KPI-ok meghatározását és elérését) Felhasználói (illetve törvényi) igények befogadása, kutatások végrehajtása és ezek alapján fejlesztések kezdeményezése Üzleti igények megfogalmazása, véleményezése User story-k megírása, specifikációk elkészítése Acceptance criteria-k meghatározása Roadmap és backlog elemek karbantartása, folyamatos priorizálása a banki irányoknak megfelelően Fejlesztési elemek priorizálása Kapcsolattartás a fejlesztésben résztvevő belső területekkel (design, folyamat menedzsment, fejlesztés, tesztelés, stb.) Működtetéshez kapcsolódó feladatok Point-of-Contact szerepkör ellátása, kapcsolattartás az operátor területekkel Ügyfélélményt javító megoldások kutatása és megvalósítása Kommunikációs elemek naprakészen tartása Csapat tudásbázis építésében és az éves aktuális csapat céljának eléréséhez szükséges feladatokban való aktív részvétel Rendszerhez kapcsolódó riportok definiálása Rendszerre vonatkozó panaszok határidőn belüli megválaszolása, kezelése Karbantartások és működést befolyásoló életciklus események kezelése Paraméterezési feladatok definiálása Törvényi megfelelés folyamatos biztosítása  Kit keresünk  Felsőfokú/szakirányú végzettség gazdasági/informatikai területen Legalább 3 éves product owneri tapasztalat UX szemlélet Önálló munkavégzés Proaktív hozzáállás Ügyfél központúság Strukturált gondolkodásmód Határozott és egyértelmű kommunikáció Folyamatszemlélet 
+Előny
+ Agilis fejlesztési módszertanban jártasság JIRA/Confluence software-ek ismerete 
+Amit kínálunk
+ Ajánlatunk kiegészítő elemei Kötetlen munkaidő Home office munkavégzésre lehetőség Rendszeres külső és belső tanfolyamok, továbbképzések Versenyképes fizetés + Cafeteria + Bónusz Belső juttatások és kedvezmények Céges laptop + telefon Családbarát és egészségmegőrzést szorgalmazó munkahely 
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Product owner, -manager
+Jelentkezés módja:
+Amennyiben szeretnél csatlakozni csapatunkhoz, jelentkezz a "jelentkezem" gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok
+Főiskola
+Juttatások
+Cafeteria
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+MKB Bank Nyrt.
+Pénzügy, biztosítás
+●
+Egyéb monetáris közvetítés
+1000+ munkavállaló
+1950
+1056
+Budapest,
+Váci u. 38.
+Értékelések a(z) MKB Nyrt. cégről
+3,5
+60 értékelés alapján 
+Értékelések kategória szerint 
+3,8
+Munkaidő és munkarend 
+3,6
+Kollégák és céges hangulat 
+4,2
+Megközelíthetőség 
+3,7
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

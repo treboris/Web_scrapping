@@ -1,0 +1,52 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior Java Engineer 
+Our worldwide-known partner is one of the market leading bookmaker companies in the gambling industry with clients from over 150 countries. They work with high-end technology developed internally and are growing dynamically, currently baring an international workforce of 400+. Employees are supported and provided with flexible working conditions and learning opportunities.
+                Feladatok / Tasks
+Create software on real-time backend applications and platform.
+Write code with focus on usability, simplicity, performance and scalability. We have a global footprint.
+Participate in the full development cycle, from innovation to code-reviews to delivery to production.
+Create and maintain quality software using best practices in a continuous integration and delivery environment.
+Rewrite, refactor and fine-tune code.
+                Amit nyújtunk / Offer
+They have a state-ofthe art office space.
+They work in a dynamic, collaborative, equal opportunity, non-hierarchical and ego-free culture where your talent is valued.
+They commit to continuous improvement.
+They value diversity and reward initiative.
+Cafeteria and healthcare insurance
+The first 10 days of the sick leave is paid fully in 100%
+Opportunity to take only a half-day (4 hours) day off
+Core time between 10-16 and flexible besides that
+Unlimited subscription for Udemy and opportunity of participating in conferences and trainings
+English lesson during working hours with a British teacher
+Elvárások: 
+3+ years experience with Java (preferably Java 8)
+Experience with Spring framework (spring-boot, spring-data, spring-integration, etc.)
+Experience in Java middleware architectures – concurrency, message and service orientated architectures are your playground. Technologies as Apache Kafka, ActiveMQ and REST APIs are key part of the design.
+Experience in chaching solutions and in-memory data processing (hazelcast).
+Desired experience with DevOps and CloudOps environments – from containers to CI/CD tot he Cloud. Familiar with key technologies around Docker, CI/CD pipelines and SWS/GCP clued providers.
+Ideally experience with Vaadin and Drools frameworks.
+A solid engineer – your a good problem solver with attention to detail and critical thinking skills. You find somenting magical about solving problems with elegant but simple solutions.
+A good communicator – you communicate enthusiastically, clearly and concisely with both technical and non-technical staff.
+A keen learner – your are up-to-date and capable of keeping the pace with the latest trends and technologies. You are ok with leaving your comfort-zone frequently.
+You are hands on, passionate, persistens, creative, and humble. You get things done.
+Jelentkezem
+Elmentem az állást
+Senior Java Engineer 
+Jelentkezem
+Elmentem az állást
+RecruIT Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 15.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior JAVA Fejlesztő 
+ Budapest  
+ Senior Java Developer - Hibrid 
+ Budapest  
+ Senior Software Engineer (Java) – Budapest IX./ Hybrid 
+ Budapest  
+ Java EE Developer (Senior) - Remote 
+ Budapest  
+ SENIOR SOFTWARE ENGINEER 

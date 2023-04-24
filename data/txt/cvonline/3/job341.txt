@@ -1,0 +1,60 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Szoftverfejlesztő / DevOps  
+Csapatunk új tagját keressük
+Szoftverfejlesztő/DevOps
+pozícióra
+Téged keresünk, ha:
+hajt a szakmai kíváncsiság, és szívesen dolgoznál adatalapú szolgáltatásokat, adatvizualizációkat fejlesztő, szakmailag autonóm csapatban!
+Feladataink:
+Automatizált termékelőállítást lehetővé tevő tájékoztatási rendszer kialakítása, üzemeltetése
+CI/CD pipeline fejlesztése, üzemeltetése
+adattranszformációk 
+backend alkalmazások fejlesztése, üzemeltetése
+kubernetes üzemeltetés
+Ami szükséges:
+angol szakirodalom értő olvasása
+legalább 3 év szoftverfejlesztői tapasztalat
+backend fejlesztői tapasztalat
+docker tapasztalat
+szakmai kíváncsiság
+magyar állampolgárság
+cselekvőképesség
+kinevezés esetén a büntetlen előéletet igazoló hatósági bizonyítvány bemutatása
+Ami pluszt jelent: 
+gitlab CI/CD
+kubernetes
+java, nodejs
+adatrendszerekkel, adatfeldolgozással kapcsolatos tapasztalat
+frontend tapasztalat
+Amit kínálunk:
+szakmai fejlődés belső és külső képzésekkel támogatva
+rugalmas munkarend
+könnyen megközelíthető munkahely
+egészségügyi támogatás
+családi, sport- és kulturális programok
+Jelentkezés:
+Ha felkeltette az érdeklődésedet a lehetőség, küldd el az önéletrajzodat és a fizetési igényedet Varga Judit részére a JELENTKEZEM gombra kattintva. A jelentkezéseket április 30-ig várjuk.
+Jelentkezem
+Elmentem az állást
+Szoftverfejlesztő / DevOps  
+Jelentkezem
+Elmentem az állást
+Központi Statisztikai Hivatal 
+BudapestPest 
+Teljes munkaidős 
+3 -5 év munkatapasztalat 
+OKJ képesítés 
+Frissítés dátuma: 18.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SZOFTVER TÁMOGATÓ (16-2183) 
+ Gödöllő  
+ IT szolgáltatásmenedzser 
+ Budapest  
+ SZOFTVERFEJLESZTŐ GYAKORNOK – TOPCO 
+ Budapest  
+ Technológiai támogatót keresünk 
+ Budapest  
+ Informatikai munkatársat 
+ Monor  

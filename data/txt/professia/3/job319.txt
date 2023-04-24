@@ -1,0 +1,73 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Java Developer for eMobility  Можливість для людей з України
+O nás
+Kariéra
+Kontakt
+                        find ( “perfect_job” );Buď súčasťou našich projektov.
+Senior Java Developer for eMobilityPlace of workRemote work Basic wage component (gross) and other rewards2200 € + variable component (mid level) 2800 € + variable component (senior) (base salary depends on seniority, experiences and qualification of the candidate)ProjectFor our prominent customer from eMobility area, we are looking for senior candidates to join our core team established in 2011. E-Mobility project is platform for management, operations, monitoring and integration of charging stations for electric vehicles into company operation landscape. Electric vehicles are gaining massive momentum recently and all major automotive companies are drawing their focus there. Successful candidate will be working on microservice architecture based on Spring Boot on AWS Cloud.Your roleYou will join our Agile team of senior developers and testers located in Germany or Kosice (upon preferrence) and can contribute to regular features development as well as to architectural changes, improvements and system evolution.   The role also includes:  analysis of the customer requirements development, testing and reviewing core features of microservice applications estimation and planning detail tasks based upon the requirement from customer development of software for charging stations for e-cars development of unit and system integration tests based on acceptance criteria, bug analysis cooperation with developers and other project members from Germany and Vietnam Tech stack Java 8 Spring Boot, JMS (RabbitMQ) Maven, Git, MariaDB, Hibernate, JUnit, Spring Test, Mockito, AssertJ, Spring Data, Spring Security, Spring Cloud AWS What do we expect? you have experience with software development in Java 8 you are experienced in development and design of microservice architectures you have extensive programming knowledge of Spring Boot, JMS (RabbitMQ) knowledge of Pivotal Cloud Foundry is an advantage you speak English, German will be an advantage Benefits Variable component in amount of 13. salary Company social benefit up to 2 000 € Extra project bonus Company bonus Referral bonus up to 3 000 € Unlimited, fully equipped home office Flexible working hours Hard and soft skills trainings Unlimited access to all Udemy for Business e-learning trainings Language course Contribution on your own hardware  ContactContact person: Šarlota PiroškováTel.: +421556101600E-mail: send CV 
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4552780 
+     Dátum zverejnenia:  5.4.2023 
+    2023-04-05
+lokalita: Remote work   Pozícia: Java Programmer   Spoločnosť: Fpt Slovakia s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 200 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

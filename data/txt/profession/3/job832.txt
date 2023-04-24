@@ -1,0 +1,61 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Reverse Engineering Hacker (JA)
+Tech People Hungary Kft.
+Budapest
+ Elvárt technológiák
+ANDROID
+IOS
+C
+C++
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Távmunka, Alkalmazotti jogviszony
+Elvárások:
+Nem igényel nyelvtudást
+1-3 év szakmai tapasztalat
+Középiskola
+ Elvárt technológiák
+ANDROID
+IOS
+C
+C++
+A Tech People egy európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat, valamint kiszervezett technológiai szolgáltatásokat nyújt különböző iparágak számára.
+Jelenleg az alábbi pozícióba keresünk munkatársat:
+Reverse Engineering Hacker (JA)
+Munkavégzés helye: Budapest, de lehetséges 100% remote 
+Fizetés: rendkívül magas (a tapasztalat és teszt eredménytől függvényében)
+Munkavégzés formája: teljes munkaidő, alkalmazotti jogviszony
+Feladatok:
+mobiltelefon (Android, iOS, OS10) operációs rendszerének elemzése zero day exploitok kereséserootolásjailbreak custom kernel fordításaszervizfunkciók működése alacsonyabb szintenhalottnak hitt készülék életre keltésehardver vizsgálata/hibakeresés bootrom szinten (is)
+Elvárások:
+Magas szintű programozói tudás és gyakorlatArchitektúra: ARM Szoftverek: IDA, Olly, stb. Nyelvek: C/C++, ASM Fogalmak: stack overflow, stack guard, buffer over-read, code cave
+Előny:
+Android, iOs fejlesztői tapasztalat
+Jelentkezés módja:
+Jelentkezzen önéletrajzával a "Jelentkezem" gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Távmunka, Alkalmazotti jogviszony
+Elvárások:
+Nem igényel nyelvtudást
+1-3 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

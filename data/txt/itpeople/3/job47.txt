@@ -1,0 +1,84 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Senior DevOps Engineer állás Budapest
+GIT
+Python
+Linux
+MongoDB
+AWS
+Rendszer / Hálózat, DevOps állások 
+Partnerünk a világ egyik vezető IT szolgáltató vállalata, amely támogatja ügyfelei üzleti, működési és technológiai modelljeit. A cég bővülés miatt most új, izgalmas lehetőséget kínál egy IT tapasztalattal rendelkező jelölt számára az alábbi munkakörben:Senior DevOps EngineerA projekt és a feladatok:Egy matematikai rendszermag finomhangolása és interface-szel való összekapcsolása, beleértve az összes objektumkonverziót és elektromos járművek töltőállomásait. Ez magában foglalja a feldolgozási feladatok ütemezését, a monitorozást, a hibakezelést, a webservice-ekkel és a beágyazott eszközökkel való kommunikációt.Ipari IoT adatgyűjtő rendszer (DCS) működtetése (monitoring, riasztási és dashboarding). Hibák elhárítása a központi platformon.Más csapatok koordinálása, hogy önállóan el tudják végezni a munkájukhoz kapcsolódó DevOps feladatokat.Elvárások:6-7 év releváns tapasztalat a következő technológiákkal:AWS Cloud solution, CloudFront, EC2, EKS, KMS, EBS, EFS, RDS, SNS, SES, ELB, Route53Ansible, Kubernetes, DockerFolyékony angol nyelvtudásElőnyt jelent:Linux, Git, Gitlab, Gitlab CIRedis, MongoDB, InfluxDB NewRelic, Fluentd, VagrantKafka, Elastic search, NginxVirtualBox ismereteTapasztalat Python programozásbanOAuth2, OpenIDConnect ismereteAmit a vállalat kínál:Multinacionális környezetVersenyképes fizetés és cafeteria csomagKarrier lehetőségek: feljebb lépési lehetőség, új területek megismeréseMagán egészségbiztosításSzéles körű képzések, több mint 1000 tréning-lehetőségSzabadidőszoba Ingyenes edzőtermi bérlet és közösségi rendezvényekFelkeltettük érdeklődésedet? Küldd el önéletrajzod az info@foxhr.hu e-mail címre! 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Jelentkezés
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Fox HR Consulting Ltd. 													
+Budapest
+Teljes Munkaidő
+ Rendszer / Hálózat, DevOps
+Lejárati dátum: 2023-05-06
+Kapcsolattartó: Deli Mariann
+Telefonszám: 36300116110														- Hivatkozzon az itpeople-re!
+Álláshirdetés részletei
+PozícióSenior DevOps Engineer
+Munkavégzés helye
+Budapest
+MunkaidőTeljes Munkaidő
+KapcsolattartóDeli Mariann
+Telefonszám36300116110													- Hivatkozzon az Itpeople-re
+KategóriaRendszer / Hálózat, DevOps
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

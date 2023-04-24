@@ -1,0 +1,108 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Solution Architect állás Budapest
+SQL
+SAP
+SAP állások 
+Cégleírás / Organisation / DepartmentOur Business Service Center is a German family-owned automotive company, and they would like to represent themselves also in the Hungarian market. They are planning to hire 350 new employees, and it will have a brand new office in Budapest. New colleagues will have a chance to join a new company and to make decisions in professional topics. These employees who add their own ideas would be prioritized by the management of the company. Fluent English is necessary to use for everyday work.Elvárások / Requirements
+Qualifications
+Three or more years of relevant technical and business experience in shop floor applications and data management.
+Experience in the design, implementation and operation of data replication and data warehousing solutions.
+Practical experience in SQL is required and further experiences in SDI, HANA, SAP BW and SAP Analytics Cloud are welcome.
+Ideally experience in project and requirements management as well as agile methods.
+Good English skills (spoken and written).
+Positive and integrative collaboration skills, establishing strong supportive relationships across all departments.
+Experienced working in an international, virtual team.
+Basic willingness to travel (approx. 5-10%).
+Amit kínálunk / OfferOverall Purpose of Job:
+You will accompany our client on its way to becoming a digital company.
+As a Solution Architect in manufacturing digitalization, you will be responsible for designing, developing, and implementing manufacturing solutions for all the business units. After deep diving into the current IT landscape used on the global company's shop floors, you will be working as a Solution Architect within this environment with a focus on Global Data Hub, our solution to make manufacturing data available to standard reporting and for individual analysis.
+This involves working closely with business analysts and stakeholders to understand the business needs, the creation and maintenance-on of technical and functional documentation, and the realization of changes either by working hands-on or in close collaboration with the IT team.
+Our Solution Architects in manufacturing digitalization also stay up to date with the latest features and functionality of the related technology stack and may recommend new features to our business clients.
+This requires a strong understanding of manufacturing processes as well as the technology stack in data replication, data warehousing and reporting on the other hand, as well as excellent communication and interpersonal skills.
+As a solution architect in manufacturing digitalization, you must be able to work in a fast-paced, dynamic environment, and be committed to continuous learning and professional growth.
+Main tasks, roles and responsibilities:
+Translate business requirements into a solution design and align it with business analysts, business stakeholders and the other solution architects of the manufacturing digitalization portfolio.
+Apply proof of concepts and solutions by performing the required landscape changes or by creating the necessary data preparations and reports.
+Perform the initial testing before handing the solution to the business team.
+Align with the in-house teams responsible for SAP-SDI, SAP-HANA, SAP BW and SAP SAC.
+Manage external consultants or developers.
+Advice the customer on both operational and strategic matters related to Global Data Hub.
+Support the community of users in their daily work by solving incidents and handling service requests.
+Extend the Global Data Hub with new data sources or production sites and establish monitoring to guarantee operations.
+Participate in international projects including the S/4 HANA initiatives.
+Kapcsolattartó / Information
+Professional development opportunities
+Competitive salary
+Dynamic atmosphere
+Home-office possibility
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary Kft													
+Budapest
+Nincs meghatározva
+ SAP
+Lejárati dátum: 2023-06-06 08:00:00
+Álláshirdetés részletei
+PozícióSolution Architect
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaSAP
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

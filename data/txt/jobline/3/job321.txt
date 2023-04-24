@@ -1,0 +1,86 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Software Engineer (Budapest)
+Software Engineer (Budapest)
+A hirdetés már lejárt!
+Randstad Hungary Kft
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Our client is an American multinational company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, artificial intelligence, and consumer electronics.
+Software Engineer
+Tasks
+Deliver end-to-end tasks towards a larger goal with minimal assistance from more senior team members.
+Produce completed work of consistently high quality, demonstrating most or all of the hallmarks of fleshed-out client's engineering artifacts.
+Plan and execute prioritized project work independently, managing their own priorities and making appropriately paced progress without supervision.
+Participate in design, though often with guidance.
+Challenge
+Identify technical problems with requirements and fix them, helping the team to course-correct when necessary.
+Address commonly escalated issues or triage when required.
+May proactively spot and suggest areas of future work for self and team.
+Influence
+Work within one or more teams to communicate knowledge related to broad set of tasks.
+Identify key stakeholders and contribute to cross-team collaboration.
+Coordinate timelines, goals, and objectives for assigned project component(s), understanding how work fits in with related projects or components, including dependencies and upstream/downstream implications.
+Expertise
+Demonstrate the development of at least one major skill outside of core coding (e.g., reliability monitoring and alerting, security and privacy practices and techniques, ensuring implementation choices support product inclusion and lead to equitable and inclusive user outcomes, documentation, integration testing, production hygiene and support processes), and an understanding of related areas of client.
+Responsibilities under the direction of manager:
+Code writing, testing & review
+Write product or system development code for tasks with minimal assistance, conduct testing on code, design code to allow for easy testing (e.g., dependency injection), write test case descriptions to ensure coverage of critical components, review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+Engineering excellence, documentation & debugging
+Set up or improve test/monitoring/survey infrastructure or processes to ensure code health and consider system maintainability and scalability over time, contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback, triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+Requirements
+approximately 5-7 years of experience. 
+expertise in Angular (with TypeScript or JavaScript) 
+eager to contribute to future success in Cloud AI. 
+additional proficiency with Python, Java, C++, or Go is preferred 
+Offers
+Attractive compensation package
+Private Medical Care Program
+Flexible work arrangements
+Continuous career progression
+An inclusive and friendly corporate culture with diverse networking opportunities
+Location:
+Budapest
+Neked ajánlott állások
+Neked ajánlott állások
+Randstad Hungary Kft -
+Software Engineer (Java, Fintech)
+EasyHiring Services Kft. -
+Software Engineer
+BKV Zrt. -
+IT szolgáltatásmenedzser
+Nemzeti Sportügynökség Nonprofit Zrt. -
+RENDSZERGAZDA
+Deutsche Telekom IT Solutions -
+Learning and Development Expert (Experienced/Senior) - REF1664I
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

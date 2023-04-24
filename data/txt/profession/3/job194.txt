@@ -1,0 +1,98 @@
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Budapest
+Budapest
+Medior DevOps engineer
+BECK AND PARTNERS Kft.
+Budapest
+ Elvárt technológiák
+DEVOPS
+DOCKER
+GIT
+AZURE
+ANSIBLE
+ACTIVE DIRECTORY
+SECURITY
+APACHE
+NETWORK
+POSTGRESQL
+LINUX
+WINDOWS
+VMWARE
+CLOUD
+HÁLÓZATI ISMERETEK
+ Módszertanok és szoftverek
+Git
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+DEVOPS
+DOCKER
+GIT
+AZURE
+ANSIBLE
+ACTIVE DIRECTORY
+SECURITY
+APACHE
+NETWORK
+POSTGRESQL
+LINUX
+WINDOWS
+VMWARE
+CLOUD
+HÁLÓZATI ISMERETEK
+ Módszertanok és szoftverek
+Git
+BECK AND PARTNERS Kft.
+Partnerünk változatos szoftverfejlesztési és adatbányászati projekteken dolgozik.
+Most szoftverfejlesztői csapatuk szeretne bővülni olyan szakemberrel, aki szeretne egy összeszokott, fiatalos csapatban dolgozni, emellett vágyik az új lehetőségekre és kihívásokra, mind szakmailag, mind soft skill-ek terén. Projektjeik egy részét “green field”-ként kezelik, ezzel is segítve a folyamatos piacképes tudás megszerzését és kamatoztatását, azonban nekik is vannak támogatandó termékeik.
+A munkád során lehetőséged van részt venni a tervezésben, majd az implementáción át akár a tesztelésben is tapasztalatokat gyűjteni, valamint fejlesztheted ügyfél kommunikációs skilljeidet is.
+Most a következő pozícióba keressük új munkatársukat:
+Medior DevOps engineer
+Főbb feladatok, munkák:
+Docker/Docker Swarm/Kubernetes konténerizációs és orchestrációs technológiák használata on-premise környezetbenCI/CD kialakítása és támogatása: Git (GitLab, Azure DevOps), Gitlab pipelines, AnsibleHálózat üzemeltetés és fejlesztés, valamint ezek biztonsági menedzsmentje. (OpenVPN, Active Directory, LDAP)Környezeti, teljesítmény, security, monitorozási és rendelkezésre állási követelmények kialakítása és/vagy fejlesztése Infrastructure-as-Code szemlélettelnginx, Apache webszerverek és webalkalmazások (.NET) telepítése, üzemeltetéseHA network loadbalancing konfigurálása, üzemeltetése (Traefik, HAProxy)Adatbázisok üzemeltetése és konfigurációja (PostgreSQL, MariaDB, Elasticsearch, CassandraDB, Redis)Artifact Repository megoldások kialakítása és kezelése: Artifactorygeoredundáns alkalmazáskörnyezetek kialakítása, üzemeltetése
+Az álláshoz tartozó elvárások:
+Legalább 1-3 éves alkalmazás/webszerver/felhő/virtualizációs üzemeltetésben szerzett tapasztalatKonténerizációs, orchestrációs és felhő alapú technológiákban gyakorlati tapasztalat – Docker/Docker Swarm/Kubernetes mélyebb ismereteFelsőfokú végzettségLinux shell és shell script parancsok ismereteOperációs rendszer ismeret: Linux, WindowsHálózati ismeretekVirtualizációs ismeretek (KVM, VMware, ESXi)Alapfokú angol nyelvtudásÖnálló munkavégzés és magas szintű problémamegoldó képességFolyamatos önfejlesztésre való igény technológiai területeken
+Amit kínálunk:
+Fix alapbér + projektalapú bónusz rendszerCsapatépítő programokSzakmai képzések támogatásaSzakmai kihívások változatos projektekbenHome office lehetőség
+Az állás betöltéséhez előnyt jelent:
+Performance measurement, monitoring tapasztalatCloud tapasztalat (Azure, vagy akár egyéb)
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+IT programozás, Fejlesztés
+Adatbázisszakértő
+IT tanácsadó, Elemző, Auditor
+Egyéb információ:
+Munkavégzés helye: Budapest, XIII. kerületMunkaidő: Rugalmas munkaidő (saját munkaszervezés alapján) - Hibrid munkavégzésAmennyiben a hirdetés felkeltette az érdeklődését, jelentkezzen önéletrajzának csatolásával az alábbi gombra kattintva!
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

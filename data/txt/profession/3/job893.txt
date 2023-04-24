@@ -1,0 +1,120 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+MEDIOR DEVOPS MÉRNÖK
+Raiffeisen Bank Zrt.
+Budapest
+ Elvárt technológiák
+DEVOPS
+PYTHON
+RUBY
+JAVA
+LINUX
+AWS
+AZURE
+DOCKER
+ANSIBLE
+SELENIUM
+SOAPUI
+ Módszertanok és szoftverek
+Agilis
+Jenkins
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+ Elvárt technológiák
+DEVOPS
+PYTHON
+RUBY
+JAVA
+LINUX
+AWS
+AZURE
+DOCKER
+ANSIBLE
+SELENIUM
+SOAPUI
+ Módszertanok és szoftverek
+Agilis
+Jenkins
+Raiffeisen Bank Zrt.
+Nyiss ajtót a lehetőségre és építsd a karriered a Raiffeisen Banknál! A változékony üzleti környezet, a folyamatos innováció és technológia fejlődés miatti verseny biztosítja Számodra, hogy érdekes feladatok mentén fejleszd tudásod és szakmai karriered.Ha szereted a változatosságot, a szakmai kihívásokat, és szeretsz új dolgokat tanulni, akkor ez a TE lehetőséged! Megismerheted azokat a rendszereket, melyek kulcsszerepet játszanak a Bank életében, és melyeket az ügyfelek százezrei is napi szinten használnak.Víziónk, hogy 2025-re a Közép-Kelet európai régió leginkább ajánlott pénzügyi szolgáltatójává váljunk. Tarts velünk az ehhez vezető úton és csatlakozz a Raiffeisen Bank IT csapatához!
+MEDIOR DEVOPS MÉRNÖK
+MI LESZ A FELADATOD?
+A szoftver kialakításának és működésének biztosítása a teljes szolgáltatási életciklusban – a tervezéstől a fejlesztési folyamaton keresztül az üzemeltetésigAutomatizált folyamatok kialakítása, skálázható és fenntartható infrastruktúra építéseA folyamatos fejlesztési, tesztelési, telepítési és üzemeltetési folyamatokat támogató infrastruktúra elemek, környezetek, eszközök implementációja és működtetése: CI/CD pipeline, forráskód kezelés automatizálása, automata tesztelés beépítése a folyamatokba, monitoring és automata beavatkozási képességek fejlesztéseVerzióváltások előkészítése, telepítések nyomon követése, ellenőrzéseMinőségbiztosítási feladatok ellátása, szoftver dokumentációk elkészítése (generálása)Együttműködés üzleti szakértőkkel, elemzőkkel, architektekkel, fejlesztőkkel, tesztelőkkel – agilis csapatban, illetve kapcsolódó projekt munkák keretébenRendszerek architektúrájának kialakításában való részvétel, szem előtt tartva a skálázhatóságot, fenntarthatóságot és üzemeltetési szempontokatProaktív hibakeresés monitoring eszközök használata révén, performancia problémák, incidensek kivizsgálása, elhárításaA felügyelt rendszer(ek)re érkező bejelentések kivizsgálása az eredő ok kiderítése céljából, a hibaforrás(ok) végleges  megszüntetése/megkerülése
+MIÉRT ÉRDEMES VELÜNK DOLGOZNI?
+Biztonság és fejlődés:Támogatjuk egyéni fejlődésed nemcsak tudásmegosztással, belső és külső tréningek segítségével is, folyamatos szakmai fejlődést biztosítunk, ahol sikereiddel, tudásoddal karrieredet folyamatosan építheted.Támogatás és juttatások:Hiszünk a hibrid munkavégzésben, flexibilis munkaidővel. Modern irodai környezetünk lehetőséget ad a csapatmunkára, ugyanakkor otthonról is szeretjük az elmélyülést igénylő feladatainkat végezni,Alapbéren felül fix negyedéves pénzbeli juttatást, változatos Cafeteria elemeket (Akár 16 lehetőség közül választhatsz, amiből extra szabadnapot is igényelhetsz) és éves bónuszszerzési lehetőséget is biztosítunk Számodra.Közösség és összetartás:Magas színvonalú szakmai közösség vár Rád, elérhető vezetőkkel és összetartó kollégákkal, akik segítenek a beilleszkedésedben,Gyors válaszreakcióra, „fölösleges köröktől” mentes átlátható kiválasztási folyamatra számíthatsz, ahol már az első kör alkalmával a közvetlen vezetőddel merülhettek el a technikai részletekben.
+CSATLAKOZZ HOZZÁNK, HA...
+Felsőfokú szakirányú (műszaki/informatikai) végzettséged vanHasonló szakterületen 3-4  év munkatapasztalatod vanVan scriptelési nyelvekben, algoritmus írásban szerzett tapasztalatod (pl. Shell scripting, Python, Ruby), illetve a JAVA sem idegen számodraVan operációs rendszerekhez (pl. Linux) kötődő tudásod (memóriahasználat, TCP/IP, hálózatok kezelése)Van jártasságod felhő- és konténer technológiákban (pl. AWS, Azure; Docker)Ismered a CI/CD, automatizációs eszközöket (pl. Jenkins, GitLab, Nexus), illetve konfiguráció kezelőket (pl. Ansible), tesztelési eszközöket (pl. Zephyr, Selenium, SoapUI)Elméleti és gyakorlati ismereteket is szereztél szoftverfejlesztési módszertanok alkalmazásábanKommunikációs szintű angol nyelvtudással rendelkezel (nemzetközi csapatban is kell dolgozni)Milyen személyes kompetenciákra van szükségMinőségi, precíz munkavégzés jellemezIgényed van a folyamatos fejlődésre, hajt a szakmai kíváncsiság és a tanulási vágySzívesen dolgozol csapatban fejlesztőkkel és üzemeltetőkkel, teszt mérnökökkelProaktívan, konstruktív problémamegoldással állsz hozzá kihívást jelentő helyzetek kezelésének Előnyt jelent:Agilis csapatban szerzett munkatapasztalatNagyvállalati környezetben szerzett tapasztalatModern szoftverfejlesztési metódusokkal szerzett tapasztalat
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Raiffeisen Bank Zártkörűen Működő Részvénytársaság
+Pénzügy, biztosítás
+●
+Egyéb monetáris közvetítés
+1000+ munkavállaló
+1986
+1133
+Budapest,
+Váci út 116-118.
+Értékelések a(z) Raiffeisen Bank Zrt. cégről
+3,6
+136 értékelés alapján 
+Értékelések kategória szerint 
+3,7
+Munkaidő és munkarend 
+3,8
+Kollégák és céges hangulat 
+4,1
+Megközelíthetőség 
+3,9
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahelyi extrák
+Céges étkező
+Kávézó
+Orvosi felügyelet
+Céges rendezvények
+Kerékpártároló
+Parkoló
+Ingyen gyümölcs, nasi
+Játéksarok
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

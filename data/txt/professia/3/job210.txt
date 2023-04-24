@@ -1,0 +1,124 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceMedior backend Node.js developer 
+Medior backend Node.js developerGymBeam s.r.o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+From 2 000 EUR/monthContract from 134 to 188 € per day. We will determine the compensation level based on: - your experience - on a scale from an engineer with 2 years of experience, including asynchronous Node.js programming; - your execution of our practical assignment which is part of our selection process.
+Information about the position Job description, responsibilities and dutiesWe are  looking for a skilled Node.js / TypeScript backend or full-stack developer to design and implement brand new backend platform stack (warehouse management system, order management system, logistic integrations, warehouse automations) for the biggest e-commerce platform for 160 million fitness enthusiasts in the CEE region:
+- We are the fastest growing fitness company in Europe;
+- Our e-shop serves 2 000 000 customers in 14 countries;
+- We expect to ship 3 000 000 orders from our warehouse this year;
+- We are developing modern backend services in Node.js / TypeScript, using serverless computing on AWS;
+- You are going to be a part of a fast-moving senior team with 5 developers, 2 quality engineers and a product owner.
+The ideal candidate will have a solid understanding of modern backend technologies and frameworks, is keen on innovation and has a passion for writing and integrating backend services. He or she will be responsible for the design, implementation, technology stack, improving the infrastructure, and ensuring that our serverless backend ecosystem is high-performing and highly scalable.
+WHAT WILL BE YOUR JOB:
+- Designing and implementing multiple backends from scratch for logistic services in Node.js / TypeScript based on event driven serverless architecture in AWS cloud;
+- Developing and maintaining warehouse integrations and applications for personal mobile devices used in the warehouse;
+- Expanding an integrations platform with 30+ courier service APIs;
+- Writing clean, efficient, and testable code that conforms to best practices;
+- Improving our CI/CD pipeline and DevOps practices;
+- Staying up-to-date with the latest developments in backend technologies;
+- Participating in code reviews, testing, and debugging to ensure high-quality code;
+- Helping other people on your team to be their best.
+TECH STACK WE USE ON THIS TEAM:
+- Node.js with TypeScript;
+- AWS CDK and Serverless framework;
+- AWS infrastructure: Lambdas, API Gateway, SQS, SNS, S3 buckets;
+- Databases: NoSQL (DynamoDB) and relational (PostgreSQL);
+- Web and mobile apps:  React, Redux Toolkit;
+- API Documentation: OpenAPI;
+- Unit tests: Jest framework;
+- Git.
+GYMBEAM’S TECH TEAM OVERVIEW:
+- 34 people in 7 teams working in IT;
+- Software Developers, QA Engineers, Data Engineers, Product Owners, Agile Delivery Manager;
+- Essential technologies: JS/TypeScript, PHP, Python;
+- SCRUM;
+- Own QA and Product teams. Employee perks, benefits- Work-life balance with flexible schedules and remote work options;
+- Sports nutrition and healthy foods from our e-shop at cost prices;
+- Open-air rooftop gym and chillout areas in our head office;
+- E-learning courses at LinkedIn and Udemy, online certifications and conferences;
+- Elaborate personal development plan;
+- Extra week of vacation when your baby is born;
+- All overtimes paid out automatically with higher rate;
+- Gyms and recreational facilities memberships (Multisport card);
+- Twice a day lunches for 1 € in our head office, compensation otherwise;
+- Coworking spaces in Bratislava, Brno and Praha. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)Language skillsSlovak - Proficiency (C2) and English - Upper intermediate (B2)Personality requirements and skills- You are a passionate medium backend or fullstack developer who is looking for an opportunity to work on an exciting e-commerce project;
+- Have decent knowledge of TypeScript and at least 2 years experience with asynchronous programming in Node.js;
+- Preferably experience with serverless computing and AWS cloud services;
+- React knowledge is welcome;
+- Familiarity with modern CI/CD build pipelines and DevOps is a plus;
+- A knack for benchmarking and optimization;
+- An experience in the e-commerce, warehouse or logistics space is a plus;
+- You are keen on innovation, you prize learning and personal growth;
+- You like moving fast, getting things done, and delivering value to users. Advertiser Brief description of the companyGymBeam is an international company from its very beginning. Currently operating in 15 markets in Europe, GymBeam is one of the fastest-growing e-commerce projects in the CEE region. We are experts in sports nutrition, healthy functional food and sports accessories. We are the producer of our 6 brands and another 700+ products. Our e-shop also resells more than 9000 products of 120 brands. We serve over 5 million customers and this base is growing exponentially. To respond to our ultra-fast growth we are hiring across the whole company and in almost all departments. We consider all teams as a key to strengthen our continued growth in the future! Number of employees250-499 employees ContactContact person: Vitória SalvadorE-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4555250 
+     Dátum zverejnenia:  11.4.2023 
+    2023-04-11
+lokalita: Remote work   Pozícia: Backend developer, DevOps Engineer, Programmer, Software Engineer, Systems Engineer   Spoločnosť: GymBeam s.r.o.   
+Základná zložka mzdy (brutto): 2 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

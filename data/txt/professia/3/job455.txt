@@ -1,0 +1,127 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceDistributed Control Systems Lead 
+Distributed Control Systems LeadBlueprint Power Slovakia s.r.o.
+Place of work
+Kominárska 1552/3A, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+asap
+Wage (gross)
+5 000 EUR/monthdepends on seniority and skills of the candidate / annual bonus can be provided
+Information about the position Job description, responsibilities and dutiesDaily Job and Responsibility
+1. Lead a team of DCS engineers and provide technical guidance and mentorship on best practices and know-how.
+2. Work across the entire Software Development Lifecycle (SDL) as Distributed Control Systems (DCS) Lead by determining and designing system specifications, requirements, documentation, standards, reviews, and software implementation.
+3. Design, develop, and test software for industrial IoT applications while writing efficient, reliable, and maintainable code in a containerized environment.
+4. Work with cross-functional teams to integrate hardware and software components into the final product.
+5. Share knowledge and best practices across the organization and promote a culture of innovation and continuous improvement.
+6. Debug, troubleshoot, and optimize existing systems to ensure proper operation and efficiency and work with engineers to identify problems in the existing solutions and software stack.
+7. Stay up-to-date with industry standards and emerging technologies, and evaluate and recommend new tools and approaches as appropriate.
+8. Work with the security team to ensure that systems are secure and comply with relevant policies and standards.
+9. Manage team and schedule, and ensure that tasks are delivered on time and within the scope:
+a) Estimate efforts needed for feature development, deployment, and maintenance of all the team members.
+b) Estimate multiple projects' efforts at the planning phase considering workforce capability.
+c) Manage the workforce tasks to achieve delivery of planned functionality within negotiated deadlines.
+d) Track status progress, schedule, and resource allocation, and escalate any issues that may delay project delivery.
+e) Prepare sprint reviews and handle sprint meetings and planning.
+f) Perform regular check-in meetings with the team members (1:1).
+10. Help and support Senior Lead and organization to:
+a) Propose, design, plan, and prioritize projects.
+b) Identify process improvement opportunities within the organization.
+c) Align projects and initiatives to BPP’s business goals and customer journey.
+11. Coordinate with the other Team Leads & Senior Leads on the state of the work, prioritization, and planning.
+12. Work and perform other tasks under the Senior Lead's direction and supervision. Employee perks, benefitsHybrid Work or Full-time Remote Work
+Flexible Working Hours
+Reimbursement for Trainings
+Reimbursement for Certification Exams
+Reimbursement for Conferences
+Travel Allowance for Remote Workers
+Benefits by Working On-site
+Sick Days - up to five additional paid sick days per year
+Extra days off for wedding, childbirth, return from hospital
+Team Buildings and Office Parties Information about the selection processIn case of questions you can reach us through [email protected]
+Selection process would be provided through Lever.Expected date of completion of the selection process29 April 2023 (there are still 9 more days) Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)Educational Specializationinformation technology, computer science, engineering, mathematics, statistics and other IT disciplinesLanguage skillsEnglish - Advanced (C1)Experience in the position/sector5Number of years of experience5Personality requirements and skillsRelevant skills, knowledge or experience 
+- University degree or 5+ years work experience in relevant fields like information technology, computer science, engineering, mathematics, statistics and other IT disciplines.
+- Strong leadership skills, including the ability to mentor and manage a diverse team of software engineers, and other  professionals.
+- Strong python design and development skills including Django framework & Celery.
+- Structured software development experience including agile software development processes.
+- Ability to translate stakeholder needs into technical requirements, decompose them into issue reports, develop validation and verification plans, and deliver results including estimation of work needed.
+- Ability to design scalable, performant, and resilient software applications based on business and technical requirements often within an existing tech stack.
+- Strong background in Linux/Unix administration.
+- Good communication ability with vendors or technical support to resolve issues with 3rd parties or in the field.
+- Knowledge of communication protocols such as MQTT, CoAP, HTTP, and message brokers.
+- Understanding of network protocols and technologies, such as TCP/IP, DNS, HTTP, and HTTPS, and how to troubleshoot them.
+- Familiarity with real-time operating systems, such as RTOS, FreeRTOS, and others.
+- Familiarity with Fleet management platforms for IoT devices (OTAs, OS updates, Configuration Management).
+Understanding of industrial protocols and SCADA systems such as Modbus, CAN, Mbus, DNP3, Ethernet/IP, RS-232/485, Bluetooth, LPWAN, and others.
+- Experience working with SCM (git) and platforms like GitLab or GitHub to collaborate with other team members effectively.
+- Experience in the energy industry, industrial/IoT protocols, distributed control systems, or cybersecurity.
+- Strong problem-solving skills and ability to analyze & troubleshoot complex systems.
+- Ability to present and communicate results to technical and non-technical audiences.
+- Proven ability to learn quickly and works well both independently and in a (distributed) team setting. Advertiser Brief description of the companyProjects we will work on together
+Blueprint Power as a NY based company transforms the energy profile of the built environment, creating new revenue opportunities while reducing the carbon footprint for its customers. We work with buildings of all types - office, multi-family, retail, and others. Our energy transformation platform tracks energy usage and carbon output in real-time, continually optimizes energy consumption with onsite and grid power sources, and increases the value and flexibility of the built environment with a greener strategy. Number of employees20-24 employees ContactContact person: Mgr.  Michaela HercegovaTel.: +421915722855E-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4549353 
+     Dátum zverejnenia:  30.3.2023 
+    2023-03-30
+lokalita: Bratislava   Pozícia: IT Manager, Programmer, Python Programmer, Software Engineer, Systems Engineer   Spoločnosť: Blueprint Power Slovakia s.r.o.   
+Základná zložka mzdy (brutto): 5 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

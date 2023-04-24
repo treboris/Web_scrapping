@@ -1,0 +1,118 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePython Developer with DevOps - Renewable Energy Sector 
+Python Developer with DevOps - Renewable Energy SectorManpowerGroup s.r.o.
+Místo práce
+Jihomoravský kraj, Česká republika
+Druh pracovního poměru
+plný úvazek
+Informace o pracovním místě Náplň práce, pravomoci a zodpovědnostiWould you like to have the opportunity to work on cutting-edge projects that will help shape the future of renewable energy? You will collaborate with a team of like-minded professionals and contribute to the growth of the company. The renewable energy sector is rapidly growing and offers a dynamic work environment with a sense of purpose.
+About Company: Our client is a fast-growing start-up in the renewable energy sector and is dedicated to clean energy use. Provider of automated carbon reduction and electricity cost-saving technology for small and medium-sized enterprises. Headquartered in the UK and Czech Republic, the company currently operates sites in the UK, Czech Republic, Slovakia, Croatia and Poland.  We are looking for talented Python backend developers with basic knowledge of DevOps.
+You will be developing backend systems for new and existing, both cloud and edge-controlled applications. You will also be partially responsible and mainly as a backup for setting automation for build and deployment pipelines and managing cloud infrastructure. The team manages infrastructure as a code, Linux is the primary focus and all solutions are containerized.
+ Zaměstnanecké výhody, benefity
+An enjoyable working environment in a Czech / British team
+A laptop &amp; necessary tech are a given
+Flexible working hours
+Remote work or hybrid
+Location: Brumov-Bylnice, Zlín, Vsetín, Slavičín, Uherské Hradiště, Brno
+Bonuses: part of the company bonus scheme (performance bonus, referrals, meal allowance, phone allowance, sick days…)
+Chance to learn, build and shape cutting edge technology
+Benefits
+Option for Remote Work
+Extra vacation
+Flexible Schedule
+Multisport Card Contribution
+Partial Remote Work
+ Požadavky na zaměstnance Pozici vyhovují uchazeči se vzdělánímstředoškolské s maturitouOsobnostní předpoklady a dovednostiRequired:
+Python with OOP
+Experience building REST API (FastAPI) and integration solution
+Good knowledge of Linux
+Docker and application containerization
+Unit testing
+GitLab, including pipelines
+AWS
+Terraform
+Git
+Advantage:
+AWS products - DynamoDB, Timestream, IoT GreenGrass, IoT Core
+Redis
+SQLAlchemy, Boto3
+InfluxDB, PostgreSQL
+Bash
+Ansible
+Experience with monitoring, auto recovery, scalability
+Ideally, you would be able to achieve the following:
+Understand and complete tasks on time and brief
+Track down and fix bugs in your own and other people’s code
+Drive a simpler project (or a part of a major project) forward unaided when given clear requirements
+Be familiar with agile software development methodologies
+Be able to work independently
+ Inzerující společnost Stručná charakteristika společnostiVíte, co je pro Manpower ve světě práce nejdůležitější? Lidé jako Vy!
+Staráme se o ně a víme, jak je práce v životě každého důležitá. 
+Potřebujete poradit? Podělíme se s Vámi o naše znalosti a zkušenosti a poradíme Vám, co je a bude aktuální v současném světě práce.
+Hledáte jedničku v oblasti personálních služeb? 
+Manpower je světovým lídrem v oblasti lidských zdrojů. Naší klíčovou hodnotou je inovace vedoucí k dlouhodobému rozvoji ve světě práce.
+Už víte, co budete dělat? KontaktKontaktní osoba: Yuliia ShevtsovaE-mail: poslat životopis Poslat společnosti životopis 
+                    Doporučit nabídku známému
+ E-mail Facebook Viber Whatsapp
+ID: 4548634 
+     Dátum zverejnenia:  30.3.2023 
+    2023-03-30
+lokalita: Jihomoravský kraj   Pozícia: Programátor, Programátor Python   Spoločnosť: ManpowerGroup s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

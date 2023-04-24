@@ -1,0 +1,54 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Dinamikusan növekvő partnercégünknél megismerkedhetsz az autóipar legújabb kihívásaival és a világ vezető autógyártóival dolgozhatsz együtt.
+Légy részese egy olyan több mint 20 éves sikertörténetnek, amely Budapestről indult és vált nemzetközi szinten is egy meghatározó fejlesztési központtá. 
+Multinacionális cégcsoport számára készített belsőfelhasználású alkalmazás fejlesztése /testre szabása
+Rendszer- és hozzáférési jogosultság adminisztráció, alkalmazás-menedzseri feladatok, szolgáltatás folyamatosság biztosítása
+Tesztelési feladatok elvégzése
+Hibaelhárításban való részvétel
+Szoros együttműködés a rendszerek üzleti elemzőivel, kulcsfelhasználókkal, külsőtámogatóival
+Release-ek élesbe állítása
+Együttműködés a projektekben, riportolás
+Kisebb projektigények önálló koordinálása
+Felhasználói, adminisztrátori, támogatói, tesztelői útmutatók készítése, felülvizsgálata
+                Elvárások / Requirements
+Felsőfokú végzettség
+#C, PHP, javascript, MsSQL ismeret
+JIRA, Git tapasztalat
+Aktív középfokú angol nyelvtudás
+Előny:
+Webes interfészek integrálásában szerzett tapasztalat
+.net, VueJS, Laravel ismeret
+Német nyelvtudás
+Személyiség
+Határozottság, önálló munkavégzés
+Nyitottság több alkalmazás területén való teljesítésre
+Felelősségvállalás, problémamegoldó képesség
+Fejlődési, tanulási képesség és hajlandóság
+                Amit nyújtunk / Benefits
+A XI. kerületben található modern irodaházban, kreatív környezetben dolgozhatsz, ahol sok színes közösségi tér, saját moziterem és egy skybar is vár
+Rugalmas munkaidő és home office lehetőség
+Versenyképes fizetés és széleskörű juttatások (cafeteria és bónusz)
+Részese lehetsz egy sikeres, gyorsan növekvő technológiai vállalatnak
+Új nyelveket tanulhatsz (5 nyelv közül választhatsz)
+Szabadidős programokon kapcsolódhatsz ki (társasjátékok, sportolási lehetőség)
+DevOps Engineer 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 14.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ IT DevOps Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  
+ Devops Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  
+ Devops Engineer 
+ Budapest  

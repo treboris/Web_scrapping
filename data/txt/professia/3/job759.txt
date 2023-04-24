@@ -1,0 +1,113 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFullstack Developer (C#, .Net, Javascript, Web Stack (HTML5, CSS3)) 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponukyFullstack Developer (C#, .Net, Javascript, Web Stack (HTML5, CSS3))Manuvia, a. s.
+Miesto práce
+Bratislavský kraj
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 200 EUR/mesiacFinálna mzda závisí od skúseností kandidáta.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti• Podieľanie sa na architektúre, dizajne a technickom dlhu produktu s cieľom zabezpečiť škálovateľnú SW platformu, na ktorú možno pripojiť a konfigurovať služby.
+•     Návrh a implementácia softvérových komponentov na základe softvérového návrhu (napr. webové služby RESTful atď.)
+•     Transformácia požiadaviek rôznych zainteresovaných strán do implementácie biznis logiky v backendovej službe
+•     Podpora stratégie testovania z hľadiska písania automatizovaných testov a unit testov
+•     Zabezpečenie kvality softvérového produktu (súlad s procesom vývoja)
+•     Údržba a zlepšovanie rôznych častí používateľského rozhrania
+•     Integrovať časti front-endu s backendovými službami a nasadzovať mikrostránky s využitím architektúry micro-services
+•     Nasadenie a monitorovanie služieb
+•     Zapracovanie spätnej väzby od používateľov a požiadaviek na zmeny v krátkych vývojových cykloch (agilný vývoj)
+•     Dokumentácia návrhu a implementácie produktu
+•     Vyhľadávanie a oprava chýb softvéru Zamestnanecké výhody, benefity• Variabilný a vianočný bonus
+• Hybridný typ práce - kombinácia práce na diaľku a práce z kancelárie
+• Flexibilný pracovný čas
+• Bridge days - bezplatné extra platené voľno 6 dní ročne
+• 3 dni zdravotného voľna ročne (nie je potrebné povolenie od lekára)
+• V prípade choroby 100 % náhrada mzdy 20 dní/rok, to zahŕňa max. 10 dní/rok na starostlivosť o rodinu
+• Doplnkový dôchodkový plán
+• 300 EUR na regeneráciu pracovnej sily prostredníctvom systému kafetérie
+• Wellbeing program - psychologické, právne a finančné poradenstvo
+• Program starostlivosti o rodinu (dotácia na novorodenca, materská dovolenka, materské školy, letné tábory)
+• Program udržania zamestnancov (pracovné výročie, životné výročie, zamestnanecké pôžičky)
+• Program vzdelávania a rozvoja (obchodné a produktové školenia, e-learning, jazykové kurzy, školenia mäkkých zručností,...)
+• Účasť na svetoznámych IT konferenciách ako Microsoft IGNITE pre najlepších zamestnancov
+• Široké portfólio projektov v oblasti zdravotníctva a rotácia pracovných miest v rámci spoločnosti (kybernetická bezpečnosť, umelá inteligencia, IT služby v oblasti zdravotníctva, ...) Spoločnosť, pre ktorú je pozícia obsadzovanáPre popredného klienta v oblasti poskytovania zdravotníckych služieb zákazníkom a vývoja technológii, hľadáme vhodného kandidáta na pozíciu FullStack Developera. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitouJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Osobnostné predpoklady a zručnosti• Bakalársky alebo magisterský titul v oblasti informatiky alebo v príbuznom odbore
+• Viac ako 5 rokov praktických skúseností s vývojom softvéru agilným spôsobom
+• znalosť: C#, .NET, JavaScript, web stack (HTML5, CSS3)
+•  skúsenosti s: .NET Core, ASP.NET Core, Angular
+• dobrá znalosť OOP, SOLID, Clean Code
+• automatizácia testovania a unit testing
+• kontinuálna integrácia a kontinuálne nasadzovanie
+• angličtina v hovorenej a písanej forme
+• mentorovanie a vedenie mladších vývojárov
+• kultúra otvorenej spätnej väzby a neustáleho zlepšovania, tímový hráč
+Je dobré mať:
+• Event Sourcing
+• Docker, Kubernetes, Helm
+• základné znalosti o sieťach - TCP/IP
+• skúsenosť s TDD
+• skúsenosť s AWS, Rabbit MQ
+• skúsenosť Micro-services architektúrou Inzerujúca spoločnosť Stručná charakteristika spoločnostiManuvia je personálna agentúra, ktorá pôsobí na slovenskom a českom trhu už vyše 20 rokov. Zabezpečujeme komplexný servis služieb – od dopravy a ubytovania až po starostlivosť koordinátorov na pracovisku. Naše skúsené náborárky pre vás nájdu ideálnu prácu. Nezmeškajte tie najlepšie pracovné ponuky a kontaktujte nás ešte dnes!
+Počet zamestnancov
+5000 a viac zamestnancovSpoločnosť je držiteľ povolenia na sprostredkovanie práce. Počet zamestnancov1000 a viac zamestnancov 
+ID: 4541784 
+     Dátum zverejnenia:  20.3.2023 
+    2023-03-20
+lokalita: Bratislavský kraj   Pozícia: .NET programátor, C# programátor, Javascript programátor   Spoločnosť: Manuvia, a. s.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 200 EUR/mesiac
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

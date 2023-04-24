@@ -12,8 +12,6 @@ import time
 corpustxt = {}
 matches = {}
 files = []
-#FILL CORPUSTXT LIST
-def corpus(name):
     with open(f"keywords/{name}", 'r') as file:
         line = file.read().splitlines()
         for l in line:

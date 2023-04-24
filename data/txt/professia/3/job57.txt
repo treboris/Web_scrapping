@@ -1,0 +1,96 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceAWS/Terraform/Kubernetes Engineer 
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+AWS/Terraform/Kubernetes EngineerInformácie o pracovnom miesteMiesto práce: Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)Mzdové podmienky (brutto): Od 3 000 EUR/mesiacfinálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*Termín nástupu: DohodouDruh pracovného pomeru: plný úväzokNáplň práce, právomoci a zodpovednosti- Budovať, udržiavať a zlepšovať architektúru systému ďalšej generácie spôsobom „Infrastructure as a Code“
+-Budovanie cloudového AWS prostredia, Kubernetes, IaS
+- Zodpovedá za vytváranie a implementáciu systémových vylepšení, ktoré zlepšujú výkon a spoľahlivosť systému
+- Budovanie a vývoj platforiem CI/CD s cieľom rýchlejšieho a bezpečnejšieho presunu zmien do produkcie
+- Vyvinúť nástroje a procesy na lepšie využitie základných zdrojov
+- Vytvárať dokumentačné materiály a usmerňovať ďalšie tímy týkajúce sa navrhovaných riešení a technológií Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieStabilná spoločnosť poskytujúca zaujímavé a inovatívne projekty. Požiadavky na zamestnanca Požadované vzdelaniestredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreIT, technické, SW Inžinierstvo, telekomunikácie, bezpečnosťJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Osobnostné predpoklady a zručnosti- 3+ roky skúseností ako System Engineer, Automation Developer, DevOps Engineer, AWS Admin(Architect, Deployment špecialista, Linux a aplikačný administrátor, Release Engineer..
+- Skúsenosti so skriptovaním pomocou Bash alebo Python
+- Skúsnenosti s configuration management toolmi: Ansible, Chef, Salt, Puppet…
+- Orchestrácia, kontajnerizácia a riadenie zdrojov: OpenShift, Kubernetes, Docker 
+- Silné znalosti o systémoch založených na Linuxe; RedHat
+- Dobrá znalosť cloudových riešení – AWS, networking, microservices, 
+- CI/CD, setting up pipelines, znalosť version control system (git, bitbucket...)
+- Deployment Jenkins, Bamboo
+- Základné znalosti o osvedčených postupoch softvéru, ako je agilný vývoj, vývojový program Devops, pokyny pre kódovanie, preskúmania kódu atď.
+Ďalšie znalosti: Terraform, Kafka, Nginx, Bitbucket, Nexus, git, Bamboo, Jenkins, JBoss, 
+- Správa monitoringu – Prometheus, Zabbix, Grafana, Elastic, Splunk Inzerujúca spoločnosť Stručná charakteristika spoločnostiPro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search. 
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti. 
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu: 
+1. nižší, stredný, vyšší manažment 
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM 
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)Spoločnosť je držiteľ povolenia na sprostredkovanie práce. (AA/2009/4810/4232/OISS) Hlavná oblasť pôsobenia spoločnostiSprostredkovanie práce a personálne poradenstvo Počet zamestnancov10-19 zamestnancov KontaktKontaktná osoba: Ing.  Anna TkáčováTel.: +421911247080E-mail: poslať životopis
+ Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4261831 
+     Dátum zverejnenia:  17.4.2023 
+    2023-04-17
+lokalita: Bratislava   Pozícia: DevOps Engineer, Programátor, Python programátor, Scrum Master, Systémový administrátor   Spoločnosť: Pro HR   
+Základná zložka mzdy (brutto): 3 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

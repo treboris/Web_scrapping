@@ -1,0 +1,117 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSAP Consultant - rôzne moduly (HR/SD/MM/Proc/PP/FICO) 
+    Reagujte bez životopisu
+SAP Consultant - rôzne moduly (HR/SD/MM/Proc/PP/FICO)gd - Team, a.s.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 500 EUR/mesiacod 3.500 EUR brutto, možnosť spolupráce aj na faktúru
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme skúseného kolegu na pozíciu (Senior) SAP konzultanta, ktorý vie pracovať samostatne, je profesionál vo svojom obore a rád by zúžitkoval svoje skúsenosti. 
+ Hľadáme konzultantov pre moduly
+ - FI/CO
+ - HR
+ - Logistika (SD/MM, PP)
+Náplň práce:
+- Údržba komponentov a funkcií pre aplikácie SAP s cieľom splniť požiadavky zákazníka. 
+- Prispôsobenie aplikácií SAP s cieľom nájsť a odstrániť problémy a obnoviť pôvodnú funkčnosť.
+- Implementácia a podpora modulov SAP s cieľom zlepšiť obchodné funkcie a celkovú výkonnosť klientov pri zachovaní vysokého stupňa spokojnosti zákazníka.
+- Návrh, konfigurácia a testovanie rôznych SAP modulov
+- Analýza súčasných obchodných procesov a scenáre klienta a odporúčanie/vývoj riešenia na splnenie potrieb klienta
+- Vykonávanie komplexných alebo nových úloh vyžadujúcich vývoj nových alebo vylepšených postupov
+- Vypracovanie a vyhodnocovanie plánov a kritérií, ktoré majú vykonávať iní; poskytovať usmernenie a vedenie
+- Poskytovanie podrobných znalostí osvedčených postupov v odvetví. 
+- Konktaktná osoba pre klienta pri riešení problémov: skúmanie, analýza a riešenie softvérových problémov a mapovanie obchodných požiadaviek, procesy a ciele klienta; vývoj potrebných úprav produktu na uspokojenie potrieb klienta.
+- Udržiavanie dôkladných znalostí organizácie a dodržiavanie všetkych organizačných štandardov.
+- Analýza požiadaviek zákazníka na prispôsobenie aplikácie SAP s cieľom navrhnúť vhodné riešenie a realizáciu.
+- Komunikácia s ABAP vývojármi alebo solution designerom a navrhovanie designu pre implementáciu nových komponentov pre aplikácie SAP.
+- Vyhľadávanie a odstraňuvanie problémov/chýb v aplikácii 
+- Dokumentácia zmien v systéme a návrh nových komponentov s cieľom zabezpečiť ich čitateľnosť pre budúce použitie.
+- Testovanie novo pridaných funkcií, aby sa predišlo chybám v produktívnom systéme. Zamestnanecké výhody, benefity- práca na atraktívnych medzinárodných i lokálnych projektoch
+- interné a externé vzdelávanie v oblasti SAP (certifikáty, školenia)
+- väčšina práce vykonávaná formou home-office (najmä zahraničné projekty)
+- služobný telefón podľa vlastného výberu
+- služobný notebook podľa vlastného výberu
+- využívanie anglického a nemeckého jazyka
+- podpora vzdelávania v nemeckom a anglickom jazyku
+- príjemný profesionálny kolektív s jednoduchou organizačnou štruktúrou
+- work-life balance
+- pravidelné teambuildingové aktivity v zahraničí a na Slovensku
+- možnosť vykonávať prácu remote alebo z officu v BA, PK, ZA či KE Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreSAPJazykové znalostiNemecký jazyk - Stredne pokročilý (B2) alebo Anglický jazyk - Stredne pokročilý (B2)Ostatné znalostiSAP ERP - PokročilýSAP Human Resource Management Systems (HRMS) - PokročilýSAP Materials Management (MM) - PokročilýSAP Sales and Distribution (SD) - PokročilýSAP Production Planning (PP) - PokročilýSAP FI/CO - PokročilýABAP - ZákladyPočet rokov praxe4Osobnostné predpoklady a zručnostiPožiadavky:
+ - Spolupráca na workshope consolut / customer
+ - Začlenenie právnych požiadaviek (FICO, HR, MM/SD)
+ - Skúsenosti z oblasti výroby (PP) výhodou
+ - Skúsenosti z oblasti výroby a logistiky (Proc/MM, LE)
+- ABAP znalosti výhodou
+- nemecký prípadne anglický jazyk aktívne (minimálne na úrovni B2) Inzerujúca spoločnosť Stručná charakteristika spoločnostiSpoločnosť gd-Team bola založená v roku 2005. Patrí k renomovaným poskytovateľom IT služieb v strednej a západnej Európe so zameraním na nemecky hovoriace trhy. Jej kľúčovými činnosťami sú poskytovanie konzultácií a poradenských služieb v oblasti SAP riešení, predovšetkým v segmentoch sieťových odvetví, priemyslu, služieb a verejného sektora. Ako dynamicky rozvíjajúca sa firma z Pezinka vyniká stabilným a vysokokvalifikovaným tímom odborníkov. Silnou konkurenčnou výhodou je jazyková zdatnosť a geografická dostupnosť konzultantov v rámci strednej Európy a okolitých trhov. Spoločnosť gd-Team kontinuálne investuje prostriedky do inovácií a vzdelávania svojich pracovníkov. Disponuje oficiálnym servisným strediskom SAP Partner Center of Expertise (PCoE) a v júli 2019 sa stal certifikovaným SAP PCoE VAR zlatým partnerom.
+O zaujímavostiach zo života firmy a jej zamestnancov sa dozviete na našej Facebook stránke: https://www.facebook.com/gdteamslovakia Počet zamestnancov100-149 zamestnancov KontaktKontaktná osoba: Mgr.  Barbora LichnerováTel.: +421947948042E-mail: 
+ Na to, aby ste reagovali na túto ponuku, nepotrebujete životopis. Stačí, keď pošlete žiadosť.Poslať žiadosť spoločnosti 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4554951 
+     Dátum zverejnenia:  13.4.2023 
+    2023-04-13
+lokalita: Práca z domu   Pozícia: ABAP programátor, IT konzultant   Spoločnosť: gd - Team, a.s.   
+Základná zložka mzdy (brutto): 3 500 EUR/mesiac
+Poslať žiadosť spoločnostiOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,449 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+hirdetés
+Keresési feltételek
+Budapest
+Debrecen
+Pécs
+Szeged
+.NET developer
+ASP.NET developer
+C# developer
+rendszermérnök
+szoftvermérnök
+IT security specialist
+telekommunikációs szakember
+Állások száma: 
+83
+Minden keresési feltétel törlése
+Szakterület
+Adminisztráció, asszisztencia
+76
+Bank, biztosítás
+31
+Egészségügy, gyógyszeripar
+18
+Építőipar, épületüzemeltetés
+63
+Értékesítés, kereskedelem
+163
+Gyártás, műszaki terület
+219
+Humán erőforrások, munkaügy
+79
+IT, telekommunikáció
+445
+Jog, közigazgatás, társadalom, politika
+7
+Karbantartás, szerviz
+74
+Kutatás, fejlesztés
+2
+Logisztika, beszerzés
+135
+Marketing, PR, média
+65
+Menedzsment, felsővezetés
+6
+Mezőgazdaság, környezetvédelem
+5
+Minőségbiztosítás
+43
+Oktatás, képzés
+2
+Pénzügy, számvitel
+252
+SSC (Shared Service Center)
+98
+Szakmunka, fizikai munka
+212
+Újságírás, szerkesztőség
+5
+Ügyfélszolgálat, call center
+52
+Vendéglátóipar, idegenforgalom
+9
+IT, telekommunikáció
+szoftverfejlesztő
+99
+IT helpdesk
+38
+szoftvermérnök
+30
+Java developer
+28
+system administrator
+25
+rendszermérnök
+22
+business analyst (IT)
+21
+IT security specialist
+18
+software test engineer
+18
+SAP consultant
+17
+development team lead
+15
+projektmenedzser (IT / telekommunikáció)
+15
+SAP szakértő
+15
+gyakornok (IT / telekommunikáció)
+14
+IT manager
+14
+database administrator
+11
+web developer
+11
+C# developer
+10
+tesztmérnök (IT/Telekommunikáció)
+10
+reporting specialist
+8
+C++ developer
+5
+Scrum Master
+5
+telekommunikációs szakember
+5
+.NET developer
+4
+SAP developer
+4
+business intelligence ( BI ) specialist
+3
+C developer
+3
+ERP / CRM specialist
+3
+gazdasági informatikus
+3
+hardware developer
+3
+mobile developer
+3
+Python developer
+3
+embedded developer
+2
+gyártásinformatikus
+2
+java backend developer
+2
+project manager
+2
+technical writer
+2
+PL / SQL fejlesztő
+1
+rendszerelemző
+1
+user experience designer
+1
+Hely
+Budapest
+73
+Baranya megye
+13
+Csongrád megye
+11
+Hajdú-Bihar megye
+13
+Hajdú-Bihar megye
+Debrecen
+13
+Baranya megye
+Pécs
+13
+Csongrád megye
+Szeged
+11
+Nyelvismeret
+nem igényel nyelvtudást
+13
+angol
+68
+német
+10
+francia
+1
+Munkatapasztalat
+pályakezdő /tapasztalat nélkül
+3
+1 - 2 év tapasztalat
+39
+3 - 5 év tapasztalat
+47
+5+ év tapasztalat
+15
+Végzettség
+Középfokú végzettség
+20
+Felsőfokú végzettség
+72
+OKJ
+3
+Munka jellege
+teljes munkaidő
+81
+projektmunka
+2
+távmunka, home office
+25
+Hirdető
+közvetlen munkaadó
+24
+közvetítő cég
+59
+Bérsáv
+ - 
+Ft
+EUR
+GBP
+USD
+ A maximum nem lehet kisebb a minimum értéknél!
+Fizetés típusa
+bruttó
+nettó
+Fizetés gyakorisága
+óra
+hónap
+ALKALMAZ ›
+hirdetés
+?
+Állásposta
+Hibás e-mail cím!
+Feliratkozás ›
+Sikeres regisztráció!
+Kérjük, aktiváld a felhasználói fiókodat: A megadott e-mail címre elküldtük a megerősítő linket.
+Ezt követően feltöltheted az önéletrajzodat és beállíthatod, hogy milyen állásokról szeretnél értesítést kapni.
+Sikeres álláskeresést kívánunk!
+Sikeres regisztráció!
+Köszönjük, hogy regisztráltál! Még aktiválnod kell a kiküldött e-mail-ben szereplő linkre kattintva! 
+A nyereménysorsolásban csak aktivált fiókkal veszel részt. (Ha a beérkező levelek között nem találod, nézd meg a „Levélszemét” mappát is.)
+Sikeres álláskeresést kívánunk!
+Sikeres aktiválás!
+Köszönjük, hogy aktiváltad Jobline fiókodat és Álláspostádat! Részt veszel a nyereménysorsolásban.
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Új Állásposta beállítva!
+Köszönjük, hogy új Álláspostát állítottál be, ezzel részt veszel a nyereménysorsoláson. A nyerteseket e-mailben értesítjük. 
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Új Állásposta beállítva!
+Töltsd fel önéletrajzodat a Jobline-ra, hogy MOBILON is jelentkezhess állásainkra, és hogy a munkaadók megtalálhassanak neked való állásajánlatokkal!
+Sikeres álláskeresést kívánunk!
+Budapest - Debrecen - Pécs - Szeged - .NET developer - ASP.NET developer - C# developer - rendszermérnök - szoftvermérnök - IT security specialist - telekommunikációs szakember állások, állásajánlatok
+?
+Állásposta
+Hibás e-mail cím!
+Feliratkozás ›
+83 állás
+HVG Kiadó Zrt.
+.Net fejlesztő (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+HVG Kiadó Zrt.
+SENIOR SOFTWARE ARCHITECT (Budapest)
+5+ év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+Deutsche Telekom IT Solutions
+People Lead - Devops (REF1105J) (Budapest)
+3 - 5 év tapasztalat
+5+ év tapasztalat
+középvezető
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - felsőfokú
+hirdetés
+Deutsche Telekom IT Solutions
+Security Analyst (REF92A) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Deutsche Telekom IT Solutions
+Software Engineer (CyberArk) (REF1366M) (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+DevOps Engineer (Magyarország)
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Thyssenkrupp
+Control System Engineer (Debrecen) (Debrecen)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Senior Network Architect (Open Telekom Cloud) (REF1665U) (Budapest)
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Randstad Hungary Kft
+Hálózatépítő (Budapest)
+pályakezdő /tapasztalat nélkül
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+OKJ
+teljes munkaidő
+Deutsche Telekom IT Solutions
+Network Administrator (TECHNIK HU) REF1649J (Debrecen)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+német - középfokú
+Deutsche Telekom IT Solutions
+German speaking IT Security Advisor (REF1513T) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+német - felsőfokú
+Thyssenkrupp
+Software Test Engineer (MOM) (Budapest)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Deutsche Telekom IT Solutions
+Full Stack Fejlesztő (REF1279D) (Budapest)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Deutsche Telekom IT Solutions
+Cloud Engineer with Containerization skillset (GCP knowledge) (REF1502Z) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Deutsche Telekom IT Solutions
+Security Solution Administrator - Platform Operation (REF1249B) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Security Solution Administrator - Antivirus Operation (REF565Y) (Budapest)
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+Deutsche Telekom IT Solutions
+Microsoft szoftverfejlesztő (REF171M) (Budapest)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Deutsche Telekom IT Solutions
+Volkswagen - Application Support (REF929P) (Budapest)
+3 - 5 év tapasztalat
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+Középfokú végzettség
+teljes munkaidő
+távmunka, home office
+Deutsche Telekom IT Solutions
+DevOps Engineer (REF215M) (Budapest)
+3 - 5 év tapasztalat
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+Deutsche Telekom IT Solutions
+Network Engineer (REF218L) (Budapest)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+83 állás
+1
+2
+3
+4
+5
+Tűnj ki a tömegből letölthető önéletrajz mintáinkkal
+Ne csak a tartalom legyen kiemelkedő
+Önéletrajzminta letöltése ›
+Önéletrajzminta letöltése ›
+Önéletrajzminta letöltése ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+Ezekkel a beállításokkal már vettél fel Álláspostát.
+Biztos, hogy el akarod menteni?
+Mégsem
+Mentés ›
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

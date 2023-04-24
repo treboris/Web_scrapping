@@ -1,0 +1,54 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Medior Software Test Automation Engineer
+Design test plans, scenarios, scripts, or procedures.
+Develop or specify standards, methods, or procedures to determine product quality or release readiness.
+Document software defects, using a bug tracking system, and report defects to software developers.
+Monitor bug resolution efforts and track successes.
+Install, maintain, or use software testing programs.
+Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.
+Apply testing processes and techniques, such as functional, structural, integration and System testing.
+Analyze and Interpret requirements.
+                Elvárások / Requirements
+Experience with test case creation and test case execution.
+At least 3 year related work experience in automation testing.
+Seeking for details and global understanding of the software
+Highly motivated in self-development
+Knowledge of a programming language Java or JavaScript, Android Studio, Xcode, Visual Studio Code
+Design, implement, execute and maintain automated tests
+Knowledge at least one test automation tool,
+Knowledge of Appium is an advantage
+English skills - You'll be inn touch with international teams!
+Experience with: BDD, Automation Test
+Understanding of Agile methodologies
+Excellent communication skills
+                Amit nyújtunk / Benefits
+High level of autonomy in a laid-back environment
+Great learning and networking opportunities with experienced colleagues
+An international and multicultural squad
+Certifications and Training, partnerships
+License for online tech platform and others
+Job Rotation
+Hybrid or Remote work options
+Great chances for career growth
+Team building and engagement events (online & offline)
+a0t5800000FbiqrAAB
+Medior Software Test Automation Engineer 
+Jelentkezem
+Elmentem az állást
+Trenkwalder Kft 
+Debrecen 
+Teljes munkaidős 
+Frissítés dátuma: 20.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ QA Test Automation Engineer (Pytest) 
+ Budapest  
+ Software Test Engineer 
+ Budapest  
+ Test Automation Engineer  
+ Budapest  
+ Embedded Software Test Engineer 
+ Budapest  
+ Software Test Engineer 
+ Budapest  

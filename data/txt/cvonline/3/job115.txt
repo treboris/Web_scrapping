@@ -1,0 +1,55 @@
+ÁLLÁSHIRDETÉS FELADÁS
+MEDIOR DEVOPS ENGINEER 
+Főbb feladatok:
+Docker/Docker Swarm/Kubernetes konténerizációs és orchestrációs technológiák használata on-premise környezetben
+		CI/CD kialakítása és támogatása: Git (GitLab, Azure DevOps), Gitlab pipelines, Ansible
+		Hálózat üzemeltetés és fejlesztés, valamint ezek biztonsági menedzsmentje. (OpenVPN, Active Directory, LDAP)
+		Környezeti, teljesítmény, security, monitorozási és rendelkezésre állási követelmények kialakítása és/vagy fejlesztése Infrastructure-as-Code szemlélettel
+nginx, Apache webszerverek és webalkalmazások (.NET) telepítése, üzemeltetése
+		HA network loadbalancing konfigurálása, üzemeltetése (Traefik, HAProxy)
+		Adatbázisok üzemeltetése és konfigurációja (PostgreSQL, MariaDB, Elasticsearch, CassandraDB, Redis)
+		Artifact Repository megoldások kialakítása és kezelése: Artifactory
+		georedundáns alkalmazáskörnyezetek kialakítása, üzemeltetése
+Elvárások:
+Legalább 1-3 éves alkalmazás/webszerver/felhő/virtualizációs üzemeltetésben szerzett tapasztalat
+		Konténerizációs, orchestrációs és felhő alapú technológiákban gyakorlati tapasztalat – Docker/Docker Swarm/Kubernetes mélyebb ismerete
+Felsőfokú végzettség
+Linux shell és shell script parancsok ismerete
+		Operációs rendszer ismeret: Linux, Windows
+		Hálózati ismeretek
+Virtualizációs ismeretek (KVM, VMware, ESXi)
+Alapfokú angol nyelvtudás
+		Önálló munkavégzés és magas szintű problémamegoldó képesség
+		Folyamatos önfejlesztésre való igény technológiai területeken
+Előnyt jelent:
+		Performance measurement, monitoring tapasztalat
+Cloud tapasztalat (Azure, vagy akár egyéb)
+Amit a Partnerünk kínál:
+Fix alapbér + projektalapú bónusz rendszer
+		Csapatépítő programok
+		Szakmai képzések támogatása
+		Szakmai kihívások változatos projektekben
+Home office lehetőség
+Munkavégzés helye: Budapest, XIII. kerület
+Munkaidő: Rugalmas munkaidő (saját munkaszervezés alapján) - Hibrid munkavégzés
+Amennyiben a hirdetés felkeltette az érdeklődését, jelentkezzen önéletrajzának csatolásával az alábbi gombra kattintva!
+Jelentkezem
+Elmentem az állást
+MEDIOR DEVOPS ENGINEER 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 14.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ DevOps Engineer - Budapest 
+ Budapest  
+ DevOps Engineer - Budapest 
+ Budapest  
+ Mid/Senior DevOps Engineer  - Hybrid 
+ Budapest  
+ Cloud Native DevOps Engineer - Hibrid 
+ Cloud Native DevOps Engineer – Budapest IX./ Hybrid 

@@ -1,0 +1,133 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePerl programátor na kontrakt, 415 až 480€/MD 
+Perl programátor na kontrakt, 415 až 480€/MDTITANS freelancers, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP alebo dohodou
+Mzdové podmienky (brutto)
+5 300 - 5 800 EUR/mesiacPráca na kontrakt podľa počtu odpracovaných hodín.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDĺžka projektu: 12 mesiacov s možnosťou predĺženia;
+Spolupráca v kombinovanom ON-SITE (Bratislava)/ OFF-SITE režime - v rozsahu 1-2 dni v týždni OFF-SITE.
+- Vývoj na strane back-end-u v technológii Perl;
+- rozširovanie funkcionality existujucej back-end časti systému;
+- spolupráca v rámci agilného tímu v zložení: 5-6 back-end senior programátori, 1 team leader (SCRUM Master);
+- vývoj je postavený na princípe DDD (Domain-Driven Design);
+- komunikácia medzi network deamons prebieha asynchrónne a paralelne;
+aplikované/implementované sú:
+- štandardné CPAN moduly (XML, NYTProf, DBI, JSON::XS);
+- vlastné moduly na komunikáciu s protokolmi/rozhraniami Net::AMQP (RabbitMQ), IO::Poll, IO::Socket,;
+- spolupráca s front-end tímom v rámci integrácie s back-end-om. Zamestnanecké výhody, benefity- Stabilné zamestnanie a motivujúce finančné ohodnotenie;
+- flexibilný pracovný čas s možnosťou home office;
+- časopis – TouchIT, Nextech alebo Forbes po 60 odpracovaných MD;
+- ticketportal alebo kino poukážky po 80 odpracovaných MD;
+- Alza poukážka - po 100 odpracovaných MD. Informácie o výberovom konaníV prípade Vášho záujmu nám, prosím, pošlite životopis v anglickom jazyku s upresnením Vašej časovej dostupnosti. 
+Kontaktovať ohľadom ďalšieho postupu výberového konania budeme všetkých záujemcov. Ďakujeme Vám vopred za prejavený záujem.
+Osobné údaje záujemcov o spoluprácu na projekte, ktorí nám zašlú svoj profesijný životopis prostredníctvom internetovej stránky www.profesia.sk, budeme spracúvať na účely výberového konania. Poskytnutie údajov záujemcu je nevyhnutné na účasť vo výberovom konaní, ktorého sa zúčastňuje ako záujemca o účasť na projekte, ktorý bude realizovaný pre nášho zákazníka. Osobné údaje záujemcov o spoluprácu (fyzických osôb – podnikateľov resp. konateľov spoločnosti, ktorí majú záujem byť našim obchodným partnerom) v rozsahu údajov uvedených v životopise, motivačnom liste, iných zaslaných prílohách a ďalších údajov získaných na uvedený účel v priebehu výberového konania (napr. pri osobnom pohovore) budeme spracúvať na tento účel po dobu do skončenia výberového konania. Spracúvanie údajov záujemcov na tento účel je nevyhnutné, aby sa na základe žiadosti dotknutej osoby vykonali opatrenia pred uzatvorením zmluvy (predzmluvné vzťahy). Osobné údaje budeme na tento účel uchovávať po dobu do ukončenia výberového konania. Bližšie informácie o podmienkach spracúvania Vašich osobných údajov na tento účel nájdete v sekcii Pravidlá ochrany osobných údajov na našej webovej stránke. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaPrax na pozícii/v oblasti4 roky.Osobnostné predpoklady a zručnosti- Minimálne 4-ročná (aktívna) skúsenosť s back-end programovaním v Perl-e;
+skúsenosti s:
+- programovaním rozsiahlých systémov/riešení v jazyku Perl (nie iba skriptovanie);
+- modulmi/knižnicami CPAN;
+- MS SQL/MySQL DB;
+- niektorým z repository systémov (Git/SVN,...);
+znalosť:
+- PHP;
+- XML;
+- JSON;
+- niektorého continuous integration nástroja (Jenkins);
+- konceptu DDD (Domain-Driven Design);
+výhodou  skúsenosti s:
+- message broker-om RabbitMQ;
+- používaním project track-ovacích nástrojov (napr. JIRA, Confluence, ...);
+- agilným spôsobom SW vývoja (SCRUM, LEAN, KANBAN);
+- distribúciou Linux-u CentOS;
+- platformou SaltStack;
+- PostgreSQL;
+- zodpovednosť;
+- komunikatívnosť;
+- samostatné a tvorivé myslenie;
+- analytické myslenie;
+- tímový hráč. Inzerujúca spoločnosť Stručná charakteristika spoločnostiChceš sa stať TITANOM? Úspech sa začína odvahou.
+Sme TITANS freelancers a už viac ako deväť rokov poskytujeme služby v oblasti outsourcingu IT freelancerov.
+Sme inovatívni. Sme nezávislí. Sme féroví a priami!
+Posilňujeme IT projekty, na ktorých chýbajú tí správni ľudia. 
+Freelancerom ponúkame možnosti, ktorými sa neboja pochváliť ďalej.
+Spolupracujeme s viac ako 400 rôznorodými spoločnosťami na Slovensku a v zahraničí.
+Toto sú čísla, ktoré hovoria za nás:
+●  viac ako 13 800 dostupných IT špecialistov
+●  viac ako 1 270 alokovaných TITANov
+●  189 010 dodaných Mandayov
+●  1 016 vyzbrojených IT projektov
+Láka ťa freelancing, no nevieš, ako a kde začať? Nechaj to na nás.
+Radi ti poradíme aj v oblasti účtovníctva. Jedno bez druhého jednoducho nejde.
+Nestačí? Ak máš záujem, prezradíme ti viac. Počet zamestnancov20-24 zamestnancov KontaktKontaktná osoba: RecruitmentE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4544690 
+     Dátum zverejnenia:  23.3.2023 
+    2023-03-23
+lokalita: Bratislava   Pozícia: Perl programátor, Programátor   Spoločnosť: TITANS freelancers, s.r.o.   
+Základná zložka mzdy (brutto): 5 300 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

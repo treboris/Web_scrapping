@@ -1,0 +1,88 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Regionális 
+Senior Data Engineer
+Freetrade
+Anywhere nationwide, Egyéb külföld
+ Elvárt technológiák
+ANALYTICS
+SQL
+PYTHON
+SPARK
+Biztosított eszközök
+Laptop
+MacOS
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Általános iskola
+Juttatások
+Céges üdülés, üdültetés
+Egészségbiztosítás
+Nyugdíjpénztár
+ Elvárt technológiák
+ANALYTICS
+SQL
+PYTHON
+SPARK
+Biztosított eszközök
+Laptop
+MacOS
+Freetrade
+Pályázatot hirdet az alábbi állás betöltésére:
+Senior Data Engineer
+At Freetrade, we believe investing should be accessible to everyone. It’s one of the best ways to grow your savings but, for many, it seems complicated, expensive, and out of reach. We’re here to change that.We're a technology company that brings simple investing to everyone. We’ve built a beautiful app to buy and sell shares and ETFs in a fluid, mobile-first experience. We’re building a team with diverse and unique perspectives in order to help us on our mission to demystify investing. Our goal is to help our customers achieve better, long-term financial outcomes.In 2023, we’ll be launching across the EU, following our successful launch in Sweden. We’ll also be transforming our product, developing new features and introducing new products. In the UK, we now have over 1.3m registered users, offering a range of products like the Freetrade Pension, a stocks and shares ISA, and our premium account, Freetrade Plus. Our growth has all been possible because of the backing of a passionate group of over 15,000 crowdfunding investors. As we’ve scaled, we’ve also raised money from world-class growth investors including Left Lane Capital, Molten Ventures, and L Catterton. 
+Task:
+We are looking for an exceptional Senior Data Engineer to join our team! You will be responsible for helping define the future of Data at Freetrade and more specifically the vision for Data Engineering. You will join a growing central Data team, working with teams across the company, with the goal of enabling better data-driven decisions and efficiency gains. Our team contains specialists in Data Engineering, Analytics Engineering and Data Science.Utilise software engineering skills to make the Data team operationally more robust and efficient.Define best practices between Product and Engineering data producers and the data-warehouse.Evolve our testing, alerting and quality monitoring capabilities to continuously improve the trust of our data.Collaboratively help expanding Freetrade’s data-products, with possibility of working in areas such as machine learning, experimentation or transaction monitoring (to name a few).Collaborate with Data Scientists, Analysts and Analytics Engineers on a diverse set of projects.
+Expectation:
+You have a strong background in data warehousing, engineering data pipelines, and/or in products/services that have a strong analytical focus.You have experience applying technical leadership cross functionally with full ownership of end to end deliverables.Experience creating APIs, tools, and services in a product engineering environment with emphasis in the full development lifecycle (e.g. continuous integration, infrastructure orchestration, monitoring and alerting).   Experience writing high quality, maintainable SQL on large datasets (our data-warehouse is hosted in BigQuery and built using dbt).Strong programming skills in python or relevant programming language and demonstrable experience working with relevant data frameworks such as Airflow, Spark, Beam, Kafka or similar.   You care about impact, love a challenge, and have a self-starter mindset.You’re team-oriented, keen to share your knowledge and embrace mentorship.
+What we offer:
+We offer a competitive salary plus stock options and lots of other benefits.You’ll have a stake in the company you’re building, with stock options benchmarked to US companies.
+Sector(s):
+IT Development
+Programmer, Developer
+How to apply/ contact information:
+Please attach your CV.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Általános iskola
+Juttatások
+Céges üdülés, üdültetés
+Egészségbiztosítás
+Nyugdíjpénztár
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+DEEL Hungary Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Egyéb szoftverkiadás
+50-100 munkavállaló
+2021
+1132
+Budapest,
+Váci út 30. VI. em.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

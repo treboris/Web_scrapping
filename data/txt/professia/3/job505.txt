@@ -1,0 +1,78 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceDevOps Engineer: Kubernetes Platform 
+DevOps Engineer: Kubernetes Platform
+Place of work
+Bratislava region (The job requires travelling)
+Contract type
+full-time
+Information about the position Job description, responsibilities and dutiesA BIT ABOUT YOU We want you to smash your time with us, that’s why we want someone like this: Bachelor or master’s degree in a relevant area (not mandatory, Computer Science, Telecommunication Engineering, Information Systems, or any related study area) Fluency in English You have more than 1 or 2 years of experience in the field.  You can tick off several the following boxes with the knowledge you possess: Linux system administration (Ubuntu) or backend code developing Backend code developing on Agile/SCRUM teams, specially with Go language Agile, SCRUM, CICD, SRE and DEVOPS environments IT operations methodologies and processes like incident management, problem management, configuration management and crisis management Kubernetes cluster administration   Understanding of the following technologies is important: Kubernetes ClusterAPI Calico Prometheus Bare metal provisioning concepts like PXE. Data center network technologies, including familiarity with VXLAN Development skills with: Go language Python Shell scripts Ansible  Bonus to have: Practical experience with Hyperscaler’s Container services implementations (AKS, GKS…) Operational experience with OpenStack, and OpenStack services like Octavia or Cinder Kubernetes providers for OpenStack services integration (e.g., Cinder CSI plugging) CAPO MetalLB load balancing system Metal3 bare metal provisioning system BGP, EVPN, IP multicasting and ECMP  Development skills with: Rust C/C++  Expected date of completion of the selection process27 April 2023 (there are still 7 more days) Requirements for the employee Candidates with education suit the positionUniversity educationLanguage skillsEnglish - Upper intermediate (B2)Number of years of experience1The position is suitable for a fresh graduateYesPersonality requirements and skillsWHAT DO WE NEED FROM YOU? Or how to become the Chewbacca to your team’s Han Solo: You are a self-starter who takes pride in job ownership and creates ways to improve efficiency and effectiveness You have a proactive, go-for-it attitude. When you see something broken, you can't help but fix it You have an urge for delivering quickly and iterating fast You are experienced in contributing to a self-organizing and collaborative team environment You have mentored, coached, and grown team members to bring out the best in them You have a passion for automation and working efficiently   Ability to work in DevOps mode and agile/scrum (sprints)DEV: Develop and maintain a codebase of the CaaS and PaaS platforms on top of the Kubernetes ecosystem of tools and projectsOPS: Maintain and operate existing infrastructure and address improvements to DEV  Design of the CaaS/PaaS Platform releases IT operations and/or backend software development experience Online collaboration - full remote, and be part multinational team which is located in: Greece, Croatia, Slovakia & Spain Accountable for the set-up, management and supporting tools (that means e.g., monitoring, enable 1st line operations and execute 2nd level incident management, as well as problem-, change-management, terminate and retire old tools, …) Perform integration and validation tasks Monitoring/tracking performance of systems Responsible for preparation and administration of the technical documentation Participate in an on-call rotation (for stand-by operations)   WHAT DO YOU GET OUT OF THIS? Good Question! Finally, the part you are really interested in: Value-oriented innovation culture combined with unique resources and capabilities Diverse team with continuous top rates on employee satisfaction International collaboration with top domain experts and inspiring leaders Influence on the digitalization journey of millions of customers in ground-breaking exponential age Collaborate on research and suggest/ develop solution prototypes to demonstrate suitability and interoperability of chosen components, write high-quality and efficient code Contribute to a collaborative culture of ongoing guidance and coaching for the team members Be part of an independent self-managed team working with Agile, SCRUM, DevOps, CICD & SRE Contribute to opensource projects  Advertiser Brief description of the companyAs part of Technology Delivery International (TDI) we deliver best-in-class technology services across Europe
+Deutsche Telekom Cloud Services is an international company and part of the Technology Delivery International (TDI) unit of Deutsche Telekom.
+We deliver the latest technology services with deep expertise in cloud, SW engineering, DevOps and networks that win our customers’ hearts!
+In TDI we have people located in 10+ countries, such as Slovakia, Romania, Hungary, Greece, Croatia, Poland, Czechia, Spain, Germany.
+We work topic-driven and skill-based. That is why we are a chapter-based organization with a clear focus on the development of our people while driving the delivery of TDI’s products and services in tribes.
+Technology is the heartbeat that connects us across borders! Number of employees100-149 employees ContactContact person: Recruiting Team Deutsche Telekom Cloud ServicesE-mail: send CV
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4547633 
+     Dátum zverejnenia:  28.3.2023 
+    2023-03-28
+lokalita: Bratislava region (The job requires travelling)   Pozícia: Database Administrator, IT Network Administrator, IT System Administrator, IT/Technical Support Specialist, Programmer   Spoločnosť: Deutsche Telekom Cloud Services s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

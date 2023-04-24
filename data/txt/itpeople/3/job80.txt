@@ -1,0 +1,83 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+.NET FEJLESZTŐ állás Budapest
+Javascript
+Jquery
+GIT
+Vue
+React
+C#
+SQL
+Rendszer / Hálózat, DevOps állások 
+.NET FEJLESZTŐ (10715)Kórházi informatikai rendszereket fejlesztő parntercégünkhöz keresünk .NET fejlesztő munkatársunkat!Feladatok:• Egyedi informatikai rendszerek fejlesztése .NET / .NET Core környezetben,• üzleti logika implementálása,• fejlesztési dokumentációk készítése, karbantartása• közreműködés a fejlesztés különböző fázisaiban,• együttműködés a tesztelői csapattal.Elvárások:• Medior szintű .NET és/vagy .NET Core fejlesztői tapasztalattal és• objektumorientált szoftverfejlesztési ismeretekkel rendelkezik C# nyelven,• többrétegű architektúrák ismerete,• jártasság a tervezési mintákban és agilis szoftverfejlesztési módszertanokban,• tapasztalattal bír .NET technológiák használatában, szakértői szintű ismeretekkel rendelkezik C#, MVC, Entity Framework (Code First), SQL Server Transact SQL és LINQ, , jQuery, ASP.NET• többszálúság és a párhuzamos programozás erős szakmai ismerete• jártasság adatbázis -séma, táblázatok és eljárások tervezésében és fejlesztésében• jártasság web-szolgáltatások kialakításában.Készségek:• Problémamegoldó és koncepcióalkotó és valódi csapatjátékos,• csapaton belüli kommunikációs képességek,• precizitás és igényesség,• analitikus gondolkodás,• kiválóan érti az angol nyelvű szakszövegeket és videó anyagokat.Előnyt jelent:• Tapasztalat a webszolgáltatások fejlesztésében (WCF és/vagy Web API)• weboldalak (reszponzív) készítésében szerzett tapasztalat,• Windows szolgáltatások fejlesztésében szerzett tapasztalat• DevOps terület iránti érdeklődés és/vagy jártasság,• Single Page Application fejlesztési ismerete (Vue, React), valamint Blazor -- WebAssembly terület iránti érdeklődés és/vagy jártasság,• .NET Common Language Runtime (CLR),• JavaScript• GIT technológiák 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Jelentkezés
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+jobsgarden.hu													
+Budapest
+Teljes Munkaidő
+ Rendszer / Hálózat, DevOps
+Lejárati dátum: 2023-05-04
+Álláshirdetés részletei
+Pozíció.NET FEJLESZTŐ
+Munkavégzés helye
+Budapest
+MunkaidőTeljes Munkaidő
+KategóriaRendszer / Hálózat, DevOps
+Szoftverfejlesztő
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

@@ -1,0 +1,106 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior PHP vyvojár (4000 - 5000+ €) 
+Senior PHP vyvojár (4000 - 5000+ €)ARIVA GROUP s.r.o.
+Miesto práce
+Senec, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+4 000 - 5 000 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme skúseného senior PHP vývojára pre technologickú, skladovo-logistickú firmu, ktorá aktuálne zabezpečuje fulfillment cca. 15-20 tisíc objednávok denne.
+FIRMA/PROJEKT:
+- rozvoj klientskeho IS pre prevádzku e-shopu a fulfillment, back-end, front-end
+- sklad má automatizované prvky, ktoré sa priebežne pridávajú do klientskeho IS
+- rozvoj a udržiavanie custom pluginov pre rôzne e-shop platformy  
+- riešenie pre balíkomat, greenfield vývoj platobnej brány
+- pohodový team zložený zo seniorných ľudí
+- vzhľadom ku komplexite sa počíta s easy tempom a silnou podporou od ostatných ľudí v teame
+- office je v Senci kúsok od diaľnice, možný je 80% remote akonáhle sa človek cíti komfortné s úlohami
+ÚLOHA:
+- spolupráca s Tech Leadom a teamom na jednotlivých projektoch
+- podpora a vývoj pridelenej časti IS v PHP 7.4+
+- back-end vývoj PHP/Symfony, alebo Laravel, Node.js, MySQL v prostredí Linux/Docker/Nginx
+- ak má človek iba Laravel, nie je to prekážka ani žiadne KO kritérium
+- front-end SPA, primárne React, na niečo jQuery
+- implementácia zmenových požiadaviek a nových features, testing, nasadenie do produkcie
+POŽIADAVKY:
+- senior PHP vývojár so skúsenosťami z veľkých projektov
+- skúsenosti s MVC frameworkami primárne Symfony, príp. Laravel
+- výhodou skúsenosti so SaaS projektami, príp. skladovými systémami
+- záujem o front-end vývoj moderným spôsobom, výhodou projektové skúsenosti
+- pohodový prístup, schopnosť povedať "toto neviem", "nestíham spraviť", "tu sa neviem pohnúť"
+- angličtina aspoň B1
+MIESTO: Senec + 80% remote
+ROZSAH: full-time
+FORMA: szčo/s.r.o./TPP
+DĹŽKA: dlhodobo
+NÁSTUP: dohodou, ideálne apríl-jún 2023
+ODMENA: 4000-5000+eur/mes na kontrakt, ekvivalent pri TPP 2800-3500+eur/mes
+- začať sa dá aj s vyšším platom ak má človek potrebné kvality Predpokladaný termín ukončenia výberového konania31.5.2023 (ostáva ešte 41 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformačné technológieJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiPHP - ExpertLaravel (PHP framework) - ExpertSymfony (PHP framework) - ExpertNODE.JS - PokročilýMySQL - PokročilýReactJS - PokročilýPrax na pozícii/v oblastiPHP vývojárPočet rokov praxe3 Inzerujúca spoločnosť Stručná charakteristika spoločnostiARIVA GROUP s.r.o. je moderná spoločnosť so zameraním na ľudské zdroje pre IT projekty. Naše služby úspešne dodávame renomovaným spoločnostiam v Bratislave, Viedni či Prahe. Rastieme zdravo organicky a to vďaka dlhodobým korektným obchodným vzťahom s našimi partnermi. Počet zamestnancov10-19 zamestnancov KontaktKontaktná osoba: Imrich GabajTel.: +421910458855E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4553862 
+     Dátum zverejnenia:  6.4.2023 
+    2023-04-06
+lokalita: Senec   Pozícia: PHP programátor   Spoločnosť: ARIVA GROUP s.r.o.   
+Základná zložka mzdy (brutto): 4 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

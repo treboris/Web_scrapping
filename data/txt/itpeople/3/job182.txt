@@ -1,0 +1,97 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Intermediate/Senior DevOps Engineer állás Országos
+Docker
+AWS
+Rendszer / Hálózat, DevOps állások 
+Cégleírás / Organisation / DepartmentAegon is a multinational financial services group headquartered in The Hague, the Netherlands. The company has multiple locations across the globe, with core markets in The Netherlands, UK and the US, growth markets in China, Brazil and Iberia and an Asset Management organization with locations in UK, US, NL and Hungary. Aegon Global Business Solution Center is supporting these businesses with IT, Finance, Risk, Model Validation, Actuarial, Audit and Asset management services with a growing team of approx. 300 people, based in Budapest, Hungary.At Aegon, we foster a diverse workforce and an inclusive culture. We are a people business, and we recognize that delivering excellent client outcomes comes from harnessing distinct perspectives. We value diversity in the full range of human uniqueness without limitation, including race, gender, ability, language, culture, beliefs, age, origin, background, perspectives, and experiences.Elvárások / RequirementsBachelor's degree, or equivalent level.
+Minimum 3 years of work experience in a comparable role.
+Professional English knowledge, both written and spoken.
+Regulatory experience preferred.
+2 to 3 years working in AWS.
+Knowledge on Kubernetes, Docker, Athena, Step functions, lambda’s, Glue,IAM.
+Have a basic understanding on concept of CI/CD pipelines.
+TypeScript / NodeJS is nice to have.
+Event driven approach.
+Experience with agile is preferred, but not a must.
+Experience with Service Now, Confluence, Jira preferred.
+Problem solving skills.
+Good planning, prioritizing and goal setting skills.
+Ability to work independently, but also in team.
+Experience in mentoring/coaching team members.
+Challenging existing patterns, being open minded, propose new solutions.Amit kínálunk / OfferThe candidate will work as an Intermediate/Senior with the existing team in providing global support for multiple business units in support of our AWS environment and specifically provide development and support related to event driven serverless architecture using AWS specific functions to build out our data lake. Will also support and challenge our AWS automation so knowledge of CI/CD pipeline, Kubernetes, Docker, Athena, Step functions, lambda’s, Glue, IAM, and test automation will be needed. Work is done in an Agile environment so experience of this is also necessary along with great communication skills, communicating with the business, vendorupgrades, working within the regulatory/compliance environment and adhering to related controls, and vendor management.Also, it is expected to coach and mentor the rest of the team so that the team matures knowledge wise.Kapcsolattartó / InformationCompetitive salary
+Comprehensive health package
+Brand new office at an excellent location
+Hybrid working
+Opportunities for growth and advancement
+A highly people centric, positive and supportive work environment 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary Kft													
+Országos
+Nincs meghatározva
+ Rendszer / Hálózat, DevOps
+Lejárati dátum: 2023-06-06 09:50:00
+Álláshirdetés részletei
+PozícióIntermediate/Senior DevOps Engineer
+Munkavégzés helye
+Országos
+MunkaidőNincs meghatározva
+KategóriaRendszer / Hálózat, DevOps
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

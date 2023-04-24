@@ -1,0 +1,52 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Java Developer 
+Wien (2-3 on-site / week)
+26-32 EUR / hour contractor rate
+| Java backend software development for Austrian insurance company
+Your new company
+A remarkable Austrian insurance company is seeking a new contractor for Java backend developer position with paid travel to Wien for two days every week or for three days every second week.
+Your new role
+Developing backend IT solutions for insurance company, reporting and documentation in German language with some tasks related to cloud platform, databases and microservices.
+Tech stack
+Java, JEE, Spring, SpringBoot, Eclipse, Maven, Jenkins, Junit, IntelliJ, Git, Jira, Confluence, Docker, Kubernetes, AWS, MySQL, PostgreSQL, MongoDB, SQL, CI/CD, Microservices
+What you'll need to succeed
+Strong Java / JEE / Spring / SpringBoot skills
+JSF
+Fluent German language skills
+Eclipse / Maven / Jenkins / JUnit / IntellIJ
+Git / Jira / Confluence
+Docker / Kubernetes / AWS
+MySQL / PostgreSQL / PL/SQL / MongoDB / Oracle DB
+CICD / Microservices
+5 years of relevant work experience in Java / Angular development
+Advantages
+JPA / JBoss / XML / UML
+Javascript / Typescript / Angular / HTML / CSS
+REST / SOAP
+Ant
+Kafka Tools
+Python
+Contact us to get more details!
+#haystechnology #hayshungary #softwaredevelopment #backend #java #JEE #spring #springboot
+Jelentkezem
+Elmentem az állást
+Java Developer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 19.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Java Developer 
+ Budapest  
+ Java Developer 
+ Budapest  
+ Java Developer 
+ Budapest  
+ Java Developer 
+ Budapest  
+ Senior Java Developer 
+ Budapest  

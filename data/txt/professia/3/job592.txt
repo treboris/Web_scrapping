@@ -1,0 +1,128 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceCloud Migration Architect (Azure)  Можливість для людей з України
+Open Positions
+Company
+Education Programs
+Benefits
+Cloud Migration Architect (Azure)Deutsche Telekom IT Solutions Slovakia
+                                Place of work
+                            Remote work
+                                Contract type
+                            full-time
+Information about the position Job description, responsibilities and dutiesPurpose
+Senior technical expert responsible for design and implementation of an assigned technology.
+As Cloud Migration Services (CMS) part of T-Systems, we are specializing at accompanying our customers on their Cloud adoption journey.
+- Whether it’s a transition from different Cloud or it’s their first time moving from on premises to Cloud, we are there for them to safely guide them through all stages of their transformation because we understand what it takes to become a part of a digital future with innovative solutions
+- Our mission: Shaping the safest, easiest and most efficient transformation to a digitized and cloud-native future together with our customer.
+Key Accountabilities: 
+- Implement complex customer requirements in technical solutions in accordance with best practices, cost-efficiency and future security based on Microsoft Azure)
+Develop both High-Level and Low-Level design for all possible variations of migration or transformation to hybrid cloud products (private/public) based on Azure
+Optimize all onboarding scenarios for customers on private & public cloud together with 3rd party products for migration
+Cooperate with the product owner on the continuous development of the T-systems cloud adoption portfolio
+Collaborate with sales on preparation of complex customer inquiries and tenders
+Be an advisor for local and international customers on optimal cloud adoption strategies on Azure
+Work in highly dynamic, international environment with committed team while serving as the technology expert
+Collaborate with T-systems partners such as Microsoft
+Directly communicate with end customers to discuss possibilities of migration, transformation and their optimal designs Wage (gross)From 2 500 EUR/monthFinal salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.  Employee perks, benefits
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work – life balance
+Other benefits *
+        For more information about our benefits click to Benefits
+Benefits with * are applicable also to part-time positions.This information may be subject to changes and other internal rules. Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skillsExperience
+•	Information technologies - 5 years
+Certification
+• Microsoft Azure associate certification  
+IT Technical Skills
+• Experience working with container build and runtime technologies.
+• Hands on experience deploying and supporting Kubernetes on at least one IaaS provider.
+• A deep technical understanding of public cloud technologies and practical experience in public cloud adoption, migration and
+automation.
+• Strong hands-on experience in one or more of Containers and Container Orchestration frameworks is an advantage.
+• Familiarity with application discovery tools and cloud migration software is an asset but not essential
+• Understanding of Infrastructure as Code and automation possibilities (Terraform, ARM templates, Ansible, SaltStack)
+• Some experience with Agile tooling and processes (Jira, Kanban, Scrum methodology)
+• General ICT skills (Network, OS, Storage, Database etc.)
+• Basic Scripting & Coding knowledge (PowerShell, Bash, Python)
+Soft skills
+• Communication
+• Analytical thinking
+• Team cooperation
+• Training and mentoring
+• Presentation skills
+• Negotiation skills
+Languages
+• English - Advanced (B2)
+• German (Advantage) Advertiser Brief description of the companyOur brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services. Number of employees1000 and more employees ContactContact person: Ing.  Lívia TomečkováE-mail: send CV
+Apply Online
+                        Deutsche Telekom IT Solutions Slovakia
+                        Žriedlová 13, 040 01 Košice
+www.deutschetelekomitsolutions.sk
+055/7853566
+ID: 4517712 
+     Dátum zverejnenia:  24.3.2023 
+    2023-03-24
+lokalita: Remote work   Pozícia: DevOps Engineer, IT Architect, IT Consultant, Python Programmer, Software Engineer   Spoločnosť: Deutsche Telekom IT Solutions Slovakia   
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

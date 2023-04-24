@@ -1,0 +1,98 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFullstack programator (skoro 100% HO)  Можливість для людей з України
+Fullstack programator (skoro 100% HO)Offer experts s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+2 500 - 6 400 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti- Párkrát do mesiaca je potrebné byť v BA (väčšinu času sa dá pracovať z domu)
+- Realizovanie klient časti FE vývoja (Java/React) a serverovej časti FE vývoja (Java) v spolupráci s Java backend programátormi
+- Vývoj nového a údržba starého
+- formuláre/obrazovky renderovené server alebo client side spôsobom
+- Tvorba prezentačnej logiky, mapovanie dát na BE API, orchestrácia volaní BE API a Java FE API pre React aplikácie
+- Práca s dodanýmié HTML šablami od UI tímu
+- Dodržiavanie používaných štandardov, vzorov a postupov
+- Implementácia riešení, podľa požiadaviek (zabezpečenie škálovateľnosti, dostupnosti, bezpečnosti a výkonnosti)
+- Analýza a odstraňovanie funkčných nedostatkov softvéru
+- Test zdrojového kódu a jeho konfigurácia
+- Inštalácie a konfigurácie vyvinutého softvéru Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaPočet rokov praxe2Osobnostné predpoklady a zručnosti- Potrebné skúsenosti s:
+- Java (Spring) 2 roky
+- Reactom
+- Aplikačným serverom (Weblogic/Tomcat/WebSphere/JBoss/ atd...)
+- serverovým web. frameworkom
+- verzionovacím systémom (ako napríklad Mercurial/Git/SVN/Bazaar/)
+Výhodou je znalosť a skúsenosti s:
+- REST/JSON (SOAP/XML)
+- vývojom portletov
+- JS, CSS
+- Jenkins Inzerujúca spoločnosť Stručná charakteristika spoločnostirecruitment services/IT delivery KontaktKontaktná osoba: Mgr.  Peter KluknavskyE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4553265 
+     Dátum zverejnenia:  6.4.2023 
+    2023-04-06
+lokalita: Práca z domu   Pozícia: Backend programátor, Frontend programátor, Java programátor, Javascript programátor, Programátor   Spoločnosť: Offer experts s. r. o.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

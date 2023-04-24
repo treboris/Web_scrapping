@@ -1,0 +1,94 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJAVA developer (mid/senior) - fully remote 
+JAVA developer (mid/senior) - fully remoteLiberum s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+Dohodou - Asap
+Mzdové podmienky (brutto)
+3 500 - 5 500 EUR/mesiac- mzda dohodou podľa skúseností
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme MID/SENIOR fully-remote JAVA developera pre projekt nemeckej spoločnosti, ktorá vyvíja a implementuje pre retailové spoločnosti (reťazce, maloobchod, veľkoobchod .) obchodné systémy typu EET, skladové hospodárstvo, pokladničné systémy a pod. 
+Základný stack: Java, Spring/Springboot, Maven, Postman, Git, Relačná DB. 
+Architektúra systému je založená na Microservices (REST) a využíva oAuth2.  
+Ostatné využívané technológie sú v závislosti od projektu či úlohy: Keycloak, Docker, Gitlab CI/CD, JMeter, MongoDB, Kafka a pod
+Tvojou hlavnou úlohou bude:
+- vývoj v Jave
+- analýza požiadaviek, posudzovanie možných rizík a s tým spojených potenciálnych problémov
+- podieľanie sa na vytváraní technických špecifikácií
+- komunikácia s ostatnými kolegami v tíme ako aj so zákazníkom
+Práca nie je možná ako part-time projekt. Zamestnanecké výhody, benefity- možnosť fully remote work
+- fantastický tím - priateľská atmosféra Informácie o výberovom konaníPosielajte CV výhradne prostredníctvom www.profesia.sk spolu so súhlasom so spracovaním osobných údajov.Spoločnosť, pre ktorú je pozícia obsadzovanáInformačné technológieSpoločnosť poskytujúca komplexné služby v oblasti vývoja software na zákazku, odborné konzultácie zahrňujúce business analýzu a pomoc pri riadení projektov. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreelektrotechnika, IT, technický smerJazykové znalostiAnglický jazyk - Pokročilý (C1)Osobnostné predpoklady a zručnosti- Znalosť a prax v programovaní v: Java, ideál aj v: Spring/Springboot, Maven, Postman, Git, Relačná DB - na úrovni mid až senior level
+- Anglický jazyk - pokročilý
+- Schopnosť riešiť problémy
+- Analytické myslenie
+- Samostatnosť
+- Schopnosť pracovať v tíme Inzerujúca spoločnosť Stručná charakteristika spoločnostiPersonálno-poradenská spoločnosťSpoločnosť je držiteľ povolenia na sprostredkovanie práce. Počet zamestnancov1 zamestnanec KontaktKontaktná osoba: Mgr.  Marianna ZálesňákováE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4549557 
+     Dátum zverejnenia:  31.3.2023 
+    2023-03-31
+lokalita: Práca z domu   Pozícia: Java programátor, Programátor   Spoločnosť: Liberum s. r. o.   
+Základná zložka mzdy (brutto): 3 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

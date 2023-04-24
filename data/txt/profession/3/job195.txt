@@ -1,0 +1,87 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Projektmenedzsment
+Budapest
+Budapest
+Product Owner
+BECK AND PARTNERS Kft.
+Budapest
+ Elvárt technológiák
+AZURE
+DEVOPS
+ENTERPRISE ARCHITECT
+GIT
+REACT
+SQL
+ Módszertanok és szoftverek
+Agilis
+Scrum
+Kanban
+Lean
+Git
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+AZURE
+DEVOPS
+ENTERPRISE ARCHITECT
+GIT
+REACT
+SQL
+ Módszertanok és szoftverek
+Agilis
+Scrum
+Kanban
+Lean
+Git
+BECK AND PARTNERS Kft.
+Partnerünk változatos szoftverfejlesztési és adatbányászati projekteken dolgozik.
+Most szoftverfejlesztői csapatuk szeretne bővülni olyan szakemberrel, aki szeretne egy összeszokott, fiatalos csapatban dolgozni, emellett vágyik az új lehetőségekre és kihívásokra, mind szakmailag, mind soft skill-ek terén. Projektjeik egy részét “green field”-ként kezelik, ezzel is segítve a folyamatos piacképes tudás megszerzését és kamatoztatását, azonban nekik is vannak támogatandó termékeik.
+A munkád során lehetőséged van részt venni a tervezésben, majd az implementáción át akár a tesztelésben is tapasztalatokat gyűjteni, valamint fejlesztheted ügyfél kommunikációs skilljeidet is.
+Most a következő pozícióba keressük új munkatársukat:
+Product Owner
+Főbb feladatok, munkák:
+Üzleti igény alapján átfogó IT megoldás tervezése (fejlesztési megvalósítási terv készítése)Kapcsolattartás az ügyféllel a felmerülő üzleti igények minél korábbi megismerése céljábólÜgyfél szakmai támogatása az üzleti igény – IT megvalósítási szempontból teljes körű megfogalmazásábanÜzleti, funkcionális és technikai igényleírások elemzése és véleményezéseÜzleti igény IT megvalósítása során együttműködés a delivery teamekkelFejlesztési dokumentációk (logikai és fizikai rendszerterv, követelmény specifikáció) készítése, véleményezéseIdőbeosztások kezeléseTeljes körű vízió kialakítása a szállítandó szoftverről (az ügyfél igényeit szem előtt tartva), ez alapján mindennapos döntéshozatal a felmerülő kérdésekbenFejlesztőcsapat és az ügyfél közti kommunikációs híd megteremtéseTesztelési folyamat, quality gate-ek fejlesztési folyamatba integrálásaRészvétel release management folyamatok megtervezésében
+Az álláshoz tartozó elvárások:
+Felsőfokú gazdasági/informatikai végzettség vagy ezzel megegyező releváns szakmai tapasztalatAngol nyelv középfokú ismereteAgilis módszertanok ismerete (Scrum és Kanban)Agilis fejlesztést támogató szoftverek ismerete (elsősorban Azure Devops)
+Amit kínálunk:
+Fix alapbér+projektalapú bónusz rendszerCsapatépítő programokSzakmai képzések támogatásaSzakmai kihívások változatos projektekbenHome office lehetőség
+Az állás betöltéséhez előnyt jelent:
+Kiváló kommunikációs, problémamegoldó és elemző képességLEAN szemlélet ismereteScrum Product Owner minősítésEnterprise Architect és/vagy Draw.io modellező rendszer ismereteSource control rendszer (Git) ismeretetProduct Owner pozícióban szerzett tapasztalatTechnológiai ismeretek (amiben a fejlesztő csapat dolgozik): .Net Core, TypeScript, React, SQL adatbáziskezelő
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Projektmenedzsment
+Rendszertervező
+Product owner, -manager
+Egyéb információ:
+Munkavégzés helye: Budapest, XIII. kerületMunkaidő: Rugalmas munkaidő- Hibrid munkavégzésAmennyiben a hirdetés felkeltette az érdeklődését, jelentkezzen önéletrajzának csatolásával az alábbi gombra kattintva!
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

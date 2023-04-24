@@ -1,0 +1,60 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+Ki a Partnerünk, aki hirdet?
+Mint független informatikai tanácsadó és szolgáltató cég, támogatják nemzetközi ügyfeleiket, rugalmas és innovatív, személyre szabott informatikai megoldásokkal. Fő hangsúly a pénzügyi és energiaszolgáltatókra, az ipari cégekre, a média és telekommunikációs vállalatokra tevődik. Jelenleg hét európai országban vannak jelen, szakmai érdemeik és folyamatos növekedésük több mint 500 munkatársuk kiváló teljesítményének köszönhető.
+Nyitott, dinamikus csapatukba keresünk most új kollégát az alábbi pozíció betöltésére:
+SZOFTVERTESZTELŐ MÉRNÖK - BEÁGYAZOTT RENDSZEREK
+Milyen feladatok várnak rád?
+Rendszereik szoftverének tesztelése
+Rendszer- és szoftverkövetelmények elemzése
+Automatizált tesztesetek fejlesztése SIL és HIL környezetben
+Tesztelési folyamatok és módszerek fejlesztése
+Tesztelő kollégák koordinálása
+Kapcsolattartás rendszermérnöki és fejlesztői csoportokkal
+A validáció, illetve a beüzemelés műszaki támogatása
+Code review-k, illetve szoftver auditok támogatása
+Tesztfolyamatokhoz kapcsolódó tesztdokumentációk elkészítése
+Kapcsolattartás müncheni kollégákkal
+                Elvárások / Requirements
+Milyen elvárásoknak kell megfelelned?
+Szakirányú felsőfokú végzettség: villamosmérnök, mechatronikai mérnök vagy fizikus
+Legalább 3 év beágyazott területen szerzett szoftvertesztelési tapasztalat
+Mérnöki szemlélet, képesség összetett rendszerek gyors megértésére
+Magabiztos középfokú angol nyelvtudás írásban és szóban
+Proaktivitás, jó problémamegoldó képesség
+Előny amennyiben rendelkezel az alábbiakkal:
+Programozási ismeretekkel (C/C++) beágyazott környezetben
+Haladóbb szintű ISTQB tanúsítvánnyal
+Ismerősek számodra ezek a grafikus szoftverfejlesztő eszközök (CASE eszközök): Ascet, CodeSys, LabView, Simulink
+Német nyelvtudással
+                Amit nyújtunk / Benefits
+Miért válaszd Partnerünket?
+Modern irodai környezetben dolgozhatsz, rekreációs szobával, sportolási lehetőségekkel
+Kiemelkedő bérezéssel és széles körű juttatási csomaggal számolhatsz (Cafeteria, 13. havi fizetés, egészségbiztosítási csomag, élet- és balesetbiztosítás)
+Náluk kötetlen munkaidő vár heti 3 nap Home Office lehetőséggel
+Lehetőséged nyílik nemzetközi projektekben való részvételre, akár külföldi helyszíneken
+Ha szeretnéd fejleszteni szakmai tudásod, ők támogatnak ebben: konferenciákon, képzéseken, oktatásokon vehetsz részt általuk és tanúsítványok megszerzésében is támogatnak
+Innovatív termékekkel, technológiákkal és megoldásokkal dolgoznak
+Támogató és jó hangulatú csapatban történik a munkavégzés
+További szakmai fejlődési lehetőséget is biztosítanak, akár több irányban is a csoporton belül: Szenior Tesztelő, Szenior Fejlesztő, Rendszermérnök
+Ha biciklivel vagy autóval járnál, náluk mindkettőt biztonságban tudhatod az ingyenes és zárt parkolóikban 
+Szoftvertesztelő mérnök - Beágyazott rendszerek 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 19.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Beágyazott szoftverfejlesztő mérnök (junior) 
+ Veszprém  
+ Beágyazott szoftverfejlesztő mérnök 
+ Budapest  
+ Beágyazott Szoftverfejlesztő Mérnök 
+ Budapest  
+ Beágyazott hardver és szoftver mérnök 
+ Miskolc  
+ Szoftvertesztelő mérnök 
+ Budapest  

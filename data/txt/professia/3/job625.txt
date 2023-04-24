@@ -1,0 +1,83 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceC# Senior Software Developer for Point of Care Diagnostics 
+C# Senior Software Developer for Point of Care Diagnostics
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+2 700 EUR/monthFrom 2700€  + VAR**We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions.
+Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and dutiesWe are looking for C# Senior Software Developer for an experienced  software development team that develops control software for a new generation of Point-of-Care diagnostic devices (refer here for the existing Point-of-Care product lines: https://www.siemens-healthineers.com/point-of-care-testingWe use agile methods of software development and apply best engineering practices to create a high-quality product that helps to save lives around the globe.More about our projects can be found at https://www.siemens-healthineers.com/sk/kariera-v-dcAs C# Senior Software Developer you will be responsible for: work on software for embedded computers used in advanced medical diagnostic. collaboration to define software architecture and methods used in development. Implementation of functionality in code and creating relevant unit and integration tests. Supporting of creation of a fully automated release environment.What we are expecting? Proven contribution in complex software projects for 5 or more years. The project(s) main technologies should be around C# and C++ language Advanced LINUX knowledge: The engineer shall be able to build and modify LINUX for ARM type of microprocessors using BSP from system HW manufacturer and source repositories. Ability to understand kernel drivers /at least for serial devices/ and hardware simulation in a virtual machine is necessary Experience in working within AGILE driven software development team Understand and have working experience with the majority of the following tools:•	   Visual Studio•	   Buildroot Yocto or similar•	   Deep knowledge of C#•	   .NET Core framework•	   UML based software modeling toolsPersonality requirements and skills: Proactive and self-directed work style Good analytical and problem-solving skills Good aptitude for learning new technologies Ability to work in a team environmentBasic wage component (gross) and other rewards : starting from 2700 € brutto /month + VAR* depending on seniority level of the candidate.
+            Required education, skills and personality requirements
+Required educationUniversity education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)
+We offer
+ Variable and Christmas bonus Hybrid type of work – combination of telework and work from office Flexible Working Hours Bridge days – free extra paid leave 6 days per year 3 sick days per year (no doctor’s permit needed) In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of   family care Additional pension plan 300 EUR for regeneration of work force via cafeteria system Wellbeing program – Psychological, Legal and Financial Councelling Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps) Retention program (work anniversary, life anniversary, employee loans) Training and development program (business and product trainings, e-learning, language courses, soft skills trainings,…) Adjustable standing desk as a standard Participation on world famous IT conferences like Microsoft IGNITE for best employees Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial ---Intelligence, Healthcare IT services, …)
+Send CV
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+viac informácií
+ID: 4357660 
+     Dátum zverejnenia:  24.3.2023 
+    2023-03-24
+lokalita: Bratislava   Pozícia: Programmer   Spoločnosť: Siemens Slovensko   
+Základná zložka mzdy (brutto): 2 700 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,75 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+Szoftver Architekt
+Lightware Visual Engineering
+Budapest, VII. kerület
+ Elvárt technológiák
+C++
+LINUX
+DOCKER
+PYTHON
+JAVASCRIPT
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Nem igényel nyelvtudást
+1-3 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+C++
+LINUX
+DOCKER
+PYTHON
+JAVASCRIPT
+Szoftver Architekt
+Cégünk egy audiovizuális termékeket fejlesztő és gyártó vállalat, amely globális szinten szolgálja ki a professzionális AV közönséget. A tárgyalótermi megoldásoktól kezdve, az AV-over-IP rendszereken át, a nagyméretű mátrixkapcsolókat beleértve több, mint 200 terméket tartalmazó portfólióval rendelkezünk. Számos neves ügyfelünk között megtalálható például a Google, Facebook, Apple és Microsoft.
+Várjuk a jelentkezésed, ha
+szívesen határozod meg az üzleti oldalról érkező igények technológiai megvalósításának lehetőségeit, valamint választod ki az optimális megoldást, műszaki koncepciót;fontos számodra, hogy jövőállóságot szem előtt tartva készítsd el a megoldás magas szintű szoftverterveit;szereted szükség esetén “proof-of-concept” szinten, példaprogramokkal validálni a technológiai megvalósítás működőképességét;szívesen tervezed meg a beágyazott rendszerek belső felépítését, és egymással együttműködő, hordozható szoftverkomponensekre bontod a funkcionalitást;örömmel veszel részt a hardver-szoftver rendszer közös tervezésében, a termékek funkcionális és nem funkcionális követelményeinek meghatározásában;folyamatosan nyomon követed a technológiai újdonságokat, iparági standardokat, új programozási paradigmákat és szívesen koordinálod ezek beépítését a fejlesztési módszertanokba.
+EHHEZ MINDENKÉPP SZÜKSÉGES, HOGY LEGYEN
+villamosmérnök vagy mérnök-informatikus MSc végzettséged;kiterjedt szoftverfejlesztői tapasztalatod - C++, Linux, beágyazott rendszerek;rendszerszemléletű gondolkodásmódod;rutinod abban, hogy különböző (műszaki) területek szakértőivel egy csapatban hogyan lehet jól együtt dolgozni;nagyfokú önállóságod a feladataid végzése során.
+MÉG INKÁBB TE LEHETSZ A NYERŐ VÁLASZTÁS SZÁMUNKRA, HA
+rendelkezel hálózati és IT biztonsági ismeretekkel;van rendszerszintű Linux ismereted;van tapasztalatod a következő technológiákkal-feladatokkal: Buildroot, Docker, Continuous Integration, Linux Device Tree, Linux Kernel driver fejlesztés;ismersz script nyelveket (sh, Python, JavaScript).
+Állás, munka területe(i):
+Mérnök
+Villamosmérnök
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezés módja
+Vegye fel a munkaadóval a közvetlen kapcsolatot a jelentkezem gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Nem igényel nyelvtudást
+1-3 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+LIGHTWARE Vetítéstechnikai Zártkörűen Működő Részvénytársaság
+Tudományos, műszaki tevékenység
+●
+Egyéb természettudományi, műszaki kutatás, fejlesztés
+250-500 munkavállaló
+2022
+1071
+Budapest,
+Peterdy utca 15.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

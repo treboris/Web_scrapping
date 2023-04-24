@@ -1,0 +1,117 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceABAP Developer (m/ž) - zástup počas MD/RD 
+Voľné pozície
+Benefity
+Prečo pracovať v ZSE
+O spoločnosti
+ABAP Developer (m/ž) - zástup počas MD/RD
+Miesto práce
+hybridný model: možnosť práce z domu 60 % a 40 % z pracoviska, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 2 100 EUR/mesiacod 2100 EUR brutto v závislosti od skúseností kandidáta + 20 % ročná výkonnostná odmena
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo nášho tímu korporátnych IT riešení hľadáme vývojára (m/ž) pre oblasť IT riešení so zameraním na nástroj SAP ABAP. 
+Zodpovednosťou vývojára bude najmä: 
+• Konzultácia a vývoj nových riešení/funkcionalít v moduloch SAP (SAP IS-U, CRM, ERP ... ) na základe zákazníckych požiadaviek 
+• Debug zdrojových kódov za účelom odstránenia chýb/defektov v kóde 
+• Optimalizácia zdrojových kódov 
+• Príprava a updatovanie technickej dokumentácie na základe vykonaných zmien 
+• Aktívne vzdelávanie v oblasti nových trendov SAP 
+• Customizácia modulov SAP 
+• Práca s nasledujúcimi technológiami (ABAP, Web Dynpro, WEB UI, BAPI, BADI, Smart Forms, SAP scripts...) Zamestnanecké výhody, benefity• Stabilná práca v medzinárodnej spoločnosti
+• Fond pracovného času 37,5 hod. týždenne
+• 5 dní dovolenky nad rámec Zákonníka práce
+• Finančný príspevok na stravovanie 5,10 EUR bez doplatku zamestnanca
+• Silný sociálny program 
+• Osobný účet - finančný príspevok 1050 EUR brutto ročne, určený na Vašu regeneráciu 
+• Príspevok na doplnkové dôchodkové sporenie
+• Finančné príspevky pri narodení dieťaťa, pracovnom výročí, či životnom jubileu
+• Široká škála interných a externých školení
+• Široká ponuka benefitov v oblasti zdravotnej starostlivosti, športu (MultiSport karta) a kultúry
+• Športové kluby a podujatia pre vás aj vašu rodinu
+• Nadštandardné lekárske prehliadky
+• Bezplatná poradňa pre zamestnancov (psychologická, finančná, právna)
+• Zľavy u vybraných dodávateľov tovarov a služieb Informácie o výberovom konaníZastupovanie počas materskej a rodičovskej dovolenky
+Výška základnej mzdy je stanovená na úrovni minimálne 2100 EUR brutto pri plnom pracovnom  úväzku. 
+K uvedenej mzde prináleží výkonnostná odmena vo výške 20 %, ktorá je vyplácaná z ročnej základnej mzdy na základe 100 % plnenia ukazovateľov.
+Žiadosti zasielajte do: 28.04.2023Predpokladaný termín ukončenia výberového konania28.4.2023 (ostáva ešte 8 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňaVzdelanie v odboreIT vzdelanie nie je podmienkouJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Vodičský preukazB Prax na pozícii/v oblastiIT,energetika, telekomunikácieOsobnostné predpoklady a zručnostiĎalšie požiadavky:
+*2-5 ročné praktické skúsenosti s vývojom funkčností v ABAP, WEB Dynpro, Web UI
+*Skúsenosti z oblastí ABAP Core Data Services, OData služieb a ich vytvárania, práce s ABAP Development Tools (ADT), znalosť SAPUI5, JavaScript, dizajnových vzorov Fiori, Anotácií a konfigurácie Gateway/ODATA služieb – vítané
+*Skúseností so systémami SAP HANA - vítané 
+*Znalosť a skúsenosti s objektovo-orientovaným programovaním 
+*Skúseností v oblasti SAP Workflow - vítané 
+*Znalosť aspoň jedného z modulov SAP CRM, IS-U, ERP 
+*Skúsenosti s IT projektmi v oblasti utilít vítané 
+*Komunikatívnosť 
+*Flexibilita 
+*Profesionálne jednanie a vystupovanie 
+*Zodpovednosť a schopnosť pracovať samostatne ako aj v tíme Inzerujúca spoločnosť Stručná charakteristika spoločnostiPoslaním spoločnosti je bezpečná a spoľahlivá distribúcia elektriny na území západného Slovenska. Je najväčším distribútorom elektriny v krajine a realizuje významné investície do obnovy distribučných zariadení a rozvoja elektronických služieb pre svojich zákazníkov. www.zsdis.sk Počet zamestnancov1518 zamestnancov Adresa spoločnostiZápadoslovenská distribučná, a. s.Čulenova 6816 47 Bratislava KontaktKontaktná osoba: Importovane ponukyE-mail: poslať životopis
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4553097 
+     Dátum zverejnenia:  6.4.2023 
+    2023-04-06
+lokalita: Bratislava   Pozícia: IT analytik, IT architekt, IT konzultant, IT tester, Programátor   Spoločnosť: Západoslovenská energetika, a.s.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 100 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

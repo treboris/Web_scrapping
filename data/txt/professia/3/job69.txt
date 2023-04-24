@@ -1,0 +1,106 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceExperienced software engineer (.NET) 
+Experienced software engineer (.NET)NESS KE, s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+2 100 EUR/monthminimum salary - depending on skills and experience + benefits. The final offer for the selected candidate will reflect the candidate´s comprehensive assessment, skills and past work experience.
+Information about the position Job description, responsibilities and dutiesWe are currently looking for an experienced software engineer, who could have ambition/potential to become developer lead, to join our team that builds one of these cloud based systems that enhance the travel experience for general public in major European metropolitan areas. You will be working with the team to deliver high quality, cloud based fare collection backend system that's responsible for processing thousands of credit card payments for journeys every day.
+Our teams work in the state of the art cloud native environment and technologies such as AWS SQS, ECS, CloudWatch, CodePipeline, S3, RDS and many more. 
+Must have:
+-	Backend C# and .NET Framework (Entity MEF).
+-	Web Services - REST/SOAP
+-	Database - SQL, MS SQL
+-	Version control
+Nice to have:
+-	Windows Server
+-	Web Langages (PHP, Html, JS…)
+-	AWS
+-	Linux Server
+-	SQLite
+-	Shell scripting Employee perks, benefits• Flexible working hours
+• Home Office
+• Extra Vacation days
+• Homeoffice & Holiday allowance
+• Relax rooms
+• Multisport card
+• Technical courses, Certifications
+• Worldwide IT Conferences
+• Commercial partners discounts
+• Ness Summer club – full-day summer program for children of our employees
+• High-standard working conditions
+• Geeky Fridays
+• Massages Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)Other knowledgeC# - Expert.NET - ExpertSQL - AdvancedAmazon Web Services (AWS) - AdvancedExperience in the position/sector5Number of years of experience5 Advertiser Brief description of the companyNess KDC was established in 2005 and is the flagship Software Delivery and Innovations Center of the Ness Digital Engineering corporation.
+In the area of software engineering, it is our top-quality services, individual customer approach and ability to achieve targets which are most highly valued by our clients. Thanks to these, Ness Kosice enjoys long-term business relationships with its customers. Our teams of professionals first process and analyze client’s requirements; then, through cooperation with the client, they use the newest technology to fulfil these requirements in an “agile” environment.
+Our glowing references and strong corporate background continuously attract the interest of new clients. As a result, Ness KDC is now one of the most important employers in the region with a workforce of more than 600 people. Number of employees500-999 employees ContactContact person: Mgr.  Dorota RepkovaTel.: +421911052144E-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4520450 
+     Dátum zverejnenia:  17.4.2023 
+    2023-04-17
+lokalita: Remote work   Pozícia: .NET Programmer, Backend developer, C# Programmer, Programmer, Software Engineer   Spoločnosť: NESS KE, s.r.o.   
+Základná zložka mzdy (brutto): 2 100 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

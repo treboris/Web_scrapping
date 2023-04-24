@@ -1,0 +1,412 @@
+Belépésálláskeresőknek
+Állások
+Önéletrajz feltöltése
+Állásértesítő készítése
+CV készítő
+Cégek Új
+Részletes keresés
+Tesztelő, tesztmérnök állások, munkák
+84 db találat 
+Szűrés
+Beágyazott szoftverfejlesztő
+Profession Services
+Pécs
+A műszer szoftverének és szoftverplatformjának fejlesztése és karbantartása C++ nyelven. Kód írása a különböző HW-összetevők vezérléséhez, az érzékelők adatainak gyűjtése. Együttműködés a terméktulajdonosokkal, a hardvermérnökökkel és a területi szakemberekkel a koncepció megterv...
+Extra juttatások
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 09:45
+Állás megtekintése
+ Mentés 
+tegnap 09:45
+Senior java fejlesztő
+Profession Services
+Otthonról végezhető
+egy olyan csapat része leszel, akik agilis módszertanokat alkalmazó szoftvermegoldások fejlesztéséért és bővítéséért felelősek tervezni, designolni, implementálni és tesztelni gyakran és nyíltan kommunikálni csapattársaiddal különböző ötletekről, problémákról és azok megoldásairő...
+Szakmai tréningek
+Nyelvtanulás támogatása
+Programozó, Fejlesztő
+Távmunka
+Home office
+Általános munkarend
+Angol - középfok
+Apr. 17.
+Állás megtekintése
+ Mentés 
+April 17.
+R&D Tesztlabor mérnök
+Valeo eAutomotive Hungary Kft.
+8200 Veszprém, Videoton
+A Valeo K+F által fejlesztett termékek validációjához kapcsolódó mérések, vizsgálatok végrehajtása, eredmények / termékek analizálása, jegyzőkönyvek készítése. Környezeti / hőmérsékleti tesztek (pl.: DIN és Vevői normák alapján) Elektromos tesztek Mechanikai / vibrációs tesztek K...
+Extra juttatások
+Gépészmérnök
+Általános munkarend
+Angol - középfok
+tegnap 14:22
+Állás megtekintése
+ Mentés 
+tegnap 14:22
+Senior Test Engineer
+Huawei Technologies Hungary Kft.
+Páty or Komárom 
+Development and implement the Digital and Automation manufacture solution; Experience on NPI and mass production for Network, Wireless or IT Server product; Design for Process control and quality, efficiency, cost and process improvement EMS manufacturing partner factory on-site...
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 09:15
+Állás megtekintése
+ Mentés 
+tegnap 09:15
+Spóroljon időt!
+Böngéssze a kimondottan Önre szabott, átlag jelentkezői bérigényt is feltüntető álláslistát a Profession Prémium segítségével!
+Kipróbálom díjmentesen
+Software Quality Engineer
+Loxon Solutions Zrt.
+1134 Budapest, Lőportár u. 20/b
+analyze user stories for validity and feasibility; create test cases; develop, execute and maintain (manual and automated) test scripts; create and execute performance test scenarios; review and evaluate test results; detect and track software defects and inconsistencies; provide...
+Extra juttatások
+Tech stack
+Tesztelő, Tesztmérnök
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 17:50
+Állás megtekintése
+ Mentés 
+ma 17:50
+Junior szoftvertesztelő
+Astron Informatikai Kft.
+Budapest
+Tesztesetek készítése Manuális tesztek elvégzése Teszteredmények kiértékelése, tesztriport készítése Tesztelési dokumentációk készítése UAT tesztek támogatása
+Extra juttatások
+Tesztelő, Tesztmérnök
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 17:30
+Állás megtekintése
+ Mentés 
+ma 17:30
+Tesztelő (E-TS02)
+Tech People Hungary Kft.
+Budapest, III. kerület
+Hibajegyek felvétele JIRA használatával Vasúti forgalomirányító rendszereket funkcionális tesztelése Adtaelemzés. Szoros együttműködés a csapat tagjaival
+Tech stack
+Tesztelő, Tesztmérnök
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - alapfok
+Német - alapfok
+ma 15:55
+Állás megtekintése
+ Mentés 
+ma 15:55
+Reverse Engineering Hacker (JA)
+Legyen az első 5 jelentkező között!
+Tech People Hungary Kft.
+Budapest
+mobiltelefon (Android, iOS, OS10) operációs rendszerének elemzése zero day exploitok keresése rootolás jailbreak custom kernel fordítása szervizfunkciók működése alacsonyabb szinten halottnak hitt készülék életre keltése hardver vizsgálata/hibakeresés bootrom szinten (is)...
+Tech stack
+Programozó, Fejlesztő
+Távmunka
+Alkalmazotti
+Általános munkarend
+ma 13:00
+Állás megtekintése
+ Mentés 
+ma 13:00
+Tesztmérnök
+Katek Hungary Kft.
+9027 Győr, Berkenyefa sor
+Tesztalkalmazások és berendezések validálása, karbantartása Új termékek bevezetésének támogatása Teszterek fejlesztése Termelés támogatása, berendezések üzembe állítása Tesztfolyamatok hatékonyságának javítása Tervezési hibák feltárása
+Extra juttatások
+Villamosmérnök
+Alkalmazotti
+Általános munkarend
+ma 10:25
+Állás megtekintése
+ Mentés 
+ma 10:25
+Manuális Tesztelő
+Bankmonitor Kft.
+1037 Budapest, Montevideó utca 16b.
+Teszteléséhez kapcsolódó feladatok végrehajtása (Honlap, Kalkulátorok, Autoresponderek, Leadformok, Ügyfélportál, Bankportal, CRM stb.) Elkészíti a feladathoz kapcsolódó teszteseteket, definiálja az elvárt teszteredményeket, Elkészíti / javaslatot tesz a tesztelendő alkalmazás ad...
+Tech stack
+Tesztelő, Tesztmérnök
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - alapfok
+ma 09:25
+Állás megtekintése
+ Mentés 
+ma 09:25
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek!
+Szoftver Tesztmérnök
+Rheinmetall Electronics Hungary Kft.
+Budapest
+A szoftver tesztmérnöki pozícióban Önnek lehetősége nyílik arra, hogy egy teljesítményorientált csapatban dolgozzon a szárazföldi, légi és tengeri szimulációs programok támogatására szolgáló szoftverfejlesztés és tesztelés területén. A jövő tesztmérnökeit keressük, akik jártasak...
+Tech stack
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+ma 09:15
+Állás megtekintése
+ Mentés 
+ma 09:15
+Senior Szoftverfejlesztő
+Legyen az első 5 jelentkező között!
+Rheinmetall Electronics Hungary Kft.
+Budapest
+A Senior szoftverfejlesztő pozícióban Önnek lehetősége nyílik egy teljesítményorientált csapatban dolgozni a szárazföldi, légi és tengeri szimulációs programokat támogató szoftverfejlesztés és tesztelés területén. Olyan technológiában jártas műszaki vezetőket keresünk, akik nem f...
+Tech stack
+Programozó, Fejlesztő
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+ma 09:15
+Állás megtekintése
+ Mentés 
+ma 09:15
+C# / C++ Szoftverfejlesztő
+Rheinmetall Electronics Hungary Kft.
+Budapest
+A szoftverfejlesztői pozícióban Önnek lehetősége nyílik arra, hogy egy teljesítményorientált csapatban dolgozzon a szárazföldi, légi és tengeri szimulációs programok támogatására szolgáló szoftverfejlesztés és tesztelés területén. Olyan technológiában jártas, teljesítményorientál...
+Tech stack
+Programozó, Fejlesztő
+Alkalmazotti
+Rugalmas munkaidő
+Angol - felsőfok
+ma 09:15
+Állás megtekintése
+ Mentés 
+ma 09:15
+HR Tech Specialist
+Legyen az első 5 jelentkező között!
+Grundfos GSSE, Budapest
+Budapest
+Develop the “Iperform” area in our Digital HR landscape including Merit, Incentive, Performance management, goal management as our Subject matter expert. Participate in Sprints to develop and implement new solutions to continue developing our HR platform offers for compensation a...
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - középfok
+ma 07:30
+Állás megtekintése
+ Mentés 
+ma 07:30
+C#/.net fejlesztő
+GriffSoft Zrt.
+Budapest, Szeged, Székesfehérvár
+Komplex, változatos , szakmai kihívásokkal teli munkakör Cégünk által fejlesztett integrált ügyviteli rendszerek, illetve kiegészítő moduljainak interfész fejlesztése, utógondozása Adatbázis: MS SQL Server Verziókövetés: GIT Ticketing rendszer: TFS WorkItem Módszertan: Scrum...
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 06:30
+Állás megtekintése
+ Mentés 
+ma 06:30
+Szoftvertesztelő
+NORG Kft.
+1055 Budapest, Stollár Béla utca 4.
+Tesztelési tervek, tesztforgatókönyvek készítése, a tesztesetek részletes kidolgozása, folyamatos aktualizálása szoros együttműködésben a fejlesztőkkel, tervezőkkel Manuális módon funkcionális tesztelések végrehajtása, tesztadatok előkészítése Talált hibák rögzítése, azok nyomon...
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+tegnap 18:50
+Állás megtekintése
+ Mentés 
+tegnap 18:50
+Tesztmérnök
+Legyen az első 5 jelentkező között!
+Valeo eAutomotive Hungary Kft.
+8200 Veszprém
+A gyártósori tesztberendezések kvalifikálása, validálása, installálása A teszt-és mérőberendezéssel kapcsolatos dokumentáció kezelése Döntéshozatal a mérési módszerről, a mérési program előkészítéséről, R&R analízis A mérési adatok elemzése, jelentés készítése, együttműködés az R...
+Extra juttatások
+Villamosmérnök
+Home office
+Általános munkarend
+Angol - középfok
+tegnap 17:05
+Állás megtekintése
+ Mentés 
+tegnap 17:05
+Villamosmérnök
+COBRA CONTROL KFT.
+1106 Budapest, Fehér út 10.
+Tesztberendezések és célgépek szoftverének fejlesztése.
+Extra juttatások
+Villamosmérnök
+Általános munkarend
+Angol - alapfok
+tegnap 15:50
+Állás megtekintése
+ Mentés 
+tegnap 15:50
+English speaking software tester – Berlin (E-T01)
+Tech People Hungary Kft.
+Németország, Berlin
+As the software is constantly being developed you get to ensure the proper functioning of all new features Every time the company issues a new version, it is up to you to perform a final release test Maintain, develop and enhance these automatic tests New hardware testing Checkin...
+Bruttó 50e Euro/év
+Tech stack
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+tegnap 15:15
+Állás megtekintése
+ Mentés 
+tegnap 15:15
+Medior Manuális Tesztelő (Camunda BPM)
+OTP Bank Nyrt.
+Budapest
+Folyamatfejlesztéshez kapcsolódó üzleti és fejlesztési specifikációk mentén, a tesztelési fázis tervezésével, koordinálásával Tesztesetek írásával, teszt szettek összeállításával A folyamat UAT tesztjét megelőző átfogó tesztelésében való részvétellel Tesztelés során felmerülő hib...
+Tesztelő, Tesztmérnök
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 15:05
+Állás megtekintése
+ Mentés 
+tegnap 15:05
+Műszaki támogató mérnök
+AXIS Flight Training Systems
+Országosan bárhonnan pályázható
+Szimulátorok üzembe helyezése (változó helyszíneken) Hibakeresés és hibaelhárítás Javítási, karbantartási és szervizelési feladatok ellátása Jelentések és dokumentációk elkészítése Osztályok közötti együttműködés Aktív részvétel a részleg továbbfejlesztésében Készenléti munkabeos...
+Műszaki munkatárs
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 14:10
+Állás megtekintése
+ Mentés 
+tegnap 14:10
+CSP Test Development Engineer
+Legyen az első 5 jelentkező között!
+Lenovo Global Technology Hungary Kft.
+2225 Üllő, Zöldmező utca
+Description and Requirements   A Cloud Service Provider (CSP) Test Development Engineer is responsible for the definition, development and management of test code and utilities that are incorporated into the manufacturing test process for Hyperscale servers(L10) and rack(L11) pro...
+Szakmai tréningek
+Egészségbiztosítás
+Tesztelő, Tesztmérnök
+Alkalmazotti
+Kötetlen munkaidő
+Angol - középfok
+tegnap 13:15
+Állás megtekintése
+ Mentés 
+tegnap 13:15
+1
+2
+3
+4
+5
+...
+Következő
+Utolsó
+Állásértesítő készítése
+Keresés mentése
+)
+Figyelem!
+A lakhatási támogatást nyújtó ajánlatokat területi szűrés nélkül listázzuk.
+A területi beállítás csak a lakhatási támogatás paraméter kikapcsolása után változtatható meg újra!
+Keresés finomítása
+IT programozás, Fejlesztés
+Tesztelő, Tesztmérnök
+Beállított szűrők
+Beállított szűrők törlése 
+Kategória 
+IT programozás, Fejlesztés
+Adatbázisszakértő  (44) 
+IT tanácsadó, Elemző, Auditor  (115) 
+IT, fejlesztési vezető  (24) 
+Product owner, -manager  (9) 
+Programozó, Fejlesztő  (276) 
+Projektmenedzsment  (110) 
+Rendszerintegrátor  (16) 
+Rendszertervező  (51) 
+Scrum master  (1) 
+Tesztelő, Tesztmérnök
+UI-, UX designer  (2) 
+Lakóhely (Megye, Város)
+Budapest  (65) 
+Bács-Kiskun megye  (2) 
+Baranya megye  (2) 
+Békés megye  (2) 
+Borsod-Abaúj-Zemplén megye  (2) 
+Csongrád-Csanád megye  (3) 
+Fejér megye  (5) 
+Győr-Moson-Sopron megye  (4) 
+Hajdú-Bihar megye  (3) 
+Heves megye  (2) 
+Jász-Nagykun-Szolnok megye  (2) 
+Komárom-Esztergom megye  (3) 
+Nógrád megye  (2) 
+Pest megye  (8) 
+Somogy megye  (2) 
+Szabolcs-Szatmár-Bereg megye  (2) 
+Tolna megye  (2) 
+Vas megye  (2) 
+Veszprém megye  (8) 
+Zala megye  (2) 
+Németország  (1) 
+Az Ön végzettsége 
+Általános iskola  (1) 
+Középiskola  (38) 
+Főiskola  (34) 
+Egyetem  (7) 
+Az ön nyelvismerete 
+Nincs nyelvismeretem  (15) 
+Angol  (66) 
+Magyar  (6) 
+Német  (4) 
+Az Ön tapasztalata 
+Nincs tapasztalatom  (2) 
+1-3 év szakmai tapasztalat  (42) 
+3-5 év szakmai tapasztalat  (19) 
+5-10 év szakmai tapasztalat  (3) 
+>10 év szakmai tapasztalat  (1) 
+Foglalkoztatás jellege 
+Teljes munkaidő  (74) 
+Távmunka  (6) 
+Szakmai gyakorlat  (2) 
+Vállalkozói  (2) 
+Diákmunka  (7) 
+Home office  (28) 
+Alkalmazotti jogviszony  (59) 
+Munkarend 
+Általános munkarend  (74) 
+Rugalmas munkaidő  (7) 
+Kötetlen munkaidő  (1) 
+Jogosítvány 
+B  (2) 
+Cégméret 
+0-10 fő  (5) 
+10-25 fő  (21) 
+100-250 fő  (11) 
+1000+ fő  (19) 
+25-50 fő  (4) 
+250-500 fő  (8) 
+50-100 fő  (6) 
+500-1000 fő  (8) 
+Beállítások 
+Személyzeti tanácsadók hirdetései nélkül  (25) 
+Munkahely értékelése
+Munkahely értékelése
+Értékelje és mondja el véleményét korábbi vagy jelenlegi munkahelyéről. Értékelése név nélkül történik, és segítséget nyújt a munkakeresőknek ahhoz, hogy
+ideális munkahelyet találjanak. A kitöltés pár percet vesz igénybe.
+Értékelem 

@@ -1,0 +1,54 @@
+ÁLLÁSHIRDETÉS FELADÁS
+GYÁRTÁSIRÁNYÍTÁSI RENDSZER MÉRNÖK (MES MÉRNÖK) 
+	Veszprém megyei, neves termelő vállalat megbízásából keresünk szakembert az alábbi pozícióba:
+GYÁRTÁSIRÁNYÍTÁSI RENDSZER MÉRNÖK (MES MÉRNÖK)Feladatok
+A MES rendszer gyártásba történő implementálása, működtetése és optimalizálása
+Design: a MES rendszer teljes megvalósítási folyamatában való közreműködés, a kapcsolódó társosztályok projekt tagjaival (process, QA és industrial engineers)
+történő együttműködés a rendszer funkcióit érintő kérdésekben
+Implementáció: paraméterek, műszaki specifikációk elkészítése a gépgyártók felé a MES kommunikációról az adott gyártóberendezésekre vonatkozóan
+A rendszer implementálásának dokumentálása
+Tesztelés: a létrehozott MES rendszer tesztelése és validálása
+MES technikusok és felhasználók oktatása
+A MES rendszer bevezetését követő támogató feladatok ellátása
+SQL lekérdezések készítése
+A rendszerbevezetés utáni változtatások és problémák kezelése, elemzése, specifikálása, partnercéggel történő együttműködés
+Az IT Vezetővel és a MES Projekt Vezetővel történő szoros együttműködés, riportok készítése
+Elvárások
+Felsőfokú IT Mérnök végzettség
+C# és/vagy Python programozásban szerzett tapasztalat
+MsSQL programozási gyakorlat
+Folyékony angol nyelvtudás
+Termelésorientált szemlélet
+Támogató, proaktív személyiség
+Erős problémamegoldó képesség
+Amit megbízónk nyújt
+Nemzetközi cég, nagyvállalati környezet
+Versenyképes jövedelem és béren kívüli juttatások (13. havi fizetés, cafeteria, étkezési hozzájárulás, bejárási támogatás)
+Változatos munka, folyamatos szakmai fejlődés (szakirányú képzések)
+Szakmai előrelépési, karrier lehetőség
+Dinamikusan fejlődő vállalat
+A munkavégzés helyeVeszprém megye
+A jelentkezés módjaVárjuk fényképes önéletrajzát a lenti e-mail címre. Kérjük az email tárgyában feltüntetni a pozíció pontos megnevezését: GYÁRTÁSIRÁNYÍTÁSI RENDSZER MÉRNÖK (MES MÉRNÖK), Veszprém megye
+Elérhetőségi adatokIMPC Personnel Hungária Kft.Kapcsolattartó: Nagy JuditNyilvántartási szám: 20158-1/2009-5100-678
+Jelentkezem
+Elmentem az állást
+GYÁRTÁSIRÁNYÍTÁSI RENDSZER MÉRNÖK (MES MÉRNÖK) 
+Jelentkezem
+Elmentem az állást
+IMPC Personnel Hungária Kft. 
+Veszprém 
+Teljes munkaidős 
+Frissítés dátuma: 14.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ MES mérnök 
+ Győr  
+ MES mérnök (Veszprém) 
+ Veszprém  
+ IT Mérnök 
+ Dunavarsány  
+ IT mérnök 
+ Mátészalka  
+ Hardverfejlesztő mérnök - Veszprém 
+ Veszprém  

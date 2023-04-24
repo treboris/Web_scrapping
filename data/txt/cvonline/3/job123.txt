@@ -1,0 +1,51 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Senior IT security manager 
+Description
+Tasks:
+Information Security Management: controls and supports common practices on all aspects of information security, including GDPR.
+Network Architecture & Security: Responsible for security requirements and advisory role on their implementation related to network architecture.
+Risk Management: driving risk analysis and its follow-up for all IT security risks in the operation and development of own Cloud Offerings.
+Identity & Access Management: Definition of security-related technical specifications for the implementation and control of processes and policies, including authentication and password policies.
+IT Operations: Definition and control of procedures for customer environments regarding monitoring, logging, backup & recovery and vulnerability management as well as release & patch management
+Cryptography & Certificate Management: Responsible for the security aspects of the cryptography and certificate policy and advisory role for its implementation
+Software Development: Responsible for recommendations and follow-up on security education for developers, e.g. "Secure Software Development"
+Qualifications
+Requirements:
+2+ years of IT Security experience with IT/Cloud service providers, in banking or pharmaceutical environment or other regulated industries.
+Commercial or industrial education, university degree in business administration, law or IT
+Practical experience in project management and project work
+Experience in Agile Working, organizational skills, ability to work under pressure, pro-active and independent way of working with a strong sense of ownership
+Advanced negotiation skills, communication skills and ability to relate to people
+Ability and willingness to drive and regularly monitor security-related team practices
+Hands-on experience with security testing, audits and IT compliance, certifications
+Hands-on experience In Managed Public Cloud Providers, specifically based on security/data protection, e.g. in a banking regulatory environment
+Language skills:
+English language skills
+Advantages:
+Modern cloud application architecture, team of engaged and motivated players
+Personality:
+Actively driving workstreams, consultative approach to achieve understanding of IT security  requirements in the development and operations team
+Additional Information
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Jelentkezem
+Elmentem az állást
+Senior IT security manager 
+Jelentkezem
+Elmentem az állást
+Deutsche Telekom IT Solutions 
+BudapestDebrecenSzegedPécs 
+Teljes munkaidős 
+Frissítés dátuma: 14.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ IT Security Manager (Corporate Security) (REF822R) 
+ Budapest  
+ IT Security Manager (REF194D) 
+ Budapest  
+ Security Solution Administrator - Antivirus Operation (REF565Y) 
+ Budapest  
+ Security Analyst (REF92A) 
+ Budapest  
+ Cyber Security Analyst Tier2 (REF196L) 
+ Budapest  

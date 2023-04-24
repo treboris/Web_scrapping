@@ -1,0 +1,113 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Backend Developer  
+Senior Backend Developer POWERPLAY MANAGER, s.r.o.
+Miesto práce
+Digital Park, Einsteinova, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiSme štúdio zamerané na vývoj športových hier. Naše herné tituly hrajú milióny hráčov po celom svete. Sídlime v Bratislave na Slovensku. Naším cieľom je vytvárať športové hry na svetovej úrovni, prinášať našim hráčom radosť a rozvíjať medzi nimi športového ducha. Naše hry vyvíjame s ľuďmi, ktorí sa chcú neustále zlepšovať a spoliehajú sa na radosť zo športu a vášeň pre tímovú hru. Snažíme sa vytvárať hry, ktoré nás budú tiež baviť.
+Koho hľadáme?
+Hľadáme Senior Backend Programátora s expertnou znalosťou PHP. Používame primárne framework Laravel. Je dôležité, aby si mal skúsenosti s ORM (object relational mapping). Fungujeme v malých cross tímoch a využívame prvky Agilného vývoja. Aktuálne intenzívne pracujeme na dvoch herných projektoch kde by si sa nám hodil ako posila :)
+Aké zručnosti by si mal mať?
+Must have
+• 2 roky skúseností pri tvorbe BE systémov
+• Znalosť PHP na seniorskej úrovni - kombinácia NginX + PHP-FPM
+• Znalosť frameworku Laravel + core knižnice - ORM z Laravel ekosystému
+• Znalosť frameworku Nest.js + core knižnice - ORM z Nest.js ekosystému
+• Znalosť databázovej platformy MySQL a MariaDB
+• Znalosť kontajnerizačného nástroja Docker
+• Znalosť REST API architektúry
+Nice to have
+• 5 rokov skúseností pri tvorbe BE systémov
+• Znalosť databázovej platformy ElasticSearch + ELK stack
+• Znalosť databázovej platformy Redis aj jeho derivácii ako KeyDB
+• Znalosť orchestračného nástroja Kubernetes
+• Znalosť nástroja Jenkins
+• Znalosť microservis architektúry
+• Znalosť databázovej platformy PostgreSQL
+• Znalosť konceptov CI/CD
+Čo môžeš očakávať od nás?
+Motivačnú mesačnú odmenu pre Senior kandidáta od 3000 EUR (finálna výška odmeny závisí od preukázaných zručností na pohovore)
+Benefity:
+• Flexibilita - hybridný systém fungovania
+• Day off system - dbáme na kvalitný a dostatočný oddych 
+• Balíček ZDRAVIE+ (Ročný príspevok v hodnote 150€, ktoré môžeš využiť na športové aktivity, wellness, masáže, nákup športových alebo zdravotníckych potrieb, atď)
+• Podpora tvojho osobného aj profesného rozvoja – možnosť zúčastniť sa rôznych školení, tréningov, konferencií, interné vzdelávanie
+• Množstvo akcií a teambuildingov (aj online)
+• Chillout zóna na pracovisku (xbox, oddychovka)
+• káva, čaj, ovocie v kuchynke
+• Finančné bonusy pri dôležitých životných udalostiach (narodenie dieťaťa, svadba)
+• Finančný príspevok k narodeninám
+• Individuálna prémia v závislosti od tvojho výkonu raz ročne (% zo zisku firmy)
+• Jedinečná atmosféra herného štúdia - uvoľnená kultúra v kombinácií s TOP produktami
+Znie to zaujímavo? Ak áno, pošli nám svoj životopis :) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiLaravel (PHP framework) - PokročilýObject-relational mapping (ORM) - PokročilýPHP - ExpertDocker - Mierne pokročilýNestJs - Mierne pokročilýPočet rokov praxe2 Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme herné štúdio zamerané na tvorbu športových hier s miliónmi hráčov po celom svete. Vznikli sme v roku 2007 pod názvom PowerPlay Manager. Našim cieľom je tvoriť športové hry na svetovej úrovni, prinášať našim hráčom radosť a rozvíjať medzi nimi priateľskosť a športového ducha. Našou dlhoročnou snahou je prepájať reálny šport s tým virtuálnym. Aj preto spolupracujeme so športovými federáciami a podporujeme mnohých športovcov. Športových fanúšikov nájdete aj v našich radoch. Naše hry vyvíjame s ľuďmi, ktorí sa chcú neustále zlepšovať a rásť a ktorí si zakladajú na kvalite, radosti zo športu a zanietenosti pre tímovú hru. Snažíme sa vytvárať také hry, z ktorých budeme mať radosť aj my. KontaktKontaktná osoba: Mgr.  Dorota K. BaňováE-mail: 
+ Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4556662 
+     Dátum zverejnenia:  13.4.2023 
+    2023-04-13
+lokalita: Bratislava   Pozícia: Backend programátor   Spoločnosť: POWERPLAY MANAGER, s.r.o.   
+Základná zložka mzdy (brutto): 3 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

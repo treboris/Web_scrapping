@@ -1,0 +1,425 @@
+Belépésálláskeresőknek
+Állások
+Önéletrajz feltöltése
+Állásértesítő készítése
+CV készítő
+Cégek Új
+Részletes keresés
+Adatbázisszakértő állások, munkák
+46 db találat 
+Szűrés
+Senior java fejlesztő
+Profession Services
+Otthonról végezhető
+egy olyan csapat része leszel, akik agilis módszertanokat alkalmazó szoftvermegoldások fejlesztéséért és bővítéséért felelősek tervezni, designolni, implementálni és tesztelni gyakran és nyíltan kommunikálni csapattársaiddal különböző ötletekről, problémákról és azok megoldásairő...
+Szakmai tréningek
+Nyelvtanulás támogatása
+Programozó, Fejlesztő
+Távmunka
+Home office
+Általános munkarend
+Angol - középfok
+Apr. 17.
+Állás megtekintése
+ Mentés 
+April 17.
+Backend fejlesztő (C#)
+Profession Services
+7634 Pécs 
+C# nyelven írt platform fejlesztése és karbantartása Együtt kell működnöd a Product Ownerekkel (dániában és magyarországon egyaránt) A meglévő megoldások fejlesztése és átalakítása az új követelményeknek való megfelelés és az új technológiák adaptálása érdekében SW architektúra j...
+Extra juttatások
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Apr. 17.
+Állás megtekintése
+ Mentés 
+April 17.
+Üzletiadat-elemző/Business Data Analyst
+Apex Tool Group Hungária Kft.
+Rugalmas munkavégzési hely 
+az üzleti vonatkozású adatok megértése, analitikai ismeretek alkalmazása a vállalat különböző funkcionális területein a nyers adatok átalakítása hasznosítható betekintésekké. Komplex ad-hoc elemzések tervezése és önálló elvégzése jelentések, “dashboard”, döntéstámogatás és egyéb...
+Extra juttatások
+Üzleti elemző
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 16:54
+Állás megtekintése
+ Mentés 
+ma 16:54
+Senior Oracle Database Administrator
+Unisys
+Budapest
+Perform all intermediate level database support activities (Physical and Logical) including Incident Management and Service Request Management. Plan and execute Change Management and Problem Management. Monitor system performance, provide service availability, schedule maintenanc...
+Extra juttatások
+Adatbázisszakértő
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 10:04
+Állás megtekintése
+ Mentés 
+ma 10:04
+Spóroljon időt!
+Böngéssze a kimondottan Önre szabott, átlag jelentkezői bérigényt is feltüntető álláslistát a Profession Prémium segítségével!
+Kipróbálom díjmentesen
+Lead Project Data Analyst
+Eaton
+Budapest
+Develop and own the implementation and tracking of data modernization/ digitalization for the transformations team through Power Bi and other business analytical tools. Own the development and enhancement of team capacity planning, project budgeting, program and execution pla...
+Szakmai tréningek
+Elemző, Tanácsadó
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 17:12
+Állás megtekintése
+ Mentés 
+tegnap 17:12
+Service Manager
+Legyen az első 5 jelentkező között!
+IDBC Creative Solutions Kft.
+Otthonról végezhető
+Teljeskörű ügyfélkiszolgálási szolgáltatás biztosítása a németországi partenerek/ügyfelek felé. Incidensek feldolgozása a megállapodott szolgáltatási szint (SLA) keretein belül. Felelősségvállalás a Doxis4 ECM-rendszer optimális működéséért a Managed Service szerződések és ügyfél...
+Tech stack
+Adatbázisszakértő
+Távmunka
+Alkalmazotti
+Általános munkarend
+Német - középfok
+ma 16:40
+Állás megtekintése
+ Mentés 
+ma 16:40
+Senior Configuration Management Analyst
+Legyen az első 5 jelentkező között!
+Unisys
+Budapest
+Acting as an active member of an Asset Management team working with both on-site and local field resources to identify and validate the complete life cycle of end user and enterprise assets Ensuring contractual service support requirements are understood and managed properly Faci...
+Extra juttatások
+Adatbázisszakértő
+Távmunka
+Home office
+Általános munkarend
+Angol - középfok
+ma 16:40
+Állás megtekintése
+ Mentés 
+ma 16:40
+BI Analyst
+GLS General Log.SystemsHungary Kft.
+2351 Alsónémedi, GLS Európa u. 2.
+A GLS üzleti szolgáltatásait támogató informatikai rendszerekre épülő BI rendszer fejlesztése és működtetése Üzleti igények alapján adattárház jellegű rendszerek fejlesztése és tesztelése, Egy agilis team tagjaként segíteni a csapatot céljai elérésében, Adatmodellezés, adatpiac l...
+Extra juttatások
+Adatbázisszakértő
+Home office
+Alkalmazotti
+Rugalmas munkaidő
+Angol - középfok
+ma 16:10
+Állás megtekintése
+ Mentés 
+ma 16:10
+Adattárház fejlesztő rendszerszervező
+Nemzeti Útdíjfizetési Szolgáltató Zrt.
+1134 Budapest, Váci út 45/B 
+adattárházi folyamatok fejlesztése, a legújabb WhereScape 3D és RED alapú adattárház automatizáció megoldás használatával, közreműködés az új DataVault alapú adattárház endszer kialakításában részvétel a fejlesztői és funkcionális tesztelésekben, kapcsolattartás a külső fejlesztő...
+Bónusz
+Extra juttatások
+Tech stack
+Adatbázisszakértő
+Távmunka
+Alkalmazotti
+Általános munkarend
+ma 15:45
+Állás megtekintése
+ Mentés 
+ma 15:45
+Labeling Operative Specialist
+Cognizant Technology Solutions Hungary Kft.
+Budapest
+Tracking different regulatory submissions in the corporate regulatory database: update database with specific documents and/or information Preparing documents for import, configuring structured content in Docuvera and performing final verification of the output Coordinating with...
+Extra juttatások
+Adatbázisszakértő
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 15:35
+Állás megtekintése
+ Mentés 
+ma 15:35
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek!
+HR Data and Reporting Analyst
+Legyen az első 5 jelentkező között!
+KÖZÉP-EURÓPAI EGYETEM
+Budapest
+As a member of a small HR Data team, the successful candidate will complete the following tasks. Works in the designated databases (Nexon, SAP SuccessFactors, etc), enters data and updates records as needed Supports HRO operations from data management point of view Quality assura...
+HR adminisztráció
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 14:55
+Állás megtekintése
+ Mentés 
+ma 14:55
+Master data specialist (French and English speaking)
+Adecco Kft.
+Budapest
+Maintain transaction processing across the customer care team, performing diligence checks, and making necessary updates to the system, including: Price upload and auditing Sales representative territory assignment Reporting Generate and verify data Ensure high levels of internal...
+Bónusz
+Cafeteria
+Élet- és balesetbiztosítás
+Tech stack
+Adatbázisszakértő
+Home office
+Alkalmazotti
+Általános munkarend
+ma 14:00
+Állás megtekintése
+ Mentés 
+ma 14:00
+3rd party cybersecurity auditor
+TÜV Rheinland InterCert Kft.
+Budapest, XIV. kerület, Gizella út 51-57.
+Autóipari tanúsító auditok tervezése, végrehajtása és auditriportok készítése cybersecurity területen Kapcsolattartás nemzetközi ügyfelekkel és a németországi tanúsító központtal Cybersecurity workshopok és tréningek megtartása az ügyfelek részére A cybersecurity terület nemzetkö...
+Cafeteria
+Információbiztonság
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+Videóval
+ma 08:50
+Állás megtekintése
+ Mentés 
+ma 08:50
+Senior Data Engineer
+Legyen az első 5 jelentkező között!
+VI5 Technologies Kft.
+Rugalmas munkavégzési hely 
+adatszerkezetek kialakítása és a legjobb adatgyűjtési stratégia meghatározása az elemzések számára, az optimalizálás és az üzleti döntések alapjaként testreszabott adatmodellek tervezése és beillesztése a rendszerbe komplex lekérdezések létrehozása az adatok forrásrendszerből tör...
+Bónusz
+Szakmai tréningek
+Tech stack
+Adatbázisszakértő
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 20:50
+Állás megtekintése
+ Mentés 
+tegnap 20:50
+Senior Data Engineer
+Legyen az első 5 jelentkező között!
+Unisys
+Budapest
+Define Data Platform Team's Vision and Strategy Mentor younger colleagues Analyze potential data sources Design and implement data pipelines Manage and maintain Azure Data Bricks clusters Work on internal Data team’s packages for data preparation, monitoring Participate in bi-wee...
+Bónusz
+Extra juttatások
+Adatbázisszakértő
+Távmunka
+Home office
+Általános munkarend
+Angol - középfok
+tegnap 15:35
+Állás megtekintése
+ Mentés 
+tegnap 15:35
+DevOps Engineer
+Shoprenter Kft.
+Rugalmas munkavégzési hely 
+Mit csinál nálunk egy DevOps Engineer? Minden feladat előtt részletes rendszerismereti oktatást biztosítunk, amelyek után az alábbi feladatokban számítunk kollégáinkra: Magas rendelkezésre állású, elosztott rendszerek üzemeltetése Linux szerver alapú operációs rendszerek naprakés...
+Extra juttatások
+Tech stack
+Rendszerüzemeltető
+Home office
+Alkalmazotti
+Kötetlen munkaidő
+Angol - középfok
+tegnap 14:55
+Állás megtekintése
+ Mentés 
+tegnap 14:55
+Senior adatelemző
+DIGI Kft.
+Budapest
+Kereskedelmi igazgatóság (és társterületek) adat-vezérelt döntéshozásának támogatása üzleti tervezés, árazás, termékfejlesztés során. Üzleti adatok elemzése, kampányelemzés, modellezés, ügyfélviselkedések elemzése, modellezése, szegmentáció Adatok kiaknázása és a menedzsment szám...
+Cafeteria
+Tech stack
+Adatbázisszakértő
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+tegnap 12:18
+Állás megtekintése
+ Mentés 
+tegnap 12:18
+Adatbázis-karbantartó
+Élelmiszerlánc-biztonsági Centrum Nonprofit Kft. (ÉLBC Kft.)
+1024 Budapest, Keleti Károly utca 24.
+napi munkád során ellátod az állatnyilvántartási adatbázis működtetésével és karbantartásával kapcsolatos feladatokat, gondoskodsz az adatok felviteléről és naprakész nyilvántartásáról, feladataid közé tartozik a meglévő adatbázis tisztázása is: lekérdezések végzése az irreleváns...
+Bruttó 400e - 450e Ft/hó
+Extra juttatások
+Közalkalmazott
+Alkalmazotti
+Általános munkarend
+tegnap 12:15
+Állás megtekintése
+ Mentés 
+tegnap 12:15
+Oracle DBA (némettel) (100-16-43073/PR)
+Legyen az első 5 jelentkező között!
+Grafton Recruitment
+Budapest VIII. kerület
+The company is the international shared service company and has its registered office in Munich. Our customers are companies across the globe to which our 7,500 employees across the international locations offer innovative, top-quality products and services in the fields of IT Se...
+Tech stack
+Adatbázisszakértő
+Általános munkarend
+Angol - középfok
+Német - középfok
+tegnap 11:15
+Állás megtekintése
+ Mentés 
+tegnap 11:15
+Junior bi szakértő
+Raiffeisen Bank Zrt.
+Budapest
+Üzleti igények alapján adattárház jellegű rendszerek fejlesztése és tesztelése, Kapcsolattartás és egyeztetés a Bank nem informatikai területein dolgozó kollégákkal, valamint kooperáció a Bank egyéb informatikai területeivel, és fejlesztőkkel, Egy agilis team tagjaként segeíteni...
+Cafeteria
+Tech stack
+Adatbázisszakértő
+Általános munkarend
+Angol - középfok
+tegnap 11:10
+Állás megtekintése
+ Mentés 
+tegnap 11:10
+Data Engineer Intern
+TATA Consultancy Services Hungary
+Budapest
+A full-time BSc student in your last year enrolled at a Hungarian university studying IT. Required to complete the mandatory internship during your studies which is no more than 320 hours. Additional Information: Internship start date: 26th June, 2023 Duration: 8 weeks Deadlin...
+Szakmai tréningek
+Egészségbiztosítás
+Tech stack
+Adatbázisszakértő
+Szakmai gyakorlat
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+tegnap 09:35
+Állás megtekintése
+ Mentés 
+tegnap 09:35
+IT Business Analyst / Üzleti elemző
+Stratis Kft.
+Budapest
+üzleti követelmények azonosítása, strukturálása, adattárház forrásrendszerek, adatátadások felmérése, riportok, mutatószámok, dashboard igények felmérése, Data Science alapú igények beazonosítása, BI megoldások tervezése és specifikációja a fejlesztők számára, adattárház logikai...
+IT tanácsadó, Elemző, Auditor
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+tegnap 00:30
+Állás megtekintése
+ Mentés 
+tegnap 00:30
+1
+2
+3
+Következő
+Utolsó
+Állásértesítő készítése
+Keresés mentése
+)
+Figyelem!
+A lakhatási támogatást nyújtó ajánlatokat területi szűrés nélkül listázzuk.
+A területi beállítás csak a lakhatási támogatás paraméter kikapcsolása után változtatható meg újra!
+Keresés finomítása
+IT programozás, Fejlesztés
+Adatbázisszakértő
+Beállított szűrők
+Beállított szűrők törlése 
+Kategória 
+IT programozás, Fejlesztés
+Adatbázisszakértő
+IT tanácsadó, Elemző, Auditor  (115) 
+IT, fejlesztési vezető  (24) 
+Product owner, -manager  (9) 
+Programozó, Fejlesztő  (276) 
+Projektmenedzsment  (110) 
+Rendszerintegrátor  (16) 
+Rendszertervező  (51) 
+Scrum master  (1) 
+Tesztelő, Tesztmérnök  (82) 
+UI-, UX designer  (2) 
+Lakóhely (Megye, Város)
+Budapest  (39) 
+Bács-Kiskun megye  (3) 
+Baranya megye  (3) 
+Békés megye  (3) 
+Borsod-Abaúj-Zemplén megye  (3) 
+Csongrád-Csanád megye  (3) 
+Fejér megye  (3) 
+Győr-Moson-Sopron megye  (3) 
+Hajdú-Bihar megye  (3) 
+Heves megye  (3) 
+Jász-Nagykun-Szolnok megye  (3) 
+Komárom-Esztergom megye  (3) 
+Nógrád megye  (2) 
+Pest megye  (8) 
+Somogy megye  (2) 
+Szabolcs-Szatmár-Bereg megye  (3) 
+Tolna megye  (2) 
+Vas megye  (3) 
+Veszprém megye  (3) 
+Zala megye  (2) 
+Németország  (1) 
+Az Ön végzettsége 
+Középiskola  (16) 
+Főiskola  (27) 
+Egyetem  (1) 
+Az ön nyelvismerete 
+Nincs nyelvismeretem  (10) 
+Angol  (33) 
+Francia  (1) 
+Német  (4) 
+Olasz  (1) 
+Az Ön tapasztalata 
+1-3 év szakmai tapasztalat  (24) 
+3-5 év szakmai tapasztalat  (8) 
+5-10 év szakmai tapasztalat  (5) 
+Foglalkoztatás jellege 
+Teljes munkaidő  (43) 
+Részmunkaidő  (2) 
+Távmunka  (7) 
+Szakmai gyakorlat  (1) 
+Diákmunka  (1) 
+Home office  (25) 
+Alkalmazotti jogviszony  (39) 
+Munkarend 
+Általános munkarend  (41) 
+Rugalmas munkaidő  (2) 
+Kötetlen munkaidő  (1) 
+Cégméret 
+0-10 fő  (9) 
+10-25 fő  (2) 
+100-250 fő  (4) 
+1000+ fő  (15) 
+25-50 fő  (2) 
+250-500 fő  (3) 
+50-100 fő  (5) 
+500-1000 fő  (3) 
+Beállítások 
+Személyzeti tanácsadók hirdetései nélkül  (6) 
+Munkahely értékelése
+Munkahely értékelése
+Értékelje és mondja el véleményét korábbi vagy jelenlegi munkahelyéről. Értékelése név nélkül történik, és segítséget nyújt a munkakeresőknek ahhoz, hogy
+ideális munkahelyet találjanak. A kitöltés pár percet vesz igénybe.
+Értékelem 

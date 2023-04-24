@@ -1,0 +1,96 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Product Owner Telco / Identification and Access management (REF1614C) (Budapest)
+Product Owner Telco / Identification and Access management (REF1614C) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+Marketing, PR, média
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+Product Owner Telco / Identification and Access management (REF1614C)
+IT in your blood? You have solid skills and expertise in Telecommunication and Product Owner& the prospect of driving Digitalization fascinates you? Does international collaboration for the development of custom-fit IT-Solutions for the Deutsche Telekom Group spark your interest? If so – We want you to help propel the evolution of Magenta IT forward for the best customer satisfaction and problem-solving, and also a modern Technology transformation in the direction of cloud, Over the top media, Network Agnostic services and eCompany. Our motto: Provide IT Stability and proven Solutions and Technology leadership in the same breath. Your’s too, right? So, let’s go!
+Your future Domain
+You will work for the Access4You Service Hub that bundles the identity, authentication and authorization portfolio for Deutsche Telekom globally. To enable access to all necessary IT services, our portfolio also includes IT Shop for our employees at Deutsche Telekom and virtual desktop services for external partners.
+Our customers are all corporate segments and international entities, followed by the applications that require identity and access management services in a secure and compliant way.
+Core Technologies used in our ecosystem are OneIdentity, MS Active Directory and Azure AD, IBM ISAM/ISVA, syscovery SavvySuite, Intercede & Nexus Group PKI to deliver our products and services around CIAM/CAIMAN, Corporate Active Directory, and other company internal tools.
+The hub is structured into SAFe driven value streams (DevOps) and operations focused value streams.
+Your Responsibilities
+The product owner represents the business view in the agile team and is our face to the relevant stakeholders. He/she takes responsibility for the success of the product and ensures to optimize the customer and business value, process-oriented thinking is a valuable part as well as being a team player.
+Your essential tasks include:
+Your focus is to design and evolve services to enable Deutsche Telekom processes
+You are responsible for the end-to-end interaction of all services and system functions for the successful from development thru operations
+You work actively on innovation and automation to modernize the IT landscape
+You ensure a goal-oriented communication between stakeholders in the functional/business and technical/implementation to create software that fulfills the purpose & meets architecture guardrails.
+You advise the business units with technical expertise and business process know-how
+You have a university degree with emphasis in Computer Science or Information Systems or a comparable qualification and profit from multiple years professional experience in IT architecture.
+You have Product Owner skills and several years of experience.
+Evaluate business processes and the resulting requirements for technology solutions
+You analyze and develop the integration into technology solutions as well as the technological implementation options (bridge between business and technology)
+You coordinate the extensive requirements for the technical products/services and ensure the implementation of the solutions
+Experience in the specification of IT solutions in complex IT system landscapes
+Good knowledge in technological consulting of the business sides
+Excellent ability in Analysis & documentation of functional and non-functional requirements in User Stories & Epics
+Additionally, you possess the following knowledge and capabilities:
+Several years’ experience in Identity and Access Management Knowledge
+Experience in One. Identity or any other IAM-tool
+Knowledge of applicable guidelines and rules on audits, compliance and internal control systems (ICS)
+ability to provide a role model function to internal employees and external partners, to comply with the regulations and offer solutions within the new application One. Identity
+You have a strong agile mindset and severally years of experience agile environment
+Experience working in a geographically distributed, international and culturally diverse team is required
+Good (level B2) English Knowledge in word and writing. 
+Optionally: 
+Knowledge of the market, technology and competitor environment in the Information Technology and Telecommunications industry.
+Handling of Jira
+German language
+Senior
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Trenkwalder Kft. -
+Termékmenedzser
+Deutsche Telekom IT Solutions -
+Process and Service Management (REF1237Q)
+Deutsche Telekom IT Solutions -
+Product Owner (OTC) - REF1039C
+Deutsche Telekom IT Solutions -
+English and German speaking Linux System Administrator (REF1491J)
+Randstad Hungary Kft -
+Termék specialista (autóipar)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

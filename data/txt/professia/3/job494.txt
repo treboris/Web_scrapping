@@ -1,0 +1,95 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePL/SQL Developer 
+PL/SQL DeveloperEuroView s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 800 EUR/mesiacod 2800 Eur a viac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiVyvíjame kód, ale podieľame sa na jeho návrhu, prevádzkovom modeli a zabezpečovaní kvality napríklad core systémov, webových a mobilných aplikácií, cloudových riešení. Spolupráca s ostatnými kolegami je kľúčová, keď si potrebujeme vyjasniť zadanie, môžeme sa kedykoľvek obrátiť na analytikov, customer journey expertov, UX designerov. Máme veľkú autonómiu v tom, čo robíme, ale s tým sa spája aj zodpovednosť.
+Záleží nám na čitateľnosti, jednoduchosti a dlhodobej udržateľnosti kódu. Sme zvyknutí automatickými testami pokrývať vyvíjané funkčnosti a vytvárať výkonný a bezpečný kód bez chýb a zraniteľností.
+Bude nám to spoločne fungovať, ak:
+- Vás zaujíma, prečo a čo vyvíjate za produkty a chcete rozumieť potrebám ich užívateľov
+- Zaujímate sa o nové technológie a trendy v softvérovom inžinierstve
+- Ste pripravený/á učiť sa od seniornejších kolegov a pomáhať rozvíjať juniornejších
+- Chcete byť súčasťou komunity odborníkov, ktorá si zdieľa informácie a novinky Zamestnanecké výhody, benefity- Pravidelné Tech Talks, na ktorých preberáme aktuálne témy
+- Možnosť využiť 42 dní voľna (25 dní dovolenky, 5 dní zdravotného voľna, 1 deň voľna navyše každý mesiac pre skvelý work-life balance)
+- 4.89€ za odpracovaný deň v stravenkách - plne hradené zamestnávateľom
+- príspevok 391.08€ do Cafeterie (možnosť Multišport karty)
+- príspevok na dôchodkové poistenie – až 1173.25€/rok Spoločnosť, pre ktorú je pozícia obsadzovanáBankovníctvo, peňažníctvoZahraničná banka Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Počet rokov praxe2Osobnostné predpoklady a zručnosti- Využívame SQL databázu Oracle 19, celý náš core systém je napísaný v PL/SQL
+- Smerom k ostatným aplikáciám máme vystavený rad API a komunikujeme cez JMS, Kafku a súborové prenosy
+- Zdrojové kódy ukladáme do GitHubu so všetkým, čo k tomu patrí (GitHub Actions, Pull requesty)
+- Vykonávame automatické buildy a deploy kódu pomocou Jenkins
+- Pri vývoji u nás stretnete aj Docker
+- Dokumentáciu a analýzy ukladáme na Confluence a designy si kreslíme v Enterprise architektovi Inzerujúca spoločnosť Stručná charakteristika spoločnostiPersonálna a poradenská spoločnosť zameraná na priame vyhľadávanie a výber odborníkov, členov stredného, vyššieho a TOP manažmentu, v oblastiach IT, telco, financie, obchod. Spoločnosť zastrešuje  rozvojové projekty v oblastiach personalistiky, tréningov, assessment a development centier.
+Spoločnosť EuroView je prvou firmou na Slovensku, ktorá je držiteľom licencie na diagnostický systém 3d. Počet zamestnancov5-9 zamestnancov KontaktKontaktná osoba: Matej KováčE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4467849 
+     Dátum zverejnenia:  29.3.2023 
+    2023-03-29
+lokalita: Bratislava   Pozícia: Programátor   Spoločnosť: EuroView s.r.o.   
+Základná zložka mzdy (brutto): 2 800 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

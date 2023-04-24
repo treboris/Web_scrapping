@@ -1,0 +1,81 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceExperienced / Senior .NET Software Engineer 
+Experienced / Senior .NET Software EngineerInfobip
+Place of work
+Košice
+Contract type
+full-time
+Start date
+Upon agreement
+Wage (gross)
+2 000 EUR/month*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. Final offered salary varies based on relevant skills and experience.
+Information about the position Job description, responsibilities and dutiesAt Infobip we dream big.We value creativity, persistence and innovation, passionately believing that it is through teamwork that we can all reach greater heights. Since 2006,  we have been innovating at the edge of technological possibilities and are now shaping global communications of the future. Through 60+ offices on six continents, Infobip’s platform is used by almost 70% of the population, making it the largest network of its kind and the only full-stack cloud communication platform (cPaaS) globally. Join us on our mission to create life-changing interactions between humans and online services with new and unseen solutions. Join our development forces in deploying the code that powers the performance of the Infobip platform.If you want to learn more about life in Infobip, read our Infobip Engineering Handbook!Being a part of Infobip Engineering Powerhouse means working on an in-house developed product and delivering solutions on a global level.  As a Software Engineer you will be dedicated to your microservices and deal with challenges of large architecture that is scalable, balanced, sends over 500 million messages daily and helps our clients to grow their business.Join us on our mission to create life-changing interactions between humans and online services with new and unseen solutions!• Job Description •Why is this role important at Infobip?As a .NET Software Engineer, you will be working inside Customer Services Enablement requirement area focused on internal tools that all of our employees use globally. Dealing with challenges of complex architecture such as scalability, fail over, balancing and large amounts of traffic. Specifically, you will be working in a newly created team which will take over Routing tools serving Routing Team and company-wide used Message Log collecting information about all the traffic (messages) going through our platform.• You know you are doing a great job when: •• You write well designed, testable and scalable code in accordance to clean code principles and team agreements following minimal Definition of Done.• All the code you produce is thoroughly tested for bugs and reviewed before going into production.• You are working on the latest technologies, our teams decided on .NET Core, ASP.NET Core and React on front end.• You have a great general overview of the system that your team is dependent of, understanding the interactions and dependencies among those components.• You regularly contribute to discussions and brainstorming with high quality ideas that result in adoption and improvements.• You proactively share knowledge and help your team evolve into a better team.• Who we are looking for? •• Experienced/senior level professional looking for a high-growth challenge.• Sharing our passion for building high quality software in agile environment.• Experience with any .NET technology and basic knowledge of JavaScript, HTML, CSS, React, Angular or Vue.js.• Experience with MS SQL, Redis and Elasticsearch databases.• Familiar with engineering practices like continuous delivery and automated testing.• You are genuinely curious about how things work, always looking to improve code quality, development process etc.• Building positive, lasting relationships with colleagues in the team. Employee perks, benefitsOur benefit package includes: Linux / Mac / Windows workstations as per employee preference Latest versions of programming languages Educational budget Multisport card covered fully by the company Business cell phone for personal use English lessons Referral program 27 vacation days per year Extra days off (wedding, child birth,..) Competitive annual bonus system Dedicated time to self-study (12 days per year) Flexible working hours Annual DevDays & Shift Conference in Croatia Company events and teambuildings Employee Stock Ownership Plan... and many othersWhy our employees choose us (and stay)?  Big and complex infrastructure – When we talk about a large system, we really mean it. We have datacenters all over the world, from Washington to Hong Kong, and they include around 200 physical and 2000+ virtual servers. Be a part of a system that is live 24/7 and generates traffic that measures in millions of messages every minute.Never a dull moment – We work with powerful companies with strong impact, which pushes us to work on the highest possible level. Work on uncharted challenges and push boundaries on a daily basis.Opportunity Knocks. Often. – Being a part of a growing company in a growing industry – we challenge you not to grow! Lots of opportunities for development; whether it’s horizontal, vertical, or angular, we want to support the path that you want to carve.Grow your knowledge – Learn as you go, starting from the internal education and onboarding from your colleagues, to our 3-day Dev conference, e-learning to attending conferences. Knowledge is for sharing, and learning is a path to growth. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Educational SpecializationITLanguage skillsEnglish - Upper intermediate (B2) Advertiser Brief description of the companyAt Infobip we dream big. We value creativity, persistence and innovation, passionately believing that it is through teamwork that we can all reach greater heights. Since 2006,  we have been innovating at the edge of technological possibilities and are now shaping global communications of the future. Through 60+ offices on six continents, Infobip’s platform is used by almost 70% of the population, making it the largest network of its kind and the only full-stack cloud communication platform (cPaaS) globally. Join us on our mission to create life-changing interactions between humans and online services with new and unseen solutions. Join our development forces in deploying the code that powers the performance of the Infobip platform. Number of employees1000 and more employees 
+ ContactContact person: Barbora PohančaníkováE-mail: send CV
+All company jobs
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4510320 
+     Dátum zverejnenia:  4.4.2023 
+    2023-04-04
+lokalita: Košice   Pozícia: .NET Programmer, C# Programmer   Spoločnosť: Infobip   
+Základná zložka mzdy (brutto): 2 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

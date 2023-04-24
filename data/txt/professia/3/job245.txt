@@ -1,0 +1,102 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJunior vývojár na platforme Mendix 
+Junior vývojár na platforme Mendix
+Miesto práce
+Žilina
+Druh pracovného pomeru
+plný úväzok
+Platové ohodnotenie
+1 600 EUR/mesiac+ variabilná odmenaUvedená mzda je definovaná pre kandidátov s juniorskými skúsenosťami. Pracovné skúsenosti, prax v odbore a technická odbornosť (seniorita) budú zohľadnené v ponuke.
+O nás
+Siemens MobilitySpoločnosť Siemens Mobility poskytuje riešenia v oblasti integrovanej dopravy a logistiky, ako aj nízkonákladovej a ekologicky šetrnej dopravy.Popis pracovnej pozicie a zodpovednostiČo majú spoločné metrá vo Viedni, v Kodani, v Istanbule či v Buenos Aires?Sme to práve my! Inžinierske centrum Siemens Mobility v Žiline vzniklo v roku 2003 s pár ľuďmi na palube. Dnes nás je už viac ako 700 a každý rok rastieme. Pracujeme na  projektoch po celom svete a za našou prácou môžeme vidieť reálne výsledky – napr. najmodernejšie vlakové linky a metrá v najvyspelejších štátoch sveta. Staňte sa aj Vy súčasťou inovácií v doprave a projektujte s nami pre celý svet!Do nášho svetovo úspešného Inžinierskeho centra v Žiline hľadáme kolegu, ktorý bude pracovať na vývoji riešení v oblasti mobility pre medzinárodných zákazníkov.Ak je Vám blízka téma udržateľnosti a moderných riešení ste našim človekom! Zistite viac o našej práci a projektoch na: https://www.mobility.siemens.com/sk/sk/spolocnost/kariera/zilina.htmlČo bude Vašou úlohou?•	Analýza systémových požiadaviek•	Vytváranie užívateľského prostredia (frontend) pre prácu s dokumentami•	Vytváranie programátorskej a technickej dokumentácie•	Pravidelná komunikácia s tímom•	Kontinuálne zlepšovanie a udržiavanie produktuPozrite si krátky rozhovor s našou kolegyňou o jej práci u nás: https://www.youtube.com/watch?v=Rmgjrrf5ZVE
+Potrebné vzdelanie, zručnosti a osobnostné predpoklady
+Vzdelanienadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+                ITJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+                Technické znalosti:
+•	Skúsenosti s vývojom webových aplikácii, ako aj s testovaním a nasadením
+•	Skúsenosti s budovaním a integráciou (webové služby a REST API)
+•	Skúsenosti s front-end webovými technológiami (HTML, CSS, JavaScript alebo React)
+•	Znalosť architektonických vzorov (napr. Microservices, Event driven, Layered)
+•	Znalosť integračných protokolov (napr. REST, SOAP, XML or HTTP)
+•	Intuitívne ovládanie používateľských rozhraní (UX/UI) a pokyny pre používateľa
+•	Schopnosť previesť obchodné požiadavky do technických user stories pripravených na implementáciu
+•	Základné skúsenosti s Low-Code platformami (Mendix) sú výhodou
+•	Znalosť databázových technológii (MSSQL, PostgreSQL) je výhodou
+•	Znalosť CI/CD je výhodou
+•	Znalosť Cloudových riešení (AWS, Azure, Cloud Foundry or Kubernetes) je výhodou
+•	Znalosť nemeckého jazyka je výhodu
+Osobnostné predpoklady:
+•	Schopnosť riešiť problémy a analytické schopnosti
+Čo ponúkame
+                •	Tréningový a rozvojový program (business a produktové školenia, e-learning, jazykové kurzy, soft skills tréningy,…)•	Program pre zdravie (wellness, športové aktivity, fitness, doplatok ušlej mzdy pri PN a OČR)•	Flexibilný pracovný čas - balans medzi pracovným a súkromným životom•	Skvelý team a teambuildingy•	Extra voľné dni (bridge days, sick days)•	Rodinný program (príspevok pri narodení dieťaťa, odchode na materskú dovolenku, príspevok na škôlku)•	Retention program (príspevok pri pracovnom výročí, životnom jubileu, doplnkové dôchodkové sporenie, zamestnanecké pôžičky)Nemáte pripravený životopis? Alebo potrebujete viacej informácií?Napíšte mi na [email protected] alebo sa môžeme spojiť prostredníctvom Linkedinu: https://lnk.sk/bewdRada budem s Vami v kontakte pre budúcu spoluprácu. :)
+Poslať životopis
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+viac informácií
+ID: 4313848 
+     Dátum zverejnenia:  11.4.2023 
+    2023-04-11
+lokalita: Žilina   Pozícia: Databázový administrátor, Databázový analytik, Frontend programátor, Oracle programátor, Programátor   Spoločnosť: Siemens Slovensko   
+Základná zložka mzdy (brutto): 1 600 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

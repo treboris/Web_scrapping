@@ -1,0 +1,84 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Intermediate/Senior DevOps Engineer (Magyarország)
+Intermediate/Senior DevOps Engineer (Magyarország)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Intermediate/Senior DevOps Engineer
+The candidate will work as an Intermediate/Senior with the existing team in providing global support for multiple business units in support of our AWS environment and specifically provide development and support related to event driven serverless architecture using AWS specific functions to build out our data lake. Will also support and challenge our AWS automation so knowledge of CI/CD pipeline, Kubernetes, Docker, Athena, Step functions, lambda’s, Glue, IAM, and test automation will be needed. Work is done in an Agile environment so experience of this is also necessary along with great communication skills, communicating with the business, vendor
+upgrades, working within the regulatory/compliance environment and adhering to related controls, and vendor management.
+Also, it is expected to coach and mentor the rest of the team so that the team matures knowledge wise.
+Aegon is a multinational financial services group headquartered in The Hague, the Netherlands. The company has multiple locations across the globe, with core markets in The Netherlands, UK and the US, growth markets in China, Brazil and Iberia and an Asset Management organization with locations in UK, US, NL and Hungary. Aegon Global Business Solution Center is supporting these businesses with IT, Finance, Risk, Model Validation, Actuarial, Audit and Asset management services with a growing team of approx. 300 people, based in Budapest, Hungary.
+At Aegon, we foster a diverse workforce and an inclusive culture. We are a people business, and we recognize that delivering excellent client outcomes comes from harnessing distinct perspectives. We value diversity in the full range of human uniqueness without limitation, including race, gender, ability, language, culture, beliefs, age, origin, background, perspectives, and experiences.
+Bachelor's degree, or equivalent level.
+Minimum 3 years of work experience in a comparable role.
+Professional English knowledge, both written and spoken.
+Regulatory experience preferred.
+2 to 3 years working in AWS.
+Knowledge on Kubernetes, Docker, Athena, Step functions, lambda’s, Glue,
+IAM.
+Have a basic understanding on concept of CI/CD pipelines.
+TypeScript / NodeJS is nice to have.
+Event driven approach.
+Experience with agile is preferred, but not a must.
+Experience with Service Now, Confluence, Jira preferred.
+Problem solving skills.
+Good planning, prioritizing and goal setting skills.
+Ability to work independently, but also in team.
+Experience in mentoring/coaching team members.
+Challenging existing patterns, being open minded, propose new solutions.
+Competitive salary
+Comprehensive health package
+Brand new office at an excellent location
+Hybrid working
+Opportunities for growth and advancement
+A highly people centric, positive and supportive work environment
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+Randstad Hungary Kft -
+Software Engineer
+Deutsche Telekom IT Solutions -
+Learning and Development Expert (Experienced/Senior) - REF1664I
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Deutsche Telekom IT Solutions -
+Senior FullStack Fejlesztő (REF1657B)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

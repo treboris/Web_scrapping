@@ -1,0 +1,52 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Voice Configuration Engineer 
+Your new company
+You’ll have delivery and planning responsibility regarding the German Domestic Voice Services. You will be a part of a small team building voice configuration for domestic customers. 
+One part of the duty is the configuration regarding EWSD services, these are legacy voice configuration but also having opportunities to be involved into the VoIP service configuration. 
+Your new role
+Working standalone and in team as part of managed projects on incoming customer requests using defined processes for provisioning. Dealing with (create, cease, modify, validate) site and customer related configuration settings. 
+You’ll build customer voice configurations and maintain existing VoIP setups. 
+To be successful in this role, you must be a motivated and quick learner, possess strong technical problem-solving skills; and be someone who embraces challenges, constructively working together, sharing ideas and knowledge. 
+Keeping up to date with the latest development of VoIP technologies, where related to Cisco and Juniper and willing to take the knowledge of products and processes within own product areas. 
+You must provide the technical support for request fulfilment, delivery, troubleshooting and hyper care to the customer network service requests. As an assigned consultant for specific projects, you will need to validate (pre & post checks) the existing configurations, to create implementation plans/configurations, assist and notify the CDP team proactively, if there is any network related issue, or obstacle. Candidate is required to support request fulfilment in addition to project work, migrations. 
+You need to guide and support our stakeholders (e.g. Project Managers, Technical Designers, Customer Delivery Team) to achieve performance, customer experience expectations and quality standards within budget. 
+You will need to provide troubleshooting and consultancy to technical design team and project management. Identifying possible issues and recommending changes to improve reliability, performance of the service. Attending customer calls when appropriate. 
+Providing support for other technical delivery team’s reported incidents, including troubleshooting, diagnostics and implementing resolution, also to maintain training of other junior and senior team members. 
+What you'll need to succeed
+Understanding of Voice technology (VoIP, knowledge of SIP protocol). 
+Detailed knowledge of voice telecommunications environment. 
+Hands-on knowledge for voice network design principals. Able to create voice design based on customer requirement and document the design properly in the given tools/systems. 
+Having analytical approach to be able to fulfil the troubleshooting. 
+Ideally an understanding of legacy voice services, Siemens EWSD. 
+Fluent in English 
+Ability to meet the customers’ needs in line with the business requirements. 
+What you'll get in return
+Inspiring new challenges and supportive, friendly team culture 
+Employee and Family Friendly Workplace – Flexibility to work from Home in part time (Based on the laws HO only available from the territory of Hungary) 
+Opportunity for professional development through programs, trainings 
+Company mobile phone and company laptop 
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+Voice Configuration Engineer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 18.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ DevOps Engineer 
+ Budapest  
+ IT Engineer 
+ Budapest  
+ C  / QT Engineer 
+ Budapest  
+ QA Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  

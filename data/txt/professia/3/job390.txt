@@ -1,0 +1,109 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSQL Data engineer – product team (100% remote) 
+O nás
+Pre uchádzačov
+Novinky
+Kontakt
+                        Značka prémiového recruitmentu S&you patrí do portfólia pôvodom francúzskej skupiny SYNERGIE, 5. najväčšieho poskytovateľa HR služieb v Európe. V regióne Česko-Slovensko pôsobíme už viac ako 25 rokov. Špecializujeme sa na vyhľadávanie a výber zamestnancov na pozície špecialistov, stredného a vyššieho manažmentu.
+                        Pracovné ponuky:
+FinancieBankovníctvo
+ITTelco
+ObchodMarketing
+PriemyselLogistika
+AdministratívaHR
+SQL Data engineer – product team (100% remote)
+                                Place of work
+                            Remote work
+                                Start date
+                            Upon agreement.
+                                Contract type
+                            full-time
+                                Wage (gross)
+3 000 EUR/monthgross/monthly (or higher based on your experience and expectations)
+Job description, responsibilities and dutiesDo you have significant experience in gathering business requirements and translating these into technical ones? Are you an excellent problem solver with high attention to detail? Do you want to work in a distributed, remote first Product Team across Europe? We are looking to recruit an SQL Data Engineer who will be responsible for delivering data engineering and reporting solutions to meet business requirements.You will be primarily working on delivering a number of advanced T-SQL scripts which are delivered through an SSRS report fed from packages built in SSIS, and on building an API. At a later stage, this process will be replaced with among others Azure Data Factory and PowerBI.In addition to the responsibilities mentioned above, your role would be also to: Work collaboratively to develop meaningful products that advance climate and environmental action Deliver a number of data for the company´s Supply Chain Team Ensure the requirements are understood correctly by yourself and there will be a contact from the stakeholder team ready to answer any of your queries Support colleagues, investors, NGOs, and other data consumers in the use of processed data and data products to make better decisions making from them Gather data requirements and data testing for key tools Employee perks, benefits 5 days of paid sick days 5 days of additional holiday To participate in interesting projects To develop professional knowledge and skills To become a part of an international team Fully remote work Company on whose behalf the position is being filledAn international non-profit organization that drives companies and governments to reduce their greenhouse gas emissions, safeguard water resources and protect forests through the platform, that is one of the richest sources of how the companies and governments are driving environmental changes globally. Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skillsKey skills and experience: Minimum 3 years of experience in writing high-performance advanced T-SQL and stored procedures Experience in writing high performance advanced T-SQL and stored procedures Experience with Azure and with building an API Strong ability to analyse user requirements Significant track record of delivering creative Business Intelligent solutions (including report design and dashboards) using the Microsoft Business Intelligence stack (SSIS, SSRS) Excellent problem-solving skills Very high attention to detail Strong understanding of relational database structures, theories, principles, and practices Demonstrate ability with Microsoft SQL Server 2016 database engine, mainly with regards to performance tuning Knowledge of data warehousing, including designing, supporting, and building ETLs Experience of working in an agile environment with tight deadlines within a highly motivated teamDesired skills and experience (optional): ADF Pipelines to build and populate SQL databases Experience in analytics tools Experience in building externally facing BI tools delivered through websites Experience with R programming language Knowledge of development in C#, Microsoft Dynamics CRM 2016 An awareness of environmental issues, particularly as they relate to core themes like Climate Change, Deforestation, and Water Security. Advertiser Brief description of the companySYNERGIE Slovakia as recruitment and consulting agency has been present on the Slovak market since 1999. We are a part of SYNERGIE Group - the 5th largest HR solutions provider in Europe.We do offer international experience, consultants with wide-ranging knowledge and experience in their specific fields and deep knowledge of the job market.The company is a holder of a licence to offer recruitment services. (25908/2004 - OSS 129/2005. Plati pre SR.)The company is a holder of a licence to offer recruitment services. Number of employees20-24 employees Information about the selection process
+Odpovedáme všetkým kandidátom do 3 pracovných dní, a to aj v prípade zamietavého stanoviska
+Nenašli ste ponuku, ktorá by Vás zaujala? Navštívte našu stránku www.synergie.sk, kde nájdete aj pozície, ktoré nie sú zverejnené na pracovných portáloch.
+Aktuálna ponuka
+Poznáte niekoho, kto je vhodným kandidátom na jednu z našich pozícií? Zapojte sa do nášho referenčného programu a získajte 200 EUR!
+Odporučte známeho
+ ContactContact person: Jana TokarováTel.: +421918790884E-mail: 
+Zoznam odvetví
+FinancieBankovníctvo
+ITTelco
+ObchodMarketing
+PriemyselLogistika
+AdministratívaHR
+Aktuálnaponuka
+Kontakt
+                                Synergie Slovakia s.r.o.
+                                Dunajská 4, 811 08 Bratislava
+                                Tel: (+421) 2 54 41 55 22
+                                Fax: (+421) 2 54 41 54 89
+                                E-mail: [email protected]
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4551244 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Remote work   Pozícia: Business Intelligence Specialist, Database Administrator, Database Analyst, Programmer, Software Engineer   Spoločnosť: S&you by SYNERGIE   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 3 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

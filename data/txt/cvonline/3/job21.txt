@@ -1,0 +1,52 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Cyber Security Analyst Tier2 (REF196L) 
+Description
+Security monitoring in SIEM (Security Information and Event Management), EDR (Endpoint Detection and Response) and other sources
+Investigate, review and triage alerts and identify real threats from false positives
+Create incidents for potential attacks
+Fine-tune rules in collaboration with content engineering team
+Regular participation in cyber review meetings with the customers’ IT security teams to discuss the escalated incidents, issues, and fine-tuning suggestions
+Support and mentor the L1 Analyst team in daily operation
+Generate reports for both technical and non-technical staff and stakeholders
+Be up-to-date on the latest threats in IT.
+Qualifications
+IT Security experience
+Technical knowledge and experience with at least one well-known SIEM or security analytics solution
+Solid knowledge of Windows and Linux operation systems
+General knowledge of web security, network protocols, devices, services, and related technologies (Firewall, IPS/IDS, web proxy)
+Understanding of host-based security tools such as anti-virus and EDR
+IT Security Certificate(s) (CompTIA, EC-Council or equivalent)
+Strong analytical and problem-solving skills, ability to analyze logs of various devices, solutions
+Reliable English communication skills (both written and verbal)
+Advantages
+Previous SOC experience
+Experience with EDR solutions
+Experience with ICS, OT and IoT security solutions
+Vendor certificates (IBM, Microsoft, Splunk, CrowdStrike or equivalent)
+Any advanced security certificate (GSEC, OSCP/OSCE or equivalent)
+Basic presentation, project management, document management skills
+German communication skills
+Additional Information
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Jelentkezem
+Elmentem az állást
+Cyber Security Analyst Tier2 (REF196L) 
+Jelentkezem
+Elmentem az állást
+Deutsche Telekom IT Solutions 
+BudapestDebrecenPécsSzeged 
+Teljes munkaidős 
+Frissítés dátuma: 15.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Security Analyst (REF92A) 
+ Budapest  
+ IT Security Manager (Corporate Security) (REF822R) 
+ Budapest  
+ Functional Analyst IAM - Hibrid 
+ Budapest  
+ Senior IT security manager 
+ Budapest  
+ Information Security Analyst 
+ Budapest  

@@ -1,0 +1,109 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava Developer (Backend) 
+Java Developer (Backend)N I K É , spol. s r.o.
+Miesto práce
+Staré Grunty, Karlova Ves
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac* nástupná mzda je závislá od skúsenosti kandidáta a je predmetom diskusie počas výberového konania. Minimálna nástupná mzda začína od 2000,- EUR/mesačne.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti- Budeš pracovať v scrum tíme 6 ďalších Java developerov
+- Pracujeme agilne (so všetkým, čo k tomu patrí: planning, stand-up, retrospektíva, sprint review - demo) a naši programátori sami často prídu so zaujímavými nápadmi
+- Na backend-e implementujeme aj interné GUI aplikácie, tieto aj navrhujeme a zlepšujeme = Toto samozrejme nerobia všetci, ale ak chceš byť fullstack developer, tak vieme ti na to vytvoriť priestor
+- Pracujeme s týmito vývojovými prostriedkami: IDEA, maven, git/gitlab, JIRA, Confluence
+- Pre vyššiu performance používame asynchrónne/reaktívne frameworky (javarx, webflux, kafka-streams, reactor), v Kotline coroutines a experimentujeme s ďalšími technológiami (r2dbc)
+- Návrh by mal byť čo najlepším obrazom domény (Domain-Driven Design) - developeri sú zodpovední za návrh/architektúru a často sa podieľajú už aj na analýze požiadaviek. Vychovávame si developerov so silnými doménovými znalosťami
+- Pre vyššiu performance používame asychrónne/reaktívne frameworky (javarx, webflux, kafka-streams, reactor, kafka) a experimentujeme s ďalšími (r2dbc)
+- Základ aplikácie je najnovší Spring a Spring Boot, všetky aplikácie máme prinajmenšom na Java 8 a tie nové vyvíjame nad OpenJDK 11+, niektoré aplikácie píšeme v Kotline
+- Vysoký dôraz kladieme na performance, vytvárame funkčné prototypy a tie testujeme na výkon
+- Navrhujeme riešenia schopné zvládať dátové lavíny, lebo v našej doméne stávkovania existujú dosť často (napr. vyhodnotenie zápasu kde hrá slovenská reprezentácia)
+- Pri vývoji si radi pomôžeme statickou analýzou kódu; je fajn, ak je kontrola kvality kódu automatizovaná
+- Navrhujeme riešenia pre dátové lavíny, lebo v našej doméne stávkovania existujú dosť často (napr. vyhodnotenie zápasu kde hrá slovenská reprezentácia)
+- Dáta ukladáme do PostgreSQL, Ignite, Kafka
+- Podporujeme experimentovanie s novými technológiami / frameworkami
+- Naše aplikácie nasadzujeme na Linux CentOS, na provisioning používame Saltstack a naše buildy si pripravujeme v Jenkinse a GitLabe s pomocou maven a nexus
+- Zdrojový kód máme v git-e, používame GitLab, máme zavedené code review cez merge request a ako brach model používame gitflow
+- Sme zodpovední aj za prevádzku našich aplikácií, preto ich dôkladne monitorujeme pomocou Prometheus, Grafana, Alertmanager
+- Logy a streamy z našich aplikácií ukladáme do Elastic a cez Kibanu ich vyhľadávame
+- Na backend-e implementujeme aj interné GUI aplikácie v JavaFX a Flutteri, tieto aj navrhujeme a zlepšujeme – toto samozrejme nerobia všetci, ale ak máš o vývoj GUI záujem, tak ti vieme na to vytvoriť priestor
+- Pracujeme s týmito vývojovými prostriedkami: IDEA, maven, git/gitlab, JIRA, Confluence
+- Nehráme sa na byrokraciu – v Niké nevykazujeme prácu do nástrojov a nezaťažujeme programátorov poradami
+- Dostaneš sa k vývoju aplikácie od A po Z: návrh, implementácia, testovanie aj prevádzka Informácie o výberovom konaníNiké je líder inovácií vo svete tipovania. V Niké sa opierame o špičkový vývojársky tím, ktorý posúva náš business do nových dynamických dimenzií najnovších IT trendov. Vlastné sú nám voľnosť, fullstack vývoj a DevOps. Aj preto je Niké jednotkou tipovania na Slovensku.
+Vyvíjame riešenia pre stávkovanie cez všetky online kanály – web, mobile web, aplikácie pre Android a iOS.
+V Niké Information Technology nájdeš dynamické a agilné prostredie otvorené akýmkoľvek novým nápadom, výborný tím pracujúci na vývoji jedinečných aplikácií.
+Našich viac ako 120 IT špecialistov, z celkového počtu 250 zamestnancov pracujúcich na centrále, už sídli v novej Niké IT budove na Starých Gruntoch v Mlynskej Doline.
+Viac info zistíš na:
+https://kariera.nike.sk/
+O zásadách ochrany osobných údajov sa dozviete na:
+https://www.nike.sk/info/zasady-ochrany-osobnych-udajov Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaOsobnostné predpoklady a zručnosti- Máš slušné Java development skúsenosti
+- Si Java backend positive (3+ rokov relevant Java development skúsenosť = ideálne Spring, JDBC (SQL), Messaging, Caching)
+- Zaujímajú ťa nové technológie a trendy
+- Nebojíš sa učiť nové veci, rád sa pustíš aj do tunning-u aplikácie
+- Nie je ti jedno ako program vyzerá, máš rád programovanie, dátové štruktúry a algoritmy Inzerujúca spoločnosť Stručná charakteristika spoločnostiNiké, s.r.o. prvá slovenská stávková spoločnosť. KontaktKontaktná osoba: Radovan MihinaE-mail: 
+ Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4550978 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Bratislava   Pozícia: Backend programátor, IT architekt, Java programátor, Programátor, Softvérový inžinier   Spoločnosť: N I K É , spol. s r.o.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

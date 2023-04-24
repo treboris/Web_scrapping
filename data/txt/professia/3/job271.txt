@@ -1,0 +1,106 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceWeb developer medior/senior 
+Web developer medior/seniorINFOTECH, s.r.o.
+Miesto práce
+Tematínska, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+1.5.2023
+Mzdové podmienky (brutto)
+3 200 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiTvojou náplňou práce bude vývoj webovej aplikácie a štatistík pre stabilného a dlhoročného zákazníka v stavebnom priemysle. Okrem vývoja a spolupráce s ostatnými vývojármi na implementácii kódu, ladení a nasadení aplikácií do produkcie bude tvojou náplňou aj:
+• Používanie verziovacieho systému Git na dennej báze
+• Spolupráca na vývoji s GitLab
+• Účasť na spoločných online stretnutiach so svojím tímom
+• Komunikácia so svojimi alebo inými tímami cez Discord
+• Podpora pre požiadavky a problémy od zákazníkov súvisiacich s produkovanými aplikáciami
+• Vytváranie dokumentácie k produktom, na ktorých budeš pracovať
+• Osvojenie si technologického stacku ASP.NET, C#, MS SQL, HTML, CSS, Javascipt, jQuery, Devexpress/DevExtreme, Web Services (REST), EntityFramework Zamestnanecké výhody, benefityChceme, aby Tvoja práca mala pozitívny vplyv a mala zmysel
+• Dlhodobá a stabilná spolupráca
+• Dáme Ti slobodu realizovať svoje vízie a vylepšenia produktov
+• Budeme zdieľať rozhodnutia spoločnosti, triumfy, získané ponaučenia, chyby a plány do budúcnosti pomocou otvorenej komunikácie, ktorú očakávame aj od teba
+• Podpora a poradenstvo od vedúcich tímov, na dosiahnutie Tvojich dlhodobých ambícií a cieľov v kariére a možnosť kariérneho rastu
+• Na oplátku za zodpovednosť, ktorú prevezmeš, Ti dáme slobodu robiť svoju prácu tak, ako Ti vyhovuje
+• Hybridný pracovný model, ktorý kombinuje kávovar na mieste, plážový volejbal, plávanie v jazere a výhody home office, teambuldingy
+• Priateľská atmosféra - rozumieme, že v práci trávime veľa času, tak ho chceme spoločne stráviť čo najpríjemnejšie, toxicita je pre nás no-go
+• Mzda od 3200€ podľa skúseností a formy spolupráce Informácie o výberovom konaníV prípade záujmu nám pošli životopis, poprípade link na Git (ak máš), aby sme si pozreli tvoju prácu. Ak máš nejaké otázky, napíš nám. Budeme kontaktovať každého uchádzača.Predpokladaný termín ukončenia výberového konania30.4.2023 (ostáva ešte 10 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformačné technológie, štatistikaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiASP.NET - PokročilýC# - PokročilýMicrosoft SQL Server - PokročilýJavaScript - PokročilýPrax na pozícii/v oblastiWeb developerPočet rokov praxe3Osobnostné predpoklady a zručnostiHľadáme zvedavého a otvoreného človeka so záujmom o moderné technológie, ktorý sa nebojí objavovať, chce sa stále zlepšovať a hľadanie riešenia berie ako výzvu.
+• Pokročilá/expertná znalosť akéhokoľvek objektovo orientovaného jazyka (Java, C#, Python atď.)
+• Pokročilé chápanie algoritmov, dátových štruktúr a achitektúr
+• Predošlá skúsenosť s tvorbou web aplikácií aspoň 3 roky
+• Schopnosť reprezentovať dáta správnymi grafmi pre jasnú a rýchlu čitateľnosť pre urýchlenie rozhodovania manažmentu
+• Schopnosť komunikovať v anglickom jazyku, ústne aj písomne
+• Schopnosť spolupracovať so svojím tímom
+• Učíš sa rýchlo a si ochotný akceptovať firemnú kultúru a reagovať v rýchlo sa meniacom prostredí
+• Dôveruješ sebe a ostatným, budeš robiť rozhodnutia a prevezmeš zodpovednosť
+• Znalosť EntityFramework, DevExpress, DevExtreme, JavaScript frameworks (jQuery), Web Services (REST), práca so štatistikou a grafmi veľkou výhodou
+• Znalosť PowerBI alebo Grafana výhodou Inzerujúca spoločnosť Stručná charakteristika spoločnostiZmyslom našej existencie je každý deň zlepšovať naše okolie. Aj keď sme len malá firma z Petržalky, veľká vízia nám nechýba. Veríme, že vzájomný rešpekt a otvorenosť môžu priniesť to najlepšie z nás. Sme presvedčení, že použitím správnych nástrojov a spoluprácou dokážeme našim zákazníkom dodať produkty s pridanou hodnotou.
+Našou prioritou je stále sa zlepšovať. Za viac ako 20 rokov našej existencie sme zrealizovali množstvo projektov. Aktuálne hľadáme nových členov nášho tímu na pozíciu web developera, ktorá je vhodná aj pre absolventov bez praxe, zatiaľ čo my ťa vo všetkom radi zaškolíme. Počet zamestnancov3-4 zamestnanci KontaktKontaktná osoba: Ing.  Peter ŠoltésTel.: +421905512634E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4554046 
+     Dátum zverejnenia:  7.4.2023 
+    2023-04-07
+lokalita: Bratislava   Pozícia: .NET programátor, C# programátor, Frontend programátor, Javascript programátor, Programátor   Spoločnosť: INFOTECH, s.r.o.   
+Základná zložka mzdy (brutto): 3 200 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

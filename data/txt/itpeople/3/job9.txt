@@ -1,0 +1,77 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+SENIOR DEVOPS ENGINEER állás Budapest
+GIT
+Linux
+Rendszer / Hálózat, DevOps állások 
+SENIOR DEVOPS ENGINEERPartnerünk a világ egyik vezető IT szolgáltató vállalata, amely támogatja ügyfelei üzleti, működési és technológiai modelljeit. A cég bővülés miatt most új, izgalmas lehetőséget kínál egy IT tapasztalattal rendelkező jelölt számára az alábbi munkakörben:Senior DevOps EngineerA projekt és a feladatok:- Egy matematikai rendszermag finomhangolása és interface-szel való összekapcsolása, beleértve az összes objektumkonverziót és elektromos járművek töltőállomásait. Ez magában foglalja a feldolgozási feladatok ütemezését, a monitorozást, a hibakezelést, a webservice-ekkel és a beágyazott eszközökkel való kommunikációt.- Ipari IoT adatgyűjtő rendszer (DCS) működtetése (monitoring, riasztási és dashboarding). Hibák elhárítása a központi platformon.- Más csapatok koordinálása, hogy önállóan el tudják végezni a munkájukhoz kapcsolódó DevOps feladatokat.Elvárások:- 6-7 év releváns tapasztalat a következő technológiákkal: AWS Cloud solution, CloudFront, EC2, EKS, KMS, EBS, EFS, RDS, SNS, SES, ELB, Route53, Ansible, Kubernetes, Docker- Folyékony angol nyelvtudás Előnyt jelent:- Linux, Git, Gitlab, Gitlab CI- Redis, MongoDB, InfluxDB- NewRelic, Fluentd, Vagrant- Kafka, Elastic search, Nginx- VirtualBox ismerete- Tapasztalat Python programozásban- OAuth2, OpenIDConnect ismerete Amit a vállalat kínál:- Multinacionális környezet- Versenyképes fizetés és cafeteria csomag- Karrier lehetőségek: feljebb lépési lehetőség, új területek megismerése- Magán egészségbiztosítás- Széles körű képzések, több mint 1000 tréning-lehetőség- Szabadidőszoba- I ngyenes edzőtermi bérlet és közösségi rendezvények 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Jelentkezés
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Fox HR Consulting Ltd. 													
+Budapest
+Teljes Munkaidő
+ Rendszer / Hálózat, DevOps
+Lejárati dátum: 2023-05-13
+Álláshirdetés részletei
+PozícióSENIOR DEVOPS ENGINEER
+Munkavégzés helye
+Budapest
+MunkaidőTeljes Munkaidő
+KategóriaRendszer / Hálózat, DevOps
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

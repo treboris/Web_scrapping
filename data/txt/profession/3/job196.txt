@@ -1,0 +1,90 @@
+Belépésálláskeresőknek
+IT Operation, Telecommunication
+Network and System Engineer
+Budapest
+Network Operations Engineer
+Thermo Services (Hungary) Kft.
+Budapest
+ Elvárt technológiák
+NETWORK
+R
+NETWORK.
+SECURITY
+CLOUD
+WAN
+VPN
+CISCO
+LAN
+ANSIBLE
+PYTHON.
+ITIL
+ Módszertanok és szoftverek
+Jira
+Itil
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+NETWORK
+R
+NETWORK.
+SECURITY
+CLOUD
+WAN
+VPN
+CISCO
+LAN
+ANSIBLE
+PYTHON.
+ITIL
+ Módszertanok és szoftverek
+Jira
+Itil
+Network Operations Engineer
+How will you make an impac
+As a member of Thermo Fisher Scientific, you’ll do exciting work! Join a team that values performance, quality and innovation. As part of a successful, growing global organization you will be encouraged to perform at your best! With revenues of more than $40 billion and the largest investment in R&D in the industry, we give our people the resources and chances to create significant contributions to the world.This is a Network Engineering position with focus on routing and switching. The Network Engineer will demonstrate in-depth knowledge of technical management and operational practices to develop the technical strategy used to maintain network globally. The candidate will collaborate with technical SMEs, architecture, and vendors to manage, maintain and operate the company network. Providing support in developing the standards, metrics, and validate new solutions required to support our sophisticated ecosystems of manufacturing and research locations worldwide.This role will be a key part of a multifunctional team that designs, supports, secures, and maintains the underlying network infrastructure.
+What will you do?
+Our global network operation center is ensuring that all outages, which are impacting our customers are resolved in a timely mannerWe aim to fulfill our customer's requests according to our set of SLAsWe ensure that the network is in a safe state by rolling out the latest industry-standard patchesWe manage our network changes through a strict ITIL based processWe monitor network health, including metrics collection, visualization, and alertingWe track network utilization over time to assist capacity management modelsWe identify and deliver solutions that reduce operational impact to business and enable them with scalable, resilient, and cost optimized network infrastructure.We investigate problems that involve networking technologies to resolve customer issues, identify root causes, document and develop corrective actions.Be part of the team that supports, and improves a global network environment that includes routers, switches, firewalls, wireless controllers.Performs problem isolation and resolution of network problemsFind opportunities to improve the corporate network by implementing the network standards that have been established by the Global Networking Architecture team.Collaborating with the network SMES on optimization initiatives for the enterprise network.Ensuring that all network environments are well documented.Participating in the on-call rotation with other engineers to ensure support coverage for the global enterprise network.Mentoring junior members of the group in order to build a stronger organization.Handling the Service Now work queue to address customer requests within the established service level agreements.
+How will you get there?
+Bachelor’s degree in Computer Science, Information Technology, Information Security or other technical field is desired, though 7+ years of direct and applicable professional experience in configuring, deploying, running and fixing routers and switches in an enterprise environment will be considered for a substitution.Consistent record with configuring, deploying, handling, and solving issues on network devices in a major corporate environment.Excellent knowledge of IT general practices and methods with specialised knowledge in multiple technical disciplines such as, cloud, telecommunications, network & automation.5-7 years practical meaningful experience in large-scale networking engineering and operations.Sophisticated knowledge of WAN routing (BGP), traffic engineering, QoS, telemetry, and segmentationHigh level of understanding of dynamic routing protocols such as BGP, EIGRP, and OSPF.Experience with Load Balancers, Firewalls, WAN Optimization, and/or VPN Concentrators is a plusDemonstrate experience with networking technologies within large enterprise networksDetailed knowledge of Cisco, Arista or similar routing and switching platform.Hands on experience with Fortinet, Pulse Secure & F5 products and services is considered as a plusGood knowledge of Networking and Wireless standards.Experience with Cisco & Meraki wireless solutions.Understanding and knowledge of network segmentation.Experience with SD-WAN management & solving issues is an extra
+Knowledge, Skills, Abilities
+Telco: WAN connectivity, LAN connectivity, Fixed Wireless, Colocation services,OSS/BSS: Service Now, Jira, TEM systems.Network: Networking, SD-WAN, MPLS, OSPF, BGP, VPN, Firewalls, Router, Switch, Load Balancer.Product: Cisco, Fortinet, Palo Alto, F5, Silver Peak/Velo Cloud, Arista.Automation: Ansible, Terraform, or Python.Thermo Fisher Scientific is an EEO/Affirmative Action Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Thermo Services (Hungary) Korlátolt Felelősségű Társaság
+Adminisztráció és szolgáltatás támogatás
+●
+Összetett adminisztratív szolgáltatás
+500-1000 munkavállaló
+2018
+1134
+Budapest,
+Váci út 41-43.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

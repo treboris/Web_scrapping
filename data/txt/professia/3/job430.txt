@@ -1,0 +1,102 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Python Developer  Можливість для людей з України
+Senior Python DeveloperNeCaSo s. r. o.
+Place of work
+Bratislava
+Contract type
+full-time
+Start date
+immediately
+Wage (gross)
+2 000 EUR/month
+Information about the position Job description, responsibilities and dutiesAre you looking for new technological challenges, interesting projects, inspirational colleagues and an informal working environment?
+We would like to strengthen our team and we are looking for new colleague who will be responsible for participating in the development of the architecture and design of the new platform, close cooperation with the Architect and the RND team, diagnosing complex problems, evaluating, recommending and implementing the best solution, writing and maintaining detailed system documentation.
+Let´s create cool products together! Employee perks, benefits• home-office possibility
+• flexible working hours
+• competitive salary with regular reviews
+• conferences or other forms of education
+• fruit, coffee, tea to keep your mind and body fresh
+• team-buildings
+• in case of sick leave we guarantee 100% of the salary for up to 4 weeks
+• informal and relaxed working environment 
+• great team of professionals and cool people Information about the selection processWe’ll be happy to meet you in person. Please send your CV to [email protected] Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Advanced (C1) and Ukrainian - Advanced (C1)Experience in the position/sector7+ years of practical experience in development with PythonPersonality requirements and skills- at least 5 years of experience and basic knowledge of Django, including forms, REST framework, models/ORM, repositories, compressor, templates, migrations and unit tests
+- experience with microservice architecture - knowledge of containerization and experience with Docker and Kubernetes, in particular AWS
+- cloud deployment experience through CI/CD continuous integration
+- experience with relational databases and various data formats and technologies (with Postgresql, MariaDB, MongoDB)
+- experience with 10K+ TPS services, databases with over billion rows
+- experience in code review, CI/CD, automated testing
+- knowledge of software design: OOD, OOP, design patterns
+- experience with message queues, task queues
+We appreciate honesty, friendliness, positive attitude and independence. Advertiser Brief description of the companyNeCaSo s.r.o. is a premium developer of software solutions for top land-based and online providers in the gaming industry. 
+Knowledge is our biggest asset. 
+Our company consists of highly experienced professionals developing software of the highest quality. Striving for continuous innovation, education and technical improvement is our natural desire. 
+Our mission is to deliver outstanding and on time quality results for our customers to improve their competitive edge, shape their ideas and bring them to life. 
+We are proud of designing and developing our games in-house. Our aim is to bring new quality into the existing market. We deliver a unique gaming experience with every new product. People want to play our games non stop!
+We value quality, education, openness and enjoy dynamic and inspiring collaboration with our partners. ContactContact person: Barbara Kubinová BokesováE-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4550236 
+     Dátum zverejnenia:  1.4.2023 
+    2023-04-01
+lokalita: Bratislava   Pozícia: Python Programmer   Spoločnosť: NeCaSo s. r. o.   
+Základná zložka mzdy (brutto): 2 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

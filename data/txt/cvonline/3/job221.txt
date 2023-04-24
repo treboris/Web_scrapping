@@ -1,0 +1,51 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Warranty data analyst 
+A thyssenkrupp egy nemzetközi vállalatcsoport, amely nagyrészt független ipari és technológiai üzletágakból tevődik össze, és világszerte 96 000 embert foglalkoztat. A 2021/22-es pénzügyi évben 48 országban 41 milliárd eurós árbevételt ért el. A széleskörű technológiai know-how-ra támaszkodva az üzletágak költséghatékony és erőforrás-kímélő megoldásokat fejlesztenek a jövő kihívásaira, különösen az éghajlatvédelem, az energetikai transzformáció, az ipar digitális átalakulása és a jövő mobilitása terén.
+Magyarországi kompetencia központunkban közel 1000 fős mérnökcsapatunkkal innovatív partnerként vagyunk jelen az autóipar egyik leggyorsabban és legizgalmasabban fejlődő szegmensében, az elektromechanikus kormányrendszerek területén. Kiemelkedő minőségű, high-tech fejlesztéseinkkel neves autógyárak igényeit elégítjük ki, fejlesztéseink pedig a világszerte autóba szerelt kormányrendszerek 25 százalékában megtalálhatóak. Mérnökeink olyan ma még nem létező megoldásokon is dolgoznak, amelyek megváltoztathatják az autóipar jövőjét.
+ Tasks / Feladatok
+Hibaanalízis statisztikák gyűjtése a rendelkezésre álló adatbázisokból
+Belső hibaanalízis statisztika adatbázis létrehozása és karbantartása
+Automatikus lekérdezések írása az adatbázisból
+Prezentációk, riportok készítése
+Beszállító statisztikák és elemzések készítése
+Alapvető számítások vezetése és bemutatása a szükséges kombinációkkal, trendekkel és előrejelzésekkel (pl.: PPM, Weibull)
+Kapcsolattartás a projektekkel, tapasztalatok megosztása a projektek között
+A kollégák támogatása a vevő által támasztott követelmények elérése érdekében
+Résztvétel folyamatok fejlesztésében
+ Requirements / Elvárások
+Felsőfokú mérnöki, matematikus, statisztikus végzettség
+Script nyelvekben szerzett tapasztalat (pl. SQL)
+MS Office eszközök magasszintű ismerete
+Tapasztalat vezetői támogatásban
+Folyékony angolnyelv-tudás (szóban, írásban)
+Önállóság, proaktivitás
+Jó kommunikációs készség
+ Offer / Ajánlatunk
+Rugalmas munkaidővel és home office lehetőséggel támogatunk (a legtöbb területen a havi munkaidő 60%-a)
+Versenyképes fizetést és széleskörű juttatásokat (cafeteria és bónusz) biztosítunk számodra
+Részese lehetsz egy sikeres, gyorsan növekvő technológiai vállalatnak
+Új nyelveket tanulhatsz nálunk (5 nyelv közül választhatsz)
+Szabadidős programokon kapcsolódhatsz ki (társasjátékok, sportolási lehetőség)
+Jelentkezem
+Elmentem az állást
+Warranty data analyst 
+Jelentkezem
+Elmentem az állást
+thyssenkrupp Components Technology Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Főiskolai végzettség 
+Frissítés dátuma: 20.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Warranty technikus 
+ Budapest  
+ Test Engineer (Jira) 
+ Budapest  
+ IT helpdesk munkatárs 
+ Budapest  
+ IT DevOps Engineer 
+ Budapest  
+ Master Data Management Analyst Trainee 
+ Budapest  

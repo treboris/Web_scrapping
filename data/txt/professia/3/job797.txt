@@ -1,0 +1,82 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceUI Software Engineer - Žilina 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+UI Software Engineer - ŽilinaPANTHEON.tech s.r.o.
+Place of work
+Žilina, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+1 500 - 5 500 EUR/monthdepending on the level of seniority - details for all levels see below
+Information about the position Job description, responsibilities and dutiesPANTHEON .tech is looking for UI Software Engineers for a project that involves SND technology. If this area is interesting for you, keep reading about our project below. Your job will involve working on a prototype project - on something, that no one has ever done before.From a UI standpoint, this complex project is composed of multiple modules. The UI is made as a single monolith, which significantly influences its complexity and scalability. Therefore, our current work consists of "ripping out" individual UI modules into separate, simpler UI apps (Angular 13), which are then re-connected into a single unit. For now, we connect apps only through iframes, but we want to gradually work towards a full-fledged micro-frontend architecture, using Module Federation. The advantage is, that we do not use the original code during this rework. Based on feedback, we improve the original workflow and thus build the functionality from the ground up. Currently, we emphasize performance. We extensively use the OnPush change detection strategy and reactive programming. Due to the resulting bundle size, we use strict Typescript. At the same time, we are also changing the overall design – we are switching from internal design components, to the PrimeNG framework. As for the content, we mostly work with the representation and management of individual device data. We support devices from several vendors. Using the API, we are able to perform various actions on real devices. We develop our own ticketing system for various requests from users, documentation creation system, etc. We pay a lot of attention to security - implementation of AAA business standards, Veracode compliance and permissions. Employee perks, benefitsWhat extras does PANTHEON throw in?Anyone can offer you a perfect team, team buildings, LAN-parties, friendly environment, table football and a place to grow. (And, of course, we do offer those too.)But the real benefits? Additional days off, 100% paid sick leave, subsidized public transport, Home Office, flexible working hours and technical education, among others. Information about the selection processHow much you can earn is directly related to how much you know. Your paycheck grows with your skills. You can start as a developer and make your way up or we can hire you directly as an expert. If you are a good team leader, we can even hire you directly for this position.Here is our tentative salary ladder (gross):SW Engineer (Medior) 1800 - 2600 €Senior SW Engineer starting at 2400 €Expert / Technical Leader starting at 3000 €The salary range is given in EUR. The salary is divided into a fixed and variable part (the variable part is paid in full unless the Code of Conduct is broken or work tasks are not performed).We are always searching for Engineers, which will work from either Bratislava, Banská Bystrica or Žilina! Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Educational SpecializationInformation technologyLanguage skillsEnglish - Upper intermediate (B2)Other knowledgeJavaScript - AdvancedHTML - SkillfulCSS - SkillfulSass - SkillfulAngular - SkillfulLinux - BasicNumber of years of experience3Personality requirements and skillsRequired skills:•	Angular 13 + strict TypeScript•	PrimeNG + Prime Designer•	RxJS•	REST API•	AzureAdvantages:• knowledge of networking principles and SDN• UX skills• OOP and asynchronous programming• knowledge of GIT and other programming toolsClean criminal record is a must Advertiser Brief description of the companyPANTHEON.tech is an R&D company, primarily invested in the development of network technologies and prototype software. Our mission is to interconnect the world with new technologies and year-long expertise.  
+We are primarily located in Slovakia, while most of our business is oriented on Silicon Valley. You will have a creative, but demanding job - rather than coding the same thing over and over again. Our work is not easy, which is noticeable by the requirements we place on our future employees and by the complexity of our interviewing process. 
+You will get to work with renowned experts and Fortune 500 companies on building the networks of the future. We are looking forward to meeting you! Number of employees100-149 employees 
+ ContactContact person: Simona OrechovskáE-mail: send CV
+All company jobs
+ID: 4540608 
+     Dátum zverejnenia:  17.3.2023 
+    2023-03-17
+lokalita: Žilina   Pozícia: Frontend developer, Programmer, Software Engineer   Spoločnosť: PANTHEON.tech s.r.o.   
+Základná zložka mzdy (brutto): 1 500 EUR/month
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

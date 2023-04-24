@@ -1,0 +1,98 @@
+Belépésálláskeresőknek
+IT Operation, Telecommunication
+Network and System Engineer
+Budapest
+IT Infra Engineer (Budapest)
+Huawei Technologies Hungary Kft.
+Budapest
+ Elvárt technológiák
+SECURITY
+LINUX
+UNIX
+DATABASE
+VIRTUALIZATION
+ORACLE
+DATABASES
+HARDWARE
+NETWORK
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+Nem igényel tapasztalatot
+Főiskola
+Juttatások
+Cafeteria
+Munkába járás támogatás
+ Elvárt technológiák
+SECURITY
+LINUX
+UNIX
+DATABASE
+VIRTUALIZATION
+ORACLE
+DATABASES
+HARDWARE
+NETWORK
+IT Infra Engineer (Budapest)
+New ideas are all around us, but only a few will change the world. Are you a change maker interested to be part of this opportunity?
+The Telecommunications landscape is in a constant flux of change. For telecommunication professionals, knowledge and competence is vital in this ever-changing industry.
+Huawei has a dynamic and multicultural environment, since 2020 when a new technical hub was opened in Budapest, Hungary market.
+At Huawei we are looking for people who share our vision: to enrich life through communication. We are offering a challenging position, the opportunity to grow and expend your knowledge through daily interaction with skilled engineers located all over the world.
+Job Responsibilities:
+Manage the hotfix, security patches on Linux/UnixManage the scan of the system securityManage accounts : create, track and deleteCooperate with others , such as platform or application layers supportTake responsibility for the Infra domain delivery of software projects in the European regions. (Be responsible for the project TTL, site survey, LLD design, etc., and guide the team to complete the delivery in the Infra domain.)Introduce capabilities in the Infra domain and Team Management.
+What you have to bring with you:
+Knowledge in Linux with database and virtualization skills;Server and system configuration to deploy, test and integrate systems for large multi-tiered distributed software applicationsKnowledge of TCP/IP and networking equipment, Linux OS's accessing a SAN Storage and about storages configuration and Oracle databasesUnderstanding of hardware/software integration issues and problem resolutionIncident and Problem Management skills - confident to analyze and solve problems of the network, OS, DB, hardware and software components, incident trend and root cause analysisCapacity to identify the risks / single point of failures in the infrastructure and to mitigate themAble to provide performance tuning and capacity forecastingFluent in English (both written and spoken) 
+What we offer:
+A professional career in one of the leading multinational telecommunication companyChallenging work and competitive salary package.Referral bonus, You are a model future employee for us, so if you have colleagues, friends with similar profile like yours, please send us as referral and you will be remunerated with referral bonus.12.000 HUF meal allowance (szép card)Medical assurance at MedicoverMonthly Budapest transportation season ticket, which costs 10.500 HUF/month, or you can choose the 9 HUF/ km transportation allowance if you use car.Annual bonus according with the performance of each employee.Travel outside Hungary as per position/project requires – business trip allowance, transportation and accommodation will be cover by the company accordingly local legislationOvertime in case of needed – paid extraAnnual leave days –The base annual leave quota is 20 days, but accordingly local legislation you can have extra annual quotas because of the ages and if somebody has children
+Sector(s):
+IT Operation, Telecommunication
+Network and System Engineer
+IT Development
+System Integrator
+How to apply/ contact information
+Please send your CV in English via the "Jelentkezem" button. We would like to inform You that the Data Controller regarding your application is Huawei Technologies Hungary Kft. (company registration number: 01-09-861837, Registered seat: 1133 Budapest, Váci út 116-118. 1. building. 6. Floor, Hungary). We process your personal data for the purpose of considering you for, and assessing your suitability for, career opportunities with Huawei, and progressing your application furthermore to maintain and improve our recruiting processes, and to comply with laws and regulations Huawei is subject to. You, as data subject has the following rights: You can have access to your processed personal data; if it is inaccurate, You can ask for the rectification of Your data; You also have the right to erasure (delete) your personal data; You can ask for the restriction of processing; You can file a portability request about the personal data You provided to us; You can object against the processing if it is based on legitimate interest; and You can withdraw your consent about the processing; You can also ask for human review in case of automated decision-making. You can find our detailed information notice regarding job applications if You visit Huawei’s webpage and at the bottom, select the “career” option, then, in the dedicated career webpage look for the upper right corner, and – in the worldwide dropdown menu- select Huawei Northeast Europe. You will land on the dedicated recruitment site, and You can find our detailed privacy notice in it’s footer, called simply “privacy”.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+Nem igényel tapasztalatot
+Főiskola
+Juttatások
+Cafeteria
+Munkába járás támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Huawei Technologies Hungary Híradástechnikai Korlátolt Felelősségű Társaság
+Kereskedelem
+●
+Elektronikus, híradás-technikai berendezés és alkatrészei nagykereskedelme
+100-250 munkavállaló
+2005
+1133
+Budapest,
+Váci út 116-118. 1. ép. 6. em.
+Értékelések a(z) Huawei Technologies Hungary Kft. cégről
+Értékelések kategória szerint 
+4,2
+Megközelíthetőség 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

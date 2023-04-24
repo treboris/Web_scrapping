@@ -1,0 +1,57 @@
+ÁLLÁSHIRDETÉS FELADÁS
+BEÁGYAZOTT C SZOFTVERFEJLESZTŐ 
+		Cégünk országos lefedettséggel a hiper- és szupermarketekben működő több száz saját fejlesztésű és gyártású visszaváltó automatából álló hálózatával 10 éve több 10 ezer tonna alumínium újrahasznosítását oldotta már meg tehermentesítve ezzel a környezetünket.
+	Az általunk fejlesztett automaták Európa szerte egyedi technológiával nem csupán az ép, de a sérült dobozokat is felismerik és visszaveszik, és a piacon elérhető leghatékonyabb tömörítési képesség által rendkívül gazdaságossá teszik a visszagyűjtési rendszerek üzemeltetését.
+	Új időszámítás kezdődött azzal, hogy az EU betétdíjas rendszerek bevezetésére kötelezte a tagországokat és ezzel jelentősen megnövekedett a kereslet és kialakultak az igények a visszaváltó automatákkal kapcsolatban. Mi további új fejlesztésekkel reagálunk a kialakult piaci helyzetre és az elmúlt 10 év tapasztalatai alapján megalkotjuk Európa legversenyképesebb visszaváltó infrastruktúráját.
+	Ehhez a munkához keresünk a saját kreativitásukat és teremtő erejüket a piacra kerülő termékekben látni akaró fejlesztőket.
+	Ha Te is az vagy, aki szeret hatással lenni az eredményekre és ezért szakmai kihívásokat is mer vállalni, akkor mi Neked ajánlunk pozíciót.
+ Bővebben arról, miben számítunk majd rád:
+			Szoftverkövetelmények, rendszertervek készítése
+			Hardverközeli programok fejlesztése C, C++ programozási nyelven, egyéni, és csapatmunkában egyaránt
+			Elemző és értékelő algoritmusok fejlesztése, kódolása
+			Szoftvertesztelés
+ Fontos, hogy:
+			Rendelkezz minimum középfokú végzettséggel
+			Legyen 2-3 éves tapasztalatod mikroelektronikai fejlesztésben C, vagy C++ nyelven
+			Érdekeljenek az új technológiák, akár azok, amikhez tanulnod is kell még
+			Írj és olvass angolul, a technikai dokumentációkban angolul is eligazodj
+			Ne riadj vissza a műhely jellegű munkakörnyezettől
+ Nem várjuk el, de örülünk, ha:
+			Rendelkezel felsőfokú végzettséggel
+			Tapasztalt Linux-os vagy
+			Van tapasztalatod Raspberry fejlesztésben
+			Ismered és fejlesztettél már a PIC mikrokontroller család valamely tagjára
+			Van hardver tervezésben szerzett tapasztalatod
+			Van digitális képfeldolgozás területén szerzett tapasztalatod
+			Ismered a hardverközeli programozáshoz szükséges analóg, és digitális hardvereket
+			Ismered a fejlesztéshez, teszteléshez szükséges mérőműszereket
+ Amit kínálunk:
+			Szakmai kihívások és kreatív feladatok
+			Megegyezés szerinti bérezés és prémium
+			Rugalmas munkaszervezés és munkahelyi légkör
+			Kis létszámú fejlesztő csapat, ahol meghatározó tényező lehetsz
+			Notebook és mobiltelefon
+ Munkavégzés helye:
+			Budapest, 17. kerületi irodánk + home office megegyezés szerint
+ Amennyiben érdekel a meghirdetett pozíció, küldd el számunkra magyar nyelvű önéletrajzodat  a JELENTKEZÉS gombra kattintva!
+Jelentkezem
+Elmentem az állást
+BEÁGYAZOTT C SZOFTVERFEJLESZTŐ 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 19.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ BEÁGYAZOTT SZOFTVERFEJLESZTŐ GYAKORNOK 
+ Budapest  
+ IT PROJEKTMENEDZSER 
+ Budapest  
+ SENIOR SOFTWARE ENGINEER 
+ JAVA FEJLESZTŐ 
+ Győr-Moson-Sopron megye  
+ MEDIOR JAVA FEJLESZTŐ 
+ Budapest  

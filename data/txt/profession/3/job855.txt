@@ -1,0 +1,66 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+Mobilfejlesztő Android – projekt (JF)
+Tech People Hungary Kft.
+Budapest, XIII. kerület
+ Elvárt technológiák
+ANDROID
+KOTLIN
+JUNIT
+GIT
+CD
+ Módszertanok és szoftverek
+Agilis
+Clean code
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Középiskola
+ Elvárt technológiák
+ANDROID
+KOTLIN
+JUNIT
+GIT
+CD
+ Módszertanok és szoftverek
+Agilis
+Clean code
+A Tech People egy európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat, valamint kiszervezett technológiai szolgáltatásokat nyújt különböző iparágak számára.
+Jelenleg az alábbi pozícióba keresünk munkatársat:
+MOBILFEJLESZTŐ ANDROID – PROJEKT (JF)
+Munkavégzés helye: Budapest, XIII. kerület, részben home office
+Fizetés: versenyképes
+Munkavégzés formája: hosszútávú projektmunka
+Feladatok:
+Meglévő mobil alkalmazás új funkciókkal/modullal bővítéseÚj technológiák kipróbálása, demo, prototípus jellegű alkalmazások fejlesztéseAz alkalmazások működése során felmerült hibák feltárása, javításaMeglévő mobilalkalmazások karbantartása
+Elvárások:
+3+ éves fejlesztői, amiből 2+ éves Android platformon szerzett tapasztalat Kotlin, RxJava tapasztalatAgilis hozzáállás, fogékonyság az új technológiák, ismeretek irántDesign Patternek ismereteBármilyen Dependency Injection frameworkkel szerzett jártasságUnit tesztelésben szerzett tapasztalat: jUnit, Mockk, Truth, RobolectricCode review jártasságNagyobb projekteken?szerzett szoftver-architektúra tervezési tapasztalatClean Code?elvek ismereteA következő technológiák közül minél többel kapcsolatos fejlesztői ismeret:Coroutines, Flow, RxJava, Android Jetpack, Room, Retrofit, Dagger, Git, Gradle, CI?/?CD Pontos, precíz munkavégzés, csapatmunkára való képességStrukturált gondolkodás, önálló problémamegoldó képesség
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

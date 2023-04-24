@@ -1,0 +1,51 @@
+ÁLLÁSHIRDETÉS FELADÁS
+2003-as alakulásunk óta működünk sikeresen a személyzeti tanácsadás piacán, több 1000 interjút tudunk magunk mögött, több 100 jelöltünk karrier álmainak megvalósítását mozdítottuk előre. Büszkék vagyunk, hogy sikereinket a családias hangulat megőrzése mellett értük el, ügyfeleink és jelöltjeink érdekeit mindig szem előtt tartva.
+AMIRE NÁLUNK SZÁMÍTHATSZ
+karriercéljaid szem előtt tartó tanácsadás
+számos álláslehetőség
+lehetőség valami új megismerésére
+AMIT MI NYÚJTUNK
+felkészítünk a sikeres pályázatra
+szakértelmünket a kezedbe helyezzük
+kellemes légkörben fogadunk
+A GRP IT Recruitment Cloud Engineer CI/CD munkatársat keres Európa vezető pénzügyi csoportjába, innovatív banki és biztosítási szolgáltatások fejlesztésével.
+Jelentkezz, ha teljesíted az alábbi követelményeket:
+- Cloud Native alkalmazástervezés.
+- Docker / Kubernetes / OpenShift.
+- AWS: portál, CLI/API, EC2, VPC, IAM, EKS, ECR stb.
+- Linux ismeret. 
+- Script: Python, Golang.
+- Infrastructure-as-code (IaC)
+- Eszközök és alapelvek: Terraform, Ansible, Helm, CloudFormation.
+- ALM csomag: Git (Bitbucket), Jira, Confluence.
+- Folyékony angol szóban és írásban.
+Amit a cég kínál:
+- Hibrid munkavégzési lehetőség.
+- Együttműködés nemzetközi szakmai vezetőkkel.
+- Belső karrierút és vezető mentorok.
+- Teljesítmény alapú bónusz.
+További információért keress minket az IT@getwork.hu e-mail címen!
+Munkaerő közvetítés engedély száma: 10097-1/2012-0100-848
+Jelentkezésemmel elfogadom a Get Work Trend Kft. adatkezelési szabályait. Adatkezelési tájékoztatónk IDE KATTINTVA tekinthető meg.
+ELÉRHETŐSÉGEINK:
+Get Work Trend Kft. 1023 Budapest, Árpád fejedelem útja 31.
+Cloud Engineer CI/CD  - Hibrid 
+Jelentkezem
+Elmentem az állást
+Get Work Trend Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 02.09.2022
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Cloud Native DevOps Engineer - Hibrid 
+ Budapest  
+ Cloud engineer (CI/CD) - Budapest 
+ Budapest  
+ Use Case Analyst - Hibrid 
+ Budapest  
+ Senior cloud engineer - Budapest 
+ Budapest  
+ Service Management Consultant - Hibrid 
+ Székesfehérvár  

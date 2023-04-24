@@ -1,0 +1,91 @@
+Belépésálláskeresőknek
+IT Operation, Telecommunication
+System operator, Maintenance Staff
+Budapest
+Budapest
+Senior Network Engineer
+KBC Global Services NV Magyarországi Fióktelepe
+1095 Budapest, Lechner Ödön fasor 9.
+ Elvárt technológiák
+NETWORK
+DNS
+DHCP
+SECURITY
+TESTING
+CISCO
+ANSIBLE
+PYTHON
+JAVA
+ Módszertanok és szoftverek
+Testing
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol felsőfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elvárt technológiák
+NETWORK
+DNS
+DHCP
+SECURITY
+TESTING
+CISCO
+ANSIBLE
+PYTHON
+JAVA
+ Módszertanok és szoftverek
+Testing
+KBC Global Services NV Magyarországi Fióktelepe
+Senior Network Engineer
+Csatlakozz jó hangulatú csapatunkhoz!
+KBC Bank, the parent company of the Hungarian K&H Bank, provides banking services in 5 European countries.The international IT solutions of the banking group, covering several European countries, takes place with Hungarian and Belgian colleagues in Hungary and Belgium, therefore not only our services are international, but also our teams.Our responsibilities range from day-to-day operation to application development and its operation.We are constantly expanding the Hungarian side of the team, which is why we are looking for enthusiastic, motivated new employees with junior, medior or possibly senior work experience. Your focus will be twofold: management of the DDI (DNS, DHCP, IPAM) environment and performance analysis of end-to-end application dataflows. You not only contribute to the daily management of components, but are also involved in numerous projects. This way you can immediately use your expertise and you can quickly deepen it further.Together with business stakeholders (your internal customers), IT architects and system engineers from other teams, you play an important role in infrastructure and security projects. Your contribution ranges from analysis and design to implementation and testing; you are involved in the day-to-day management of various telecommunication and security components. Think of setup, configuration, capacity management, following up on new versions or functionalities, resolving security risks or integrating components into our current infrastructure.You will explore new technological possibilities. Is there an opportunity to improve or automate the way we work? You spotted it.You analyze problems so that incidents are solved and we continuously improve our domain.Together with your colleagues, you work in a rotational role to provide support outside office hours. Gradually you take on more responsibility, for example more coordinating tasks. What you can expect working with us:You can make sure your future career is steady within our companyLife-long learning and plenty of opportunities to challenge yourselfCompetitive salary as well as other benefits such as:10% customizable cafeteria, annual performance-based reward, company phone with mobile internet, that you can use for private purposes as wellemployee discount at the bankMedicoverYour English language skills won’t be worn out as you can use it on a daily basis Flexible schedule as we don’t use ‘Clock in Clock out’ system As our focus is on teamwork we consider it important to hang out in the "open office" together, but you have the option to spend more 3 days per week working from homeWe value your insight and are always open to suggestionsInternational environment with a cheerful work atmosphereGreen office in Millennium Park, equipped with:bicycle storage and showersrestaurant with panoramic views over the Danube and the National Theatrefree coffee and snacks in our community area where we hang out and play darts, and have many other dining options in the surrounding area  What we expect from You:bachelor's or master's degree in IT or a number of years of relevant experienceexperience as a network engineer with good knowledge of DDI and/or performance analysisknowledge of / experience with:Infoblox products and solutionsNetwork monitoring tooling (Gigamon, Flowmon en Netscout tooling)Strong assertive English communication skillsAnalytical thinkingIdeally, you are also well acquainted with more than one of these topics:Software-defined networking: ACI (Cisco) Firewalling, load balancing, DMZ setup en DDOS protectionRouting & switching, basic networking services at the level of a large enterpriseScripting (Ansible, Python, Perl, Java, ..)Authentication and authorization mechanisms and frameworks What you can expect during the recruitment process:After sending your CV in English, expect a two-round interview process, one online in English with the Belgian team leader, and the other at our office in Budapest (in Hungarian) to get to know each other betterAn efficient selection process is important for both of us, so we try to make it as fast as possible, and even if you are not selected we will give you a detailed feedback.
+Sector(s):
+IT Operation, Telecommunication
+System operator, Maintenance Staff
+Telecommunication
+How to apply/ contact information
+Please click the Apply button to send your application.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol felsőfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+KBC Global Services NV Magyarországi Fióktelepe
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+50-100 munkavállaló
+2008
+1095
+Budapest,
+Lechner Ödön fasor 9.
+Értékelések a(z) cégről
+Értékelések kategória szerint 
+3,8
+Megközelíthetőség 
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

@@ -1,0 +1,107 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Backend Developer  Можливість для людей з України
+Senior Backend DeveloperPROSIGHT Slovensko a.s.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3.500 € - 4.000 € mesačne. Suma pri živnosti na základe skúseností uchádzača s možnosťou pracovať aj na TPP.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo interného vývojového tímu hľadáme na dlhodobú spoluprácu Senior Backend Developera, ktorý má skúsenosti s vývojom webových aplikácií v PHP frameworku (ideálne Laraveli) alebo Node.js. Vytvárame fintech / insurtech nástroje novej generácie. 
+Our stack consists of the following technologies:
+Infrastructure - AWS cloud based on ECS Fargates, our internal team created IaC (Infrastructure as code) solution to automatically build and deploy our cloud stack. We use CDK for .NET to define PROSIGHT cloud infrastructure, Cognito for user authorization, s3 for storing and accessing objects, Parameter Store to enhance security and much more.
+Frontend - We use React (Javascript framework) to ensure our customers have first-class user experience when using our software products.
+Backend - Series of separate platform and application specific microservices written in PHP (Laravel framework). We have many new projects in pipeline, that's why Node.js is an alternative to existing PHP framework
+API specification - Before writing a single line of code you are provided with API specification written in Swagger.
+Versioning - We use Bitbucket and follow GitFlow workflow.
+Agile - We deliver solutions bi-weekly, follow Scrum principles and use Jira and Confluence.
+Design - We use Figma to create the design and integrate Figma files with Jira tasks.
+Testing - We use Robot Framework for test automation.
+When creating solutions we follow these principles:
+SSOT (Single source of truth) - We pick resources that are shared across multiple apllications and create platform services to remove synchronization problems (e.g. the same identity with various emails, phone numbers across our ecosystem).
+DRY (Do not repeat yourself) - Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
+KISS (Keep it simple, stupid) - Break down the problem into small enough or understandable enough pieces, solve the problem and then code it, not the other way around. Zamestnanecké výhody, benefityFlexibilný pracovný čas.
+Možnosť využívať pravidelný home office.
+Zaujímavá práca s možnosťou vlastného rozvoja.
+Priamy kontakt s používateľmi aplikácií, na ktorých pracuješ.
+Práca v mladom kolektíve rýchle sa rozvíjajúcej spoločnosti.
+Firemné akcie, príjemné pracovné prostredie, možnosť profesného rastu.
+Multisport karta. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformatikaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiPHP - PokročilýNode.js - PokročilýPrax na pozícii/v oblastiHľadáme PHP alebo Node.js developera. Znalosť oboch jazykov je výhodou.Počet rokov praxe3Osobnostné predpoklady a zručnostiTímový hráč
+Proaktívny spôsob práce
+Samostatnosť a zodpovednosť
+Analytické myslenie Inzerujúca spoločnosť Stručná charakteristika spoločnostiPROSIGHT Slovensko je jedna z najrýchlejšie rastúcich spoločností v oblasti finančného sprostredkovania. Pôsobíme na finančnom trhu s víziou stať sa najrešpektovanejšou firmou v oblasti diagnostiky, navrhovania a realizácie riešení pre všetky životné situácie našich klientov vo svete financií. Chceme vrátiť dôveru a rešpekt poslaniu finančného sprostredkovateľa.
+PROSIGHT Slovensko patrí s počtom viac ako 500 profesionálov v obchodnom tíme a obratom 13 mil. eur medzi významné spoločnosti v oblasti finančného sprostredkovania. 
+WEB: 
+www.prosight.sk
+narovinu.online 
+FB: 
+PROSIGHT Slovensko
+Na rovinu
+Staň sa aj Ty súčasťou nášho tímu. Počet zamestnancov25-49 zamestnancov KontaktKontaktná osoba: Ing.  Maroš SedláčekE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4549924 
+     Dátum zverejnenia:  31.3.2023 
+    2023-03-31
+lokalita: Práca z domu   Pozícia: Javascript programátor, PHP programátor, Programátor   Spoločnosť: PROSIGHT Slovensko a.s.   
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

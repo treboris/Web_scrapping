@@ -1,0 +1,75 @@
+Belépésálláskeresőknek
+Budapest
+Integration Architect
+MKB Bank Nyrt.
+Budapest
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok
+Főiskola
+MKB Bank Nyrt.
+Csatlakozz hozzánk és építsük együtt a jövő bankját! Három magyar bank összeolvadásával új fejezetet nyitunk a hazai bankolásban.A Foundation az a szervezet, amely elkezdte lokálisan az egyik első teljesen új digitális, agilisan működő hazai bankjának újraépítését- kilakoltatva a régi ropogós rendszereket. Mindezt egy SaaS alapon működő új banking core rendszer köré (Thought Machine), felhőben (AWS), microservice alapokon és a legújabb, időtálló technológiákra építve, mellyel nem csupán technológiai, hanem kulturális transzformáció előtt is állunk.
+Integration Architect
+Feladatok
+ Konkrét alkalmazás integrációs igények elemzése Megfelelő integrációs technológia /minta kiválasztása; dokumentálása és prezentálása Interfészek tervezése, kialakítása Együttműködés integrációs fejlesztőkkel/üzemeltetőkkel/enterprise architectekkel Istio – service mesh konfiguráció beállítása  Kit keresünk  Agilis módszertan ismeret Proaktivitás, problémamegoldó készség Nyitottság új technológiák megismerésére Jártasság microservice architektúrában Releváns kubernetes tapasztalat Istio service mesh ismerete AWS architektúra ismerete API GW megoldások 
+Előny
+ Event streaming platform – Kafka ismerete Nyitottság fejlesztési feladatok elvégzésére is igény esetén (nodejs backend – egyszerűbb event driven architektúra támogatása) 
+Amit kínálunk
+ Ráhatással lehetsz az emberek és a pénzügyek kapcsolatára egy fintech, ügyfélközpontú és új alapokra épülő bankvilágban Olyan technológiai építkezésben vehetsz részt, amire ritkán nyílik lehetőség. Mindent a 0-ról építünk, erőteljesen ügyfélinsightokra alapozva Részese lehetsz egy valóban felhasználói igényekre reagáló modern bank építésének Félig egy startup világba csöppenhetsz egy stabil bank erős hátterével Sok nagyszerű kihívás mentén segítünk, hogy érvényesülj és a megálmodott karrier céljaidat elérd Rugalmas munkaidő, home office, csapat építés? Alap. 
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Rendszertervező
+Jelentkezés módja:
+Amennyiben szeretnél csatlakozni csapatunkhoz, jelentkezz a "jelentkezem" gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+MKB Bank Nyrt.
+Pénzügy, biztosítás
+●
+Egyéb monetáris közvetítés
+1000+ munkavállaló
+1950
+1056
+Budapest,
+Váci u. 38.
+Értékelések a(z) MKB Nyrt. cégről
+3,5
+60 értékelés alapján 
+Értékelések kategória szerint 
+3,8
+Munkaidő és munkarend 
+3,6
+Kollégák és céges hangulat 
+4,2
+Megközelíthetőség 
+3,7
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

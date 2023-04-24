@@ -1,0 +1,125 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Senior Security Admin (Budapest)
+Senior Security Admin (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Senior Security Admin
+ATTENTION TO DETAIL:
+able to be alert in a high-risk environment;
+follow detailed procedures and ensure accuracy in documentation and data;
+carefully monitor gauges, instruments, or processes;
+concentrate on routine work details, and organize and maintain a system of records.
+COMMUNICATION:
+able to clearly present information through the spoken or written word;
+read and interpret complex information;
+talk with customers or clients;
+listen well.
+CUSTOMER FOCUS:
+able to demonstrate a high level of service delivery;
+do what is necessary to ensure customer satisfaction;
+deal with service failures and prioritize customer needs.
+COPING:
+Able to maintain a solution-oriented approach while dealing with interpersonal conflict, hazardous conditions, personal rejection, or time demands.
+COMMITMENT TO TASK:
+Able to start and persist with specific courses of action while exhibiting high motivation and a sense of urgency;
+willing to commit to long hours of work and make personal sacrifice in order to reach goals.
+DECISION MAKING AND PROBLEM SOLVING:
+able to take action in solving problems while exhibiting judgment and a realistic understanding of issues;
+able to use reason, even dealing with emotional topics.
+Global Technology Services (GTS) is Aegon's global IT partner that provides infrastructure services, information security and global/corporate application support for Aegon's businesses around the world.
+From 6 locations in the US, the Netherlands, UK, and Hungary, we support 20+ country units and 24000+ employees in the world. Our support consists of a wide range of centralized global IT services such as programming, database management, project management, agile/dev/ops, and more.
+We continue to maximize the value from having a clear digital and data technology platform strategy that extends our ecosystem, as an approach to digitization, enhancing customer experience, and improving operational efficiency.
+All of these teams work closely together to provide innovative and digital solutions as well as critical technology support. This is essential for enabling Aegon's businesses around the globe to be innovative, digital and competitive, efficient, and effective, and to provide the best solutions and customer experience for our customers and shareholders.
+Knowledge of Splunk Core, Splunk Enterprise Security  
+Very knowledgeable Search Processing language (SPL) Programmer Ability to create advanced Splunk queries to mine data
+Splunk SIEM and various data sources Splunk integration with ticketing system (Atlassian JIRA) and BMC Remedy, Service Now
+Splunk Dashboard & UI development for security metrics
+Experience with other Splunk Solutions (UBA, RBA, Phantom, etc)
+Experience with Security Operations Center (SOC) functions
+Bachelor’s degree (BA/BS) from four-year college or university; or equivalent training, education, and work experience
+Minimum of Five (5) years of Systems Engineering experience
+Minimum of Five (5) years of experience working with Splunk and large database repository environments
+At least Five (5) years of experience working with hardware and network related services operating at layers 1 – 3 of the OSI
+ADDITIONAL QUALIFICATIONS
+Experience working with the following technologies: Splunk, Unix/Linux [RedHat/CentOS], Python, PERL, SQL, IP networking protocols, NextGen Firewall Technology, End Point Threat Detection, Github, bitbucket, Ansible and server hardware
+Experience with one or more of the following applications: Network routing, network
+switching, DNS, DHCP, RADIUS, LDAP, scaling and sizing for network bandwidth utilization
+Cloud functional knowledge – AWS/Azure/Google
+Extensive experience with a large Splunk environment:
+o Proper sourcetyping
+o Syslog server management
+o Large scale user environment with multiple deployment servers
+o Strong environment troubleshooting background
+o ES management experience
+o HTTP Event Collector (HEC)
+o Splunk Universal Forwarder Management
+o Splunk Deployment / Cluster Management
+PREFERRED QUALIFICATIONS
+Splunk ES Certified Admin
+Certified Linux Administrator
+Experience working within financial industry SOC
+Database admin certification
+Vendor related network certifications
+Graduate degree or high level of technical certifications.
+- 5 - 7 years’ experience in information security and solid background with various technology areas, including networking, distributed applications, systems
+software, database management and desktop technology including BYOD.
+- Certified Information System Security Professional (CISSP) or equivalent experience preferred
+- Knowledge of QRADAR and FireEye is desired.
+Benefits besides compensation/salary:
+- Home office
+- Flexible working hours
+- Health Insurance
+- Training & Development opportunities
+- Highly people-centric environment
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Randstad Hungary Kft -
+Master Data Specialist - German speaking
+Deutsche Telekom IT Solutions -
+Senior Network Architect (Open Telekom Cloud) (REF1665U)
+EasyHiring Services Kft. -
+Application engineer
+EasyHiring Services Kft. -
+Security Architect
+Deutsche Telekom IT Solutions -
+Data Engineer - Data Warehousing (SQL/Python)-German Speaking REF1478Z
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

@@ -1,0 +1,120 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava based QA Automation Engineer 
+Open Positions
+Company
+Education Programs
+Benefits
+Java based QA Automation EngineerDeutsche Telekom IT Solutions Slovakia
+                                Place of work
+                            Remote work
+                                Contract type
+                            full-time
+Information about the position Job description, responsibilities and dutiesPurpose
+QA Automation Engineer evaluates tools and technology for test automation most appropriate to the project, writes, design, and executes automated tests by creating scripts that run testing functions automatically, maximizing test coverage of automated tests for the critical features of the system. Enables the transition of testing in various phases of testing process from a manual to an automated approach to minimize the manual test effort. Determines the priority for test scenarios and creates execution plans to implement these scenarios, writes documentation for automated processes including test plans, test procedures, and test cases. QA Automation Engineer does selection and building of test automation frameworks, log and document bugs in the tracking system and setting up Continuous Integration in a CI/CD (continuous integration / continuous delivery) pipeline and oversees the entire development process, which includes software testing, from start to finish. The holder of position makes sure all released products meet company and industry quality standards and supports test team with test automation know-how, stays current on modern processes, established tools, techniques, and technologies and ensures high degree of quality.
+Key accountabilities
+•	Meeting with the software/product designers to determine quality assurance parameters.
+•	Leading the QA team in designing QA test procedures.
+•	Leading evaluation of tools and technologies most appropriate for test automation on one or multiple projects.
+•	Create an approach and methodology for building a test automation architecture.
+•	Create overall test architecture within continuous integration in a CI/CD pipeline.
+•	Overseeing the drafting of testing documents.
+•	Implementing testing procedures and overseeing the QA process.
+•	Identify quality assurance process bottleneck and suggest actions for improvement.
+•	Troubleshooting quality issues and modifying test procedures.
+•	Conducting analysis checks on product specifications.
+•	Identify key KPIs for product quality.
+•	Reviewing Quality Assurance reports.
+•	Ensuring the successful deployment of products into the market.
+•	Responding to requests from the design team and management.
+•	Mentor and support QA Automation Engineers and testers in test automation. Wage (gross)1 800 EUR/monthFinal salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.  Employee perks, benefits
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work – life balance
+Other benefits *
+        For more information about our benefits click to Benefits
+Benefits with * are applicable also to part-time positions.This information may be subject to changes and other internal rules. Requirements for the employee Candidates with education suit the positionSecondary with school-leaving examinationLanguage skillsEnglish - Upper intermediate (B2)Personality requirements and skillsRequiered Skills 
+•	Java test Automation or proven manual testing experience 
+•	Java programming language - at least teoretical knowledge
+•	XPath
+•	Experience with test framework Selenium
+•	alternatively JUnit, Mockito, hamcrest
+Optional Skills
+It will be advantage if you have already experience with below mentioned technologies:
+•	GitLab, VBS Script, Micro Focus UFT, Allure framework, Project Lombok, BLD, Micro Focus Skill Performer, REST API
+•	Camunda, BPM solution, Docker, REST, SOAP, Apache Maven, Jenkins
+Others
+•	Analytical thinking is your strenght and with excellent overview in Industry trends you should be perfect problem solver with focus on detail.
+•	You should be team player willing to learn and grow.
+Languages 
+•	English - upper intermediate (B2)
+•	German - advantage Advertiser Brief description of the companyOur brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services. Number of employees1000 and more employees ContactContact person: Ing.  Lenka KiššováE-mail: send CV
+Apply Online
+                        Deutsche Telekom IT Solutions Slovakia
+                        Žriedlová 13, 040 01 Košice
+www.deutschetelekomitsolutions.sk
+055/7853566
+ID: 4448588 
+     Dátum zverejnenia:  18.4.2023 
+    2023-04-18
+lokalita: Remote work   Pozícia: Java Programmer, Quality Engineer   Spoločnosť: Deutsche Telekom IT Solutions Slovakia   
+Základná zložka mzdy (brutto): 1 800 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

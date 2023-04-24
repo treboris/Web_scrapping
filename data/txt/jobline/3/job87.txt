@@ -1,0 +1,60 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+DevOps Engineer Cloud of Things (REF923S) (Budapest)
+DevOps Engineer Cloud of Things (REF923S) (Budapest)
+A hirdetés már lejárt!
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+DevOps Engineer Cloud of Things (REF923S)
+Cloud of Things – Deutsche Telekom's IoT platformThe Cloud of Things is our high-performance, cloud-based IoT application platform for the Internet of Things. You can use it to connect your devices and machines while monitoring and controlling them remotely. Out-of-the-box, no programming or installation (SaaS): Simply connect your devices, configure individual dashboards and get your first IoT project up and running!The Cloud of Things collects the sensor data of your connected machines in real-time and analyzes it. And you’ll always have an overview of several parameters, such as pressure, RPM, temperature or position in your personal web portal. You’ll also have comprehensive analysis tools at your disposal to gain insights and trigger automated actions. It all makes it extremely easy to develop new business models, increase the efficiency of your systems and processes, reduce downtime and cut costs through predictive maintenance.
+Responsibilities:Take responsibility for operations infrastructure for current setup with Ansible and promote/support new environment with Kubernetes and TICK stackSupport and enhancement deployment, enabling logging and monitoring conceptsParticipate in Scrum events and consult team in order to implement resilient and HA servicesRequirements:Must Have:Experience in Linux (3+ years)Experience with Kubernetes, DockerExperience with TICK stack or similarExperience with Ansible configurationExperience with GitLab CI, Git version controlEnglish at least upper-intermediate levelNice to Have:Knowledge of Helm ChartsExperience with Spring Java servicesExperience with MongoDBExperience with npm and yarnBeing familiar with agile development
+Senior
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+Randstad Hungary Kft -
+Software Engineer
+Deutsche Telekom IT Solutions -
+Learning and Development Expert (Experienced/Senior) - REF1664I
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Deutsche Telekom IT Solutions -
+Senior FullStack Fejlesztő (REF1657B)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

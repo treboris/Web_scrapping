@@ -1,0 +1,116 @@
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Regionális 
+DevOps Engineer
+Shoprenter Kft.
+Rugalmas munkavégzési hely - Budapest, Bács-Kiskun megye, Baranya megye, Békés megye, Borsod-Abaúj-Zemplén megye, Csongrád-Csanád megye, Hajdú-Bihar megye, Heves megye, Jász-Nagykun-Szolnok megye, Pest megye, Szabolcs-Szatmár-Bereg megye
+ Elvárt technológiák
+DEVOPS
+LINUX
+OPERÁCIÓS RENDSZEREK
+MYSQL
+AWS
+DOCKER
+GITLAB
+ Módszertanok és szoftverek
+Agilis
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Kötetlen munkaidő
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Mobiltelefon
+Cafeteria
+Céges üdülés, üdültetés
+Szakmai tréningek
+Munkába járás támogatás
+ Elvárt technológiák
+DEVOPS
+LINUX
+OPERÁCIÓS RENDSZEREK
+MYSQL
+AWS
+DOCKER
+GITLAB
+ Módszertanok és szoftverek
+Agilis
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Shoprenter Kft.
+DevOps Engineer
+Miért válaszd a Shoprenter csapatát?Magyarország piacvezető e-kereskedelmi rendszereként több mint 5800 hazai kereskedőt támogatunk a minél hatékonyabb online értékesítésben.Célunk, hogy segítsünk a hazai vállalkozó szellemű embereket a webáruházuk elindításában, növekedésükben és piacvezetővé válásukban.Ehhez pedig egy olyan e-kereskedelmi ökoszisztémát nyújtunk, amely itthon egyedülálló támogatást biztosít a kereskedőknek: magas funkcionalitású webáruház motor, rendszeres oktatások és konzultációk, szakértő portál, telepíthető külső alkalmazások, kiemelt ügyféltámogatás és Magyarország legnagyobb e-kereskedelmi rendezvényének megszervezése.
+Főbb feladatok, munkák:
+Mit csinál nálunk egy DevOps Engineer?Minden feladat előtt részletes rendszerismereti oktatást biztosítunk, amelyek után az alábbi feladatokban számítunk kollégáinkra:Magas rendelkezésre állású, elosztott rendszerek üzemeltetéseLinux szerver alapú operációs rendszerek naprakészen tartása Meglévő folyamataink automatizálásaSaját alkalmazásaink rendelkezésre állásának biztosítása DevOps technológiák megismerése, új ötletek megosztása a csapattal
+Az álláshoz tartozó elvárások:
+Milyen tudással rendelkező embert keresünk?Stabil Linux és hálózati ismeretekkel rendelkezel Van tapasztalatod MySQL adatbázisokkalStabil hálózati ismeretekkel rendelkezelProaktív és pozitív hozzáállásod van, illetve erős a felelősség tudatodKiváló problémamegoldó készséged vanIdőnyomás alatt is tisztán tudsz gondolkodni
+Az állás betöltéséhez előnyt jelent:
+Az alábbi tudások birtokában magasabb bérezi csomagot is tudunk kínálni.Van tapasztalatod a CI/CD rendszerekbenOn premise infrastruktúrával is találkoztál már.Dolgoztál már DevOps technológiákkalVan tapasztalatod MySQL adatbázis cluster üzemeltetésbenVan tapasztalatod legalább egy felhő szolgáltatónál, mint pl. AWSVan tapasztalatod konténer alapú technológiákban, különösen DockerbenIsmered a Monolith és Microservice rendszereket
+Amit kínálunk:
+Miért éri ez meg neked?Piacvezető termék: Több, mint  6000 ügyfelünk van Magyarországon, és az ügyfeleink áruházain keresztül realizálódik a teljes magyar internetes kereskedelem több mint 15 százaléka.Közvetlen csapat: Olyan vezetővel dolgozhatsz, aki naprakész szakmailag, nyitott, segítőkész és kifejezetten jól gondolkodik a világ dolgairól, nagyon inspiráló vele és mellette dolgozni! És ez igaz a Shoprenter 70 fős csapatára is, ami kivételesen elég nagy ahhoz, hogy sokszínű legyen, de még elég kicsi ahhoz is, hogy közvetlen, barátságos légkör legyen, ahol mindenki ismeri a másikat.Csapatépítők: Rendszeresen szervezünk csapatépítő eseményeket: moziest, könyvklub, táncos csapatbuli, grillezés, pizzázás, kirándulások, ahol garantált a jó hangulat.Fejlődési lehetőség: Támogatjuk konferencia és tréning részvételed, és belépéskor egy átfogó onboardingot tartunk számodra. Lesz melletted egy szakmai mentor is, és személyre szabott fejlődési terved is lesz betanulást követően.Modern, kényelmes és nyugodt iroda: Nálunk kis csapatok vannak egy légtérben, így nincs egész nap hangzavar, ami folyton kibillent a munkából. Ráadásul otthon is bátran dolgozhatsz, ha még inkább szeretnél elmélyülni. Irodánk a debreceni Kassai úti irodaházban található. Az irodában kávé, tea, ásványvíz, gyümölcsök, vitaminok várnak.Versenyképes juttatás: A fizetésedet együtt, a tapasztalataid alapján határozzuk meg. A fizetés mellett biztosítunk nyelvtanári, coaching támogatást, házon belüli masszőrt, sőt, még fodrászt is. Hozzáférsz továbbá több mint ezer belső tananyaghoz könyv, ebook, podcast és videó formájában.Cégcsoport nyújtotta előnyök: Mivel a Shoprenter az Innonic Startup Studio tagja, így még 3 hasonló felépítésű csapat szakembereivel tudsz tudást és tapasztalatot cserélni nap, mint nap a közös konyhákban.
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Adatbázisszakértő
+Jelentkezés módja
+Fontosnak tartjuk, hogy tudd mikor mi történik a pályázatoddal, így szeretnék előre tájékoztatni, hogy Te is tudj tervezni:A jelentkezésed követően kiértékeljük a CV-d HR Vezetőnk felhív egy rövid ismerkedős beszélgetésre telefonon.Ha megvannak a közös pontok, küldünk egy tesztfeladatot.A tesztfeladat sikeres kitöltését követően szervezünk egy személyes találkozót, ahol a DevOps vezetővel és CTO-val való beszélgetést követően lesz egy online tesztfeladat, amelynek a megoldására 2 óra áll majd rendelkezésre.Ha jól sikerül a teszt és megvan az összhang, akkor beszélgetünk a továbbiakról egy ajánlat mentén.Elfogadott ajánlat esetén pedig egyeztetjük az adminisztrációs teendőket és várunk első munkanapodra ahol belevághatsz gondosan összeállított onboardingunkba.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Kötetlen munkaidő
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Mobiltelefon
+Cafeteria
+Céges üdülés, üdültetés
+Szakmai tréningek
+Munkába járás támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Shoprenter Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+50-100 munkavállaló
+2011
+4028
+Debrecen,
+Kassai út 129.
+Munkahelyi extrák
+Céges étkező
+Kávézó
+Zuhanyzási lehetőség
+Céges rendezvények
+Kerékpártároló
+Parkoló
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Masszázs
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

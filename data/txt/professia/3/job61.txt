@@ -1,0 +1,125 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceF# Developer | Skvelá komunita, veľa zábavy, vedomostí a zaujímavých projektov 
+F# Developer | Skvelá komunita, veľa zábavy, vedomostí a zaujímavých projektovCN Group CZ a.s., organizačná zložka SK
+Miesto práce
+Obchodná 2, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 500 EUR/mesiacFinálna výška mzdy závisí od doterajších skúseností a odborných vedomostí kandidáta.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiPredstavte si, že budete súčasťou tímu zanietených F# vývojárov, v ktorom sa od seba učíme, pomáhame si a hlavne sa zabávame na zaujímavých medzinárodných projektoch z rôznych oblastí podnikania (predpovede počasia, doprava, rezervácie, móda, ...). 
+Zvyčajne pokrývame celý životný cyklus vývoja softvéru, takže sa dostanete do kontaktu s automatizáciou, Infrastructure-as-a-code, monitorovaním a ďalšími skvelými vecami.
+TECHNOLÓGIE na našich projektoch: 
+BE: .Net, F#
+FE: Fable
+API: Rest API, GraphQL
+DB: Azure Cosmos DB, MS SQL Server
+Ďalšie technológie: CI/CD, Azure Cloud, Microservices
+Vašou úlohou bude: 
+•	vývoj nových funkcií
+•	účasť na návrhu systému
+•	údržba existujúcich častí systému
+Čo v CN Group získate? 
+• Prostredie, ktoré intenzívne podporuje vzdelávanie a odborný rast (interné a externé školenia, workshopy, konferencie, hackathony, codingdojo, prednášky)
+• Kolegov, ktorí sú ochotní Vám kedykoľvek pomôcť a radi zdieľajú svoje znalosti
+• Nadriadených, ktorí svojim ľuďom rozumejú - sami bývali vývojármi, takže vedia, čo ich ľudia potrebujú
+• Firemnú kultúru, ktorá je založená na priateľskom a neformálnom prostredí. Nechávame kolegom voľnosť a všetko staviame na dôvere.
+• Prácu na rôznorodých zahraničných IT projektoch bez potreby sa niekam sťahovať, bez nutnosti zmeny firmy a kolegov. Nezamrznete tak na dlhšiu dobu len na jednom projekte.
+• Výhodu produktovej firmy (stálych kolegov, Scrum Mastrov, šéfa aj svoj stôl...) s meniacimi sa projektmi od našich stálych aj nových zahraničných zákazníkov Zamestnanecké výhody, benefityAké benefity pre Vás máme?
++ Podporujeme work-life balance (home-office, flexibilná pracovná doba, dovolenka navyše) 
++ Možnosť práce z domu - či už na jednorazové udalosti alebo ak bývate ďaleko na denné dochádzanie 
++ Každý týždeň organizujeme spoločné raňajky, kde preberieme novinky pri dobrom jedle a káve 
++ 5 týždňov dovolenky pre všetkých zamestnancov 
++ 2 dni Sickdays
++ Možnosť neplatenej dovolenky môžete využiť napríklad na cestovanie 
++ Preferujete MacBook alebo Dell? U nás máte možnosť výberu 
++ Ak sa potrebujete odreagovať, môžete si zahrať PlayStation, Xbox, stolný futbal, ping-pong alebo relaxovať v našom Social roome 
++ Program pre duševné zdravie Soulmio (prevencia duševného zdravia, živé prenosy alebo videá so psychológmi, články o duševnej pohode, osobné stretnutia so psychológom atď.) 
++ Možnosť jazykového vzdelávania - online angličtina a nemčina 
++ Cvičenie jogy priamo na pracovisku
++ Elektrické zdvíhacie stoly, ktoré preventívne pôsobia proti bolestiam chrbta
++ Pekný office v centre Bratislavy so super dopravnou dostupnosťou a so skvelou kávou  
++ Môžete si užiť spoločné akcie, ktoré už majú tradíciu (Outdoor, Vianočný večierok, Board games, lyžovačka, maratónsky beh po Bratislave atď.) Informácie o výberovom konaníSme radi, že Vás pri hľadaní práce zaujala naša ponuka. Ak sú F# a funkcionálne programovanie Vašou srdcovkou, pošlite nám, prosím, Váš životopis na: [email protected] Radi sa s Vami porozprávame a predstavíme Vám našu spoločnosť a projekty.
+Výberový proces v CN Group (krátke video): 
+https://bit.ly/3lIYR11 
+CN Group Slovensko:
+https://www.youtube.com/watch?v=XWktKo-_XMw
+CN Group podcast "PodVocasem":
+Ako náš kolega budete môcť prediskutovať Vaše pracovné otázky aj s expertom na F# Romanom Provazníkom, ktorého môžete spoznať aj v našom podcaste "PodVocasem": https://www.podvocasem.cz/ Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Osobnostné predpoklady a zručnostiDo našej malej, ale skúsenej a rastúcej F# komunity radi prijmeme nováčika zanieteného pre funkcionálne programovanie, ktorý má: 
+• znalosť platformy .NET (.NET 7 / ASP.NET)
+• pracovné skúsenosti s programovaním v F# 
+• pokročilú angličtinu – s našimi medzinárodnými klientmi bude prebiehať každodenná komunikácia v angličtine
+Navyše radi privítame:
+• znalosť Azure Cloud a Fable Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme software house, ktorý sa primárne venuje vývoju softwaru na mieru pre našich zahraničných zákazníkov (Nemecko, Švajčiarsko, Rakúsko, Švédsko, UK atď.), avšak vývoj zvládame z Prahy, Zlína, Bratislavy a Bukurešti. Našimi hlavnými vývojovými platformami sú Node.js, React, Angular, Vue.js, Java, .NET, Drupal, C++. Zameriavame sa aj na mobilný vývoj.
+Prečo pre nás pracovať?
+• Väčšina našich projektov je medzinárodných - pre krajiny západnej a severnej Európy
+• Využívame agilné metodiky vývoja – SCRUM, Kanban
+• Naši zákazníci sú zo všetkých možných oblastí businessu – médiá, logistika, bezpečnosť, medicína, telekomunikácie atď. Počet zamestnancov100-149 zamestnancov KontaktKontaktná osoba: Katarína ŠediváTel.: +421910435241E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4520005 
+     Dátum zverejnenia:  17.4.2023 
+    2023-04-17
+lokalita: Bratislava   Pozícia: .NET programátor, Backend programátor, Programátor   Spoločnosť: CN Group CZ a.s., organizačná zložka SK   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

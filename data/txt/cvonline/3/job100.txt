@@ -1,0 +1,70 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Product Advisor
+About us
+At ExxonMobil, our vision is to lead in energy innovations that advance modern living and a net-zero future. As one of the world’s largest publicly traded energy and chemical companies, we are powered by a unique and diverse workforce fueled by the pride in what we do and what we stand for.
+The success of our Upstream, Product Solutions and Low Carbon Solutions businesses is the result of the talent, curiosity and drive of our people. They bring solutions every day to optimize our strategy in energy, chemicals, lubricants and lower-emissions technologies. 
+We invite you to bring your ideas to ExxonMobil to help create sustainable solutions that improve quality of life and meet society’s evolving needs. Learn more about our What and our Why and how we can work together.
+Our Global Business Center (GBC) in Budapest was established in 2004. Our diverse and multinational workforce of ~2,000 fellow colleagues has been powering ExxonMobil’s global businesses ever since. We are proud to work in an inclusive, safe, and vibrant work environment and we are aiming to provide an exciting, long term career to all our employees. We develop together, we grow together. Proudly awarded as Responsible employer of the year and received HRKomm award for Diverse workplace and award for Ergonomic program.
+WHAT ROLE YOU WILL PLAY IN OUR TEAM:
+At ExxonMobil, we know that people need energy. We work to expand the supply of reliable and affordable energy needed for economic progress. In doing so, we take a balanced approach that considers the impact of our operations on local economies, communities and the environment.
+There is a growing network of 5000+ gas stations in Europe operating under the Esso brand, and selling to motorist high quality fuels, Mobil1 and other lubricant products, coffee, food and grocery items. Forecourt payment and loyalty solutions (including digital payment and loyalty applications), and the underlying IT infrastructure are a fundamental element of our brand proposition and they are expected to deliver frictionless consumer experience while meeting the highest system security standards. We build on long term commercial relationships with market leading vendors to do so.
+We are looking for Product Advisor, in our growing Fuels Value Chain (FVC) Analytics team to act as Subject Matter Expert (SME) for end-use analytics support to FVC data consumers in use of analytics for effective insight generation. The Product Advisor needs to interface with FVC Business Process Advisors, Global Group Advisors, Data foundation, Analytics managers, ExxonMobil IT Data & Analytics teams to effectively fulfill his/her responsibilities.
+Single point of contact for end-use analytics support to FVC data consumers in use of analytics for effective insight generation
+Manages FVC user story life cycle; shapes demand for FVC analytics
+Facilitates FVC analytics Power User Network(s)
+Project Support: Owns FVC analytics requirements on behalf of the business; participates in project design workshops and UAT with development team
+WHAT YOU WILL DO
+Provide business facing support for FVC business process users using internal data and external data (market & competitive data, aka M&CI) for analytics
+Enables efficient consumption of data through analytics data models and applications
+Leverages analytical and business intelligence skills to translate business requirements into data models / visualizations / user stories for effective insight generation and enablement of business processes.
+Analyzes business processes and identifies / implements improvement opportunities via analytics
+Assesses if data set is fit-for-use; validates data integrity for modeling and user story development
+Proactively gathers future business requirements for use in analytics enhancements; translates requirements for effective use by project team
+ABOUT YOU: SKILLS AND QUALIFICATIONS
+Degree in with Computer Science/Engineering
+3 - 5 years of experience in a fast-paced environment/multinational company
+Business Process Expertise: SME in Fuels Value Chain
+Business Analysis: Integrates business knowledge / judgment with data mining and analytics to support the generation of accurate and relevant business insights
+Project Management: Applies project management process skills and principles to work activities to support initiatives and projects.
+Process Management: Applies continuous improvement processes to develop, implement and sustain analytics platforms via use of CI tools and leveraging analytics technologies.
+Systems and Tools:  good working knowledge of SAP database technologies (HANA data models, Business Warehouse reporting cubes), and related front-end data extraction tools (SAP/BOBI, Tableau, Excel)
+Interpersonal Skills:
+Ability to work virtually and able to effectively interact with large and diverse user community  
+Excellent verbal communication in English, very strong interpersonal skill; good influencing skills
+Strong initiative, solution oriented and multi-tasking skills
+Willingness for continuous professional development and improvements
+YOUR BENEFITS
+An ExxonMobil career is one designed to last. Our commitment to you runs deep: our employees grow personally and professionally, with benefits built on our core categories of health, security, finance, and life. ExxonMobil Hungary offers a variety of benefits to support and protect your health and financial wellbeing.
+From Day 1:
+Premium+: Annual bonus to recognize active service with ExxonMobil on top of your competitive pay
+Private Health insurance and Employee assistance Program
+Life insurance 
+Opportunities to enhance communication and language skills, job specific and broader trainings, mentoring, self-development opportunities, tuition assistance program supporting studies with business relevance 
+Wellness programs with a wide range of activities including ergo breaks, ergonomics support, office yoga, massage and much more!
+With Continued employment:
+Voluntary Pension Fund (after 3 months of employment)
+Cafeteria (after 3 months of employment)
+Service Awards (at key service anniversary milestones)
+Please note benefits may be changed from time to time without notice, subject to applicable law.
+Product Advisor 
+Jelentkezem
+Elmentem az állást
+EXXONMOBIL 
+BudapestPest 
+Teljes munkaidős 
+3 -5 év munkatapasztalat 
+Főiskolai végzettség 
+Frissítés dátuma: 14.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ IT szolgáltatásmenedzser 
+ Budapest  
+ Specifications coordinator 
+ Mátészalka  
+ Product compliancy engineer (Termékmegfelelőségi mérnök) 
+ Budapest  
+ SMT PROGRAMOZÓ (16-2174) 
+ Pest megye  
+ IT Security Manager (REF194D) 
+ Budapest  

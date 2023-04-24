@@ -1,0 +1,90 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceMedior Frontend Developer 
+Medior Frontend DeveloperOnlima s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 500 - 2 800 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme skúseného Frontend Developera (minimálne 4 roky skúseností na podobnej pozícií), ktorý primárne bude pretavovať webové grafické diela do kódu (z Figmy do HTML, CSS) a podielať sa tak na tvorbe webstránok, e-shopov, webových aplikácií. Zväčša je potrebné kód oživiť reaktívnym javascriptom (Vue.js), takže sa nemusíš báť, že práca bude len o sekaní dizajnu do kódu. Primárne hľadáme dlhodobého člena tímu!
+Očakávame:
+- Vytváranie Laravel Bladov cez SCSS a framework Tailwind
+- Dodržiavanie spôsobu tvorby kódu, aby sme postup mali jednotný
+- Práca s reaktívnym frameworkom Vue.js (filtrácie, viackrokové formuláre, tvorba CRM systémov a digitalizácií firiem)
+- Dodržiavanie on-page SEO pravidiel
+- Optimalizácia výkonu web stránky (na základe návrhov PageSpeed Insight)
+- Zmysel pre detail (rovnaké paddingy/marginy, responzívny dizjan, úprava dizajnu do webovej dokonalosti)
+- Finalizácia vizuálnej časti projektu je v tvojej réžií. Keď si to web zaslúži, pridáš zopár animácií.
+- Servis už existujúcich web stránok (zväčša postavené na Bootstrap)
+Pracovať budeš na tuzemských ale aj zahraničných projektoch. Ako si už vyčítal vyššie, pri tvorbe využívame Laravel. Projekty sú zväčša stredného rozsahu, často kreatívne a je potrebné hľadať spôsoby riešenia, čím sa určite niečo nové naučíš. Ak si FE na Laraveli už robil, je to tvojou výhodou. Zamestnanecké výhody, benefity- práca na rôznorodých projektoch
+- full REMOTE
+- sebarealizácia je u nás často vyžadovaná Informácie o výberovom konaníVopred ďakujeme za zaslanie životopisu. Budeme sa venovať každému uchádzačovi, oslovíme však len tých, ktorí budú spĺňať požiadavky.Predpokladaný termín ukončenia výberového konania16.5.2023 (ostáva ešte 26 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiVue.js - PokročilýHTML - ExpertCSS - ExpertTailwind CSS - PokročilýBootstrap - PokročilýJavaScript - PokročilýPrax na pozícii/v oblastiMinimálne 4 roky skúseností na danej pozícií - Juniorskú pozíciu máme už obsadenú!Počet rokov praxe4 Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme digitálna agentúra Onlima.sk. Prepájame reálny život s online prostredím. Naše výsledky posúvajú spoločnosti vpred. Vytvárame web stránky, e-shopy, webové aplikácie a digitalizujeme spoločnosti. Je pre nás kľúčové prinášať klientom nadčasové riešenia. Okrem webového programovania sa zaoberáme aj propagáciou spoločností cez online marketingové kanále. KontaktKontaktná osoba: Mgr.  Matej JonášekTel.: +421911069651E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4558459 
+     Dátum zverejnenia:  16.4.2023 
+    2023-04-16
+lokalita: Práca z domu   Pozícia: Frontend programátor   Spoločnosť: Onlima s. r. o.   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

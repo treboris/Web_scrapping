@@ -1,0 +1,58 @@
+ÁLLÁSHIRDETÉS FELADÁS
+SENIOR .NET FEJLESZTŐ 
+(Vállalati támogató rendszerek, alkalmazások)
+Milyen kihívások várnak: 
+.NET Core alapú webes megoldások fejlesztése, 
+MSSQL adatbázis alapú alkalmazások készítése,
+Angular, HTML5, CSS, JavaScript, TypeScript használata,
+Ügyféligények alapján informatikai alkalmazások tervezése, fejlesztése,
+Hibakeresés, azok gyors felismerése és javítása, verziókezelés
+Interface fejlesztési feladatok, társrendszeri fejlesztővel való együttműködés,
+Dokumentációk elkészítése, felülvizsgálata, aktualizálása, verziókezelés,
+Üzemeltető, tesztelő szakterületekkel való együttműködés.
+Elvárások: Csatlakozz hozzánk, ha: 
+Informatikai szoftverfejlesztő szakirányú közép- vagy felsőfokú végzettséggel, 
+5-10 év szoftverfejlesztői gyakorlattal, objektumorientált szemlélettel rendelkezel, 
+Szívesen dolgozol full-stack fejlesztői szemlélettel, 
+Ismered, használnád az Agilis fejlesztési módszertanokat.
+Amit nyújtunk: Ha minket választasz: 
+Lehetőséged lesz Home Office napokban is dolgozni; ha kellő rutinnal rendelkező jelölt vagy, távmunka foglalkoztatásban is kapcsolódhatsz a csapathoz, 
+Lendületes, egymást segítő szakmai csapatba érkezel, 
+Folyamatosan tanulhatsz, fejlődhetsz,
+Cafeteria juttatási csomag,
+Egészségbiztosítási juttatás,
+Sportolás támogatása (AYCM, sportkörök, biciklibarát munkahely),
+Balaton parti céges nyári üdülő, 
+Családbarát munkahely,
+Budapesti irodánk a XIV. kerület Róna utcca családi-társasházi övezetben található.
+Előnyök: Előnyt jelent számodra: 
+Fejlesztői csapatban való együttműködési tapasztalat
+Devops szemlélet, logikus gondolkodás,
+Ha már használtál VisualStudio-t és GIT verziókezelőt
+MVC, Web API (REST), EntityFrameworkCore ismerete
+Folyamatkezelő rendszer fejlesztési tapasztalat
+Analitikus szemlélet, jó problémamegoldó képesség.
+Jelentkezem
+Elmentem az állást
+SENIOR .NET FEJLESZTŐ 
+Jelentkezem
+Elmentem az állást
+Workplus Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Több mint 5 év 
+OKJ képesítésFőiskolai végzettségEgyetemi végzettség 
+Frissítés dátuma: 31.03.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Software Engineer (.NET) 
+ Budapest  
+ Senior Full-Stack Fejlesztő 
+ Szeged  
+ .Net developer 
+ Budapest  
+ Backend Fejlesztő (medior/senior) 
+ Budapest  
+ Senior JAVA Fejlesztő 
+ Budapest  

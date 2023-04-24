@@ -1,0 +1,64 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Tesztelő, Tesztmérnök
+Budapest
+Budapest
+Linux fejlesztőmérnök
+Lightware Visual Engineering
+Budapest, VII. kerület
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol alapfok
+3-5 év szakmai tapasztalat
+Főiskola
+Linux fejlesztőmérnök
+Cégünk egy audiovizuális termékeket fejlesztő és gyártó vállalat, amely globális szinten szolgálja ki a professzionális AV közönséget. A tárgyalótermi megoldásoktól kezdve, az AV-over-IP rendszereken át, a nagyméretű mátrixkapcsolókat beleértve több, mint 200 terméket tartalmazó portfólióval rendelkezünk. Számos neves ügyfelünk között megtalálható például a Google, Facebook, Apple és Microsoft.
+Ezekkel a technológiákkal fogsz találkozni: Bash, systemd, docker, git, nodeJS, Jenkins, buildroot, C++, Qt, gdb, Make, CMake, D-bus, TLS, REST API, 802.1X, U-boot.
+Feladatok, melyet a csapatoddal végeztek:
+a cég által fejlesztett videotechnikai berendezések szoftverének fejlesztése;részvétel a termék- és szoftverspecifikálásban, az architektúra tervezésben és a szoftver teljes fejlesztési folyamatában;új készülékek belső működtetésének kitalálása, megvalósítása és kipróbálása már a fejlesztési fázisban, amelyek az általad fejlesztett szoftverrel működnek;jól strukturált, igényes kód írása.
+Ehhez mindenképp szükséges, hogy legyen:
+villamosmérnöki vagy mérnökinformatikus vagy hasonló végzettséged;legalább 3 év Linux alkalmazás fejlesztői tapasztalatod;jó vagy valamilyen script nyelvben (pl. Bash, Shell, Python, JavaScript, nodeJS);Git verziókövető ismereted;rendszerszemléletű gondolkodásmódod;szakmai angol nyelvismereted.
+Még inkább Te lehetsz a nyerő választás a számunka, ha:
+szereztél már tapasztalatot beágyazott rendszerek fejlesztésében;van modern C++ ismereted (C++17);van GNU Make, gcc, gdb felhasználói szintű tapasztalatod;rendelkezel Continuous Integration tapasztalattal (pl. Jenkins);van systemd ismereted;vannak hálózati és IT biztonsági ismereteid;dolgoztál már agilis fejlesztési környezetben.
+Állás, munka területe(i):
+Mérnök
+Villamosmérnök
+IT programozás, Fejlesztés
+Tesztelő, Tesztmérnök
+JELENTKEZÉS MÓDJA:
+Vegye fel a munkaadóval a közvetlen kapcsolatot a jelentkezem gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol alapfok
+3-5 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+LIGHTWARE Vetítéstechnikai Zártkörűen Működő Részvénytársaság
+Tudományos, műszaki tevékenység
+●
+Egyéb természettudományi, műszaki kutatás, fejlesztés
+250-500 munkavállaló
+2022
+1071
+Budapest,
+Peterdy utca 15.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

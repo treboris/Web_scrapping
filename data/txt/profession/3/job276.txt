@@ -1,0 +1,85 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+Beágyazott szoftverfejlesztő mérnök
+Lightware Visual Engineering
+Budapest, VII. kerület
+ Elvárt technológiák
+C
+C++
+GIT
+TESTING
+ Módszertanok és szoftverek
+Git
+Testing
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+C
+C++
+GIT
+TESTING
+ Módszertanok és szoftverek
+Git
+Testing
+Beágyazott szoftverfejlesztő mérnök
+Cégünk egy audiovizuális termékeket fejlesztő és gyártó vállalat, amely globális szinten szolgálja ki a professzionális AV közönséget. A tárgyalótermi megoldásoktól kezdve, az AV-over-IP rendszereken át, a nagyméretű mátrixkapcsolókat beleértve több, mint 200 terméket tartalmazó portfólióval rendelkezünk. Számos neves ügyfelünk között megtalálható például a Google, Facebook, Apple és Microsoft.
+Te vagy a mi emberünk, ha:
+lelkesítene, hogy a cég által fejlesztett, prémium minőségű videotechnikai berendezéseket vezérlő ARM mikrokontrollereket programozhatsz, mely eszközöket elégedetten használják a globális high tech cégek irodaházaiban, a legmenőbb rocksztárok megakoncertjein, hatalmas látványshowkon és Esport rendezvényeken is.örömmel töltene el, hogy olyan termékek fejlesztésben vehetsz részt, melyeket már a release előtt nagy érdeklődéssel várnak az ügyfelek, akiktől gyakran kapunk pozitív visszajelzéseket;kihívásnak tekintenéd, hogy a feladataid közé tartozna a termék- és szoftverspecifikálás, az architektúra tervezés és a szoftver teljes fejlesztési folyamata.büszke apaként/anyaként örülnél, ha egy-egy új készülék belső működtetésének kitalálása és megvalósítása a Te nevedhez fűződne;unod, hogy mostani munkádban csak a szoftver egy pici részével találkozhatsz, vagy csak ismétlődő részfeladatokat kapsz a fejlesztésben; szeretnél teljesen rálátni az új berendezéseink születésére, és fizikailag is kipróbálni már a fejlesztési fázisban azokat az eszközöket, amik az általad fejlesztett szoftverrel működnek,szívesen veszel részt aktívan a fejlesztési folyamatok kidolgozásában/javításában.
+Ehhez mindenképpen szükséges, hogy legyen:
+tapasztalatod beágyazott C programozásban és szívesen megtanulnád a C++ nyelvet;beágyazott operációs rendszer (RTOS) tapasztalatod;magas szintű Git verziókövető ismereted;villamosmérnöki vagy mérnökinformatikus végzettséged;szakmai angol nyelvismereted.
+Még inkább Te lehetsz a nyerő választás a számunkra, ha:
+jártas vagy a C++ programozásban;van videotechnikai ismereted (HDMI, DisplayPort);szereztél már tapasztalatot STM32-vel;rendelkezel hálózati alapismeretekkel;van Unit testing tapasztalatod;felhasználói szinten ismered a Linuxot;nem riadsz meg a hardverek bemérésétől, debuggolásától;tudsz bánni az oszcilloszkóppal és a logikai analizátorral.
+Amit mi tudunk biztosítani, hogy jól érezd magad nálunk:
+komplex mérnöki problémákkal találkozhatsz, melyek mindig új kihívásokat rejtenek;meghallgatjuk az ötleteidet, legyen szó termékekről vagy akár folyamatokról;mindig a legújabb technológiákkal, szabványokkal foglalkozunk az AV területen, így folyamatosan fejlesztheted magad;részese lehetsz egy magyar cég sikerének a világpiacon;betanulás után heti 2 nap home office lehetőséget;belvárosi, jól megközelíthető munkahelyet;magas színvonalú csapatépítő tréningeket és egyéb közösségépítő programokat.
+Állás, munka területe(i):
+Mérnök
+Villamosmérnök
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+JELENTKEZÉS MÓDJA:
+Vegye fel a munkaadóval a közvetlen kapcsolatot a jelentkezem gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+LIGHTWARE Vetítéstechnikai Zártkörűen Működő Részvénytársaság
+Tudományos, műszaki tevékenység
+●
+Egyéb természettudományi, műszaki kutatás, fejlesztés
+250-500 munkavállaló
+2022
+1071
+Budapest,
+Peterdy utca 15.
+Munkahelyi extrák
+Céges rendezvények
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

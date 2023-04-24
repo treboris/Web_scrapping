@@ -1,0 +1,83 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Software Developer for Software Defined Network Controller 
+Senior Software Developer for Software Defined Network ControllerFREQUENTIS Solutions & Services s. r. o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+2 900 EUR/monthMinimum 2 900 EUR brutto. Freelancer´s hourly rate upon agreement. The final basic wage component will be adjusted to individual skills and experience of selected candidate.
+Information about the position Job description, responsibilities and dutiesWould you like to create an exciting technology and work with other enthusiastic developers?Bratislava-based FREQUENTIS Solutions & Services s.r.o.  belongs to the Austrian FREQUENTIS group (www.frequentis.com), specialized in mission-critical communication and IT solutions, e.g. in air traffic control, public safety or defense.Join our product development team for FREQUENTIS NetBroker, our open standards-based software defined networking (SDN) controller tailored for air traffic management (ATM). Work for an international technological leader and enjoy the benefits of flexible working arrangements and our focus on a good work-life balance.Who We Are Looking For?We are looking for you, if you are a talented and senior software developer who likes to work in a well-structured Scrum-based product development team.Your Next Project – FREQUENTIS SDN productFREQUENTIS Solutions & Services s.r.o. oversees the development of the FREQUENTIS SDN product, an open standards-based software defined networking (SDN) controller tailored for air traffic management (ATM) networks. Combining real-time performance information from the network with application needs and pre-defined mitigation scenarios, it enables converged networks serving all applications – from safety-critical to administrative. It fills the technical gap between conventional IP networks and the very specific and heterogeneous requirements of different ATM applications.Your main tasks in the project will be:•	Work closely with the responsible NetBroker product owner•	Analyse requirement specifications and design their technical implementation in the product•	Implement selected development tasks yourself•	Manage development process in JIRA•	Develop unit and end-to-end tests of the product•	Ensure all work is executed according to ATM software quality assurance standardsYour Technical Skills and Knowledge :•	Java 8 or newer (IntelliJ IDEA)•	Linux basics•	any Version Control System (Git, SVN… )Following technologies are of advantage:•	General networking concepts (routing, switching)•	Python3•	C•	Configuration of CISCO network devices (IOS-XE, IOS-XR)•	Docker, Git, Maven, Jenkins•	JIRA, JAMA requirements and test managementIt’s not a problem if you don’t know them right now, but you should be willing to learn them on the go. Employee perks, benefits•	Training and development program (business and product trainings, language course)•	Flexible working hours, home office•	Employee referral program – you get a bonus if we hire somebody you referred•	Refreshments, company & team events•      Meal vouchers fully reimbursed by the company•      Multisport card•      Pension scheme contribution (DDS) Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Educational SpecializationInformation Technology, TelecommunicationsLanguage skillsEnglish - Upper intermediate (B2)Other knowledgeJava 8 (IntelliJ IDEA) - AdvancedLinux - Basicany Version Control System (Git, SVN… ) - SkillfulPersonality requirements and skills•	You are willing to learn new technologies and update your knowledge base when needed.•	You are paying attention to detail which is vital for developing mission critical software.•	You are flexible, self-driven, dedicated, goal-oriented and structured in how you approach your work.•	You like to work in a well-structured development environment, which aims to fulfil the highest standards regarding quality and safety.•	You can independently design and develop software modules.•	You are communicative and like to meet new people, listen and mentor our junior engineers, collaborate and find agreements with your senior colleagues and can network within the FREQUENTIS group.•	You can integrate yourself into a larger cooperation, following corporate processes and recognizing constraints that may affect your work. Advertiser Brief description of the companyOur Bratislava-based company FREQUENTIS Solutions & Services is part of the Austrian FREQUENTIS group (www.frequentis.com). We are a leading global supplier of communication and information solutions for safety-critical applications, such as for air traffic control towers, public safety control rooms (112) or air defense forces. Our mission-critical solutions cover diverse areas, such as telephony and radio communication, Geographical Information Systems (GIS), incident and resource management, video surveillance and automatic video analytics.
+FREQUENTIS Solutions & Services is specialized in software development and project delivery. Together with our parent company we are developing FREQUENTIS’ next generation control room solutions, using state-of-the-art technologies and processes. Our delivery teams then deploy those solutions at our customers around the globe, with responsibility for commercial and technical project management, engineering and quality assurance.
+To grow our team, we are constantly looking for talents in all these fields. Our company offers an interesting and challenging technical environment, a people-focused culture with emphasis on a good work-life-balance and, if desired, a long-term development and career opportunities.
+For our customers, lives may be at stake and seconds count. Our solutions thus need to be developed to the highest standards when it comes to usability and reliability. Safety is what guides us from the first designs till the final tests of any of our solutions. If those are the kinds of challenges that excite you, then you have come to the right place! Number of employees150-199 employees ContactContact person: Ing.  Eva LajchováE-mail: send CV
+All company jobs
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4242331 
+     Dátum zverejnenia:  17.4.2023 
+    2023-04-17
+lokalita: Remote work   Pozícia: Backend developer, Java Programmer, Programmer, Software Engineer   Spoločnosť: FREQUENTIS Solutions & Services s. r. o.   
+Základná zložka mzdy (brutto): 2 900 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

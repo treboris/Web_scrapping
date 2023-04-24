@@ -1,0 +1,34 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+With key markets in the Netherlands, the UK, and the US, as well as growth markets in China, Brazil, and Iberia, our international partner supports one of the largest financial services groups, by offering IT, finance, risk, model validation, actuarial, audit, and asset management services.
+A diverse workforce and an inclusive culture are fostered by our partners. They value diversity as a whole, including but not limited to, racial, gender, and ability diversity as well as diversity in language, culture, beliefs, age, origin, background, perspectives, and experiences.
+The following challenges await our new Senior Test Coordinator
+- Write, design, and execute automated tests by creating scripts that run testing functions automatically- Maximize test coverage for the most critical features of the systems- Write documentation for automated processes including test plans, test procedures, and test cases- Assist in building test automation frameworks and setting up Continuous Integration- Coordinate and communicate the test plan and scope with multiple country units and stakeholders- Leading the QA team and designing QA Test procedures- Implementing testing procedures and overseeing the QA process- Troubleshooting quality issues and modifying test procedures- Ensuring the successful deployment of the product into the production- Lead POC and with analytical assessment, choose the tool best ﬁt to test requirement- To lead, guide and monitor the analysis, design, implementation, and execution of the test cases- Schedule tests for execution and monitor, measure, control, and report on the test progress- Write test summary report on test status- Arrange for stakeholder approval on testing results- Participate in initiatives, projects and work within an agile environment
+                Elvárások / Requirements
+The requirements you should fulfill:
+- University degree in a related filed- Minimum of 5 years work experience in a comparable role- Expert knowledge and experience with applied methodologies and processes within the field of Test Execution- Scheduling and compiling an integral test planning- Experience on global project scale - Experience with test execution of end-to-end reporting chains in large organizations with multiple locations (Financial Institutions is a pre-requisite)- Excellent English communication skills (both verbal and written) - Ability to work across multi-functional international teams- ISTQB certification- Experience with Agile methods and (implementing) test automation in various languages/platform- Experience in testing Financial Reporting (SII, IFRS and or Hyperion)
+It's an advantage if you also have:
+- Genuine interest in improving test capabilities and maturing the processes- Problem-solving skills and ability to identify and mitigate risks early on- Good communication, client relationship management and negotiation skills- Good planning, prioritizing and goal setting skills - Able to align with different nationalities, cultural aspects and a good team player- Takes ownership and the ability to challenge
+                Amit nyújtunk / Benefits
+What our partner offers:
+- Competitive salary- Comprehensive health package- Brand new office at an excellent location- Hybrid working- Opportunities for growth and advancement- A highly people centric, positive and supportive work environment
+Senior Test Coordinator 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 14.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ QA Test Automation Engineer (Pytest) 
+ Budapest  
+ Test Automation Engineer  
+ Budapest  
+ Software Test Engineer 
+ Budapest  
+ Embedded Software Test Engineer 
+ Budapest  
+ Embedded Software Systems Test Engineer 
+ Budapest  

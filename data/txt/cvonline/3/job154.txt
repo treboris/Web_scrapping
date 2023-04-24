@@ -1,0 +1,56 @@
+ÁLLÁSHIRDETÉS FELADÁS
+IT helpdesk munkatárs 
+A thyssenkrupp egy nemzetközi vállalatcsoport, amely nagyrészt független ipari és technológiai üzletágakból tevődik össze, és világszerte 96 000 embert foglalkoztat. A 2021/22-es pénzügyi évben 48 országban 41 milliárd eurós árbevételt ért el. A széleskörű technológiai know-how-ra támaszkodva az üzletágak költséghatékony és erőforrás-kímélő megoldásokat fejlesztenek a jövő kihívásaira, különösen az éghajlatvédelem, az energetikai transzformáció, az ipar digitális átalakulása és a jövő mobilitása terén.
+Magyarországi kompetencia központunkban közel 1000 fős mérnökcsapatunkkal innovatív partnerként vagyunk jelen az autóipar egyik leggyorsabban és legizgalmasabban fejlődő szegmensében, az elektromechanikus kormányrendszerek területén. Kiemelkedő minőségű, high-tech fejlesztéseinkkel neves autógyárak igényeit elégítjük ki, fejlesztéseink pedig a világszerte autóba szerelt kormányrendszerek 25 százalékában megtalálhatóak. Mérnökeink olyan ma még nem létező megoldásokon is dolgoznak, amelyek megváltoztathatják az autóipar jövőjét.
+ Tasks / Feladatok
+Felhasználói bejelentések fogadása, incidensek kezelése, megoldása
+Felhasználói azonosítók létrehozása, jogosultságkezelés a különböző rendszerekben
+Számítógépek, IT eszközök telepítése, üzembe helyezése telephelyeinken
+Egyszerűbb IT jellegű hibák elhárítása
+Egyszerűbb IT rendszerek üzemeltetése
+Mobiltelefonok kezelése, menedzsmentje
+Felmerülő adminisztrációs feladatok ellátása
+Egyéb a helpdesk munkájába tartozó operatív feladatok ellátása
+ Requirements / Elvárások
+Középfokú végzettség 
+Hasonló területen szerzett tapasztalat
+PC hardware ismeret
+Adminisztrátori tapasztalat Windows 7/10 rendszerek területén
+Középfokú angol nyelvtudás
+Nagyon jó kommunikációs képesség mind szóban, mind írásban
+Nyitott személyiség
+Határozottság, önálló munkavégzés, rugalmasság
+Tudásvágy, tanulékonyság
+B kategóriás jogosítvány
+Előny:
+Felsőfokú végzettség
+Microsoft környezetek, hálózati protokollok, technológiák ismerete (AD, DNS, DHCP, SMTP, TCP/IP, Ethernet)
+ Offer / Ajánlatunk
+A XI. kerületben található modern irodaházunkban kreatív környezetben dolgozhatsz, ahol sok színes közösségi tér, saját moziterem és egy skybar is vár
+Versenyképes fizetést és széleskörű juttatásokat (cafeteria és bónusz) biztosítunk számodra
+Részese lehetsz egy sikeres, gyorsan növekvő technológiai vállalatnak
+Új nyelveket tanulhatsz nálunk (5 nyelv közül választhatsz)
+Szabadidős programokon kapcsolódhatsz ki (társasjátékok, sportolási lehetőség)
+Jelentkezem
+Elmentem az állást
+IT helpdesk munkatárs 
+Jelentkezem
+Elmentem az állást
+thyssenkrupp Components Technology Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Főiskolai végzettség 
+Frissítés dátuma: 14.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Test Engineer (Jira) 
+ Budapest  
+ Warranty data analyst 
+ Budapest  
+ IT DevOps Engineer 
+ Budapest  
+ Szoftverfejlesztő mérnök - Beágyazott rendszerekhez (Szeged) 
+ Szeged  
+ English Speaking IT helpdesk 
+ Budapest  

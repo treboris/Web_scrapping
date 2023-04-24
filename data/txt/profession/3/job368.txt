@@ -1,0 +1,71 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Senior Cloud DevOps Engineer
+Bónusz
+Unisys
+Budapest
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Távmunka, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+We are a global information technology company that builds high-performance, security-centric solutions that can help change the world. Enhancing people’s lives through secure, reliable advanced technology is our vision.
+At Unisys, we believe in better!  Here, you have the opportunity to learn new skills, apply your expertise, and solve complex problems with cutting-edge technologies and solutions. You are part of a global diverse team that supports you, drives change, and delivers successful results consistently.
+Our associates are at the forefront of everything we do, driving our clients’ successes while giving back to communities and making this world a safer and more secure place to live and work.  Our success is a direct result of the work of our people who live and breathe our Core Beliefs. Simply put, we believe in better lives.  Join us!
+Senior Cloud DevOps Engineer
+On the Unisys Cloud DevOps team, you’ll have the opportunity to manage the complex challenges of scale which are unique to the cloud, while using your expertise in coding, algorithms, complexity analysis and large-scale system implementation.
+We encourage our DevOps Engineers to use their imagination and creativity to solve today's and tomorrow’s cloud challenges. We believe in investing in our people pays dividends and drives the future of the cloud.
+Our DevOps team is driven by a culture of diversity, the passion to learn and be curious, creative problem-solving, and a vision for the future of the cloud that includes our people.
+As a Senior Cloud DevOps Engineer, you get the opportunity to work in an international environment where DevOps is a strong part of the culture and vision. You will get to work in a strong team of multiple DevOps Engineers where you are needed to maintain scalable architecture solutions using cloud providers such as AWS and Azure. Your role as a Senior Cloud DevOps Engineer is to support your peers with your knowledge of Cloud, Automation, Infrastructure as a code, Sysops and DevOps.
+As a Senior Cloud DevOps Engineer, you must work closely with development teams in supporting them to implement and automate systems and architectures.
+Responsibilities:
+Build functional systems that improve our customers' experience, mainly in the cloud and micro-services areaDeploy cloud platform infrastructure-related changes, maintain the existing code, identify production issues, and do the necessary modification according to the business needsWork with application/product teams to identify and implement self-service capabilitiesDeploy updates and fixes for the cloud platform and underlying services using TerraformEnsure that systems are safe and secure against cybersecurity threats using Prisma Cloud, TerraScan and CheckovDevelop scripts to automate Datadog visualizationTest and examine code written by others and analyze results using SonarQubeProvide Level 3 technical supportPerform root cause analysis for production errorsInvestigate and resolve technical issues
+You will be successful in this role if you have:
+First, you should have practical knowledge of cloud and container technologies. Also, you should have a good understanding of development processes and practices, like CI/CD and must have Professional knowledge of cloud computing, in particular AWS/Azure, and of topics like infrastructure as code, etc.
+Key qualification:
+Mandatory2+ years experience in DevOps Engineer/Software Engineer/Automation Engineer position using CI/CD toolsHands-on experience in public cloud infrastructure (AWS and/or Azure)Good understanding of Source Control Management especially GitlabHashiCorp Terraform knowledge and experienceFluency in English BeneficialCloud-related certifications at a Fundamental level. Professional will be plusHashiCorp Vault experienceSolid knowledge of RedHat/Centos Linux systemsExperience with Kubernetes in the production environmentUnderstanding YAML as it is the standard language for many solutionsKnowledge of any repository/binary manager like Artifactory, Nexus
+What do we offer?
+Hybrid working - 8 days/month working from one of our offices (Westend or BudapestOne)Monthly gross 35.000 HUF cafeteria - regardless of your weekly working hoursPrivate Health Insurance - Generali Premium Package provided for all Unisys associatesHome office allowanceExchange loss stop - on top of your monthly salary, each month you will receive an additional compensationYearly bonus - 15% based on your individual and company performanceLast and foremost, a great team, also a lot of learning and training opportunities
+Sector(s):
+IT Operation, Telecommunication
+Network and System Engineer
+IT Development
+Programmer, Developer
+IT Consultant, Analyst, Auditor
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Távmunka, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+1-3 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

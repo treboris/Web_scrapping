@@ -1,0 +1,78 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFullstack Senior Software Engineer 
+Fullstack Senior Software EngineerSportradar
+Place of work
+Jurkovičova Tepláreň, Bottova, Old Town, Slovakia, Bratislava (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 4 000 EUR/month
+Information about the position Job description, responsibilities and dutiesJob DescriptionImagine being part of one of the most supportive communities you will encounter in your professional career. Imagine the company where ‘teamwork’ is not just a buzzword, but one of the core values of each employee. Imagine the place with huge emphasis on building own services using the quality-focused engineering practices and cloud-first principles. The place where you can become great at things you’re currently good at. All that while maintaining work‑life balance.The ‘Odds Tribe’ in Sportradar offers popular trading services, used by over 200 organizations worldwide. Our team of experts manage betting probabilities using our leading edge mathematical models. Our clients can control their own sportsbooks in web interfaces, configuring everything from event and odds creation to market monitoring and result confirmation.At Sportradar, we are committed to building a diverse and inclusive culture and community. We partner with organizations and serve a customer base that is widely diverse. To best meet the needs of our partners and customers, we believe in ensuring our current and future employees feel empowered to bring forward their unique selves, opinions and viewpoints.Join our team and become a part of the global, fast-growing success. THE CHALLENGE:  Use ATDD/BDD techniques in your daily workUse AWS, Kubernetes, and GitLab CIBuild high performance services/products on top of our real-time sports data collected 24/7 globally for more than 30 different sports.    A real opportunity to influence the design and technology  Become a domain expert in the exciting world of real-time hi-tech sports dataCreate modern web frontends using React and TypescriptYOUR PROFILE:  You are a developer who likes solving challenging problems and being focused at work. Learning is a natural part of your workday. You enjoy collaborating with a diverse group of people, you are passionate about what you do, have a high interest in keeping up with current best practices in your areas of expertise and you look at programming languages as tools and not constraints. You are curious about both technology and people. You acknowledge that the most complex problems are really people based. Besides of all of that you’re not afraid to go out of your comfort zone. Required:  A test-first mindset where your values are aligned with engineering quality practicesStrong programming skills enabling you to deliver software with high performance, availability, and throughput   Experience with object-oriented programming languages, preferably JavaA track record of delivering React-based applications to the customersDevotion to clean code/architecture principlesA personal interest in keeping up with the general trends of software product development  A can-do attitude, take pride in own work and an ability to keep up momentum Desirable experience:Worked in Agile development teams Cloud based services from AWS  Distributed systemsDocker, Kubernetes  Protobuf & GRPC  Additional InformationSportradar is an Equal Opportunity Employer. We are committed to encourage diversity within our teams. All qualified applicants will receive consideration without regard to among other things, your background, status, or personal preferences Employee perks, benefitsOUR OFFER:  A collaborative environment with colleagues from all over the world (Engineering offices in Europe, Asia and US).  Involvement in shaping your own workday and career through high degree of freedom to choose technology and your personal development.  The opportunity to work and develop within an inspiring and fast-growing company. The possibility to help shaping the future of Sportradar. All developers are directly contributing to products used by our clients in the global sports business.  A company culture that promotes kindness, sports, physical exercise and teamplay.  Competitive salary and benefits (e.g. retirement pension and insurance plan)  Possibility to work from home office when needed.  Vibrant Women in Tech community and Sportradar Pride group inside the company inclusive for everyone to participate in Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2) Advertiser Brief description of the companySportradar is a global leader in understanding and leveraging the power of sports data and digital content for its clients around the world. We provide cutting-edge solutions and services to media companies, bookmakers, sports federations and state authorities. Number of employees1000 and more employees 
+ ContactContact person: Pavel MatuškaE-mail: send CV
+All company jobs
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4551311 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Bratislava   Pozícia: Backend developer, Frontend developer, Process Engineer   Spoločnosť: Sportradar   
+Základná zložka mzdy (brutto): 4 000 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

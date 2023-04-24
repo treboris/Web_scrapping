@@ -1,0 +1,95 @@
+Belépésálláskeresőknek
+IT Operation, Telecommunication
+System operator, Maintenance Staff
+Budapest
+Budapest
+System Engineer TAM
+KBC Group Magyarországi Fióktelepe
+1095 Budapest, Lechner Ödön fasor 9.
+ Elvárt technológiák
+‘DEVOPS’
+DEVOPS
+TESTING
+VMWARE
+WINDOWS
+LINUX
+ORACLE
+POSTGRESQL
+ Módszertanok és szoftverek
+Testing
+Troubleshooting
+Biztosított eszközök
+Windows
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol felsőfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elvárt technológiák
+‘DEVOPS’
+DEVOPS
+TESTING
+VMWARE
+WINDOWS
+LINUX
+ORACLE
+POSTGRESQL
+ Módszertanok és szoftverek
+Testing
+Troubleshooting
+Biztosított eszközök
+Windows
+KBC Group Magyarországi Fióktelepe
+System Engineer TAM
+Csatlakozz jó hangulatú csapatunkhoz!
+KBC Group, the parent company of the Hungarian K&H Bank, is a leading European financial group with a focus on providing bank-insurance products and services to retail, private banking, SME and mid-cap clients, in our core countries: Belgium, Czech Republic, Slovakia, Hungary and Bulgaria.The KBC Services and Infrastructure division (SIN) decided on a nearshore HR strategy based on 2 locations: the core internal workforce is based in Belgium and in Hungary. Therefore not only our services are international, but also our teams.Our responsibilities range from day-to-day operation to application development and its operation.We are constantly expanding the Hungarian side of the team, which is why we are looking for enthusiastic, motivated new employees with junior, medior or possibly senior work experience. As a TAM engineer you will often be the ‘face’ of underlying infrastructure services, so a customer-centric mindset, good communication skills and some level of diplomacy is crucial.As current TAM activities represent an important part of the ‘Ops’ in ‘DevOps’, the TAM teams will also play an important role in evolving our KBC IT organization towards a more DevOps way of working, assisting Dev teams in consuming automated/self-provisionable infrastructure assets and consulting Infra teams towards more/better automation of infra services.From a process point of view, we are mainly active in the change/release, incident/problem, DRP/BCM processes and play an instrumental role in operating, evolving and testing these processes. As the TAM teams are maintaining infrastructure services for business critical ‘24/7’ applications, some aspects of the work need to happen outside business hours or during the weekend. We are also running a 24/7 on-call duty to which you will be added once you have reached the required expertise/environmental knowledge levels to operate more independently.   What you can expect working with us:You can make sure your future career is steady within our companyLife-long learning and plenty of opportunities to challenge yourselfCompetitive salary as well as other benefits such as:10% customizable cafeteria, annual performance-based reward, company phone with mobile internet, that you can use for private purposes as wellemployee discount at the bankMedicoverYour English language skills won’t be worn out as you can use it on a daily basis Flexible schedule as we don’t use ‘Clock in Clock out’ system As our focus is on teamwork we consider it important to hang out in the "open office" together, but you have the option to spend more 3 days per week working from homeWe value your insight and are always open to suggestionsInternational environment with a cheerful work atmosphereGreen office in Millennium Park, equipped with:bicycle storage and showersrestaurant with panoramic views over the Danube and the National Theatrefree coffee and snacks in our community area where we hang out and play darts, and have many other dining options in the surrounding area  What we expect from You: QualificationsBS in Computer Science or equivalent combination of technical education and work experience.(very) good understanding of English, both spoken & writtenExcellent analytical and troubleshooting skills.You are assertive, convincing and diplomatic at the same time. You have strong organizational and self-management skills. You love taking ownership and you have a high level of autonomyYou also have strong communication skills, both for interacting with your colleagues and with your internal customers/stakeholdersYou are well acquainted with online collaboration tooling & according mindset Technical expertiseThe job of a TAM engineer is very diverse, spreading across a wide array of technical skills/expertise. We don’t expect all engineers to master all below aspects in depth (from the start), but as a team we support each other and continuously evolve our individual skills through peer-learning.VMWareBladeLogicNetBackupWindows ServerRed Hat Enterprise LinuxUAC schedulingWebSphere/WebsealConnect:Direct and UDMOracle/PostgreSQL/(Sybase)    What you can expect during the recruitment process:After sending your CV in English, expect a two-round interview process, one online in English with the Belgian team leader, and the other at our office in Budapest (in Hungarian) to get to know each other betterAn efficient selection process is important for both of us, so we try to make it as fast as possible, and even if you are not selected we will give you a detailed feedback.
+Sector(s):
+IT Operation, Telecommunication
+System operator, Maintenance Staff
+Telecommunication
+How to apply/ contact information
+Please click the Apply button to send your application.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol felsőfok
+1-3 év szakmai tapasztalat
+Egyetem
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+KBC Global Services NV Magyarországi Fióktelepe
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+50-100 munkavállaló
+2008
+1095
+Budapest,
+Lechner Ödön fasor 9.
+Értékelések a(z) cégről
+Értékelések kategória szerint 
+3,8
+Megközelíthetőség 
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

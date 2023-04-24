@@ -1,0 +1,107 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie prácePHP Developer  
+PHP Developer Topforsport s.r.o.
+Místo práce
+Práce z domu
+Druh pracovního poměru
+plný úvazek
+Termín nástupu
+podľa dohody
+Mzdové podmínky (brutto)
+Od 3 000 EUR/měsíc
+Informace o pracovním místě Náplň práce, pravomoci a zodpovědnostiPridaj sa k nášmu vývojovému tímu! Pracujeme v tíme zloženom zo 6 vývojárov (backend a frontend), podpory, analytikov a projektového manažéra. Budeš súčasťou celého životného cyklu vývoja funkcií s priamym prístupom k množstvu spätnej väzby od zákazníkov.
+Sme Top4Sport - žijeme športom. Inšpirujeme ľudí, aby sa hýbali a posúvali svoje hranice. Spoločne, ako tím.
+Náplň práce:
+-Budeš sa starať o naše e-shopy alebo náš administratívny systém, máme zoznam úloh, z ktorých si vyberieš podľa tvojich preferencií a našich priorít
+-Budeš sa podieľať na vyvoji nových funkcií a v prípade potreby upravovať niektoré existujúce
+-Staneš sa súčasťou celého životného cyklu vývoja s priamym prístupom k spätnej väzbe od zákazníkov
+Koho hľadáme:
+-Skúsených backendových vývojárov. Hľadáme niekoho, kto už niekoľkokrát prešiel celým vývojovým procesom, pracoval v tíme a realizoval alebo podporoval vlastné alebo aj cudzie projekty
+-Samostatnú a proaktívna osobnosť, na ktorú sa vieme spoľahnúť pri praci z domu
+-Kolegu s komunikatívnou angličtinou, ktorý sa zvládne dorozumieť aj s našimi kolegami zo zahraničia
+Naše technológie:
+-Frontend: JavaScript, SaSS a Bootstrap, Latte templates, webpack, gulp, Vitejs, rollerup
+-Backend: PHP 8+, Nette 3+, Symfony 6+, MariaDB, ElasticSearch
+I-né: phpstorm, phpstan, phpfixer, php tester, gitlab, docker, kibana, composer, cypress
+-Snažíme sa pracovať so štvrťročnými cieľmi, projekty spravujeme v Redmine a prechádzame na Jira
+-Klient je interný a všetci sa poznáme osobne. O komunikáciu medzi tímom a klientom sa však zvyčajne stará projektový manažér.
+Výberové konanie:
+Daj nám vedieť ak ťa pozícia zaujala a my sa ti obratom ozveme. Máme len jedno kolo pohovorov, na ktorom sa stretneš s managerom vývojového tímu Romanom, ktorý ti odpovie na tvoje otázky.
+Pošli svoje CV alebo Linedln profil a do týždňa ti napíšeme výsledok. Zaměstnanecké výhody, benefity-Remote job
+-Full time alebo IČO
+-Výber vlastnej techniky podľa budgetu
+-Flexibilný pracovný čas a plný home office
+-Lekcie anglického jazyka
+-Zamestnanecké zľavy vo všetkých našich e-shopoch
+-Voľné vstupy na rôzne športové podujatia
+-25 dní dovolenky Požadavky na zaměstnance Pozici vyhovují uchazeči se vzdělánímstředoškolské s maturitou
+nástavbové/vyšší odborné vzdělání
+vysokoškolské I. stupně
+vysokoškolské II. stupněJazykové znalostiČeský jazyk - Pokročilý (C1) nebo Slovenský jazyk - Pokročilý (C1) nebo Anglický jazyk - Středně pokročilý (B2) Inzerující společnost Stručná charakteristika společnostiWe are a young progressive company that is becoming one of the leading European players in the sports equipment e-commerce field. In selected sports, we are building a portfolio of specialized stores that help innovate the world of sports retail. Our healthy ambitions, drive, and a wide range of products from the world’s leading brands are the everyday partner for both athletes and sports teams on their way to better performance. We aim for the highest goals on the international scene and tackle them patiently, one step at a time.
+We are 11TEAMSPORTS, TOP4FOOTBALL, TOP4RUNNING & TOP4FITNESS.
+We are TOP4SPORT, a member of the 11TEAMSPORTS Group.
+#TEAMTOP4SPORT #11TSFAMILY KontaktTel.: +421917327783E-mail: poslat životopis Poslat společnosti životopis 
+                    Doporučit nabídku známému
+ E-mail Facebook Viber Whatsapp
+ID: 4555650 
+     Dátum zverejnenia:  12.4.2023 
+    2023-04-12
+lokalita: Práce z domu   Pozícia: Backend programátor, Programátor PHP   Spoločnosť: Topforsport s.r.o.   
+Základná zložka mzdy (brutto): 3 000 EUR/měsíc
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

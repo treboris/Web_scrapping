@@ -1,0 +1,110 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Test Automation Engineer - C# állás Országos
+C#
+net
+Tesztelés állások 
+Cégleírás / Organisation / DepartmentKi a Partnerünk, aki hirdet?
+Mint független informatikai tanácsadó és szolgáltató cég, támogatják nemzetközi ügyfeleiket, rugalmas és innovatív, személyre szabott informatikai megoldásokkal. Fő hangsúly a pénzügyi és energiaszolgáltatókra, az ipari cégekre, a média és telekommunikációs vállalatokra tevődik. Jelenleg hét európai országban vannak jelen, szakmai érdemeik és folyamatos növekedésük több mint 500 munkatársuk kiváló teljesítményének köszönhető.
+Nyitott, dinamikus csapatukba keresünk most új kollégát az alábbi pozíció betöltésére:
+TEST AUTOMATION ENGINEER - C#Elvárások / RequirementsMilyen elvárásoknak kell megfelelned?
+Felsőfokú műszaki végzettség
+.NET/C# tesztelésben szerzett tapasztalat
+Teszt stratégiák és teszt tervek készítésében szerzett tapasztalat
+Törekvés a tesztelési folyamatok folyamatos javítására
+Gyors helyzetfelismerés, strukturált gondolkodás, önállóság
+Jó kommunikációs készség, dinamikus munkatempó
+Nemzetközi környezetben való kooperációs készség
+Előny amennyiben rendelkezel az alábbiakkal:
+Java technológiai ismerettel és benne szerzett tesztelési tapasztalattal
+Frontend fejlesztői tapasztalattal
+Tapasztalattal CI/CD rendszerekkel
+Jártas vagy vezetőtámogató rendszerek tesztelésében
+REST API, ZeroMQ ismerettel
+Docker ismerettel
+Amit kínálunk / OfferMilyen feladatok várnak rád?
+.NET / C# modulokhoz automatizált tesztek implementálása
+.NET / C# teszteszközök fejlesztése és karbantartása
+Részvétel a tesztstratégia kidolgozásában Vezetői tanácsadó rendszer-hez (DAS – DriverAdvisory System)
+Teszt környezet kiépítése
+Teszt specifikációk készítése 
+Kapcsolattartó / InformationMiért válaszd Partnerünket?
+Modern irodai környezetben dolgozhatsz, rekreációs szobával, sportolási lehetőségekkel
+Kiemelkedő bérezéssel és széles körű juttatási csomaggal számolhatsz (Cafeteria, 13. havi fizetés, egészségbiztosítási csomag, élet- és balesetbiztosítás)
+Náluk kötetlen munkaidő vár heti 3 nap Home Office lehetőséggel
+Lehetőséged nyílik nemzetközi projektekben való részvételre, akár külföldi helyszíneken
+Ha szeretnéd fejleszteni szakmai tudásod, ők támogatnak ebben: konferenciákon, képzéseken, oktatásokon vehetsz részt általuk és tanúsítványok megszerzésében is támogatnak
+Innovatív termékekkel, technológiákkal és megoldásokkal dolgoznak
+Támogató és jó hangulatú csapatban történik a munkavégzés
+További szakmai fejlődési lehetőséget is biztosítanak, akár több irányban is a csoporton belül: Szenior Tesztelő, Szenior Fejlesztő, Rendszermérnök
+Ha biciklivel vagy autóval járnál, náluk mindkettőt biztonságban tudhatod az ingyenes és zárt parkolóikban 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary Kft													
+Országos
+Nincs meghatározva
+ Tesztelés
+Lejárati dátum: 2023-04-26 09:30:00
+Álláshirdetés részletei
+PozícióTest Automation Engineer - C#
+Munkavégzés helye
+Országos
+MunkaidőNincs meghatározva
+KategóriaTesztelés
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

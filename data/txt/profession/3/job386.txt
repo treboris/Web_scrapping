@@ -1,0 +1,112 @@
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Rendszergazda
+Budapest
+Budapest
+Infrastruktúra mérnök (MS SQL)
+Bruttó 700e - 1,2M Ft havi bér
+Bónusz
+Sun City Software Kft.
+Budapest, XV. kerület
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Mobiltelefon
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Középiskola
+Bruttó fizetés
+700e - 1,2M Ft havi bér
+Bónusz
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Juttatások
+Mobiltelefon
+Szakmai tréningek
+Munkába járás támogatás
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Mobiltelefon
+Sun City Software Kft.
+Infrastruktúra mérnök (MS SQL)
+A Sun City Software magyar tulajdonú, 10+ éve stabilan működő Microsoft Partner tanácsadó és IT szolgáltató cég, amely ügyfelei részére az alábbi szolgáltatásokat nyújtja:
+Adattárház infrastruktúra tervezése, riportok fejlesztése, SQL szerver üzemeltetés
+On-prem (Windows) és felhős (Azure) vállalati infrastruktúrák tervezése, implementálása, üzemeltetése
+Oktatás, tanácsadás MS SQL és Windows szerver területen
+A csapat nagyon tapasztalt szakértőkből áll. Olyan szakmai tudás és tapasztalat koncentrálódik itt, ahol mindig lesz mit tanulnod. A vállalati kultúrát a tanulás és szakmai munka jellemzi. Az motivál mindenkit, hogy magas színvonalon oldjunk meg kihívást jelentő feladatokat. Nem beosztottakat, hanem együttműködő munkatársakat keresünk, legyen az illető bármilyen tudásszinten. Tanácsadói attitűd jellemez minket: ügyfelekkel állunk napi kapcsolatban. A komolyság mellett persze van idő szóviccekre is. :) A visszajelzés nem csak fontos, de el is várt, hogy mindenki adjon és kapjon is - ebből lehet emberileg és szakmailag is épülni.
+Cégünkhöz fűződik a HUG-MSSQL meetup és az SQLSaturday nevű konferencia sorozat, így aktív szereplői vagyunk a hazai adatos szakmai közösségnek.
+Ügyfeleink jellemzően közép -és nagyvállalatok, ahol komplex, nagyszámú felhasználót kiszolgáló rendszereket építünk. Ez több százezer usert, több ezer konkurens felhasználót jelent a gyakorlatban.
+Néhány tipikus projekt, amivel foglalkozunk, felsorolás szintjén:
+MSSQL környezetek üzemeltetése: magas tranzakció (30K++ TPS) és felhasználószám (3-5K++ egyidejű) - Windows Server Failover Cluster üzemeltetése és üzembehelyezése, - SQL Server Availability Group tervezése, bevezetése és üzemeltetése, - SQL Server FCI tervezése, bevezetése és üzemeltetése, - SQL Server automatizálási feladatok, - biztonsági mentési stratégia kidolgozása, - query tuning, - T-SQL fejlesztések, - PBIRS, SSRS, SSAS, SSIS környezetek tervezése, bevezetése és üzemeltetése.
+Konkrét projektek az utóbbi évekből:
+Középvállalati szektor felső szegmensében lévő vállalat részére több országra kiterjedő ERP-hez tartozó infrastruktúra kialakítása
+Szolgáltató cég számára hibrid szerveres infrastruktúra kialakítása
+Nagyvállalat infrastruktúrájának migrálása Azure-ba és Azure-ról
+Azure level 3 üzemeltetési támogatás nagyvállalati szegmensben
+3-4000 konkurens felhasználót kiszolgáló rendszer üzemeltetése
+240 ezer aktív felhasználót kiszolgáló rendszer megtervezésében való részvétel
+Tipikus napi feladatok
+Log elemzések, visszaellenőrzésekMonitoring rendszerek felügyeleteAutomatizációk, scriptek írása, optimalizálásaDokumentáció írásIncidensek elhárításaEgyeztetés az ügyfél szakembereivelEszközválasztásokAzure DevOps napi használataCode review
+Kit keresünk?
+Olyan tapasztalt szakembert keresünk, aki az alábbi ismeretekkel és tapasztalatokkal rendelkezik:Nagyvállalati környezetben szerzett üzemeltetői munkatapasztalatSQL szerver működése mélységeiben (telepítés, konfigurálás, biztonság, mentés, helyreállítás, adatbázis replikáció, stb.)Windows ClusteringHálózati ismeretek, pl. TCP offload engine beállítása, link aggregation (LACP)Virtualizáció, pl. Hyper-V, VMware telepítése és beállításaTanusítvány kérése (PKI környezetet nem kell tudni felépíteni)Jártasság MS topológiában: hogyan épül fel egy kis és egy nagyvállalatNévfeloldásokHitelesítés (AD)Powershell alapszintenVisual Studio CodeIT biztonsági tudatosság, ezzel kapcsolatos folyamatok, eszközök ismereteAlapszinten tud SQL lekérdezéseket írni, ismer olyan parancsokat például, hogy "order by", "cross apply" vagy "join"Megvan benne az igény a fejlődésre és meg akarja oldani a feladatokatÉlvezi, hogy változatos projekteken dolgozhatSzeret csapatban dolgozniSzívesen kommunikál ügyfelekkel isAnalitikus a gondolkodása, vagyis képes egy problémát részfeladatokra lebontani és azokat visszaellenőrizniNem tántorítja el az ügyeleti rendszer, készenlét, esetenkénti túlóra NyelvtudásAngolul szóban elég a társalgási szint, de minden dokumentáció angolul van, amit érteni és írni is kell tudni.
+Előny:
+Azure tapasztalat (pl. App Services, Load Balancer, Traffic Manager, Virtual Machines, subscription)Releváns Microsoft vizsgák megléte Fontos!Érzékeny adatokkal való munka miatt erkölcsi bizonyítvány szükséges a munkakör betöltéséhez.Kiválasztási folyamatA kiválasztás két körből áll, egy bemutatkozó és egy szakmai beszélgetésből.Munkavégzés módjaA pozíció alapvetően hibrid, és minden megbeszélés kérdése.A munkaidő megbeszélés szerint rugalmas, de igazodni kell az ügyfelekhez, ami általában azt jelenti, hogy 9 és 18.00 óra között dolgozunk.Ügyelet, készültség és túlóra előfordulhat - megfelelő anyagi díjazással.
+Amit kínálunk:
+Munkabér: bruttó 700-1.200.000 forint/hó, tapasztalattól függőenJuttatás: éves bónusz, képzési támogatás, házi könyvtárAz iroda a XV. kerület, Szentmihályi úton található az Asia Center irodaházában. Ez egy modern irodai környezet, amely tökéletesen alkalmas a nyugodt, ezáltal hatékony munkavégzésre, tanulásra.Az új munkatárs professzionális munkaeszközökre számíthat (notebook, monitor, füles, mobiltelefon stb.), amely a munkavégzés első napjától rendelkezésre áll, korlátlan és otthoni használattal.A bejárás is támogatott. Ha szükséges, BKV bérletet biztosítunk. A parkolás ingyenes a teremgarázsban.
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Rendszergazda
+Jelentkezés módja:
+Jelentkezni lehet a „Jelentkezem” gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Középiskola
+Bruttó fizetés
+700e - 1,2M Ft havi bér
+Bónusz
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Juttatások
+Mobiltelefon
+Szakmai tréningek
+Munkába járás támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Sun City Software Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Számítógépes programozás
+0-10 munkavállaló
+2009
+1152
+Budapest,
+Szentmihályi út 167-169. 4. em.
+Munkahelyi extrák
+Parkoló
+Ingyen kávé, üdítő
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

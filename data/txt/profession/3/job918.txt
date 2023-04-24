@@ -1,0 +1,394 @@
+Belépésálláskeresőknek
+Állások
+Önéletrajz feltöltése
+Állásértesítő készítése
+CV készítő
+Cégek Új
+Részletes keresés
+Rendszertervező állások, munkák
+53 db találat 
+Szűrés
+Backend fejlesztő (C#)
+Profession Services
+7634 Pécs 
+C# nyelven írt platform fejlesztése és karbantartása Együtt kell működnöd a Product Ownerekkel (dániában és magyarországon egyaránt) A meglévő megoldások fejlesztése és átalakítása az új követelményeknek való megfelelés és az új technológiák adaptálása érdekében SW architektúra j...
+Extra juttatások
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Apr. 17.
+Állás megtekintése
+ Mentés 
+April 17.
+Senior java fejlesztő
+Profession Services
+Otthonról végezhető
+egy olyan csapat része leszel, akik agilis módszertanokat alkalmazó szoftvermegoldások fejlesztéséért és bővítéséért felelősek tervezni, designolni, implementálni és tesztelni gyakran és nyíltan kommunikálni csapattársaiddal különböző ötletekről, problémákról és azok megoldásairő...
+Szakmai tréningek
+Nyelvtanulás támogatása
+Programozó, Fejlesztő
+Távmunka
+Home office
+Általános munkarend
+Angol - középfok
+Apr. 17.
+Állás megtekintése
+ Mentés 
+April 17.
+IT Vezető - Ajka
+EcoFamily
+Ajka
+A cég informatikai és telekommunikációs rendszereinek költséghatékony működtetését, folyamatos fejlesztését végzed. IT biztonsági protokollt beállítasz, kezeled és felügyeled. 13 fős IT osztály napi munkáját szervezed, irányítod, felügyeled. Üzletnyitással, átalakítással kapcsola...
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+ma 16:41
+Állás megtekintése
+ Mentés 
+ma 16:41
+Rendszerszervező
+IDBC Creative Solutions Kft.
+Budapest
+Backend komponensek fejlesztésében való részt vétel Az üzleti területtel és a fejlesztőkkel szorosan együttműködve a legoptimálisabb IT megoldások megtervezése, illetve kivitelezése Fejlesztők támogatása IT területen belüli feladatok end to end menedzselése Szakmai döntés-előkész...
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+tegnap 10:20
+Állás megtekintése
+ Mentés 
+tegnap 10:20
+Spóroljon időt!
+Böngéssze a kimondottan Önre szabott, átlag jelentkezői bérigényt is feltüntető álláslistát a Profession Prémium segítségével!
+Kipróbálom díjmentesen
+Rendszerszervező (befektetési terület)
+Legyen az első 5 jelentkező között!
+Raiffeisen Bank Zrt.
+Budapest
+Feladatod lesz a Bank befektetési rendszereivel kapcsolatos fejlesztések koordinálása, követelmények összeállítása, Funkcionális specifikációk, logikai rendszertervek készítése. Te fogod koordinálni a fejlesztést az üzleti igény létrejöttétől az élesítésig, menedzseled az érintet...
+Cafeteria
+Tech stack
+Rendszertervező
+Általános munkarend
+Angol - alapfok
+ma 16:10
+Állás megtekintése
+ Mentés 
+ma 16:10
+Rendszerspecialista
+Mathias Corvinus Collegium Alapítvány
+Budapest, XI. kerület
+Az Egyetemi Program informatikai rendszereivel kapcsolatos fejlesztések koordinálása A fejlesztések ütemezésében való aktív részvétel, teljeskörű nyomon követése, adminisztrációja és kontrollja A jelenlegi rendszerek továbbfejlesztésével kapcsolatos szakmai javaslattétel, specifi...
+Projektmenedzsment
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 14:20
+Állás megtekintése
+ Mentés 
+ma 14:20
+Developer / Platform engineer (JTD)
+Tech People Hungary Kft.
+Budapest, V. district
+Select and introduce new tools and teach developers how to work with them. Interpret the results and implement new workflows in development teams, together with your teammates. Support programmers by scripting and configuring all kinds of tools. Introduce new tools and process...
+Tech stack
+Rendszertervező
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 13:44
+Állás megtekintése
+ Mentés 
+ma 13:44
+Solution Architect (JF)
+Legyen az első 5 jelentkező között!
+Tech People Hungary Kft.
+Budapest, Vienna 
+Design different re-usable components like APIs / Microservices. Identify functional blocks Actively support the delivery to the realistic estimations in terms of work to be done, efforts, and timelines Be active part of sprint work, supporting engineers with what is needed to d...
+Tech stack
+Rendszertervező
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 12:50
+Állás megtekintése
+ Mentés 
+ma 12:50
+Cloud architect
+Invitech ICT Services Kft.
+Budapest I., X. kerület
+Cloud szolgáltatáshoz kapcsolódó hálózat-, infra- és platformtervezés Multi- és hibridfelhő topológiák tervezése Legacy, monolitikus architektúra tranzíció támogatása Omnichannel, különös tekintettel az ecom/digital sales csatorna folyamataival való harmonizálás Paas képességek g...
+Extra juttatások
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 11:15
+Állás megtekintése
+ Mentés 
+ma 11:15
+It rendszerszervező
+Ganz Motor Kft.
+1089 Budapest
+Ha egymást választjuk, az alábbi feladatai lesznek nálunk: vállalatirányítási rendszer admin szintű üzemeltetése felmerülő szoftverhibák analizálása, kapcsolattartás a fejlesztő cégekkel a hibák elhárítása céljából rendszerfejlesztési feladatok előkészítése, kidolgozása (igény me...
+Extra juttatások
+Tech stack
+Rendszertervező
+Alkalmazotti
+Rugalmas munkaidő
+ma 07:33
+Állás megtekintése
+ Mentés 
+ma 07:33
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek!
+Rendszerszervező
+Barré Technologies Zrt.
+Budapest, IX. kerület
+Így fognak telni a napjaid bevezetések során: Ügyfél technikai igényeit felméred és folyamatosan egyeztetsz az ügyféllel A technikai igényeket dokumentálod - elkészíted a logikai és fizikai rendszertervet, ami tartalmazza, hogy mit szeretne az ügyfél és azt hogyan valósítjuk meg...
+Szakmai tréningek
+Rendszertervező
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 00:40
+Állás megtekintése
+ Mentés 
+ma 00:40
+Rendszerszervező / üzleti elemző
+NORG Kft.
+1055 Budapest, Stollár Béla utca 4.
+Kapcsolattartás a megrendelők üzleti területeivel, ügyféligények felmérése, megértése Megrendelő által adott igények, követelmény-specifikációk alapján megoldási javaslatok készítése Megoldási javaslatok visszamutatása, egyeztetése, véglegesítése Fejlesztési feladatok specifikálá...
+Rendszertervező
+Home office
+Alkalmazotti
+Általános munkarend
+tegnap 19:05
+Állás megtekintése
+ Mentés 
+tegnap 19:05
+Integration Architect
+Legyen az első 5 jelentkező között!
+MKB Bank Nyrt.
+Budapest
+Konkrét alkalmazás integrációs igények elemzése Megfelelő integrációs technológia /minta kiválasztása; dokumentálása és prezentálása Interfészek tervezése, kialakítása Együttműködés integrációs fejlesztőkkel/üzemeltetőkkel/enterprise architectekkel Istio – service mesh konfigurác...
+Rendszertervező
+Általános munkarend
+Angol - középfok
+tegnap 18:05
+Állás megtekintése
+ Mentés 
+tegnap 18:05
+Software Engineer
+Legyen az első 5 jelentkező között!
+Unisys
+Budapest
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based or Internet-related computer programs. Code may be used in commercial or end-user applications, such as materials management, financial management, HR...
+Bónusz
+Extra juttatások
+IT tanácsadó, Elemző, Auditor
+Távmunka
+Home office
+Általános munkarend
+Angol - középfok
+tegnap 15:55
+Állás megtekintése
+ Mentés 
+tegnap 15:55
+IT Front-end rendszerszervező (medior)
+OTP Bank Nyrt.
+Budapest
+Stratégiai szempontból kulcs fontosságú Front-end rendszerek fejlesztési igényeinek felmérése, elbírálása, végrehajtása agilis környezetben, Aktív közreműködés a felhasználói igények felmérésében, specifikációjában, véleményezésében, Front-end képernyők tervezése Blockly alapú, s...
+Szakmai tréningek
+Nyelvtanulás támogatása
+Tech stack
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+tegnap 15:05
+Állás megtekintése
+ Mentés 
+tegnap 15:05
+Rendszerfejlesztő
+Legyen az első 5 jelentkező között!
+GYSEV Zrt.
+Sopron
+Már meglévő informatikai alkalmazások továbbfejlesztése, új alkalmazások fejlesztése, dokumentálása (rendszerterv, programdokumentáció, kezelési utasítás). Felhasználókkal történő kapcsolattartás. A már meglévő, ill. az új alkalmazások működtetése, folyamatos Informatikai rendsze...
+Extra juttatások
+Programozó, Fejlesztő
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Német - középfok
+tegnap 14:50
+Állás megtekintése
+ Mentés 
+tegnap 14:50
+Senior Rendszerszervező - Lakossági fedezetlen hiteligénylés rögzítő- és elbíráló rendszer
+Legyen az első 5 jelentkező között!
+MKB Bank Nyrt.
+Budapest
+A tervezés során megérti és megismeri az üzleti igényeket, folyamatokat, felméri a szükséges funkcionális és nem funkcionális igényeket, majd ezek ismeretében megírja a szoftverkövetelmény specifikációt A Beszállítóval közösen véglegesíti a fejlesztési igényt, a végleges igényt a...
+Rendszertervező
+Általános munkarend
+Angol - középfok
+tegnap 13:05
+Állás megtekintése
+ Mentés 
+tegnap 13:05
+Rendszerszervező (digitális csatornák)
+Legyen az első 5 jelentkező között!
+Raiffeisen Bank Zrt.
+Budapest
+Csoportszintű, digitális csatornákat érintő nemzetközi háttérrel rendelkező projektben való részvétel.   Új digitális csatorna és a hozzá kapcsolódó jogosultsági rendszer kialakítása során az igények formálása, dokumentálása és egyeztetése a különböző érdekeltekkel. Az igények me...
+Cafeteria
+Tech stack
+Rendszertervező
+Általános munkarend
+Angol - középfok
+tegnap 12:10
+Állás megtekintése
+ Mentés 
+tegnap 12:10
+Rendszerszervező (online ügyfélkiszolgálási rendszerek)
+Legyen az első 5 jelentkező között!
+Raiffeisen Bank Zrt.
+Budapest
+A szervezői munka során feladatod lesz a társterületek támogatása az üzleti igények kialakításában, a rendszert érintő követelmények azonosítása és azok dokumentálása. Több rendszert érintő változás esetén a rendszerek érintettségének felismerése, az összefüggések kezelése és a r...
+Cafeteria
+Tech stack
+Rendszertervező
+Általános munkarend
+Angol - alapfok
+tegnap 12:10
+Állás megtekintése
+ Mentés 
+tegnap 12:10
+Junior bi fejlesztő
+Raiffeisen Bank Zrt.
+Budapest
+Számítunk Rád adatpiacok tervezésében, fejlesztésében, kiemelt figyelmet szentelve a performanciának és üzemeltethetőségnek, telepítési feladatok összeállításában és fejlesztői szabályrendszerek közös kidolgozásában, betartásában. Feladatod lesz még új és meglévő eljárások (ETL)...
+Cafeteria
+Tech stack
+Rendszertervező
+Általános munkarend
+Angol - alapfok
+tegnap 12:10
+Állás megtekintése
+ Mentés 
+tegnap 12:10
+Rendszerszervező
+MagNet Magyar Közösségi Bank Zrt.
+1062 Budapest, Andrássy út 98.
+Rendszerszervezőként részt vesz az általa koordinált rendszerhez kapcsolódó fejlesztési folyamatokban, módosítási igények felmérésében, megvalósításában; Részt vesz az elkészült fejlesztések tesztelésében, a tesztelések megszervezésében; Kapcsolattartás az üzleti területekkel, fe...
+Extra juttatások
+Termékfejlesztés
+Alkalmazotti
+Általános munkarend
+tegnap 11:40
+Állás megtekintése
+ Mentés 
+tegnap 11:40
+Informatikai rendszerszervező
+Legyen az első 5 jelentkező között!
+Raiffeisen Bank Zrt.
+Budapest
+Informatikai rendszerszervező feladata(i), hogy tanácsot adjon azoknak a felhasználóknak, akik segítségre szorulnak az üzleti és műszaki rendszerekkel kapcsolatos összetett problémák vagy problémák megértésében és megoldásában, irányítsa a szükséges, tervezett informatikai megold...
+Cafeteria
+Rendszertervező
+Általános munkarend
+Angol - középfok
+tegnap 11:10
+Állás megtekintése
+ Mentés 
+tegnap 11:10
+1
+2
+3
+Következő
+Utolsó
+Állásértesítő készítése
+Keresés mentése
+)
+Figyelem!
+A lakhatási támogatást nyújtó ajánlatokat területi szűrés nélkül listázzuk.
+A területi beállítás csak a lakhatási támogatás paraméter kikapcsolása után változtatható meg újra!
+Keresés finomítása
+IT programozás, Fejlesztés
+Rendszertervező
+Beállított szűrők
+Beállított szűrők törlése 
+Kategória 
+IT programozás, Fejlesztés
+Adatbázisszakértő  (44) 
+IT tanácsadó, Elemző, Auditor  (115) 
+IT, fejlesztési vezető  (24) 
+Product owner, -manager  (9) 
+Programozó, Fejlesztő  (276) 
+Projektmenedzsment  (110) 
+Rendszerintegrátor  (16) 
+Rendszertervező
+Scrum master  (1) 
+Tesztelő, Tesztmérnök  (82) 
+UI-, UX designer  (2) 
+Lakóhely (Megye, Város)
+Budapest  (44) 
+Baranya megye  (1) 
+Fejér megye  (2) 
+Győr-Moson-Sopron megye  (2) 
+Komárom-Esztergom megye  (1) 
+Pest megye  (6) 
+Somogy megye  (1) 
+Tolna megye  (1) 
+Vas megye  (1) 
+Veszprém megye  (2) 
+Zala megye  (1) 
+Ausztria  (2) 
+Az Ön végzettsége 
+Általános iskola  (1) 
+Középiskola  (13) 
+Főiskola  (34) 
+Egyetem  (1) 
+Az ön nyelvismerete 
+Nincs nyelvismeretem  (14) 
+Angol  (36) 
+Magyar  (1) 
+Német  (5) 
+Az Ön tapasztalata 
+Nincs tapasztalatom  (2) 
+1-3 év szakmai tapasztalat  (31) 
+3-5 év szakmai tapasztalat  (12) 
+5-10 év szakmai tapasztalat  (2) 
+Foglalkoztatás jellege 
+Teljes munkaidő  (51) 
+Távmunka  (2) 
+Home office  (20) 
+Alkalmazotti jogviszony  (34) 
+Munkarend 
+Általános munkarend  (46) 
+Rugalmas munkaidő  (5) 
+Jogosítvány 
+B  (1) 
+Cégméret 
+0-10 fő  (3) 
+10-25 fő  (5) 
+100-250 fő  (5) 
+1000+ fő  (19) 
+25-50 fő  (6) 
+250-500 fő  (4) 
+50-100 fő  (3) 
+500-1000 fő  (5) 
+Beállítások 
+Személyzeti tanácsadók hirdetései nélkül  (12) 
+Munkahely értékelése
+Munkahely értékelése
+Értékelje és mondja el véleményét korábbi vagy jelenlegi munkahelyéről. Értékelése név nélkül történik, és segítséget nyújt a munkakeresőknek ahhoz, hogy
+ideális munkahelyet találjanak. A kitöltés pár percet vesz igénybe.
+Értékelem 

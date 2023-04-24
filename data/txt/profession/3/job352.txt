@@ -1,0 +1,81 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Regionális 
+Senior Solution Architect (Customer Solution Delivery)
+Bónusz
+E.ON Digital Technology Hungary Kft.
+Budapest, Győr, Pécs
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+Nyugdíjpénztár
+E.ON Digital Technology Hungary Kft.
+Senior Solution Architect (Customer Solution Delivery)
+E.ON Digital Technology Hungary Kft. | Határozatlan idejű | Teljes munkaidős
+Hova érkeznél?
+Az E.ON Hungária csoport a nemzetközi E.ON csoport részeként a magyar energiagazdaság kulcsszereplője. A vállalatcsoport tevékenységeinek középpontjában az ügyfeleknek nyújtott komplex és kényelmet nyújtó energetikai megoldások állnak, melyek az E.ON-t az új és innovatív energiamegoldások úttörőjévé teszi.
+A Customer Solutions Delivery szervezet felelős az E.ON Hungária cégcsoport BI megoldások, a digitális ügyfélcsatorna kiszolgálási megoldások (webshop, portál, applikáció), a versenypiaci core és solutions területet érintő ügyfélmegoldások (CRM, e-mobilitás, E.ON home), illetve az energiabeszerzési megoldások szállításáért. A szervezet látja el a szükséges fejlesztések, projektek szállítását, a kapcsolódó központi termékek és helyi projektek menedzsmentjét, illetve szolgáltatás felelősként biztosítja az alkalmazások üzemeltetését. 
+Milyen témák tartoznának hozzád?
+Az információk, innovatív megoldások összegyűjtésével a komplex problémákra alternatívák kidolgozása, javaslatok készítéseAktív közreműködés az architektúra optimalizációjában, lehetőségek feltárása, javaslattétel a hatékony megoldásraÜzleti megoldások, kapcsolódások feltárása és konszolidálása, megoldások keresése, meglévő architektúrába illesztése, a szolgáltatók kiválasztásának, integrálásának támogatásaImplementálási és üzemeltetési (CAPEX/OPEX) költségek tervezése, optimalizálásaRészletes funkcionális és nem funkcionális design dokumentumok elkészítése az ügyfél igények alapjánSzakmai részterületre vonatkozóan architektúra terv készítése, azok eléréséhez szükséges lépések definiálásaIntegrációs kérdések figyelése, kezelése (egyeztetés projekten belül, valamint érintett projektek és szakmai területek között)Kockázatkezelés, kockázat felmérés, közreműködés az ellenintézkedés meghatározásában (projektvezetés, szakmai terület figyelmének felhívása)Külső szolgáltatók megoldási javaslataink ellenőrzéseA hatályos IT stratégia, architekturális koncepciók, előírások, szabályzatok, folyamatok figyelembevétele, egyeztetés a központi és lokális Enterprise Architekt egységekkel
+Elvárások:
+Legalább 5 év szakmai tapasztalat informatikai megoldások kialakításában üzleti igényekreService orientált informatikai szolgáltatási módszertan ismerete (ITIL)Projektmódszertan ismerete, több éves szakmai tapasztalat nagyvállalati szintű projektekbenKoncepcionális, analitikai, stratégiai módszertanok ismerte és alkalmazásaMagas szintű, széleskörű IT tudás a végfelhasználói támogatási területen (nagyvállalati integrált rendszerek, Microsoft Cloud megoldások stb.)Tárgyalóképes angolnyelvismeretGyakorlati és mélyebb elméleti tudás webes (pl.: .NET, PHP, Angular, React, Java) és mobilos (Android, iOS) technológiákbanÁtfogó tudás felhő technológiában (MS Azure): virtualizáció, network, storage, firewall rulesSAP R/3 ismeretSAP HANA ismeret előny
+Amit kínálunk
+#ÉvesPrémium - mely az éves fizetésed 15%-a#RugalmasMunkavégzés - home office lehetőség#MagánegészségügyiEllátás - mely korlátlanul igénybevehető#ÖnkéntesNyugdíjpénzár - nyugdíjas éveidhez az alapbéred 6%-ával járulunk hozzá#Cafeteria - széleskörű jutatási csomagból egyéni preferenciád szerint választhatsz#SzakmaiKépzések - kollégáink tudásának folyamatos frissítése, naprakészen tartása az egyéni kompetenciák és a vállalati célok mentén kiemelt fókuszt kap#TranszparensFolyamat - a bérigényedet és a lehetőségeinket az első kapcsolatfelvételkor egyeztetjük, hogy minél hamarabb kiderüljön, érdemes- e belevágnunk a kiválasztási folyamatba #InnovatívTechnológiák  #KompetensMenedzsment  #VilágosIrányvonalak  #JövőállóEnergetikaiVállalat Munkavégzés helye: Budapest, Győr, Pécs 
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Projektmenedzsment
+Kapcsolat
+El tudod képzelni magad a fenti pozícióban? Várjuk pályázatodat, alakítsuk együtt a jövő energiavilágát! Látogass el karrieroldalunkra is, ahol hasznos információkat találsz a kiválasztási folyamatunkkal kapcsolatban.
+Együtt alakítjuk a jövő energiavilágát!
+Az új E.ON vállalatcsoport az európai energiahálózatok és az energiával kapcsolatos infrastruktúra egyik legerősebb üzemeltetője, és korszerű ügyfélmegoldások szolgáltatója több mint 50 millió ügyfél számára. Összesen több mint 75 000 munkatársunk van 15 országban. Így ideális helyzetből segíthetjük elő az európai energiafordulatot. Két fenntartható növekedési területre összpontosítva, és az innogy felvásárlásával az E.ON teljes mértékben elkötelezi magát az energiavilág alapvető átalakulása mellett. Európa egyik legnagyobb energetikai szolgáltatójaként aktívan vezetjük az energiafordulatot Magyarországon és Európában. A két vállalat szakértelmének egyesítése az E.ON-t úttörővé teszi az új és innovatív energiamegoldások kidolgozásában, és lehetővé teszi, hogy az energiaszektor legtehetségesebb munkatársai dolgozzanak nálunk.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Főiskola
+Juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+Nyugdíjpénztár
+ Elküldöm magamnak
+ Értesítést kérek
+Értékelések a(z) E.ON Digital Technology Hungary Kft. cégről
+Értékelések kategória szerint 
+3,8
+Bérezés és juttatások 
+3,8
+Munkaidő és munkarend 
+4,0
+Megközelíthetőség 
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

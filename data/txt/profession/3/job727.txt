@@ -1,0 +1,68 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Tesztelő, Tesztmérnök
+Budapest
+Budapest
+Tesztautomatizáló mérnök
+Lightware Visual Engineering
+Budapest, VII. kerület
+ Módszertanok és szoftverek
+Agilis
+Scrum
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Középiskola
+ Módszertanok és szoftverek
+Agilis
+Scrum
+Cégünk egy audiovizuális termékeket fejlesztő és gyártó vállalat, amely globális szinten szolgálja ki a professzionális AV közönséget. A tárgyalótermi megoldásoktól kezdve, az AV-over-IP rendszereken át, a nagyméretű mátrixkapcsolókat beleértve több, mint 200 terméket tartalmazó portfólióval rendelkezünk. Számos neves ügyfelünk között megtalálható például a Google, Facebook, Apple és Microsoft.
+Tesztautomatizáló mérnök
+Feladatok:
+a cég által fejlesztett prémium videotechnikai berendezések vezérlőszoftverének automatizált tesztelése;meeting room-ok vagy akár teljes irodaházak automatizált vezérlését lehetővé tevő komplex szoftverek automatizált tesztelése;a tesztelési stratégiához kapcsolódóan az automatizált tesztelés kidolgozása, ütemezése és végrehajtása;az automatizált tesztesetek karbantartása;jól strukturált, igényes kód írása;fejlesztési csapat támogatása.
+Ehhez mindenképp szükséges, hogy legyen:
+legalább 3 év tesztelésben szerzett tapasztalatod:tesztesetek írásában és végrehajtásábanautomatizált tesztelésbenszakmai angol nyelvismereted;proaktív hozzáállásod;csapatjátékos beállítottságod és alkalmazkodó készséged;haladó szintű ismereted szkriptnyelvekkel (Javascript/Typescript) kapcsolatosan;tapasztalatod verzió követő rendszerrel (pl. Git, SVN, Mercurial);ismereted dependencia kezelő rendszerekkel (pl. npm, maven, gradle, pip);nyitottság az új technológiák megismerésére;szisztematikus munkavégzésed, rendszerszemléleted és analitikus képességed;objektumorientált programozási tapasztalatod.
+Mindenképpen Te lehetsz a nyerő választás a számunkra, ha:
+van tapasztalatod backend tesztelésben;van ismereted a következő framework-ök egyikében: JEST, Protactor, Cypress, Jasmine, Mocha;alakítottál már ki CI/CD pipelinet;ismered a Pythont.  Munkavégzés helye: Budapest, VII. kerület
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Tesztelő, Tesztmérnök
+JELENTKEZÉS MÓDJA:
+Vegye fel a munkaadóval a közvetlen kapcsolatot a lenti "Jelentkezem" gombra kattintva.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+LIGHTWARE Vetítéstechnikai Zártkörűen Működő Részvénytársaság
+Tudományos, műszaki tevékenység
+●
+Egyéb természettudományi, műszaki kutatás, fejlesztés
+250-500 munkavállaló
+2022
+1071
+Budapest,
+Peterdy utca 15.
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

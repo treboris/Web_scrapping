@@ -1,0 +1,65 @@
+ÁLLÁSHIRDETÉS FELADÁS
+DevOps Engineer 
+Your new company
+They are leading software and hardware provider on the emerging Vehicle-to-Vehicle and Vehicle-to-Infrastructure (V2X) communication market, with a mission to increase traffic safety and efficiency on the road. As a DevOps Engineer of the team, you will have the opportunity to build and fine-tune data intensive applications unleashing the potential of connected cars/infrastructure. In this challenging role, you’ll have the room to grow personally and professionally with the team.
+Your new role
+Optimize the product release process (CI/CD pipeline) 
+Design, create and maintain IaC (Infrastructure-as-Code) playbooks, deployments. 
+Configure, scale and set up load balancing of various open source services (Kafka, MQ Brokers, API Gateway, Kubernetes, Prometheus, etc.) 
+Design high availability and fault tolerance of the systems 
+Actively use PaaS/IaaS products and opportunities 
+Define and monitor network, routing, load balancing and security settings 
+Establish fault-tolerant release process, handling possible rollbacks 
+Monitor service components 
+Support product development by monitoring and maintaining the company’s on-premise tests, dev systems and installing test systems of a specific version 
+Design and manage, archiving and log rotation strategie 
+Design, create and monitor the network and firewall for the containerized components and the entire product 
+Monitor the efficient operation of the product and components, channel the findings back to the developers
+Create documentation and cooperate with the development team
+What you'll need to succeed
+3+ years experience in similar role 
+Relevant experience with Linux based systems 
+Knowledge of CI/CD systems (GitLab, Jenkins etc.) 
+Hands-on experience with container technologies. 
+Experience with monitoring tools (Prometheus, Zabbix, etc.) 
+Experiences with commonly used scripting languages and data exchange formats (ie.: Bash, Python, JSON, YML) 
+Solid understanding of TCP/IP networking and higher level protocols related to Web technologies (HTTP, DNS) 
+xperience with AWS services like EC2, S3 
+Readiness to work both independently and as part of a team 
+Ability and willingness to learn quickly and meet deadlines 
+Great communication skills in Hungarian and English
+What gives you further advantage:
+Experience with automations tools (eg: Ansible)
+Familiarity with build systems (Maven, Gradle, etc.)
+What you'll get in return
+Overview of market and trends in the automotive industry, Intelligent Transportation Systems (ITS), autonomous cars and the technologies that will be included in every vehicle in the following years 
+The opportunity to grow professionally in a dynamic working environment 
+A long-term career opportunity by helping to build a tech company rapidly growing on global markets (EU, US, Asia) 
+Flexible working hours, home office opportunity 
+Steady work in a cooperative and friendly team 
+Cafeteria and private health insurance 
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+DevOps Engineer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 15.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ DevOps Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  
+ Devops Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  

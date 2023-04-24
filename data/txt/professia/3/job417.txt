@@ -1,0 +1,98 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSupport Developer 
+Support DeveloperForesServices, s. r. o.
+Miesto práce
+Prievozská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiacv závislosti od skúseností daného kandidáta je požiadavka na mzdové ohodnotenie posudzovaná individuálne
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme full-stack developera pre kombináciu Angular a .NET na 2nd a/alebo 3rd Level support aplikácií pre komerčných zákazníkov u nás aj v zahraničí. Zamestnanecké výhody, benefity- stabilná a úspešná slovenská IT spoločnosť založená v roku 1996,
+- zaujímaví komerční zákazníci z celého Slovenska a veľké zahraničné projekty,
+- vzdelávanie a odborná príprava prostredníctvom pravidelných školení, workshopov a firemných meetingov, 
+- radi podporíme akýkoľvek nápad na školenie, certifikáciu a pod.,
+- príspevok 3.pilier DDS,
+- flexibilná pracovná doba,
+- možnosť využitia home office,
+- neformálna, rodinná atmosféra a super kolegovia,
+- nápoje a občerstvenie na pracovisku,
+- teambuildingy. Informácie o výberovom konaníVáš životopis odborne posúdime. V prípade veľkého záujmu zo strany uchádzačov bohužiaľ nebude možné kontaktovať každého kandidáta osobne. Preto uchádzačov o pracovnú pozíciu, ktorí spĺňajú požadované kritériá, budeme kontaktovať do 02.05.2023. Výberové konania prebiehajú štandardne formou individuálneho rozhovoru.Predpokladaný termín ukončenia výberového konania2.5.2023 (ostáva ešte 12 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaJazykové znalostiAnglický jazyk - Pokročilý (C1)Osobnostné predpoklady a zručnostiMinimálne znalosti/požiadavky
+-	Komunikatívnosť, slušné vystupovanie, trpezlivosť.
+-	Dobré analytické myslenie – hlavne kvôli identifikácii problému a práci s kódom, ktorý si sám nepísal.
+-	Treba mať dobré znalosti webových prehliadačov, hlavne ako v nich debugovať a zisťovať zdroj chyby.
+-	.NET (hlavne C#) – expert. Zaujímajú nás hlavne veci ako ASP.NET MVC, ASP.NET WebApi, Owin, async-await pattern, .NET Core.
+-	SQL (T-SQL) – expert. Ideálne je, ak sa vyznáš aj v práci s indexami a optimalizáciou dotazov pre MS SQL a SQLite databázy.
+-	HTML+CSS – pokročilý. Treba vedieť posúvať elementy o pixel požadovaným smerom a poprípade fixnúť štýly, ak v nejakom prehliadači robia neplechu.
+-	TypeScript/JavaScript – pokročilý.
+-	Angular (nie AngularJS) – základy. Treba mať aspoň trocha predstavu o skladbe Angularových aplikácií.
+-	Skúsenosti s pracou v TFS, Jira.
+-	Dobrý všeobecný prehľad, čo sa týka fungovania operačných systémov, prehliadačov a hardvéru – hlavne kvôli identifikácii prípadných zdrojov problému mimo našich aplikácií. Inzerujúca spoločnosť Stručná charakteristika spoločnostiFores Technology Group je skupina spoločností poskytujúcich komplexné služby v oblasti IT. Zameriavame sa hlavne na inovatívne riešenia pre zákazníkov z komerčnej sféry. Naším cieľom je pomáhať zákazníkom naplniť ich vízie pri vytváraní hodnôt prospešných pre nás všetkých. Dbáme pri tom na transparentný a férový prístup ku všetkým zainteresovaným stranám - zákazníkom, partnerom aj našim zamestnancom.  Aktuálne sú členmi skupiny spoločnosti ForesServices, s.r.o. a ForesApps, s.r.o.
+„Osobné údaje uchádzačov o zamestnanie, ktorí nám zašlú svoj profesijný životopis a súvisiace dokumenty, budeme spracúvať na účely výberového konania. Poskytnutie údajov je nevyhnutné na účasť vo výberovom konaní. Osobné údaje uchádzačov, ktorí nepostúpia do užšieho výberu na ponúkanú voľnú pracovnú pozíciu zlikvidujeme bezodkladne po vyhodnotení životopisu ako nevyhovujúceho. Osobné údaje ostatných uchádzačov (ktorým oznámime, že postupujú do užšieho výberu) v rozsahu údajov uvedených v životopise, motivačnom liste, iných zaslaných prílohách a ďalších údajov získaných v priebehu výberového konania (napr. pri osobnom pohovore) budeme spracúvať na tento účel po dobu do skončenia výberového konania. Spracúvanie údajov uchádzačov o zamestnanie je nevyhnutné, aby sa na základe žiadosti dotknutej osoby vykonali opatrenia pred uzatvorením zmluvy (predzmluvné vzťahy). Bližšie informácie o podmienkach spracúvania Vašich osobných údajov nájdete v sekcii „Spracovanie osobných údajov“ na našej webovej stránke.“ (Detaily GDPR) Počet zamestnancov25-49 zamestnancov KontaktKontaktná osoba: Jana FridmanE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4502868 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Bratislava   Pozícia: .NET programátor, C# programátor, IT analytik, IT tester, Programátor   Spoločnosť: ForesServices, s. r. o.   
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

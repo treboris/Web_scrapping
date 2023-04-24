@@ -1,0 +1,47 @@
+ÁLLÁSHIRDETÉS FELADÁS
+NI CRIO ILLESZTŐ PROGRAM FEJLESZTŐ GYAKORNOK - KOMMUNIKÁCIÓS MODULHOZ 
+A Knorr-Bremse vasúti fékvezérlő elektronikájának beágyazott szoftverét szimulált környezetben tesztelik, melynek egyik eleme a jármű buszkommunikációs adatainak szimulálására és mérésére szolgáló eszköz. A feladat egy olyan NI CompactRIO modul elkészítése, amelyik adatkapcsolatot teremt a cRIO eszköz és a vasúti buszrendszer között. A gyakornok feladata a hardverfejlesztővel való szoros együttműködés az NI cRIO illesztő programjának elkészítéséhez.
+EZEK LESZNEK A FELADATAID
+NI cRIO illesztő program elkészítése
+NI cRIO modul élesztése
+NI cRIO illesztő program dokumentálása
+AMIK SZÜKSÉGESEK A FELADATAID ELLÁTÁSÁHOZ
+NI LabVIEW ismeretek
+VHDL ismerete
+Angol nyelvtudás
+Önálló, lendületes munkavégzésre való képesség
+Minimum heti 20 óra munkavégzés
+MIÉRT VÁLASSZ MINKET?
+Rugalmas tanulmányokkal összeegyeztethető időbeosztás
+Gyakorlat- és tapasztalatszerzési lehetőség NI cRIO, FPGA, vasúti busz kommunikációs protokollok területén
+Barátságos és támogató csapat vár rád
+Később akár főállásban is dolgozhatsz nálunk
+Az itt szerzett tudásod garantáltan értékes lesz a munkaerőpiacon
+Extrák: céges konditerem, parkolási lehetőség, vállalati rendezvények, szakmai konferenciák, képzések
+MÉG NAGYOBB ESÉLYED VAN, HA
+NI FPGA ismerete
+Vasúti busz kommunikációs protokollok ismerete
+Jelentkezem
+Elmentem az állást
+NI CRIO ILLESZTŐ PROGRAM FEJLESZTŐ GYAKORNOK - KOMMUNIKÁCIÓS MODULHOZ 
+Jelentkezem
+Elmentem az állást
+Knorr-Bremse Rail Systems Budapest 
+BudapestPest 
+Részmunkaidős, Szakmai gyakorlat, diákmunka 
+Tapasztalat nem szükséges 
+OKJ képesítés 
+Frissítés dátuma: 20.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Frontend fejlesztő 
+ Budapest  
+ Senior JAVA Fejlesztő 
+ Budapest  
+ SMT PROGRAMOZÓ (16-2174) 
+ Pest megye  
+ Webes alkalmazásfejlesztő 
+ Nádudvar  
+ Rendszerszervező 
+ Budapest  

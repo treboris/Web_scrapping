@@ -1,0 +1,52 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Budapest
+Senior Devops Engineer (JT)
+Tech People Hungary Kft.
+Budapest, XI. district
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Főiskola
+Tech People is a European povider of technical skills permanent recruitment and temporary contracting services for multiple industries.
+Currently we are looking for
+SENIOR DEVOPS ENGINEER (JT)
+Location: Budapest XI. district, home office possible
+Salary: competitive
+Type of employment: employee
+Responsibilities:
+managing incidents on the core platform where other applications are running. Stability is key.Depending on the nature of problems, you propose and implement solutions in collaboration with other teams.guiding other teams so that they can be autonomous in the DevOps part of their applications.proposing new tool and eventual evolution of our platform to improve automation of our deployment pipelines, monitoring of our systems and applications & overall stability and scaling.Contributing to the technical analysis, technical design & architecture, and coding of the software solutions is a plus, in collaboration with the architect and developers as well as the business & customers.
+Requirements for the role are:
+5-7 years of DevOps experienceExtensive experience with AWS Cloud solution: AWS S3, CloudFront, EC2, EKS, KMS, EBS, EFS, RDS, SNS, SES, ELB, Route53Experience with Ansible, Kubernetes, DockerExperience with Linux, Git, Gitlab, Gitlab CI,Experience with Redis, Kafka, MongoDB, InfluxDB, Elastic search, NginExperience with NewRelic, Fluentd, VagrantConfident English knowledgeThe candidate needs to be currently eligible to work in HungaryDesired characteristics:Knowledge of VirtualBoxExperience with OAuth2, OpenIDConnectKnowledge of Python development is a plusFamiliarity with PyCharm, Conda
+You will have the opportunity to:
+Be part of a real multinational team and environment (90+ nationalities)Develop your career path and grow domain wise (vertical and horizontal opportunities for growth and rotation among different units)Learn and develop soft and hard skills (1000+ internal training)What our client offers:Attractive salary & benefitsPleasant work atmosphere: open office environment, relax rooms, cafeterias, kitchens and terracesJob security: client guarantees the job to all employees during pandemic Free gym facilities
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol felsőfok
+5-10 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

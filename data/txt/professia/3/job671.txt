@@ -1,0 +1,71 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceFull Stack Developer ČSOB 
+Full Stack Developer ČSOBInformácie o pracovnom miesteWe are seeking new colleagues into existing internal team within our organization. Team is working on Temenos Journey Manager platform. Journey Manager is the enterprise management system that hosts the web form applications and enables sophisticated customer interaction and 3rd party system integration between form transactions and back-end business processes. Journey Maestro is the customer experience development environment of the Temenos Journey platform.FE - works on application development utilizing Avoka Maestro - creating and enhancing applications consist of form layouts, validations, scripting.BE - works on developing services and collaboration jobs in Transact Manager - finalizing application configuration, security controls, routing and delivery of data.Frontend:HTML, CSSBrowser de-bugging skillsSource control, versioning knowledgeJavaScript working knowledge (scripting)Writing expressions or macros knowledgeData format understanding JSON and XMLAvoka Transact Qualified Front End Builder CertifiedAngularJS/jQuery knowledge a plusKnowledge of CX/UX designBackend:Object Oriented ProgrammingIntegrated Development Environment (IDE)Unit and System testElectronic workflowsAgile delivery methodologyDebug and optimize codeHTML, CSSCredentials, certificates, keystores, and secure communicationAvoka Transact Qualified Platform Developer Certified Požiadavky na zamestnancaHTML5 / JavaScript / AngularJS / Bootstrap / Velocity templatesMobile application design experienceExposure to JavaEE and third party APIsJavaEE Application Server experience (preferably JBOSS)XML skills, including XSLT, XSD, XPath, XQuery etc.SOAP and REST Web Services consumption using JavaEE and GroovyBuild and config mgmt tools such as Ant, MavenEnglish B2 PonúkameThe basic monthly salary ranges from 2500 € gross. The final salary depends on previous experience, seniority in the field sought and professional knowledge.At ČSOB, we take care of ensuring a pleasant working environment for our employees. Come to us to work in new modern premises on the Dunaj embankment, experience a meeting on a spacious terrace or in a meeting room with a view of "the largest river in Slovakia"; treat yourself to coffee with colleagues in the café directly in the building and lunch in our Cantina, or print office supplies on a 3D printer in our innovative studio. Become our colleague and send us your CV!Work benefits:Management of our highest current account package with travel insurance worldwide free of charge + discounts on ČSOB productsIf you contribute to supplementary pension savings, we will help you too!As one of the few employers, we will contribute to your life insuranceEnjoy 5 extra days off after working 1 yearThe possibility of working from home at selected positions 8 days a monthYou can join the "Recommend Your Colleague" program and get a financial bonus!A career coach will be available to you in the future as well, who will help you with the direction of your career with us.We have a children's corner available for the youngest members of your familyTo support "Work Life Balance" we provide our employees with:MultiSport cardExtra days off at life events (birth of a child, moving, life anniversary)Possibility to use the laundry room service directly in the buildingInteresting lectures on various topics (banking trends, field of health and healthy lifestyle)We will be happy to present you other benefits at a personal meeting.
+V prípade, že máte záujem o túto pozíciu, kliknite na tlačítko "Pošli svoju žiadosť", vyplňte svoje osobné údaje a pripojte životopis.
+Pošli svoj životopis 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+www.csob.sk
+ID: 4543563 
+     Dátum zverejnenia:  22.3.2023 
+    2023-03-22
+lokalita: Bratislava   Pozícia: Backend developer, Frontend developer, Java Programmer, Javascript Programmer, Programmer   Spoločnosť: ČSOB Finančná skupina   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

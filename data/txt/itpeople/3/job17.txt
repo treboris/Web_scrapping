@@ -1,0 +1,105 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Software Architect állás Budapest
+Mérnöki / Ipari programozás állások 
+Cégleírás / Organisation / Department
+Ügyfelünk Európa legnagyobb videotermékeket fejlesztő és gyártó cége. (USA, Dubai, Kanada , Szingapúr, India, Latin-Amerika, Málta ,stb..) Termékeik és berendezéseik a legnagyobb világsztárok koncertjein és szinte minden modern német autógyár 3D szimulációs termében is megtalálhatóak. Népszerűek olajfúró tornyok vezérlőiben és közismert épületek irányító központjaiban, repülőgépeken, hatalmas jachtokon, de még tengeralattjárón is. Rendezvények, ahol a termékeik megjelentek: Európai Bajnokságok, Olimpiai Bajnokságok, Eurovíziós Dalfesztivál, Disneyland. A Google, Facebook, Microsoft , Apple, EA Sport, Cisco és LinkedIN is használják a termékeiket.A cég precíziós videójel-kezelési termékeket tervez és gyárt csúcskategóriás alkalmazásokhoz, több iparágban.
+Elvárások / Requirements
+villamosmérnök vagy mérnök-informatikus MSc végzettség
+3+ év szoftverfejlesztői tapasztalat - C++, Linux, beágyazott rendszerek;
+rendszerszemléletű gondolkodásmód;
+rution abban, hogy különböző (műszaki) területek szakértőivel egy csapatban hogyan lehet jól együtt tudsz dolgozni; 
+nagyfokú önállóság a feladataid végzése során.
+MINDENKÉPP TE LEHETSZ A NYERŐ VÁLASZTÁS A SZÁMUNKRA, HA:
+rendelkezel hálózati és IT biztonsági ismeretekkel;
+van rendszerszintű Linux ismereted;
+van tapasztalatod a következő technológiákkal-feladatokkal: Buildroot, Docker, Continuous Integration, Linux Device Tree, Linux Kernel driver fejlesztés;
+ismersz script nyelveket (sh, Python, JavaScript).
+Amit kínálunk / Offer
+szívesen határozod meg az üzleti oldalról érkező igények technológiai megvalósításának lehetőségeit, valamint választod ki az optimális megoldást, műszaki koncepciót;
+fontos számodra, hogy jövőállóságot szem előtt tartva készítsd el a megoldás magas szintű szoftverterveit;
+szereted szükség esetén “proof-of-concept” szinten, példaprogramokkal validálni a technológiai megvalósítás működőképességét;
+szívesen tervezed meg a beágyazott rendszerek belső felépítését, és egymással együttműködő, hordozható szoftverkomponensekre bontod a funkcionalitást;
+örömmel veszel részt a hardver-szoftver rendszer közös tervezésében, a termékek funkcionális és nem funkcionális követelményeinek meghatározásában;
+folyamatosan nyomon követed a technológiai újdonságokat, iparági standardokat, új programozási paradigmákat és szívesen koordinálod ezek beépítését a fejlesztési módszertanokba.
+Kapcsolattartó / Information
+jó hangulatú, fiatalos és összetartó csapat
+széleskörű szakmai fejlődési lehetőség
+betanulás után heti 2 nap home office lehetőség
+rugalmas munkaidő törzsidővel
+részese lehetsz egy magyar cég sikerének a világpiacon
+dinamikusan fejlődő és stabil háttér
+emberközpontú szemlélet
+meghallgatjuk az ötleteidet
+belvárosi, jól megközelíthető iroda
+magas színvonalú csapatépítő tréningek és egyéb közösségépítő programok
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary Kft													
+Budapest
+Nincs meghatározva
+ Mérnöki / Ipari programozás
+Lejárati dátum: 2023-05-13 08:55:00
+Álláshirdetés részletei
+PozícióSoftware Architect
+Munkavégzés helye
+Budapest
+MunkaidőNincs meghatározva
+KategóriaMérnöki / Ipari programozás
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

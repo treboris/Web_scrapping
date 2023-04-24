@@ -1,0 +1,119 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceProgramátor - špecialista informatik  
+Všade blízko
+Voľné pozície
+O nás
+Benefity
+ Programátor - špecialista informatik 
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+1 887 EUR/mesiacprípadne dohodou v závislosti od praxe kandidáta a ďalšie odmeny.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiMáte praktické skúsenosti s programovaním a chcete svoje vedomosti uplatniť na projektoch s celoslovenským prínosom? Do nášho tímu hľadáme ďalších hráčov, ktorí nám pomôžu pri zaujímavých infraštruktúrnych  projektoch.
+Vašou úlohou bude:
+-	Vývoj, design, programovanie aplikácií a využívanie princípov v jazykoch PHP/Javascript alebo Java. 
+-	Vytváranie a optimalizácia čiastkových aplikácií systému.
+-	Podieľanie sa na tvorbe návrhu riešení v oblasti prevádzky elektronickej diaľničnej  známky. 
+-	Koncepčná a analytická práca v oblasti zberu, overovania a spracovania údajov. Zamestnanecké výhody, benefityNaši zamestnanci sú u nás spokojní. Svedčí o tom aj fakt, že sme vyhrali 1. miesto v ankete Najzamestnávateľ roka 2021 v kategórii Doprava a logistika.
+Ak hovoríme o flexibilite, nie je to iba slovo, ale znak našej firemnej kultúry.
+◦ 7,5 hodinový pracovný úväzok – vďaka tomu majú naši zamestnanci v prepočte o 16 dní v roku viac voľna
+◦ Možnosť stravovania buď formou finančného príspevku 4,24€ alebo formou stravovacích poukážok v hodnote 5,10€, pričom nárok na príspevok za stravu máte aj počas dovolenky alebo v prípade čerpania náhradného voľna súvislo v rozsahu 7,5 hod. a viac
+◦ Oddych je dôležitý. S nami si užijete až 5 dní dovolenky naviac
+◦ Príspevok na regeneráciu pracovnej sily vo výške 100€, vďaka ktorému si môžete oddýchnuť a načerpať nové sily
+◦ Príspevok na III. pilier DDS až do výšky 300€ za rok – myslíme na vašu budúcnosť
+◦ Finančná odmena pri pracovných výročiach – vážime si vernosť a lojalitu
+◦ Prispievame našim kolegom na ročnú diaľničnú známku v hodnote 70€
+◦ Odmeňujeme darcov krvi až do výšky 80€ ročne
+◦ Príspevok pri narodení dieťaťa vo výške 250€ - mať rodinu je dôležité, podporíme vás
+◦ Myslíme sociálne, v nepriaznivých životných situáciách podávame pomocnú ruku
+◦ Ak zostanete PN, finančne vás podporíme
+◦ U nás môžete rásť, organizujeme rôzne kurzy a školenia
+◦ Podporujeme tímového ducha, na tieto aktivity od nás dostanete finančný príspevok
+◦ Sme „Zdravá firma“, zdravie je pre nás na 1. mieste a pre našich kolegov ponúkame množstvo aktivít zameraných na posilnenie zdravia
+◦ Možnosť využívať vlastné rekreačné zariadenie pre zamestnancov a rodinných príslušníkov v Liptovskom Jáne za zvýhodnené ceny Informácie o výberovom konaníOslovila Vás naša ponuka? Dajte nám o sebe čo najskôr vedieť prostredníctvom svojho životopisu. Motivačný alebo sprievodný list poteší, radi sa o Vás dozvieme čo najviac. V Národnej diaľničnej spoločnosti si vážime všetky reakcie na naše pracovné ponuky. Ak Vás na pohovor nevyberieme, môžeme sa Vám znova ozvať neskôr s ponukou pozície, ktorá oveľa viac vyhovuje Vašim skúsenostiam alebo schopnostiam. Preto, ak Vás v budúcnosti u nás zaujme iná ponuka, určite neváhajte poslať žiadosť opätovne. My sa jej vždy budeme dôkladne venovať.Predpokladaný termín ukončenia výberového konania30.5.2023 (ostáva ešte 40 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreInformačné technológie, AutomatizáciaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Ostatné znalostiMicrosoft Word - PokročilýMicrosoft Excel - PokročilýMicrosoft PowerPoint - PokročilýMicrosoft Outlook - PokročilýJava - Mierne pokročilýPHP - Mierne pokročilýJavaScript - Mierne pokročilýSQL - Mierne pokročilýGIT - Mierne pokročilýC# - ZákladyVodičský preukazB Prax na pozícii/v oblastiprax v oblasti programovania 2 roky Počet rokov praxe2Osobnostné predpoklady a zručnostiZnalosť ovládania aspoň dvoch programovacích jazykov: Javascript, Java, .NET/C# a PHP .
+Zmysel pre detail a precíznosť Inzerujúca spoločnosť Stručná charakteristika spoločnostiNárodná diaľničná spoločnosť vznikla v roku 2005 a jej 100% akcionárom je štát. 
+Zamestnáva viac ako 1 900 ľudí. 
+Úlohou spoločnosti je napĺňať ciele Programu prípravy a výstavby diaľnic, ktorý schvaľuje Vláda Slovenskej republiky. 
+Zabezpečuje niekoľko veľmi významných a štátom regulovaných činností, predovšetkým plánovanie, prípravu a výstavbu diaľnic, ich údržbu a realizáciu opráv. 
+V spolupráci s prevádzkovateľom mýtneho systému zabezpečuje spoplatnenie cestnej infraštruktúry v SR. 
+Pridanou hodnotou služieb, ktoré strediská vykonávajú je bezplatná služba pre motoristov Diaľničná patrola. Svojou činnosťou zvyšuje úroveň bezpečnosti cestnej premávky a zabezpečuje náležitý komfort cestujúcej verejnosti. Počet zamestnancov1000 a viac zamestnancov KontaktKontaktná osoba: Národná diaľničná spoločnosť, a.s.E-mail: poslať životopis 
+Žiadna voľná pracovná pozícia vás neoslovila?
+Online dotazník
+Kontaktné údaje
+                        Národná diaľničná spoločnosť, a.s. 
+                        Dúbravská cesta 14, 841 04 Bratislava, Slovensko 
+[email protected]
+                        Copyright © Národná diaľničná spoločnosť, a.s.
+Voľné pozície
+O nás
+Benefity
+ Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4499565 
+     Dátum zverejnenia:  17.4.2023 
+    2023-04-17
+lokalita: Bratislava   Pozícia: C# programátor, Java programátor, Javascript programátor, PHP programátor   Spoločnosť: Národná diaľničná spoločnosť, a.s.   
+Základná zložka mzdy (brutto): 1 887 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

@@ -1,0 +1,79 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+English and German speaking Linux System Administrator (REF1491J) (Budapest)
+English and German speaking Linux System Administrator (REF1491J) (Budapest)
+A hirdetés már lejárt!
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+német - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+English and German speaking Linux System Administrator (REF1491J)
+Tasks:
+Installation, administration and patching of many different Linux-servers
+Basic SQL knowledge (queries)
+Administration and configuration Wildfly, Jboss, Tomcat, Apache, Citrix
+Fundamental understanding of Architectures as NAT, Firewalls, Routing
+Contact person for all questions regarding Infrastructure, central contact person for the operating departement
+Usage of JIRA – issue tracking, administrating
+Forwarding the more complex problems to the next level of support
+Delivery to the customer, occasionally customer contact
+Working office hours without oncall duty
+Requirements:
+At least 2 years experience within supporting Linux systems 
+At least 1 year experience with SQL databases
+At least 2 years experience in system operation/administration 
+English knowledge on C1 level and German knowledge on B2 level
+Advantages
+Advanced database administration (Oracle and PostgreSQL)
+Docker, kubernetes; Administration, Build, OpenShift
+Implementation and adaptation of scripts  (mainly Linux Bash; fundamentals of  Windows CMD and Powershell)
+Nagios, Administration, implementation of Check-Scripts
+ITIL process knowledge
+Senior
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Pécs, Szeged
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Process and Service Management (REF1237Q)
+Deutsche Telekom IT Solutions -
+IP VPN Consultant
+Nemzeti Sportügynökség Nonprofit Zrt. -
+RENDSZERGAZDA
+Deutsche Telekom IT Solutions -
+Cloud Application Services Solution Designer - 1662J
+Deutsche Telekom IT Solutions -
+Linux System Administrator (REF1610S)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

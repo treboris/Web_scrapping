@@ -1,0 +1,117 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Java Developer (m/ž) 
+Voľné pozície
+Benefity
+Prečo pracovať v ZSE
+O spoločnosti
+Senior Java Developer (m/ž)
+Miesto práce
+hybridný model: možnosť práce z domu 60 % a 40 % z pracoviska, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 2 700 EUR/mesiacod 2 700 EUR brutto v závislosti od skúseností kandidáta + 20 % ročná výkonnostná odmena
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiDo tímu integrácií a BPM hľadáme novú posilu na pozíciu, Senior Java Developer/Developerka".
+Vašou úlohou bude predovšetkým posilniť-vybudovať interné know-how v oblasti vývoja nových služieb a aplikácií na platforme Openshift (Kubernetes).
+Na uvedenej pracovnej pozícii budete predovšetkým:
+• Konzultovať a vyvíjať nové riešenia/funkcionality v zavedených integračných platformách na základe zákazníckych požiadaviek
+• Zabezpečovať vývoj aplikácií, mikroservisov v oblasti integrácií/ETL/eDWH v technológiách Java, Gradle, Spring Boot, Angular- vítaný
+• Implementovať služby v prostredí Openshift (Kubernetes), CI/CD
+• Aktívne spolupracovať na nových riešeniach a projektoch
+• Komunikovať s externými dodávateľmi, kľúčovými užívateľmi a aktívne sa zúčastňovať pri optimalizácii „business procesov“
+• Analyzovať a implementovať zmenové požiadavky, poskytovať podporu existujúcich riešení v požadovanej oblasti Zamestnanecké výhody, benefity• Stabilná práca v medzinárodnej spoločnosti
+• Fond pracovného času 37,5 hod. týždenne
+• 5 dní dovolenky nad rámec Zákonníka práce
+• Finančný príspevok na stravovanie 5,10 EUR bez doplatku zamestnanca
+• Silný sociálny program 
+• Osobný účet - finančný príspevok 1050 EUR brutto ročne, určený na Vašu regeneráciu 
+• Príspevok na doplnkové dôchodkové sporenie
+• Finančné príspevky pri narodení dieťaťa, pracovnom výročí, či životnom jubileu
+• Široká škála interných a externých školení
+• Široká ponuka benefitov v oblasti zdravotnej starostlivosti, športu (MultiSport karta) a kultúry
+• Športové kluby a podujatia pre vás aj vašu rodinu
+• Nadštandardné lekárske prehliadky
+• Bezplatná poradňa pre zamestnancov (psychologická, finančná, právna)
+• Zľavy u vybraných dodávateľov tovarov a služieb Informácie o výberovom konaníVýška základnej mzdy je stanovená na úrovni minimálne od  2 700 EUR brutto a bude závisieť od konkrétnych odborných znalostí kandidáta. 
+K pracovnej pozícii prináleží aj 20 % ročná výkonnostná odmena.
+Žiadosti zasielajte do: 28.04.2023Predpokladaný termín ukončenia výberového konania28.4.2023 (ostáva ešte 8 dní) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňaVzdelanie v odboreIT, technické stredoškolské s maturitou - prax v oblasti IT min. 5 rokov, pri VŠ - prax 3 rokyJazykové znalostiAnglický jazyk - Stredne pokročilý (B2)Vodičský preukazB Osobnostné predpoklady a zručnostiĎalšie požiadavky:
+*• Požadované znalosti v programovaní – Java
+*• Projektové skúsenosti s programovaním služieb, mikroservisov, ETL, API
+*• Skúsenosti s používaním GITLAB
+*• Požadovaná skúsenosť so Spring Boot, Gradle
+*• Prehlaď prenosových technológií a štandardov (SOAP, REST, AMQP, WSDL, XSD, JSON, XML...),
+*• Prehľad bezpečnostných prenosových štandardov (HTTPS, Certificate authentication, OAuth2...)
+*• Skúsenosti s OpenShift, Grafana, Elastic Search – výhodou
+*• Prehľad sieťových a transportných protokolov (TCP/IP, HTTP, NFS, FTP ...) – výhodou
+*• Skúsenosti v oblasti systémovej integrácie so SAPmi (ALE/IDOC, RFC) výhodou
+*• Dobré komunikačné a prezentačné zručnosti
+*• Proaktivita, ochota učiť sa nové veci a schopnosť samoštúdia
+*• Analytické myslenie, flexibilita, tímový hráč Inzerujúca spoločnosť Stručná charakteristika spoločnostiPoslaním spoločnosti je bezpečná a spoľahlivá distribúcia elektriny na území západného Slovenska. Je najväčším distribútorom elektriny v krajine a realizuje významné investície do obnovy distribučných zariadení a rozvoja elektronických služieb pre svojich zákazníkov. www.zsdis.sk Počet zamestnancov1518 zamestnancov Adresa spoločnostiZápadoslovenská distribučná, a. s.Čulenova 6816 47 Bratislava KontaktKontaktná osoba: Importovane ponukyE-mail: poslať životopis
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4542452 
+     Dátum zverejnenia:  21.3.2023 
+    2023-03-21
+lokalita: Bratislava   Pozícia: IT analytik, IT konzultant, Programátor   Spoločnosť: Západoslovenská energetika, a.s.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 700 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

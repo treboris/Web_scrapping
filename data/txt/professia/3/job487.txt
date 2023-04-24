@@ -1,0 +1,101 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceAI/ML špecialista 
+AI/ML špecialistaSOFTEC
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 000 EUR/mesiacOd 2 000,- €/mes. + variabilná zložka mzdy + ďalšie benefity; Sme pripravení ohodnotiť aj vysokú úroveň skúseností a výkonu.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme posilu do nášho špecializovaného tímu, ktorý sa venuje projektom v oblasti umelej inteligencie a machine learningu. Ak máš s týmito témami skúsenosť a chceš sa v nich ďalej rozvíjať, možno sa nájdeš práve u nás.Na čom môžeš pracovať?ako dátový vedec môžeš byť súčasťou tímu, ktorý pracuje na projektoch v oblasti e-HEALTHmôžeš sa podieľať na predikčnej štúdii (napr. incidencia rakoviny a i.)v rámci projektov IoT môžeš riešiť problémy spracovania dát zo senzorov (napr. z meteostaníc)môžeš sa venovať analýze a spracovaniu množstva časo-priestorovych dát, používaniu metód interpolácie priestorových údajov a podobnespolupodieľať sa na vývoji SW riešenia, konkrétne Machine learning častí pre nášho zákazníkasamostatne riešiť pridelenú časť problému podľa stanovenej hypotézypracovať na reprodukovateľných štúdiách, testovať a pripravovať machine learning modely, pripravovať a definovať služby, ktoré budú zapuzdrovať machine earning modelyspolupracovať a komunikovať s ostatnými členmi data science tímu pri realizácii riešenia Zamestnanecké výhody, benefityČo ti ponúkame?Prácu v super tíme šikovných dátových vedcov, vedenie a tútoring od skúsených odborníkov v oblasti,Dovzdelávanie napríklad v oblasti dátového inžinierstva a práce s big data,Možnosť pracovať na zmysluplných IT riešeniach, ktoré uľahčujú život.Kariérny rast a rozvoj – zdieľanie najnovších IT trendov, mentoring, koučing a iné,Zázemie stabilnej spoločnosti so zmluvou na dobu neurčitú,Zaujímavý benefitný systém zohľadňujúci level seniority,Príspevok na kúpu vybavenia domácej kancelárie a ďalšie benefity na podporu zdravia, relaxu, kultúrneho vyžitia,Priestory najzelenšej kancelárskej budovy na Slovensku s veľkou terasou, oddychovými zónami a cyklomiestnosťou. Informácie o výberovom konaníAk ťa ponuka zaujala, neváhaj a pošli nám CV s motivačným listom. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňaOsobnostné predpoklady a zručnostiČo očakávame?minimálne 2 roky skúseností s ML/prácou s dátamiznalosť Python alebo R – must, (Scala, Java – výhodou, SQL – základy)znalosť matematiky a štatistiky pre tvorbu modelov strojového učenia, analýza dátvášeň pre prácu s (Big) dátamikreativitu, iniciatívu, samostatnosťprezentačné schopnosti, minimálne na obhajobu (potvrdenie/vyvrátenie hypotézy) zadávateľomzvedavosť pri riešení nových problémovodolnosť pri prekonávaní prekážokkritické myslenieprecíznosťschopnosť riadiť si čas Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme softvérovo-konzultačná spoločnosť, spolu nás je už vyše 400 a neustále rastieme. Určite radi privítame do tímu aj teba. Neboj sa, nehodíme ťa do vody, aby si sám plával. 
+Ak si junior, tak ako každý nováčik u nás, budeš aj ty na začiatku zaradený do útvaru Akadémia a bude ti pridelený tútor, ktorý ťa bude viesť a pomáhať ti so zadanými úlohami. Následne, keď budeš na to pripravený, po mesiaci až dvoch, začneš pracovať na reálnom projekte. Mladým talentom vytvárame inšpiratívne podmienky pre profesionálny i osobnostný rozvoj a vzdelávanie. 
+Pri medioroch a senioroch je priebeh zaškoľovania primeraný ich aktuálnym znalostiam a taktiež s podporou prideleného tútora. Pracujeme s technológiami ako napríklad Angular, Java, .NET, React ale aj vlastnými ako napr. JavaTec. 
+Sídlo spoločnosti máme v Bratislave v budove Einpark - najzelenšej kancelárskej budove na Slovensku, ktorá vďaka svojim udržateľným princípom získala viacero certifikátov. Naše ďalšie pobočky máme v Prahe, Prievidzi a v Žiline.
+Od iných firiem sa líšime hlavne tým, že pojmy rodinná a príjemná atmosféra nie sú pre nás iba prázdne slová, ale je to reálny motivátor našich zamestnancov. Dokazujú to aj naše interné prieskumy spokojnosti, fluktuácia nepresahujúca dvojciferné číslo, stabilné tímy, naši dlhoroční kolegovia a nakoniec aj samotné pravidelné umiestnenie medzi najlepšími zamestnávateľmi. Tento rok nás opäť neminulo ocenenie od Profesie a sme medzi top 10 najzamestnávateľmi na Slovensku v oblasti IT. Naša pobočka v Bratislave nedávno získala ocenenie Office roka 2021 – Zdravá kancelária, pričom k tomuto rozhodnutiu, ako uviedla samotná porota, prispela tiež rodinná atmosféra, ktorú v našich officoch cítili.  
+Máme prepracovaný benefitný systém, ktorý ponúka množstvo zaujímavých výhod ako napríklad:
+•	penzijné zabezpečenie/ 3. pilier DDS
+•	dni dovolenky navyše pre všetkých podľa levelu seniority     
+•	Kafetéria       
+•	príspevok na technologickú vychytávku (na pracovné vybavenie)
+•	podpora zdravotnej starostlivosti
+•	finančný príspevok na jazykové vzdelávanie 
+•	pôžička na riešenie bytovej situácie 
+•	referral program
+•	lifestyle aktivity - ranné cvičenia jogy, zdravý chrbát, webináre a pod.
+•	oddychové zóny, cyklomiestnosť
+•	parkovanie, auto na operatívny leasing
+•	home office (napriek tomu chodí mnoho našich kolegov do práce pretože sa chce stretávať s ostantnými) 
+•	letná a zimná Softecovica, divízovice, detský Mikuláš
+•	tematické týždne – nanukový, ovocný, zdravý a pod.
+•	skupinové športové aktivity – maratóny a bežecký klub, florbal, volejbal a ďalšie
+Chceš sa o SOFTEC-u dozvedieť viac? Klikni na našu webstránku a pozri si naše aktuálne otvorené pozície: https://www.softec.sk/pracovne-ponuky/ Počet zamestnancov250-499 zamestnancov 
+ KontaktE-mail: poslať životopis
+Všetky ponuky spoločnosti
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4548116 
+     Dátum zverejnenia:  29.3.2023 
+    2023-03-29
+lokalita: Bratislava   Pozícia: Backend programátor, IT analytik, Programátor, Python programátor   Spoločnosť: SOFTEC   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 000 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

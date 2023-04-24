@@ -1,0 +1,89 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceIoT Engineer 
+V Orangei sa nájde každý
+Pracovné pozície
+Informácie o spoločnosti
+Pre študentov
+IoT Engineer
+Podrobné informácie
+                                Miesto práce
+                            Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Druh pracovného pomeru
+                            plný úväzok
+                                Mzdové podmienky (brutto)
+Od 1 800 EUR/mesiac
+Uvedená mzda predstavuje minimálne platové ohodnotenie, na finálnej sume sa dohodneme spoločne a rozhodujúce budú Vaše skúsenosti. Garantujeme Vám 13. plat a okrem toho 2x ročne atraktívne výkonnostné bonusy (podľa splnených cieľov).
+Informácie o pracovnom mieste Mladý a dynamický tím v Orange hľadá kolegu – inžiniera v doméne IoT. V agilnom scrume sa venujeme vytváraniu zákazníckych riešení na mieru, aj vývoju štandardizovaných B2B IoT riešení.  Ponúkame inšpiratívne prostredie, možnosť práce so zaujímavými novými technológiami, zariadeniami a riešeniami. Náplňou práce je zabezpečovať plynulý chod našich IoT produktov a poskytnúť teamu podporu pri riešení operačných úloh. Nevyhnutnou potrebou je chuť učiť sa a rozvíjať svoje znalosti.Čomu sa budete na tejto pozícii venovať? Kontinuálne vylepšovanie IoT produktov Zabezpečenie bezproblémového behu IoT aplikácii vo virtualizovanom prostredí (Openshift, Docker) Odhaľovanie a odstraňovanie problémov Riešenie zákazníckych incidentov Nasadzovanie a testovanie IoT aplikácií Spúšťanie a dohľad CI/CD pipelines Vytváranie a konfigurácia IoT riešení a v nich zákazníkov a zariadení Príprava testovacích scenárov Písanie automatizovaných testov Vytváranie scriptov potrebných pre reportovanie dát z IoT systémov a ich databáz Online podpora pri zákazníckych inštaláciáchZa Vašu prácu ponúkame:  Od 1800 EUR/mesiac + garantovaný 13. plat, okrem toho 2x ročne veľmi zaujímavé výkonnostné bonusy (podľa splnených cieľov). Môžu Vám vylepšiť mzdu pred letnými dovolenkami a Vianocami. Dobu neurčitú už po 3 mesačnej skúšobnej dobe. Možnosť vykonávať prácu aj z domu, štandardne 2 dni v týždni. Orange BenefityVieme, že kvalitne odvedená práca si zaslúži odmenu. Aj preto máme pre našich zamestnancov prichystanú atraktívnu ponuku benefitov, ktoré idú ruka v ruke s našimi hodnotami a podporujú vyváženosť práce a oddychu. Home office U nás Vám poskytneme možnosť čiastočnej práce z domu a flexibilnej pracovnej doby. 5 dní dovolenky navyše Doprajeme Vám voľno nad rámec zákona, aby ste mali viac času pre seba a svojich blízkych. 2 dni voľna na regeneráciu Dovolenka minutá? Nevadí, čerpať môžete ďalšie 2 dni extra voľna na oddych. Narodeninové voľno V mesiaci Vašich narodenín si vezmite deň voľna - hoci aj na poriadnu oslavu! Deň voľna na dobrovoľníctvo Podporujeme zmysluplné aktivity, ktoré prispievajú k pozitívnym zmenám v spoločnosti. 350€ na telefón Každé dva roky Vám prispejeme na nový telefón podľa vlastného výberu. 100% hradené stravné Vybrať si môžete buď stravovaciu kartu, alebo finančný príspevok priamo na Vás účet. 10 dní kompenzácia PN/OČR Pri zdravotných komplikáciách počítajte s náhradou príjmu v rozsahu 10 pracovných dní. 900€ ročne v portáli Benefit Plus Nakupujte od tisícok dodávateľov podľa vlastného výberu. Poskytneme Vám budget, ktorý môžete použiť napríklad na nákup dovolenky, elektroniky, kníh či ako príspevok na DDS. Zamestnanecké zľavy Zvýhodnená ponuka našich služieb je pripravená pre Vás aj Vašich blízkych. Podpora vzdelávania Rast a rozvoj našich zamestnancov podporujeme širokou ponukou komplexných školení a online kurzov. Referral program Dotiahnite k nám svojich známych a my Vás finančne odmeníme až do výšky 2000 EUR. Psychologické poradenstvo V náročných chvíľach nezostávajte sami. Odborné poradenstvo je Vám a Vašim blízkym k dispozícii 24/7, úplne anonymne a diskrétne. Vybavenie k práci Kompletné HW vybavenie je samozrejmosťou. Navyše Vám dáme neobmedzený paušál, ktorý môžete využívať na pracovné a aj súkromné účely. Svadobné voľno Deň ,,D" si zaslúži špeciálnu pozornosť. U nás môžete pred svadbou čerpať deň voľna nad rámec dovolenky. Príspevok 150€ k narodeniu dieťaťa Na novej životnej ceste Vás podporíme finančne a tiež milým balíčkom pre bábätko. Otcovské voľno Po narodení dieťatka môžete čerpať týždeň plne hradeného voľna nad rámec zákona. Pracovné výročie Ako poďakovanie za Vašu lojalitu od nás dostanete extra finančný príspevok v portáli Benefit Plus.Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Požadovaná praxSkúsenosti s programovaním / správou virtuálnych prostredíOsobnostné predpoklady a zručnostiSkúsenosti s technológiami: JavaScript/TypeScript Openshift, Docker CI/CD REST API eventDriven systémy (RabbitMq) Elastic stack
+Informácie o výberovom konaní
+Prvý krok je Vaše rozhodnutie a klik na „chcem túto prácu“. Potom stačí už len vyplniť dotazník a pripojiť životopis.Každý z Vás dostane od nás odpoveď buď e-mailom alebo telefonicky.Tešíme sa na Vaše reakcie!
+Chcem túto prácu
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+O výberové konanie sa postaráJuraj Sedlák z nášho People & Culture úseku.Inzerujúca spoločnosť Stručná charakteristika spoločnostiS vyše 2,7 mil. zákazníkov sme najväčším mobilným operátorom na Slovensku a lídrom v poskytovaní telekomunikačných služieb. V minulosti sme ako prví predstavili prelomové inovácie na trhu - mobil za korunu, nekonečné hovory, či 24-hodinovú zákaznícku linku a plánujeme v tom pokračovať.
+V prvom rade sme však starostlivý, zodpovedný a ľudský zamestnávateľ, a preto hľadáme rovnakých ľudí do nášho tímu. U nás budete od prvého dňa plnohodnotnou súčasťou firmy a našej komunity. Záleží nám na spoločnosti, v ktorej pôsobíme, vnímame svoju zodpovednosť voči nej, a preto sa angažujeme vo verejnoprospešných aktivitách. Pomáhame nášmu okoliu cez Nadáciu Orange, podporujeme mimovládne organizácie a tiež aktívnych jednotlivcov. Prostredníctvom týchto aktivít sa snažíme meniť svet na lepšie miesto pre všetkých. 
+Záleží nám na tom, aby sa u nás každý cítil dobre. Veríme, že zamestnanie nie je len o hodnote, ktorú prinášate firme Vy, no i o tej, ktorú prináša firma Vám. Váš rozvoj je pre nás rovnako dôležitý ako pre Vás, preto Vás v ňom budeme podporovať.
+Sme hrdí na to, že sme starostlivý a zodpovedný zamestnávateľ. Pokiaľ Vás  naša pozícia zaujala a zdieľate s nami rovnaké hodnoty, budeme sa tešiť na Váš životopis Hlavná oblasť pôsobenia spoločnostiTelekomunikácie
+Späť na zoznam pracovných pozícií
+ID: 4546360 
+     Dátum zverejnenia:  27.3.2023 
+    2023-03-27
+lokalita: Bratislava   Pozícia: DevOps Engineer, IT konzultant, IT/Technical Support Specialist, Programátor, Softvérový inžinier   Spoločnosť: Orange Slovensko, a.s.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 1 800 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

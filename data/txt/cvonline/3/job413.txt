@@ -1,0 +1,46 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Quantitative Researcher 
+We are looking for a
+QUANTITATIVE RESEARCHER
+for our global energy business partner
+Implement cross-commodity derivative valuation frameworks in company’s proprietary risk quantitative library, including new algorithms for stochastic process simulation, stochastic dynamical program solvers and calibration methodologies.
+Provide technical advice to commercial and control functions on the representation, valuation and risk measurement of deals involving optionality and/or illiquid assets.
+Employ modern software development practices for maintaining model correctness and performance.
+Work closely with model users & developers to support and guide best practice for the mitigation of model risk within T&S.
+Bachelor’s degree and preferably PhD or MSc degree in a quantitative subject area, (e.g. physics, mathematics, electrical engineering or mathematical finance).
+C++ 17 or Python 3 programming languages.
+Dependency modeling, including copulas, cointegration and local correlation approaches.
+Pricing in illiquid, incomplete markets. To include utility function-based approaches.
+Optimization, stochastic control, stochastic dynamical programming and numerical linear algebra.
+Implementing advanced numerical algorithms.
+Stochastic calculus, probability theory and Levy processes, and associated numerical methods for their practical implementation, including advanced Monte Carlo methods, transform techniques and PDEs. To include local and stochastic volatility, jump and regime-switching models.
+Competitive salary
+Different bonus opportunities, wide range of cafeteria elements
+Life & health insurance, medical care package
+Home office
+Wide range of learning options
+Family friendly workplace
+Employees’ wellbeing programs
+Play Zones, Office massage, Sport and music equipment
+Jelentkezem
+Elmentem az állást
+Quantitative Researcher 
+Jelentkezem
+Elmentem az állást
+Vision Recruitment Kft. 
+Pest 
+Teljes munkaidős 
+Frissítés dátuma: 05.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SZOFTVERTESZTELŐ GYAKORNOK 
+ Budapest  
+ Szoftver tesztautomatizáló mérnök (Veszprém) 
+ Veszprém  
+ Automata Szoftvertesztelő 
+ Budapest  
+ SZOFTVERFEJLESZTŐ GYAKORNOK – TOPCO 
+ Budapest  
+ Szoftvertesztelő mérnök 
+ Budapest  

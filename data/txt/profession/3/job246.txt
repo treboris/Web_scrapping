@@ -1,0 +1,99 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Senior Data Engineer
+Bónusz
+ALTEO Nyrt.
+Budapest, III. kerület
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Egészségbiztosítás
+Nyugdíjpénztár
+Az ALTEO GROUP
+SENIOR DATA ENGINEER
+pozícióba munkatársat keres
+Az ALTEO csoport tudásalapú vállalat: kiemelkedő és speciális szaktudással rendelkező, tehetséges kollégákat keresünk.
+Múltbeli sikereink és növekedésünk kulcsfontosságú része a meglevő csapat, jövőbeli sikereink záloga az értékek és szaktudás megőrzése.
+Olyan HR csapat vagyunk, amely komolyan veszi a dolgozók szakmai fejlődését, támogatja őket a szaktudásuk bővítésében, és emellett vonzó juttatásokat és rugalmas munkaidőt kínál.
+Ha szeretnél részt venni egy ilyen dinamikusan növekvő és fejlődő vállalatban, akkor az ALTEO csoport lehet az ideális hely számodra.
+RÁD VÁRÓ FELADATAINK:
+End-to-end adatfolyamok létrehozása és karbantartása, beleértve az adatfeldolgozást, a kötegelt és valós idejű adatfolyamokat, az ETL/ELT folyamatokat, az adatbázisokat, az adatmodelleket Azure környezetben (Data Factory, SQL, Data Lake Gen 2, Synapse)Adatplatform építése és fejlesztése Microsoft Azure alapokonAdatminőség biztosítása és fenntartásaTervezési és fejlesztési dokumentáció készítése (tudásmegosztás)Infrastuktúra fejlesztése az adatok optimális kinyeréséhez, transzformációjához, integrációjához
+Az álláshoz tartozó elvárások
+3+ év Data Engineering tapasztalat és aktív SQL tudásETL/ELT technikák és keretrendszerek ismerete, skálázható data pipeline-ok építésében és optimalizálásában tapasztalatVerziókövető rendszerek ismerete (GIT – Gitlab/ Bitbucket)Valamely programozási nyelv ismerete: Python / R / Java / ScalaErős technikai elemző és problémamegoldó készség az adatokkal és technológiai megoldásokkal kapcsolatbanRészletekre való odafigyelő személyiség
+ÖRÖMMEL VESSZÜK,
+Azure cloud ismeret, Azure Data Engineer Associate certificate (DP-203)Adatvizualizációban, riportolásban és a kapcsolódó szoftverek használatában szerzett tapasztalatAdattárház fejlesztési tapasztalat, PowerBI tapasztalat
+AMENNYIBEN CSATLAKOZOL AZ ALTEO CSAPATÁHOZ:
+Biztos vállalati hátteret, hosszú távú munkalehetőséget biztosítunk;Összetartó csapat tagja leszel;Változatos feladatkörben széleskörű tapasztalatokat szerezhetsz;Versenyképes juttatási csomagot kínálunk:éves cafeteria keretteljesítményértékelésen alapuló bónuszönkéntes nyugdíjpénztári hozzájárulásegészségbiztosítási csomag. MUNKAVÉGZÉS HELYE: Budapest, III. kerület
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Adatbázisszakértő
+HA HIRDETÉSÜNK FELKELTETTE ÉRDEKLŐDÉSED:
+Vedd fel a munkaadóval a közvetlen kapcsolatot a lenti "Jelentkezem" gombra kattintva. 
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Középiskola
+Juttatások
+Cafeteria
+Egészségbiztosítás
+Nyugdíjpénztár
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+ALTEO Energiaszolgáltató Nyilvánosan Működő Részvénytársaság
+Tudományos, műszaki tevékenység
+●
+Mérnöki tevékenység, műszaki tanácsadás
+250-500 munkavállaló
+2008
+1033
+Budapest,
+Kórház utca 6-12.
+Értékelések a(z) ALTEO Nyrt. cégről
+3,9
+5 értékelés alapján 
+Értékelések kategória szerint 
+4,8
+Bérezés és juttatások 
+4,2
+Munkaidő és munkarend 
+3,6
+Fejlődési, előrelépési lehetőség 
+4,6
+Megközelíthetőség 
+4,0
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+80%
+Ajánlaná ismerőseinek 
+Környezettudatos hely 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

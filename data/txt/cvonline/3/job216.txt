@@ -1,0 +1,62 @@
+ÁLLÁSHIRDETÉS FELADÁS
+.Net Backend Software Engineer 
+Your new company
+Swiss startup company with a continuously growing presence in Budapest. With a focus on continuous innovation, they are setting new standards in flexible garment solutions in healthcare. Thanks to the integrated IoT architecture, not only can they achieve significant space saving, but also the administrative process around locker management can be digitized. Since the launch in 2017, they already have over 20’000 daily users at installations in Switzerland, Germany, Austria, France as well as the USA. They currently employ around 60
+people at its offices in Zürich, Budapest, New York and Düsseldorf. Further country subsidiaries are to be established soon. 
+Become part of their success story! They are passionate engineers who are developing green field, highly performant and complex applications for their users. Their focus is to enable transformation to space-saving and smart employee locker room solutions providing best-in-class user experience for professionals around the world.
+Your new role
+Develop the .net stack based applications and services of our partner's products
+● Shape the application together with the product team
+● Take part in the design processes
+● Take responsibility for the entire application lifecycle
+● Work in an agile development environment, regularly shipping and iterating on results
+What you'll need to succeed
+● Strong C#, .net core skills with 3+ years experience on .net stack
+● Experience working on n-tiered web applications, microservices built on Asp .net core
+● OOP, OOD knowledge and your expertise to write clean, high quality code. Your eagle eye to spot refactoring possibilities
+● Your experience with MSSQL, effective Sql and EF Core skills
+● Experience with Azure Services(App Services, Functions, Azure Sql)
+● Experience with the setup of CI/CD pipelines
+● Hands-on experience of git based VC solutions.
+● Software delivery mindset based on Agile Principles
+● Your passion about software delivery, problem solving and to form the future of successful
+product
+● Fluent English
+What you'll get in return
+They are a fast growing scale-up with global expansion ambitions, a young team and strong
+team culture
+● They focus on trust and empowerment, giving you a lot of responsibility and the appropriate
+scope to implement your ideas
+● They work passionately towards mutual success and celebrate it regularly in local and
+international team building events
+● Flexible working arrangements
+● Annual bonus if targets reached
+● Fruits and snacks shelf
+● First class office environment
+● Opportunity to work abroad e.g. in Zürich Office
+● Home office opportunity up to 2 days per week
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+Jelentkezem
+Elmentem az állást
+.Net Backend Software Engineer 
+Jelentkezem
+Elmentem az állást
+HAYS Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 20.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Senior Software Engineer (.NET) 
+ Budapest  
+ Software Engineer 
+ Budapest  
+ Software Test Engineer 
+ Budapest  
+ Software Engineer 
+ Budapest  
+ Senior Embedded Software Engineer 
+ Budapest  

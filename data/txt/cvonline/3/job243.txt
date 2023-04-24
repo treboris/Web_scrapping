@@ -1,0 +1,54 @@
+ÁLLÁSHIRDETÉS FELADÁS
+SAP Engineer  (REF253P) 
+ Description 
+Csatlakozz nemzetközi csapatunkhoz SAP Basis Engineerként, ahol a napi feladataid során részt vehetsz komplex problémák megoldásában, összetett változtatások tervezésében, végrehajtásában!
+Ha nyitott vagy új technológiák megismerésére, és folyamatosan képeznéd magad, illetve szeretnéd a már meglévő tudásodat naprakészen tartani, izgalmas projektekben részt venni, akkor nálunk a helyed!
+SAP alkalmazások 3. szintű támogatása, zökkenőmentes működésük biztosítása nemzetközi ügyfelek számára modulfüggetlen módon
+Frissítések, verzióváltások, rendszermásolások végrehajtása
+Új felhőalapú technológiák megismerése (AWS, MS Azure, Google Cloud), ezek bevezetésének támogatása, esetleges problémák elhárítása, migrációk lebonyolítása
+Felmerülő hibák javítása, az alkalmazás használatával kapcsolatos tanácsadás, támogatás
+Konzultáns szerepkör betöltése az ügyfél támogatása érdekében
+Készenléti feladatok ellátása
+  Qualifications 
+                Képzettség
+Legalább 5 éves tapasztalat SAP Basis adminisztráció területen
+Folyékony angol nyelvtudás (B2+)
+Linux rendszer ismerete, CLI magabiztos használata
+Különböző adatbázisokban szerzett tapasztalat (Oracle, HANA, esetleg Sybase IQ / ASE)
+Csapatjátékos attitűd
+Ügyfélközpontú szemléletmód
+Jó problémamegoldó készség
+További információk
+Amit ajánlunk: 
+Szakmai továbbképzések, megszerezhető certifikációk az alábbi témákban:
+o   Felhőalapú szolgáltatások
+o   SAP Certek
+o   Adatbázisok
+Csoportos idegennyelv-oktatás
+Támogató légkör, dinamikus csapat
+Nemzetközi környezet
+Teljesítményarányos bónusz
+Hybrid munkavégzés heti több napos Home Office lehetőséggel
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Jelentkezem
+Elmentem az állást
+SAP Engineer  (REF253P) 
+Jelentkezem
+Elmentem az állást
+Deutsche Telekom IT Solutions 
+BudapestSzegedPécsDebrecen 
+Teljes munkaidős 
+Frissítés dátuma: 19.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SAP Consultant 
+ Debrecen  
+ Data Engineer - Data Warehousing (SQL/Python)-German Speaking REF1478Z 
+ Budapest  
+ SAP PP supporter 
+ Budapest  
+ SAP Consultant (PP) 
+ Budapest  
+ SAP Basis Administrator 
+ Baranya megye  

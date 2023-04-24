@@ -1,0 +1,48 @@
+ÁLLÁSHIRDETÉS FELADÁS
+C++ FEJLESZTŐ 
+Feladatok: 
+		Komplex mérnöki feladatok ellátása (4G, 5G node-fejlesztési projekt), 
+		Változatos fejlesztési feladatok: desktop- és szerver alkalmazások fejlesztése Linux rendszerben, 
+		Részvétel a fejlesztési folyamat minden lépésében (tervezés, implementáció, konfigurálás, integrálás, tesztelés), valódi R&D!
+ Követelmények: 
+		Min. középfokú informatikai végzettség, 
+		Legalább 1-3 éves C++ fejlesztői tapasztalat, Scripting tapasztalat, 
+		Magas szintű Linux ismeretek, 
+		Angol nyelv erős közép szintű ismerete szóban és írásban egyaránt.
+ Előnyök: 
+		AGILE ismeretek, 
+		DevOps szemlélet, 
+		TELCO iparágban szerzett tapasztalat, 
+		Golang, Python, Erlang ismeret.
+ Juttatások: 
+		Tapasztalathoz és szakértelemhez illeszkedő jövedelemcsomag, 
+		Család-barát munkahely, skandináv munkakultúra, 
+		Home office (a hét nagy részében otthoni munkavégzésre van lehetőség), 
+		Rugalmas munkarend, 
+		Élvonalbeli technológiák, kihívást jelentő projektek, 
+		Folyamatos szakmai fejlődési és tanulási lehetőségek.
+ Munkavégzés helye: Budapest, de az ország minden pontjáról várunk jelentkezőket, hiszen home office biztosítva van! 
+ Munkaidő: hétfőtől - péntekig, heti 40 óra - rugalmas munkarend
+ Amennyiben érdekel a meghirdetett pozíció, küldd el számunkra angol és magyar nyelvű önéletrajzodat a JELENTKEZÉS gombra kattintva!
+Jelentkezem
+Elmentem az állást
+C++ FEJLESZTŐ 
+Jelentkezem
+Elmentem az állást
+BECK AND PARTNERS Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 17.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ .NET FEJLESZTŐ 
+ Pest megye  
+ MARKETING MUNKATÁRS (RÉSZMUNKAIDŐBEN) 
+ Budapest  
+ Sörbicikli sofőr - bér Br. 1910 Ft/óra 
+ Budapest  
+ JAVA FEJLESZTŐ 
+ Győr-Moson-Sopron megye  
+ MEDIOR JAVA FEJLESZTŐ 
+ Budapest  

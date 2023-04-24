@@ -1,0 +1,84 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Data Architect (Budapest)
+Data Architect (Budapest)
+A hirdetés már lejárt!
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+5+ év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+Data Architect
+Tasks:
+Provide direction and guidance on cloud platform services - SaaS and PaaS service models
+Design a scalable and flexible data architecture and creation of blueprint(s) for big data use cases solutions in a Hybrid Environment to ensure data assets can be easily integrated and shared across downstream systems (including external cloud partners)
+Act as a subject matter expert and collaborate with various internal teams and drive the transformation of their data-sharing capabilities and culture
+Lead the Architecture, Design, Build and Run of new Data Models and Data Pipelines. Preparing, Enriching, Normalising, and Modelling data as per the needs of Data Analytics and Data Science activities
+Lead knowledge management activities including documentation of data assets to promote data literacy
+Develop standards and best practices for building data services for easy access to data consumers in line with security and privacy needs
+Our Partner is a global technology company supplying systems for passenger cars, commercial vehicles and industrial technology, enabling the next generation of mobility.
+Expectations:
+Bachelor's degree or higher in Computer Science
+8-10 years of strong experience in designing and architecting big data, analytics, data warehouse, and business intelligence solutions (Microsoft Azure, SAP BW, BW4HANA)
+Deep understanding of architecture design patterns including several layers such as infrastructure, web application, data architecture, and integration architecture
+Technical expertise in Microsoft Azure cloud technologies (ADLS, Databricks, Synapse) and understanding of SAP BW, BW4HANA
+Strong scripting and automation skills in various languages (such as SQL, Python, and Powershell,)
+Strong in data modeling including graph data model
+Must have experience working in a large enterprise and be able to communicate effectively with business partners, internal IT teams, and external partners
+High levels of energy and enthusiasm to work in a dynamic environment and work towards common objectives
+Advantages:
+Experience with data virtualization tools/techniques for quick and easy data sharing for large enterprise users
+Experience in setup and management of data catalog for the whole enterprise
+Hands-on experience in any of data visualization tools such as PowerBI, SAC, Tableau
+Effective project management skills including Agile methodologies
+Offer:
+Stable company background and long-term working possibility
+Full of challenges and high-level professional activities at an international company
+Participation in international projects and commission to foreign countries
+Career opportunities, continuous training program and language courses
+Competitive salary and performance-related bonus
+Cafeteria with optional elements
+School start support
+Munkavégzés helye
+Budapest
+Neked ajánlott állások
+Neked ajánlott állások
+EasyHiring Services Kft. -
+Hálózatépítő
+Deutsche Telekom IT Solutions -
+Senior Network Architect (Open Telekom Cloud) (REF1665U)
+EasyHiring Services Kft. -
+Application engineer
+EasyHiring Services Kft. -
+Security Architect
+Deutsche Telekom IT Solutions -
+Security Analyst (REF92A)
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

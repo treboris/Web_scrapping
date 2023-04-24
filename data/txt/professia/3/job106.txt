@@ -1,0 +1,84 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceReliability Equipment Software Design Engineer / Inžinier pre vývoj softvéru testovacích zariadení (R&D) 
+Minebea Slovakia s. r. o.
+U-Shin Slovakia s. r. o.
+Reliability Equipment Software Design Engineer / Inžinier pre vývoj softvéru testovacích zariadení (R&D)
+Miesto práce
+Košice
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+by agreement
+Mzdové podmienky (brutto)
+1 300 - 2 200 EUR/mesiacV závislosti od pracovných skúseností a vedomostí kandidáta
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiStaň sa členom mladého MDCK tímu a pracuj pre inovatívne projekty.Súčasťou Minebea Slovakia s.r.o. je aj výskumno vývojové stredisko MDCK (Minebea Development Centre Košice), ktoré úzko spolupracuje s vývojovým strediskom MinebeaMitsumi Technology Center Europe GmbH v Nemecku. Poskytuje uplatnenie odborníkom v oblasti informačných technológií, elektrotechniky a vedy a výskumu. Okrem vývoja produktov priamo vyrábaných v košickom závode spolupracuje na vývoji inovatívnych projektov v oblasti medicíny, robotiky a SMART riešení pre domácnosti a mestá.Tvojou prácou bude: Tvorba a implementácia softvéru pre zariadenia testovania spoľahlivosti Vytváranie automatizovaných testovacích skrípt v programovacích jazykoch Python, Net a iných Vytváranie a implementovanie komunikačných modulov (LIN bus, CAN bus a iné komunikačne rozhrania) Zodpovednosť za verziovanie a údržbu programov, aktívna spolupráca na recenziách softvérového dizajnu Podpora tvorby a následného vývoja softvérovej architektúry Zodpovednosť za tvorbu softvérovej dokumentácie zodpovedajúcej príslušným štandardom Vytváranie testovacej špecifikácie softvéru a testovanie vytvoreného softvéru Spolupráca s oddelením vývoja elektroniky na vývoji skúšobných zariadení Podieľanie sa na vykonávaní REE testov za účelom identifikácie a odstránení nedostatkov navrhnutých softvérových systémov. Podieľanie sa na analýze meracích systémov a príprave akceptačných listov pre testovacie zariadenia Spolupráca s MinebeaMitsumi vývojovými tímami v rámci celého sveta Zamestnanecké výhody, benefity Flexibilný pracovný čas (8 hodinový úväzok), pevná pracovná doba (Po-Štv 9:15-15:00 a   Pia 9:15-12:00) s možnosťou využívania Saldo konta v rozpätí +/- 35 hodínValorizácia miezd: ročné navyšovanie miezd v závislosti od výkonu Koncoročné odmeny na základe hospodárskych výsledkov spoločnosti Možnosť home office, domáckej práce/telepráce Bonusové dni voľna naviac, a to v rozsahu 1 až 5 dní v závislosti od výkonu Príspevok zamestnávateľa na stravné nad rámec zákonníka práce Možnosť stravovania sa v závodnej jedálni Príspevok zamestnávateľa na multisport kartu Sociálny program: vitamínové balíčky, deň zdravia, darčekové poukážky a mnohé iné Školenia a možnosti rozvoja zamestnancov Príspevok na jazykové vzdelávanie Príspevok pri narodení dieťaťa, na svadbu, pri príležitosti životného jubilea Príspevok zamestnávateľa do III. dôchodkového piliera Pracovné podmienky zabezpečené vo vysokom štandarde a čistom prostredí Teambildingové aktivity Možnosť kariérneho rastu Informácie o výberovom konaníProsím, pošlite svoj životopis v anglickom jazyku na [email protected] V reakcii na túto ponuku, dávate automatické povolenie Minebea Slovakia s.r.o. spracovanie vašich osobných údajov.Všetkým žiadateľom ďakujeme za záujem. Dovoľujeme si Vás informovať, že budeme kontaktovať iba kandidátov, ktorí najviac vyhovujú potrebám a požiadavkám danej pozície. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInžinier so zameraním na počítačové inžinierstvo, elektrotechniku, softvérové testy alebo podobné zameranieJazykové znalostiAnglický jazyk - Mierne pokročilý (B1) alebo Nemecký jazyk - Mierne pokročilý (B1)Prax na pozícii/v oblastinárhu softvéru a softvérovej  architektúryPočet rokov praxe3Osobnostné predpoklady a zručnosti Znalosť  integrovaného softwaru Znalosť programovacích jazykov C a Python Skúsenosti s LIN Bus  protokolom, Vector CANoe a/alebo Babylin Komunikačné zručnosti a schopnosť pracovať v tíme Písomné a hovorené znalosti anglického alebo nemeckého jazyka Inzerujúca spoločnosť Stručná charakteristika spoločnostiJe združením viacerých entít koncernu MinebeaMitsumi vo svete a pozostáva z niekoľkých samostatných výrobných divízií. Zameriava sa najmä na vývoj a produkciu elektronicky komutovaných motorov BLDC a inovatívnych pohonných technológií.Naše výskumno-vývojové stredisko v Košiciach MDCK (Minebea Development Centre Košice) úzko spolupracuje s vývojovým strediskom Technology Center Europe GmbH v Nemecku. Poskytuje uplatnenie najväčším odborníkom v oblasti informačných technológií, elektrotechniky, vedy a výskumu. Okrem zastrešenia produktov priamo vyrábaných v košickom závode sa orientuje aj na inovatívne projekty v oblasti medicíny, robotiky a SMART riešení pre domácnosti a mestá. Spoločnosť zaoberajúca sa vývojom a výrobou elektrotechnických komponentov pre automotive a iné priemyselné využitie. Počet zamestnancov500-999 zamestnancov KontaktKontaktná osoba: Mgr.  Zuzana RichterováE-mail: poslať životopis 
+Minebea Slovakia s. r. o.
+K letisku 1637040 17 Košice
+www.minebeamitsumi.eu/sk/minebeamitsumi-europa/minebea-slovakia-sro
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4557381 
+     Dátum zverejnenia:  14.4.2023 
+    2023-04-14
+lokalita: Košice   Pozícia: C programátor, Elektrotechnický inžinier, Procesný inžinier, Python programátor, Softvérový inžinier   Spoločnosť: Minebea Slovakia s.r.o.   
+Základná zložka mzdy (brutto): 1 300 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťZobraziť miesto práce na mapeUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

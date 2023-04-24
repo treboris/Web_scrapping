@@ -1,0 +1,43 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Manuális Tesztelő
+Részvétel a specifikációk véleményezésében,
+A szoftver teljes fejlesztési ciklusát lefedő tesztelési feladatok elvégzése (integration, system, user acceptance testing),
+Saját fejlesztésű teszt automatizáló szoftverben tesztesetek készítése, karbantartása, futtatása, kiértékelése,
+Hibajavítások nyomon követése, folyamatos együttműködés a fejlesztőkkel, gépészekkel és UI designerekkel,
+Tesztelési folyamatok és módszerek fejlesztése.
+                Elvárások / Requirements
+Legalább 2 éves, hasonló területen szerzett szakmai tapasztalat,
+Rendszerszemlélet, analitikus szemléletmód,
+Önálló, precíz munkavégzés,
+Középszintű angol nyelvtudás.
+ Pozíció betöltéséhez előnyt jelent:
+Jira, Confluence ismeret,
+Gyártási / gépipari tapasztalat, 3D-s grafikus alkalmazási tapasztalat,
+ISTQB vizsga
+Komplex, ipari szoftverek tesztelésében szerzett tapasztalat.
+                Amit nyújtunk / Benefits
+Változatos, folyamatosan új funkciókkal bővülő egyedi termékek tesztelése,
+Rugalmasság és nyitottság,
+Kellemes munkahelyi légkör, támogató csapat,
+Versenyképes bérezés.
+a0t6N000000PrgQQAS
+Manuális Tesztelő 
+Jelentkezem
+Elmentem az állást
+Trenkwalder Kft 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 20.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ Manuális Tesztelő 
+ Budapest  
+ Advanced IT Audit Analyst 
+ Budapest  
+ C# fejlesztő 
+ Budapest  
+ Szoftvertesztelő gyakornok 
+ Budapest  
+ Java Team Leader 
+ Budapest  

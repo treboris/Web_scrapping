@@ -1,0 +1,118 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceC/C++ Embedded Developer Automotive - Medior / Senior  
+C/C++ Embedded Developer Automotive - Medior / Senior CIT-Con SK s. r. o.
+Místo práce
+Práce z domu
+Druh pracovního poměru
+plný úvazek
+Termín nástupu
+dohodou
+Mzdové podmínky (brutto)
+2 200 - 3 500 EUR/měsíc
+Informace o pracovním místě Náplň práce, pravomoci a zodpovědnostiChcete se podílet na vývoji automobilů budoucnosti? 
+Do našeho skvělého teamu hledáme zkušené kolegy a kolegyně.
+Čím se zabýváme?
+Pracujeme na vývoji SW komponent pro řídicí jednotky v automobilovém průmyslu. Tyto řídicí jednotky se následně implementují do osobních a nákladních vozidel, traktorů a autobusů poháněných hybridním, nebo ryze elektrickým pohonem. 
+Embedded Developer zpracovává požadavky na vývoj SW komponenty, diagnostických dat nebo zavaděčů firmware, které jsou následně implementovány do aplikační vrstvy řídící jednotky (ECU). Výsledkem této práce je kód, který je integrován spolu s ostatními funkcemi do výsledného SW celé řídicí jednotky automatické převodovky a celého pohonného ústrojí.
+Co Vás tedy čeká?
+•	Práce na vývoji a integraci SW pro řídicí jednotku automatické převodovky vozidel
+•	Postupné zapracování do procesu vývoje zohledňujícího požadavky na funkční bezpečnost a kvalitu podle ISO26262 a SPICE 
+•	Denní komunikace s koordinátorem projektu a s kolegy 
+•	Vývoj nebo úprava funkcionality na svěřené komponentě dle požadavku projektu nebo změnových požadavků ze strany zákazníka (v C nebo C++) 
+•	Řešení technických výzev v oblasti Basic Software pohonných jednotek a komponent ECU v automotive prostředí
+•	Analýza, dokumentace, úprava, oprava nebo vyvoj nové svěřené SW časti
+•	Testování za pomocí unit testů 
+Vývojové prostředí:
+•	Visual Studio nebo Eclipse
+Použitá technologie:
+•	C, C++ pro vývoj. 
+•	GIT, ITL Integrity a další nástroje v podobě rozsáhlého automotive toolchainu
+Na co se u nás můžete těšit?
+•	Nabízíme stabilní a dlouhodobou práci na prestižních projektech
+•	Velmi dobré finanční ohodnocení odpovídající schopnostem a odvedené práci
+•	Potenciál profesního růstu
+•	Naše nové kolegy zaškolíme do dané problematiky
+•	Nabízíme bezplatné odborné vzdělávání včetně podpory jazykového vzdělávání
+•	Možnost práce z domova, z kanceláře nebo kombinace
+•	Flexibilní pracovní dobu
+•	Interní systém benefitů
+•	Velmi přátelské a neformální pracovní prostředí Zaměstnanecké výhody, benefity5 týdnů dovolené
+3 dny SickDays
+Bonusy
+Důchodové spoření
+Kafeterie - roční rozpočet benefitů na míru
+Stravenky
+Neomezené volaní a data v mobilu
+Jazykové a vzdělávací kurzy
+Každý měsíc rozpočet na firemní akce
+Naše společnost CIT-Con SK s.r.o. působí ve dvou lokalitách - Praha a Liptovský Mikuláš. Tato pozice nevyžaduje pravidelné docházení do kanceláře. Uchazeči, kteří preferují práci v kolektivu a jsou z lokality Liptovský Mikuláš, mohou využít naši kancelář, kde najdou své místo. Těšíme se na nové tváře v našem skvělém týmu. Požadavky na zaměstnance Pozici vyhovují uchazeči se vzdělánímvysokoškolské I. stupně
+vysokoškolské II. stupněJazykové znalostiAnglický jazyk - Středně pokročilý (B2)Osobnostní předpoklady a dovednostiCo od Vás očekáváme my? 
+•	Minimálně 2 roky komerční zkušenosti s embedded vývojem 
+•	Pokročilá znalost C/C++ 
+•	Angličtina na úrovni B2 se zaměřením na technickou angličtinu, budete komunikovat se zákazníky a týmy v zahraničí
+•	Výhodou je znalost komunikace po CAN sběrnici Inzerující společnost Stručná charakteristika společnostiAutomotive Software Engineering.
+Jsme inženýrské kompetenční centrum pro oblast automobilové techniky, nabízející řešení šitá na míru, výrobním podnikům, dodavatelům i poskytovatelům inženýrských služeb. Práce našich expertů zahrnuje širokou škálu kompetencí v oblasti testování a vývoje software. Počet zaměstnanců25-49 zaměstnanců KontaktKontaktní osoba: Matúš SzabóE-mail: poslat životopis Poslat společnosti životopis 
+                    Doporučit nabídku známému
+ E-mail Facebook Viber Whatsapp
+ID: 4232389 
+     Dátum zverejnenia:  5.4.2023 
+    2023-04-05
+lokalita: Práce z domu   Pozícia: Programátor, Programátor C, Programátor C#, Programátor C++, Softwarový inženýr   Spoločnosť: CIT-Con SK s. r. o.   
+Základná zložka mzdy (brutto): 2 200 EUR/měsíc
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

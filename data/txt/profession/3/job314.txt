@@ -1,0 +1,138 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+IT, fejlesztési vezető
+Pest megye
+Törökbálint
+Szoftverfejlesztési csoportvezető
+QLM Development Center Kft.
+2045 Törökbálint, Tópark utca
+ Elvárt technológiák
+JAVA
+DEVOPS
+ECLIPSE
+GIT
+MYSQL
+SQL
+POSTGRESQL
+SPRING
+SECURITY
+JAVASCRIPT
+JQUERY
+Biztosított eszközök
+Laptop
+Mobiltelefon
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+5-10 év szakmai tapasztalat
+Főiskola
+Juttatások
+Mobiltelefon
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+ Elvárt technológiák
+JAVA
+DEVOPS
+ECLIPSE
+GIT
+MYSQL
+SQL
+POSTGRESQL
+SPRING
+SECURITY
+JAVASCRIPT
+JQUERY
+Biztosított eszközök
+Laptop
+Mobiltelefon
+QLM Development Center Kft.
+Pályázatot hirdet az alábbi állás betöltésére:
+Szoftverfejlesztési csoportvezető
+A QLM cégcsoport iparágában az egyik legnagyobb és a legszélesebb termékskálával rendelkező raktári állványrendszerekkel, anyagmozgató gépekkel, raktári- és ipari kapukkal, dokkolás technikai eszközökkel, automata raktári megoldásokkal és logisztikai szoftverekkel foglalkozó cég Magyarországon.Csatlakozz hozzánk és légy fejlesztői csapatunk fontos tagja, szakmai vezetője.Formáljuk együtt a hazai intralogisztikai megoldásokat.A QLM cégcsoport fontosnak tartja, hogy megoldásaival élen járjon a piacon és utat mutasson a jövő megoldásaiban.Az interjú folyamán lehetőséged lesz megismerkedni a fejlesztői csapat tagjaival és minden kellő információt megadunk a döntésedhez.
+Főbb feladatok, munkák:
+a szoftverfejlesztési csapat (10-15 fő) vezetése (People management) és feladatainak koordinálása (Task and resource management), ezáltal a legjobb szállítási minőség biztosításafeladatok kiosztása a kapott prioritások, feladatfüggőségek és a csapattagok szakértelme alapjána csoport szakmai és szervezési támogatása, felmerülő akadályok elhárításabelső tudásmegosztás és a szakmai ismeretek továbbfejlesztésének ösztönzéseszoros kapcsolattartás a felettessel és együttműködés más osztályokkal (Architekt team, tanácsadó team, projekt csapat, ügyféltámogatás)napi fókusz: teendők, prioritások, előrehaladás biztosítása és nyomkövetése (riportálás felettes és projekt irányba), 1on1-ok tartása  
+Az álláshoz tartozó elvárások:
+felsőfokú végzettség mérnöki vagy IT területen és/vagy releváns tapasztalatcsoport- vagy projektvezetői tapasztalatmagabiztos angol ismeretkiváló kommunikációs készség és szervező és problémamegoldó képességszéleskörű szoftver és rendszer ismeretek
+Az állás betöltéséhez előnyt jelent:
+Java fejlesztési tapasztalatDevOPS tapasztalatagilis módszertanok ismereteRedmine PM & ticketing tool ismerete
+Amit kínálunk:
+rugalmas munkaidővel és home office lehetőséggel támogatunk (heti 3-4 nap)természetközeli iroda Törökbálinton, bejárási támogatás és egyszerű parkolási lehetőségigazán összetartó és szakmailag erős csapat, alacsony fluktuációsegítőkész és támogató közegstabil megrendelőkörrel rendelkező logisztikai szoftvert fejlesztünk (WaProM – warehouse management)lehetőség több új érdekes, innovatív projektben való részvételreképzési és fejlődési lehetőséget biztosítunkTechnológiai környezet:Java EEEclipse IDE, Git verziókezelő, Jenkins,Adatbáziskezelő: MySQL, MS SQL Server, PostgreSQLJava oldalon:Spring framework (core + mvc + security)MyBatisJavaScript oldalon a jquery knockout.js
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+IT, fejlesztési vezető
+Jelentkezés módja:
+Ez a pozíció Neked való, ha szívesen dolgozol olyan csapatban, ahol fontos az összetartás és mindenkit motivál az új megoldások keresése iránti vágy.A jelentkezéshez kérlek küldd el önéletrajzodat.
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok
+5-10 év szakmai tapasztalat
+Főiskola
+Juttatások
+Mobiltelefon
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+QLM Development Center Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Számítógépes programozás
+25-50 munkavállaló
+2012
+1097
+Budapest,
+Gubacsi út 6/B.
+Értékelések a(z) QLM Development Center Kft. cégről
+4,3
+4 értékelés alapján 
+Értékelések kategória szerint 
+3,5
+Bérezés és juttatások 
+5,0
+Munkaidő és munkarend 
+4,5
+Főnökök 
+4,0
+Fejlődési, előrelépési lehetőség 
+5,0
+Munka és magánélet egyensúlya 
+4,0
+Kollégák és céges hangulat 
+4,3
+Megközelíthetőség 
+3,8
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+75%
+Ajánlaná ismerőseinek 
+Biztosítják a munkaeszközöket 
+Családbarát hely 
+Támogatják a képzéseket 
+Összetartó csapat 
+Rugalmas 
+További előnyök  
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

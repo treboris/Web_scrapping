@@ -1,0 +1,116 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava developer - Home Office/Office 
+msg life Slovakia
+NAPREDUJ SPOLU S NAMI
+a využi svoj talent
+Analyzujeme, vyvíjame a testujeme inteligentné softvérové produkty v oblasti  finančných a poistných služieb
+www.msg-life.sk
+Pracovné ponuky
+O nás
+Kontakt
+Java developer - Home Office/Office
+Poslať spoločnosti životopis
+                                Miesto práce
+                            Hraničná, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Mzdové podmienky (brutto)
+                            Od 2 700 EUR/mesiac *
+                                Druh pracovného pomeru
+                            plný úväzok, skrátený úväzok, živnosť
+*Od 2700 € brutto mesačne + prémie. Konkrétna výška mzdy závisí od znalostí a skúseností a je výsledkom vzájomnej dohody. Nástupný bonus už od 2700€. Práca z domu alebo v kancelárii v BA podľa dohody.Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednosti• Tvojou úlohou bude rozširovanie a vývoj ďalšej funkcionality podnikového informačného systému zameraného na návrh a riadenie projektov, plánovanie a koordináciu zdrojov, evidenciu projektových časových výkazov a integrácia s ďalšími vnútrofiremnými systémami.
+• Optimalizácia a prispôsobenie nášho systému ERP podľa špecifických podnikových potrieb alebo business procesov.
+• Podpora a priebežná údržba informačného systému vrátane implementácie aktualizácii softvéru.
+Používané technológie:
+• Programovací jazyk: Java
+• Frontend (GUI): Java Swing
+• Backend: Spring, Hibernate, Servlet API, Quartz, jXLS
+• Relačné databázy: PostgreSQL
+• Aplikačný server: GlassFish (produkcia), Apache Tomcat (test)
+• Client-Server architektúra Zamestnanecké výhody, benefity• atraktívny plat a pravidelné prémie
+• výhody pružného pracovného času a hybridného pracovného modelu
+• voľno navyše za každý odpracovaný rok, po piatich rokoch tak môžete každoročne čerpať až 30 dní dovolenky
+• platené voľno 31. 12.
+• bezplatné kurzy anglického a nemeckého jazyka priamo na pracovisku
+• odborné zaškolenie, kvalitné interné vzdelávanie, možnosť získania certifikátov a absolvovania školení 
+• štedrý príspevok na stravné lístky 
+• zdravé občerstvenie, kvalitná káva, čaje a spoločné firemné obedy 
+• jazdy na motokárach, splav rieky, laser tag, stolný futbal, vianočnú či letnú párty
+• príspevok na hobby 200 Eur/ročne
+• neformálnu, rodinnú atmosféru a super kolegov Informácie o výberovom konaníV prípade Vášho záujmu o túto pracovnú pozíciu nám prosím pošlite svoj životopis na  e-mailovú adresu [email protected]
+Údaje, ktoré nám poskytnete, budú posúdené a spracované v súlade so Zákonom o ochrane osobných údajov.
+Kontaktovať budeme uchádzačov spĺňajúcich požadované kritériá.
+Ďakujeme za pochopenie. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Stredne pokročilý (B2) alebo Nemecký jazyk - Začiatočník (A2)Ostatné znalostiJava - PokročilýOsobnostné predpoklady a zručnosti• Mal by si mať niekoľkoročné pracovné skúsenosti v oblasti Java programovania (aspoň úroveň medior).
+• Aktívna znalosť anglického jazyka a pasívna znalosť nemeckého jazyka, prípadne ochota učiť sa nemecký jazyk.
+• Výhodou sú skúsenosti s relačnými databázami.
+• Výhodou sú skúsenosti s ERP systémom.
+• Pracovať budeš v menšom tíme, ktorý sa postará o tvoje zaškolenie a koučing. Oceníme však aj tvoj samostatný prístup k pracovným úlohám. Inzerujúca spoločnosť Stručná charakteristika spoločnostiSpoločnosť msg life Slovakia je dcérskou spoločnosťou nemeckej skupiny msg life Gruppe. Medzinárodne činná skupina zodpovedá za profesionálne IT a poradenské služby v segmentoch poisťovníctva a finančníctva. Pre viac informácií kliknite  na  webovú stránku: https://msg-life.sk/ Počet zamestnancov200-249 zamestnancov
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+Kontaktné údaje:
+Kontaktná osoba: Personálne oddelenieTel.: +421232221454E-mail: 
+ID: 4344884 
+     Dátum zverejnenia:  20.3.2023 
+    2023-03-20
+lokalita: Bratislava   Pozícia: Java programátor, Programátor, Softvérový inžinier   Spoločnosť: msg life Slovakia s.r.o.   
+Základná zložka mzdy (brutto): 2 700 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

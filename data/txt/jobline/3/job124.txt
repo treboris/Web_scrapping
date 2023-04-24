@@ -1,0 +1,80 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Data Scientist (Magyarország)
+Data Scientist (Magyarország)
+A hirdetés már lejárt!
+Hays Hungary Kft.
+Alapvető elvárások
+IT, telekommunikáció
+SSC (Shared Service Center)
+1 - 2 év tapasztalat
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+teljes munkaidő
+angol - középfokú
+Data Scientist
+Data Scientist
+Fully remote
+25-35 EUR/ hour
+Your new company
+This position will support the Proactive Customer Services organization to develop and implement disruptive approaches to enhance our client's ability to support customers and grow the aftersales business. The position will enhance development of data uses through AIML techniques, predictive and statistical analysis, data exploration and visualization.
+The purpose of this position is to analyze machine telemetry data -  IOT data and execute advanced analytical models and make recommendations on conditional and predictive maintenance use-cases.
+The role will be part of a global Proactive Customer Services team working in a cloud environment and addressing use-cases.
+Your new role
+Work with business partners to understand inquiries and opportunities in which analytics could be applied to generate identify issues in time-series data and make recommendations on analytical findings.
+Accountable for delivering world-class data science outcomes, solving complex analytical problems using quantitative approaches with a unique blend of analytical, mathematical and technical skills in programming languages that are used in big data environments, and supporting model and insight acceptance and understanding.
+As needed for complex use-cases, design, build and deploy high-performance prediction and optimization algorithms to solve business problems and facilitate new digital applications – particularly focused on machine data from telematics and leveraging other sources of data.
+Research, design, implement and validate cutting-edge algorithms to analyze diverse sources of data to achieve targeted outcomes
+Generate reports, annotated code, and other project artifacts to effectively document, archive, and communicate work and outcomes
+Evaluate model accuracy and report on performance of insights. Participate in peer review of models and code.
+Enhance understanding of data science and models in order to increase acceptance and demystify analytics output.
+What you'll need to succeed
+Data savvy person with experience (2-4 years) in data science
+Hands-on knowledge in SQL, Python or R
+Experience with IOT data
+Excellent written and spoken communication in English
+Familiarity with conditional and predictive modeling concepts, machine-learning approaches, clustering and classification techniques, recommendation and optimization algorithms
+Advantages:
+Intellectual curiosity, continuous improvement
+Knowledge of Salesforce is an advantage
+Knowledge of industrial mechanical topics is an advantage
+Knowledge of cloud providers (Databricks, AWS S3, EC2, Athena, Redshift, SageMaker, etc) is an advantage
+Neked ajánlott állások
+Neked ajánlott állások
+Deutsche Telekom IT Solutions -
+Process and Service Management (REF1237Q)
+Randstad Hungary Kft -
+Magasépítésért felelős építésvezető (vasút)
+Randstad Hungary Kft -
+Product Advisor/BI Analyst
+LSK Hungária Kft. -
+Ügyfélszolgálati recepciós munkatárs
+Deutsche Telekom IT Solutions -
+International IT Market Business Analyst
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

@@ -1,0 +1,82 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJava Developer (public health) - BA, BB 
+Práca
+Firma
+Benefity
+Kontakt
+Java Developer (public health) - BA, BB
+                                Miesto práce
+                            Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+                                Typ
+                            plný úväzok
+                                Mzda (eur brutto)
+2 500 EUR/mesiacod 2500 brutto (v závislosti od skúseností)
+* brutto/mesačne, reálna mzda podľa skúsenostíAsseco Central Europe (Asseco CE) je jedným z najsilnejších softvérových domov v strednej a východnej Európe. Patrí medzi najvýznamnejších poskytovateľov komplexných riešení a služieb v oblasti informačných technológií „šitých na mieru“. Realizuje rôzne projekty pre komerčnú sféru, ako aj pre štátnu správu a samosprávu. Pracuje v oblasti bankovníctva, poisťovníctva, verejného sektora a iných. Asseco CE je súčasťou medzinárodnej skupiny Asseco Group, ktorá v súčasnosti pôsobí v 54 krajinách sveta.Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme programátora na vývoj a implementáciu produkčného systému pre zdravotnú poisťovňu. Systém je založený na programovacom jazyku Java. Ide o rozsiahly, dlhodobý  a stabilný projekt, ktorého účelom je zlepšenie a zvýšenie kvality a efektivity pre užívateľov systému. Tvojou náplňou práce bude:návrh technického riešenia a vývoj softwarepodpora pri analýze klientskych požiadaviek  riešenie chýb hlásených počas testovania SW a prevádzkových chýb  aktívna tímová spolupráca s členmi vlastného tímu (team leader, vývojári, analytik, tester)   komunikácia so zákazníkom Zamestnanecké výhody, benefityvariabilná zložka odmeňovania v podobe kvartálnych bonusovvzdelávanie prostredníctvom internej akadémie a externých školení  jazykové kurzy  dni voľna pri špeciálnych príležitostiach nad rámec zákona  home office do výšky 50% pracovného času  príspevok do doplnkového dôchodkového sporenia  Informácie o výberovom konaníPodmienkou je znalosť:Java 8 – pokročilýSkúsenosti s frameworkom Spring Boot – pokročilýZnalosť OOP, SOLID, DRY, KISS princípov  Výhodou je skúsenosť s technológiami:nástroje Gradle, Git, Jenkins, SonarQube, JiraKafka, Elasticsearch, Cassandra, Apache Spark, Apache DroolsREST, JUnitDocker, Linuxmicroservice architektúra a spracovanie veľkého množstva dát Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímvysokoškolské II. stupňaPočet rokov praxe3
+DISCLAIMER
+Asseco CE podporuje inakosť a diverzitu. Naša firemná kultúra je otvorená všetkým bez ohľadu na ich vek, národnosť, pohlavie alebo zdravotné znevýhodnenie. Svojich zamestnancov si starostlivo vyberáme na základe ich zručností, praxe, znalostí a osobnostných predpokladov. Zamestnávame kolegov so zdravotným hendikepom, tiež nakupujeme výrobky cez chránené dielne, vďaka čomu môžeme prostriedky, ktoré by sme inak museli odvádzať do odvodového systému vracať medzi tých, ktorí si to najviac zaslúžia.Inzerujúca spoločnosť Počet zamestnancov500-999 zamestnancov KontaktKontaktná osoba: Veronika RajčekováE-mail: poslať životopis
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4550814 
+     Dátum zverejnenia:  3.4.2023 
+    2023-04-03
+lokalita: Banská Bystrica   Pozícia: Backend programátor, DevOps Engineer, Java programátor, Programátor   Spoločnosť: Asseco Central Europe, a. s.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

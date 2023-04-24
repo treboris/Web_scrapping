@@ -1,0 +1,83 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+Senior Java backend fejlesztő (jee/jse) - bank (gyk)
+Tech People Hungary Kft.
+Budapest, IX. kerület
+ Elvárt technológiák
+JAVA
+ORACLE
+BACKEND
+HIBERNATE
+API
+JUNIT
+CUCUMBER
+BITBUCKET
+ Módszertanok és szoftverek
+Jenkins
+Maven
+Confluence
+Jira
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Vállalkozói, Home office
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Középiskola
+ Elvárt technológiák
+JAVA
+ORACLE
+BACKEND
+HIBERNATE
+API
+JUNIT
+CUCUMBER
+BITBUCKET
+ Módszertanok és szoftverek
+Jenkins
+Maven
+Confluence
+Jira
+A Tech People egy európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat, valamint kiszervezett technológiai szolgáltatásokat nyújt különböző iparágak számára.
+Jelenleg az alábbi pozícióba keresünk munkatársat:
+SENIOR JAVA BACK END FEJLESZTŐ (JEE/JSE) - BANK (GYK)
+Munkavégzés helye: Budapest IX. kerület, 50%-ban bejárással
+Fizetés: versenyképes
+Munkavégzés formája: kontraktor
+Feladatok:
+A bank a egy meglévő rendszerének továbbfejlesztése, mely az ügyfél kiszolgálási területen nagy jelentőséggel bíró alkalmazás JEE fejlesztői feladatok ellátása csapatbanOpcionálisan Oracle DB tuning feladatok ellátásaMeglévő alkalmazás domain megismeréseEgyeztetés rendszerszervező kollégákkalFejlesztés / tervezés / erőforrás költségének megbecslése
+Elvárások:
+Backend Java fejlesztői tapasztalat mid vagy senior szinten JEE 7,8 / JSE8, 11 (minimum 4+ év tapasztalat):EJB3.3 (StatelessBean, Message Driven Bean, SOAP-WS készítés EJBből )Tranzakciós határok CMT tranzakciók viselkedése (REQUIRED, REQUIRED_NEW, stb)szinkron, aszinkron kommunikáció stb..Hibernate, JPA2.x (tranzakció kezelés, JPQL select, Provider független API használat, CriteriaAPI, EntityManager és használata)JMSJAX-WS (Consumer oldal JEE8 szabvány szerint, Provider oldal szolgáltatás nyújtás JEE8 szabvány szerint, JAXB)Integrációs technológiák: SOAP, MQJó kommunikációs készségÖnállóság, és csapatban való együttműködés is
+Előny:
+JEE szakértői szintű ismereteFrontend ismeret (JSP, Wicket)Docker - OpenShiftBDD -CucumberBanki tapasztalatOracle fejlesztői tapasztalatok (PL/SQL script írása, SQL select-ek írása optimalizálása, performance tuning, hatékony querryk írása, relációs db tapasztalat 50+ tábla, Oracle Weblogic, RAC)Angol nyelvtudás (nincs aktív használatban a mindennapokban)Jenkins, Maven, Git/bitbucket, Junit, Sonar Cube, Confluence, Jira
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Vállalkozói, Home office
+Általános munkarend
+Elvárások:
+Nem igényel nyelvtudást
+3-5 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

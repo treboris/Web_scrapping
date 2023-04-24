@@ -1,0 +1,117 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior DevOps Engineer (Payment Solutions) 
+Careers
+Gallery
+Senior DevOps Engineer (Payment Solutions)
+                                Place of work
+                            Námestie Mateja Korvína 1, Bratislava, Slovakia (Job with occasional home office)
+                                Contract type
+                            full-time
+Information about the position Job description, responsibilities and dutiesWe are hiring a member of our Payment Solutions team! 
+Recently, we launched our new, built from scratch Payment Solution to serve the needs of our merchants. The Payment Solution is setup entirely in our cloud infrastructure using DevSecOps practices. Are you a senior DevOps Engineer and want to join an innovative and growing company? The team is already working at full speed, but we are still looking for a new talent to join us. Let us know about you!
+What agenda is waiting for you?
+•	Building CI/CD pipelines in Gitlab
+•	Provisioning AWS services with Terraform
+•	Running containerized microservices on AWS
+•	Ensuring the smooth running of our Payment Solution with on-duty support
+•	Close collaboration in a cross functional agile team
+•	Consider strong security throughout your work
+•	Documentation of your work Wage (gross)2 800 EUR/monthminimum 2800 € + fixed allowances twice a year + bonus 
+(Offered salary is equal to minimal level of experience communicated in the advertisement. Please, if you are more senior, do not hesitate to share your expectations with us. Our goal is to pay our people fairly and with regards to the market situation. Our doors are open to all talented candidates.) Employee perks, benefitsBe in the middle of innovative payment technologies and delivering unique pioneering solutions within Raiffeisen Bank International Group in CEE. Develop your career and upgrade your potential within the RPC company.
+1.	Develop your potential in RPC
+Enjoy variety of internal and external trainings and develop your skills. Take a part in the internal RPC Academy, RPC Manager Academy, external soft and hard skills trainings (many finishing with certificates), courses, conferences, or meetups. We will contribute to your English training and offer you other online educational portals. We encourage our colleagues to move in RPC also internally by applying for vacant positions. Be one of our success stories!
+2.	Hybrid model of work and work-life balance
+Enjoy being in the office with your colleagues, quickly solving all issues face to face. On the other hand, use home office during the month anytime you need. We give you also extra days-off like a vacation plus or sick days. We proudly also support working moms offering them part-time contracts if they want.
+3.	Physical and mental health support
+Many of our colleagues relax by sporting activities. They enjoy benefits in the form of Multisport card with access to sport and wellness facilities, travel to RPC by bike (we have bike room and showers in the office) and are competing on our regular online challenges or sport days. RPC organizes regular Health Days where professionals/ doctors come directly to our office. But we do not stop there because we value also mental health of our colleagues. They may use help in the form of 1to1 sessions with professional counsellors.
+4.	Office that you love to come
+If you are kind of a “office person” you may look forward to our modern premises. Great location near to the city center with access to many shops and dining places will please you, too. Unlimited caffeine and tea booster is to be used by anyone who needs it. Your health will be regularly supported by fruit days. Game and chill out zones in the office offer time to relax and switch of for a while. In addition, you can take the opportunity to have a tasty regular breakfast with our leaders.
+5.	Benefits, that count (in real :))
+Last but not the least, we offer Cafeteria system for flexible choosing benefits of your interest (books, health care, sport & culture…), loyalty reward, transportation allowance and supplementary pension plan contribution (DSS) to think of the future too. Requirements for the employee Candidates with education suit the positionFollow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)Educational SpecializationTechnical degree in computer science or equivalentLanguage skillsEnglish - Upper intermediate (B2)Experience in the position/sector3Personality requirements and skills•	Knowledge of DevOps practices
+•	Experience with Source Code Management (Gitlab)
+•	Building CI/CD pipelines (Gitlab)
+•	Experience with IaC (Terraform)
+•	Knowledge of microservice architecture and APIs
+•	Building and running containers (Docker)
+•	AWS services and architecture (Cognito, ECS, RDS, S3, CloudFront, Route53, API gateway, Kafka (MSK), ALB, VPN)
+•	Scripting (Bash or Python)
+•	Ability to work in an agile environment using scrum methodology
+•	Strong team collaboration, stress-resilience, and flexibility
+•	Customer Centricity
+Advantages:
+•	Experience in product or agile project development in the banking or fintech industry
+•	Good working knowledge of Atlassian products (JIRA, Confluence)
+Advertiser
+Brief description of the companyRPC is dynamic regional IT service provider operating in the banking payment industry.
+Growing double-digit in processing volumes and bringing fresh, innovative payment technologies across the European region guarantees our employees are part of many exciting projects with Raiffeisen banks in multiple CEE countries. Often delivering unique pioneer solutions resulting in ‘’1st in the market’’ awards means our work is recognized and appreciated throughout the whole region. We are setting the bar for innovation and you can be part of it!
+RPC, as a centre of competence for card issuing, acquiring and digital payments is securely processing all transactions originated by the cards of our group banks or banks payment devices. We aim to provide the best reliable solutions for both, debit and credit card national-specific markets, and to be flexible when finding the ways to fulfil customer changing business needs.
+Besides Tatra banka in Slovakia, we are proud to have among our clients Raiffeisen Banks from Austria, Albania, Bulgaria, Czech Republic, Croatia, Romania, Serbia and Kosovo having a continuous customer base growth.
+RPC was established in 2000 as a division of Tatra banka, and with more than 20 years of success stories we provide services in the area of issuance and acceptance of payment cards to member banks of the Raiffeisen bank International Group. The separate company was established in 2008 as a Shared Service Centre to centralize the group’s card payment operations and to achieve high efficiency and price competitiveness.
+Number of employees200-249 employeesContactContact person: Petra MutišováE-mail: send CVSend CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+Follow us
+ID: 4156563 
+     Dátum zverejnenia:  6.4.2023 
+    2023-04-06
+lokalita: Bratislava   Pozícia: Backend developer, DevOps Engineer, Systems Administrator, Systems Engineer   Spoločnosť: RPC   
+Základná zložka mzdy (brutto): 2 800 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

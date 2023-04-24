@@ -1,0 +1,105 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Software Engineering Lead (autonomous driving plat... állás Országos
+C
+Tesztelés állások 
+Cégleírás / Organisation / DepartmentOur partner is an Australian technology company creating the future of mobility with software-defined driverless transport. To build this new future and respond to growing demand, we are on the hunt to employ fresh thinking, technical minds to join their dynamic team, where you will continue to innovate and thrive together.
+The company develops safety-rated, autonomous-ready, digital control systems (Digital Backbone) and modular vehicle platforms (Blanc Robot), for global commercial applications. They are developing the next generation of mobility, where vehicles run entirely on software and are programmable, improving efficiency & sustainability.
+It creates an inclusive environment that empowers employees and embraces diversity. They welcome and encourage everyone who has a passion and curiosity for technology, automotive and innovation to explore the open positions and join this growing team.Elvárások / Requirements
+An Engineering or Computer Science degree, or equivalent experience
+A passionate interest in electric transport and an interest in developing new generations of electric vehicles
+Proven experience in building and releasing production software packages in ECU's or controllers in relevant engineering projects
+Proficiency in embedded software development in C/C++, and model-based development in Simulink
+Proficiency with automotive or industrial communications such as CAN and Ethernet
+Experience with the v-model automotive software development lifecycle
+Experience with software functional safety implementations and preferably, ISO26262 certifications
+Strong understanding of vehicle dynamics, control theory and sensors
+Enjoy working in a fast-paced and growing global team environment
+Ability to work independently with a strong team ethos
+Capable of mentoring engineers in the software engineering domain
+Minimum of 15 years of experience in software development in industry
+Proficient in Hungarian and English
+Amit kínálunk / Offer
+Lead a software team developing safety-critical and mobility-focused embedded software
+Lead new strategies and develop adaptions to existing algorithms for vehicle motion control, user interfaces, API's, actuator and energy management with the software development team
+Manage implementation of systems tests, debugging and diagnostics and analyze resulting data
+Manage a team planning, designing, and optimizing automated test cases and CI/CD pipelines with the software test team
+Participate in design and code reviews within the software development lifecycle
+Generate and analyze requirements and specifications from stakeholders
+Collaborate with other software engineers, electrical, mechanical, systems, and product teams to deliver solutions
+Kapcsolattartó / Information
+Work at an exciting technology company within Hungary delivering globally in a multi-national group
+Enjoy a clear sense of ownership in your field, with the satisfaction of working on developments that create the future of a new category of autonomous vehicles
+Work alongside a friendly and passionate team on cutting edge technology
+Have the opportunity to travel to other company offices including Australia and the UK
+Enjoy modern office space and great work environment
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary Kft													
+Országos
+Nincs meghatározva
+ Tesztelés
+Lejárati dátum: 2023-04-23 21:30:00
+Álláshirdetés részletei
+PozícióSoftware Engineering Lead (autonomous driving platform)
+Munkavégzés helye
+Országos
+MunkaidőNincs meghatározva
+KategóriaTesztelés
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

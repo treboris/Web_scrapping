@@ -1,0 +1,108 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceTrainee Frontend Developer 
+Trainee Frontend DeveloperSOFTEC
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+skrátený úväzok, na dohodu (brigády)
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+6 EUR/hod.6€/hod.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiChceš budovať svoju kariéru už počas školy a pracovať so skúsenými ľuďmi na zaujímavých projektoch? Bavia ťa algoritmy, programovanie a logické úlohy? Alebo si už doštudoval a chceš sa uplatniť v IT? Tak čítaj ďalej.Do našich projektových tímov hľadáme šikovných študentov 4 a 5 ročníka a absolventov so SW zameraním. Ako úspešný/á kandidát/ka sa môžeš zdokonaliť v týchto oblastiach (znalosti sú výhodou, no čo nevieš, naučíme ťa):JAVA, JavaScript, React, HTML, CSS,popri vývoji si môžeš vyskúšať aj analytickú prácu.Ak ťa ponuka zaujala, pošli nám svoje CV s UVEDENÍM TECHNOLÓGIÍ, O KTORÉ MÁŠ ZÁUJEM. Tiež nám pomôže, keď pripojíš bližšie informácie o tom, na akých zaujímavých školských/mimoškolských projektoch si doteraz pracoval/a.Momentálne tiež organizujeme zaujímavý workshop Way to Dev, zameraný na frontend. Aj to je možnosť, ako bližšie navnímať naše pracovné prostredie, kolegov a úžasnú kultúru. Prihlásiť sa na workshop môžeš prostredníctvom tohto inku: Way To Dev WORKSHOP vol. 2 - Softec SK Zamestnanecké výhody, benefitydlhodobá spolupráca s možnosťou získať zaujímavé pracovné skúsenostipre študenta variabilný pracovný úväzok zohľadňujúci študijné povinnosti a možnosť nastúpiť do trvalého pracovného pomeru po ukončení štúdiaprepracovaný systém vzdelávaniazaujímavé ohodnotenie pracovných výsledkovvýnimočný tím a konštruktívne pracovné prostrediemnožstvo firemných akcií a vlastná oddychovkapri práci na TPP zaujímavý systém benefitov Informácie o výberovom konaníV prípade tvojho záujmu posielaj prosím svoje CV s informáciou o ktorú oblasť máš záujem a my ťa budeme kontaktovať ohľadom ďalšieho postupu :) Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímštudent strednej školy
+stredoškolské bez maturity
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformatikaOsobnostné predpoklady a zručnostištudent alebo absolvent VŠ so SW zameranímvýborné študijné výsledkyzáujem o uplatnenie sa vo svete SW riešení:základná znalosť objektovo orientovaného programovania (Java, .NET) alebozákladná znalosť FE nástrojov (JavaScript, html, CSS, Angular)základná znalosť databázových systémovznalosť UMLskúsenosti so školskými projektmiangličtina na komunikatívnej úrovniTiež nás poteší, ak máš:ochotu a schopnosť učiť sazodpovedný prístup k prácianalytické a logické mysleniekomunikačné zručnosti Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme softvérovo-konzultačná spoločnosť, spolu nás je už vyše 400 a neustále rastieme. Určite radi privítame do tímu aj teba. Neboj sa, nehodíme ťa do vody, aby si sám plával. 
+Ak si junior, tak ako každý nováčik u nás, budeš aj ty na začiatku zaradený do útvaru Akadémia a bude ti pridelený tútor, ktorý ťa bude viesť a pomáhať ti so zadanými úlohami. Následne, keď budeš na to pripravený, po mesiaci až dvoch, začneš pracovať na reálnom projekte. Mladým talentom vytvárame inšpiratívne podmienky pre profesionálny i osobnostný rozvoj a vzdelávanie. 
+Pri medioroch a senioroch je priebeh zaškoľovania primeraný ich aktuálnym znalostiam a taktiež s podporou prideleného tútora. Pracujeme s technológiami ako napríklad Angular, Java, .NET, React ale aj vlastnými ako napr. JavaTec. 
+Sídlo spoločnosti máme v Bratislave v budove Einpark - najzelenšej kancelárskej budove na Slovensku, ktorá vďaka svojim udržateľným princípom získala viacero certifikátov. Naše ďalšie pobočky máme v Prahe, Prievidzi a v Žiline.
+Od iných firiem sa líšime hlavne tým, že pojmy rodinná a príjemná atmosféra nie sú pre nás iba prázdne slová, ale je to reálny motivátor našich zamestnancov. Dokazujú to aj naše interné prieskumy spokojnosti, fluktuácia nepresahujúca dvojciferné číslo, stabilné tímy, naši dlhoroční kolegovia a nakoniec aj samotné pravidelné umiestnenie medzi najlepšími zamestnávateľmi. Tento rok nás opäť neminulo ocenenie od Profesie a sme medzi top 10 najzamestnávateľmi na Slovensku v oblasti IT. Naša pobočka v Bratislave nedávno získala ocenenie Office roka 2021 – Zdravá kancelária, pričom k tomuto rozhodnutiu, ako uviedla samotná porota, prispela tiež rodinná atmosféra, ktorú v našich officoch cítili.  
+Máme prepracovaný benefitný systém, ktorý ponúka množstvo zaujímavých výhod ako napríklad:
+•	penzijné zabezpečenie/ 3. pilier DDS
+•	dni dovolenky navyše pre všetkých podľa levelu seniority     
+•	Kafetéria       
+•	príspevok na technologickú vychytávku (na pracovné vybavenie)
+•	podpora zdravotnej starostlivosti
+•	finančný príspevok na jazykové vzdelávanie 
+•	pôžička na riešenie bytovej situácie 
+•	referral program
+•	lifestyle aktivity - ranné cvičenia jogy, zdravý chrbát, webináre a pod.
+•	oddychové zóny, cyklomiestnosť
+•	parkovanie, auto na operatívny leasing
+•	home office (napriek tomu chodí mnoho našich kolegov do práce pretože sa chce stretávať s ostantnými) 
+•	letná a zimná Softecovica, divízovice, detský Mikuláš
+•	tematické týždne – nanukový, ovocný, zdravý a pod.
+•	skupinové športové aktivity – maratóny a bežecký klub, florbal, volejbal a ďalšie
+Chceš sa o SOFTEC-u dozvedieť viac? Klikni na našu webstránku a pozri si naše aktuálne otvorené pozície: https://www.softec.sk/pracovne-ponuky/ Počet zamestnancov250-499 zamestnancov 
+ KontaktE-mail: poslať životopis
+Všetky ponuky spoločnosti
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4548122 
+     Dátum zverejnenia:  29.3.2023 
+    2023-03-29
+lokalita: Bratislava   Pozícia: Programátor   Spoločnosť: SOFTEC   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 6 EUR/hod.
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

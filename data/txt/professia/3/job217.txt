@@ -1,0 +1,112 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior Backend Developer (PHP) 
+Senior Backend Developer (PHP)Simplaq s.r.o
+Miesto práce
+Binarium, Staré Grunty, Karlova Ves, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+2 500 - 3 400 EUR/mesiacmzda podľa seniority (medior/senior) a formy spolupráce (SZCO/SRO/TPP)
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiVyvíjame vlastný SW pomocou ktorého digitalizujeme celé nákupné a biznis centrá s cieľom zvýšiť spokojnosť návštevníkom. 
+Náš SW neustále zlepšujeme a preto by sme radi rozšírili náš tím o nového člena ktorý nám pomôže s backendom.
+Prečo si myslíme, že sa ti u nás bude páčiť
+• startupové prostredie, v ktorom budeš mať extrémny vplyv na výsledky
+• práca v tíme kvalitných programátorov, od ktorých je možné sa veľa naučiť, navzájom zdieľať svoje know how, a spoločne tak napredovať
+• príležitosť rásť, tak ako porastie firma
+• mladý a zábavný kolektív, ktorý vytvára super pracovnú atmosféru
+• pracovisko v peknej kancelárií BINARIUM s bezproblémovým parkovaním
+Nehľadáme iba zamestnanca. Hľadáme v prvom rade osobnosť, ktorú programovanie baví a nikdy si nepovie "tak to sa nedá" alebo "toto nepôjde lebo nikde to tak nerobia". Robíme na produktoch budúcnosti a preto musíme veľa vecí robiť odlišne a inak, ako zaužívaným spôsobom.
+S akými technológiami budeš pracovať
+• admin rozhranie máme písané v PHP 7 s využitím Laravel frameworku
+• backendové API je čisté PHP7
+• mobilná apka využíva služby Google Firebase
+• komunikácia s externými službami cez REST API/Websocket
+• frontend je vytvorený vo VUE
+• ako databázu používame PostgreSQL
+• na serveroch v DO nám beží UBUNTU, mal by si poznať aspoň základy Linux
+Čo od teba očakávame
+• samostatnú prácu a zodpovedný prístup
+• aspoň 3 roky skúsenosti s väčšímí dashboard projektami v PHP 
+Čo môžeš očakávať od nás
+• ľudský a férový prístup
+• šéfa ktorý ti nestojí za zadkom
+• voľnosť vo svojej práci
+• ochotný kolektív, ktorý ti rád pomôže, ak si s niečím nebudeš vedieť rady Zamestnanecké výhody, benefity✌ hybridný model práce
+✌ start-upové prostredie, v ktorom budeš mať silný vplyv na výsledky
+✌ priateľský kolektív s ľudským a ústretovým prístupom
+✌ neformálne pracovné prostredie
+✌ pekný moderný office v BINARIUM s bezproblémovým parkovaním
+✌ možnosť pracovného rastu pri našej expanzii do zahraničia
+✌ flexibilita pracovného času
+✌ možnosti vzdelávania prostredníctvom kurzov
+✌ pravidelné firemné akcie
+✌ multisport karta
+✌ firemný bar zdarma Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiLaravel (PHP framework) - PokročilýPHP - ExpertRest API - ExpertFirebase - Mierne pokročilýPrax na pozícii/v oblasti3Počet rokov praxe3 Inzerujúca spoločnosť Stručná charakteristika spoločnostiWe digitize malls and business centers. Our SaaS management platform enables them to better interact with visitors and increase their satisfaction. Počet zamestnancov10-19 zamestnancov KontaktKontaktná osoba: Tomas TiefenbachE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4555076 
+     Dátum zverejnenia:  11.4.2023 
+    2023-04-11
+lokalita: Bratislava   Pozícia: PHP programátor   Spoločnosť: Simplaq s.r.o   
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

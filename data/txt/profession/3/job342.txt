@@ -1,0 +1,116 @@
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Budapest
+Budapest
+IT infrastruktúra rendszerüzemeltető
+Bónusz
+Europ Assistance Magyarország Kft.
+1132, Budapest Váci út 36-38. 
+ Elvárt technológiák
+WINDOWS
+LINUX
+OPERÁCIÓS RENDSZEREK
+AZURE
+SQL
+ORACLE
+VMWARE
+NAGIOS
+MSSQL
+ Módszertanok és szoftverek
+Gdpr
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Mobiltelefon
+Egészségpénztár
+ Elvárt technológiák
+WINDOWS
+LINUX
+OPERÁCIÓS RENDSZEREK
+AZURE
+SQL
+ORACLE
+VMWARE
+NAGIOS
+MSSQL
+ Módszertanok és szoftverek
+Gdpr
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Tudod, hogy mi a switch és a router közötti különbség és melyik miként működik, mégsem akarod minden nap újra meg újra konfigurálni őket? Nem kevered össze a bemeneti és a kimeneti perifériát?Tudod, hogy mire használnak egy tűzfalat és képes vagy a zavartalan üzemeltetéshez szükséges hálózati és tűzfal beállításokat meghatározni? Nyílt, problémamegoldó személyiség Vagy és kihívásnak érzed, ha összetett hálózati rendszerekben gondolkodhatsz? Ha IGEN, akkor gyere hozzánk dolgozni és mutasd meg, hogy TE ebben jó Vagy!
+A magas szintű professzionális segítségnyújtó (assistance) szolgáltatásokat biztosító, Generali cégcsoporthoz tartozó, 5 x Business Superbrands díjas Europ Assistance Magyarország Kft. Informatikai osztálya az alábbi munkakörbe keres:
+IT infrastruktúra rendszerüzemeltető
+munkatársat
+Lehetséges feladatok:
+A Társaság informatikai rendszerének napi üzemeltetése, az informatikai rendszer előírások és szabályozó rendszerek (GDPR, ITILv3/4, ISO27001) szerinti működés feltételeinek meghatározása és fenntartása, az üzleti érdek és az informatikai biztonsági előírásoknak megfelelően.   Az informatikai infrastruktúra működésének meghatározott rendelkezésre állással történő biztosítása (7/24 órában).On-premise és felhő alapú infrastruktúra üzemeltetése és fejlesztéseA cég informatikai/telekommunikációs hálózatainak felügyeleteKözponti eseménynapló elemzés, hibakeresés és megelőzés/elhárításMunkaidőn kívüli infrastruktúra incidensek kezeléseA központi informatikai infrastruktúra elérésének biztosítása saját telephelyek, valamint a külső végpontok részére.A szükséges infrastrukturális fejlesztések megtervezésében, megvalósításában való közreműködés és megfelelő dokumentáció létrehozása.Nyilvántartások, rendszerdokumentációk napra készen tartása az infrastruktúra elemekről és a topológiáról.Minden, a társaság által - vásárolt vagy fejlesztett - használatban lévő alkalmazás üzemvitelének biztosítása.Meghatározó infrastruktúra beszállítókkal való együttműködés (teszt jegyzőkönyvek, teljesítési igazolások, számlák ellenőrzése megrendelői oldalon)Szerver és munkaállomás menedzsment, életciklus követésWIKI alapú dokumentációs és tudásbázis rendszer bővítéseIT projektek megvalósításában való részvételProjektek szakmai támogatása – javaslattétel, rendszerterv készítés és szakmai kontrollIT infrastrukturális változáskezelés szakmai támogatásaIT biztonsági feladatok végrehajtásában való részvétel.A regionális, illetve a lokális CISO útmutatásai alapján a kellő infrastruktúra változtatások végrehajtásaAdatbiztonsági előírások kialakításában és betartatásában való részvétel. Riport készítésében való részvétel.
+A Társaság által használt technológiák:
+Windows Server / Linux operációs rendszerekFelhő technológiák: O365, AzureStratodesk, vékonykliens menedzsmentMS SQL és Oracle adatbázisok felügyelete (külső partnerek bevonásával)VMWare vCenter virtualizációMontirozó rendszer (Nagios)Mentések szakmai kontrollja (BackupExec) Elvárások:Felsőfokú szakirányű végzettséglegalább 3 év szakmai tapasztalat on-premise és/vagy felhő IT infrastruktúra üzemeltetésében (szakmai gyakorlat alatt megszerzett érdemi tapasztalat is elfogadott)Windows és Linux szerver ismeretek.hálózat üzemeltetésében szerzett megbízható ismeretekTársalgási szintű angol nyelvtudás szóban és írásbanTalpraesett, konstruktív személyiségPrecíz, pontos és felelősségteljes munkavégzésJó problémamegoldó és együttműködési készség
+Tapasztalati előny:
+Microsoft O365 és Azure ismeretekAdatbázis üzemeltetési gyakorlat (Oracle és MsSQL)VMWare virtualizációs megoldások ismerete
+A közös munkához a Europ Assistance az alábbiakat biztosítja:
+Aktív, támogató munkaközösség, multinacionális, megbízható háttérTeljesen megújult, modern, világos, munkavállaló-barát irodai környezetStabil munkaviszony, hosszú távú munkalehetőségTeljeskörű szakmai fejlődés támogatása (pl.: karriert segítő ingyenes továbbképzések, tréningek, nyelvi képzés)Igen rugalmas munkarend, rendszeres home office lehetőség (mobil, laptop, monitor)Kiszámítható teljesítményértékelési bónuszrendszer és releváns béren kívüli juttatásokRövidlejáratú, kamatmentes munkahelyi kölcsön lehetőségeHazautazási és otthoni munkavégzés költségtámogatásaBelső ajánlási rendszer, díjazás fejébenCéges rendezvények (karácsonyi-, szezonális-, csapatépítő összejövetelek; stb.)Egészségmegőrző szolgáltatások:Vállalati konditerem szabad használataIsmétlődő gyümölcsnap biztosításaCéges,egészségügyi alapellátásokra vonatkozó magánbiztosításAll You Can Move rekreációs kártya igénybevételének lehetősége
+Munkavégzés helye:
+Budapest 1132, Váci út 36-38. (Lehel tér mellett, jól megközelíthető helyen) A fentiek alapján, ha úgy gondolod szívesen csatlakoznál csapatunkhoz, kíváncsian várjuk a szakmai pályázatodat a fizetési igényed megjelölésével magyar és angol nyelven a"Jelentkezem" gombra kattintva.
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Rendszerüzemeltető
+Rendszergazda
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Alkalmazotti jogviszony
+Általános munkarend
+Elvárások:
+Angol középfok
+3-5 év szakmai tapasztalat
+Főiskola
+Juttatások
+Mobiltelefon
+Egészségpénztár
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Europ Assistance Magyarország Befektetési és Tanácsadó Kft.
+Biztosítás, nyugdíjalapok
+●
+Biztosítás, nyugdíjalap egyéb kiegészítő tevékenysége
+100-250 munkavállaló
+1996
+1132
+Budapest,
+Váci út 36-38.
+Értékelések a(z) Europ Assistance Magyarország Kft. cégről
+Értékelések kategória szerint 
+4,3
+Megközelíthetőség 
+3,6
+Munkakörnyezet 
+További vélemények 
+Munkahelyi extrák
+Sportolási lehetőség
+Ingyen gyümölcs, nasi
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

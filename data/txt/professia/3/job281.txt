@@ -1,0 +1,84 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceC/C++ Developer Air Traffic Management 
+C/C++ Developer Air Traffic ManagementFREQUENTIS Solutions & Services s. r. o.
+Miesto práce
+Karadžičova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+podľa dohody
+Mzdové podmienky (brutto)
+1 800 EUR/mesiacFinálna mzda závisí od skúseností a kvalifikácie uchádzača a bude dohodnutá tak, aby sme dosiahli spokojnosť na oboch stranách.
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáš prácu, ktorá Ťa bude baviť a vďaka ktorej sa staneš profesionálom v odbore programovania komunikačných systémov pre riadenie letovej prevádzky?Chceš získať istotu zamestnania v stabilnej a úspešnej medzinárodnej spoločnosti?FREQUENTIS je rakúska technologická spoločnosť zaoberajúca sa vývojom komunikačných a informačných systémov už viac ako 70 rokov v nasledujúcich oblastiach: Riadenie letovej prevádzky Riadenie námornej, železničnej, verejnej dopravy Záchranné služby a políciaNaša spoločnosť úspešne poskytuje komunikačné a informačné systémy zákazníkom, ktorí sa nachádzajú v približne 150 krajinách sveta. Okrem centrály vo Viedni v Rakúsku sa dcérske spoločnosti nachádzajú aj v Austrálii, Brazílii, Kanade, Českej republike, Francúzsku, Nemecku, Veľkej Británii, Nórsku, Rumunsku, Singapure, na Slovensku a v USA.Na Slovensku pôsobí dcérska spoločnosť firmy FREQUENTIS už viac ako 30 rokov.V súčasnosti, z dôvodov rastu projektových úloh, hľadáme spoľahlivého vývojára do stabilného tímu, ktorý nám pomôže s vývojom užívateľského rozhrania v jazyku C++ .• Tvojou úlohou bude analýza požiadaviek, návrh a vývoj SW riešení pre telekomunikačné systémy.• Budeš udržiavať úrovne kvality pomocou nástrojov na analýzy kódu, automatizovaných testovacích procedúr (Test Driven Development) a dokumentovať SW riešenia podľa medzinárodných štandardov kvality.• Budeš sa podieľať na zvyšovaní bezpečnosti SW riešení používaním techník SW vývoja ako agilný vývoj, automatizované testovanie a priebežné integrácie.• Staneš sa súčasťou teamu nadšených vývojárov a budeš sa podieľať na vývoji SW riešení pre safety-critical aplikácie v zaujímavej oblasti leteckej dopravy .Používaný Software & Technológie:• Project Support: Jira, Confluence, Jama, SVN, Jenkins, Crucible• Code Quality: Coverity, Valgrind Zamestnanecké výhody, benefity• Práca v príjemnom, medzinárodnom prostredí• Flexibilný pracovný čas• Home Office• Technické a soft skills školenia• Zdokonalenie sa v cudzom jazyku, školné hradené zamestnávateľom.• Stravné plne hradené zamestnávateľom• Občerstvenie na pracovisku• Odmena za odporúčanie nového zamestnanca• Multisport karta a/alebo príspevky do DDS• Možnosť rásť na našej pobočke v Bratislave v oblastiach softvérového vývoja v technológiách C/C++, C# .NET, SQL database, JAVA, JAVA Script, CSS, Digital Signal Processing, UDP, J2EE, Spring, JDBC, JMS, SOAP, HTML5, XML, Python, Maven, Databases (Linux, Windows, Oracle, SQL Server, Postgres, Gigaspaces XAP).• Možnosť kariérneho rastu v managemente softvérového vývoja ako technický expert vývojovej skupiny, Development Project Leader, SCRUM Master, Product Owner. Informácie o výberovom konaníVysoká kvalita safety-critical systémov, priestor pre sebarealizáciu a odborný rast každého člena teamu sú naše kľúčové hodnoty. Pokiaľ s nami zdieľaš tieto hodnoty,  vieš programovať v C++ a v budúcnosti sa budeš rád venovať aj jazyku JAVA, radi Ťa privítame v našom tíme. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímnadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreInformačné technológie, TelekomunikácieJazykové znalostiSlovenský jazyk - Stredne pokročilý (B2) a Anglický jazyk - Mierne pokročilý (B1)Ostatné znalostiC++ - PokročilýUNIX/Linux - Mierne pokročilýJava - ZákladyPočet rokov praxe1Pozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnosti• Baví Ťa programovanie v C++ a JAVA Ti nevadí• Máš rád(a) prácu v tíme• Máš zmysel pre zodpovednosť a schopnosť dotiahnuť úlohy do konca Inzerujúca spoločnosť Stručná charakteristika spoločnostiOur Bratislava-based company FREQUENTIS Solutions & Services is part of the Austrian FREQUENTIS group (www.frequentis.com). We are a leading global supplier of communication and information solutions for safety-critical applications, such as for air traffic control towers, public safety control rooms (112) or air defense forces. Our mission-critical solutions cover diverse areas, such as telephony and radio communication, Geographical Information Systems (GIS), incident and resource management, video surveillance and automatic video analytics.
+FREQUENTIS Solutions & Services is specialized in software development and project delivery. Together with our parent company we are developing FREQUENTIS’ next generation control room solutions, using state-of-the-art technologies and processes. Our delivery teams then deploy those solutions at our customers around the globe, with responsibility for commercial and technical project management, engineering and quality assurance. 
+To grow our team, we are constantly looking for talents in all these fields. Our company offers an interesting and challenging technical environment, a people-focused culture with the emphasis on a good work-life-balance and, if desired, a long-term development and career opportunities.
+For our customers, lives may be at stake and seconds count. Our solutions thus need to be developed to the highest standards when it comes to usability and reliability. Safety is what guides us from the first designs till the final tests of any of our solutions. If those are the kinds of challenges that excite you, then you have come to the right place! Počet zamestnancov150-199 zamestnancov KontaktKontaktná osoba: Ing.  Eva LajchováE-mail: poslať životopis
+Všetky ponuky spoločnosti
+Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4398186 
+     Dátum zverejnenia:  6.4.2023 
+    2023-04-06
+lokalita: Bratislava   Pozícia: C++ programátor, Programátor, Softvérový inžinier   Spoločnosť: FREQUENTIS Solutions & Services s. r. o.   
+Základná zložka mzdy (brutto): 1 800 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

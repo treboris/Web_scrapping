@@ -1,0 +1,46 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Pozíció leírása / Job description
+We are seeking an experienced IT Engineer to join our client being engaged in the development of new bio-based technologies. The IT Engineer will be responsible for designing, implementing and maintaining the organization's IT systems and infrastructure, both locally and globally. The successful candidate will be a subject matter expert in IT and will have extensive knowledge of network security, data backup and recovery, cloud computing, virtualization and data architectures.
+Design, deploy and manage IT systems and infrastructure, data-related technologies, including hardware, software, and network components
+Develop and maintain IT policies and procedures
+Monitor and maintain the organization's IT security systems, including firewalls, antivirus software, and intrusion detection systems
+Manage data backup and recovery systems to ensure the organization's data is safe and secure
+Evaluate and recommend new technologies to improve the organization's IT systems and infrastructure
+Lead IT projects from conception to completion, ensuring they are completed on time and within budget
+Provide technical support to end-users and troubleshoot any IT-related issues that arise
+Train end-users on new IT systems and technologies
+Manage vendor relationships and negotiate contracts with third-party IT service providers
+Ensure compliance with regulatory requirements related to IT systems and infrastructure
+                Elvárások / Requirements
+Bachelor's degree in Computer Science, Information Technology or a related field
+Minimum 5 years of experience in IT infrastructure engineering or a similar role
+Strong knowledge of network security, data backup and recovery, cloud computing, virtualization, and data architectures 
+Experience with data engineering tools and technologies, such as data warehousing, data integration, data pipelines, ETL, and big data platforms is an advantage
+Experience with Microsoft Windows Server and Active Directory
+Fluency in English
+Ability to lead and manage IT projects
+Strong problem-solving and analytical skills
+                Amit nyújtunk / Benefits
+Being part of a global team
+Challenging projects
+Excellent compensation package
+IT Engineer 
+Jelentkezem
+Elmentem az állást
+Randstad Hungary Kft. 
+Budapest 
+Teljes munkaidős 
+Frissítés dátuma: 14.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ DevOps Engineer 
+ Budapest  
+ DevOps Engineer 
+ Budapest  
+ Technical Security Engineer 
+ Budapest  
+ Data Engineer 
+ Budapest  
+ Data Scientist & AI Engineer 
+ Budapest  

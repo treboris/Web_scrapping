@@ -1,0 +1,390 @@
+Belépésálláskeresőknek
+Állások
+Önéletrajz feltöltése
+Állásértesítő készítése
+CV készítő
+Cégek Új
+Részletes keresés
+Hálózati és rendszermérnök állások, munkák
+115 db találat 
+Szűrés
+ERP Systems Architect
+4iG Nyrt.
+Budapest
+A vállalatnál használt technológiák elemzése és az ERP terület javítási és fejlesztési lehetőségeinek meghatározása. A megfelelő release- és változtatástervezéshez szükséges követelmények nyomon követése és dokumentálása Szoros együttműködés a projektmenedzsment és tecnikai csapa...
+Tech stack
+Hálózati és Rendszermérnök
+Távmunka
+Általános munkarend
+Angol - felsőfok
+ma 09:02
+Állás megtekintése
+ Mentés 
+ma 09:02
+Cloud Technologies Architect
+4iG Nyrt.
+Budapest
+A vállalatnál használt technológiák elemzése, valamint a felhőtechnológiák területén a javítási és fejlesztési lehetőségek meghatározása A megfelelő release- és változtatástervezéshez szükséges követelmények nyomon követése és dokumentálása Szoros együttműködés a projektmenedzsme...
+Tech stack
+Hálózati és Rendszermérnök
+Távmunka
+Általános munkarend
+Angol - felsőfok
+ma 09:02
+Állás megtekintése
+ Mentés 
+ma 09:02
+L3 Specialist (Network Operation Center)
+Hydro Extrusion Hungary Kft.
+Budapest, Székesfehérvár
+Operation of corporate network / Incident and change management (3rd level support) Vendor management Manage and operate LAN and WLAN of all remote Hydro sites globally Handling daily mid and high level escalations Support architectural decision Create and maintain netw...
+Hálózati és Rendszermérnök
+Alkalmazotti
+Általános munkarend
+Angol - felsőfok
+ma 08:35
+Állás megtekintése
+ Mentés 
+ma 08:35
+Műszaki előkészítő mérnök - gyengeáram
+ComplexIT Gyengeáramú és Informatikai Kft.
+1106 Budapest, Jászberényi út 45.
+Gyengeáramú, ezen belül főként informatikai, AV és vagyonvédelmi rendszerek kivitelezés és tervezés támogatásában való részvétel (betörésjelző, tűzjelző, videó, beléptető, tv, AV, IT strukturált hálózat, telefon stb.) Kivitelezési projektek, anyagszállítások nyomon követése, koor...
+Villamosmérnök
+Alkalmazotti
+Általános munkarend
+tegnap 12:51
+Állás megtekintése
+ Mentés 
+tegnap 12:51
+Spóroljon időt!
+Böngéssze a kimondottan Önre szabott, átlag jelentkezői bérigényt is feltüntető álláslistát a Profession Prémium segítségével!
+Kipróbálom díjmentesen
+Vezetékes és WiFi hálózat szakértő / fejlesztőmérnök
+ANTENNA HUNGÁRIA Zrt.
+Budapest XI. kerület 
+vezetékes és WIFI hálózatfejlesztési projektek kidolgozásában és követésében való részvétel, hálózat-tervezés és helyszíni felmérés (esetenként vidéki munkavégzéssel), a kiépített rendszerek mérése és finomhangolása, beruházásokhoz és projektekhez kapcsolódó műszaki költségkalkul...
+Extra juttatások
+Hálózati és Rendszermérnök
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 18:00
+Állás megtekintése
+ Mentés 
+ma 18:00
+IT infrastructure engineer
+Legyen az első 5 jelentkező között!
+Huawei Technologies Hungary Kft.
+Rugalmas munkavégzési hely 
+  IT solution design and implementation – Responsible for the IT solution adaptation and IT tool planning and implementation at the representative office to improve business operation efficiency. IT Project implementation – Design IT solution for Huawei Office, deploy IT system i...
+Extra juttatások
+Tech stack
+Hálózati és Rendszermérnök
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+Magyar - felsőfok
+ma 17:25
+Állás megtekintése
+ Mentés 
+ma 17:25
+DWDM hálózati mérnök
+Legyen az első 5 jelentkező között!
+DIGI Kft.
+Országosan bárhonnan pályázható
+DWDM hálózat teljeskörű üzemeltetése Hibakezelés (észlelés, javítás, ellenőrzés) Fejlesztői és üzemeltetői csapatok támogatása, folyamatok országos koordinációja Hálózatfejlesztési folyamatok támogatása Dokumentációk készítése, naprakészen tartása Riportok készítése...
+Cafeteria
+Hálózati és Rendszermérnök
+Alkalmazotti
+Általános munkarend
+ma 16:25
+Állás megtekintése
+ Mentés 
+ma 16:25
+System Engineer
+Legyen az első 5 jelentkező között!
+Semilab Zrt.
+Budapest
+S2D és HyperV Cluster, Microsoft Office 365 és Azure infrastruktúrák napi szintű üzemeltetése és felügyelete Windows és Linux szerverek üzemeltetése, frissítése, felügyelete MS DPM és/vagy Veeam mentőrendszer üzemeltetése, konfigurációja Office 365 hybrid környezet üzemeltetése M...
+Cafeteria
+Tech stack
+Hálózati és Rendszermérnök
+Általános munkarend
+Angol - középfok
+ma 16:10
+Állás megtekintése
+ Mentés 
+ma 16:10
+Számlázási rendszerfejlesztő gyakornok (Debrecen, Budapest, Győr, Pécs)
+E.ON Ügyfélszolgálati Kft.
+Debrecen, Budapest, Győr, Pécs
+Az E.ON számlázási rendszer (SAP IS-U) működésének megismerése Megrendelőktől érkező fejlesztési igények megértése Érintett üzleti folyamatok működésével kapcsolatos módosítások egyeztetése az adott szakterületekkel Üzleti koncepcionális tervek előkészítésében és megvalósításában...
+Bruttó 2 100 Ft/óra
+Tech stack
+Vállalatirányítási rendszer, SAP
+Szakmai gyakorlat
+Home office
+Rugalmas munkaidő
+Angol - középfok
+ma 16:05
+Állás megtekintése
+ Mentés 
+ma 16:05
+Senior Cloud DevOps Engineer
+Legyen az első 5 jelentkező között!
+Unisys
+Budapest
+Build functional systems that improve our customers' experience, mainly in the cloud and micro-services area Deploy cloud platform infrastructure-related changes, maintain the existing code, identify production issues, and do the necessary modification according to the business n...
+Bónusz
+Extra juttatások
+Programozó, Fejlesztő
+Távmunka
+Home office
+Általános munkarend
+Angol - középfok
+ma 15:00
+Állás megtekintése
+ Mentés 
+ma 15:00
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek!
+Senior DevOps Engineer (JF)
+Legyen az első 5 jelentkező között!
+Tech People Hungary Kft.
+Budapest / Vienna
+event-based architecture to connect the customer facing solution, the masterdata solutions as well as many other systems in RBI serverless processing leveraging the native functions framework of Apache Pulsar.
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 14:40
+Állás megtekintése
+ Mentés 
+ma 14:40
+DevOps mérnök
+Legyen az első 5 jelentkező között!
+Prohumán 2004 Kft.
+I. kerület
+Szoftver fejlesztési és szállítási láncok (CI/CD) tervezése, építése és támogatása Az üzleti alkalmazások fejlesztéséhez, kiadáskezeléséhez és üzemeltetéséhez kapcsolódó folyamatok automatizálása Monitorozási rendszer fejlesztése, hibakeresés, hibajavítás A hatékony működés előmo...
+Tech stack
+Hálózati és Rendszermérnök
+Általános munkarend
+ma 14:25
+Állás megtekintése
+ Mentés 
+ma 14:25
+Senior DevOps Engineer (JD)
+Legyen az első 5 jelentkező között!
+Tech People Hungary Kft.
+Budapest, IX. kerület
+Agilis szoftverfejlesztés Java nyelven A projekt részére az üzembe helyezési folyamat koncepciójának kidolgozása CI/CD folyamat felépítése és üzemeltetése a vonatkozó CI/CD eszközök használatával CI/CD szerver adminisztrációja CI/CD scriptek előállítása CI/CD folyamatba a tesztau...
+Programozó, Fejlesztő
+Home office
+Alkalmazotti
+Általános munkarend
+Német - felsőfok
+ma 14:05
+Állás megtekintése
+ Mentés 
+ma 14:05
+Gyengeáramú tervező (AV)
+ScreenLand Kft.
+1139 Budapest, Röppentyű utca 65.
+Gyengeáramú, ezen belül főként AV rendszerek tervezésében való részvétel (épülethangosítás, tárgyalótermi, rendezvény termi audio és videórendszerek)
+Mobiltelefon
+Szakmai tréningek
+Villamosmérnök
+Home office
+Alkalmazotti
+Általános munkarend
+ma 13:23
+Állás megtekintése
+ Mentés 
+ma 13:23
+Senior Infrastructure Automation Architect
+Legyen az első 5 jelentkező között!
+Unisys
+Budapest
+1. Business Development and Client-Facing Responsibilities Fills a senior architect functional role with in-depth portfolio-related technology specialization to build quality infrastructure solutions using primary Unisys Solution offerings, strategy, designs, and alternatives/tr...
+Bónusz
+Extra juttatások
+Hálózati és Rendszermérnök
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 13:15
+Állás megtekintése
+ Mentés 
+ma 13:15
+System Administrator
+Legyen az első 5 jelentkező között!
+TATA Consultancy Services Hungary
+Budapest
+Software-related issues/tasks: installation of computer, OS patch follow up, support MS 365 applications. Hardware-related issues/tasks: Assembling/disassembling PCs and Laptops, replacing faulty accessories/computer parts. Monitor and act upon requests in inhouse Ticketing Syste...
+Szakmai tréningek
+Egészségbiztosítás
+Hálózati és Rendszermérnök
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 13:00
+Állás megtekintése
+ Mentés 
+ma 13:00
+Azure rendszermérnök
+Legyen az első 5 jelentkező között!
+Filtrona Filters Hungary Kft.
+2310 Szigetszentmiklós
+Több mint 200 szerveres infrastruktúra üzemeltetése, fejlesztése, nemzetközi cégnél. Microsoft szolgáltatások üzemeltetése, telepítése, fejlesztése. (Azure, Hyper-v, MSSQL, SCCM,SCVMM,M-365, Sharepoint, Intune, PKI) Napi feladatok ellátása mellett rendszer- és infrastruktúra fejl...
+Tech stack
+Hálózati és Rendszermérnök
+Home office
+Alkalmazotti
+Általános munkarend
+Angol - középfok
+ma 09:05
+Állás megtekintése
+ Mentés 
+ma 09:05
+Projektmérnök
+ION Systems Kft.
+Országosan bárhonnan pályázható, Országos projekthelyszínek
+A projektek vagy rendeléslehívások határidőre és költséghatáron belüli megvalósításának szervezésében, irányításában, ellenőrzésében, az ehhez szükséges műszaki előkészítés elvégzésében, a felmerült műszaki problémák megoldásában A projektekhez vagy rendeléslehívásokhoz szükséges...
+Céges autó
+Cafeteria
+Villamosmérnök
+Általános munkarend
+ma 05:05
+Állás megtekintése
+ Mentés 
+ma 05:05
+Gyártási projektvezető - Budapest
+Legyen az első 5 jelentkező között!
+PROVIM Kft.
+Budapest IX. ker
+Ajánlatok és pályázatok készítésében Gyártási és beszállítói szerződések előkészítésében és egyeztetésében a beszerzési csapattal Az elosztóban levő készülékek, anyagok gyártójának kiválasztásában (műszaki és gazdasági szempontok szerint), ezek időbeni biztosításában, Számlák kib...
+Villamosmérnök
+Általános munkarend
+ma 05:05
+Állás megtekintése
+ Mentés 
+ma 05:05
+Üzleti elemző
+MVM Informatika Zrt.
+Budapest, Paks, Szeged
+üzleti területekkel való kapcsolattartás és technológiai konzultáció informatikai fejlesztések előkészítése, az igények felmérésén és megértésén keresztül összetett üzleti igények megértése és feltérképezése innovatív IT technológiák, megoldások felkutatásában, bevezetési lehetős...
+Cafeteria
+Egészségbiztosítás
+Információbiztonság
+Általános munkarend
+Angol - középfok
+ma 05:05
+Állás megtekintése
+ Mentés 
+ma 05:05
+1
+2
+3
+4
+5
+...
+Következő
+Utolsó
+Állásértesítő készítése
+Keresés mentése
+)
+Figyelem!
+A lakhatási támogatást nyújtó ajánlatokat területi szűrés nélkül listázzuk.
+A területi beállítás csak a lakhatási támogatás paraméter kikapcsolása után változtatható meg újra!
+Keresés finomítása
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Beállított szűrők
+Beállított szűrők törlése 
+Kategória 
+IT üzemeltetés, Telekommunikáció
+Hálózati és Rendszermérnök
+Információbiztonság  (55) 
+IT support, Helpdesk  (157) 
+IT, Telecom vezető  (8) 
+Projektmenedzsment  (54) 
+Rendszergazda  (88) 
+Rendszerüzemeltető  (154) 
+Telekommunikáció  (58) 
+Vállalatirányítási rendszer, SAP  (51) 
+Lakóhely (Megye, Város)
+Budapest  (89) 
+Bács-Kiskun megye  (7) 
+Baranya megye  (6) 
+Békés megye  (5) 
+Borsod-Abaúj-Zemplén megye  (5) 
+Csongrád-Csanád megye  (12) 
+Fejér megye  (9) 
+Győr-Moson-Sopron megye  (7) 
+Hajdú-Bihar megye  (10) 
+Heves megye  (7) 
+Jász-Nagykun-Szolnok megye  (5) 
+Komárom-Esztergom megye  (6) 
+Nógrád megye  (7) 
+Pest megye  (16) 
+Somogy megye  (5) 
+Szabolcs-Szatmár-Bereg megye  (5) 
+Tolna megye  (11) 
+Vas megye  (5) 
+Veszprém megye  (6) 
+Zala megye  (6) 
+Németország  (1) 
+Ausztria  (1) 
+Az Ön végzettsége 
+Általános iskola  (3) 
+Szakiskola / szakmunkás képző  (1) 
+Középiskola  (34) 
+Főiskola  (72) 
+Egyetem  (5) 
+Az ön nyelvismerete 
+Nincs nyelvismeretem  (24) 
+Angol  (89) 
+Magyar  (5) 
+Német  (5) 
+Az Ön tapasztalata 
+1-3 év szakmai tapasztalat  (51) 
+3-5 év szakmai tapasztalat  (30) 
+5-10 év szakmai tapasztalat  (17) 
+>10 év szakmai tapasztalat  (1) 
+Foglalkoztatás jellege 
+Teljes munkaidő  (109) 
+Részmunkaidő  (4) 
+Távmunka  (8) 
+Szakmai gyakorlat  (1) 
+Diákmunka  (4) 
+Home office  (45) 
+Alkalmazotti jogviszony  (82) 
+Munkarend 
+Általános munkarend  (106) 
+Folyamatos munkarend  (1) 
+Rugalmas munkaidő  (7) 
+Kötetlen munkaidő  (1) 
+Jogosítvány 
+B  (14) 
+Cégméret 
+0-10 fő  (17) 
+10-25 fő  (13) 
+100-250 fő  (22) 
+1000+ fő  (27) 
+25-50 fő  (6) 
+250-500 fő  (8) 
+50-100 fő  (4) 
+500-1000 fő  (18) 
+Beállítások 
+Személyzeti tanácsadók hirdetései nélkül  (19) 
+Munkahely értékelése
+Munkahely értékelése
+Értékelje és mondja el véleményét korábbi vagy jelenlegi munkahelyéről. Értékelése név nélkül történik, és segítséget nyújt a munkakeresőknek ahhoz, hogy
+ideális munkahelyet találjanak. A kitöltés pár percet vesz igénybe.
+Értékelem 

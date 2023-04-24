@@ -1,0 +1,103 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+Beágyazott szoftverfejlesztő mérnök (junior) állás Veszprém
+Szoftverfejlesztő állások 
+Cégleírás / Organisation / DepartmentPartnerünk, a világ egyik vezető autóipari technológiai nagyvállalata számára keresünk Beágyazott szoftverfejlesztő mérnök kollégát veszprémi központjába. A veszprémi gyár a világ valamennyi autógyártója részére állít elő gépjármű menetbiztonsági rendszerekhez magas minőségű  szenzorokat. Elvárások / Requirements
+Felsőfokú iskolai végzettség
+C programozási ismeretek
+Szakmai tapasztalat beágyazott rendszerek fejlesztésében (pl.: mikrovezérlőkkel szerzett tapasztalat)
+Analitikus gondolkodás és jó problémamegoldási készség
+Középfokú angol nyelvű írásbeli és szóbeli kommunikációs készség
+Előnyt jelent, ha rendelkezel az alábbi ismeretekkel:
+ARM, Assembly vagy
+GIT/GitHub Rhapsody vagy
+ASIL, ASPICE vagy
+CANoe és CAPL-el
+Amit kínálunk / Offer
+Hardverközeli szoftver modulok tervezése és fejlesztése intelligens akkumulátor szenzorokhoz
+Memória menedzsment, időzítők, megszakítások és SPI
+Az elkészült hardverközeli modulok fejlesztői tesztelése a céleszközön (Development board, PCB, kész termék)
+A felfedezett hibák analizálása, debuggolása és javítása
+Programozható tápok, debuggerek, logikai analizátorok, oszcilloszkóp, függvénygenerátor aktív használata a fejlesztés/fejlesztői tesztelés során
+Hatékony megoldások keresése, az erőforrások optimális kihasználásának érdekében
+Meglévő szoftver komponensek optimalizálása
+Az elkészült szoftver fejlesztés dokumentációja a belső folyamatok szerint 
+Kapcsolattartó / Information
+Rugalmas munkaidő, home office lehetőséggel
+Munkavégzéshez szükséges céges laptop és mobiltelefon biztosítása
+Egészségbiztosítás, cafeteria és bónuszrendszer
+Pénzügyi támogatások (munkába járás ill. hétvégi hazautazás támogatása, iskolakezdési támogatás és lakáscélú támogatás)
+Coaching lehetőség igénybevétele
+Változatos vállalati eseményeken való részvétel
+Irodai étterem és kávézó
+Parkoló és biciklitároló biztosítása
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Tovább a hirdetőhöz
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Randstad Hungary Kft													
+Veszprém megye / Veszprém
+Nincs meghatározva
+ Szoftverfejlesztő
+Lejárati dátum: 2023-12-31 08:30:00
+Álláshirdetés részletei
+PozícióBeágyazott szoftverfejlesztő mérnök (junior)
+Munkavégzés helye
+Veszprém megye / Veszprém
+MunkaidőNincs meghatározva
+KategóriaSzoftverfejlesztő
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

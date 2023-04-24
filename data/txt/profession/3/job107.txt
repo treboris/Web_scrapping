@@ -1,0 +1,85 @@
+Belépésálláskeresőknek
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Budapest
+Budapest
+Senior Software Engineer
+BECK AND PARTNERS Kft.
+Budapest
+ Elvárt technológiák
+AZURE
+API
+AWS
+JAVA
+JAVASCRIPT
+PYTHON
+DOCKER
+APACHE
+ Módszertanok és szoftverek
+Automatizálás
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok vagy
+Német középfok
+3-5 év szakmai tapasztalat
+Főiskola
+ Elvárt technológiák
+AZURE
+API
+AWS
+JAVA
+JAVASCRIPT
+PYTHON
+DOCKER
+APACHE
+ Módszertanok és szoftverek
+Automatizálás
+BECK AND PARTNERS Kft.
+Megbízónk fő profilja a Cloud Native terület köré fonódik, a csapat tagjai olyan témák szakértői, mint a felhő szolgáltatások, Microservices architektúra, konténer alapú rendszerek és DevOps folyamatok. 
+Kubernetes témakörben hazai körökben úttörőnek számítanak, hiszen Magyarországon elsők közök kezdtek foglalkozni a rendszerrel, számos konferencián és fórumon népszerűsítve a platformot. 
+Küldetésük, hogy kiemelkedő szaktudásukkal segítsék a hazai cégeket bevezetni a Cloud Native technológiák világába, ezzel nagyságrendileg javítva a szoftverfejlesztési és üzemeltetési hatékonyságukon.
+A cég szakértelme révén megnyílt a nyugati piac és mára már kiemelkedő nemzetközi ügyfeleknek is segítenek különböző felhő alapú technológiák bevezetésében. 
+Ennek megfelelően egy erős növekedési fázis kezdetén van, így bátorítanak mindenkit, aki hasonló technológiákkal szeretne foglalkozni egy kiemelkedő szakértői csapat részeként, hogy csatlakozzon hozzájuk!
+Senior Software Engineer
+Főbb feladatok, munkák:
+Skálázható, magas rendelkezésre állású, biztonságos és hibatűrő rendszerek fejlesztése és üzembe helyezése a Kubernetes-alapú privát felhőkön és az Azure-on,Infrastruktúra automatizációt támogató API-k fejlesztése,A meglévő automatizálás módosítása az AWS/Azure-ban a teljesítmény javítása érdekében.
+Az álláshoz tartozó elvárások:
+Főiskolai vagy egyetemi végzettség informatikai területen,Legalább 3+ év professzionális programozási tapasztalat az alábbi programozási nyelvek valamelyikében: Java, JavaScript, Go vagy Python,Felhő alapú szolgáltatások ismerete,Konténerizációs technológiák ismerete (preferáltan Docker vagy Kubernetes),CI/CD megoldások ismerete,Magabiztos tárgyalási nyelvtudás angol vagy német nyelven.
+Amit kínálunk:
+Szakmai tudáshoz illeszkedő alapbér,Éves bónusz,Professzionális munkakörnyezet,Hozzáértő szakmai csapat,FULL TIME REMOTE lehetőség.
+Az állás betöltéséhez előnyt jelent:
+“Infrastructure as Code” ismerete, lehetőleg Terraform segítségével,Kubernetes- vagy Azure-hoz kapcsolódó tanúsítvány,TAPASZTALAT:ETL Apache AirflowCamel KPysparkMonitoring és riasztás a Grafana segítségévelHelmfileAz API tervezés alapos ismerete (pl. Swagger/OpenAPI)
+Állás, munka területe(i):
+IT programozás, Fejlesztés
+Programozó, Fejlesztő
+Rendszertervező
+Egyéb információ:
+Munkavégzés helye: Remote, (de van irodai lehetőség is Budapesten az Infopark sétányon).Munkaidő: hétfőtől - péntekig, rugalmasAmennyiben érdekli a meghirdetett pozíció, küldje el számunkra angol vagy német és magyar nyelvű önéletrajzát a JELENTKEZÉS gombra kattintva!
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok vagy
+Német középfok
+3-5 év szakmai tapasztalat
+Főiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

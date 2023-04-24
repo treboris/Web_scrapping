@@ -1,0 +1,78 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+Data Scientist & AI Engineer (Budapest)
+Data Scientist & AI Engineer (Budapest)
+Jelentkezem az állásra ›
+EasyHiring Services Kft.
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+teljes munkaidő
+angol - középfokú
+Data Scientist & AI Engineer
+● Extract and analyse data from various sources to drive business insights
+● Build and maintain data pipelines in Azure to streamline data processing and storage
+● Develop and implement AI models using TensorFlow to optimise and simulate industrial processes
+● Use AI models to create model predictive controllers for real-time decision-making and process optimisation
+● Design, implement and maintain various Digital Twin solutions
+● Collaborate with cross-functional teams to understand business requirements and apply AI solutions
+● Stay up-to-date with the latest AI and data science trends and techniques
+Our Partner is seeking a highly skilled Data Scientist to join their newly established team. The ideal candidate should be able to extract and analyse data from various sources to drive business insights, program, create data pipelines in Azure and build models for industrial processes to optimise and simulate different scenarios. The candidate will play a key role in developing and implementing AI solutions to help the organization stay at the forefront of industry innovation.
+● Bachelor's or Master's degree in Computer Science, Data Science, Engineering, or a related field
+● Strong programming skills, with experience in Python, R, or similar language
+● Experience working with cloud platforms, specifically Azure
+● Strong knowledge of AI techniques and algorithms, including Tensor Flow and deep learning
+● Experience in creating model predictive controllers
+● Ability to work independently and as part of a team
+● Excellent written and verbal English communication and interpersonal skills
+● Experience with SCADA systems is beneficial
+Being part of a global team
+Challenging projects
+Excellent compensation package
+Hybrid work
+Munkavégzés helye
+Budapest
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+Randstad Hungary Kft -
+Software Engineer
+Deutsche Telekom IT Solutions -
+Learning and Development Expert (Experienced/Senior) - REF1664I
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Deutsche Telekom IT Solutions -
+Senior FullStack Fejlesztő (REF1657B)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

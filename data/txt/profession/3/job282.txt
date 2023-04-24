@@ -1,0 +1,119 @@
+Belépésálláskeresőknek
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Budapest
+Devops fejlesztő/üzemeltető (REF170P)
+Deutsche Telekom IT Solutions
+Budapest, Hungary
+ Elvárt technológiák
+DEVOPS
+LINUX
+ANSIBLE
+DOCKER
+PYTHON
+SQL
+ORACLE
+DB2
+GIT
+ITIL
+BITBUCKET
+ Módszertanok és szoftverek
+Jira
+Confluence
+Git
+Scrum
+Agilis
+Itil
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+ Elvárt technológiák
+DEVOPS
+LINUX
+ANSIBLE
+DOCKER
+PYTHON
+SQL
+ORACLE
+DB2
+GIT
+ITIL
+BITBUCKET
+ Módszertanok és szoftverek
+Jira
+Confluence
+Git
+Scrum
+Agilis
+Itil
+Deutsche Telekom IT Solutions
+Devops fejlesztő/üzemeltető (REF170P)
+A cég leírásaA Deutsche Telekom IT Solutions Magyarország legnagyobb IKT-munkaadója, a Deutsche Telekom IT Solutions (korábban IT Services Hungary, ITSH) a Deutsche Telekom Csoport tagja és a németországi székhelyű Deutsche Telekom IT leányvállalata. A 2006-ban alakult, több mint 5000 fős cég az informatikai és telekommunikációs szolgáltatások széles körét nyújtja. A vállalat 2019-ben elnyerte a Nemzeti Befektetési Ügynökség (HIPA) legjobb oktatási együttműködésért járó díját, a PwC Magyarország független felmérése alapján a legvonzóbb magyarországi munkahelyek közé tartozik, és a legetikusabb multinacionális vállalat címét is megkapta. A cég folyamatosan fejleszti négy – budapesti, debreceni, pécsi és szegedi – telephelyét, és várja képzett informatikai szakemberek jelentkezését a csapatába.
+Feladatok:
+Az állás leírásaEgy német multinacionális nagyvállalat egyik új, dinamikusan fejlődő projekt magyarországi csapatába keresünk ambiciózus, németül magabiztosan beszélő, DevOps ismeretekkel rendelkező, fejlesztői és üzemeltetői feladatokat ellátó szakembert. Projektünk célja a kiemelkedő színvonalú digitális vásárlói élmény biztosítása, illetve a modern infrastruktúrák kialakítása, az ehhez szükséges szakmai tudás biztosításával. Amennyiben szereted a kihívásokkal teli, változatos munkakört, hasonló területen szerzett többéves, magabiztos tapasztalattal rendelkezel, és szívesen használod a nyelvtudásod a mindennapi kommunikáció során, Te vagy a mi emberünk!Feladatok:2nd és 3rd Level technikai támogatásJegyek feldolgozása 2nd Level szintű támogatásban, például, projektkörnyezetek létrehozása (Atlassian Jira, Confluence, Bitbucket, esetleg Artifactory)Engedélyek kezeléseTámogatás (hibaelhárítás, tanácsadás) az MMS összes alkalmazottjának, dokumentáció készítéseÁltalános meghibásodások azonosítása és a hibaelhárítás támogatásaSzoftverfejlesztés és -tervezés: SW Development, Bug fixing, interfészek, migráció, adatbázis-karbantartásSzabványosított operatív feladatok ellátása a DevOps eszközlánc fenntartásához, pl. Atlassian Jira, Confluence, BitbucketAz alkalmazások rendszeres frissítéseA műszaki változások tesztelése a szervezeten belüli bevezetés előttDeployment folyamatokMonitoringReportingAktív részvétel napi/heti ügyfélmegbeszélésekenAlap automatizálási feladatok elvégzéseÖnálló részprojektek menedzseléseSzakmai és technikai tanácsadásTranzíciókban való részvétel és dokumentációkezelés
+Elvárások:
+Képzettség2-3 év releváns szakmai tapasztalat fejlesztés vagy üzemeltetés területenMagas szintű Linux üzemeltetési ismeretekLinux, Ansible, Docker, Python, Atlassian Toolstack, SQL / JQL Know-how alkalmazás szempontjábólShell scripting Szoftverdesign magas szintű ismereteMagabiztos német nyelvtudás (minimum B2)Adatbázisok: Oracle SQL vagy DB2 kezelői ismerete Tapasztalat GIT használatban, Scrum (Jira & Confluence)Agilis megközelítés (Scrum folyamatok)Technológiák:Linux, Ansible, Docker, Python, Atlassian Toolstack, SQL/JQL Know-howElőnyök:Angol nyelvismeretITIL ismerete és alkalmazásaFejlődésorientált gondolkodásmódJó problémamegoldó képességMegoldásorientált szemléletmódHosszútávú részvétel a projektbenHatározottság és hatékonyság az ügyfélkezelésbenSzemélyiség:Proaktív, ügyfélközpontú személyiségGyors alkalmazkodási képességTanulásra való hajlandóságJó kommunikációs képességTovábbi információk* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Állás, munka területe(i):
+IT üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+ Elküldöm magamnak
+ Értesítést kérek
+A cégről
+Deutsche Telekom TSI Hungary Korlátolt Felelősségű Társaság
+Információ, kommunikáció
+●
+Egyéb információ-technológiai szolgáltatás
+1000+ munkavállaló
+2006
+1097
+Budapest,
+Tóth Kálmán utca 2. B. ép.
+Értékelések a(z) Deutsche Telekom TSI Hungary Kft. cégről
+3,9
+75 értékelés alapján 
+Értékelések kategória szerint 
+4,3
+Munkaidő és munkarend 
+3,7
+Főnökök 
+4,1
+Munka és magánélet egyensúlya 
+4,0
+Kollégák és céges hangulat 
+4,3
+Megközelíthetőség 
+4,3
+Munkakörnyezet 
+További kategóriák  
+A munkahely előnyei 
+Biztosítják a munkaeszközöket 
+Támogatják a képzéseket 
+Vállalják a betanítást 
+További vélemények 
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

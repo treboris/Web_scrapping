@@ -1,0 +1,80 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSenior backend developer/ka - C++ 
+×Ľutujeme, spoločnosť ponúkajúca danú pracovnú pozíciu ukončila zverejnenie ponuky na stránke.Ďakujeme za porozumenie.Zobraziť podobné ponuky
+Senior backend developer/ka - C++Seznam.cz Slovensko, s.r.o.
+Miesto práce
+Bottova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 500 - 4 000 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiHľadáme tímového hráča na pozíciu backendového vývojára hlavne pre služby Mapy.cz a Firmy.cz. Vašou úlohou bude rozvíjať backend, ktorý stojí za hľadacím políčkom na týchto službách. Vzhľadom k tomu, že tieto služby denne navštívia státisíce užívateľov a musia obslúžiť desiatky miliónov dotazov, budete sa musieť často rozhodovať medzi niekoľkými prístupami a vybrať ten najoptimálnejší. Naviac tieto hľadania nie sú založené len na texte, ale vstupujú do nich aj polohy jednotlivých entít. Pri práci sa spolupracuje s vývojármi na mapách, firmách a s výskumníkmi, ktorí vylepšujú hľadanie pomocou strojového učenia. Vaša rola:Rozvoj vyhľadávania pre služby Mapy.cz, Firmy.cz a ďalšieNávrh architektúry, hľadanie optimálnych riešeníPráca na vyhľadávacích backendových systémoch, ktoré denne obslúžia desiatky miliónov požiadaviek pri nízkej latenciiPoužívanie programovacích jazykov C++ ( STL, Boost ), Python a rôzne relačné a NoSQL databázyRozširovanie svojich znalostí a skúšanie nových technológiíPredávanie znalostí juniornejším členom tímu Vaše predpoklady:Znalosť jazyka C++ ( výhodou je znalosť C++ 11, alebo vyššej verzie, STL, Boost )Skúsenosť s prácou v linuxovom prostredí ( Debian )Výhodou znalosť fulltextového enginu Elasticsearch a relačných databáz, jazyka GoOrientácia v technológiach Gitlab CI/CD, Kubernetes, DockerSchopnosť pracovať v tíme a posúvať ďalej svoje know-howZnalosť angličtiny na úrovni čítania technickej dokumentácie Zamestnanecké výhody a benefity:Práca na službách, ktoré denne využívajú státisíce ľudíStabilného zamestnávateľa, najväčšiu internetovú technologickú firmu v Českej republike5 týždňov dovolenky + 5 freedaysMožnosť práce z domu, alebo officu v BratislaveVýber techniky  (MacBook Pro, HP) a prostredie (macOS, Windows, Linux), dobrý monitorPre nás je dôležitý aj osobný rozvoj. Ponúkame ti interné vzdelávanie a externé konferencie.Možnosť kvartálneho bonusu podľa plnenia cieľov Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou Inzerujúca spoločnosť Stručná charakteristika spoločnostiSeznam.cz hľadá talenty aj na Slovensku
+Sme česká internetová jednotka s viac ako 1500 zamestnancami a tržbami presahujúcimi 200 miliónov eur. Našu domovskú stránku denne navštívi viac ako 3,5 milióna ľudí, ktorí hľadajú informácie aj zábavu. Ako líder trhu zasiahnu naše služby mesačne 95 % českej internetovej populácie.
+Vyvíjame viac ako 30 vlastných produktov a služieb, ktoré používajú milióny ľudí denne. Patrí medzi ne napríklad vlastné Vyhľadávanie ako aj reklamný systém Sklik, kde ako jedna z mála firiem na svete dokážeme konkurovať globálnym službám a neustále ho vylepšujeme, oceňovaná navigácia Mapy.cz, najnavštevovanejší český videoportál Stream s viac ako 4,5 miliónmi videí, porovnávač cien Zboží.cz, ktorý obsahuje takmer 200 miliónov ponúk z 31 tisíc e-shopov, alebo populárny český freemail Seznam Email s bezmála 8 miliónmi aktívnych schránok, do ktorých denne doručíme viac ako 71 miliónov e-mailov.
+Používáme najmodernejšie technológie, spracovávame terabajty dát, staviame si vlastné dátové centrá, vyrábame vlastný hardware a vyvíjame vlastné riešenia na mieru – napríklad cloud infraštruktúru s názvom SCIF.
+Staňte sa súčasťou modernej technologickej firmy s neformálnou atmosférou a partie nadšených profesionálov, vďaka ktorej budete môcť ďalej rásť a učiť sa od skúsených kolegov.
+Pridajte sa do tímu Seznam.cz. 
+ KontaktKontaktná osoba: Tomáš BaranecE-mail: poslať životopis
+Všetky ponuky spoločnosti
+ID: 4551476 
+     Dátum zverejnenia:  4.4.2023 
+    2023-04-04
+lokalita: Bratislava   Pozícia: C++ programátor, Softvérový inžinier   Spoločnosť: Seznam.cz Slovensko, s.r.o.   
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto): 2 500 EUR/mesiac
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

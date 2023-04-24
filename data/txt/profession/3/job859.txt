@@ -1,0 +1,74 @@
+Belépésálláskeresőknek
+IT Development
+Programmer, Developer
+Budapest
+Budapest
+Architect (JD)
+Tech People Hungary Kft.
+Budapest, IX. kerület
+ Elvárt technológiák
+DOCKER
+AZURE
+CLOUD
+ANSIBLE
+LINUX
+ Módszertanok és szoftverek
+Agile
+Jelentkezem
+Mentés
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Középiskola
+ Elvárt technológiák
+DOCKER
+AZURE
+CLOUD
+ANSIBLE
+LINUX
+ Módszertanok és szoftverek
+Agile
+Tech People is a European provider of technical skills permanent recruitment and temporary contracting services for multiple industries.
+Currently we are looking for
+ARCHITECT (JD)
+Location: Budapest, IX district (partly home office)
+Salary: competitive
+Type of employment: employee
+Tasks:
+Conversion of Kubernetes clusters from Docker-CE to ContainerD.Integration of Azure AKS into the serviceDevelopment of a roadmap for the migration of existing clusters into the revised servicePresentation of the results to the customer and internallyInternal training for the teamSupport cloud migrations of applications to the AZURE Cloud, if applicable.Support automation of service deployments in the cloud context, if applicable.
+Qualifications/knowhow on the topics:
+KubernetesRancherContainersMicrosoft AZURE CloudTerraformAnsibleGitlabGithubAZURE Dev/OpSLinux knowledge preferably Red HatExperience with building and deploying IaaS componentsExperience with the deployment of PaaS components
+Skills:
+Language skills: German and EnglishIndependent work in an agile environmentCreation/presentation of own ideas for the further development of the servicesCommunicative and social skills
+Sector(s):
+IT Development
+Programmer, Developer
+System Integrator
+How to apply/ contact information
+Apply via the "Jelentkezem" button below!
+Jelentkezem
+MENTÉS
+Elküldöm magamnak a hirdetést
+Hasonló állásokat szeretne kapni e-mailben?
+Kérje állásértesítőnket, és naponta küldjük a legfrissebb ajánlatokat!
+Állásértesítőt kérek
+Jelentkezem
+MentésMentés kedvencnek
+ Vissza a listára
+Az állásról
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő, Home office, Alkalmazotti jogviszony
+Elvárások:
+Angol középfok és
+Német középfok
+1-3 év szakmai tapasztalat
+Középiskola
+ Elküldöm magamnak
+ Értesítést kérek
+Munkahely értékelése 
+Ennél a cégnél dolgozik vagy dolgozott a múltban? Kérjük, mondja el véleményét, segítse az álláskeresők közösségét!
+Értékelem

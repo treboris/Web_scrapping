@@ -1,0 +1,108 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJunior/Mid PHP programátor pre Wilsondo  Можливість для людей з України
+Junior/Mid PHP programátor pre WilsondoWilsondo s. r. o.
+Miesto práce
+Tvrdošín, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Mzdové podmienky (brutto)
+Od 1 100 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiBaví ťa programovanie a chceš pracovať na projektoch, ktoré zefektívnia prácu tvojich kolegov a budú posúvať firmu na vyšší level? 
+Či už si hotový človek so skúsenosťami alebo sa chceš veľa učiť, ozvi sa nám! Máme v tíme senior programátora, ktorý si ťa zoberie pod svoje krídla.
+Hľadáme IT nadšenca, ktorý posilní náš programátorský tím a pomôže nám s rozpracovanými a plánovanými projektami. Aktuálne programujeme interný systém na správu produktov (PIM), budeme implementovať ERP a neskôr aj nové eshopové riešenie. Navyše plánujeme ďalšiu expanziu a rozširovanie portfólia. 
+Koho hľadáme?
+-> Hľadáme nového člena do nášho interného IT tímu. Tvojou úlohou bude participácia na programovaní connectorov medzi eshopom, ERP, PIM.
+-> Programátora, ktorý vie pracovať v tíme a dokáže dotiahnúť úlohy do úspešného konca.
+-> Nemáš problém s učením sa nových technológií. Povzbudzujeme všetkých členov tímu aby prichádzali s vylepšeniami, ktoré potom radi implementujeme. Budeš mať vyčlenený čas len na learning nových technológií a skills.
+Čo ťa čaká?
+-> Programovanie v PHP 8
+-> Preferujeme framework Symfony (ak nemáš skúsenosť, nevadí - naučíme ťa to)
+-> Budeš používať GIT a nasadzovať cez pipelines.
+-> PostgreSQL
+-> Komunikácia cez API, import / export XML
+-> Snažíme sa využívať správnu technológiu pre konkrétny účel.
+-> Nesnažíme sa vymýšľať koleso a hľadáme existujúce a overené riešenia. Napriek tomu sú niektoré časti nášho ekosystému vyvíjané interne, pretože existujúce riešenia neboli pre nás dostatočné.
+Sme otvorená firma, všetci si tu tykáme a na nič sa nehráme. Ľuďom dávame slobodu a na výmenu chceme od nich zodpovednosť. Potrebujeme tímových hráčov, ktorí dokážu spolupracovať s kolegami a ťahať s nimi za jeden povraz. Všetci sme pozitívne naladení a máme zmysel pre humor. Vieme u nás oceniť snahu a chuť spraviť krok navyše.
+Pracovná doba: Flexibilná. (Rešpektujeme ranné vtáčatá, aj nočné sovy. Väčšina firmy však pracuje 8:00-16:00 a treba spolupracovať aj s kolegami). Práca je vhodná aj pre študenta ale očakávame časový fond minimálne 16 hodín týždenne.
+Lokalita: Tvrdošín - hlavné kancelárie, Zemianska Dedina (kancelárie a sklady), Zábiedovo (sklady), Bratislava. Home-office je možný.
+Platobné podmienky: od 1 100€ brutto, stravné lístky 5,10€ , polročné a koncoročné odmeny poďla prístupu k práci a výkonu = 13.plat.
+Pre študenta ponúkame plat od 5 EUR/hodinu. Zamestnanecké výhody, benefity-> Príspevok na vzdelávanie
+-> Polročné a koncoročné odmeny = 13.plat
+-> Zamestnanecké zľavy - 25% zľava na všetky produkty z našej ponuky
+-> Preplácaný fyzioterapeut/masér 1x do mesiaca
+-> 50% príspevok na multisport kartu + tímový tréning v ActiveGym
+-> Skvelá káva Lucaffé Mr. Exclusiv neobmedzene a kvalitný presso stroj
+-> Firemné párty - letná a vianočná (celkom slušne sa vieme baviť ;-) )
+-> Máme priateľské a otvorené prostredie Informácie o výberovom konaníAk by si mal o túto pracovnú pozíciu záujem, zašli nám prosím svoj životopis. Vopred veľmi pekne ďakujeme každému uchádzačovi za záujem. Kontaktovať a pozývať na osobný pohovor budeme iba vybraných kandidátov. Tešíme sa. Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímštudent strednej školy
+stredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňaVzdelanie v odboreTechnickéOstatné znalostiMicrosoft Excel - Mierne pokročilýPHP - ZákladyPozícia je vhodná pre absolventaÁno Inzerujúca spoločnosť Stručná charakteristika spoločnostiSpoločnosť WILSONDO  s.r.o. prevádzkuje viacero eshopov zameraných na nábytok, matrace a bytové doplnky na slovenskom a maďarskom trhu. Tím momentálne tvorí 60 interných zamestnancov. Na trhu sa firma pohybuje už viac ako 10 rokov, za ktoré obslúžila už viac ako 150 000 spokojných zákazníkov. 
+Hlavné projekty:
+Wilsondo.sk | Detskapostel.com | Ja-a-matrac.sk | Poschodovky.sk
+Wilsondo.hu | Emeletes-agyak.hu | Matrac-es-en.hu Počet zamestnancov50-99 zamestnancov KontaktKontaktná osoba: Rastislav UjmiakE-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4555465 
+     Dátum zverejnenia:  11.4.2023 
+    2023-04-11
+lokalita: Tvrdošín   Pozícia: PHP programátor   Spoločnosť: Wilsondo s. r. o.   
+Základná zložka mzdy (brutto): 1 100 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

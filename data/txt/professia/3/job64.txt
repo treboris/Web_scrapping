@@ -1,0 +1,78 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceData Engineer (Stochastic Analytics) 
+Data Engineer (Stochastic Analytics)Synpulse Slovakia s.r.o.
+Place of work
+Bottova, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 500 EUR/month
+Information about the position Job description, responsibilities and dutiesWe are looking for someone to build and maintain end-to-end infrastructure supporting the internal capital model. This will require a range of bespoke user-friendly front-end interfaces which collate and transform data from multiple underlying systems and feed them into data manipulation processes owned by the stochastic analytics team. The infrastructure will automate and enhance existing processes, facilitate good governance throughout the modelling workflow and provide easy insight and oversight into the model’s inputs and outputs for end-users.Your Tasks:•	Building end-to-end technological solutions allowing a range of different stakeholders to access the functionality provided by the internal capital model•	Integrate the solution with different departments’ existing business applications and the data universe to source, validate and standardise the input data required•	Build bespoke processes for users to review and process the input data•	Develop processes allowing users to run specific models using selected input datasets using an API•	Develop interfaces, using RShiny or ReactJS, allowing users across the organisation to interact with stochastic modelsKeep up to date on the latest technological developments and advise the wider team and organisation on these developments as necessary•	Work within the constraints set down by the wider technological environment, led by the Data & Technology team Employee perks, benefits•	Five extra vacation days on top of regulation•	Sick leave compensation 100% from day one•	Yearly bonus up to 10%•	Overtime fully paid or compensated based on your preference•	A friendly and informal working environment•	Work-life balance with flexible working hours and the option to work from home•	Dedicated time for individual training•	MultiSport card for access to a broad range sport offering•	Language courses•	Parking•	Private Healthcare Package Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)Language skillsEnglish - Upper intermediate (B2)Experience in the position/sectorMore than 3 years working in programming, data transformations, and data warehousingPersonality requirements and skills•	Strong programming skills using R, RShiny, Python or SQL and knowledge of relational databases•	Excellent ability to integrate a range of different systems together, using APIs and/or other mechanisms•	Knowledge of data transformation pipelines and tools•	The ability to design, build, and deploy interactive user interfaces for interrogating data•	Experience in a fast-moving environment, working within context and constraints of a wider organisational development framework•	Good communication skills, in particular, be able to understand and communicate complex technical issues clearly to a non-technical audience•	Extensive experience combining different systems or micro-services into a coherent user experience•	Experience developing end-to-end solutions that meet the needs of multiple different stakeholders•	Experience building processes to enhance governance and sign-off proceduresNice to have:•	Innovative with an ability to adapt quickly to new technologies; Snowflake, RShiny, RPC Tyche, Boomi, React•	The ability to design, build, and deploy interactive user interfaces for interrogating data•	Some knowledge of AWS infrastructure and services•	Ability to work as part of a non-hierarchical, dynamic team•	Experience in the commercial insurance industry would be beneficial Advertiser Brief description of the companySynpulse is an internationally established management consulting company with 25+ years of experience and with offices in the United Kingdom, Switzerland, Germany, Austria, Slovakia, USA, Singapore, Australia, the Philippines, India, and Hong Kong. We are a valued partner to many of the world’s largest international financial services and insurance firms. We support our clients at all project management stages from the development of strategies and operational frameworks to the technical implementation and handover. Our expertise in business and technology, combined with our methodic approach, enables us to create sustainable added value for our clients’ business. We use home-grown, market-tested project management methodologies to bridge the gap between innovation and business. We work along with leading edge technology partners to bring true business transformation. Number of employees50-99 employees 
+ ContactContact person: Mgr.  Dominika TurčanováE-mail: send CV
+All company jobs
+Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4306178 
+     Dátum zverejnenia:  17.4.2023 
+    2023-04-17
+lokalita: Bratislava   Pozícia: Database Administrator, Programmer, Service Engineer   Spoločnosť: Synpulse Slovakia s.r.o.   
+Základná zložka mzdy (brutto): 2 500 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

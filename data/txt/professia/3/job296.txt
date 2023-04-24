@@ -1,0 +1,107 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceSoftware Engineer for SaaS solutions 
+Software Engineer for SaaS solutionsQuest Software Slovakia s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+2 800 EUR/monthBase salary starting at 2800€ gross per month. Actual salary likely to be higher depending on each individual candidate.
+Information about the position Job description, responsibilities and dutiesQuest Software is looking for an experienced Software Developer to join an agile development team in one of the Slovakian offices, or remotely from anywhere in Slovakia. We are working on building serverless cloud native SaaS solutions using the latest technologies in the Microsoft Azure platform. This team is building commercial software which simplifies and improves the management of critical enterprise data. The team member will be responsible for the design, development and successful implementation of software utilizing the latest software best practices. The candidate will be working in a highly agile, SCRUM team and be using the latest of technologies and coding environments. We are looking for candidates with experience in both front and back end web development. The candidate will be part of a global development team and will need to be able to overlap some working hours with team members in the US Eastern time zone.
+Responsibilities:
+•	Work on an R&D team building serverless cloud native SaaS solutions using the latest technologies in the Microsoft Azure platform
+•	Build commercial products that work across numerous Microsoft technologies including Azure AD, Office 365, Active Directory, Exchange, SharePoint, Skype for Business, SQL Server, etc.
+•	Be a member of an agile SCRUM team and be motivated to produce high quality code that meets business requirements
+•	Develop leadership within the team by taking on design activities for components and taking ownership of their success. Employee perks, benefits•	Health, Family & Retirement
+•	Incentive Compensation
+•	Professional Development
+•	Remote Work Flexibility
+•	Language Lessons Requirements for the employee Candidates with education suit the positionUniversity education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)Language skillsEnglish - Upper intermediate (B2)Personality requirements and skills•	Completion of a computer science undergraduate degree or equivalent
+•	Minimum of 5 years working experience in software development
+•	Full Stack Development – C#/.NET Core
+•	Experience in working with Azure Kubernetes Service (AKS)
+•	Serverless development experience using Azure Functions, AWS Lambda, or containers.
+•	Experience in writing quality code with techniques such as unit testing, mocking, automation, integration testing, and code coverage
+•	Good understanding of modern software practices including design patterns, SOLID principles, coding standards, and agile software development practices.
+•	Ability to work within a microservice architecture
+•	Solid understanding of building scalable web applications using WebAPI, RESTful API design
+•	Developing and maintaining CD/CI pipelines for build and deployment of services and components using Azure DevOps (preferred), Jenkins, or similar systems.
+•	Working with NoSQL databases such as Cosmos DB, MongoDB, Azure Data Explorer, Elasticsearch
+•	Ability to produce and document designs and specifications for new features and services
+•	Experience working with multiple agile development teams
+•	Demonstrated verbal and written communication skills
+•	Good interpersonal skills and ability to work well in a team environment Advertiser Brief description of the companyQuest Software enables organizations of all sizes to better secure, manage, monitor, protect, and analyze information and infrastructure to help fuel innovation and drive their businesses forward. With over 5,000 team members around the globe, we intend to continue to grow revenues and add value to customers. 80 of the Fortune 100 Companies rely on Quest for Identity Security Solutions!
+When you join our team, you will have the opportunity to build and develop products at a scale few others can provide. Our product portfolio serves a large base of customers, and we are addressing the strategic imperatives for enterprise businesses. Working with some of the most talented employees the industry has to offer, we provide enhanced career opportunities for team members to learn and grow in a rapidly changing environment.
+Why work with us?
+- Life at Quest means collaborating with dedicated professionals with a passion for technology.
+- When we see something that could be improved, we get to work inventing the solution.
+- Our people demonstrate our winning culture through positive and meaningful relationships.
+- We invest in our people and offer a series of programs that enable them to pursue a career that fulfills their potential.
+- Our team members’ health and wellness is our priority as well as rewarding them for their hard work.
+Quest is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: Quest is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Quest are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Quest will not tolerate discrimination or harassment based on any of these characteristics. Quest encourages applicants of all ages. Number of employees25-49 employees ContactContact person: Attila TakacE-mail: send CV Send CV to the company 
+                    Recommend job to a friend
+ E-mail Facebook Viber Whatsapp
+ID: 4553543 
+     Dátum zverejnenia:  6.4.2023 
+    2023-04-06
+lokalita: Remote work   Pozícia: .NET Programmer, Backend developer, C# Programmer, IT Architect, Programmer   Spoločnosť: Quest Software Slovakia s.r.o.   
+Základná zložka mzdy (brutto): 2 800 EUR/month
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 

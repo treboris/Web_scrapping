@@ -1,0 +1,82 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+DevOps Engineer (Magyarország)
+DevOps Engineer (Magyarország)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+3 - 5 év tapasztalat
+beosztott
+Középfokú végzettség
+Felsőfokú végzettség
+teljes munkaidő
+távmunka, home office
+angol - középfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group and Germany-based Deutsche Telekom IT. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+DevOps Engineer
+You will be part of an innovative and agile work environment, where you will implement future-oriented network solutions with your DevOps skills to manage one of Telekom Deutschland's most focused projects!
+Our group called VNI is responsible for the integration, validation and production of test results that meet the requirements of the Deutsche Telekom AG Platform. The environment for our work is provided by a 4,000 square meter lab in Germany, where you can find a complete copy of the live network. Our daily tasks are carried out remotely in several virtual Squads with German and international colleagues.
+Tasks
+Software engineering experience using extensive programming and language skills (Python, JavaScript, TypeScript, HTML, CSS, Java, Perl)
+Experience in full stack development using appropriate frameworks (Web services, REST,  Application server, Micro services, (No) SQL databases, Vue.js)
+Network knowledge (CCNA)
+Experience with virtualization and cloud technologies (Docker, Kubernetes, Vmware, Terraform, OpenStack)
+Experience in big data architectures and in the analysis of unstructured data (JSON, XML)
+CI/CD knowledge (Jenkins, GitLab, JFrog Artifactory)
+Experience in the conception of test automation and execution of tests (Ansible)
+Practical experience in the use of modern tools for collaboration in agile teams (Jira)
+Minimum B2 English
+Requirements
+Take on the clarification of requirements in the area of ​​responsibility and adaptation of the software for certain products and services
+Carry out the corresponding programming work (coding) and take on the installation, configuration and administration of the software for certain products and services
+Create and maintain software documentation in the area of ​​responsibility and support lifecycle management for the software developed for products and services by proactively contributing your own ideas and suggestions for improvement
+Working on the conception of test automation and the execution of tests
+Advantages: 
+Network knowledge (CCNP)
+German (B2 level) or willingness to learn german
+Experience in agile methodology
+Munkavégzés helye
+Countrywide
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+Randstad Hungary Kft -
+Senior Devops Engineer (Debrecen/Budapest)
+Randstad Hungary Kft -
+Devops Engineer
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Randstad Hungary Kft -
+IT Product Owner
+HVG Kiadó Zrt. -
+.Net fejlesztő
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

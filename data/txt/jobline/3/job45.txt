@@ -1,0 +1,82 @@
+Az oldalon történő látogatás során cookie-kat (“sütiket”) használunk. Ezen fájlok információkat szolgáltatnak számunkra a felhasználó oldallátogatási szokásairól, de nem tárolnak személyes információkat.
+Rendben
+Állások
+Keresés
+Állásposta
+Magazin
+Szakmunka
+Álláshirdetés-feladás
+ Regisztráció ›
+ Belépés ›
+DevOps Engineer for Business application within AWS (REF1577I) (Budapest)
+DevOps Engineer for Business application within AWS (REF1577I) (Budapest)
+Jelentkezem az állásra ›
+Deutsche Telekom IT Solutions
+Alapvető elvárások
+IT, telekommunikáció
+1 - 2 év tapasztalat
+beosztott
+Felsőfokú végzettség
+Középfokú végzettség
+teljes munkaidő
+angol - felsőfokú
+The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group. Established in 2006, the company provides a wide portfolio of IT and telecommunications services with more than 5000 employees. ITSH was awarded with the Best in Educational Cooperation prize by HIPA in 2019, acknowledged as one of the most attractive workplaces by PwC Hungary’s independent survey in 2021 and rewarded with the title of the Most Ethical Multinational Company in 2019. The company continuously develops its four sites in Budapest, Debrecen, Pécs and Szeged and is looking for skilled IT professionals to join its team.
+DevOps Engineer for Business application within AWS (REF1577I)
+The Digital Hub NTO (Network, Transformation & Optimisation) stands for the transformation and optimization of the access network in DTAG's fixed network. His goal is to improve the end customer's experience through increased bandwidth and products, while at the same time efficiently deploying the workforce to operate these networks.
+Tasks:
+Responsibility for the technical solution of the AWS / Container - service architecture within the NTO Agile Release Train
+Hire and define relevant technical enablers
+Coordination, advice and training of the system team
+Close coordination with the program level of the Agile Release Train
+Close cooperation with the product owners in the hub
+Significant design of the technical solutions used
+Participation in shaping the product vision from the point of view of the technical enablers.
+Participate in and conduct agile ceremonies at the program level.
+Significant contribution in the context of Relentless Improvement
+Support in capacity management of the necessary resources
+Skills:
+Experience as a DevOps Engineer or similar software engineering role
+Proficient with CI/CD pipelines
+Good knowledge on Containerization
+Knowledge on any mayor Cloud like AWS
+Good knowledge of Python and Terraform
+Working knowledge of databases and SQL
+Fluent English knowledge
+Senior
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.
+Munkavégzés helye
+Budapest, Debrecen, Szeged, Pécs
+Jelentkezem az állásra ›
+Neked ajánlott állások
+Neked ajánlott állások
+BKV Zrt. -
+IT szolgáltatásmenedzser
+Randstad Hungary Kft -
+Software Engineer
+Deutsche Telekom IT Solutions -
+Learning and Development Expert (Experienced/Senior) - REF1664I
+HVG Kiadó Zrt. -
+SENIOR SOFTWARE ARCHITECT
+Deutsche Telekom IT Solutions -
+Senior FullStack Fejlesztő (REF1657B)
+Küldjünk emailt, ha hasonló hirdetés kerül az oldalra?
+Ne maradj le egy jó állásról!
+Kérem! ›
+Állásajánlatok - legnépszerűbb városok
+Budapest
+Debrecen
+Veszprém
+Győr
+Pécs
+Kecskemét
+Szeged
+Székesfehérvár
+Tatabánya
+Zalaegerszeg
+© 2000 - 2023 Jobline | HVG Kiadó Zrt. 
+Termékeink
+Impresszum
+Álláshirdetés-feladás
+Adatkezelési tájékoztató
+ÁSzF
+Post a job

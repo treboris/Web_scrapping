@@ -1,0 +1,82 @@
+ITPeople.hu
+ Facebook
+Önéletrajz feltöltés
+Állások
+Álláskereső belépés
+Munkáltató belépés
+Álláshirdetés feladása
+Blog
+Kapcsolat
+ itpeople facebook
+itpeople
+ Facebook
+Álláshirdetés feladása
+Belépés/Regisztráció
+Munkáltató
+Álláskereső
+Állások
+Projektmunkák
+Önéletrajz feltöltés
+Közösség
+Kapcsolat
+LEAD FULL STACK DEVELOPER állás Budapest
+Docker
+GIT
+Angular
+Bootstrap
+net
+PostgreSQL
+AWS
+Full-stack fejlesztő állások 
+LEAD FULL STACK DEVELOPERPartnerünk egy gyorsan növekvő vállalat, amelynek fő profiljai a tesztelés, fejlesztés, DevOps Engineering és üzleti elemzés. Jelenleg piacvezető partnerük projektjén dolgozó lelkes csapata várja tapasztalattal rendelkező új kollégáját a következő pozícióba:Lead Full Stack DeveloperRöviden a projektről:• Jelenleg egy szolgáltatópartnerünk által használt .NET applikációt modernizáljuk, és fejlesztjük mikroszervizekkel.• Ezen túl új frontendet készítünk partnerünk számára, chat és online hívás funkciókkal kiegészítve.• A fejlesztésben egy dedikált DevOps és Infrastruktúra csapat támogat minket.Feladatok:• Szűk keresztmetszetek azonosítása és megoldása,• Harmadik féltől származó alkalmazások integrálása,• Új technológiák feltérképezése és a POC-k (proof of concept) felépítése,• Jó minőségű szoftverek szállítása,• Támogatni a nem technikai csapattagokat a termékfejlesztési folyamat megértésében,• Növekedési lehetőségek keresése.Elvárások:• Legalább 5 év gyakorlati fejlesztési tapasztalat a lentebb kifejtett technológiákban,• Nyitottság a legújabb technológiák felé,• Motiváltság a folyamatos fejlődésre és a tudás megosztására,• Képesség a részletekre való odafigyelésre, de a „big picture” átlátására is,• Kiváló kommunikáció készség,• Csapatjátékosság.Technológiai elvárások:• Back End technológiai stack: ASP.NET 6 Web API, PostgreSQL, MSSQL Server, Entity framework, Unit testing, AWS, Microservices with Docker/Kubernetes, Redis• Front End technológiai stack (ezek ismerete előny): Angular 6+, Angular Material, Bootstrap, NGRX / State Management, RXJS, SASS• Előny, ha van: GitHub, Octopus, Teamcity (CI/CD), AWS, Kubernetes, AzureAmit a vállalat kínál:• Növekvő helyi csapat, start-up érzéssel és stabil háttérrel és nyitott vezetőkkel• Érdekes nemzetközi projektek• Rendszeres otthoni munkavégzés• Nagyszerű csapat, rendszeres csapatépítő események• Laptop + 2 monitor (24") segíti a munkád• Rugalmas munkaidő (ésszerű keretek között)• Csapat-reggeli 
+Jelentkezésnél hivatkozzon az Itpeople-re!
+Vissza
+Jelentkezés
+Share
+Please enable JavaScript to view the comments powered by Disqus.
+Fox HR Consulting Ltd. 													
+Budapest
+Teljes Munkaidő
+ Full-stack fejlesztő
+Lejárati dátum: 2023-05-05
+Álláshirdetés részletei
+PozícióLEAD FULL STACK DEVELOPER
+Munkavégzés helye
+Budapest
+MunkaidőTeljes Munkaidő
+KategóriaFull-stack fejlesztő
+Hasznos linkek
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+IT Állások iparág szerint
+Adatbázis szakértő, Analyst állások
+Back-end fejlesztő állások
+Front-end fejlesztő állások
+Full-stack fejlesztő állások
+Design és grafika állások
+IT management állások
+IT / Dev architect  állások
+Rendszer / Hálózat, DevOps állások
+SAP állások
+Szoftverfejlesztő állások
+Tesztelés állások
+Egyéb IT pozik állások
+Mérnöki / Ipari programozás állások
+IT Support állások
+Mobil fejlesztő állások
+Gyakornok állások
+Mesterséges intelligencia állások
+ITPeople.hu
+Kezdőlap
+Állások
+Önéletrajz feltöltés
+Álláshirdetés feladás
+Adatkezelési tájékoztató
+Kapcsolat
+Oldaltérkép
+ITPeople állások

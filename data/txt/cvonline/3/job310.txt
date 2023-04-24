@@ -1,0 +1,49 @@
+ÁLLÁSHIRDETÉS FELADÁS
+Webes alkalmazásfejlesztő 
+A KITE Zrt. Nádudvari Központja pályázatot hirdet
+WEBES ALKALMAZÁSFEJLESZTŐ
+munkakör betöltésére
+Feladata:
+A társaság weboldalának, webes alkalmazásainak fejlesztése, üzemeltetése
+Meglévő közösségi és webes alkalmazások karbantartása
+Fejlesztési projektek elkészítése
+Követelmények:
+PHP magas szintű ismerete
+HTML, CSS, JavaScript, jQuery fejlesztésében szerzett szakmai tapasztalat
+Bootstrap ismerete
+MySQL magabiztos ismerete
+Objektum-orientált szemléletű fejlesztés
+GIT verziókövető rendszer használata
+Előnyt jelent:
+PHP keretrendszerek (pl. Codeigniter, Laravel, Symfony)
+SASS ismerete
+Flutter fejlesztési tapasztalat
+Amit nyújtunk:
+Versenyképes havi alapjövedelem
+Alapbéren felüli, teljesítménytől függő extra jövedelem
+Kiemelkedő cafeteria-rendszer
+Stabil, piacvezető cégnél szakmai fejlődési lehetőség és hosszú távú karrierépítés
+Jelentkezem
+Elmentem az állást
+Webes alkalmazásfejlesztő 
+Jelentkezem
+Elmentem az állást
+Kite Zrt 
+Nádudvar, 4181 MagyarországHajdú-Bihar 
+Teljes munkaidős 
+1-2 év munkatapasztalat 
+OKJ képesítés 
+Frissítés dátuma: 18.04.2023
+További állások keresése
+Állás megosztása
+Hasonló állások
+ SMT PROGRAMOZÓ (16-2174) 
+ Pest megye  
+ Frontend fejlesztő 
+ Budapest  
+ Senior JAVA Fejlesztő 
+ Budapest  
+ IT szolgáltatásmenedzser 
+ Budapest  
+ Rendszerszervező 
+ Budapest  

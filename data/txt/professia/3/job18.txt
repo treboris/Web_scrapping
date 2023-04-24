@@ -1,0 +1,124 @@
+Hľadanie práce
+                    Podľa regiónov
+Bratislavský kraj
+Banskobystrický kraj
+Žilinský kraj
+Trenčiansky kraj
+Trnavský kraj
+Nitriansky kraj
+Prešovský kraj
+Košický kraj
+Zahraničie
+Brigády
+Všetky ponuky
+            Vytvorte si životopis
+            Tip
+Prihlásiť
+Vstup pre firmy
+                    Prihlásiť
+                            Vytvorte si životopisTip
+                            Vstup pre firmy
+Úvodná stránkaHľadanie práceJunior/Mid PHP developer pre Post Affiliate Pro 
+Junior/Mid PHP developer pre Post Affiliate ProQuality Unit, s. r. o.
+Miesto práce
+Vajnorská 100, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Čo najskôr
+Mzdové podmienky (brutto)
+Od 1 600 EUR/mesiac
+Informácie o pracovnom mieste Náplň práce, právomoci a zodpovednostiSme slovenská spoločnosť zaoberajúca sa vývojom softvéru so sídlom v Bratislave. Od nášho počiatku v roku 2004 je naším prvoradým zameraním spokojnosť našich zákazníkov. Aby sme to dosiahli, potrebovali sme správne riešenie, ktoré však v minulosti nebolo dostupné na trhu. Práve preto sme sa rozhodli vymyslieť a vyvinúť si vlastný softvér zákazníckej starostlivosti LiveAgent. V súčasnosti LiveAgent, ako platforma na poskytovanie služieb zákazníkom, zabezpečuje tieto potreby vo viac ako 30 000 spoločnostiach po celom svete a pomáha stovkám miliónov ľudí globálne získať odpovede na ich otázky. Naším druhým produktom, ktorému by ste sa prioritne venovali je nástroj na správu partnerských sietí a odporúčaní Post Affiliate Pro. Post Affiliate Pro je priekopníkom v oblasti afffiliate marketingu a ako SaaS softvér umožňuje vytvárať a spravovať affiliate programy širokého spektra spoločností a odvetví. S jeho pomocou môžu obchodníci sledovať výkony svojich partnerov, poskytovať im marketingové nástroje a vyplácať im provízie za predaj. 
+Medzi našich verných zákazníkov, ktorých určite budete poznať, patria okrem iného celosvetovo pôsobiace spoločnosti a organizácie ako napríklad BMW, Forbes, Huawei, Oxford či Yamaha, a z nášho lokálneho trhu sú to firmy ako O2, 4ka, Martinus či portál, na ktorom si práve prezeráš túto pracovnú ponuku.
+Pridajte sa k nám a pomôžte nám zlepšiť a urýchliť vývoj platformy, pridávanie nových funkcií či vylepšení. 
+Podstatnou náplňou pracovnej pozície je najmä:
+- vývoj nových a komplexných funkcií, rozšírení a vylepšení
+- oprava chýb v produkte
+- testovanie kódu a code review
+- zapojenie sa do celého produktového cyklu nášho SaaS riešenia, realizácia potenciálu a nápadov od návrhu, vzniku až po finálne nasadenie
+- issue management na GitHube
+- komunikácia so zákazníkmi za účelom preverenia reportovaného problému
+- možnosť plného využitia svojich zručností a vedomostí
+- podieľanie sa na vývoji produktov svetového rádu s globálnym využitím
+Technológie, s ktorými budete pracovať:
+- na back-ende používame PHP. Knižnice a frameworky sa používajú podľa potreby.
+- front-end používa GWT a Javascript s Sass (css)
+Očakávame len, že sa nebudete báť učiť sa:
+- ako hlavnú úložnú technológiu používame MariaDB a Redis,
+- pracovať s modernými AI nástrojmi ako napríklad ChatGPT alebo Copilot ako pomôcku pri programovaní
+Znalosť žiadnej z týchto technológií nie je striktnou požiadavkou, jedinou požiadavkou je byť otvorený učiť sa novým poznatkom. Zamestnanecké výhody, benefity- hybridné miesto výkonu práce - u nás v kancelárskych priestoroch v myHive tower (nákupné centrum Vivo!) s možnosťou práce doma - výber je na dohode
+- flexibilný pracovný čas
+- príspevok na stravu vo výške 5,10 € plne hradený zamestnávateľom
+- MultiSport karta plne hradená zamestnávateľom, aby ste boli zdraví a vo fit kondícii
+- možnosť priplatenia si sprievodnej karty pre partnera / partnerku či iného člena rodiny
+- firemné podujatia a teambuildingy, ako sú večierky, herné večery, turistické výlety, plachtenie, športové podujatia atď.
+- firemný gear pozostávajúci z mikín, tričiek, cyklodresov, čiapok a iných doplnkov
+- možnosť čerpať neplatené voľno
+- platené voľno aj pre živnostníkov
+- bonus 300 EUR pri narodení dieťaťa
+- mladý a príjemný kolektív
+- možnosť zúčastniť sa na komunitných udalostiach myHive (grilovanie, herné večierky, tematické večierky alebo športové podujatia)
+- parkovacie miesto zadarmo alebo box na odloženie bicykla
+- zľavy vo vybraných obchodoch a prevádzkach vo Vivo! Center
+- neobmedzená káva v office, aby sa Ti lepšie pracovalo :) Informácie o výberovom konaníV prípade, že sme Vás zaujali, neváhajte nám poslať svoje CV na [email protected] Požiadavky na zamestnanca Pozícii vyhovujú uchádzači so vzdelanímstredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňaVzdelanie v odboreITJazykové znalostiAnglický jazyk - Mierne pokročilý (B1)Ostatné znalostiPHP - PokročilýJava - PokročilýMySQL - Mierne pokročilýJavaScript - ZákladyPozícia je vhodná pre absolventaÁnoOsobnostné predpoklady a zručnostiČo od vás očakávame:
+- orientujete sa v PHP a v Jave
+- vyznáte sa v objektovo-orientovanom PHP programovaní
+- ste nadšení z nových technológií
+- máte dobrú angličtinu hovorenou a písomnou formou (B1)
+Dobré vedieť:
+- skúsenosti s modernými PHP aplikáciami
+- znalosť relačných a/alebo nerelačných databáz, Docker, atď.
+- viete používať Git, GitHub a viete pracovať s pull requestmi
+- flexibilita, nezávislosť a schopnosť štruktúrovať si prácu
+- tímový duch
+- skúsenosti s prácou na diaľku, seba-motiváciou a online komunikáciou
+- analytické zmýšľanie a spôsob myslenia práce orientovaný na výstupy a riešenie Inzerujúca spoločnosť Stručná charakteristika spoločnostiSme slovenská softvérová spoločnosť, ktorá bola založená v roku 2004. Venujeme sa vývoju dvoch celosvetovo využívaných produktov LiveAgent a Post Affiliate Pro. LiveAgent je komplexný nástroj na správu zákazníckej starostlivosti pravidelne oceňovaný poprednými review platformami ako G2, GetApp, TrustPilot a Capterra. Post Affiliate Pro je softvér na vytvorenie a manažovanie affiliate programov a sietí. Medzi našich klientov patria značky a spoločnosti ako BMW, Forbes, Huawei, Univerzita Josha Hopkinsa, Oxford University či Yamaha. 
+Staň sa súčasťou jednej z mála globálnych SaaS spoločností s čisto slovenskými koreňmi, kde budeš môcť získať nové skúsenosti, pomáhať jej naďalej rásť, podieľať sa na zvyšovaní spokojnosti zákazníkov, a najmä, kde máš stabilnú a istú prácu, pri ktorej sa rozhodne nebudeš nudiť. Naštartuj svoju kariéru v stabilnom a neustále rastúcom B2B segmente, práve s nami! Počet zamestnancov50-99 zamestnancov KontaktKontaktná osoba: Andrej CsizmadiaTel.: +421904013153E-mail: poslať životopis Poslať spoločnosti životopis 
+                    Odporučiť ponuku známemu
+ E-mail Facebook Viber Whatsapp
+ID: 4559148 
+     Dátum zverejnenia:  17.4.2023 
+    2023-04-17
+lokalita: Bratislava   Pozícia: PHP programátor   Spoločnosť: Quality Unit, s. r. o.   
+Základná zložka mzdy (brutto): 1 600 EUR/mesiac
+Poslať spoločnosti životopisOdporučiť ponuku známemuOdporučiť ponuku cez FacebookTlačiťUložiť ponukuZobraziť uložené pracovné ponuky 
+                Všetkyponuky
+            Prihlásiť
+        Vytvorte siživotopis
+PROFESIA.SK
+O nás
+Kontakt
+Blog
+Facebook
+Všeobecné obchodné podmienky
+Ochrana osobných údajov
+Nastavenia cookies
+Cenník
+Užitočné odkazy
+Kariéra v kocke
+Brigády 
+Zoznam pozícií
+Zoznam lokalít
+Partneri
+Naše projekty
+Platy.sk
+HR nástroj Mark 
+Tulu
+Edujobs
+Chránené dielne
+Výpomoc so srdcom
+Podujatia
+Profesia days
+Najzamestnávateľ
+                            SK
+                            CZ
+                            EN
+                            DE
+                            HU
+                            Українською
+© 1997-2023 Profesia. Všetky práva vyhradené. PROFESIA.SK je členom skupiny Alma Media.
+× PrihláseniePrihlásenie/registrácia
+× 
