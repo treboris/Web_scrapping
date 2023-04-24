@@ -59,5 +59,6 @@ for x in range(len(web_pages)):
         main(web_pages[x],y)
 
 
-barchart()
+df = pd.DataFrame(list(region.items()), columns=['city', 'count'])
+df.to_csv('diagram_data/location_hun.csv', index=False)
 print('\a')

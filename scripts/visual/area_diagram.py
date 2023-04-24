@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import pandas as pd
 import sys
 import re
 
@@ -92,14 +93,15 @@ def bar_diagram():
     plt.legend()
     plt.show()
 
-
-
 data_fill(arg_kw)
 slovakia()
 foreign()
 hungary()
-print(data_hungary)
-print(data_slovakia)
-print(data_foreign)
-area_diagram()
-bar_diagram()
+
+
+df1 = pd.DataFrame(list(data_hungary.items()), columns=['languages', 'count'])
+df1.to_csv('diagram_data/programing_hun.csv', index=False)
+df2 = pd.DataFrame(list(data_slovakia.items()), columns=['languages', 'count'])
+df2.to_csv('diagram_data/programing_svk.csv', index=False)
+df3 = pd.DataFrame(list(data_foreign.items()), columns=['languages', 'count'])
+df3.to_csv('diagram_data/programing_foreign.csv', index=False)

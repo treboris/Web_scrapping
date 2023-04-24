@@ -19,25 +19,6 @@ def keyword(name):
         for l in line:
             keywordtxt[l.casefold()] = 0
 
-def add_labels():
-    global max_value
-    labels = []
-    for x in matches.values():
-        labels.append(x)
-    for i in range(len(labels)):
-        plt.text(i, labels[i], labels[i], ha = 'center')
-    max_value = max(matches,key=matches.get)
-
-
-def barchart():
-    fig ,ax = plt.subplots()
-    data = {k.capitalize(): v for k, v in matches.items()}
-    wedges, labels, _ = ax.pie(data.values(), labels=data.keys(), autopct='%1.1f%%')
-    labels = [f"{label}: {value}" for label, value in data.items()]
-    ax.legend(wedges, labels, loc="center right", bbox_to_anchor=(1.2, 0.5),fontsize = 15)
-    fig.set_size_inches(8, 6)
-    plt.tight_layout()
-    plt.show()
 #REGEX
 def keyword_search():
     keyword(f'{arg_kw}.txt')
@@ -57,4 +38,7 @@ def keyword_search():
             matches[f'{match}'] = keywordtxt.get(match)
 
 keyword_search()
-barchart()
+
+df = pd.DataFrame(list(matches.items()), columns=['rank', 'count'])
+df.to_csv('diagram_data/piechart.csv', index=False)
+print('\a')
