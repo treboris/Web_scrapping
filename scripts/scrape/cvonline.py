@@ -6,7 +6,10 @@ from tqdm import tqdm
 from modules.Data import Save
 import modules.tools as tools
 import requests
+import time
+import re
 
+start_time = time.time()
 initial = tools.initial()
 exists = tools.f_exists('cvonline',initial)
 
@@ -23,6 +26,11 @@ datee =[]
 corp = []
 main = []
 id = []
+
+
+
+
+
 
 #CONNECTION
 def conn(limit_txt,limit):
@@ -42,6 +50,7 @@ def page_number():
     return splitted[0]
 
 max_page_number = round(int(page_number()) / 20)
+
 
 for limit in tqdm(range(max_page_number)):
     fblock = conn(limit_txt,limit).find('div' , class_='l-content')
@@ -76,3 +85,4 @@ for y in range(0, list_size):
     datee.append(date)
 
 save_data = Save('cvonline', f'cvonline{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+print("--- %s seconds ---" % (time.time() - start_time))

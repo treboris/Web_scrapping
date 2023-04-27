@@ -5,6 +5,9 @@ from datetime import datetime
 from tqdm import tqdm
 import modules.tools as tools
 import requests
+import time
+import re
+start_time = time.time()
 
 initial = tools.initial()
 exists = tools.f_exists('profession',initial)
@@ -35,6 +38,7 @@ def conn(limit):
     page = requests.get(url)
     soup = BeautifulSoup(page.text,'html.parser')
     return soup
+
 
 for limit in tqdm(range(1,page_number())):
     fblock = conn(limit).find('ul',class_='job-cards')
@@ -96,3 +100,4 @@ for y in range(0, list_size):
     datee.append(date)
 
 save_data = Save('profession',f'profession{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
+print("--- %s seconds ---" % (time.time() - start_time))

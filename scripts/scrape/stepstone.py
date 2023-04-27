@@ -3,7 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
-from bs4 import BeautifulSoup
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from datetime import datetime
 from modules.Data import Save
 from tqdm import tqdm
@@ -35,27 +36,23 @@ def conn(limit):
     url = (f"https://www.stepstone.de/work/it?page={limit}&fdl=en")
     return driver.get(url)
 
-
+#WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.NAME, "q")))
 #REKURZIV FUGGVENY
 def scrape(x):
-    try:
-        article = driver.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]')
-        href_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/div[2]/a')
-        to_str = href_tag.get_attribute('href')
-        href.append(to_str)
-        main_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/div[2]/a/div/div/div')
-        main.append(main_tag.text)
-        corp_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/div[3]/span')
-        corp.append(corp_tag.text)
-        location_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/div[4]/div[1]/div[1]/span/span')
-        location.append(location_tag.text)
-    except (NoSuchElementException):
-        print('Reconnecting...')
-        conn(limit)
-        time.sleep(2)
-        scrape(x)
+    article = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,f'/html/body/div[4]/div[1]/div[1]/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]')))
+    href_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div[1]/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/h2/a')
+    to_str = href_tag.get_attribute('href')
+    href.append(to_str)
+    main_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div[1]/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/h2/a/div/div/div')
+    main.append(main_tag.text)
+    corp_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div[1]/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/div[2]/span')
+    corp.append(corp_tag.text)
+    location_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div[1]/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/div[3]/div[1]/div[1]/span/span')
+    location.append(location_tag.text)
 
-for limit in tqdm(range(page_number())):
+
+testnum = 20
+for limit in tqdm(range(1,testnum)):
     conn(limit)
     time.sleep(2)
     for x in range(1,26):
