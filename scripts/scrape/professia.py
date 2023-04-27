@@ -1,21 +1,14 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup ,NavigableString
 from datetime import datetime
 from modules.Data import Save
 import modules.tools as tools
 from tqdm import tqdm
 import requests
-import time
-import re
-
 
 initial = tools.initial()
 exists = tools.f_exists('professia',initial)
-
 date = datetime.today().strftime('%Y-%m-%d')
 
 options = Options()
@@ -40,7 +33,6 @@ def page_number():
     return(int(splitted[-1]))
 
 limit = 1
-
 def conn(limit_txt,limit):
     url = (f"https://www.profesia.sk/praca/programator/{limit_txt}{limit}")
     driver.get(url)

@@ -1,18 +1,11 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 from datetime import datetime
 from tqdm import tqdm
 from modules.Data import Save
 import modules.tools as tools
-import pandas as pd
-import time
 import requests
-import re
-import os
 
 initial = tools.initial()
 exists = tools.f_exists('cvonline',initial)
@@ -30,7 +23,6 @@ datee =[]
 corp = []
 main = []
 id = []
-
 
 #CONNECTION
 def conn(limit_txt,limit):
@@ -75,7 +67,6 @@ for limit in tqdm(range(max_page_number)):
             location.append(None)
 
 driver.quit()
-
 #ID DATE
 list_size = len(main)
 for x in range(0, list_size):
@@ -83,7 +74,5 @@ for x in range(0, list_size):
 
 for y in range(0, list_size):
     datee.append(date)
-
-#print(f'{len(location)}, {len(href)}, {len(datee)}, {len(corp)}, {len(main)}, {len(id)}')
 
 save_data = Save('cvonline', f'cvonline{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )

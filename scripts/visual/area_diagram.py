@@ -97,7 +97,7 @@ data_fill(arg_kw)
 slovakia()
 foreign()
 hungary()
-
+bar_diagram()
 
 df1 = pd.DataFrame(list(data_hungary.items()), columns=['languages', 'count'])
 df1.to_csv('diagram_data/programing_hun.csv', index=False)

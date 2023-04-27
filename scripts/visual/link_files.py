@@ -4,8 +4,6 @@ import re
 import os
 
 
-
-
 web_pages = ['cvonline','itpeople', 'jobline' ,'profession', 'kariera' ,'professia','stepstone']
 files = []
 count = 0

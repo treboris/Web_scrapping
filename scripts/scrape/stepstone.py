@@ -9,14 +9,10 @@ from modules.Data import Save
 from tqdm import tqdm
 import modules.tools as tools
 import requests
-import socket
-import time
-import re
 
 initial = tools.initial()
 exists = tools.f_exists('stepstone',initial)
 
-initial = 1
 options = Options()
 options.headless = True
 driver = webdriver.Firefox(options = options)
@@ -28,9 +24,6 @@ main = []
 location = []
 href = []
 datee =[]
-
-with open('initial.txt','r') as file:
-    initial = file.read()
 
 def page_number():
     url = (f"https://www.stepstone.de/work/it?page=1&fdl=en")
@@ -68,6 +61,8 @@ for limit in tqdm(range(page_number())):
     for x in range(1,26):
         scrape(x)
 
+driver.quit()
+
 #ID DATE
 list_size = len(main)
 for x in range(0, list_size):
@@ -77,5 +72,4 @@ for y in range(0, list_size):
     datee.append(date)
 
 save_data = Save('stepstone',f'stepstone{initial}' ,('ID' , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp), ("Href" , href),('Date' , datee) )
-driver.quit()
 print('\a')

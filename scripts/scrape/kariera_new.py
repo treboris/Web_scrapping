@@ -1,19 +1,15 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.common.keys import Keys
 from tqdm import tqdm
 from bs4 import BeautifulSoup
 from datetime import datetime
 from modules.Data import Save
 import modules.tools as tools
 import requests
-import os
 
 
 initial = tools.initial()
 exists = tools.f_exists('kariera',initial)
-
 date = datetime.today().strftime('%Y-%m-%d')
 
 #DATA
@@ -94,5 +90,4 @@ del href[0]
 del main[0]
 del corp[0]
 
-#print(f'{len(location)}, {len(href)}, {len(datee)}, {len(corp)}, {len(main)}, {len(id)} , {len(salary)}')
 save_data = Save('kariera',f'kariera{initial}',("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp),("Salary" , salary) , ("Href" , href),("Date" , datee) )

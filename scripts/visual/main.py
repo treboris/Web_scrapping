@@ -1,4 +1,8 @@
 import matplotlib.pyplot as plt
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
+import seaborn as sns
+
 from statistics import mean
 import tkinter as tk
 import pandas as pd
@@ -22,17 +26,46 @@ class App(tk.Frame):
         self.btn3 = tk.Button(self, text="Ranks", command=self.rank,width=30, height=3)
         self.btn3.pack(side="left")
 
-        self.btn4 = tk.Button(self, text="Piechart", command=self.programing,width=30, height=3)
+        self.btn4 = tk.Button(self, text="Programing languages", command=self.programing,width=30, height=3)
         self.btn4.pack(side="left")
 
         self.btn5 = tk.Button(self, text="Area diagram", command=self.area,width=30, height=3)
         self.btn5.pack(side="left")
 
-        self.btn6 = tk.Button(self, text="AVG salary in Slovakia", command=self.avg_salary,width=30, height=3)
+        self.btn6 = tk.Button(self, text="AVG salary in Slovakia", command=self.area,width=30, height=3)
+        self.btn6.pack(side="left")
+
+        self.btn6 = tk.Button(self, text="plotly", command=self.plott,width=30, height=3)
         self.btn6.pack(side="left")
 
         self.label = tk.Label(self, text="")
         self.label.pack()
+
+    def plott(self):
+        df = pd.read_csv('diagram_data/location_hun.csv')
+        df1 = pd.read_csv('diagram_data/location_svk.csv')
+
+
+        # Százalékos adatok kiszámítása
+        total = df['count'].sum()
+        df['percent'] = df['count'].apply(lambda x: round(x/total*100, 2))
+
+        # Oszlopdiagram létrehozása
+        fig = go.Figure([go.Bar(
+            x=df['city'],
+            y=df['percent'],
+            marker=dict(color=['#1f77b4', '#1f77b4', '#ff7f0e', '#ff7f0e'])
+        )])
+
+        fig.add_trace(go.Bar(
+            x=df1['city'],
+            y=df1['count'],
+            marker=dict(color=['#1f77b4', '#1f77b4', '#ff7f0e', '#ff7f0e']),
+            name='Darabszám'
+        ))
+
+        # Diagram megjelenítése
+        fig.show()
 
     def location_hun(self):
         df1 = pd.read_csv('diagram_data/location_hun.csv')
@@ -187,6 +220,7 @@ class App(tk.Frame):
         print(f'Jobs: {len(salary_list)}')
         print(f'AVG salary: {int(mean(salary_list))}€')
         self.label.config(text= int(mean(salary_list)))
+
 
 root = tk.Tk()
 app = App(master=root)

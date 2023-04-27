@@ -5,13 +5,9 @@ from datetime import datetime
 from tqdm import tqdm
 import modules.tools as tools
 import requests
-import time
-import re
-
 
 initial = tools.initial()
 exists = tools.f_exists('profession',initial)
-
 date = datetime.today().strftime('%Y-%m-%d')
 
 #DATA

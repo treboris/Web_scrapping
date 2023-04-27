@@ -4,10 +4,6 @@ from datetime import datetime
 from modules.Data import Save
 import modules.tools as tools
 import requests
-import time
-
-
-
 
 initial = tools.initial()
 exists = tools.f_exists('itpeople',initial)
