@@ -1715,3 +1715,21 @@ JavaScript warning: https://www.stepstone.de/CSzc-boPqrCJS4rxBw/ia1DS8ttuhL1ir/U
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
 1682621675428	Marionette	INFO	Stopped listening on port 37485
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1682621760497	Marionette	INFO	Stopped listening on port 34963
+1682621760723	Marionette	INFO	Stopped listening on port 42729
+1682621760733	Marionette	INFO	Stopped listening on port 40205
+1682621760738	Marionette	INFO	Stopped listening on port 45579
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.

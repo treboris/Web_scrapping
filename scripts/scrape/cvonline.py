@@ -15,9 +15,7 @@ exists = tools.f_exists('cvonline',initial)
 
 date = datetime.today().strftime('%Y-%m-%d')
 
-options = Options()
-options.headless = True
-driver = webdriver.Firefox(options = options)
+
 
 limit_txt = "?page="
 location = []
