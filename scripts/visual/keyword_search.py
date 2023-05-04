@@ -3,6 +3,7 @@ import re
 import sys
 
 keywordtxt = {}
+output = 'tiobe.csv'
 
 try:
     arg_kw = sys.argv[1]
@@ -35,4 +36,4 @@ def keyword_search():
 keyword_search()
 
 df = pd.DataFrame(list(keyword_counts.items()), columns=['languages', 'count'])
-df.to_csv('diagram_data/programing.csv', index=False)
+df.to_csv(f'diagram_data/{output}', index=False)

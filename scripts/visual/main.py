@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
+import plotly.express as px
 import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 import seaborn as sns
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
@@ -9,6 +11,7 @@ import squarify
 from statistics import mean
 import tkinter as tk
 import pandas as pd
+import random
 import os
 import re
 
@@ -31,10 +34,13 @@ class App(tk.Frame):
         self.btn2 = tk.Button(self, text="Szlovákia", command=self.szlovakia,width=30, height=3)
         self.btn2.grid(row=1, column=1)
 
+        self.btnx = tk.Button(self, text="Összehasonlitas", command=self.osszehasonlitas,width=30, height=3)
+        self.btnx.grid(row=1, column=2)
+
 
 
         #2group
-        self.label1 = tk.Label(self, text="Programozási nyelvek",width= 20,height=2)
+        self.label1 = tk.Label(self, text="Programozási nyelvek és technológiák",width= 30,height=1)
         self.label1.grid(row=2, column=0)
 
         self.btn3 = tk.Button(self, text="Az összes állás", command=self.programozasi_nyelvek,width=30, height=3)
@@ -49,31 +55,87 @@ class App(tk.Frame):
         self.btn6 = tk.Button(self, text="Külföld", command=self.programozasi_nyelvek_foreign,width=30, height=3)
         self.btn6.grid(row=3, column=3)
 
-
-        self.labelx = tk.Label(self, text="Átlagbér Szlovákiában az IT szektorban",width= 30,height=3)
-        self.labelx.grid(row=4, column=0)
-
-
-        self.btn7 = tk.Button(self, text="Számítás", command=self.avg_salary,width=30, height=3)
-        self.btn7.grid(row=5, column=0)
-
-        self.labelx = tk.Label(self, text="---------",width= 30,height=3)
-        self.labelx.grid(row=5, column=1)
-
         #3group
         self.label1 = tk.Label(self, text="Egyéb diagramok",width= 20,height=2)
-        self.label1.grid(row=6, column=0)
+        self.label1.grid(row=4, column=0)
 
         self.btn8 = tk.Button(self, text="Kördiagram", command=self.pie,width=30, height=3)
-        self.btn8.grid(row=7, column=0)
+        self.btn8.grid(row=5, column=0)
 
         self.btn9 = tk.Button(self, text="WordCloud", command=self.word_cloud,width=30, height=3)
-        self.btn9.grid(row=7, column=1)
+        self.btn9.grid(row=5, column=1)
 
         self.btn10 = tk.Button(self, text="Treemap", command=self.tree,width=30, height=3)
-        self.btn10.grid(row=7, column=2)
+        self.btn10.grid(row=5, column=2)
+
+    def osszehasonlitas(self):
+           # Magyarország diagramja
+        df_hun = pd.read_csv('diagram_data/location_hun.csv')
+        sorted_data_hun = df_hun.sort_values(by='count',ascending=False)
+        data_hun = dict(zip(sorted_data_hun['city'], sorted_data_hun['count']))
+
+        # Százalékos értékek kiszámítása
+        total_hun = sum(data_hun.values())
+        percentages_hun = [(count / total_hun) * 100 for count in data_hun.values()]
+        colors_hun = px.colors.qualitative.Plotly[:10]
+
+        # Trace létrehozása
+        trace_hun = go.Bar(
+            x=list(data_hun.keys()),
+            y=list(data_hun.values()),
+            text=[f"{p:.2f}%" for p in percentages_hun],  # százalékos értékek hozzáadása a szöveges jelöléshez
+            textposition='auto',
+            marker=dict(color=colors_hun))
+
+        # Diagram létrehozása
+        fig_hun = go.Figure(data=[trace_hun])
+
+        # Tengelyek címkéinek hozzáadása
+        fig_hun.update_xaxes(title='Települések')
+        fig_hun.update_yaxes(title='Százalék')
+        fig_hun.update_layout(title_text="Magyarország")
 
 
+        # Szlovákia diagramja
+        df_svk = pd.read_csv('diagram_data/location_svk.csv')
+        sorted_data_svk = df_svk.sort_values(by='count',ascending=False)
+        data_svk = dict(zip(sorted_data_svk['city'], sorted_data_svk['count']))
+        colors_svk = px.colors.qualitative.Plotly[:10]
+
+        # Százalékos értékek kiszámítása
+        total_svk = sum(data_svk.values())
+        percentages_svk = [(count / total_svk) * 100 for count in data_svk.values()]
+
+        # Trace létrehozása
+        trace_svk = go.Bar(
+            x=list(data_svk.keys()),
+            y=list(data_svk.values()),
+            text=[f"{p:.2f}%" for p in percentages_svk],  # százalékos értékek hozzáadása a szöveges jelöléshez
+            textposition='auto',
+            marker=dict(color=colors_svk))
+
+        # Diagram létrehozása
+        fig_svk = go.Figure(data=[trace_svk])
+
+        # Tengelyek címkéinek hozzáadása
+        fig_svk.update_xaxes(title='Települések')
+        fig_svk.update_yaxes(title='Százalék')
+        fig_hun.update_layout(title_text="Szlovákia")
+        # Két diagram összeillesztése egyetlen ábrába
+        fig = make_subplots(rows=1, cols=2)
+
+        fig.add_trace(trace_hun, row=1, col=1)
+        fig.add_trace(trace_svk, row=1, col=2)
+
+        # Tengelyek címkéinek beállítása
+        fig.update_xaxes(title_text="Magyarország", row=1, col=1)
+        fig.update_xaxes(title_text="Szlovákia", row=1, col=2)
+        fig.update_yaxes(title_text="Százalék", row=1, col=1)
+
+        # A fő cím és a méretek beállítása
+        fig.update_layout(title_text="Magyarország és Szlovákia összehasonlítása", title_x=0.5, width=1000, height=600)
+
+        fig.show()
     def magyarorszag(self):
         df = pd.read_csv('diagram_data/location_hun.csv')
         sorted_data = df.sort_values(by='count',ascending=False)
@@ -82,6 +144,8 @@ class App(tk.Frame):
         # Százalékos értékek kiszámítása
         total = sum(data.values())
         percentages = [(count / total) * 100 for count in data.values()]
+        colors = px.colors.qualitative.Plotly[:10]
+        #colors = [f"rgb({random.randint(0, 255)}, {random.randint(0, 255)}, {random.randint(0, 255)})" for _ in data.keys()]
 
         # Trace létrehozása
         trace = go.Bar(
@@ -89,7 +153,7 @@ class App(tk.Frame):
             y=list(data.values()),
             text=[f"{p:.2f}%" for p in percentages],  # százalékos értékek hozzáadása a szöveges jelöléshez
             textposition='auto',
-        )
+            marker=dict(color=colors))
 
         # Diagram létrehozása
         fig = go.Figure(data=[trace])
@@ -105,6 +169,7 @@ class App(tk.Frame):
         df = pd.read_csv('diagram_data/location_svk.csv')
         sorted_data = df.sort_values(by='count',ascending=False)
         data = dict(zip(sorted_data['city'], sorted_data['count']))
+        colors = px.colors.qualitative.Plotly[:10]
 
         # Százalékos értékek kiszámítása
         total = sum(data.values())
@@ -116,7 +181,7 @@ class App(tk.Frame):
             y=list(data.values()),
             text=[f"{p:.2f}%" for p in percentages],  # százalékos értékek hozzáadása a szöveges jelöléshez
             textposition='auto',
-        )
+            marker=dict(color=colors))
 
         # Diagram létrehozása
         fig = go.Figure(data=[trace])
@@ -124,10 +189,9 @@ class App(tk.Frame):
         # Tengelyek címkéinek hozzáadása
         fig.update_xaxes(title='Települések')
         fig.update_yaxes(title='Százalék')
-
+        fig.update_layout(title_text="Szlovákia", title_x=0.5, width=800, height=600)
         # Diagram megjelenítése
         fig.show()
-
 
     def pie(self):
         df = pd.read_csv('diagram_data/piechart.csv')
@@ -150,12 +214,11 @@ class App(tk.Frame):
         # Display chart
         fig.show()
 
-
     def programozasi_nyelvek(self):
         df = pd.read_csv('diagram_data/programing.csv')
         sorted_data = df.sort_values(by='count',ascending=False)
         data = dict(zip(sorted_data['languages'], sorted_data['count']))
-
+        colors = px.colors.qualitative.Plotly[:12]
         # Százalékos értékek kiszámítása
         total = sum(data.values())
         percentages = [(count / total) * 100 for count in data.values()]
@@ -166,7 +229,7 @@ class App(tk.Frame):
             y=list(data.values()),
             text=[f"{p:.2f}%" for p in percentages],  # százalékos értékek hozzáadása a szöveges jelöléshez
             textposition='auto',
-        )
+            marker=dict(color=colors))
 
         # Diagram létrehozása
         fig = go.Figure(data=[trace])
@@ -178,11 +241,11 @@ class App(tk.Frame):
         # Diagram megjelenítése
         fig.show()
 
-
     def programozasi_nyelvek_hun(self):
         df = pd.read_csv('diagram_data/programing_hun.csv')
         sorted_data = df.sort_values(by='count',ascending=False)
         data = dict(zip(sorted_data['languages'], sorted_data['count']))
+        colors = px.colors.qualitative.Plotly[:10]
 
         # Százalékos értékek kiszámítása
         total = sum(data.values())
@@ -194,7 +257,7 @@ class App(tk.Frame):
             y=list(data.values()),
             text=[f"{p:.2f}%" for p in percentages],  # százalékos értékek hozzáadása a szöveges jelöléshez
             textposition='auto',
-        )
+            marker=dict(color=colors))
 
         # Diagram létrehozása
         fig = go.Figure(data=[trace])
@@ -210,6 +273,7 @@ class App(tk.Frame):
         df = pd.read_csv('diagram_data/programing_svk.csv')
         sorted_data = df.sort_values(by='count',ascending=False)
         data = dict(zip(sorted_data['languages'], sorted_data['count']))
+        colors = px.colors.qualitative.Plotly[:10]
 
         # Százalékos értékek kiszámítása
         total = sum(data.values())
@@ -221,7 +285,7 @@ class App(tk.Frame):
             y=list(data.values()),
             text=[f"{p:.2f}%" for p in percentages],  # százalékos értékek hozzáadása a szöveges jelöléshez
             textposition='auto',
-        )
+            marker=dict(color=colors))
 
         # Diagram létrehozása
         fig = go.Figure(data=[trace])
@@ -237,6 +301,7 @@ class App(tk.Frame):
         df = pd.read_csv('diagram_data/programing_foreign.csv')
         sorted_data = df.sort_values(by='count',ascending=False)
         data = dict(zip(sorted_data['languages'], sorted_data['count']))
+        colors = px.colors.qualitative.Plotly[:10]
 
         # Százalékos értékek kiszámítása
         total = sum(data.values())
@@ -248,7 +313,7 @@ class App(tk.Frame):
             y=list(data.values()),
             text=[f"{p:.2f}%" for p in percentages],  # százalékos értékek hozzáadása a szöveges jelöléshez
             textposition='auto',
-        )
+            marker=dict(color=colors))
 
         # Diagram létrehozása
         fig = go.Figure(data=[trace])
@@ -259,50 +324,6 @@ class App(tk.Frame):
 
         # Diagram megjelenítése
         fig.show()
-
-    def avg_salary(self):
-        salary_list = []
-        initial = 0
-        def professia(initial):
-            data_professia = pd.read_csv(f'../../data/professia/professia{initial}.csv',keep_default_na=False)
-            salary_p = data_professia['Salary']
-            for p in salary_p:
-                if(p != 'nan'):
-                    try:
-                        text = ''.join(re.findall(r'\d+',p))
-                        #print(text)
-                        if (len(text) == 4):
-                            salary_list.append(int(text))
-                    except (ValueError):
-                        pass
-        def kariera(initial):
-            data_kariera = pd.read_csv(f'../../data/kariera/kariera{initial}.csv',keep_default_na=False)
-            salary_s = data_kariera['Salary']
-            for s in salary_s:
-                if(s != 'nan'):
-                    try:
-                        #print(''.join(re.findall(r'\d+',s)))
-                        salary_list.append(int(''.join(re.findall(r'\d+',s))))
-                    except (ValueError):
-                        pass
-        run = True
-        while(run):
-            try:
-                professia(initial)
-            except (FileNotFoundError):
-                initial =0
-                while(True):
-                    try:
-                        kariera(initial)
-                    except (FileNotFoundError):
-                        run = False
-                        break
-                    initial +=1
-            initial +=1
-
-        print(f'Jobs: {len(salary_list)}')
-        print(f'AVG salary: {int(mean(salary_list))}€')
-        self.labelx.config(text= f'{int(mean(salary_list))}€')
 
     def tree(self):
 
