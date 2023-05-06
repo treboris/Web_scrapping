@@ -37,6 +37,10 @@ class App(tk.Frame):
         self.btnx = tk.Button(self, text="Összehasonlitas", command=self.osszehasonlitas,width=30, height=3)
         self.btnx.grid(row=1, column=2)
 
+        self.btny = tk.Button(self, text="Top20 kifejezés", command=self.top20,width=30, height=3)
+        self.btny.grid(row=1, column=3)
+
+
 
 
         #2group
@@ -67,6 +71,35 @@ class App(tk.Frame):
 
         self.btn10 = tk.Button(self, text="Treemap", command=self.tree,width=30, height=3)
         self.btn10.grid(row=5, column=2)
+
+    def top20(self):
+        df = pd.read_csv('diagram_data/top20.csv')
+        sorted_data = df.sort_values(by='Count',ascending=False)
+        data = dict(zip(sorted_data['Word'].str.title(), sorted_data['Count']))
+        colors = px.colors.qualitative.Plotly * (len(data))
+
+        # Százalékos értékek kiszámítása
+        total = sum(data.values())
+        percentages = [(count / total) * 100 for count in data.values()]
+
+        # Trace létrehozása
+        trace = go.Bar(
+            x=list(data.keys()),
+            y=list(data.values()),
+            text=[f"{p:.2f}%" for p in percentages],  # százalékos értékek hozzáadása a szöveges jelöléshez
+            textposition='auto',
+            marker=dict(color=colors))
+
+        # Diagram létrehozása
+        fig = go.Figure(data=[trace])
+
+        # Tengelyek címkéinek hozzáadása
+        fig.update_xaxes(title='Kifejezések')
+        fig.update_yaxes(title='Százalék')
+        fig.update_layout(title_text="")
+        # Diagram megjelenítése
+        fig.show()
+
 
     def osszehasonlitas(self):
            # Magyarország diagramja
@@ -120,7 +153,7 @@ class App(tk.Frame):
         # Tengelyek címkéinek hozzáadása
         fig_svk.update_xaxes(title='Települések')
         fig_svk.update_yaxes(title='Százalék')
-        fig_hun.update_layout(title_text="Szlovákia")
+        fig_svk.update_layout(title_text="Szlovákia", showlegend=False)  # legend eltávolítása
         # Két diagram összeillesztése egyetlen ábrába
         fig = make_subplots(rows=1, cols=2)
 
@@ -132,8 +165,6 @@ class App(tk.Frame):
         fig.update_xaxes(title_text="Szlovákia", row=1, col=2)
         fig.update_yaxes(title_text="Százalék", row=1, col=1)
 
-        # A fő cím és a méretek beállítása
-        fig.update_layout(title_text="Magyarország és Szlovákia összehasonlítása", title_x=0.5, width=1000, height=600)
 
         fig.show()
     def magyarorszag(self):
@@ -327,25 +358,28 @@ class App(tk.Frame):
 
     def tree(self):
 
-        df = pd.read_csv('diagram_data/programing.csv')
-        squarify.plot(sizes=df['count'], label=df['languages'].str.title(), alpha=.8)
+        plt.rcParams.update({'font.size': 14})  # alapértelmezett betűméret beállítása
+
+        df = pd.read_csv('diagram_data/tree.csv')
+        squarify.plot(sizes=df['count'], label=df['languages'].str.title(),
+                      alpha=.8, text_kwargs={'fontdict': {'fontsize': 'large'}})  # betűméret beállítása
 
         plt.axis('off')
         plt.show()
 
-
     def word_cloud(self):
 
-        df = pd.read_csv('diagram_data/programing.csv')
-        data = dict(zip(df['languages'],df['count']))
+        df = pd.read_csv('diagram_data/wordcloud.csv')
+        data = dict(zip(df['Word'].str.title(),df['Count']))
 
         def hsl_to_rgb(hsl):
             h, s, l = hsl
             return tuple(round(i * 255) for i in colorsys.hls_to_rgb(h / 360, l / 100, s / 100))
+
         def color_func(word, font_size, position, orientation, random_state=None, **kwargs):
             return tuple(hsl_to_rgb((random_state.randint(0, 360), 80, 50)))
 
-        wordcloud = WordCloud(width=480, height=480, margin=0, color_func=color_func).generate_from_frequencies(data)
+        wordcloud = WordCloud(width=2480, height=2480, margin=0, color_func=color_func).generate_from_frequencies(data)
         plt.imshow(wordcloud, interpolation='bilinear')
         plt.axis("off")
         plt.margins(x=0, y=0)
