@@ -21,19 +21,19 @@ Az alábbi könyvtárak telepítésére van szükség:
 - squarify
 - colorsys
 - seaborn
+
+
+
 ```bash
 .
 ├── data
+│     A könyvtárban találhatóak a kinyert adatok szortírozva weboldal név szerint, továbbá itt 
+│     találhatóak a  txt nevű könyvtárban a részletes leírásu állások szöveges fájl formában.
+│     A full_main nevű könyvtár tartalmazza a full_main.txt szöveges fájlt, amelyben össze van fűzve mind az összes
+│     állás részletes leírása. Terjedel több mint 1 millió sornyi szöveg windows jegyzettömb nem mindig tudja megnyitni.
+│     Az svk_full_main könyvtár az összes szlovák nyelvű, a hun_full_main az összes magyar nyelvű és a 
+│     foreign_full_full main pedig az össze külföldi álláshirdető portál állását összefűzve tartalmazza.
 │   ├── cvonline
-│   │   ├── cvonline0.csv
-│   │   ├── cvonline1.csv
-│   │   ├── cvonline2.csv
-│   │   ├── cvonline3.csv
-│   │   ├── cvonline5.csv
-│   │   ├── main0.txt
-│   │   ├── main1.txt
-│   │   ├── main2.txt
-│   │   └── main3.txt
 │   ├── foreign_full_main
 │   │   └── foreign_full_main.txt
 │   ├── full_main
@@ -41,62 +41,15 @@ Az alábbi könyvtárak telepítésére van szükség:
 │   ├── hun_full_main
 │   │   └── hun_full_main.txt
 │   ├── itpeople
-│   │   ├── itpeople0.csv
-│   │   ├── itpeople1.csv
-│   │   ├── itpeople2.csv
-│   │   ├── itpeople3.csv
-│   │   ├── main0.txt
-│   │   ├── main1.txt
-│   │   ├── main2.txt
-│   │   └── main3.txt
 │   ├── jobline
-│   │   ├── jobline0.csv
-│   │   ├── jobline1.csv
-│   │   ├── jobline2.csv
-│   │   ├── jobline3.csv
-│   │   ├── main0.txt
-│   │   ├── main1.txt
-│   │   ├── main2.txt
-│   │   └── main3.txt
 │   ├── kariera
-│   │   ├── kariera0.csv
-│   │   ├── kariera1.csv
-│   │   ├── kariera2.csv
-│   │   ├── main0.txt
-│   │   ├── main1.txt
-│   │   ├── main2.txt
-│   │   └── main3.txt
 │   ├── professia
-│   │   ├── main0.txt
-│   │   ├── main1.txt
-│   │   ├── main2.txt
-│   │   ├── main3.txt
-│   │   ├── professia0.csv
-│   │   ├── professia1.csv
-│   │   ├── professia2.csv
-│   │   └── professia3.csv
 │   ├── profession
-│   │   ├── main0.txt
-│   │   ├── main1.txt
-│   │   ├── main2.txt
-│   │   ├── main3.txt
-│   │   ├── profession0.csv
-│   │   ├── profession1.csv
-│   │   ├── profession2.csv
-│   │   ├── profession3.csv
-│   │   └── profession5\012.csv
 │   ├── stepstone
-│   │   ├── main0.txt
-│   │   ├── main1.txt
-│   │   ├── main2.txt
-│   │   ├── main3.txt
-│   │   ├── stepstone0.csv
-│   │   ├── stepstone1.csv
-│   │   ├── stepstone2.csv
-│   │   └── stepstone5.csv
 │   ├── svk_full_main
 │   │   └── svk_full_main.txt
 │   └── txt
+│       └── ...
 └── scripts
     ├── scrape
     │   ├── cvonline.py
