@@ -12,14 +12,19 @@ A diagramok a requirements.txt-ben lévő könyvtárak feltelepítése után a s
 pip install requirements.txt
 ```
 
-Az adatok automatikus kigyűjtése lista nézetből a scripts/scrape/<oldalneve>.py fájl futtatásával hajtható végre.
+1.) Az adatok automatikus kigyűjtése lista nézetből a scripts/scrape/<oldalneve>.py fájl futtatásával hajtható végre.
 Az initial.txt szövegfájlban lévő szám lesz a kimentett .csv fájl sorszáma, ezt érdemes megváltoztatni.
     
 ```bash
 python3 cvonline.py
 ```
-
-
+2.) Ahhoz, hogy az állásokat egyenként kinyerjük .txt szövegfájlokba, el kellett végezni  az első lépést,
+mert a lista nézetből elmentett .csv fájl tartalmazza az összes állás részletes leírásához a linket.
+A futtatáshoz a scripts/scrape/onebyone/<oldalneve>.py
+        
+```bash
+python3 cvonline_page.py
+```
 
 
 
