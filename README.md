@@ -27,12 +27,12 @@ Az alábbi könyvtárak telepítésére van szükség:
 ```bash
 .
 ├── data
-│     A könyvtárban találhatóak a kinyert adatok szortírozva weboldal név szerint, továbbá itt 
-│     találhatóak a  txt nevű könyvtárban a részletes leírásu állások szöveges fájl formában.
-│     A full_main nevű könyvtár tartalmazza a full_main.txt szöveges fájlt, amelyben össze van fűzve mind az összes
-│     állás részletes leírása. Terjedel több mint 1 millió sornyi szöveg windows jegyzettömb nem mindig tudja megnyitni.
-│     Az svk_full_main könyvtár az összes szlovák nyelvű, a hun_full_main az összes magyar nyelvű és a 
-│     foreign_full_full main pedig az össze külföldi álláshirdető portál állását összefűzve tartalmazza.
+│   │       A könyvtárban találhatóak a kinyert adatok szortírozva weboldal név szerint, továbbá itt 
+│   │       találhatóak a  txt nevű könyvtárban a részletes leírásu állások szöveges fájl formában.
+│   │       A full_main nevű könyvtár tartalmazza a full_main.txt szöveges fájlt, amelyben össze van fűzve mind az összes
+│   │       állás részletes leírása. Terjedel több mint 1 millió sornyi szöveg windows jegyzettömb nem mindig tudja megnyitni.
+│   │       Az svk_full_main könyvtár az összes szlovák nyelvű, a hun_full_main az összes magyar nyelvű és a 
+│   │       foreign_full_full main pedig az össze külföldi álláshirdető portál állását összefűzve tartalmazza.
 │   ├── cvonline
 │   ├── foreign_full_main
 │   │   └── foreign_full_main.txt
