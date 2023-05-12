@@ -6,20 +6,6 @@ akik informatikai pozícióban szeretnének elhelyezkedni,
 továbbá Web scraping technika bemutatása és alkalmazása,
 majd a kinyert adatok vizualizálása elsődlegesen Python környezetben.
 
-A szkriptek futtatása az alábbi Python könyvtárak telepítését nélkül nem működik!
-
-- selenium
-- selenium webdriver
-- beautifulSoup4
-- requests
-- tqdm
-- pandas
-- plotly
-- matplotlib
-- wordcloud
-- squarify
-- colorsys
-- seaborn
 
 
 
