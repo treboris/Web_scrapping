@@ -164,3 +164,4 @@ python3 keywords.py kulcsszavak
         └── main.py
       
 ```
+![Wordcloud](wordcloud.png)
