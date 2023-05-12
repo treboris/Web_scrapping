@@ -27,9 +27,13 @@ python3 cvonline_page.py
 ```
 3.) A következő lépés a fájlok összefűzése.
     A scripts/visual/link_files/link_files.py szkript lefuttatásával történik meg a fájlösszefűzés.
-    FIGYELEM!! A link_files.py forráskódjában a web_pages nevű lista alapértelmezetten tartalmazza mind a 6 weboldal nevét.
+    FIGYELEM!! A link_files.py forráskódjában a web_pages nevű lista alapértelmezetten tartalmazza mind a hat weboldal nevét.
                 Csak azt a weboldal nevet kell bent hagyni amelynek az adatait kigyűjtöttük és szeretnénk összefűzni.
-
+        
+```bash
+python3 link_files.py
+```
+ 
 
 ## A fájlok hierarchiája
 
