@@ -13,19 +13,22 @@ pip install requirements.txt
 ```
 
 1.) Az adatok automatikus kigyűjtése lista nézetből a scripts/scrape/<oldalneve>.py fájl futtatásával hajtható végre.
-Az initial.txt szövegfájlban lévő szám lesz a kimentett .csv fájl sorszáma, ezt érdemes megváltoztatni.
+    Az initial.txt szövegfájlban lévő szám lesz a kimentett .csv fájl sorszáma, ezt érdemes megváltoztatni.
     
 ```bash
 python3 cvonline.py
 ```
-2.) Ahhoz, hogy az állásokat egyenként kinyerjük .txt szövegfájlokba, el kellett végezni  az első lépést,
-mert a lista nézetből elmentett .csv fájl tartalmazza az összes állás részletes leírásához a linket.
-A futtatáshoz a scripts/scrape/onebyone/<oldalneve>.py
+2.) Ahhoz, hogy az állásokat egyenként kinyerjük .txt szövegfájlokba, el kellett végezni  az első lépést, 
+    mert a lista nézetből elmentett .csv fájl tartalmazza az összes állás részletes leírásához a linket.
+    A scripts/scrape/onebyone/<oldalneve>.py fájlt kell lefuttatni.
         
 ```bash
 python3 cvonline_page.py
 ```
-
+3.) A következő lépés a fájlok összefűzése.
+    A scripts/visual/link_files/link_files.py szkript lefuttatásával történik meg a fájlösszefűzés.
+    FIGYELEM!! A link_files.py forráskódjában a web_pages nevű lista alapértelmezetten tartalmazza mind a 6 weboldal nevét.
+                Csak azt a weboldal nevet kell bent hagyni amelynek az adatait kigyűjtöttük és szeretnénk összefűzni.
 
 
 ## A fájlok hierarchiája
