@@ -44,7 +44,7 @@ python3 gyakorisag.py
 ```
 Kulcsszó gyakoriság elemzéshez a scripts/visual/keyword.py fájlt kell futtatni, parancssori argumentummal átadható a
     kulcsszavakat tartalmazó szövegfájl. Alapertelmezetten, ha nem adunk meg argumentumot a keywords/tantev.txt kulcsszavakra fog keresni a szkript.
-    
+    A szkriptben az ouput változóba a kimeneti fájl nevét kell megadni, amely a diagram_data könyvtárban fog tárolódni.
 ```bash
 python3 keywords.py kulcsszavak
 ```
