@@ -1,13 +1,12 @@
 # Web_scrapping
 
-A célja az volt, hogy a lokális (Szlovákia, Magyarország) munkaerőpiacon feltérképezzük,
+A feladat célja az volt, hogy a lokális (Szlovákia, Magyarország) munkaerőpiacon feltérképezzük,
 hogy mire van szüksége az alkalmazott informatikai végzős diákoknak,
 akik informatikai pozícióban szeretnének elhelyezkedni, 
 továbbá Web scraping technika bemutatása és alkalmazása,
 majd a kinyert adatok vizualizálása elsődlegesen Python környezetben.
 
-A szkriptek futtatása különböző Python könyvtárak telepítését nélkül nem működnek!
-Az alábbi könyvtárak telepítésére van szükség:
+A szkriptek futtatása az alábbi Python könyvtárak telepítését nélkül nem működnek!
 
 - selenium
 - selenium webdriver
