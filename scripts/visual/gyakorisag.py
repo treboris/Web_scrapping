@@ -1,7 +1,10 @@
 from collections import Counter
 import pandas as pd
 
-with open('../../data/full_main/full_main.txt', 'r') as f:
+input_txt = 'full_main.txt'
+output_csv = 'top10.csv'
+
+with open(f'../../data/full_main/{input_txt}', 'r') as f:
     text = f.read().casefold()
 
 df_hun = pd.read_csv('diagram_data/words.csv')
@@ -20,4 +23,4 @@ for word, count in word_counts.most_common(20):
     print(f'{word} {count}')
 
 df = pd.DataFrame.from_dict(dict_counts, orient='index', columns=['Count'])
-df.to_csv('diagram_data/top200.csv', sep=',', index_label='Word')
+df.to_csv(f'diagram_data/{output_csv}', sep=',', index_label='Word')
