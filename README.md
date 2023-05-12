@@ -27,6 +27,7 @@ Az alábbi könyvtárak telepítésére van szükség:
 ```bash
 .
 ├── data
+│   │
 │   │       A könyvtárban találhatóak a kinyert adatok szortírozva weboldal név szerint, továbbá itt 
 │   │       találhatóak a  txt nevű könyvtárban a részletes leírásu állások szöveges fájl formában.
 │   │       A full_main nevű könyvtár tartalmazza a full_main.txt szöveges fájlt, amelyben össze van fűzve mind az összes
@@ -94,6 +95,15 @@ Az alábbi könyvtárak telepítésére van szükség:
     │   ├── start.sh
     │   └── stepstone.py
     └── visual
+        │ 
+        │             A gyakoriság és a kulcsszó gyakoriság elemzés eredményei a diagram_data könyvtárban tárolódnak.
+        │             A keywords nevű könyvtárban a keresendő kulcsszavak vannak szöveg fájlokban.A link_files könyvtárban a fájl összefűzést 
+        │             elvégző szkriptek találhatóak. Az avg_salary.py az átlagfizetést számít a szlovákiában feladott hirdetésekből. A location_hun.py és
+        │             a locaton_svk.py az országban feladott hirdetések adatait gyűjti össze.
+        │             A gyakorisag.py a gyakoriság elemzést elvégző szkript.
+        │             A kezword_search.py a kulcsszó gyakoriságot elvégző szkript.
+        │              A main.py egy tkinter alkalmazás amely lehetővé teszi a különböző diagramok közti böngészést és a diagramok generálását.
+        │  
         ├── avg_salary.py
         ├── diagram_data
         │   ├── location_hun.csv
@@ -110,7 +120,6 @@ Az alábbi könyvtárak telepítésére van szükség:
         │   └── words.csv
         ├── gyakorisag.py
         ├── keywords
-        │   ├── cloudtechnologies.txt
         │   ├── databases.txt
         │   ├── piechart.txt
         │   ├── tanterv.txt
@@ -125,19 +134,5 @@ Az alábbi könyvtárak telepítésére van szükség:
         ├── location_hun.py
         ├── location_svk.py
         └── main.py
-
-
-
-
-
-    ├── scrape
-    │    A könyvtár tartalmazza a cvonline.hu, itpeople.hu, jobline.hu, kariera.sk, professia.sk, profession.hu 
-    │     és a stepstone.de 
-    │    álláshirdető portálok automatikus adatgyűjtési szkriptjét. Továbbá tartalmaz egy inital.txt nevű szövegfájlt, 
-    │     amely szkriptek mentésének a sorszámát tartalmazza. Futtatáskor érdemes megváltoztatni ellenben, ha az adott 
-    │    sorszámmal már létezik a fájt, a szkript hibát dob és nem fut le. 
-    │     A könyvtár tartalmaz még egy start.sh bash szkriptet, amllyel futtatható az összes weboldal
-    │    adatgyűjtő szkriptje egymás után automatikusan. Linux-specifikus parancsokat tartalmaz, Windows környezetben nem működik.
-    │     ├──modules
-    │        
+      
 ```
