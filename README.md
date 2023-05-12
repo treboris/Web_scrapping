@@ -41,7 +41,13 @@ python3 link_files.py
  ```bash
 python3 gyakorisag.py
 ```
-    Kulcsszó gyakoriság elemzéshez a scripts/visual/keyword.py fájlt kell futtatni a
+    Kulcsszó gyakoriság elemzéshez a scripts/visual/keyword.py fájlt kell futtatni, parancssori argumentummal átadható a
+    kulcsszavakat tartalmazó szövegfájl. Alapertelmezetten
+    
+```bash
+python3 keywords.py
+```
+    
     
     
 
