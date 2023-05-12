@@ -33,7 +33,16 @@ python3 cvonline_page.py
 ```bash
 python3 link_files.py
 ```
- 
+
+ 4.) A következő lépésben az összefűzött fájlokban vizsgálhatunk gyakoriságot, vagy kulcsszó gyakoriságot.
+    Gyakoriság vizsgálathoz a scripts/visual/gyakorisag.py fájlt kell futtatni, amely kalibrációt igényel.
+    Elsőször meg kell adni a szövegfájlt, amelyben szeretnénk végrehajtani az elemzést az input_txt változóban, másodszor pedig
+    az outpu_csv változóban a kimeneti .csv fájl nevét.
+    
+    
+    
+    
+    
 
 ## A fájlok hierarchiája
 
