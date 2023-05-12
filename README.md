@@ -9,7 +9,7 @@ majd a kinyert adatok vizualizálása elsődlegesen Python környezetben.
 A diagramok a requirements.txt-ben lévő könyvtárak feltelepítése után a scripts/visual/main.py python fájl futtatásával a megjelenő Tkinter alkalmazáson elérhetőek.
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 1.) Az adatok automatikus kigyűjtése lista nézetből a scripts/scrape/<oldalneve>.py fájl futtatásával hajtható végre.
