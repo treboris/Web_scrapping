@@ -4,12 +4,9 @@ import re
 import os
 
 
-
-
-web_pages = ['stepstone']
+web_pages = ['cvonline','itpeople', 'jobline' ,'profession', 'kariera' ,'professia','stepstone']
 files = []
 count = 0
-#COUNT JOB TXT FILES
 def file_count(name ,path):
     global count
     file_count = len(glob.glob1(path,"*.txt"))
@@ -17,26 +14,26 @@ def file_count(name ,path):
     for x in range(0,file_count):
         files.append(f'{name}{x}.txt')
 
-#LINK FILES
 def link_files():
     for wp in web_pages:
         for value in range(0,4):
-            with open(f'../../data/{wp}/main{value}.txt','wb') as main:
-                file_count('job',f'../../data/txt/{wp}/{value}')
+            with open(f'../../../data/{wp}/main{value}.txt','wb') as main:
+                file_count('job',f'../../../data/txt/{wp}/{value}')
                 for f in files:
                     try:
-                        with open(f'../../data/txt/{wp}/{value}/{f}','rb') as jobtxt:
+                        with open(f'../../../data/txt/{wp}/{value}/{f}','rb') as jobtxt:
                             shutil.copyfileobj(jobtxt,main)
                     except (FileNotFoundError):
                         pass
                 files.clear()
     for wp in web_pages:
-        with open(f'../../data/foreign_full_main/foreign_full_main.txt' , 'ab') as full_main:
-            file_count('main',f'../../data/{wp}')
+        with open(f'../../../data/full_main/full_main.txt' , 'ab') as full_main:
+            file_count('main',f'../../../data/{wp}')
             for f in files:
-                with open(f'../../data/{wp}/{f}','rb') as maintxt:
+                with open(f'../../../data/{wp}/{f}','rb') as maintxt:
                     shutil.copyfileobj(maintxt,full_main)
             files.clear()
+
 
 
 link_files()

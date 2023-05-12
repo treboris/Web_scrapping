@@ -1,16 +1,13 @@
 from bs4 import BeautifulSoup
-from datetime import datetime
 from Data import Save
 import pandas as pd
 import requests
-import time
 import os
 
 with open('../initial.txt','r') as file:
     initial = int(file.read())
 
 text = ""
-date = datetime.today().strftime('%Y-%m-%d')
 data = pd.read_csv(f'../../../data/kariera/kariera{initial}.csv')
 
 data_size = data.size

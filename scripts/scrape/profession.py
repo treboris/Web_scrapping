@@ -7,7 +7,6 @@ import modules.tools as tools
 import requests
 import time
 import re
-start_time = time.time()
 
 initial = tools.initial()
 exists = tools.f_exists('profession',initial)
@@ -100,4 +99,3 @@ for y in range(0, list_size):
     datee.append(date)
 
 save_data = Save('profession',f'profession{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
-print("--- %s seconds ---" % (time.time() - start_time))

@@ -1,9 +1,7 @@
 from bs4 import BeautifulSoup
-from datetime import datetime
 from Data import Save
 import pandas as pd
 import requests
-import time
 import os
 from tqdm import tqdm
 
@@ -11,7 +9,6 @@ with open('../initial.txt','r') as file:
     initial = int(file.read())
 
 text = ""
-date = datetime.today().strftime('%Y-%m-%d')
 data = pd.read_csv(f'../../../data/professia/professia{initial}.csv')
 
 dataindex = data.index

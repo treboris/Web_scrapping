@@ -1,0 +1,33 @@
+Cataneo is an international company with more than twenty-five clients across four continents, offering solutions for TV channels, OTT platforms, sales houses, and media agencies. We are knownin the industry for our engineering expertise, our flexible customizable solutions, integration with existing systems and our ability to deliver projects on time and within budget. Our multinational team works in Munich, Ljubljana, Belgrade, Los Angeles, Miami, London, and Cordoba.
+We are seeking a talented User Satisfaction Manager | IT Service Desk Specialist to join our team. This person would be responsible for the initial engagement with the users of our platforms. In this role, the overall goal is to satisfy our users, via traditional IT user service desk support, workshops, FAQ’s and any tool or methodology which can leverage knowledge around the perception of our services. This position is part of a team of developers, 1 tester and a User Satisfaction manager.You will be trained and accompanied by your colleagues, but you should also have the desire and ability to work autonomously and the initiative to implement tasks independently. Ideally, you will also not be intimidated by holding training sessions at our customer’s premises.
+IT Support | Service Desk Specialist (m/f/d)
+Location: MunichFull TimeWhat can you expect in this role?
+Handle in application incidents, driving recovery and mitigation in production environments
+Retrieve application logs to understand issues and promptly address the incidents to honour SLA.
+Own and manage the communication with users as the first responder to their queries and feedback
+Conduct training and workshops
+Manage and prioritise the solution of issues, queries, and bugs in the platforms
+Revise existing processes of the department and, ideally, propose improvements
+Create user documents, including FAQ’s, workbooks, and manuals
+Strive for the provision of premium, scalable solutions and “ownership” of relationships
+Contribute to improving the overall experience and usage of the platforms
+Generating reports (weekly and monthly) for the customers.
+Your experience and education
+Bachelor’s degree in business administration, engineering, computer science or related fields
+Previous experience in a similar role within specialised IT software development, such as IT Helpdesk, User Satisfaction, User Support
+Experience using ticketing systems, such as Jira ServiceDesk
+Experience working in an ITIL environment, including problem management and continuous improvement of work processes
+Basic understanding of IT infrastructure landscape, databases, file transfers, Linux servers and dependencies
+Strong communication and stakeholder management skills, being able to work both independently and in a team
+Well-versed in English and German languages (verbal and written)
+Basic knowledge of project management methodologies (e.g. PMBoK, Prince2)
+Previous experience in the media or entertainment industries is highly desirable
+Please only apply if you have a valid work permit for GermanyOur offer
+Competitive salary package, including 30 holiday days per year plus statutory bank holidays
+Flexible working pattern and location
+Being part of a fast-paced international, multicultural and multi-time-zone team
+Occasional travel (less than 25% of the time)
+Career development opportunities
+Modern workplace near Ostbahnhof with parking facilities
+Flat hierarchies and enough creative freedom
+ContactChevron bottom icon

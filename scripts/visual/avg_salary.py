@@ -18,7 +18,6 @@ def professia(initial):
         if(p != 'nan'):
             try:
                 text = ''.join(re.findall(r'\d+',p))
-                #print(text)
                 if (len(text) == 4):
                     salary_list.append(int(text))
             except (ValueError):

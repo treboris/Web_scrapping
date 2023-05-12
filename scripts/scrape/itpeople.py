@@ -7,7 +7,6 @@ import requests
 
 initial = tools.initial()
 exists = tools.f_exists('itpeople',initial)
-
 date = datetime.today().strftime('%Y-%m-%d')
 
 #DATA

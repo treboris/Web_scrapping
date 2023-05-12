@@ -6,16 +6,11 @@ from tqdm import tqdm
 from modules.Data import Save
 import modules.tools as tools
 import requests
-import time
 import re
 
-start_time = time.time()
 initial = tools.initial()
 exists = tools.f_exists('cvonline',initial)
-
 date = datetime.today().strftime('%Y-%m-%d')
-
-
 
 limit_txt = "?page="
 location = []
@@ -24,11 +19,6 @@ datee =[]
 corp = []
 main = []
 id = []
-
-
-
-
-
 
 #CONNECTION
 def conn(limit_txt,limit):
@@ -83,4 +73,3 @@ for y in range(0, list_size):
     datee.append(date)
 
 save_data = Save('cvonline', f'cvonline{initial}' ,("ID" , id), ("Main" , main) ,("Location" , location), ("Corporation" , corp) , ("Href" , href),("Date" , datee) )
-print("--- %s seconds ---" % (time.time() - start_time))

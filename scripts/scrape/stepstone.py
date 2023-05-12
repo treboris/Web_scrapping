@@ -9,7 +9,6 @@ from datetime import datetime
 from modules.Data import Save
 from tqdm import tqdm
 import modules.tools as tools
-import requests
 
 initial = tools.initial()
 exists = tools.f_exists('stepstone',initial)
@@ -36,8 +35,6 @@ def conn(limit):
     url = (f"https://www.stepstone.de/work/it?page={limit}&fdl=en")
     return driver.get(url)
 
-#WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.NAME, "q")))
-#REKURZIV FUGGVENY
 def scrape(x):
     article = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,f'/html/body/div[4]/div[1]/div[1]/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]')))
     href_tag = article.find_element(By.XPATH,f'/html/body/div[4]/div[1]/div[1]/div/div[2]/div/div[2]/div[2]/div/div/article[{x}]/div[1]/h2/a')

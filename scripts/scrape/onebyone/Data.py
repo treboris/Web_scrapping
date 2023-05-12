@@ -4,7 +4,6 @@ import os
 
 class Save:
 
-
     def __init__(self,path ,filename ,  *args):
         self.filename = filename
         self.path = path

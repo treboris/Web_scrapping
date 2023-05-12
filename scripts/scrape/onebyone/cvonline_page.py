@@ -1,29 +1,19 @@
 from bs4 import BeautifulSoup
-from datetime import datetime
 from tqdm import tqdm
 import pandas as pd
 import requests
-import time
 import os
-
-
 
 with open('../initial.txt','r') as file:
     initial = int(file.read())
 
 cond = False
 text = ""
-date = datetime.today().strftime('%Y-%m-%d')
 data = pd.read_csv(f'../../../data/cvonline/cvonline{initial}.csv')
 
-
-
-print(initial)
 data_size = (data['ID'].size) -1
 print(data_size)
 href = data['Href'].to_list()
-
-
 
 def conn(url_piece):
     url = (f"{url_piece}")

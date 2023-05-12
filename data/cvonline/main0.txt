@@ -99,7 +99,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Pozíció leírása / Job description
 Partnerünk egy 30 éves múltra visszatekintő magyar kereskedelmi vállalat, ami főleg a kultúra és a nyomtatott művészet világában lett elismert Magyarországon. Egész országra kiterjedő bolthálózattal és webshopokkal rendelkezik. A folyamatosan fejlődő cég jelenleg 20 fős IT részleggel dolgozik és egyre nagyobb az erőforrásigény. A naprakészség igénye miatt lehetőség van folyamatos fejlesztési projekteken részt venni.
- -Az informatikai hálózat működőképességének fenntartásán, javításán és karbantartásán dolgozz majd- Biztosítsd a (leginkább Linux-alapú) háttérrendszerek működésének folyamatos ellenőrzését és felügyeletét-Folyamatosan egyeztess a külső, kapcsolt rendszerek rendszergazdáival-Szakmai javaslatokat tegyél fejlesztésekre-Az alkalmazói rendszerek folyamatos működésének biztosításában is részt vegyél-Lehetőséget biztosítunk egyéb, belső tevékenységekben való részvételre
+ -Az informatikai hálózat működőképességének fenntartásán, javításán és karbantartásán dolgozz majd- Biztosítsd a (leginkább Linux-alapú) háttérrendszerek működésének folyamatos ellenőrzését és felügyeletét-Folyamatosan egyeztess a külső, kapcsolt rendszerek rendszergazdáival-Szakmai  tegyél fejlesztésekre-Az alkalmazói rendszerek folyamatos működésének biztosításában is részt vegyél-Lehetőséget biztosítunk egyéb, belső tevékenységekben való részvételre
                 Elvárások / Requirements
 -Minimum középfokú (szakirányú) végzettség-Minimum 2-3 év( szakmai tapasztalat, és nem munkatapasztalat) rendszeradminisztrátori gyakorlat Linuxnagyvállalati kiszolgálói környezetben-Mély Linux Rendszeradminisztrátori kompetencia-Tájékozottság az informatikai szektor történéseiről/fejlesztéseiről-Angol olvasásban való megértése, angol nemzetközi szakmai anyagok olvasása a témában-Csapatmunka-Magabiztos, félreértéseket kizáró kommunikáció-Megbízhatóság, pontosság, proaktivitás, jó problémamegoldó képesség + felelősségteljes munkavégzés
 Előny:
@@ -277,7 +277,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Kite Zrt hirdetőtől
 SAP bázis üzemeltető
                   10.03.2023,               
@@ -355,7 +355,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Vision Recruitment Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -413,7 +413,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Vision Recruitment Kft. hirdetőtől
 Ügyfélkapcsolati munkatárs 
                   11.03.2023,               
@@ -551,7 +551,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HSA Kft. hirdetőtől
 IT Operations Engineer 
                   06.03.2023,               
@@ -1002,7 +1002,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -1204,7 +1204,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -1317,7 +1317,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 MŰSZAKI ELŐKÉSZÍTŐ (w338)
                   10.03.2023,               
@@ -1387,7 +1387,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -1696,7 +1696,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -1793,7 +1793,7 @@ Amennyiben érdekesnek találta a lehetőséget, kattintson a 'Jelentkezem' gomb
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -1950,7 +1950,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -2048,7 +2048,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -2132,7 +2132,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -2216,32 +2216,9 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
-További állások a HAYS Hungary Kft. hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
+.03.2023,               
 RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
+
 További állások
 Full-stack developer C#/Angular - Medior 
 Fullstack Software Tool Developer - Medior 
@@ -2300,66 +2277,10 @@ What you'll get in return
 What you need to do now
 If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
 If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
-Jelentkezem
-ÁLLÁSHIRDETÉS FELADÁS
-Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
-Ehhez hasonló állások
-Javasolt állások
-További állások a HAYS Hungary Kft. hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
+
 Budapest 
       Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-További állások
-Senior Middleware/Integration Engineer 
-Your new company
-E-commerce start-up on a quest to develop a market leading e-commerce platform from ground zero.
-Your new role
-o Defining integration strategies and methods and then planning them in accordance with established... 
-Elmentem az állást
-Senior Middleware/Integration Engineer 
-Elmentem az állást
-HAYS Hungary Kft. 
-Budapest 
-Teljes munkaidős 
-Frissítés dátuma: 08.03.2023
-További állások keresése
-Állás megosztása
-Hasonló állások
- IT RENDSZERGAZDA 
- Budapest  
- Pályamunkás (vonalgondozó) 
- Veszprém  
- Karbantartó 
- Gyál  
- Törzsadatkezelő munkatárs 
- Debrecen  
- Junior Accountant 
- Budapest  
-ÁLLÁSHIRDETÉS FELADÁS
-Service Delivery Manager 
-General purpose of the job 
-Service Delivery Manager plans, implements, leads, supports of all Payment Processing service delivery initiatives.  
+
 measurement of BPC fact based services against customers
 implement ITIL based service management
 provide numbers and statistics. 
@@ -2446,33 +2367,12 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Mind-Diák Szövetkezet hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
 RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-További állások
+
 Szoftvertesztelő gyakornok 
  Az MKB Bank az egyik legjobban teljesítő, és leginkább felelősen működtetett univerzális nagybank erős tőkepozícióval és kockázatkezeléssel, piacvezető folyamatokkal, valamint lakossági és vállalati portfolióval. A jelen fúziója a jövőd lehetősége. Ragadd meg a lehetőséget, hogy egyedülálló... 
 Elmentem az állást
@@ -2587,7 +2487,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Randstad Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -3091,7 +2991,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Fejlesztési csapatvezető
 fejlesztési csapat vezetése együttműködve a BA és Scrum Master kollégákkal
-üzleti problémák azonosítása, megoldási javaslatok kidolgozása
+üzleti problémák azonosítása, megoldási ---- kidolgozása
 műszaki megoldások tervezése, karbantartása a fejlesztői csapattal
 az egyes piacokon történő telepítések támogatása
 együttműködés a többi lead kollégával
@@ -3567,9 +3467,7 @@ the ability to cope with repetitive tasks
 the ability to communicate in an effective and assertive way
 Interested? Apply now by uploading your English CV through the link below!
 Jelentkezem
-ÁLLÁSHIRDETÉS FELADÁS
-ANGULAR / JAVASCRIPT FEJLESZTŐ  
-ANGULAR / JAVASCRIPT FEJLESZTŐ 
+
 Ha már van legalább 1 éves fejlesztési tapasztalatod, ismered a JavaScript és Angular programnyelveket, akkor téged kereslek!
 	Juniortól expert szintig keresünk új kollégát, szóval tarts bármilyen szinten, ha rendelkezel a kellő tapasztalattal, akkor add le jelentkezésedet!
 HELYSZÍN
@@ -3788,7 +3686,7 @@ A pályázatok elkészítésének teljes folyamatának irányítása, ajánlatad
 Pályázathoz ajánlattételi dokumentáció teljeskörű elkészítése
 Termeléshez kapcsolódó előkészítési feladatok
 Alvállalkozói, beszállítói ajánlatkérések
-Kiválasztás/döntés előkészítése, erre vonatkozó javaslattétel
+Kiválasztás/döntés előkészítése, erre vonatkozó
 Tervellenőrzés, műszaki konszignációk készítése
 Anyagrendelések, anyagszállítás koordinálása
 Kapcsolattartás a megrendelővel, alvállalkozókkal és beszállítókkal
@@ -3989,7 +3887,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a PBS International Kft. hirdetőtől
 Ügyfélkapcsolati munkatárs 
                   11.03.2023,               
@@ -4126,7 +4024,7 @@ Szállítói számlák, szerződések, teljesítés igazolások jóváhagyási, 
 Egyedi kalkulációk és operatív gazdasági elemzési feladatok elvégzése a költség-felhasználás hatékonyságának növelése a vezetői döntéstámogatás érdekében.
 a területéhez tartozó fejlesztési és beruházási igények koordinációjában való közreműködés.
 Működési és hatékonyságjavító projektek irányítása, döntés-előkészítő tevékenység folyamatos ellátása.
-Feladataival összefüggő adatszolgáltatási, véleményezési feladatok ellátása, döntés előkészítő javaslatok készítése.
+Feladataival összefüggő adatszolgáltatási, véleményezési feladatok ellátása, döntés előkészítő ---- készítése.
 A munkakörének ellátásával összefüggő adminisztratív és nyilvántartási feladatok teljes körű elvégzése, dokumentumok előírás szerinti kezelése.
 Követelmények:
 informatikai vagy gazdasági területen szerzett felsőfokú végzettség
@@ -4267,34 +4165,8 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
-További állások a BECK AND PARTNERS Kft. hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-További állások
-SENIOR DEVOPS ENGINEER 
+---- állások
+
 Key duties:
 		Design of the migration to the Amazon Cloud (AWS) using infrastructure as code approach with Terraform, 
 		Responsible for the migration of applications from Docker Swarm to Kubernetes, 
@@ -4322,35 +4194,10 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a BECK AND PARTNERS Kft. hirdetőtől
 UI Artist
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Egyéb | Egyéb    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Elmentem az állást
-További állások
-VMWARE RENDSZERMÉRNÖK  
-Feladatok:
+
 		Közép és nagyvállalatok informatikai infrastruktúráinak (Microsoft, VMware) tervezése, implementációja,
 		Ügyfelek rendszergazdáinak L2/L3 szintű távoli és helyszíni üzemeltetés támogatása,
 		Műszaki ajánlatok kidolgozása, ajánlatok... 
@@ -4667,30 +4514,8 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
-További állások a HAYS Hungary Kft. hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-További állások
+---- állások
+
 German or French speaking Application Support Analyst 
 Our partner is a global supplier of intelligent automation software. The company's software allows businesses to automate and improve business workflows by simplifying the handling of data and documents.
 The small-sized Application Support team which operates in Hungary are really working... 
@@ -4881,9 +4706,7 @@ We are a youthful and cohesive team.
 We support your career goals with a professional and managerial career model.
 Hybrid working (downtown office location).
 Jelentkezem
-ÁLLÁSHIRDETÉS FELADÁS
-Java Team Leader 
-Java Team Leader
+
 Pénzintézeti partnerünk részére keresünk Java Team Leader kollégát az Internetbank és Mobilbank, illetve további digitális csatornák fejlesztési területére.
 Főbb feladatok:
 A Team leader elsődleges feladata a szakértői csapatába tartozó, az fejlesztő kollégák folyamatos szakmai fejlődésének biztosítása, a dolgozók munkájának értékelése, a szakmai és karrier utak tervezése és nyomon követése;
@@ -5074,34 +4897,7 @@ Even when you work hard, you will still have time for your personal life: their 
 They have long-term plans for you! They have carefully designed career paths (and a career management system), they provide the appropriate training courses and projects to accomplish your aims.
 Their community is characterized by mutual respect and an attitude of helpfulness. This high professional quality level and the colorful personalities will help you spend your everyday life in a good mood, why you make the best of your skills and talents.
 In addition to an inclusive and helpful atmosphere, trust is also an important value for the company. You can rely on Our Partner with anything right from your first day.
-Java Developer 
-Jelentkezem
-ÁLLÁSHIRDETÉS FELADÁS
-Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
-Ehhez hasonló állások
-Javasolt állások
-További állások a Deutsche Telekom IT Solutions hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
+
 További állások
 Security Solution Administrator - Antivirus Operation (REF565Y) 
  Description 
@@ -5130,30 +4926,8 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
-További állások a Deutsche Telekom IT Solutions hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-További állások
+---- állások
+
 SAP Engineer  (REF253P) 
 Description
 Csatlakozz nemzetközi csapatunkhoz SAP Basis Engineerként, ahol a napi feladataid során részt vehetsz komplex problémák megoldásában, összetett változtatások tervezésében, végrehajtásában!
@@ -5181,7 +4955,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Deutsche Telekom IT Solutions hirdetőtől
 Frontend Fejlesztő
                   11.03.2023,               
@@ -5233,30 +5007,8 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
-További állások a Deutsche Telekom IT Solutions hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-További állások
+---- állások
+
 Fullstack Developer - REF1483O 
  Description 
 Design and implementation of thin clients as the replacement of the current Java Swing Rich-Client
@@ -5285,7 +5037,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Deutsche Telekom IT Solutions hirdetőtől
           Kiemelt        
 MUNKAÜGYI ÜGYINTÉZŐ
@@ -5335,34 +5087,7 @@ Hasonló állások
  Kecskemét  
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
-Ehhez hasonló állások
-Javasolt állások
-További állások a Deutsche Telekom IT Solutions hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-További állások
-Frontend fejlesztő (REF731J) 
- Description 
-Részvétel komplex Java portálunk és felhőfejlesztési projektjeink webes frontend részében, elsősorban a gyártóiparban
+
 Szoros együttműködés szoftvertervezőkkel
 Komplex ügyfélkövetelmények elemzése újszerű IoT- és... 
 Elmentem az állást
@@ -5603,9 +5328,7 @@ Support the creation of requirement specifications/User Stories;Creation of func
 Bachelor's degree (Master preferred) in Computer Science, Software Engineering, Informatics (or equivalent);3+ years of experience developing in Java and JavaScript;Experience with server-side technologies and API architectures such as REST;Experience working in agile teams, comfortable working with geographically distributed teams;Good verbal and written English language skills (Further language skills e.g. German are an advantage)
                 Amit nyújtunk / Benefits
 Stable company background and long-term working possibility;Full of challenges and high-level professional activities at an international company;Participation in international projects and commission to foreign countries;Career opportunities, continuous training program and language courses;Competitive salary and performance-related bonus;Cafeteria with optional elements;School start support
-Cplace Java Developer 
-Jelentkezem
-ÁLLÁSHIRDETÉS FELADÁS
+
 IT specialista
 Informatikai rendszerek tervezése, üzemeltetése, karbantartásaIT-rendszertámogatás és felhasználói ügyfélszolgálat biztosítása (1st and 2nd level)Az IT eszközök és berendezések ellenőrzéseAz IT-szolgáltatások teljesítményének méréseOperációs rendszerek, irodaautomatizálási szoftverek telepítése, karbantartásaHardverelemek telepítése és karbantartásaAz új alkalmazási módszerek, szervezési módszerek és eszközök kiválasztásának támogatásaFelhasználói kérések, problémák és alkalmazott megoldások dokumentálásaTervek készítése a rendszerek megvalósításáraInformatikai infrastruktúra felülvizsgálata, elemzések és jelentések készítése
                 Elvárások / Requirements
@@ -5653,27 +5376,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
-További állások a Randstad Hungary Kft. hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
+
 Elmentem az állást
 Elmentem az állást
 További állások
@@ -5825,7 +5528,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Knorr-Bremse Rail Systems Budapest hirdetőtől
 Távvezérlő műszerész
                   11.03.2023,               
@@ -5876,7 +5579,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a DMRV Dunamenti Regionális Vízmű Zrt. hirdetőtől
 Térközőr, vonatjelentő őr 
                   10.03.2023,               
@@ -6274,7 +5977,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Kite Zrt hirdetőtől
 SAP bázis üzemeltető
                   10.03.2023,               
@@ -6372,7 +6075,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Cvonline hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -6778,29 +6481,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
-További állások a HAYS Hungary Kft. hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
+
 További állások
 RPA Developer 
 Your new company
@@ -6831,29 +6512,8 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
-További állások a HAYS Hungary Kft. hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
+---- állások
+
 További állások
 Senior QA Lead 
 Senior QA Lead
@@ -6884,30 +6544,9 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-További állások
+
 Chief Security Architect 
 Chief Security Architect / Virtual CISO
 Budapest (2 Home Office / hét)
@@ -6937,27 +6576,8 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
-További állások a HAYS Hungary Kft. hirdetőtől
-Senior Java Engineer
-                  11.03.2023,               
-RecruIT Kft. 
-Budapest 
-      Programozó | IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Teszteszköz fejlesztő mérnök
-                  11.03.2023,               
-HSA Kft. 
-Budapest 
-      IT / Informatika    
-Elmentem az állást
-Elmentem az állást
-Senior Software Engineer
-                  11.03.2023,               
-Randstad Hungary Kft. 
-Budapest 
-      IT / Informatika    
+---- állások
+
 Elmentem az állást
 Elmentem az állást
 További állások
@@ -7019,7 +6639,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -7531,7 +7151,7 @@ Amennyiben érdekesnek találta a lehetőséget, kattintson a 'Jelentkezem' gomb
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -7605,7 +7225,7 @@ Amennyiben érdekesnek találta a lehetőséget, kattintson a 'Jelentkezem' gomb
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -7776,7 +7396,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Mind-Diák Szövetkezet hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -7825,7 +7445,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Viapan „Dologidő” Kft. hirdetőtől
 SERVICENOW DEVELOPER
                   10.03.2023,               
@@ -7873,7 +7493,7 @@ Hasonló állások
  Budapest  
 ÁLLÁSHIRDETÉS FELADÁS
 IT szakértő 
-Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója javasolta számodra, jelentkezésedkor választd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
+Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója ----a számodra, jelentkezésedkor választd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
 Új munkatársunk feladatai lesznek
 - MS környezetben Hardware, Software komponensek és perifériáik rendszerbe illesztése/tesztelése
 - központi üzemeltetés  „AD” tartományi környezetben és management szoftverrel
@@ -7919,7 +7539,7 @@ A MÁV Szolgáltató Központ Zrt. a MÁV-Volán-csoport egyik leányvállalata,
 Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 IT technikus (üzemeltetés) 
-Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója javasolta számodra, jelentkezésedkor válaszd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
+Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója ----a számodra, jelentkezésedkor válaszd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
 Új munkatársunk feladatai lesznek
 - számítógépek Tábla PC-k és perifériáik üzemeltetése, karbantartása.
 - okostelefonok és perifériáik üzemeltetése, karbantartása
@@ -7969,7 +7589,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a BECK AND PARTNERS Kft. hirdetőtől
 SERVICENOW DEVELOPER
                   10.03.2023,               
@@ -8129,7 +7749,7 @@ Jelentkezem
 Jegykiadó automata üzemeltető technikus 
 Az informatikai szektorban 25 éves tapasztalattal rendelkezünk a végponti eszközök (például PC, notebook, jegykiadó automata, nyomtató, tablet, mobil) üzemeltetésétől, az adatközponti szolgáltatásokon keresztül, az alkalmazásfejlesztésig. Országos lefedettségünk, 7/24 órás központi ügyfélszolgálatunk biztosítja megrendelőink számára a mindig elérhető informatikai szolgáltatást, amelyet ISO 9001:2015 minőségirányítási rendszerünk is garantál.
 Szívesen megismernéd feladatainkat? Várjuk jelentkezésedet!
-Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója javasolta számodra, jelentkezésedkor válaszd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
+Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója ----a számodra, jelentkezésedkor válaszd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
 Új munkatársunk feladatai lesznek
 - jegykiadó automaták üzemeltetése:-
 - szoftverek frissítések telepítése
@@ -8178,7 +7798,7 @@ A MÁV Szolgáltató Központ Zrt. a MÁV-csoport egyik leányvállalata. Célja
 Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 IT technikus (üzemeltetés) 
-Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója javasolta számodra, jelentkezésedkor válaszd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
+Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója ----a számodra, jelentkezésedkor válaszd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
 Új munkatársunk feladatai lesznek
 - számítógépek Tábla PC-k és perifériáik üzemeltetése, karbantartása
 - okostelefonok és perifériáik üzemeltetése, karbantartása
@@ -8486,7 +8106,7 @@ Részvétel a tesztkövetelmények definiálásában
 Mérési összeállítások tervezése, összeállítása
 Mérési eredmények kiértékelése és dokumentálása
 Együttműködés és rendszeres visszajelzés a mechanikai fejlesztés felé
-Javaslatok megfogalmazása a kommunikáció megbízhatóságának növelésére
+---- megfogalmazása a kommunikáció megbízhatóságának növelésére
 AMIK SZÜKSÉGESEK A FELADATAID ELLÁTÁSÁHOZ
 Folyamatban lévő villamosmérnöki MSc. tanulmányok
 Heti legalább 20 óra munkavállalás
@@ -8639,7 +8259,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Juventus Language Group Kft. hirdetőtől
 Ügyfélkapcsolati munkatárs 
                   11.03.2023,               
@@ -8929,7 +8549,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a My HR Team Személyzeti Szolgáltató Kft. hirdetőtől
 Vezető tesztmérnök
                   10.03.2023,               
@@ -8981,7 +8601,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a My HR Team Személyzeti Szolgáltató Kft. hirdetőtől
 Beágyazott hardver és szoftver mérnök
                   09.03.2023,               
@@ -9113,7 +8733,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HSA Kft. hirdetőtől
 Fejlesztési csapatvezető
                   10.03.2023,               
@@ -9170,7 +8790,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HSA Kft. hirdetőtől
 Fejlesztési csapatvezető
                   10.03.2023,               
@@ -9432,7 +9052,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -9486,7 +9106,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -9750,7 +9370,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -10005,7 +9625,7 @@ Rendszerszervező
 Budapest (3 Home Office / hét)
 9000-11000 HUF / óra
 Az új munkahelyed
-Egy külső, független tanácsadó és fejlesztő csapatként Ügyfeleink céljait megértve találunk megoldást kihívásaikra. Az üzleti és az IT nézőpont ma már nem válhat el egymástól, egységes megoldást mutatunk mind szervezeti, folyamati, mind IT nézőpontból. Javaslatainkat kreatív tanácsadóink és fejlesztőink tapasztalatára, és a megismert legjobb gyakorlatokra támaszkodva, hatékony módszertanok és a legújabb technológiák alkalmazásával valósítjuk meg.
+Egy külső, független tanácsadó és fejlesztő csapatként Ügyfeleink céljait megértve találunk megoldást kihívásaikra. Az üzleti és az IT nézőpont ma már nem válhat el egymástól, egységes megoldást mutatunk mind szervezeti, folyamati, mind IT nézőpontból. Javaslatainka kreatív tanácsadóink és fejlesztőink tapasztalatára, és a megismert legjobb gyakorlatokra támaszkodva, hatékony módszertanok és a legújabb technológiák alkalmazásával valósítjuk meg.
 Az új pozíciód
 Feladatok:
 Általános rendszerszervezői feladatok:
@@ -10105,7 +9725,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Mind-Diák Szövetkezet hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -10179,7 +9799,7 @@ Manufacturing IT gyakornok
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Randstad Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -10443,8 +10063,6 @@ Stable company background and long-term working possibility;Full of challenges a
 Lead Developer IoT Cloud 
 Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
-Medior JAVA fejlesztő 
-Medior Java Programozó
 Ügyviteli, számviteli, információs, e-learning, projekt követő, vállalatirányítási rendszerek egyedi fejlesztésével, implementálásával foglalkozó partnerünkhöz keressük ügyes Medior Java programozónkat! Egyedi, testreszabott, cégekre szabott rendszerekkel foglalkozunk, nem „dobozos/szétkeretezett” termékekkel és rendszerekkel!
 A feladat nagy rendszerek építésében való részvétel, valamint a senior kollégákkal történő szoros együttműködés.
 Team képességek:
@@ -10497,7 +10115,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Trenkwalder Kft hirdetőtől
 IT Rendszergazda
                   10.03.2023,               
@@ -10772,7 +10390,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a PBS International Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -10824,7 +10442,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a PBS International Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -10877,7 +10495,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a PBS International Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -10952,7 +10570,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a PBS International Kft. hirdetőtől
 Test Engineer - Tatabánya
                   11.03.2023,               
@@ -11825,7 +11443,7 @@ Embedded Firmware Developer
 Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 IT HD technikus 
-Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója javasolta számodra, jelentkezésedkor választd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
+Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója ----a számodra, jelentkezésedkor választd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
 Új munkatársunk feladatai lesznek
 - első szintű ügyfélszolgálati támogatás ellátása a HelpDesk-en
 - hibabejelentések beazonosítása, a feladatok eszkalációja
@@ -11908,7 +11526,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Opus Európa Kft. hirdetőtől
 SQA MÉRNÖK (Pályakezdők jelentkezését is várjuk!)
                   12.03.2023,               
@@ -11990,7 +11608,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Opus Európa Kft. hirdetőtől
 SQA MÉRNÖK (Pályakezdők jelentkezését is várjuk!)
                   12.03.2023,               
@@ -12536,7 +12154,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -12795,7 +12413,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -13000,7 +12618,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HAYS Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -13191,7 +12809,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a BECK AND PARTNERS Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -13319,7 +12937,7 @@ Projekt támogató gyakornok
  A GSK Holding egy, a tudomány által vezérelt, globális gyógyszergyártó vállalat, amelynek különleges célja, hogy segítsenek az embereknek abban, hogy teljesebb, jobb és hosszabb életet élhessenek. 3 globális üzleti területen tevékenykednek, amelyeken innovatív gyógyszeripari termékek, vakcinák és egészségápolási termékek kutatásával, fejlesztésével és gyártásával foglalkoznak.
  Feladatok:
  A projekt időtervének, költésgvetésének folyamatos nyomon követése, ezzel kapcsolatos riportok elkészítése
- Számlák nyomon követése, árajánlatok és javaslatok készítése költségcsökkentési lehetőségekre
+ Számlák nyomon követése, árajánlatok és ---- készítése költségcsökkentési lehetőségekre
  A projekt csapat támogatása a társosztályok és az alvállakozók közötti együttműködésben
  Projekt menedzsment kivitelézésenek szervezése és irányítása, szerződések elkészítése
  Jelentések és prezentációk készítése
@@ -13344,7 +12962,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a BECK AND PARTNERS Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -13394,7 +13012,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a T-HR Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -13602,7 +13220,7 @@ Műszaki szakértő (IP)
 - Külső rendszertámogatóval együttműködés a távoli és a helyszíni hibaelhárítás érdekében, a szoftver javítások és frissítések installálásának elvégzése a berendezésekben,
 - Új IP hálózati rendszerelemek, megoldások, berendezések, szoftver javítások és frissítések tervezése, előzetes tesztelése, installálása (patch, update, upgrade), üzemeltetésre történő átvétele,
 - Szakterületéhez kapcsolódó műszaki nyilvántartások vezetése, adatgazdai feladatok ellátása,
-- Szakterületére vonatkozó dokumentációk, mérési jegyzőkönyvek, vizsgálati anyagok, műszaki elemzések, jelentések, javaslatok készítése,
+- Szakterületére vonatkozó dokumentációk, mérési jegyzőkönyvek, vizsgálati anyagok, műszaki elemzések, jelentések, ---- készítése,
 - Szakterületére vonatkozó javítási, karbantartási, felújítási, beruházási, építési, bontási és selejtezési munkák tervezése, koordinálása és felügyelete,
 - A MÁV Zrt. döntéshozóival és üzemeltetőivel, valamint az érintett külső felekkel kapcsolattartás,
 - Projekt feladatokban való közreműködés.
@@ -13646,7 +13264,7 @@ Műszaki szakértő (OSS)
 - változáskezelési, megelőző karbantartási, tervezett üzemeltetési és fejlesztési tevékenységek műszaki előkészítésének, operatív központi háttértámogatásának megszervezése és elvégzése,
 - külső rendszertámogatóval együttműködés a távoli és a helyszíni hibaelhárítás érdekében, a szoftver javítások és frissítések installálásának elvégzése a berendezésekben,
 - szakterületéhez kapcsolódó műszaki nyilvántartások vezetése, adatgazdai feladatok ellátása,
-- szakterületére vonatkozó dokumentációk, mérési jegyzőkönyvek, vizsgálati anyagok, műszaki elemzések, jelentések, javaslatok készítése,
+- szakterületére vonatkozó dokumentációk, mérési jegyzőkönyvek, vizsgálati anyagok, műszaki elemzések, jelentések, ---- készítése,
 - a MÁV Zrt. döntéshozóival és üzemeltetőivel, valamint az érintett külső felekkel kapcsolattartás,
 - projekt feladatokban való közreműködés.
 Amire a munkakör betöltéséhez szükség van
@@ -13781,7 +13399,7 @@ IT Specialist
 Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 IT HD szakértő 
-Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója javasolta számodra, jelentkezésedkor választd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
+Amennyiben ezt az állást a MÁV-csoport egyik munkavállalója ----a számodra, jelentkezésedkor választd ki a Munkavállalói ajánlási program pontot és töltsd ki az ajánló adatait!
 Új munkatársunk feladatai lesznek
 - első szintű ügyfélszolgálati támogatás ellátásának szervezése a HelpDesk-en
 - eszkalált hibabejelentések menedzselése
@@ -13825,7 +13443,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a WORKLIFE Hungary hirdetőtől
 Villamosmérnök
                   11.03.2023,               
@@ -13891,7 +13509,7 @@ Jelentkezés:
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a HumanField Vezető- és Specialistakiválasztó Kft. hirdetőtől
           Kiemelt        
 C# programmer
@@ -13958,7 +13576,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a WORKLIFE Hungary hirdetőtől
 Távvezérlő műszerész
                   11.03.2023,               
@@ -14140,7 +13758,7 @@ Rád váró feladatok:
  Ha tanácsadóként jelentkeznél:
 		Többéves gyakorlati tapasztalat koncepció alkotásban, elemzésben, felmérésben, tesztelésben
 		Ügyféligények felderítésében
-		Megoldási javaslatok meghatározása, kidolgozása
+		Megoldási ---- meghatározása, kidolgozása
 		Rendszerkonfigurációk ismerete
  Ha fejlesztőként jelentkeznél:
 		Többéves tapasztalat szoftverfejlesztésben
@@ -14364,7 +13982,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Randstad Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -14430,7 +14048,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Randstad Hungary Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -15361,7 +14979,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Melon HR Technology Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -15413,7 +15031,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Melon HR Technology Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -15465,7 +15083,7 @@ Hasonló állások
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Melon HR Technology Kft. hirdetőtől
 Senior Java Engineer
                   11.03.2023,               
@@ -15519,7 +15137,7 @@ Megbízónk egy nemzetközi hátterű, több mint ezerfős, autóipari termelő 
 Feladatok
 PLC Programozás (Omron)
 Új gyártósorok telepítésének támogatása, folyamat stabilitásának tesztelése, fejlesztése, dokumentálása
-Fejlesztési lehetőségek kivizsgálása, javaslatok előkészítése a gyártási költségek csökkentésére, a kapacitás bővítésére, selejtek csökkentésére
+Fejlesztési lehetőségek kivizsgálása, ---- előkészítése a gyártási költségek csökkentésére, a kapacitás bővítésére, selejtek csökkentésére
 Eredmények kommunikálása, prezentálása a menedzsment felé
 Prezentációk, dokumentációk készítése
 Gyártás támogatása, Hibaelhárítás, Karbantartás támogatása, Termelés támogatása
@@ -15599,7 +15217,7 @@ Jelentkezem
 IT Tanácsadó 
 Megbízónk egy magyar tulajdonban lévő IT tanácsadó és szolgáltató vállalat, aki nagyvállalati - banki, energetikai - ügyfeleinek nyújt különböző megoldásokat.
 Feladatok
-Nagyvállalati ügyfelek problémáinak felderítése, folyamatainak felmérése, megoldási javaslatok kidolgozása, vezetői prezentálása
+Nagyvállalati ügyfelek problémáinak felderítése, folyamatainak felmérése, megoldási ---- kidolgozása, vezetői prezentálása
 Felhasználói elvárások letisztázása, üzleti problémák elemzése
 Megbeszélések, workshopok vezetése
 Specifikációk, tanulmányok készítése
@@ -15632,7 +15250,7 @@ Jelentkezem
 ÁLLÁSHIRDETÉS FELADÁS
 Figyelmeztető üzenet Ez a hirdetés már nem aktív. Keress aktív hirdetéseket.
 Ehhez hasonló állások
-Javasolt állások
+---- állások
 További állások a Nova Human Resources Kft. hirdetőtől
 Távvezérlő műszerész
                   11.03.2023,               
