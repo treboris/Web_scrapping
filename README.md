@@ -33,7 +33,8 @@ Az alábbi könyvtárak telepítésére van szükség:
 │   │       állás részletes leírása. Terjedel több mint 1 millió sornyi szöveg windows jegyzettömb nem mindig tudja megnyitni.
 │   │       Az svk_full_main könyvtár az összes szlovák nyelvű, a hun_full_main az összes magyar nyelvű és a 
 │   │       foreign_full_full main pedig az össze külföldi álláshirdető portál állását összefűzve tartalmazza.
-│   ├── cvonline
+│   │
+│   ├── cvonline
 │   ├── foreign_full_main
 │   │   └── foreign_full_main.txt
 │   ├── full_main
@@ -51,7 +52,18 @@ Az alábbi könyvtárak telepítésére van szükség:
 │   └── txt
 │       └── ...
 └── scripts
+    │
+    │         A könyvtár tartalmazza az összes szkriptet szortírozva funkcionalitásuk szerint.
+    │        
     ├── scrape
+    │   │       A könyvtár tartalmazza a cvonline.hu, itpeople.hu, jobline.hu, kariera.sk, professia.sk, profession.hu 
+    │   │       és a stepstone.de 
+    │   │       álláshirdető portálok automatikus adatgyűjtési szkriptjét. Továbbá tartalmaz egy inital.txt nevű szövegfájlt, 
+    │   │       amely szkriptek mentésének a sorszámát tartalmazza. Futtatáskor érdemes megváltoztatni ellenben, ha az adott 
+    │   │       sorszámmal már létezik a fájt, a szkript hibát dob és nem fut le. 
+    │   │       A könyvtár tartalmaz még egy start.sh bash szkriptet, amllyel futtatható az összes weboldal
+    │   │       adatgyűjtő szkriptje egymás után automatikusan. Linux-specifikus parancsokat tartalmaz, Windows környezetben nem működik.
+    │   │
     │   ├── cvonline.py
     │   ├── initial.txt
     │   ├── itpeople.py
@@ -59,6 +71,12 @@ Az alábbi könyvtárak telepítésére van szükség:
     │   ├── kariera_new.py
     │   ├── main.py
     │   ├── modules
+    │   │   │        A könyvtár tartalmazza az adatgyűjtő szkriptek végén használt Data.py osztályt, 
+    │   │   │        amely minden lefuttatott web scraping szkript végén meghívódik. Ezenfelül tartalmazza a
+    │   │   │        a tools.py modult, amely bizonyos funkciókat lát el a web scraping szkriptekben. A one_by_one_scrape.py modul arra a
+    │   │   │        célra keszült, hogy az összes állást mind a 6 weboldalon automatikusan tudjuk kigyűjteni. Sajnos csak megfelelően karban tartott
+    │   │   │        szkriptek esetén működik, amely rengeteg energiát és időt igényel, ezért csak minta jelleggel szolgál, hogy meg lehet így is oldani.
+    │   │   │                
     │   │   ├── Data.py
     │   │   ├── one_by_one_scrape.py
     │   │   └── tools.py
@@ -110,17 +128,8 @@ Az alábbi könyvtárak telepítésére van szükség:
 
 
 
-data
-│
-├── A data könyvtárban találhatóak a kinyert adatok szortírozva weboldal név szerint, továbbá itt 
-│    találhatóak a  txt nevű könyvtárban a részletes leírásu állások szöveges fájl formában.
-│    A full_main nevű könyvtár tartalmazza a full_main.txt szöveges fájlt, amelyben össze van fűzve mind az összes
-│    állás részletes leírása. Terjedel több mint 1 millió sornyi szöveg windows jegyzettömb nem mindig tudja megnyitni.
-│    Az svk_full_main könyvtár az összes szlovák nyelvű, a hun_full_main az összes magyar nyelvű és a 
-│     foreign_full_full main pedig az össze külföldi álláshirdető portál állását összefűzve tartalmazza.
-│
-├──scripts
-    A scripts nevű könyvtár tartalmazza az összes szkriptet szortírozva funkcionalitásuk szerint.
+
+
     ├── scrape
     │    A könyvtár tartalmazza a cvonline.hu, itpeople.hu, jobline.hu, kariera.sk, professia.sk, profession.hu 
     │     és a stepstone.de 
@@ -130,5 +139,5 @@ data
     │     A könyvtár tartalmaz még egy start.sh bash szkriptet, amllyel futtatható az összes weboldal
     │    adatgyűjtő szkriptje egymás után automatikusan. Linux-specifikus parancsokat tartalmaz, Windows környezetben nem működik.
     │     ├──modules
-    │        A könyvtár tartalmazza az adatgyűjtő szkriptek végén használt Data.py osztályt, amely minden lefuttatott web scraping szkript végén meghívódik.
+    │        
 ```
