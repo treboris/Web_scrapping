@@ -38,7 +38,8 @@ python3 link_files.py
     Gyakoriság vizsgálathoz a scripts/visual/gyakorisag.py fájlt kell futtatni, amely kalibrációt igényel.
     Elsőször meg kell adni a szövegfájlt, amelyben szeretnénk végrehajtani az elemzést az input_txt változóban, másodszor pedig
     az outpu_csv változóban a kimeneti .csv fájl nevét.
- ```bash
+
+```bash
 python3 gyakorisag.py
 ```
     Kulcsszó gyakoriság elemzéshez a scripts/visual/keyword.py fájlt kell futtatni, parancssori argumentummal átadható a
