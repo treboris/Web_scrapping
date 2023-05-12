@@ -43,10 +43,10 @@ python3 link_files.py
 python3 gyakorisag.py
 ```
 Kulcsszó gyakoriság elemzéshez a scripts/visual/keyword.py fájlt kell futtatni, parancssori argumentummal átadható a
-    kulcsszavakat tartalmazó szövegfájl. Alapertelmezetten
+    kulcsszavakat tartalmazó szövegfájl. Alapertelmezetten, ha nem adunk meg argumentumot a keywords/tantev.txt kulcsszavakra fog keresni a szkript.
     
 ```bash
-python3 keywords.py
+python3 keywords.py kulcsszavak
 ```
     
     
