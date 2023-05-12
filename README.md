@@ -48,9 +48,7 @@ Kulcsszó gyakoriság elemzéshez a scripts/visual/keyword.py fájlt kell futtat
 ```bash
 python3 keywords.py kulcsszavak
 ```
-    
-    
-    
+
 
 ## A fájlok hierarchiája
 
