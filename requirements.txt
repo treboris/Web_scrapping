@@ -1,0 +1,12 @@
+selenium
+selenium webdriver
+beautifulSoup4
+requests
+tqdm
+pandas
+plotly
+matplotlib
+wordcloud
+squarify
+colorsys
+seaborn
