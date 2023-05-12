@@ -21,8 +21,7 @@ Az alábbi könyvtárak telepítésére van szükség:
 - squarify
 - colorsys
 - seaborn
-
-
+```bash
 data
 │
 ├── A data könyvtárban találhatóak a kinyert adatok szortírozva weboldal név szerint, továbbá itt 
@@ -42,3 +41,4 @@ data
     │    adatgyűjtő szkriptje egymás után automatikusan. Linux-specifikus parancsokat tartalmaz, Windows környezetben nem működik!
     │     ├──modules
     │        A könyvtár tartalmazza az adatgyűjtő szkriptek végén használt Data.py osztályt, amely minden lefuttatott web scraping szkript végén meghívódik.
+```
