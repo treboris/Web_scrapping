@@ -6,10 +6,15 @@ akik informatikai pozícióban szeretnének elhelyezkedni,
 továbbá Web scraping technika bemutatása és alkalmazása,
 majd a kinyert adatok vizualizálása elsődlegesen Python környezetben.
 
-
+A diagramok a requirements.txt-ben lévő könyvtárak feltelepítése után a script >> visual >> main.py python fájl futtatásával a megjelenő Tkinter alkalmazáson 
+```bash
+pip install requirements.txt
+```
 
 
 ```bash
+
+
 .
 ├── data
 │   │
