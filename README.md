@@ -6,10 +6,21 @@ akik informatikai pozícióban szeretnének elhelyezkedni,
 továbbá Web scraping technika bemutatása és alkalmazása,
 majd a kinyert adatok vizualizálása elsődlegesen Python környezetben.
 
-A diagramok a requirements.txt-ben lévő könyvtárak feltelepítése után a script >> visual >> main.py python fájl futtatásával a megjelenő Tkinter alkalmazáson 
+A diagramok a requirements.txt-ben lévő könyvtárak feltelepítése után a scripts/visual/main.py python fájl futtatásával a megjelenő Tkinter alkalmazáson elérhetőek.
+
 ```bash
 pip install requirements.txt
 ```
+
+Az adatok automatikus kigyűjtése lista nézetből a scripts/scrape/<oldalneve>.py fájl futtatásával hajtható végre.
+Az initial.txt szövegfájlban lévő szám lesz a kimentett .csv fájl sorszáma, ezt érdemes megváltoztatni.
+    
+```bash
+python3 cvonline.py
+```
+
+
+
 
 
 ## A fájlok hierarchiája
