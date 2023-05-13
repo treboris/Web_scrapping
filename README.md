@@ -1,4 +1,4 @@
-# Web_scrapping
+# Web_scraping
 
 A feladat célja az volt, hogy a lokális (Szlovákia, Magyarország) munkaerőpiacon feltérképezzük,
 hogy mire van szüksége az alkalmazott informatikai végzős diákoknak,
